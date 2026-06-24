@@ -222,5 +222,13 @@
   {
     "id": "q-000063",
     "question": "¿Qué carrera ciclista se asocia al maillot amarillo?"
+  },
+  {
+    "id": "q-000065",
+    "question": "¿Cuántas cuerdas tiene normalmente una guitarra española clásica?"
+  },
+  {
+    "id": "q-000066",
+    "question": "¿Qué dispositivo se usa principalmente para introducir texto en un ordenador?"
   }
 ]
