@@ -1,0 +1,43 @@
+{
+  "id": "q-000006",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Francia?",
+  "answers": [
+    {
+      "text": "París",
+      "correct": true
+    },
+    {
+      "text": "Lyon",
+      "correct": false
+    },
+    {
+      "text": "Marsella",
+      "correct": false
+    },
+    {
+      "text": "Burdeos",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Francia es París.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Paris",
+      "url": "https://www.britannica.com/place/Paris"
+    }
+  ],
+  "tags": [
+    "francia",
+    "capitales",
+    "europa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
