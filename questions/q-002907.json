@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “Quién dirigió la película “Toy Story”””?",
+  "question": "Cuál sería la opción correcta si la pista fuera Quién dirigió la película Toy Story”””?",
   "answers": [
     {
       "text": "George Lucas",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Toy Story” fue dirigida por John Lasseter.",
+  "explanation": "Toy Story” fue dirigida por John Lasseter.",
   "sources": [
     {
       "title": "The Academy Awards",

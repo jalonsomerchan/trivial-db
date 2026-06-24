@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "easy",
-  "question": "¿Qué artista publicó el álbum “A Night at the Opera”?",
+  "question": "¿Qué artista publicó el álbum A Night at the Opera”?",
   "answers": [
     {
       "text": "Queen",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“A Night at the Opera” es un álbum de Queen.",
+  "explanation": "A Night at the Opera” es un álbum de Queen.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

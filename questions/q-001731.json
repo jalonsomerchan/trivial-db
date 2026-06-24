@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “Bodas de sangre”?",
+  "question": "¿Quién escribió Bodas de sangre”?",
   "answers": [
     {
       "text": "Franz Kafka",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Bodas de sangre” es una obra de Federico García Lorca.",
+  "explanation": "Bodas de sangre” es una obra de Federico García Lorca.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

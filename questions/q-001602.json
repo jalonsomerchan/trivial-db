@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "hard",
-  "question": "“Residencia en la tierra” pertenece principalmente al ámbito de...",
+  "question": "Residencia en la tierra” pertenece principalmente al ámbito de...",
   "answers": [
     {
       "text": "ensayo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Residencia en la tierra” se clasifica dentro de poesia.",
+  "explanation": "Residencia en la tierra” se clasifica dentro de poesia.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

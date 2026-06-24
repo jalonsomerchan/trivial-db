@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "“Qué obra fue escrita por Juan Rulfo. ¿Cuál es la respuesta”?",
+  "question": "Qué obra fue escrita por Juan Rulfo. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "Pedro Páramo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Juan Rulfo escribió “Pedro Páramo”.",
+  "explanation": "Juan Rulfo escribió Pedro Páramo”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

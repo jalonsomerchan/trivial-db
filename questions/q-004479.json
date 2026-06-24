@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de “espécimen”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de espécimen”?",
   "answers": [
     {
       "text": "especímenes",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “espécimen” es “especímenes”.",
+  "explanation": "El plural correcto de espécimen” es especímenes”.",
   "sources": [
     {
       "title": "Real Academia Española",

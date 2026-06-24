@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "medium",
-  "question": "“En qué deporte se usa el término “jaque mate””?",
+  "question": "En qué deporte se usa el término jaque mate””?",
   "answers": [
     {
       "text": "ajedrez",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “jaque mate” se usa en ajedrez.",
+  "explanation": "El término jaque mate” se usa en ajedrez.",
   "sources": [
     {
       "title": "International Olympic Committee",

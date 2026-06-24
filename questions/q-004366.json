@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es el plural correcto de “voz”?",
+  "question": "¿Cuál es el plural correcto de voz”?",
   "answers": [
     {
       "text": "doctores",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “voz” es “voces”.",
+  "explanation": "El plural correcto de voz” es voces”.",
   "sources": [
     {
       "title": "Real Academia Española",

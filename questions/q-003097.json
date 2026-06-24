@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "hard",
-  "question": "“Qué protocolo se asocia normalmente al puerto 3389”?",
+  "question": "Qué protocolo se asocia normalmente al puerto 3389”?",
   "answers": [
     {
       "text": "DNS",

@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "hard",
-  "question": "“Qué videojuego se asocia con Rockstar Games”?",
+  "question": "Qué videojuego se asocia con Rockstar Games”?",
   "answers": [
     {
       "text": "Grand Theft Auto III",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Rockstar Games desarrolló o publicó “Grand Theft Auto III”.",
+  "explanation": "Rockstar Games desarrolló o publicó Grand Theft Auto III”.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

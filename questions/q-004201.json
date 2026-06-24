@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "“Cuál es un sinónimo de “moderno””?",
+  "question": "Cuál es un sinónimo de moderno””?",
   "answers": [
     {
       "text": "actual",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“actual” es un sinónimo de “moderno”.",
+  "explanation": "actual” es un sinónimo de moderno”.",
   "sources": [
     {
       "title": "Real Academia Española",

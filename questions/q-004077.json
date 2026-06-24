@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "medium",
-  "question": "“Qué palabra lleva tilde correctamente: además, ademas, adémas”?",
+  "question": "Qué palabra lleva tilde correctamente: además, ademas, adémas”?",
   "answers": [
     {
       "text": "ademàs",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “además”.",
+  "explanation": "La palabra correctamente acentuada es además”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué compañía o creador desarrolló “The Witcher 3”?",
+  "question": "¿Qué compañía o creador desarrolló The Witcher 3”?",
   "answers": [
     {
       "text": "Blizzard Entertainment",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“The Witcher 3” se asocia con CD Projekt Red.",
+  "explanation": "The Witcher 3” se asocia con CD Projekt Red.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

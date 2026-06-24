@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es un sinónimo de “triste”?",
+  "question": "¿Cuál es un sinónimo de triste”?",
   "answers": [
     {
       "text": "extraño",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“apenado” es un sinónimo de “triste”.",
+  "explanation": "apenado” es un sinónimo de triste”.",
   "sources": [
     {
       "title": "Real Academia Española",

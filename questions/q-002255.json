@@ -7,7 +7,7 @@
     "futbol"
   ],
   "difficulty": "easy",
-  "question": "““En qué año ganó Alemania Federal el Mundial de fútbol jugado en Alemania Federal””?",
+  "question": "En qué año ganó Alemania Federal el Mundial de fútbol jugado en Alemania Federal””?",
   "answers": [
     {
       "text": "1954",

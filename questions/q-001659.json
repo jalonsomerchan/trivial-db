@@ -7,7 +7,7 @@
     "epica"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “La Ilíada”?",
+  "question": "¿Quién escribió La Ilíada”?",
   "answers": [
     {
       "text": "Lope de Vega",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“La Ilíada” es una obra de Homero.",
+  "explanation": "La Ilíada” es una obra de Homero.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

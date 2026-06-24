@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué palabra lleva tilde correctamente: público, publico, públíco”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Qué palabra lleva tilde correctamente: público, publico, públíco”?",
   "answers": [
     {
       "text": "públíco",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “público”.",
+  "explanation": "La palabra correctamente acentuada es público”.",
   "sources": [
     {
       "title": "Real Academia Española",

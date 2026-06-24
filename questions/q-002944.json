@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "hard",
-  "question": "“Qué película fue dirigida por Pete Docter en esta selección”?",
+  "question": "Qué película fue dirigida por Pete Docter en esta selección”?",
   "answers": [
     {
       "text": "Up",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Pete Docter dirigió “Up”.",
+  "explanation": "Pete Docter dirigió Up”.",
   "sources": [
     {
       "title": "The Academy Awards",

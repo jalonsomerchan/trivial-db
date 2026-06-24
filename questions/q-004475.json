@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a “verdadero”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a verdadero”?",
   "answers": [
     {
       "text": "calma",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“cierto” y “verdadero” tienen significado parecido.",
+  "explanation": "cierto” y verdadero” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

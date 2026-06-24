@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "“Qué código HTTP corresponde a “Internal Server Error””?",
+  "question": "Qué código HTTP corresponde a Internal Server Error””?",
   "answers": [
     {
       "text": "503",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Internal Server Error” corresponde al código HTTP 500.",
+  "explanation": "Internal Server Error” corresponde al código HTTP 500.",
   "sources": [
     {
       "title": "MDN Web Docs",

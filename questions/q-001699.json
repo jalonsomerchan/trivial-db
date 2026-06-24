@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: “Romeo y Julieta” pertenece principalmente al ámbito de...?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Romeo y Julieta” pertenece principalmente al ámbito de...?",
   "answers": [
     {
       "text": "teatro",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Romeo y Julieta” se clasifica dentro de teatro.",
+  "explanation": "Romeo y Julieta” se clasifica dentro de teatro.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

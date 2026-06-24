@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "¿Qué artista publicó el álbum “Corazón partío”?",
+  "question": "¿Qué artista publicó el álbum Corazón partío”?",
   "answers": [
     {
       "text": "Alejandro Sanz",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Corazón partío” es un álbum de Alejandro Sanz.",
+  "explanation": "Corazón partío” es un álbum de Alejandro Sanz.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

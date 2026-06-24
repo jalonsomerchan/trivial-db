@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "hard",
-  "question": "“El camino” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta?",
+  "question": "El camino” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "poesía",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El camino” se clasifica dentro de literatura.",
+  "explanation": "El camino” se clasifica dentro de literatura.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

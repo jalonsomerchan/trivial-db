@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se publicó el álbum “Blue”?",
+  "question": "¿En qué año se publicó el álbum Blue”?",
   "answers": [
     {
       "text": "1979",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El álbum “Blue” se publicó en 1971.",
+  "explanation": "El álbum Blue” se publicó en 1971.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué término gramatical corresponde a esta definición: “palabra que acompaña al sustantivo y concreta su referencia”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué término gramatical corresponde a esta definición: palabra que acompaña al sustantivo y concreta su referencia”?",
   "answers": [
     {
       "text": "determinante",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La definición corresponde a “determinante”.",
+  "explanation": "La definición corresponde a determinante”.",
   "sources": [
     {
       "title": "Real Academia Española",

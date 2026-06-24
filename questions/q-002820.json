@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "hard",
-  "question": "“Qué videojuego se asocia con Toby Fox”?",
+  "question": "Qué videojuego se asocia con Toby Fox”?",
   "answers": [
     {
       "text": "The Sims",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Toby Fox desarrolló o publicó “Undertale”.",
+  "explanation": "Toby Fox desarrolló o publicó Undertale”.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "“Qué palabra tiene un significado parecido a “erudito””?",
+  "question": "Qué palabra tiene un significado parecido a erudito””?",
   "answers": [
     {
       "text": "bajar",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“sabio” y “erudito” tienen significado parecido.",
+  "explanation": "sabio” y erudito” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

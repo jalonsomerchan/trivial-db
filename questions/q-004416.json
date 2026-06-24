@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de “vez”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de vez”?",
   "answers": [
     {
       "text": "jerséis",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “vez” es “veces”.",
+  "explanation": "El plural correcto de vez” es veces”.",
   "sources": [
     {
       "title": "Real Academia Española",

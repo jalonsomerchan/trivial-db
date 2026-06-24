@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “Regreso al futuro”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película Regreso al futuro”?",
   "answers": [
     {
       "text": "Robert Zemeckis",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Regreso al futuro” fue dirigida por Robert Zemeckis.",
+  "explanation": "Regreso al futuro” fue dirigida por Robert Zemeckis.",
   "sources": [
     {
       "title": "The Academy Awards",

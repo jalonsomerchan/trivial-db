@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película “Star Wars: Una nueva esperanza”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película Star Wars: Una nueva esperanza”?",
   "answers": [
     {
       "text": "Alejandro Amenábar",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Star Wars: Una nueva esperanza” fue dirigida por George Lucas.",
+  "explanation": "Star Wars: Una nueva esperanza” fue dirigida por George Lucas.",
   "sources": [
     {
       "title": "The Academy Awards",

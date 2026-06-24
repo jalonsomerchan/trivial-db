@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“En qué año se estrenó “Frozen””. ¿Cuál es la respuesta?",
+  "question": "En qué año se estrenó Frozen””. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "2001",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Frozen” se estrenó en 2013.",
+  "explanation": "Frozen” se estrenó en 2013.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué código HTTP corresponde a “I'm a teapot”?",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué código HTTP corresponde a I'm a teapot”?",
   "answers": [
     {
       "text": "418",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“I'm a teapot” corresponde al código HTTP 418.",
+  "explanation": "I'm a teapot” corresponde al código HTTP 418.",
   "sources": [
     {
       "title": "MDN Web Docs",

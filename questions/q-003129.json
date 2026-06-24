@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El código HTTP 500 corresponde a “Internal Server Error”.",
+  "explanation": "El código HTTP 500 corresponde a Internal Server Error”.",
   "sources": [
     {
       "title": "MDN Web Docs",

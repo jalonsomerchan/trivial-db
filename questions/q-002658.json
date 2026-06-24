@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué artista publicó el álbum “Omega”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué artista publicó el álbum Omega”?",
   "answers": [
     {
       "text": "Enrique Morente y Lagartija Nick",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Omega” es un álbum de Enrique Morente y Lagartija Nick.",
+  "explanation": "Omega” es un álbum de Enrique Morente y Lagartija Nick.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

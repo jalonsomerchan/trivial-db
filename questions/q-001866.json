@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "hard",
-  "question": "“En historia del arte, “Saturno devorando a su hijo” es una obra de...”?",
+  "question": "En historia del arte, Saturno devorando a su hijo” es una obra de...”?",
   "answers": [
     {
       "text": "Francisco de Goya",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La obra “Saturno devorando a su hijo” corresponde a Francisco de Goya.",
+  "explanation": "La obra Saturno devorando a su hijo” corresponde a Francisco de Goya.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

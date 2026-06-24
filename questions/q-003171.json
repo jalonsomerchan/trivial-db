@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "“Qué sigla corresponde a “unidad de procesamiento gráfico””?",
+  "question": "Qué sigla corresponde a unidad de procesamiento gráfico””?",
   "answers": [
     {
       "text": "GPU",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “unidad de procesamiento gráfico” es GPU.",
+  "explanation": "La sigla correspondiente a unidad de procesamiento gráfico” es GPU.",
   "sources": [
     {
       "title": "MDN Web Docs",

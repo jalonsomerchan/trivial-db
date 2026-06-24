@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "“Quién dirigió la película “Tiburón””?",
+  "question": "Quién dirigió la película Tiburón””?",
   "answers": [
     {
       "text": "Steven Spielberg",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Tiburón” fue dirigida por Steven Spielberg.",
+  "explanation": "Tiburón” fue dirigida por Steven Spielberg.",
   "sources": [
     {
       "title": "The Academy Awards",

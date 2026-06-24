@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "“Qué sigla corresponde a “red de área local””?",
+  "question": "Qué sigla corresponde a red de área local””?",
   "answers": [
     {
       "text": "API",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “red de área local” es LAN.",
+  "explanation": "La sigla correspondiente a red de área local” es LAN.",
   "sources": [
     {
       "title": "MDN Web Docs",

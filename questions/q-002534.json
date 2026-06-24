@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "“Quién dirigió la película “Volver””?",
+  "question": "Quién dirigió la película Volver””?",
   "answers": [
     {
       "text": "Guillermo del Toro",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Volver” fue dirigida por Pedro Almodóvar.",
+  "explanation": "Volver” fue dirigida por Pedro Almodóvar.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "“Quién escribió “Los santos inocentes”. ¿Cuál es la respuesta”?",
+  "question": "Quién escribió Los santos inocentes”. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "Gustave Flaubert",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Los santos inocentes” es una obra de Miguel Delibes.",
+  "explanation": "Los santos inocentes” es una obra de Miguel Delibes.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

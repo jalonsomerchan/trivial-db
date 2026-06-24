@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de “ira”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de ira”?",
   "answers": [
     {
       "text": "hermoso",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“enfado” es un sinónimo de “ira”.",
+  "explanation": "enfado” es un sinónimo de ira”.",
   "sources": [
     {
       "title": "Real Academia Española",

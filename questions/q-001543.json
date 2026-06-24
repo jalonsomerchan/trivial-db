@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "¿Qué artista pintó “Impresión, sol naciente”?",
+  "question": "¿Qué artista pintó Impresión, sol naciente”?",
   "answers": [
     {
       "text": "John Everett Millais",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Impresión, sol naciente” fue pintada por Claude Monet.",
+  "explanation": "Impresión, sol naciente” fue pintada por Claude Monet.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "¿Quién escribió “Crónica de una muerte anunciada”?",
+  "question": "¿Quién escribió Crónica de una muerte anunciada”?",
   "answers": [
     {
       "text": "Dante Alighieri",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Crónica de una muerte anunciada” es una obra de Gabriel García Márquez.",
+  "explanation": "Crónica de una muerte anunciada” es una obra de Gabriel García Márquez.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

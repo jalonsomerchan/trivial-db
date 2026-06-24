@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué código HTTP corresponde a “Bad Request”?",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué código HTTP corresponde a Bad Request”?",
   "answers": [
     {
       "text": "418",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Bad Request” corresponde al código HTTP 400.",
+  "explanation": "Bad Request” corresponde al código HTTP 400.",
   "sources": [
     {
       "title": "MDN Web Docs",

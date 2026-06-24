@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se lanzó originalmente “Minecraft”?",
+  "question": "¿En qué año se lanzó originalmente Minecraft”?",
   "answers": [
     {
       "text": "2011",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Minecraft” se lanzó originalmente en 2011.",
+  "explanation": "Minecraft” se lanzó originalmente en 2011.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

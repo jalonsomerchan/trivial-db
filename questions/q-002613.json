@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: En qué año se estrenó “Psicosis”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: En qué año se estrenó Psicosis”?",
   "answers": [
     {
       "text": "1960",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Psicosis” se estrenó en 1960.",
+  "explanation": "Psicosis” se estrenó en 1960.",
   "sources": [
     {
       "title": "The Academy Awards",

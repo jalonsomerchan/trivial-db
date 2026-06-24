@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “Pedro Páramo”?",
+  "question": "¿Quién escribió Pedro Páramo”?",
   "answers": [
     {
       "text": "Antonio Machado",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Pedro Páramo” es una obra de Juan Rulfo.",
+  "explanation": "Pedro Páramo” es una obra de Juan Rulfo.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

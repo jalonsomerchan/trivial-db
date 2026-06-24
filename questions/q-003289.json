@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "hard",
-  "question": "“Qué protocolo se asocia normalmente al puerto 445”?",
+  "question": "Qué protocolo se asocia normalmente al puerto 445”?",
   "answers": [
     {
       "text": "IMAP",

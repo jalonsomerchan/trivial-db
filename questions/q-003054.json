@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "medium",
-  "question": "“Qué puerto usa MQTT por defecto”?",
+  "question": "Qué puerto usa MQTT por defecto”?",
   "answers": [
     {
       "text": "23",

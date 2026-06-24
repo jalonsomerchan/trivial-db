@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué código HTTP corresponde a “Gateway Timeout”?",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué código HTTP corresponde a Gateway Timeout”?",
   "answers": [
     {
       "text": "204",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Gateway Timeout” corresponde al código HTTP 504.",
+  "explanation": "Gateway Timeout” corresponde al código HTTP 504.",
   "sources": [
     {
       "title": "MDN Web Docs",

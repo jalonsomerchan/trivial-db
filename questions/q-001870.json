@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "hard",
-  "question": "““La Divina Comedia” pertenece principalmente al ámbito de...”?",
+  "question": "La Divina Comedia” pertenece principalmente al ámbito de...”?",
   "answers": [
     {
       "text": "épica",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La Divina Comedia” se clasifica dentro de poesia.",
+  "explanation": "La Divina Comedia” se clasifica dentro de poesia.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

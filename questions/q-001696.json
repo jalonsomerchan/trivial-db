@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: “Las aventuras de Huckleberry Finn” pertenece principalmente al ámbito de...?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Las aventuras de Huckleberry Finn” pertenece principalmente al ámbito de...?",
   "answers": [
     {
       "text": "teatro",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Las aventuras de Huckleberry Finn” se clasifica dentro de literatura.",
+  "explanation": "Las aventuras de Huckleberry Finn” se clasifica dentro de literatura.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

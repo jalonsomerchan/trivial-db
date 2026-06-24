@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “Qué película fue dirigida por Lana y Lilly Wachowski en esta selección””?",
+  "question": "Cuál sería la opción correcta si la pista fuera Qué película fue dirigida por Lana y Lilly Wachowski en esta selección””?",
   "answers": [
     {
       "text": "Tiburón",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Lana y Lilly Wachowski dirigió “Matrix”.",
+  "explanation": "Lana y Lilly Wachowski dirigió Matrix”.",
   "sources": [
     {
       "title": "The Academy Awards",

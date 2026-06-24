@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “Qué película fue dirigida por Andrew Stanton en esta selección””?",
+  "question": "Cuál sería la opción correcta si la pista fuera Qué película fue dirigida por Andrew Stanton en esta selección””?",
   "answers": [
     {
       "text": "Los increíbles",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Andrew Stanton dirigió “Buscando a Nemo”.",
+  "explanation": "Andrew Stanton dirigió Buscando a Nemo”.",
   "sources": [
     {
       "title": "The Academy Awards",

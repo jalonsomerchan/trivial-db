@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural “leyes”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural leyes”?",
   "answers": [
     {
       "text": "ley",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “leyes” es “ley”.",
+  "explanation": "El singular de leyes” es ley”.",
   "sources": [
     {
       "title": "Real Academia Española",

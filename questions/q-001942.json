@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "“Qué cuadro se asocia con Pablo Picasso”?",
+  "question": "Qué cuadro se asocia con Pablo Picasso”?",
   "answers": [
     {
       "text": "El beso",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "Pablo Picasso es el autor de “Guernica”.",
+  "explanation": "Pablo Picasso es el autor de Guernica”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

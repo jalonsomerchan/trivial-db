@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué obra fue escrita por Lope de Vega”?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Qué obra fue escrita por Lope de Vega”?",
   "answers": [
     {
       "text": "El Aleph",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Lope de Vega escribió “Fuenteovejuna”.",
+  "explanation": "Lope de Vega escribió Fuenteovejuna”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

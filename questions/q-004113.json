@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "“Cuál es un sinónimo de “comprar””?",
+  "question": "Cuál es un sinónimo de comprar””?",
   "answers": [
     {
       "text": "adquirir",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“adquirir” es un sinónimo de “comprar”.",
+  "explanation": "adquirir” es un sinónimo de comprar”.",
   "sources": [
     {
       "title": "Real Academia Española",

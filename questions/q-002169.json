@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "medium",
-  "question": "“En qué deporte se usa el término “kumi-kata””?",
+  "question": "En qué deporte se usa el término kumi-kata””?",
   "answers": [
     {
       "text": "judo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “kumi-kata” se usa en judo.",
+  "explanation": "El término kumi-kata” se usa en judo.",
   "sources": [
     {
       "title": "International Olympic Committee",

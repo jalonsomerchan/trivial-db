@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "¿Qué palabra tiene un significado parecido a “incorrecto”?",
+  "question": "¿Qué palabra tiene un significado parecido a incorrecto”?",
   "answers": [
     {
       "text": "lento",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“falso” y “incorrecto” tienen significado parecido.",
+  "explanation": "falso” y incorrecto” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

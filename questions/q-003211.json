@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "easy",
-  "question": "“Para qué se usa principalmente Redis”?",
+  "question": "Para qué se usa principalmente Redis”?",
   "answers": [
     {
       "text": "acceso remoto no cifrado",

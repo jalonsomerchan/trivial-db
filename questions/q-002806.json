@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "easy",
-  "question": "¿Qué compañía o creador desarrolló “Silent Hill”?",
+  "question": "¿Qué compañía o creador desarrolló Silent Hill”?",
   "answers": [
     {
       "text": "Konami",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Silent Hill” se asocia con Konami.",
+  "explanation": "Silent Hill” se asocia con Konami.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

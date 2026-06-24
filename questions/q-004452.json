@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es el plural correcto de “ley”?",
+  "question": "¿Cuál es el plural correcto de ley”?",
   "answers": [
     {
       "text": "jóvenes",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El plural correcto de “ley” es “leyes”.",
+  "explanation": "El plural correcto de ley” es leyes”.",
   "sources": [
     {
       "title": "Real Academia Española",

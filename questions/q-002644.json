@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "En qué año se estrenó “Casablanca”. ¿Cuál es la respuesta?",
+  "question": "En qué año se estrenó Casablanca”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "1942",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Casablanca” se estrenó en 1942.",
+  "explanation": "Casablanca” se estrenó en 1942.",
   "sources": [
     {
       "title": "The Academy Awards",

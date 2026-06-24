@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "easy",
-  "question": "En deporte, ¿qué opción responde correctamente a esta pista: En qué deporte se usa el término “córner”?",
+  "question": "En deporte, ¿qué opción responde correctamente a esta pista: En qué deporte se usa el término córner”?",
   "answers": [
     {
       "text": "cricket",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “córner” se usa en fútbol.",
+  "explanation": "El término córner” se usa en fútbol.",
   "sources": [
     {
       "title": "International Olympic Committee",

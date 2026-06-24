@@ -7,14 +7,14 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Quién escribió “Ficciones””?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Quién escribió Ficciones””?",
   "answers": [
     {
       "text": "Virgilio",
       "correct": false
     },
     {
-      "text": "Leopoldo Alas “Clarín”",
+      "text": "Leopoldo Alas Clarín”",
       "correct": false
     },
     {
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Ficciones” es una obra de Jorge Luis Borges.",
+  "explanation": "Ficciones” es una obra de Jorge Luis Borges.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

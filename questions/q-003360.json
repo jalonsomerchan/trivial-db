@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "“Qué código HTTP corresponde a “Found””?",
+  "question": "Qué código HTTP corresponde a Found””?",
   "answers": [
     {
       "text": "302",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Found” corresponde al código HTTP 302.",
+  "explanation": "Found” corresponde al código HTTP 302.",
   "sources": [
     {
       "title": "MDN Web Docs",

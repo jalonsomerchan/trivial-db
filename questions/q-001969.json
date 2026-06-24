@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "hard",
-  "question": "En historia del arte, “Impresión, sol naciente” es una obra de...",
+  "question": "En historia del arte, Impresión, sol naciente” es una obra de...",
   "answers": [
     {
       "text": "Leonardo da Vinci",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La obra “Impresión, sol naciente” corresponde a Claude Monet.",
+  "explanation": "La obra Impresión, sol naciente” corresponde a Claude Monet.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

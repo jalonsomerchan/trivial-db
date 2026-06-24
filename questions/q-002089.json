@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "medium",
-  "question": "En deporte, ¿qué opción responde correctamente a esta pista: En qué deporte se usa el término “strikeout”?",
+  "question": "En deporte, ¿qué opción responde correctamente a esta pista: En qué deporte se usa el término strikeout”?",
   "answers": [
     {
       "text": "béisbol",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “strikeout” se usa en béisbol.",
+  "explanation": "El término strikeout” se usa en béisbol.",
   "sources": [
     {
       "title": "International Olympic Committee",

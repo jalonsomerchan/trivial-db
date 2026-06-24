@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a “trayecto”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a trayecto”?",
   "answers": [
     {
       "text": "oscuridad",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“viaje” y “trayecto” tienen significado parecido.",
+  "explanation": "viaje” y trayecto” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

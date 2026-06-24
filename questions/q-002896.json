@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "Quién dirigió la película “Kill Bill: Volumen 1”. ¿Cuál es la respuesta?",
+  "question": "Quién dirigió la película Kill Bill: Volumen 1”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Jonathan Demme",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Kill Bill: Volumen 1” fue dirigida por Quentin Tarantino.",
+  "explanation": "Kill Bill: Volumen 1” fue dirigida por Quentin Tarantino.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "medium",
-  "question": "“Qué palabra lleva tilde correctamente: música, musica, músíca”?",
+  "question": "Qué palabra lleva tilde correctamente: música, musica, músíca”?",
   "answers": [
     {
       "text": "música",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “música”.",
+  "explanation": "La palabra correctamente acentuada es música”.",
   "sources": [
     {
       "title": "Real Academia Española",

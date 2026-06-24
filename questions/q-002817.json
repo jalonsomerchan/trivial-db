@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "¿Quién dirigió la película “Buscando a Nemo”. ¿Cuál es la respuesta?",
+  "question": "¿Quién dirigió la película Buscando a Nemo”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Peter Jackson",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Buscando a Nemo” fue dirigida por Andrew Stanton.",
+  "explanation": "Buscando a Nemo” fue dirigida por Andrew Stanton.",
   "sources": [
     {
       "title": "The Academy Awards",

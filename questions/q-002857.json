@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿Quién dirigió la película “Mar adentro”?",
+  "question": "¿Quién dirigió la película Mar adentro”?",
   "answers": [
     {
       "text": "Luis García Berlanga",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Mar adentro” fue dirigida por Alejandro Amenábar.",
+  "explanation": "Mar adentro” fue dirigida por Alejandro Amenábar.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se lanzó originalmente “Red Dead Redemption”?",
+  "question": "¿En qué año se lanzó originalmente Red Dead Redemption”?",
   "answers": [
     {
       "text": "2010",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Red Dead Redemption” se lanzó originalmente en 2010.",
+  "explanation": "Red Dead Redemption” se lanzó originalmente en 2010.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

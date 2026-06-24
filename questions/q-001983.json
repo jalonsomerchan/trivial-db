@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "“Qué obra fue escrita por Leandro Fernández de Moratín. ¿Cuál es la respuesta”?",
+  "question": "Qué obra fue escrita por Leandro Fernández de Moratín. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "1984",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Leandro Fernández de Moratín escribió “El sí de las niñas”.",
+  "explanation": "Leandro Fernández de Moratín escribió El sí de las niñas”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

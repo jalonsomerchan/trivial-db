@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Quién dirigió la película “Los increíbles””. ¿Cuál es la respuesta?",
+  "question": "Quién dirigió la película Los increíbles””. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Hayao Miyazaki",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Los increíbles” fue dirigida por Brad Bird.",
+  "explanation": "Los increíbles” fue dirigida por Brad Bird.",
   "sources": [
     {
       "title": "The Academy Awards",

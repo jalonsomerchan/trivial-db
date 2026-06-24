@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "“Qué singular corresponde al plural “currículos””?",
+  "question": "Qué singular corresponde al plural currículos””?",
   "answers": [
     {
       "text": "lápiz",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “currículos” es “currículum”.",
+  "explanation": "El singular de currículos” es currículum”.",
   "sources": [
     {
       "title": "Real Academia Española",

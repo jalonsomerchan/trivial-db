@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "¿Quién dirigió la película “Toy Story”?",
+  "question": "¿Quién dirigió la película Toy Story”?",
   "answers": [
     {
       "text": "Luis García Berlanga",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Toy Story” fue dirigida por John Lasseter.",
+  "explanation": "Toy Story” fue dirigida por John Lasseter.",
   "sources": [
     {
       "title": "The Academy Awards",

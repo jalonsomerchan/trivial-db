@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Para un trivial de arte y literatura, completa la respuesta correcta: “El sí de las niñas” pertenece principalmente al ámbito de...?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Para un trivial de arte y literatura, completa la respuesta correcta: El sí de las niñas” pertenece principalmente al ámbito de...?",
   "answers": [
     {
       "text": "ensayo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El sí de las niñas” se clasifica dentro de teatro.",
+  "explanation": "El sí de las niñas” se clasifica dentro de teatro.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “La forma del agua”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película La forma del agua”?",
   "answers": [
     {
       "text": "Pedro Almodóvar",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“La forma del agua” fue dirigida por Guillermo del Toro.",
+  "explanation": "La forma del agua” fue dirigida por Guillermo del Toro.",
   "sources": [
     {
       "title": "The Academy Awards",

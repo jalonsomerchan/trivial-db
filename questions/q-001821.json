@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “El gran Gatsby”?",
+  "question": "¿Quién escribió El gran Gatsby”?",
   "answers": [
     {
       "text": "Laura Esquivel",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El gran Gatsby” es una obra de F. Scott Fitzgerald.",
+  "explanation": "El gran Gatsby” es una obra de F. Scott Fitzgerald.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

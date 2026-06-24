@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió “Romeo y Julieta”?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió Romeo y Julieta”?",
   "answers": [
     {
       "text": "Carlos Fuentes",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Romeo y Julieta” es una obra de William Shakespeare.",
+  "explanation": "Romeo y Julieta” es una obra de William Shakespeare.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué palabra lleva tilde correctamente: ordenador, órdenador, ordenadór”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Qué palabra lleva tilde correctamente: ordenador, órdenador, ordenadór”?",
   "answers": [
     {
       "text": "ordenador",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “ordenador”.",
+  "explanation": "La palabra correctamente acentuada es ordenador”.",
   "sources": [
     {
       "title": "Real Academia Española",

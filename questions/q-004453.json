@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural “cafés”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural cafés”?",
   "answers": [
     {
       "text": "bisturí",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “cafés” es “café”.",
+  "explanation": "El singular de cafés” es café”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "hard",
-  "question": "Qué singular corresponde al plural “reyes”. ¿Cuál es la respuesta?",
+  "question": "Qué singular corresponde al plural reyes”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "café",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “reyes” es “rey”.",
+  "explanation": "El singular de reyes” es rey”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió “Rayuela”?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió Rayuela”?",
   "answers": [
     {
       "text": "Julio Cortázar",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Rayuela” es una obra de Julio Cortázar.",
+  "explanation": "Rayuela” es una obra de Julio Cortázar.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

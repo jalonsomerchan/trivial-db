@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "Quién escribió “Rebelión en la granja”. ¿Cuál es la respuesta?",
+  "question": "Quién escribió Rebelión en la granja”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Gustave Flaubert",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Rebelión en la granja” es una obra de George Orwell.",
+  "explanation": "Rebelión en la granja” es una obra de George Orwell.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

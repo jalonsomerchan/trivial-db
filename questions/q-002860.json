@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se estrenó “Mi vecino Totoro”?",
+  "question": "¿En qué año se estrenó Mi vecino Totoro”?",
   "answers": [
     {
       "text": "1988",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Mi vecino Totoro” se estrenó en 1988.",
+  "explanation": "Mi vecino Totoro” se estrenó en 1988.",
   "sources": [
     {
       "title": "The Academy Awards",

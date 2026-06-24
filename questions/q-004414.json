@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué singular corresponde al plural “canciones”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué singular corresponde al plural canciones”?",
   "answers": [
     {
       "text": "carácter",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El singular de “canciones” es “canción”.",
+  "explanation": "El singular de canciones” es canción”.",
   "sources": [
     {
       "title": "Real Academia Española",

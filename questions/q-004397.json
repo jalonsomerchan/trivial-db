@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué término gramatical corresponde a esta definición: “palabra con significado opuesto”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué término gramatical corresponde a esta definición: palabra con significado opuesto”?",
   "answers": [
     {
       "text": "polisémica",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La definición corresponde a “antónimo”.",
+  "explanation": "La definición corresponde a antónimo”.",
   "sources": [
     {
       "title": "Real Academia Española",

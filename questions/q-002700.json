@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “En qué año se estrenó “Up”””?",
+  "question": "Cuál sería la opción correcta si la pista fuera En qué año se estrenó Up”””?",
   "answers": [
     {
       "text": "1999",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Up” se estrenó en 2009.",
+  "explanation": "Up” se estrenó en 2009.",
   "sources": [
     {
       "title": "The Academy Awards",

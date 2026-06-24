@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural “difíciles”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural difíciles”?",
   "answers": [
     {
       "text": "camión",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “difíciles” es “difícil”.",
+  "explanation": "El singular de difíciles” es difícil”.",
   "sources": [
     {
       "title": "Real Academia Española",

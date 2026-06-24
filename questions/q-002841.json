@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "hard",
-  "question": "“Qué videojuego se asocia con Capcom”?",
+  "question": "Qué videojuego se asocia con Capcom”?",
   "answers": [
     {
       "text": "Diablo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Capcom desarrolló o publicó “Resident Evil”.",
+  "explanation": "Capcom desarrolló o publicó Resident Evil”.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

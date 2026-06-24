@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “En qué año se estrenó “Seven”””?",
+  "question": "Cuál sería la opción correcta si la pista fuera En qué año se estrenó Seven”””?",
   "answers": [
     {
       "text": "1995",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Seven” se estrenó en 1995.",
+  "explanation": "Seven” se estrenó en 1995.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de “jersey”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de jersey”?",
   "answers": [
     {
       "text": "jerséis",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “jersey” es “jerséis”.",
+  "explanation": "El plural correcto de jersey” es jerséis”.",
   "sources": [
     {
       "title": "Real Academia Española",

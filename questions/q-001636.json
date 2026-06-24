@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "hard",
-  "question": "“Anna Karénina” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta?",
+  "question": "Anna Karénina” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "literatura",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Anna Karénina” se clasifica dentro de literatura.",
+  "explanation": "Anna Karénina” se clasifica dentro de literatura.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "Cuál es el plural correcto de “café”. ¿Cuál es la respuesta?",
+  "question": "Cuál es el plural correcto de café”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "cafés",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “café” es “cafés”.",
+  "explanation": "El plural correcto de café” es cafés”.",
   "sources": [
     {
       "title": "Real Academia Española",

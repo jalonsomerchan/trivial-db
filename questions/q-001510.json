@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "hard",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: En historia del arte, “American Gothic” es una obra de...?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: En historia del arte, American Gothic” es una obra de...?",
   "answers": [
     {
       "text": "El Bosco",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La obra “American Gothic” corresponde a Grant Wood.",
+  "explanation": "La obra American Gothic” corresponde a Grant Wood.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra tiene un significado parecido a “compañero”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra tiene un significado parecido a compañero”?",
   "answers": [
     {
       "text": "amigo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“amigo” y “compañero” tienen significado parecido.",
+  "explanation": "amigo” y compañero” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

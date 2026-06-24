@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El código HTTP 504 corresponde a “Gateway Timeout”.",
+  "explanation": "El código HTTP 504 corresponde a Gateway Timeout”.",
   "sources": [
     {
       "title": "MDN Web Docs",

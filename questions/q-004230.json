@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "“Qué singular corresponde al plural “aviones””?",
+  "question": "Qué singular corresponde al plural aviones””?",
   "answers": [
     {
       "text": "avión",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “aviones” es “avión”.",
+  "explanation": "El singular de aviones” es avión”.",
   "sources": [
     {
       "title": "Real Academia Española",

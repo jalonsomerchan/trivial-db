@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "¿Qué código HTTP corresponde a “Created”?",
+  "question": "¿Qué código HTTP corresponde a Created”?",
   "answers": [
     {
       "text": "201",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Created” corresponde al código HTTP 201.",
+  "explanation": "Created” corresponde al código HTTP 201.",
   "sources": [
     {
       "title": "MDN Web Docs",

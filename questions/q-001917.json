@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué obra fue escrita por Ramón María del Valle-Inclán”?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Qué obra fue escrita por Ramón María del Valle-Inclán”?",
   "answers": [
     {
       "text": "El sí de las niñas",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Ramón María del Valle-Inclán escribió “Luces de bohemia”.",
+  "explanation": "Ramón María del Valle-Inclán escribió Luces de bohemia”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "hard",
-  "question": "“Qué término pertenece al vocabulario de cricket”?",
+  "question": "Qué término pertenece al vocabulario de cricket”?",
   "answers": [
     {
       "text": "córner",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“wicket” forma parte del vocabulario de cricket.",
+  "explanation": "wicket” forma parte del vocabulario de cricket.",
   "sources": [
     {
       "title": "International Olympic Committee",

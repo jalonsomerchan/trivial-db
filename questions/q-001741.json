@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "“““Luces de bohemia” pertenece principalmente al ámbito de...””?",
+  "question": "Luces de bohemia” pertenece principalmente al ámbito de...””?",
   "answers": [
     {
       "text": "épica",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Luces de bohemia” se clasifica dentro de teatro.",
+  "explanation": "Luces de bohemia” se clasifica dentro de teatro.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

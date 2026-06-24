@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Quién escribió “Don Quijote de la Mancha”?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Quién escribió Don Quijote de la Mancha”?",
   "answers": [
     {
       "text": "Laura Esquivel",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Don Quijote de la Mancha” es una obra de Miguel de Cervantes.",
+  "explanation": "Don Quijote de la Mancha” es una obra de Miguel de Cervantes.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué compañía o creador desarrolló “Chrono Trigger”?",
+  "question": "¿Qué compañía o creador desarrolló Chrono Trigger”?",
   "answers": [
     {
       "text": "Square",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Chrono Trigger” se asocia con Square.",
+  "explanation": "Chrono Trigger” se asocia con Square.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

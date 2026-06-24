@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "“Qué artista pintó “La joven de la perla””?",
+  "question": "Qué artista pintó La joven de la perla””?",
   "answers": [
     {
       "text": "Rembrandt",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“La joven de la perla” fue pintada por Johannes Vermeer.",
+  "explanation": "La joven de la perla” fue pintada por Johannes Vermeer.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

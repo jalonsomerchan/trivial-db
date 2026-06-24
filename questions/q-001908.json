@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "medium",
-  "question": "“Qué obra fue escrita por William Shakespeare”?",
+  "question": "Qué obra fue escrita por William Shakespeare”?",
   "answers": [
     {
       "text": "Hamlet",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "William Shakespeare escribió “Hamlet”.",
+  "explanation": "William Shakespeare escribió Hamlet”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

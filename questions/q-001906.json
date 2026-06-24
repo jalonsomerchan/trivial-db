@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "“Qué cuadro se asocia con John Everett Millais”?",
+  "question": "Qué cuadro se asocia con John Everett Millais”?",
   "answers": [
     {
       "text": "Ofelia",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "John Everett Millais es el autor de “Ofelia”.",
+  "explanation": "John Everett Millais es el autor de Ofelia”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

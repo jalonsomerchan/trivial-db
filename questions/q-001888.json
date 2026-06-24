@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "Quién escribió “Crimen y castigo”. ¿Cuál es la respuesta?",
+  "question": "Quién escribió Crimen y castigo”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Fiódor Dostoievski",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Crimen y castigo” es una obra de Fiódor Dostoievski.",
+  "explanation": "Crimen y castigo” es una obra de Fiódor Dostoievski.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

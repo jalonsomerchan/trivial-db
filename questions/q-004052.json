@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "¿Qué término gramatical corresponde a esta definición: “palabra que nombra personas, animales, cosas o ideas”?",
+  "question": "¿Qué término gramatical corresponde a esta definición: palabra que nombra personas, animales, cosas o ideas”?",
   "answers": [
     {
       "text": "sustantivo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La definición corresponde a “sustantivo”.",
+  "explanation": "La definición corresponde a sustantivo”.",
   "sources": [
     {
       "title": "Real Academia Española",

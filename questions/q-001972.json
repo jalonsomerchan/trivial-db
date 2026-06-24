@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién compuso “Boléro”?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién compuso Boléro”?",
   "answers": [
     {
       "text": "Gioachino Rossini",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Boléro” fue compuesta por Maurice Ravel.",
+  "explanation": "Boléro” fue compuesta por Maurice Ravel.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

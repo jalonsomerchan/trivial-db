@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "hard",
-  "question": "“Qué singular corresponde al plural “convoyes”. ¿Cuál es la respuesta”?",
+  "question": "Qué singular corresponde al plural convoyes”. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "tabú",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El singular de “convoyes” es “convoy”.",
+  "explanation": "El singular de convoyes” es convoy”.",
   "sources": [
     {
       "title": "Real Academia Española",

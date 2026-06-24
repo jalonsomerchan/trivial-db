@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "Quién compuso “Las cuatro estaciones”. ¿Cuál es la respuesta?",
+  "question": "Quién compuso Las cuatro estaciones”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Johann Sebastian Bach",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Las cuatro estaciones” fue compuesta por Antonio Vivaldi.",
+  "explanation": "Las cuatro estaciones” fue compuesta por Antonio Vivaldi.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

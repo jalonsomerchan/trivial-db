@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué compañía o creador desarrolló “Grand Theft Auto III”?",
+  "question": "¿Qué compañía o creador desarrolló Grand Theft Auto III”?",
   "answers": [
     {
       "text": "Santa Monica Studio",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Grand Theft Auto III” se asocia con Rockstar Games.",
+  "explanation": "Grand Theft Auto III” se asocia con Rockstar Games.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "“En qué año se estrenó “Cinema Paradiso””?",
+  "question": "En qué año se estrenó Cinema Paradiso””?",
   "answers": [
     {
       "text": "2006",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Cinema Paradiso” se estrenó en 1988.",
+  "explanation": "Cinema Paradiso” se estrenó en 1988.",
   "sources": [
     {
       "title": "The Academy Awards",

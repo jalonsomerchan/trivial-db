@@ -7,7 +7,7 @@
     "epica"
   ],
   "difficulty": "hard",
-  "question": "“La Odisea” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta?",
+  "question": "La Odisea” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "ensayo",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“La Odisea” se clasifica dentro de epica.",
+  "explanation": "La Odisea” se clasifica dentro de epica.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

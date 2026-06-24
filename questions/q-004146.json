@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "“Qué palabra tiene un significado parecido a “adquirir””?",
+  "question": "Qué palabra tiene un significado parecido a adquirir””?",
   "answers": [
     {
       "text": "historia",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“comprar” y “adquirir” tienen significado parecido.",
+  "explanation": "comprar” y adquirir” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "Cuál es el plural correcto de “león”. ¿Cuál es la respuesta?",
+  "question": "Cuál es el plural correcto de león”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "luces",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “león” es “leones”.",
+  "explanation": "El plural correcto de león” es leones”.",
   "sources": [
     {
       "title": "Real Academia Española",

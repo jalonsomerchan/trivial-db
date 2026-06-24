@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es el plural correcto de “rubí”?",
+  "question": "¿Cuál es el plural correcto de rubí”?",
   "answers": [
     {
       "text": "rubíes",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “rubí” es “rubíes”.",
+  "explanation": "El plural correcto de rubí” es rubíes”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "“Qué sigla corresponde a “unidad de estado sólido””?",
+  "question": "Qué sigla corresponde a unidad de estado sólido””?",
   "answers": [
     {
       "text": "GPU",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “unidad de estado sólido” es SSD.",
+  "explanation": "La sigla correspondiente a unidad de estado sólido” es SSD.",
   "sources": [
     {
       "title": "MDN Web Docs",

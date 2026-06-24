@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "¿Quién escribió “Otelo”?",
+  "question": "¿Quién escribió Otelo”?",
   "answers": [
     {
       "text": "William Shakespeare",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Otelo” es una obra de William Shakespeare.",
+  "explanation": "Otelo” es una obra de William Shakespeare.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

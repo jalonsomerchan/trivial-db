@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Cuál es un sinónimo de “valiente”. ¿Cuál es la respuesta?",
+  "question": "Cuál es un sinónimo de valiente”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "energía",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“audaz” es un sinónimo de “valiente”.",
+  "explanation": "audaz” es un sinónimo de valiente”.",
   "sources": [
     {
       "title": "Real Academia Española",

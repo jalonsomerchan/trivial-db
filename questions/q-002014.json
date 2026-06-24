@@ -7,7 +7,7 @@
     "futbol"
   ],
   "difficulty": "easy",
-  "question": "““En qué año ganó Alemania Federal el Mundial de fútbol jugado en Suiza””?",
+  "question": "En qué año ganó Alemania Federal el Mundial de fútbol jugado en Suiza””?",
   "answers": [
     {
       "text": "1954",

@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es un sinónimo de “fuerza”?",
+  "question": "¿Cuál es un sinónimo de fuerza”?",
   "answers": [
     {
       "text": "pausado",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“energía” es un sinónimo de “fuerza”.",
+  "explanation": "energía” es un sinónimo de fuerza”.",
   "sources": [
     {
       "title": "Real Academia Española",

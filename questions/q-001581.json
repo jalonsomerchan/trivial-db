@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió “Niebla”?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió Niebla”?",
   "answers": [
     {
       "text": "Juan Rulfo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Niebla” es una obra de Miguel de Unamuno.",
+  "explanation": "Niebla” es una obra de Miguel de Unamuno.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

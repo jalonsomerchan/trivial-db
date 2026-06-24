@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "Qué palabra tiene un significado parecido a “tiniebla”. ¿Cuál es la respuesta?",
+  "question": "Qué palabra tiene un significado parecido a tiniebla”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "oscuridad",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“oscuridad” y “tiniebla” tienen significado parecido.",
+  "explanation": "oscuridad” y tiniebla” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

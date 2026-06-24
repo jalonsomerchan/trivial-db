@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "hard",
-  "question": "“Qué término pertenece al vocabulario de esquí alpino”?",
+  "question": "Qué término pertenece al vocabulario de esquí alpino”?",
   "answers": [
     {
       "text": "safety car",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“slalom” forma parte del vocabulario de esquí alpino.",
+  "explanation": "slalom” forma parte del vocabulario de esquí alpino.",
   "sources": [
     {
       "title": "International Olympic Committee",

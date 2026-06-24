@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "“Qué sigla corresponde a “red de área amplia””?",
+  "question": "Qué sigla corresponde a red de área amplia””?",
   "answers": [
     {
       "text": "TCP",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “red de área amplia” es WAN.",
+  "explanation": "La sigla correspondiente a red de área amplia” es WAN.",
   "sources": [
     {
       "title": "MDN Web Docs",

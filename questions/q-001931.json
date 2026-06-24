@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: En historia del arte, “El beso” es una obra de...?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: En historia del arte, El beso” es una obra de...?",
   "answers": [
     {
       "text": "Francisco de Goya",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La obra “El beso” corresponde a Gustav Klimt.",
+  "explanation": "La obra El beso” corresponde a Gustav Klimt.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

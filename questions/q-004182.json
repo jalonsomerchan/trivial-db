@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "“ciudad, cíudad, ciudád. ¿Cuál es la respuesta”?",
+  "question": "ciudad, cíudad, ciudád. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "cíudad",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “ciudad”.",
+  "explanation": "La palabra correctamente acentuada es ciudad”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "medium",
-  "question": "“Qué puerto usa SMTP por defecto”?",
+  "question": "Qué puerto usa SMTP por defecto”?",
   "answers": [
     {
       "text": "22",

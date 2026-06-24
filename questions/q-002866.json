@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "easy",
-  "question": "¿Qué artista publicó el álbum “Sgt. Pepper’s Lonely Hearts Club Band”?",
+  "question": "¿Qué artista publicó el álbum Sgt. Pepper’s Lonely Hearts Club Band”?",
   "answers": [
     {
       "text": "Eagles",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Sgt. Pepper’s Lonely Hearts Club Band” es un álbum de The Beatles.",
+  "explanation": "Sgt. Pepper’s Lonely Hearts Club Band” es un álbum de The Beatles.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

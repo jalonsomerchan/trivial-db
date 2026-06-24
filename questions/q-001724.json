@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “Ulises”?",
+  "question": "¿Quién escribió Ulises”?",
   "answers": [
     {
       "text": "Pablo Neruda",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Ulises” es una obra de James Joyce.",
+  "explanation": "Ulises” es una obra de James Joyce.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

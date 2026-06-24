@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "“En qué año se lanzó originalmente “Elden Ring””?",
+  "question": "En qué año se lanzó originalmente Elden Ring””?",
   "answers": [
     {
       "text": "2022",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Elden Ring” se lanzó originalmente en 2022.",
+  "explanation": "Elden Ring” se lanzó originalmente en 2022.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

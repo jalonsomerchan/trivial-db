@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “San Manuel Bueno, mártir”?",
+  "question": "¿Quién escribió San Manuel Bueno, mártir”?",
   "answers": [
     {
       "text": "Virgilio",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“San Manuel Bueno, mártir” es una obra de Miguel de Unamuno.",
+  "explanation": "San Manuel Bueno, mártir” es una obra de Miguel de Unamuno.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

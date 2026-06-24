@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué sigla corresponde a “mapeo objeto-relacional”?",
+  "question": "¿Qué sigla corresponde a mapeo objeto-relacional”?",
   "answers": [
     {
       "text": "ORM",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “mapeo objeto-relacional” es ORM.",
+  "explanation": "La sigla correspondiente a mapeo objeto-relacional” es ORM.",
   "sources": [
     {
       "title": "MDN Web Docs",

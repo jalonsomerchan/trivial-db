@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "“Cuál es el plural correcto de “canción””?",
+  "question": "Cuál es el plural correcto de canción””?",
   "answers": [
     {
       "text": "canciones",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “canción” es “canciones”.",
+  "explanation": "El plural correcto de canción” es canciones”.",
   "sources": [
     {
       "title": "Real Academia Española",

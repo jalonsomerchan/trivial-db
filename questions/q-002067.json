@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "hard",
-  "question": "“Qué término pertenece al vocabulario de automovilismo”?",
+  "question": "Qué término pertenece al vocabulario de automovilismo”?",
   "answers": [
     {
       "text": "pole position",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“pole position” forma parte del vocabulario de automovilismo.",
+  "explanation": "pole position” forma parte del vocabulario de automovilismo.",
   "sources": [
     {
       "title": "International Olympic Committee",

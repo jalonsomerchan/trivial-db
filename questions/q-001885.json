@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "easy",
-  "question": "¿Qué artista pintó “Las señoritas de Aviñón”?",
+  "question": "¿Qué artista pintó Las señoritas de Aviñón”?",
   "answers": [
     {
       "text": "John Everett Millais",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Las señoritas de Aviñón” fue pintada por Pablo Picasso.",
+  "explanation": "Las señoritas de Aviñón” fue pintada por Pablo Picasso.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

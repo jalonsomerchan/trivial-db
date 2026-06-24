@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Según la posición de la sílaba tónica, ¿qué tipo de palabra es “lápiz”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Según la posición de la sílaba tónica, ¿qué tipo de palabra es lápiz”?",
   "answers": [
     {
       "text": "llana",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“lápiz” es una palabra llana.",
+  "explanation": "lápiz” es una palabra llana.",
   "sources": [
     {
       "title": "Real Academia Española",

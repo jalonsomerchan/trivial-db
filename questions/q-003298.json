@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "¿Qué código HTTP corresponde a “OK”?",
+  "question": "¿Qué código HTTP corresponde a OK”?",
   "answers": [
     {
       "text": "409",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“OK” corresponde al código HTTP 200.",
+  "explanation": "OK” corresponde al código HTTP 200.",
   "sources": [
     {
       "title": "MDN Web Docs",

@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es el plural correcto de “mes”?",
+  "question": "¿Cuál es el plural correcto de mes”?",
   "answers": [
     {
       "text": "meses",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “mes” es “meses”.",
+  "explanation": "El plural correcto de mes” es meses”.",
   "sources": [
     {
       "title": "Real Academia Española",

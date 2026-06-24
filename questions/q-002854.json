@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Qué película fue dirigida por Roberto Benigni en esta selección”. ¿Cuál es la respuesta?",
+  "question": "Qué película fue dirigida por Roberto Benigni en esta selección”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Roma",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Roberto Benigni dirigió “La vida es bella”.",
+  "explanation": "Roberto Benigni dirigió La vida es bella”.",
   "sources": [
     {
       "title": "The Academy Awards",

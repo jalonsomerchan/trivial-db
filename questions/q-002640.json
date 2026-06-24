@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "hard",
-  "question": "“Qué videojuego se asocia con Taito”?",
+  "question": "Qué videojuego se asocia con Taito”?",
   "answers": [
     {
       "text": "Dark Souls",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Taito desarrolló o publicó “Space Invaders”.",
+  "explanation": "Taito desarrolló o publicó Space Invaders”.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

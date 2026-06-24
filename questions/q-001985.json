@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "Quién escribió “El sí de las niñas”. ¿Cuál es la respuesta?",
+  "question": "Quién escribió El sí de las niñas”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Pedro Calderón de la Barca",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“El sí de las niñas” es una obra de Leandro Fernández de Moratín.",
+  "explanation": "El sí de las niñas” es una obra de Leandro Fernández de Moratín.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

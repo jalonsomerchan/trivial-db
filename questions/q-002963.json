@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "hard",
-  "question": "“Qué película fue dirigida por Emilio Martínez-Lázaro en esta selección”?",
+  "question": "Qué película fue dirigida por Emilio Martínez-Lázaro en esta selección”?",
   "answers": [
     {
       "text": "Ocho apellidos vascos",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Emilio Martínez-Lázaro dirigió “Ocho apellidos vascos”.",
+  "explanation": "Emilio Martínez-Lázaro dirigió Ocho apellidos vascos”.",
   "sources": [
     {
       "title": "The Academy Awards",

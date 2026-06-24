@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Quién escribió “Como agua para chocolate”?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Quién escribió Como agua para chocolate”?",
   "answers": [
     {
       "text": "Laura Esquivel",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Como agua para chocolate” es una obra de Laura Esquivel.",
+  "explanation": "Como agua para chocolate” es una obra de Laura Esquivel.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

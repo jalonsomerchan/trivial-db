@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué sigla corresponde a “integración continua”?",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué sigla corresponde a integración continua”?",
   "answers": [
     {
       "text": "CI",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “integración continua” es CI.",
+  "explanation": "La sigla correspondiente a integración continua” es CI.",
   "sources": [
     {
       "title": "MDN Web Docs",

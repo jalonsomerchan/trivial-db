@@ -7,7 +7,7 @@
     "epica"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “La Eneida”?",
+  "question": "¿Quién escribió La Eneida”?",
   "answers": [
     {
       "text": "Carlos Fuentes",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“La Eneida” es una obra de Virgilio.",
+  "explanation": "La Eneida” es una obra de Virgilio.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

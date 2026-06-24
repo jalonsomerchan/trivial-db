@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "medium",
-  "question": "¿En qué deporte se usa el término “power play”?",
+  "question": "¿En qué deporte se usa el término power play”?",
   "answers": [
     {
       "text": "ciclismo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “power play” se usa en hockey sobre hielo.",
+  "explanation": "El término power play” se usa en hockey sobre hielo.",
   "sources": [
     {
       "title": "International Olympic Committee",

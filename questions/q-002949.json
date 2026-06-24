@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "hard",
-  "question": "“Qué álbum pertenece a Prince”?",
+  "question": "Qué álbum pertenece a Prince”?",
   "answers": [
     {
       "text": "Like a Prayer",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Purple Rain” pertenece a Prince.",
+  "explanation": "Purple Rain” pertenece a Prince.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

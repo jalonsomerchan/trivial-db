@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "hard",
-  "question": "“Qué película fue dirigida por Orson Welles en esta selección”?",
+  "question": "Qué película fue dirigida por Orson Welles en esta selección”?",
   "answers": [
     {
       "text": "Bienvenido, Mister Marshall",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Orson Welles dirigió “Ciudadano Kane”.",
+  "explanation": "Orson Welles dirigió Ciudadano Kane”.",
   "sources": [
     {
       "title": "The Academy Awards",

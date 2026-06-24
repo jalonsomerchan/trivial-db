@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "“palabra que modifica a un verbo, adjetivo u otro adverbio”. ¿Cuál es la respuesta?",
+  "question": "palabra que modifica a un verbo, adjetivo u otro adverbio”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "adverbio",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La definición corresponde a “adverbio”.",
+  "explanation": "La definición corresponde a adverbio”.",
   "sources": [
     {
       "title": "Real Academia Española",

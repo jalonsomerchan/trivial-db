@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "¿Qué palabra tiene un significado parecido a “descender”?",
+  "question": "¿Qué palabra tiene un significado parecido a descender”?",
   "answers": [
     {
       "text": "valiente",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“bajar” y “descender” tienen significado parecido.",
+  "explanation": "bajar” y descender” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

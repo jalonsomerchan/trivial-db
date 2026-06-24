@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "“Qué artista pintó “Las espigadoras””?",
+  "question": "Qué artista pintó Las espigadoras””?",
   "answers": [
     {
       "text": "Rafael Sanzio",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Las espigadoras” fue pintada por Jean-François Millet.",
+  "explanation": "Las espigadoras” fue pintada por Jean-François Millet.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

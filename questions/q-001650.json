@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "¿Quién escribió “Romeo y Julieta”?",
+  "question": "¿Quién escribió Romeo y Julieta”?",
   "answers": [
     {
       "text": "Carmen Laforet",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Romeo y Julieta” es una obra de William Shakespeare.",
+  "explanation": "Romeo y Julieta” es una obra de William Shakespeare.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

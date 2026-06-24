@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "Qué palabra tiene un significado parecido a “diminuto”. ¿Cuál es la respuesta?",
+  "question": "Qué palabra tiene un significado parecido a diminuto”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "bajar",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“pequeño” y “diminuto” tienen significado parecido.",
+  "explanation": "pequeño” y diminuto” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

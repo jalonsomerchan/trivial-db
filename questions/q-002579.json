@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se lanzó originalmente “Half-Life”?",
+  "question": "¿En qué año se lanzó originalmente Half-Life”?",
   "answers": [
     {
       "text": "1999",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Half-Life” se lanzó originalmente en 1998.",
+  "explanation": "Half-Life” se lanzó originalmente en 1998.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

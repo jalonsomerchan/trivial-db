@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "¿Qué palabra tiene un significado parecido a “finalizar”?",
+  "question": "¿Qué palabra tiene un significado parecido a finalizar”?",
   "answers": [
     {
       "text": "terminar",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“terminar” y “finalizar” tienen significado parecido.",
+  "explanation": "terminar” y finalizar” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "¿Qué código HTTP corresponde a “Too Many Requests”?",
+  "question": "¿Qué código HTTP corresponde a Too Many Requests”?",
   "answers": [
     {
       "text": "409",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Too Many Requests” corresponde al código HTTP 429.",
+  "explanation": "Too Many Requests” corresponde al código HTTP 429.",
   "sources": [
     {
       "title": "MDN Web Docs",

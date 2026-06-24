@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué compañía o creador desarrolló “God of War”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué compañía o creador desarrolló God of War”?",
   "answers": [
     {
       "text": "Toby Fox",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“God of War” se asocia con Santa Monica Studio.",
+  "explanation": "God of War” se asocia con Santa Monica Studio.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

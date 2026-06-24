@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "¿En qué año se estrenó “La bella y la bestia”. ¿Cuál es la respuesta?",
+  "question": "¿En qué año se estrenó La bella y la bestia”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "2001",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La bella y la bestia” se estrenó en 1991.",
+  "explanation": "La bella y la bestia” se estrenó en 1991.",
   "sources": [
     {
       "title": "The Academy Awards",

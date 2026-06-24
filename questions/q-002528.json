@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se estrenó “Birdman”?",
+  "question": "¿En qué año se estrenó Birdman”?",
   "answers": [
     {
       "text": "2001",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Birdman” se estrenó en 2014.",
+  "explanation": "Birdman” se estrenó en 2014.",
   "sources": [
     {
       "title": "The Academy Awards",

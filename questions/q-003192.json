@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "medium",
-  "question": "“Qué puerto usa IMAP por defecto”?",
+  "question": "Qué puerto usa IMAP por defecto”?",
   "answers": [
     {
       "text": "27017",

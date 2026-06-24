@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Cuál es un sinónimo de “miedo”. ¿Cuál es la respuesta?",
+  "question": "Cuál es un sinónimo de miedo”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "temor",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“temor” es un sinónimo de “miedo”.",
+  "explanation": "temor” es un sinónimo de miedo”.",
   "sources": [
     {
       "title": "Real Academia Española",

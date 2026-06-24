@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de “subir”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de subir”?",
   "answers": [
     {
       "text": "adquirir",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“ascender” es un sinónimo de “subir”.",
+  "explanation": "ascender” es un sinónimo de subir”.",
   "sources": [
     {
       "title": "Real Academia Española",

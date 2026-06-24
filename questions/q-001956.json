@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "““El burlador de Sevilla” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta”?",
+  "question": "El burlador de Sevilla” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "literatura",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El burlador de Sevilla” se clasifica dentro de teatro.",
+  "explanation": "El burlador de Sevilla” se clasifica dentro de teatro.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

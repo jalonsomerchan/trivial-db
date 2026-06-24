@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "Qué artista publicó el álbum “Blue”. ¿Cuál es la respuesta?",
+  "question": "Qué artista publicó el álbum Blue”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Pink Floyd",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Blue” es un álbum de Joni Mitchell.",
+  "explanation": "Blue” es un álbum de Joni Mitchell.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

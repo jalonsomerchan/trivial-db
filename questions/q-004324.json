@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "“Cuál es un sinónimo de “bajar””?",
+  "question": "Cuál es un sinónimo de bajar””?",
   "answers": [
     {
       "text": "trayecto",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“descender” es un sinónimo de “bajar”.",
+  "explanation": "descender” es un sinónimo de bajar”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es un sinónimo de “oscuridad”?",
+  "question": "¿Cuál es un sinónimo de oscuridad”?",
   "answers": [
     {
       "text": "tiniebla",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“tiniebla” es un sinónimo de “oscuridad”.",
+  "explanation": "tiniebla” es un sinónimo de oscuridad”.",
   "sources": [
     {
       "title": "Real Academia Española",

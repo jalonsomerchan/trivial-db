@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "hard",
-  "question": "““El perro del hortelano” pertenece principalmente al ámbito de...”?",
+  "question": "El perro del hortelano” pertenece principalmente al ámbito de...”?",
   "answers": [
     {
       "text": "épica",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El perro del hortelano” se clasifica dentro de teatro.",
+  "explanation": "El perro del hortelano” se clasifica dentro de teatro.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

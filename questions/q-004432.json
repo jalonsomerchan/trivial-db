@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de “nariz”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de nariz”?",
   "answers": [
     {
       "text": "jueces",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El plural correcto de “nariz” es “narices”.",
+  "explanation": "El plural correcto de nariz” es narices”.",
   "sources": [
     {
       "title": "Real Academia Española",

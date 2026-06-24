@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "easy",
-  "question": "“En qué deporte se usa el término “fuera de juego””?",
+  "question": "En qué deporte se usa el término fuera de juego””?",
   "answers": [
     {
       "text": "esquí alpino",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “fuera de juego” se usa en fútbol.",
+  "explanation": "El término fuera de juego” se usa en fútbol.",
   "sources": [
     {
       "title": "International Olympic Committee",

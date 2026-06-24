@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "hard",
-  "question": "“Qué protocolo se asocia normalmente al puerto 25”?",
+  "question": "Qué protocolo se asocia normalmente al puerto 25”?",
   "answers": [
     {
       "text": "DNS",

@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "hard",
-  "question": "“En historia del arte, “La ronda de noche” es una obra de...”?",
+  "question": "En historia del arte, La ronda de noche” es una obra de...”?",
   "answers": [
     {
       "text": "Pierre-Auguste Renoir",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La obra “La ronda de noche” corresponde a Rembrandt.",
+  "explanation": "La obra La ronda de noche” corresponde a Rembrandt.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

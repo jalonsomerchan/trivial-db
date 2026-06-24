@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "““San Manuel Bueno, mártir” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta”?",
+  "question": "San Manuel Bueno, mártir” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "épica",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“San Manuel Bueno, mártir” se clasifica dentro de literatura.",
+  "explanation": "San Manuel Bueno, mártir” se clasifica dentro de literatura.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

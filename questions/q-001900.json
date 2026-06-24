@@ -7,7 +7,7 @@
     "epica"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: “La Eneida” pertenece principalmente al ámbito de...?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: La Eneida” pertenece principalmente al ámbito de...?",
   "answers": [
     {
       "text": "epica",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La Eneida” se clasifica dentro de epica.",
+  "explanation": "La Eneida” se clasifica dentro de epica.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

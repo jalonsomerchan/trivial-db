@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "“Qué compañía o creador desarrolló “Hollow Knight””?",
+  "question": "Qué compañía o creador desarrolló Hollow Knight””?",
   "answers": [
     {
       "text": "FromSoftware",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Hollow Knight” se asocia con Team Cherry.",
+  "explanation": "Hollow Knight” se asocia con Team Cherry.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

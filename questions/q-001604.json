@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "¿Quién compuso “Novena sinfonía”?",
+  "question": "¿Quién compuso Novena sinfonía”?",
   "answers": [
     {
       "text": "Ludwig van Beethoven",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Novena sinfonía” fue compuesta por Ludwig van Beethoven.",
+  "explanation": "Novena sinfonía” fue compuesta por Ludwig van Beethoven.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

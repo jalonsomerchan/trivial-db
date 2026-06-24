@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿Quién dirigió la película “Casablanca”?",
+  "question": "¿Quién dirigió la película Casablanca”?",
   "answers": [
     {
       "text": "Alfred Hitchcock",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Casablanca” fue dirigida por Michael Curtiz.",
+  "explanation": "Casablanca” fue dirigida por Michael Curtiz.",
   "sources": [
     {
       "title": "The Academy Awards",

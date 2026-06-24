@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "hard",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: “Veinte poemas de amor y una canción desesperada” pertenece principalmente al ámbito de...?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Veinte poemas de amor y una canción desesperada” pertenece principalmente al ámbito de...?",
   "answers": [
     {
       "text": "literatura",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Veinte poemas de amor y una canción desesperada” se clasifica dentro de poesia.",
+  "explanation": "Veinte poemas de amor y una canción desesperada” se clasifica dentro de poesia.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

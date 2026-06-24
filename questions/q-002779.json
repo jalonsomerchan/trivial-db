@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿En qué año se estrenó “Amélie”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿En qué año se estrenó Amélie”?",
   "answers": [
     {
       "text": "1958",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Amélie” se estrenó en 2001.",
+  "explanation": "Amélie” se estrenó en 2001.",
   "sources": [
     {
       "title": "The Academy Awards",

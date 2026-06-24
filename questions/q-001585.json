@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "Quién escribió “La metamorfosis”. ¿Cuál es la respuesta?",
+  "question": "Quién escribió La metamorfosis”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Lope de Vega",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La metamorfosis” es una obra de Franz Kafka.",
+  "explanation": "La metamorfosis” es una obra de Franz Kafka.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

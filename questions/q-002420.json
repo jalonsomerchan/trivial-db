@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "easy",
-  "question": "¿En qué deporte se usa el término “hat-trick”?",
+  "question": "¿En qué deporte se usa el término hat-trick”?",
   "answers": [
     {
       "text": "biatlón",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El término “hat-trick” se usa en fútbol.",
+  "explanation": "El término hat-trick” se usa en fútbol.",
   "sources": [
     {
       "title": "International Olympic Committee",

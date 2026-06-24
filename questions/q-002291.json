@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "medium",
-  "question": "En qué deporte se usa el término “safety car”. ¿Cuál es la respuesta?",
+  "question": "En qué deporte se usa el término safety car”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "automovilismo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “safety car” se usa en automovilismo.",
+  "explanation": "El término safety car” se usa en automovilismo.",
   "sources": [
     {
       "title": "International Olympic Committee",

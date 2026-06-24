@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a “veloz”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a veloz”?",
   "answers": [
     {
       "text": "calma",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“rápido” y “veloz” tienen significado parecido.",
+  "explanation": "rápido” y veloz” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

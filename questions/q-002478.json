@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de deporte, completa la respuesta correcta: En qué deporte se usa el término “ace”?",
+  "question": "Para un trivial de deporte, completa la respuesta correcta: En qué deporte se usa el término ace”?",
   "answers": [
     {
       "text": "tenis",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “ace” se usa en tenis.",
+  "explanation": "El término ace” se usa en tenis.",
   "sources": [
     {
       "title": "International Olympic Committee",

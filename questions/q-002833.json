@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "Quién dirigió la película “Amores perros”. ¿Cuál es la respuesta?",
+  "question": "Quién dirigió la película Amores perros”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "John Lasseter",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Amores perros” fue dirigida por Alejandro González Iñárritu.",
+  "explanation": "Amores perros” fue dirigida por Alejandro González Iñárritu.",
   "sources": [
     {
       "title": "The Academy Awards",

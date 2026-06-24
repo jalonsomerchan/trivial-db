@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "“Quién escribió “Las aventuras de Huckleberry Finn””?",
+  "question": "Quién escribió Las aventuras de Huckleberry Finn””?",
   "answers": [
     {
       "text": "Franz Kafka",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Las aventuras de Huckleberry Finn” es una obra de Mark Twain.",
+  "explanation": "Las aventuras de Huckleberry Finn” es una obra de Mark Twain.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

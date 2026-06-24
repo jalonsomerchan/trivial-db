@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: En qué año se estrenó “El señor de los anillos: La comunidad del anillo”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: En qué año se estrenó El señor de los anillos: La comunidad del anillo”?",
   "answers": [
     {
       "text": "1994",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“El señor de los anillos: La comunidad del anillo” se estrenó en 2001.",
+  "explanation": "El señor de los anillos: La comunidad del anillo” se estrenó en 2001.",
   "sources": [
     {
       "title": "The Academy Awards",

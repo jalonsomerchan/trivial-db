@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de “grande”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de grande”?",
   "answers": [
     {
       "text": "sendero",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“enorme” es un sinónimo de “grande”.",
+  "explanation": "enorme” es un sinónimo de grande”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Quién compuso “Rapsodia en azul”?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Quién compuso Rapsodia en azul”?",
   "answers": [
     {
       "text": "Richard Wagner",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Rapsodia en azul” fue compuesta por George Gershwin.",
+  "explanation": "Rapsodia en azul” fue compuesta por George Gershwin.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

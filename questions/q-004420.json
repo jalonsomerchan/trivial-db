@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "medium",
-  "question": "“Qué palabra lleva tilde correctamente: compás, compas, cómpas”?",
+  "question": "Qué palabra lleva tilde correctamente: compás, compas, cómpas”?",
   "answers": [
     {
       "text": "compás",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “compás”.",
+  "explanation": "La palabra correctamente acentuada es compás”.",
   "sources": [
     {
       "title": "Real Academia Española",

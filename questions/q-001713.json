@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "¿Qué artista pintó “La noche estrellada”?",
+  "question": "¿Qué artista pintó La noche estrellada”?",
   "answers": [
     {
       "text": "Edward Hopper",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La noche estrellada” fue pintada por Vincent van Gogh.",
+  "explanation": "La noche estrellada” fue pintada por Vincent van Gogh.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

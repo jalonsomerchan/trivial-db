@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué término gramatical corresponde a esta definición: “palabra que modifica a un verbo, adjetivo u otro adverbio”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué término gramatical corresponde a esta definición: palabra que modifica a un verbo, adjetivo u otro adverbio”?",
   "answers": [
     {
       "text": "adverbio",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La definición corresponde a “adverbio”.",
+  "explanation": "La definición corresponde a adverbio”.",
   "sources": [
     {
       "title": "Real Academia Española",

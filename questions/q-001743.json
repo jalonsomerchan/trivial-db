@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "“Qué obra fue escrita por autor anónimo”?",
+  "question": "Qué obra fue escrita por autor anónimo”?",
   "answers": [
     {
       "text": "El Lazarillo de Tormes",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "autor anónimo escribió “El Lazarillo de Tormes”.",
+  "explanation": "autor anónimo escribió El Lazarillo de Tormes”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

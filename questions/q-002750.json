@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿Quién dirigió la película “Parque Jurásico”?",
+  "question": "¿Quién dirigió la película Parque Jurásico”?",
   "answers": [
     {
       "text": "Chris Buck y Jennifer Lee",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Parque Jurásico” fue dirigida por Steven Spielberg.",
+  "explanation": "Parque Jurásico” fue dirigida por Steven Spielberg.",
   "sources": [
     {
       "title": "The Academy Awards",

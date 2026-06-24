@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué sigla corresponde a “protocolo de control de transmisión”?",
+  "question": "¿Qué sigla corresponde a protocolo de control de transmisión”?",
   "answers": [
     {
       "text": "CPU",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La sigla correspondiente a “protocolo de control de transmisión” es TCP.",
+  "explanation": "La sigla correspondiente a protocolo de control de transmisión” es TCP.",
   "sources": [
     {
       "title": "MDN Web Docs",

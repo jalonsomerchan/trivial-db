@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “En qué año se estrenó “Vértigo”””?",
+  "question": "Cuál sería la opción correcta si la pista fuera En qué año se estrenó Vértigo”””?",
   "answers": [
     {
       "text": "1988",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Vértigo” se estrenó en 1958.",
+  "explanation": "Vértigo” se estrenó en 1958.",
   "sources": [
     {
       "title": "The Academy Awards",

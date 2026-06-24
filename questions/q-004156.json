@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es el plural correcto de “hindú”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es el plural correcto de hindú”?",
   "answers": [
     {
       "text": "álbumes",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “hindú” es “hindúes”.",
+  "explanation": "El plural correcto de hindú” es hindúes”.",
   "sources": [
     {
       "title": "Real Academia Española",

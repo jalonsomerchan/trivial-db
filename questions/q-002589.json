@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿Quién dirigió la película “Gravity”?",
+  "question": "¿Quién dirigió la película Gravity”?",
   "answers": [
     {
       "text": "Brad Bird",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Gravity” fue dirigida por Alfonso Cuarón.",
+  "explanation": "Gravity” fue dirigida por Alfonso Cuarón.",
   "sources": [
     {
       "title": "The Academy Awards",

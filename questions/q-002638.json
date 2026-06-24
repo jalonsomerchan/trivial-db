@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En qué año se estrenó “Titanic””?",
+  "question": "En qué año se estrenó Titanic””?",
   "answers": [
     {
       "text": "1982",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Titanic” se estrenó en 1997.",
+  "explanation": "Titanic” se estrenó en 1997.",
   "sources": [
     {
       "title": "The Academy Awards",

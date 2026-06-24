@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “Libertad bajo palabra”?",
+  "question": "¿Quién escribió Libertad bajo palabra”?",
   "answers": [
     {
       "text": "Gabriel García Márquez",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Libertad bajo palabra” es una obra de Octavio Paz.",
+  "explanation": "Libertad bajo palabra” es una obra de Octavio Paz.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

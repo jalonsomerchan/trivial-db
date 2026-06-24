@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "“Quién compuso “El barbero de Sevilla””?",
+  "question": "Quién compuso El barbero de Sevilla””?",
   "answers": [
     {
       "text": "Georges Bizet",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“El barbero de Sevilla” fue compuesta por Gioachino Rossini.",
+  "explanation": "El barbero de Sevilla” fue compuesta por Gioachino Rossini.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

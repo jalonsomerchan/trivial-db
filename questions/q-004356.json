@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "“palabra cuya sílaba tónica es la penúltima”. ¿Cuál es la respuesta?",
+  "question": "palabra cuya sílaba tónica es la penúltima”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "llana",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La definición corresponde a “llana”.",
+  "explanation": "La definición corresponde a llana”.",
   "sources": [
     {
       "title": "Real Academia Española",

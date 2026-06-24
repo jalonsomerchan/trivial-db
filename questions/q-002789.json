@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “Alien, el octavo pasajero”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película Alien, el octavo pasajero”?",
   "answers": [
     {
       "text": "Quentin Tarantino",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Alien, el octavo pasajero” fue dirigida por Ridley Scott.",
+  "explanation": "Alien, el octavo pasajero” fue dirigida por Ridley Scott.",
   "sources": [
     {
       "title": "The Academy Awards",

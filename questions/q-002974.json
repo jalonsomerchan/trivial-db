@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "hard",
-  "question": "“Qué álbum pertenece a Manu Chao”?",
+  "question": "Qué álbum pertenece a Manu Chao”?",
   "answers": [
     {
       "text": "Clandestino",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Clandestino” pertenece a Manu Chao.",
+  "explanation": "Clandestino” pertenece a Manu Chao.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

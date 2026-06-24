@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "easy",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Quién escribió “Veinte poemas de amor y una canción desesperada””?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Quién escribió Veinte poemas de amor y una canción desesperada””?",
   "answers": [
     {
       "text": "Pedro Calderón de la Barca",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Veinte poemas de amor y una canción desesperada” es una obra de Pablo Neruda.",
+  "explanation": "Veinte poemas de amor y una canción desesperada” es una obra de Pablo Neruda.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

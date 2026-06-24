@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "easy",
-  "question": "En deporte, ¿qué opción responde correctamente a esta pista: En qué deporte se usa el término “break point”?",
+  "question": "En deporte, ¿qué opción responde correctamente a esta pista: En qué deporte se usa el término break point”?",
   "answers": [
     {
       "text": "atletismo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “break point” se usa en tenis.",
+  "explanation": "El término break point” se usa en tenis.",
   "sources": [
     {
       "title": "International Olympic Committee",

@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “En qué año se estrenó “El señor de los anillos: El retorno del rey”””?",
+  "question": "Cuál sería la opción correcta si la pista fuera En qué año se estrenó El señor de los anillos: El retorno del rey”””?",
   "answers": [
     {
       "text": "2003",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El señor de los anillos: El retorno del rey” se estrenó en 2003.",
+  "explanation": "El señor de los anillos: El retorno del rey” se estrenó en 2003.",
   "sources": [
     {
       "title": "The Academy Awards",

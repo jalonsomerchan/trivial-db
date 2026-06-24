@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "¿Qué palabra tiene un significado parecido a “temor”?",
+  "question": "¿Qué palabra tiene un significado parecido a temor”?",
   "answers": [
     {
       "text": "oscuridad",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“miedo” y “temor” tienen significado parecido.",
+  "explanation": "miedo” y temor” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

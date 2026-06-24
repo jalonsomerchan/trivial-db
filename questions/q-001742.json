@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "““Doña Perfecta” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta”?",
+  "question": "Doña Perfecta” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "épica",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Doña Perfecta” se clasifica dentro de literatura.",
+  "explanation": "Doña Perfecta” se clasifica dentro de literatura.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

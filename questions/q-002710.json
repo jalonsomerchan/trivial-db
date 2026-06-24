@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: En qué año se estrenó “Roma”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: En qué año se estrenó Roma”?",
   "answers": [
     {
       "text": "2014",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Roma” se estrenó en 2018.",
+  "explanation": "Roma” se estrenó en 2018.",
   "sources": [
     {
       "title": "The Academy Awards",

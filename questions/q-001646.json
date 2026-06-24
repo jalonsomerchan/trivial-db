@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “Residencia en la tierra”?",
+  "question": "¿Quién escribió Residencia en la tierra”?",
   "answers": [
     {
       "text": "Julio Cortázar",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Residencia en la tierra” es una obra de Pablo Neruda.",
+  "explanation": "Residencia en la tierra” es una obra de Pablo Neruda.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "platos-del-mundo"
   ],
   "difficulty": "easy",
-  "question": "““Qué plato se asocia con España y suele llevar bacalao””?",
+  "question": "Qué plato se asocia con España y suele llevar bacalao””?",
   "answers": [
     {
       "text": "bacalao al pilpil",

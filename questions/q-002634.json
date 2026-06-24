@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué compañía o creador desarrolló “Fortnite”?",
+  "question": "¿Qué compañía o creador desarrolló Fortnite”?",
   "answers": [
     {
       "text": "ConcernedApe",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Fortnite” se asocia con Epic Games.",
+  "explanation": "Fortnite” se asocia con Epic Games.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

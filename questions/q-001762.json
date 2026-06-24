@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "“Qué artista pintó “Saturno devorando a su hijo””?",
+  "question": "Qué artista pintó Saturno devorando a su hijo””?",
   "answers": [
     {
       "text": "Diego Velázquez",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Saturno devorando a su hijo” fue pintada por Francisco de Goya.",
+  "explanation": "Saturno devorando a su hijo” fue pintada por Francisco de Goya.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "Qué palabra tiene un significado parecido a “tranquilidad”. ¿Cuál es la respuesta?",
+  "question": "Qué palabra tiene un significado parecido a tranquilidad”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "pequeño",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“calma” y “tranquilidad” tienen significado parecido.",
+  "explanation": "calma” y tranquilidad” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

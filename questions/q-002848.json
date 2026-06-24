@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "Qué compañía o creador desarrolló “Metal Gear Solid”. ¿Cuál es la respuesta?",
+  "question": "Qué compañía o creador desarrolló Metal Gear Solid”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Epic Games",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Metal Gear Solid” se asocia con Konami.",
+  "explanation": "Metal Gear Solid” se asocia con Konami.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

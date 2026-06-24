@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "¿Qué término gramatical corresponde a esta definición: “unidad mínima con significado gramatical”?",
+  "question": "¿Qué término gramatical corresponde a esta definición: unidad mínima con significado gramatical”?",
   "answers": [
     {
       "text": "adjetivo",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La definición corresponde a “morfema”.",
+  "explanation": "La definición corresponde a morfema”.",
   "sources": [
     {
       "title": "Real Academia Española",

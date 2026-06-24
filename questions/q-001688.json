@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “Los miserables”?",
+  "question": "¿Quién escribió Los miserables”?",
   "answers": [
     {
       "text": "Carlos Fuentes",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Los miserables” es una obra de Victor Hugo.",
+  "explanation": "Los miserables” es una obra de Victor Hugo.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

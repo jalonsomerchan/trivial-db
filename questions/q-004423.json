@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "medium",
-  "question": "“Qué palabra lleva tilde correctamente: búho, buho, búo”?",
+  "question": "Qué palabra lleva tilde correctamente: búho, buho, búo”?",
   "answers": [
     {
       "text": "buho",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “búho”.",
+  "explanation": "La palabra correctamente acentuada es búho”.",
   "sources": [
     {
       "title": "Real Academia Española",

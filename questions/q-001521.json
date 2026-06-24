@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "easy",
-  "question": "““Qué obra fue escrita por Pablo Neruda””?",
+  "question": "Qué obra fue escrita por Pablo Neruda””?",
   "answers": [
     {
       "text": "Veinte poemas de amor y una canción desesperada",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Pablo Neruda escribió “Veinte poemas de amor y una canción desesperada”.",
+  "explanation": "Pablo Neruda escribió Veinte poemas de amor y una canción desesperada”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

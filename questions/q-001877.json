@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "easy",
-  "question": "“Quién escribió “Campos de Castilla”. ¿Cuál es la respuesta”?",
+  "question": "Quién escribió Campos de Castilla”. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "Miguel de Unamuno",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Campos de Castilla” es una obra de Antonio Machado.",
+  "explanation": "Campos de Castilla” es una obra de Antonio Machado.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

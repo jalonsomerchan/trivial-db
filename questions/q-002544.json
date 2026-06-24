@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "En qué año se publicó el álbum “Bocanada”. ¿Cuál es la respuesta?",
+  "question": "En qué año se publicó el álbum Bocanada”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "1959",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El álbum “Bocanada” se publicó en 1999.",
+  "explanation": "El álbum Bocanada” se publicó en 1999.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "hard",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: “Soledades” pertenece principalmente al ámbito de...?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Soledades” pertenece principalmente al ámbito de...?",
   "answers": [
     {
       "text": "ensayo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Soledades” se clasifica dentro de poesia.",
+  "explanation": "Soledades” se clasifica dentro de poesia.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

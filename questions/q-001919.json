@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Quién compuso “Carmina Burana”?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Quién compuso Carmina Burana”?",
   "answers": [
     {
       "text": "George Gershwin",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Carmina Burana” fue compuesta por Carl Orff.",
+  "explanation": "Carmina Burana” fue compuesta por Carl Orff.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

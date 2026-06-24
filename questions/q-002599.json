@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se estrenó “Hable con ella”?",
+  "question": "¿En qué año se estrenó Hable con ella”?",
   "answers": [
     {
       "text": "1995",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Hable con ella” se estrenó en 2002.",
+  "explanation": "Hable con ella” se estrenó en 2002.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "““Qué obra fue escrita por Mario Vargas Llosa””?",
+  "question": "Qué obra fue escrita por Mario Vargas Llosa””?",
   "answers": [
     {
       "text": "Tiempo de silencio",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Mario Vargas Llosa escribió “La ciudad y los perros”.",
+  "explanation": "Mario Vargas Llosa escribió La ciudad y los perros”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

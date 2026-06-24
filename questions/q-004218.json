@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Cuál es un sinónimo de “error”. ¿Cuál es la respuesta?",
+  "question": "Cuál es un sinónimo de error”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "verdadero",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“fallo” es un sinónimo de “error”.",
+  "explanation": "fallo” es un sinónimo de error”.",
   "sources": [
     {
       "title": "Real Academia Española",

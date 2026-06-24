@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "“Qué palabra tiene un significado parecido a “estudiante””?",
+  "question": "Qué palabra tiene un significado parecido a estudiante””?",
   "answers": [
     {
       "text": "regalo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“alumno” y “estudiante” tienen significado parecido.",
+  "explanation": "alumno” y estudiante” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

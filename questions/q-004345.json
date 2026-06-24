@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es el plural correcto de “carácter”?",
+  "question": "¿Cuál es el plural correcto de carácter”?",
   "answers": [
     {
       "text": "lápices",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “carácter” es “caracteres”.",
+  "explanation": "El plural correcto de carácter” es caracteres”.",
   "sources": [
     {
       "title": "Real Academia Española",

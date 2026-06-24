@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera ““Los santos inocentes” pertenece principalmente al ámbito de...”?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Los santos inocentes” pertenece principalmente al ámbito de...”?",
   "answers": [
     {
       "text": "literatura",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Los santos inocentes” se clasifica dentro de literatura.",
+  "explanation": "Los santos inocentes” se clasifica dentro de literatura.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

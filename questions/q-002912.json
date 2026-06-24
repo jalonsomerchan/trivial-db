@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En qué año se estrenó “El club de la lucha””?",
+  "question": "En qué año se estrenó El club de la lucha””?",
   "answers": [
     {
       "text": "1999 (3)",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“El club de la lucha” se estrenó en 1999.",
+  "explanation": "El club de la lucha” se estrenó en 1999.",
   "sources": [
     {
       "title": "The Academy Awards",

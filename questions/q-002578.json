@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿Quién dirigió la película “Hable con ella”?",
+  "question": "¿Quién dirigió la película Hable con ella”?",
   "answers": [
     {
       "text": "Pedro Almodóvar",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Hable con ella” fue dirigida por Pedro Almodóvar.",
+  "explanation": "Hable con ella” fue dirigida por Pedro Almodóvar.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El código HTTP 301 corresponde a “Moved Permanently”.",
+  "explanation": "El código HTTP 301 corresponde a Moved Permanently”.",
   "sources": [
     {
       "title": "MDN Web Docs",

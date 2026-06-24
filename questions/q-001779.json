@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "hard",
-  "question": "En historia del arte, “El grito” es una obra de.... ¿Cuál es la respuesta?",
+  "question": "En historia del arte, El grito” es una obra de.... ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Caspar David Friedrich",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La obra “El grito” corresponde a Edvard Munch.",
+  "explanation": "La obra El grito” corresponde a Edvard Munch.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

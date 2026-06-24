@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué obra fue escrita por Camilo José Cela”?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Qué obra fue escrita por Camilo José Cela”?",
   "answers": [
     {
       "text": "Moby-Dick",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "Camilo José Cela escribió “La colmena”.",
+  "explanation": "Camilo José Cela escribió La colmena”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

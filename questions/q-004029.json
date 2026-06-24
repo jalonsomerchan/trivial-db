@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "“Cuál es un sinónimo de “historia””?",
+  "question": "Cuál es un sinónimo de historia””?",
   "answers": [
     {
       "text": "relato",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“relato” es un sinónimo de “historia”.",
+  "explanation": "relato” es un sinónimo de historia”.",
   "sources": [
     {
       "title": "Real Academia Española",

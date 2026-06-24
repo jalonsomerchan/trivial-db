@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué singular corresponde al plural “regímenes”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué singular corresponde al plural regímenes”?",
   "answers": [
     {
       "text": "tabú",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El singular de “regímenes” es “régimen”.",
+  "explanation": "El singular de regímenes” es régimen”.",
   "sources": [
     {
       "title": "Real Academia Española",

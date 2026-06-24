@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "Qué artista pintó “El almuerzo de los remeros”. ¿Cuál es la respuesta?",
+  "question": "Qué artista pintó El almuerzo de los remeros”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Pierre-Auguste Renoir",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El almuerzo de los remeros” fue pintada por Pierre-Auguste Renoir.",
+  "explanation": "El almuerzo de los remeros” fue pintada por Pierre-Auguste Renoir.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

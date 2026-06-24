@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "“En qué año se estrenó “E.T., el extraterrestre””?",
+  "question": "En qué año se estrenó E.T., el extraterrestre””?",
   "answers": [
     {
       "text": "2009",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“E.T., el extraterrestre” se estrenó en 1982.",
+  "explanation": "E.T., el extraterrestre” se estrenó en 1982.",
   "sources": [
     {
       "title": "The Academy Awards",

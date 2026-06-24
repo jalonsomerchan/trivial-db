@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es un sinónimo de “camino”?",
+  "question": "¿Cuál es un sinónimo de camino”?",
   "answers": [
     {
       "text": "audaz",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“sendero” es un sinónimo de “camino”.",
+  "explanation": "sendero” es un sinónimo de camino”.",
   "sources": [
     {
       "title": "Real Academia Española",

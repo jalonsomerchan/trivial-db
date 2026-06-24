@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película “WALL·E”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película WALL·E”?",
   "answers": [
     {
       "text": "Andrew Stanton",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“WALL·E” fue dirigida por Andrew Stanton.",
+  "explanation": "WALL·E” fue dirigida por Andrew Stanton.",
   "sources": [
     {
       "title": "The Academy Awards",

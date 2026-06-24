@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: En qué año se lanzó originalmente “Silent Hill”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: En qué año se lanzó originalmente Silent Hill”?",
   "answers": [
     {
       "text": "1980",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Silent Hill” se lanzó originalmente en 1999.",
+  "explanation": "Silent Hill” se lanzó originalmente en 1999.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

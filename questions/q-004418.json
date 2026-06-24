@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra tiene un significado parecido a “labor”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra tiene un significado parecido a labor”?",
   "answers": [
     {
       "text": "enemigo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“trabajo” y “labor” tienen significado parecido.",
+  "explanation": "trabajo” y labor” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

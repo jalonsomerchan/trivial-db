@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "“después, despues, dés pues. ¿Cuál es la respuesta”?",
+  "question": "después, despues, dés pues. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "despues",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “después”.",
+  "explanation": "La palabra correctamente acentuada es después”.",
   "sources": [
     {
       "title": "Real Academia Española",

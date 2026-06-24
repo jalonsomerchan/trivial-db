@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Cuál es un sinónimo de “lento”. ¿Cuál es la respuesta?",
+  "question": "Cuál es un sinónimo de lento”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "docente",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“pausado” es un sinónimo de “lento”.",
+  "explanation": "pausado” es un sinónimo de lento”.",
   "sources": [
     {
       "title": "Real Academia Española",

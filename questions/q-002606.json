@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Quién dirigió la película “Roma””. ¿Cuál es la respuesta?",
+  "question": "Quién dirigió la película Roma””. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Martin Scorsese",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Roma” fue dirigida por Alfonso Cuarón.",
+  "explanation": "Roma” fue dirigida por Alfonso Cuarón.",
   "sources": [
     {
       "title": "The Academy Awards",

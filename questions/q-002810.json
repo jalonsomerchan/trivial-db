@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "¿En qué año se estrenó “Akira”. ¿Cuál es la respuesta?",
+  "question": "¿En qué año se estrenó Akira”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "2009",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Akira” se estrenó en 1988.",
+  "explanation": "Akira” se estrenó en 1988.",
   "sources": [
     {
       "title": "The Academy Awards",

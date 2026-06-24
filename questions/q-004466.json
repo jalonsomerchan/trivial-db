@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de “pez”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de pez”?",
   "answers": [
     {
       "text": "peces",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “pez” es “peces”.",
+  "explanation": "El plural correcto de pez” es peces”.",
   "sources": [
     {
       "title": "Real Academia Española",

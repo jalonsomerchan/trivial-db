@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "“Qué obra fue escrita por Pedro Calderón de la Barca. ¿Cuál es la respuesta”?",
+  "question": "Qué obra fue escrita por Pedro Calderón de la Barca. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "Fuenteovejuna",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Pedro Calderón de la Barca escribió “La vida es sueño”.",
+  "explanation": "Pedro Calderón de la Barca escribió La vida es sueño”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

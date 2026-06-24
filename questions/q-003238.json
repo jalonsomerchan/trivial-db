@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "medium",
-  "question": "“Qué puerto usa RDP por defecto”?",
+  "question": "Qué puerto usa RDP por defecto”?",
   "answers": [
     {
       "text": "6379",

@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se publicó el álbum “Hotel California”?",
+  "question": "¿En qué año se publicó el álbum Hotel California”?",
   "answers": [
     {
       "text": "1969",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El álbum “Hotel California” se publicó en 1976.",
+  "explanation": "El álbum Hotel California” se publicó en 1976.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué código HTTP corresponde a “Conflict”?",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué código HTTP corresponde a Conflict”?",
   "answers": [
     {
       "text": "500",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Conflict” corresponde al código HTTP 409.",
+  "explanation": "Conflict” corresponde al código HTTP 409.",
   "sources": [
     {
       "title": "MDN Web Docs",

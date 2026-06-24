@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Quién escribió “La tregua””?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Quién escribió La tregua””?",
   "answers": [
     {
       "text": "Mario Benedetti",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La tregua” es una obra de Mario Benedetti.",
+  "explanation": "La tregua” es una obra de Mario Benedetti.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

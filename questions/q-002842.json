@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “Qué película fue dirigida por Jean-Pierre Jeunet en esta selección””?",
+  "question": "Cuál sería la opción correcta si la pista fuera Qué película fue dirigida por Jean-Pierre Jeunet en esta selección””?",
   "answers": [
     {
       "text": "Amélie",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Jean-Pierre Jeunet dirigió “Amélie”.",
+  "explanation": "Jean-Pierre Jeunet dirigió Amélie”.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué compañía o creador desarrolló “Super Mario Bros.”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué compañía o creador desarrolló Super Mario Bros.”?",
   "answers": [
     {
       "text": "Nintendo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Super Mario Bros.” se asocia con Nintendo.",
+  "explanation": "Super Mario Bros.” se asocia con Nintendo.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

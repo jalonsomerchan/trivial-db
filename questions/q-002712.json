@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En qué año se estrenó “Terminator 2””?",
+  "question": "En qué año se estrenó Terminator 2””?",
   "answers": [
     {
       "text": "1991",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Terminator 2” se estrenó en 1991.",
+  "explanation": "Terminator 2” se estrenó en 1991.",
   "sources": [
     {
       "title": "The Academy Awards",

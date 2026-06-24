@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "¿Quién dirigió la película “Casablanca”. ¿Cuál es la respuesta?",
+  "question": "¿Quién dirigió la película Casablanca”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Steven Spielberg",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Casablanca” fue dirigida por Michael Curtiz.",
+  "explanation": "Casablanca” fue dirigida por Michael Curtiz.",
   "sources": [
     {
       "title": "The Academy Awards",

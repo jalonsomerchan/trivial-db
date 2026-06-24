@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es un sinónimo de “vender”?",
+  "question": "¿Cuál es un sinónimo de vender”?",
   "answers": [
     {
       "text": "descender",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“comerciar” es un sinónimo de “vender”.",
+  "explanation": "comerciar” es un sinónimo de vender”.",
   "sources": [
     {
       "title": "Real Academia Española",

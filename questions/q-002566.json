@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Quién dirigió la película “Forrest Gump””. ¿Cuál es la respuesta?",
+  "question": "Quién dirigió la película Forrest Gump””. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Alejandro Amenábar",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Forrest Gump” fue dirigida por Robert Zemeckis.",
+  "explanation": "Forrest Gump” fue dirigida por Robert Zemeckis.",
   "sources": [
     {
       "title": "The Academy Awards",

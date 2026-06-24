@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "¿Quién compuso “El Mesías”?",
+  "question": "¿Quién compuso El Mesías”?",
   "answers": [
     {
       "text": "Piotr Ilich Chaikovski",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El Mesías” fue compuesta por Georg Friedrich Händel.",
+  "explanation": "El Mesías” fue compuesta por Georg Friedrich Händel.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

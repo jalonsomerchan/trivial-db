@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “Quién dirigió la película “Braveheart”””?",
+  "question": "Cuál sería la opción correcta si la pista fuera Quién dirigió la película Braveheart”””?",
   "answers": [
     {
       "text": "Brad Bird",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Braveheart” fue dirigida por Mel Gibson.",
+  "explanation": "Braveheart” fue dirigida por Mel Gibson.",
   "sources": [
     {
       "title": "The Academy Awards",

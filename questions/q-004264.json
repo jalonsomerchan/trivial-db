@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "“Qué singular corresponde al plural “bisturíes””?",
+  "question": "Qué singular corresponde al plural bisturíes””?",
   "answers": [
     {
       "text": "avión",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “bisturíes” es “bisturí”.",
+  "explanation": "El singular de bisturíes” es bisturí”.",
   "sources": [
     {
       "title": "Real Academia Española",

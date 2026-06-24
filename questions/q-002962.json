@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "En qué año se estrenó “Los otros”. ¿Cuál es la respuesta?",
+  "question": "En qué año se estrenó Los otros”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "1993",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Los otros” se estrenó en 2001.",
+  "explanation": "Los otros” se estrenó en 2001.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Quién dirigió la película “El laberinto del fauno””. ¿Cuál es la respuesta?",
+  "question": "Quién dirigió la película El laberinto del fauno””. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Andrew Stanton",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El laberinto del fauno” fue dirigida por Guillermo del Toro.",
+  "explanation": "El laberinto del fauno” fue dirigida por Guillermo del Toro.",
   "sources": [
     {
       "title": "The Academy Awards",

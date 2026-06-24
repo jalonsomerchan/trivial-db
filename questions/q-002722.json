@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué compañía o creador desarrolló “Space Invaders”?",
+  "question": "¿Qué compañía o creador desarrolló Space Invaders”?",
   "answers": [
     {
       "text": "Bungie",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Space Invaders” se asocia con Taito.",
+  "explanation": "Space Invaders” se asocia con Taito.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

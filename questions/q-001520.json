@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Qué artista pintó “Impresión, sol naciente”?",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Qué artista pintó Impresión, sol naciente”?",
   "answers": [
     {
       "text": "Sandro Botticelli",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Impresión, sol naciente” fue pintada por Claude Monet.",
+  "explanation": "Impresión, sol naciente” fue pintada por Claude Monet.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

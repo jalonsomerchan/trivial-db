@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué singular corresponde al plural “actrices”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué singular corresponde al plural actrices”?",
   "answers": [
     {
       "text": "actriz",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “actrices” es “actriz”.",
+  "explanation": "El singular de actrices” es actriz”.",
   "sources": [
     {
       "title": "Real Academia Española",

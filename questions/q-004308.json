@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "¿Qué término gramatical corresponde a esta definición: “palabra que sustituye o representa a un nombre”?",
+  "question": "¿Qué término gramatical corresponde a esta definición: palabra que sustituye o representa a un nombre”?",
   "answers": [
     {
       "text": "aguda",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La definición corresponde a “pronombre”.",
+  "explanation": "La definición corresponde a pronombre”.",
   "sources": [
     {
       "title": "Real Academia Española",

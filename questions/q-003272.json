@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué código HTTP corresponde a “OK”?",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué código HTTP corresponde a OK”?",
   "answers": [
     {
       "text": "200",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“OK” corresponde al código HTTP 200.",
+  "explanation": "OK” corresponde al código HTTP 200.",
   "sources": [
     {
       "title": "MDN Web Docs",

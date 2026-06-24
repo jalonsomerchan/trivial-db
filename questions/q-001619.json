@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "“Qué artista pintó “La libertad guiando al pueblo””?",
+  "question": "Qué artista pintó La libertad guiando al pueblo””?",
   "answers": [
     {
       "text": "Eugène Delacroix",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La libertad guiando al pueblo” fue pintada por Eugène Delacroix.",
+  "explanation": "La libertad guiando al pueblo” fue pintada por Eugène Delacroix.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Quién dirigió la película “Blade Runner””. ¿Cuál es la respuesta?",
+  "question": "Quién dirigió la película Blade Runner””. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Alfred Hitchcock",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Blade Runner” fue dirigida por Ridley Scott.",
+  "explanation": "Blade Runner” fue dirigida por Ridley Scott.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "¿En qué año se estrenó “El viaje de Chihiro”. ¿Cuál es la respuesta?",
+  "question": "¿En qué año se estrenó El viaje de Chihiro”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "1982",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El viaje de Chihiro” se estrenó en 2001.",
+  "explanation": "El viaje de Chihiro” se estrenó en 2001.",
   "sources": [
     {
       "title": "The Academy Awards",

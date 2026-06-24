@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "“En qué año se publicó el álbum “Like a Prayer””?",
+  "question": "En qué año se publicó el álbum Like a Prayer””?",
   "answers": [
     {
       "text": "2018",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El álbum “Like a Prayer” se publicó en 1989.",
+  "explanation": "El álbum Like a Prayer” se publicó en 1989.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

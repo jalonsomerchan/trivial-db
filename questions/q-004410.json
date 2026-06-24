@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "“Cuál es un sinónimo de “cierto””?",
+  "question": "Cuál es un sinónimo de cierto””?",
   "answers": [
     {
       "text": "pausado",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“verdadero” es un sinónimo de “cierto”.",
+  "explanation": "verdadero” es un sinónimo de cierto”.",
   "sources": [
     {
       "title": "Real Academia Española",

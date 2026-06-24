@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "medium",
-  "question": "“Qué puerto usa LDAP por defecto”?",
+  "question": "Qué puerto usa LDAP por defecto”?",
   "answers": [
     {
       "text": "53",

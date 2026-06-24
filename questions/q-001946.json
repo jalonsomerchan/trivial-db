@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "hard",
-  "question": "““Moby-Dick” pertenece principalmente al ámbito de...”?",
+  "question": "Moby-Dick” pertenece principalmente al ámbito de...”?",
   "answers": [
     {
       "text": "literatura",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Moby-Dick” se clasifica dentro de literatura.",
+  "explanation": "Moby-Dick” se clasifica dentro de literatura.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

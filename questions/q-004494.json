@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "“Cuál es un sinónimo de “enemigo””?",
+  "question": "Cuál es un sinónimo de enemigo””?",
   "answers": [
     {
       "text": "docente",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“adversario” es un sinónimo de “enemigo”.",
+  "explanation": "adversario” es un sinónimo de enemigo”.",
   "sources": [
     {
       "title": "Real Academia Española",

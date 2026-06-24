@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "“parte de la palabra que aporta el significado básico””?",
+  "question": "parte de la palabra que aporta el significado básico””?",
   "answers": [
     {
       "text": "polisémica",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La definición corresponde a “lexema”.",
+  "explanation": "La definición corresponde a lexema”.",
   "sources": [
     {
       "title": "Real Academia Española",

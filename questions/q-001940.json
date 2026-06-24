@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "Quién escribió “La vida es sueño”. ¿Cuál es la respuesta?",
+  "question": "Quién escribió La vida es sueño”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Pedro Calderón de la Barca",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La vida es sueño” es una obra de Pedro Calderón de la Barca.",
+  "explanation": "La vida es sueño” es una obra de Pedro Calderón de la Barca.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

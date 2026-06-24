@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué palabra lleva tilde correctamente: canción, cancion, cáncion”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Qué palabra lleva tilde correctamente: canción, cancion, cáncion”?",
   "answers": [
     {
       "text": "canción",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “canción”.",
+  "explanation": "La palabra correctamente acentuada es canción”.",
   "sources": [
     {
       "title": "Real Academia Española",

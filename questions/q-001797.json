@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "“Quién compuso “Claro de luna””?",
+  "question": "Quién compuso Claro de luna””?",
   "answers": [
     {
       "text": "Giacomo Puccini",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Claro de luna” fue compuesta por Claude Debussy.",
+  "explanation": "Claro de luna” fue compuesta por Claude Debussy.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

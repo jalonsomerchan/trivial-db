@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿En qué año se estrenó “Coco”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿En qué año se estrenó Coco”?",
   "answers": [
     {
       "text": "1985",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Coco” se estrenó en 2017.",
+  "explanation": "Coco” se estrenó en 2017.",
   "sources": [
     {
       "title": "The Academy Awards",

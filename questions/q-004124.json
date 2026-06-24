@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "“Cuál es un sinónimo de “claro””?",
+  "question": "Cuál es un sinónimo de claro””?",
   "answers": [
     {
       "text": "docente",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“nítido” es un sinónimo de “claro”.",
+  "explanation": "nítido” es un sinónimo de claro”.",
   "sources": [
     {
       "title": "Real Academia Española",

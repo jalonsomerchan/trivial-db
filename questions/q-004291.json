@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "hard",
-  "question": "““Qué singular corresponde al plural “bueyes”””?",
+  "question": "Qué singular corresponde al plural bueyes”””?",
   "answers": [
     {
       "text": "buey",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “bueyes” es “buey”.",
+  "explanation": "El singular de bueyes” es buey”.",
   "sources": [
     {
       "title": "Real Academia Española",

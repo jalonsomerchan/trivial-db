@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “En qué año se estrenó “El rey león”””?",
+  "question": "Cuál sería la opción correcta si la pista fuera En qué año se estrenó El rey león”””?",
   "answers": [
     {
       "text": "1995",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El rey león” se estrenó en 1994.",
+  "explanation": "El rey león” se estrenó en 1994.",
   "sources": [
     {
       "title": "The Academy Awards",

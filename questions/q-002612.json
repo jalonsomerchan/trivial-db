@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "“Qué artista publicó el álbum “Born to Run””?",
+  "question": "Qué artista publicó el álbum Born to Run””?",
   "answers": [
     {
       "text": "Enrique Morente y Lagartija Nick",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Born to Run” es un álbum de Bruce Springsteen.",
+  "explanation": "Born to Run” es un álbum de Bruce Springsteen.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

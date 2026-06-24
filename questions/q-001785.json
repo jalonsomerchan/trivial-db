@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "Quién escribió “Romeo y Julieta”. ¿Cuál es la respuesta?",
+  "question": "Quién escribió Romeo y Julieta”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Miguel de Unamuno",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Romeo y Julieta” es una obra de William Shakespeare.",
+  "explanation": "Romeo y Julieta” es una obra de William Shakespeare.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

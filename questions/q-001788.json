@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "hard",
-  "question": "“En historia del arte, “El jardín de las delicias” es una obra de...”?",
+  "question": "En historia del arte, El jardín de las delicias” es una obra de...”?",
   "answers": [
     {
       "text": "El Bosco",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La obra “El jardín de las delicias” corresponde a El Bosco.",
+  "explanation": "La obra El jardín de las delicias” corresponde a El Bosco.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

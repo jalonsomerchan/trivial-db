@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "easy",
-  "question": "¿En qué deporte se usa el término “tapón”?",
+  "question": "¿En qué deporte se usa el término tapón”?",
   "answers": [
     {
       "text": "baloncesto",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “tapón” se usa en baloncesto.",
+  "explanation": "El término tapón” se usa en baloncesto.",
   "sources": [
     {
       "title": "International Olympic Committee",

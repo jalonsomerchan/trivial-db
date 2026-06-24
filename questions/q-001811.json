@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "“Quién escribió “Macbeth””?",
+  "question": "Quién escribió Macbeth””?",
   "answers": [
     {
       "text": "autor anónimo",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Macbeth” es una obra de William Shakespeare.",
+  "explanation": "Macbeth” es una obra de William Shakespeare.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "Quién escribió “Los detectives salvajes”. ¿Cuál es la respuesta?",
+  "question": "Quién escribió Los detectives salvajes”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Roberto Bolaño",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Los detectives salvajes” es una obra de Roberto Bolaño.",
+  "explanation": "Los detectives salvajes” es una obra de Roberto Bolaño.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

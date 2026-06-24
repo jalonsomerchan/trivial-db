@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "¿Quién compuso “Réquiem”?",
+  "question": "¿Quién compuso Réquiem”?",
   "answers": [
     {
       "text": "Claude Debussy",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Réquiem” fue compuesta por Wolfgang Amadeus Mozart.",
+  "explanation": "Réquiem” fue compuesta por Wolfgang Amadeus Mozart.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

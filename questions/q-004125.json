@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "“palabra cuya sílaba tónica es la última””?",
+  "question": "palabra cuya sílaba tónica es la última””?",
   "answers": [
     {
       "text": "aguda",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La definición corresponde a “aguda”.",
+  "explanation": "La definición corresponde a aguda”.",
   "sources": [
     {
       "title": "Real Academia Española",

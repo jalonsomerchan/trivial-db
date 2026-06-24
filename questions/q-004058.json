@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es un sinónimo de “decir”?",
+  "question": "¿Cuál es un sinónimo de decir”?",
   "answers": [
     {
       "text": "pausado",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“expresar” es un sinónimo de “decir”.",
+  "explanation": "expresar” es un sinónimo de decir”.",
   "sources": [
     {
       "title": "Real Academia Española",

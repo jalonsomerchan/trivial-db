@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de “fácil”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de fácil”?",
   "answers": [
     {
       "text": "sencillo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“sencillo” es un sinónimo de “fácil”.",
+  "explanation": "sencillo” es un sinónimo de fácil”.",
   "sources": [
     {
       "title": "Real Academia Española",

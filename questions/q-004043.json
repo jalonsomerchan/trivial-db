@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es un sinónimo de “viaje”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es un sinónimo de viaje”?",
   "answers": [
     {
       "text": "complicado",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“trayecto” es un sinónimo de “viaje”.",
+  "explanation": "trayecto” es un sinónimo de viaje”.",
   "sources": [
     {
       "title": "Real Academia Española",

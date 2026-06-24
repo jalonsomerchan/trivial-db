@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "easy",
-  "question": "“Para qué se usa principalmente MQTT”?",
+  "question": "Para qué se usa principalmente MQTT”?",
   "answers": [
     {
       "text": "web",

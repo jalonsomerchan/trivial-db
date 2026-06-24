@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "“Quién dirigió la película “El silencio de los corderos””?",
+  "question": "Quién dirigió la película El silencio de los corderos””?",
   "answers": [
     {
       "text": "John Lasseter",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El silencio de los corderos” fue dirigida por Jonathan Demme.",
+  "explanation": "El silencio de los corderos” fue dirigida por Jonathan Demme.",
   "sources": [
     {
       "title": "The Academy Awards",

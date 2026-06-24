@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de “ratón”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de ratón”?",
   "answers": [
     {
       "text": "papás",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El plural correcto de “ratón” es “ratones”.",
+  "explanation": "El plural correcto de ratón” es ratones”.",
   "sources": [
     {
       "title": "Real Academia Española",

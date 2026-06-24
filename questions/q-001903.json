@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "¿Quién compuso “Carmen”?",
+  "question": "¿Quién compuso Carmen”?",
   "answers": [
     {
       "text": "Georg Friedrich Händel",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Carmen” fue compuesta por Georges Bizet.",
+  "explanation": "Carmen” fue compuesta por Georges Bizet.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

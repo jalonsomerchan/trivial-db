@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se estrenó “Gladiator”?",
+  "question": "¿En qué año se estrenó Gladiator”?",
   "answers": [
     {
       "text": "2001",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Gladiator” se estrenó en 2000.",
+  "explanation": "Gladiator” se estrenó en 2000.",
   "sources": [
     {
       "title": "The Academy Awards",

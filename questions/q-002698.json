@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "¿Quién dirigió la película “Gladiator”. ¿Cuál es la respuesta?",
+  "question": "¿Quién dirigió la película Gladiator”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Ridley Scott",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Gladiator” fue dirigida por Ridley Scott.",
+  "explanation": "Gladiator” fue dirigida por Ridley Scott.",
   "sources": [
     {
       "title": "The Academy Awards",

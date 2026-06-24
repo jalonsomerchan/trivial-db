@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se estrenó “Bienvenido, Mister Marshall”?",
+  "question": "¿En qué año se estrenó Bienvenido, Mister Marshall”?",
   "answers": [
     {
       "text": "1985",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Bienvenido, Mister Marshall” se estrenó en 1953.",
+  "explanation": "Bienvenido, Mister Marshall” se estrenó en 1953.",
   "sources": [
     {
       "title": "The Academy Awards",

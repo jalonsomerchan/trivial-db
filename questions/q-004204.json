@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Cuál es un sinónimo de “antiguo”. ¿Cuál es la respuesta?",
+  "question": "Cuál es un sinónimo de antiguo”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "resplandor",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“viejo” es un sinónimo de “antiguo”.",
+  "explanation": "viejo” es un sinónimo de antiguo”.",
   "sources": [
     {
       "title": "Real Academia Española",

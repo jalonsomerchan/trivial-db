@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "hard",
-  "question": "““Los santos inocentes” pertenece principalmente al ámbito de...”?",
+  "question": "Los santos inocentes” pertenece principalmente al ámbito de...”?",
   "answers": [
     {
       "text": "literatura",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Los santos inocentes” se clasifica dentro de literatura.",
+  "explanation": "Los santos inocentes” se clasifica dentro de literatura.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “Quién dirigió la película “Mi vecino Totoro”””?",
+  "question": "Cuál sería la opción correcta si la pista fuera Quién dirigió la película Mi vecino Totoro”””?",
   "answers": [
     {
       "text": "Alejandro González Iñárritu",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Mi vecino Totoro” fue dirigida por Hayao Miyazaki.",
+  "explanation": "Mi vecino Totoro” fue dirigida por Hayao Miyazaki.",
   "sources": [
     {
       "title": "The Academy Awards",

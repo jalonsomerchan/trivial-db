@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "“Quién escribió “Fortunata y Jacinta””?",
+  "question": "Quién escribió Fortunata y Jacinta””?",
   "answers": [
     {
       "text": "Benito Pérez Galdós",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Fortunata y Jacinta” es una obra de Benito Pérez Galdós.",
+  "explanation": "Fortunata y Jacinta” es una obra de Benito Pérez Galdós.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

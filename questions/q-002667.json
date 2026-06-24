@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Cuál sería la opción correcta si la pista fuera “En qué año se estrenó “Kill Bill: Volumen 1”””?",
+  "question": "Cuál sería la opción correcta si la pista fuera En qué año se estrenó Kill Bill: Volumen 1”””?",
   "answers": [
     {
       "text": "1991",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Kill Bill: Volumen 1” se estrenó en 2003.",
+  "explanation": "Kill Bill: Volumen 1” se estrenó en 2003.",
   "sources": [
     {
       "title": "The Academy Awards",

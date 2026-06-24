@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "¿Qué artista publicó el álbum “Like a Prayer”?",
+  "question": "¿Qué artista publicó el álbum Like a Prayer”?",
   "answers": [
     {
       "text": "U2",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Like a Prayer” es un álbum de Madonna.",
+  "explanation": "Like a Prayer” es un álbum de Madonna.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

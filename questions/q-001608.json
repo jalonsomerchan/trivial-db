@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "““Qué obra fue escrita por Ernesto Sabato””?",
+  "question": "Qué obra fue escrita por Ernesto Sabato””?",
   "answers": [
     {
       "text": "San Manuel Bueno, mártir",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "Ernesto Sabato escribió “El túnel”.",
+  "explanation": "Ernesto Sabato escribió El túnel”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película “La bella y la bestia”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película La bella y la bestia”?",
   "answers": [
     {
       "text": "Pedro Almodóvar",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La bella y la bestia” fue dirigida por Gary Trousdale y Kirk Wise.",
+  "explanation": "La bella y la bestia” fue dirigida por Gary Trousdale y Kirk Wise.",
   "sources": [
     {
       "title": "The Academy Awards",

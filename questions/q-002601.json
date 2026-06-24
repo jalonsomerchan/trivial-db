@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "hard",
-  "question": "“Qué película fue dirigida por Luis García Berlanga en esta selección”?",
+  "question": "Qué película fue dirigida por Luis García Berlanga en esta selección”?",
   "answers": [
     {
       "text": "Bienvenido, Mister Marshall",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Luis García Berlanga dirigió “Bienvenido, Mister Marshall”.",
+  "explanation": "Luis García Berlanga dirigió Bienvenido, Mister Marshall”.",
   "sources": [
     {
       "title": "The Academy Awards",

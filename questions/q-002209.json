@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "medium",
-  "question": "En deporte, ¿qué opción responde correctamente a esta pista: En qué deporte se usa el término “touché”?",
+  "question": "En deporte, ¿qué opción responde correctamente a esta pista: En qué deporte se usa el término touché”?",
   "answers": [
     {
       "text": "ciclismo",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El término “touché” se usa en esgrima.",
+  "explanation": "El término touché” se usa en esgrima.",
   "sources": [
     {
       "title": "International Olympic Committee",

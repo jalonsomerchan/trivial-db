@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "medium",
-  "question": "“Qué puerto usa POP3 por defecto”?",
+  "question": "Qué puerto usa POP3 por defecto”?",
   "answers": [
     {
       "text": "110",

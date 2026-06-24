@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "“rápido, rapido, rápído””?",
+  "question": "rápido, rapido, rápído””?",
   "answers": [
     {
       "text": "rapido",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “rápido”.",
+  "explanation": "La palabra correctamente acentuada es rápido”.",
   "sources": [
     {
       "title": "Real Academia Española",

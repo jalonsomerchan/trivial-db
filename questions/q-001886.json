@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "medium",
-  "question": "“Qué obra fue escrita por Antonio Machado”?",
+  "question": "Qué obra fue escrita por Antonio Machado”?",
   "answers": [
     {
       "text": "El amor en los tiempos del cólera",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Antonio Machado escribió “Campos de Castilla”.",
+  "explanation": "Antonio Machado escribió Campos de Castilla”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "“camión, camion, cámion. ¿Cuál es la respuesta”?",
+  "question": "camión, camion, cámion. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "camión",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “camión”.",
+  "explanation": "La palabra correctamente acentuada es camión”.",
   "sources": [
     {
       "title": "Real Academia Española",

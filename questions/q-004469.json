@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es el plural correcto de “bisturí”?",
+  "question": "¿Cuál es el plural correcto de bisturí”?",
   "answers": [
     {
       "text": "bisturíes",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “bisturí” es “bisturíes”.",
+  "explanation": "El plural correcto de bisturí” es bisturíes”.",
   "sources": [
     {
       "title": "Real Academia Española",

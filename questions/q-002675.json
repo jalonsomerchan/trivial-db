@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “Uno de los nuestros”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película Uno de los nuestros”?",
   "answers": [
     {
       "text": "Martin Scorsese",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Uno de los nuestros” fue dirigida por Martin Scorsese.",
+  "explanation": "Uno de los nuestros” fue dirigida por Martin Scorsese.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "medium",
-  "question": "Según la posición de la sílaba tónica, ¿qué tipo de palabra es “difícil”. ¿Cuál es la respuesta?",
+  "question": "Según la posición de la sílaba tónica, ¿qué tipo de palabra es difícil”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "llana",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“difícil” es una palabra llana.",
+  "explanation": "difícil” es una palabra llana.",
   "sources": [
     {
       "title": "Real Academia Española",

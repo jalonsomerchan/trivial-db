@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a “vivienda”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a vivienda”?",
   "answers": [
     {
       "text": "bonito",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“casa” y “vivienda” tienen significado parecido.",
+  "explanation": "casa” y vivienda” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

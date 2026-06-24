@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "En qué año se publicó el álbum “OK Computer”. ¿Cuál es la respuesta?",
+  "question": "En qué año se publicó el álbum OK Computer”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "1983",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El álbum “OK Computer” se publicó en 1997.",
+  "explanation": "El álbum OK Computer” se publicó en 1997.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "“Qué código HTTP corresponde a “No Content””?",
+  "question": "Qué código HTTP corresponde a No Content””?",
   "answers": [
     {
       "text": "204",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“No Content” corresponde al código HTTP 204.",
+  "explanation": "No Content” corresponde al código HTTP 204.",
   "sources": [
     {
       "title": "MDN Web Docs",

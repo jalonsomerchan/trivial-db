@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es el plural correcto de “jabalí”?",
+  "question": "¿Cuál es el plural correcto de jabalí”?",
   "answers": [
     {
       "text": "países",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El plural correcto de “jabalí” es “jabalíes”.",
+  "explanation": "El plural correcto de jabalí” es jabalíes”.",
   "sources": [
     {
       "title": "Real Academia Española",

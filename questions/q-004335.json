@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "“Qué singular corresponde al plural “jerséis””?",
+  "question": "Qué singular corresponde al plural jerséis””?",
   "answers": [
     {
       "text": "rubí",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “jerséis” es “jersey”.",
+  "explanation": "El singular de jerséis” es jersey”.",
   "sources": [
     {
       "title": "Real Academia Española",

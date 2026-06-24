@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "easy",
-  "question": "Qué artista pintó “Las meninas”. ¿Cuál es la respuesta?",
+  "question": "Qué artista pintó Las meninas”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Leonardo da Vinci",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Las meninas” fue pintada por Diego Velázquez.",
+  "explanation": "Las meninas” fue pintada por Diego Velázquez.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

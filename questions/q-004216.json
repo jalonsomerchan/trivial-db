@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "¿Qué término gramatical corresponde a esta definición: “palabra que expresa cualidades o propiedades”?",
+  "question": "¿Qué término gramatical corresponde a esta definición: palabra que expresa cualidades o propiedades”?",
   "answers": [
     {
       "text": "sinónimo",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La definición corresponde a “adjetivo”.",
+  "explanation": "La definición corresponde a adjetivo”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es el plural correcto de “luz”?",
+  "question": "¿Cuál es el plural correcto de luz”?",
   "answers": [
     {
       "text": "países",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “luz” es “luces”.",
+  "explanation": "El plural correcto de luz” es luces”.",
   "sources": [
     {
       "title": "Real Academia Española",

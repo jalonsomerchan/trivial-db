@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra tiene un significado parecido a “observar”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra tiene un significado parecido a observar”?",
   "answers": [
     {
       "text": "oscuridad",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“mirar” y “observar” tienen significado parecido.",
+  "explanation": "mirar” y observar” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

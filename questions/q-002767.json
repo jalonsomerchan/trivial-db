@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En qué año se estrenó “Tiburón””?",
+  "question": "En qué año se estrenó Tiburón””?",
   "answers": [
     {
       "text": "2013",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Tiburón” se estrenó en 1975.",
+  "explanation": "Tiburón” se estrenó en 1975.",
   "sources": [
     {
       "title": "The Academy Awards",

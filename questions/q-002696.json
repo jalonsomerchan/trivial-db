@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "“Quién dirigió la película “Pulp Fiction””. ¿Cuál es la respuesta?",
+  "question": "Quién dirigió la película Pulp Fiction””. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Quentin Tarantino",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Pulp Fiction” fue dirigida por Quentin Tarantino.",
+  "explanation": "Pulp Fiction” fue dirigida por Quentin Tarantino.",
   "sources": [
     {
       "title": "The Academy Awards",

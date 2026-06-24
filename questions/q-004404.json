@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "medium",
-  "question": "“Qué palabra lleva tilde correctamente: jamás, jamas, jámas”?",
+  "question": "Qué palabra lleva tilde correctamente: jamás, jamas, jámas”?",
   "answers": [
     {
       "text": "jamàs",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “jamás”.",
+  "explanation": "La palabra correctamente acentuada es jamás”.",
   "sources": [
     {
       "title": "Real Academia Española",

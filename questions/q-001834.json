@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "hard",
-  "question": "““Campos de Castilla” pertenece principalmente al ámbito de...”?",
+  "question": "Campos de Castilla” pertenece principalmente al ámbito de...”?",
   "answers": [
     {
       "text": "literatura",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Campos de Castilla” se clasifica dentro de poesia.",
+  "explanation": "Campos de Castilla” se clasifica dentro de poesia.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

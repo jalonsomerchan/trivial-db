@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "“En qué año se lanzó originalmente “Undertale””?",
+  "question": "En qué año se lanzó originalmente Undertale””?",
   "answers": [
     {
       "text": "2001",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Undertale” se lanzó originalmente en 2015.",
+  "explanation": "Undertale” se lanzó originalmente en 2015.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

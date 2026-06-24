@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿Quién dirigió la película “Ciudadano Kane”?",
+  "question": "¿Quién dirigió la película Ciudadano Kane”?",
   "answers": [
     {
       "text": "Robert Zemeckis",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Ciudadano Kane” fue dirigida por Orson Welles.",
+  "explanation": "Ciudadano Kane” fue dirigida por Orson Welles.",
   "sources": [
     {
       "title": "The Academy Awards",

@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué compañía o creador desarrolló “Resident Evil”?",
+  "question": "¿Qué compañía o creador desarrolló Resident Evil”?",
   "answers": [
     {
       "text": "Capcom",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Resident Evil” se asocia con Capcom.",
+  "explanation": "Resident Evil” se asocia con Capcom.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

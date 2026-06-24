@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "hard",
-  "question": "Cuál es el plural correcto de “papá”. ¿Cuál es la respuesta?",
+  "question": "Cuál es el plural correcto de papá”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "papás",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “papá” es “papás”.",
+  "explanation": "El plural correcto de papá” es papás”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "“““2666” pertenece principalmente al ámbito de...””?",
+  "question": "2666” pertenece principalmente al ámbito de...””?",
   "answers": [
     {
       "text": "épica",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“2666” se clasifica dentro de literatura.",
+  "explanation": "2666” se clasifica dentro de literatura.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

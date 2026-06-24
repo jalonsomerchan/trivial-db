@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué compañía o creador desarrolló “Pokémon Rojo y Azul”?",
+  "question": "¿Qué compañía o creador desarrolló Pokémon Rojo y Azul”?",
   "answers": [
     {
       "text": "FromSoftware",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Pokémon Rojo y Azul” se asocia con Game Freak.",
+  "explanation": "Pokémon Rojo y Azul” se asocia con Game Freak.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

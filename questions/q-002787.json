@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "Qué compañía o creador desarrolló “The Sims”. ¿Cuál es la respuesta?",
+  "question": "Qué compañía o creador desarrolló The Sims”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Namco",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“The Sims” se asocia con Maxis.",
+  "explanation": "The Sims” se asocia con Maxis.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué sigla corresponde a “crear, leer, actualizar y borrar”?",
+  "question": "¿Qué sigla corresponde a crear, leer, actualizar y borrar”?",
   "answers": [
     {
       "text": "TCP",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “crear, leer, actualizar y borrar” es CRUD.",
+  "explanation": "La sigla correspondiente a crear, leer, actualizar y borrar” es CRUD.",
   "sources": [
     {
       "title": "MDN Web Docs",

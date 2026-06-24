@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió “La Divina Comedia”?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió La Divina Comedia”?",
   "answers": [
     {
       "text": "Dante Alighieri",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La Divina Comedia” es una obra de Dante Alighieri.",
+  "explanation": "La Divina Comedia” es una obra de Dante Alighieri.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

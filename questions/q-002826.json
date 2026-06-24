@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "hard",
-  "question": "“Qué álbum pertenece a Beyoncé”?",
+  "question": "Qué álbum pertenece a Beyoncé”?",
   "answers": [
     {
       "text": "Mediterráneo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Lemonade” pertenece a Beyoncé.",
+  "explanation": "Lemonade” pertenece a Beyoncé.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

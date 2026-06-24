@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué sigla corresponde a “seguridad de la capa de transporte”?",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué sigla corresponde a seguridad de la capa de transporte”?",
   "answers": [
     {
       "text": "TLS",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “seguridad de la capa de transporte” es TLS.",
+  "explanation": "La sigla correspondiente a seguridad de la capa de transporte” es TLS.",
   "sources": [
     {
       "title": "MDN Web Docs",

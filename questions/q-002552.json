@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se estrenó “Buscando a Nemo”?",
+  "question": "¿En qué año se estrenó Buscando a Nemo”?",
   "answers": [
     {
       "text": "2003",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Buscando a Nemo” se estrenó en 2003.",
+  "explanation": "Buscando a Nemo” se estrenó en 2003.",
   "sources": [
     {
       "title": "The Academy Awards",

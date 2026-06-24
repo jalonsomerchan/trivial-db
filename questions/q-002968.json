@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “Gravity”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película Gravity”?",
   "answers": [
     {
       "text": "Peter Jackson",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Gravity” fue dirigida por Alfonso Cuarón.",
+  "explanation": "Gravity” fue dirigida por Alfonso Cuarón.",
   "sources": [
     {
       "title": "The Academy Awards",

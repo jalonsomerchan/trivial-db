@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "Qué sigla corresponde a “interfaz gráfica de usuario”. ¿Cuál es la respuesta?",
+  "question": "Qué sigla corresponde a interfaz gráfica de usuario”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "DNS",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “interfaz gráfica de usuario” es GUI.",
+  "explanation": "La sigla correspondiente a interfaz gráfica de usuario” es GUI.",
   "sources": [
     {
       "title": "MDN Web Docs",

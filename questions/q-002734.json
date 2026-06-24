@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "hard",
-  "question": "“Qué álbum pertenece a Eagles”?",
+  "question": "Qué álbum pertenece a Eagles”?",
   "answers": [
     {
       "text": "Back in Black",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Hotel California” pertenece a Eagles.",
+  "explanation": "Hotel California” pertenece a Eagles.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

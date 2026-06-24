@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de “coche”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de coche”?",
   "answers": [
     {
       "text": "adquirir",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“automóvil” es un sinónimo de “coche”.",
+  "explanation": "automóvil” es un sinónimo de coche”.",
   "sources": [
     {
       "title": "Real Academia Española",

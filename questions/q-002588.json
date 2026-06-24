@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "hard",
-  "question": "“Qué película fue dirigida por Mel Gibson en esta selección”?",
+  "question": "Qué película fue dirigida por Mel Gibson en esta selección”?",
   "answers": [
     {
       "text": "Gravity",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Mel Gibson dirigió “Braveheart”.",
+  "explanation": "Mel Gibson dirigió Braveheart”.",
   "sources": [
     {
       "title": "The Academy Awards",

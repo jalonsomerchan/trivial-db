@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "hard",
-  "question": "“Qué película fue dirigida por Roberto Benigni en esta selección”?",
+  "question": "Qué película fue dirigida por Roberto Benigni en esta selección”?",
   "answers": [
     {
       "text": "Buscando a Nemo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Roberto Benigni dirigió “La vida es bella”.",
+  "explanation": "Roberto Benigni dirigió La vida es bella”.",
   "sources": [
     {
       "title": "The Academy Awards",

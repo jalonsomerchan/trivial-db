@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "medium",
-  "question": "“En qué deporte se usa el término “over””?",
+  "question": "En qué deporte se usa el término over””?",
   "answers": [
     {
       "text": "golf",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El término “over” se usa en cricket.",
+  "explanation": "El término over” se usa en cricket.",
   "sources": [
     {
       "title": "International Olympic Committee",

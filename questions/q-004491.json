@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural “narices”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural narices”?",
   "answers": [
     {
       "text": "ciudad",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El singular de “narices” es “nariz”.",
+  "explanation": "El singular de narices” es nariz”.",
   "sources": [
     {
       "title": "Real Academia Española",

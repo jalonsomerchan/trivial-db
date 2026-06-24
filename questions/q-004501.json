@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "medium",
-  "question": "“Según la posición de la sílaba tónica, ¿qué tipo de palabra es “árbol””?",
+  "question": "Según la posición de la sílaba tónica, ¿qué tipo de palabra es árbol””?",
   "answers": [
     {
       "text": "aguda",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“árbol” es una palabra llana.",
+  "explanation": "árbol” es una palabra llana.",
   "sources": [
     {
       "title": "Real Academia Española",

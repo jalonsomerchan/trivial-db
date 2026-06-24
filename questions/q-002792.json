@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “El rey león”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película El rey león”?",
   "answers": [
     {
       "text": "George Lucas",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El rey león” fue dirigida por Roger Allers y Rob Minkoff.",
+  "explanation": "El rey león” fue dirigida por Roger Allers y Rob Minkoff.",
   "sources": [
     {
       "title": "The Academy Awards",

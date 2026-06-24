@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "“Quién dirigió la película “Birdman””?",
+  "question": "Quién dirigió la película Birdman””?",
   "answers": [
     {
       "text": "Ridley Scott",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Birdman” fue dirigida por Alejandro González Iñárritu.",
+  "explanation": "Birdman” fue dirigida por Alejandro González Iñárritu.",
   "sources": [
     {
       "title": "The Academy Awards",

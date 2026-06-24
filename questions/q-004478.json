@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de “pared”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de pared”?",
   "answers": [
     {
       "text": "cafés",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El plural correcto de “pared” es “paredes”.",
+  "explanation": "El plural correcto de pared” es paredes”.",
   "sources": [
     {
       "title": "Real Academia Española",

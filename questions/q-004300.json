@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál es un sinónimo de “alegre”?",
+  "question": "¿Cuál es un sinónimo de alegre”?",
   "answers": [
     {
       "text": "tiniebla",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“contento” es un sinónimo de “alegre”.",
+  "explanation": "contento” es un sinónimo de alegre”.",
   "sources": [
     {
       "title": "Real Academia Española",

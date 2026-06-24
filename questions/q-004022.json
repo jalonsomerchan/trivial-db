@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "“baúl, baul, bául. ¿Cuál es la respuesta”?",
+  "question": "baúl, baul, bául. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "bául",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “baúl”.",
+  "explanation": "La palabra correctamente acentuada es baúl”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "Qué artista publicó el álbum “Back in Black”. ¿Cuál es la respuesta?",
+  "question": "Qué artista publicó el álbum Back in Black”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Miles Davis",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Back in Black” es un álbum de AC/DC.",
+  "explanation": "Back in Black” es un álbum de AC/DC.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

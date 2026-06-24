@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En qué año se estrenó “Salvar al soldado Ryan””?",
+  "question": "En qué año se estrenó Salvar al soldado Ryan””?",
   "answers": [
     {
       "text": "2002",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Salvar al soldado Ryan” se estrenó en 1998.",
+  "explanation": "Salvar al soldado Ryan” se estrenó en 1998.",
   "sources": [
     {
       "title": "The Academy Awards",

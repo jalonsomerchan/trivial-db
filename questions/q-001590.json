@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién compuso “Sinfonía del Nuevo Mundo”?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién compuso Sinfonía del Nuevo Mundo”?",
   "answers": [
     {
       "text": "Antonín Dvořák",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Sinfonía del Nuevo Mundo” fue compuesta por Antonín Dvořák.",
+  "explanation": "Sinfonía del Nuevo Mundo” fue compuesta por Antonín Dvořák.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

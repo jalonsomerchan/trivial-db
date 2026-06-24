@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "“Qué cuadro se asocia con Jan van Eyck”?",
+  "question": "Qué cuadro se asocia con Jan van Eyck”?",
   "answers": [
     {
       "text": "American Gothic",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Jan van Eyck es el autor de “El matrimonio Arnolfini”.",
+  "explanation": "Jan van Eyck es el autor de El matrimonio Arnolfini”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "“Qué compañía o creador desarrolló “World of Warcraft””?",
+  "question": "Qué compañía o creador desarrolló World of Warcraft””?",
   "answers": [
     {
       "text": "Epic Games",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“World of Warcraft” se asocia con Blizzard Entertainment.",
+  "explanation": "World of Warcraft” se asocia con Blizzard Entertainment.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

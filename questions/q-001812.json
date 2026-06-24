@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “El Aleph”?",
+  "question": "¿Quién escribió El Aleph”?",
   "answers": [
     {
       "text": "Gustave Flaubert",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El Aleph” es una obra de Jorge Luis Borges.",
+  "explanation": "El Aleph” es una obra de Jorge Luis Borges.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

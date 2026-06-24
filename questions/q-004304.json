@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "“Qué palabra tiene un significado parecido a “reflexionar””?",
+  "question": "Qué palabra tiene un significado parecido a reflexionar””?",
   "answers": [
     {
       "text": "pequeño",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“pensar” y “reflexionar” tienen significado parecido.",
+  "explanation": "pensar” y reflexionar” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "medium",
-  "question": "¿En qué deporte se usa el término “strike”?",
+  "question": "¿En qué deporte se usa el término strike”?",
   "answers": [
     {
       "text": "boxeo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “strike” se usa en bolos.",
+  "explanation": "El término strike” se usa en bolos.",
   "sources": [
     {
       "title": "International Olympic Committee",

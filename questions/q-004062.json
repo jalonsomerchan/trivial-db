@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "¿Qué singular corresponde al plural “jabalíes”?",
+  "question": "¿Qué singular corresponde al plural jabalíes”?",
   "answers": [
     {
       "text": "jabalí",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “jabalíes” es “jabalí”.",
+  "explanation": "El singular de jabalíes” es jabalí”.",
   "sources": [
     {
       "title": "Real Academia Española",

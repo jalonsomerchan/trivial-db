@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "“palabra con significado igual o parecido”. ¿Cuál es la respuesta?",
+  "question": "palabra con significado igual o parecido”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "morfema",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La definición corresponde a “sinónimo”.",
+  "explanation": "La definición corresponde a sinónimo”.",
   "sources": [
     {
       "title": "Real Academia Española",

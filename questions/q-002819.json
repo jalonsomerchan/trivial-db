@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “Seven”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película Seven”?",
   "answers": [
     {
       "text": "David Fincher",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Seven” fue dirigida por David Fincher.",
+  "explanation": "Seven” fue dirigida por David Fincher.",
   "sources": [
     {
       "title": "The Academy Awards",

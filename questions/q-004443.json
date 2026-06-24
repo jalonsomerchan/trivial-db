@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "¿Qué término gramatical corresponde a esta definición: “palabra que expresa acciones, procesos o estados”?",
+  "question": "¿Qué término gramatical corresponde a esta definición: palabra que expresa acciones, procesos o estados”?",
   "answers": [
     {
       "text": "homónima",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La definición corresponde a “verbo”.",
+  "explanation": "La definición corresponde a verbo”.",
   "sources": [
     {
       "title": "Real Academia Española",

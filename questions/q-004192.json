@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué término gramatical corresponde a esta definición: “palabra igual en forma a otra pero de distinto significado”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué término gramatical corresponde a esta definición: palabra igual en forma a otra pero de distinto significado”?",
   "answers": [
     {
       "text": "esdrújula",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La definición corresponde a “homónima”.",
+  "explanation": "La definición corresponde a homónima”.",
   "sources": [
     {
       "title": "Real Academia Española",

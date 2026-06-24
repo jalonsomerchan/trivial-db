@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a “empezar”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a empezar”?",
   "answers": [
     {
       "text": "comenzar",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“comenzar” y “empezar” tienen significado parecido.",
+  "explanation": "comenzar” y empezar” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

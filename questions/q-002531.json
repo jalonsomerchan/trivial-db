@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "¿En qué año se lanzó originalmente “The Last of Us”?",
+  "question": "¿En qué año se lanzó originalmente The Last of Us”?",
   "answers": [
     {
       "text": "1996",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“The Last of Us” se lanzó originalmente en 2013.",
+  "explanation": "The Last of Us” se lanzó originalmente en 2013.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

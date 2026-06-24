@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "hard",
-  "question": "“Qué álbum pertenece a Joni Mitchell”?",
+  "question": "Qué álbum pertenece a Joni Mitchell”?",
   "answers": [
     {
       "text": "Blue",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Blue” pertenece a Joni Mitchell.",
+  "explanation": "Blue” pertenece a Joni Mitchell.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

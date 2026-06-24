@@ -7,7 +7,7 @@
     "videojuegos"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué compañía o creador desarrolló “Half-Life”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué compañía o creador desarrolló Half-Life”?",
   "answers": [
     {
       "text": "ConcernedApe",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Half-Life” se asocia con Valve.",
+  "explanation": "Half-Life” se asocia con Valve.",
   "sources": [
     {
       "title": "The Strong National Museum of Play - Video Game History",

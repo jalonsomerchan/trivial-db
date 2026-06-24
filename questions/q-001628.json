@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "hard",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: “Libertad bajo palabra” pertenece principalmente al ámbito de...?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Libertad bajo palabra” pertenece principalmente al ámbito de...?",
   "answers": [
     {
       "text": "poesia",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Libertad bajo palabra” se clasifica dentro de poesia.",
+  "explanation": "Libertad bajo palabra” se clasifica dentro de poesia.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

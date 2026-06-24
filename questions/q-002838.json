@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "Qué artista publicó el álbum “Clandestino”. ¿Cuál es la respuesta?",
+  "question": "Qué artista publicó el álbum Clandestino”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "Manu Chao",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Clandestino” es un álbum de Manu Chao.",
+  "explanation": "Clandestino” es un álbum de Manu Chao.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

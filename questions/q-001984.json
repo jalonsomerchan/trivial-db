@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "easy",
-  "question": "¿Qué artista pintó “La Gioconda”?",
+  "question": "¿Qué artista pintó La Gioconda”?",
   "answers": [
     {
       "text": "Leonardo da Vinci",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La Gioconda” fue pintada por Leonardo da Vinci.",
+  "explanation": "La Gioconda” fue pintada por Leonardo da Vinci.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

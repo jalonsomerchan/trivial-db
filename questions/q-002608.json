@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué artista publicó el álbum “Bocanada”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué artista publicó el álbum Bocanada”?",
   "answers": [
     {
       "text": "Eagles",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Bocanada” es un álbum de Gustavo Cerati.",
+  "explanation": "Bocanada” es un álbum de Gustavo Cerati.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

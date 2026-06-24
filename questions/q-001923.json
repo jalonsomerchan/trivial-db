@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “2666”?",
+  "question": "¿Quién escribió 2666”?",
   "answers": [
     {
       "text": "F. Scott Fitzgerald",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“2666” es una obra de Roberto Bolaño.",
+  "explanation": "2666” es una obra de Roberto Bolaño.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

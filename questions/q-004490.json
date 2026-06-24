@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es un sinónimo de “pequeño”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es un sinónimo de pequeño”?",
   "answers": [
     {
       "text": "audaz",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“diminuto” es un sinónimo de “pequeño”.",
+  "explanation": "diminuto” es un sinónimo de pequeño”.",
   "sources": [
     {
       "title": "Real Academia Española",

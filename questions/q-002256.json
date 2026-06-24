@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "hard",
-  "question": "“Qué término pertenece al vocabulario de atletismo”?",
+  "question": "Qué término pertenece al vocabulario de atletismo”?",
   "answers": [
     {
       "text": "maillot amarillo",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“triple salto” forma parte del vocabulario de atletismo.",
+  "explanation": "triple salto” forma parte del vocabulario de atletismo.",
   "sources": [
     {
       "title": "International Olympic Committee",

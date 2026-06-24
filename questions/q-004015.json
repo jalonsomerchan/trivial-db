@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "“carácter, caracter, caractér””?",
+  "question": "carácter, caracter, caractér””?",
   "answers": [
     {
       "text": "cáracter",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “carácter”.",
+  "explanation": "La palabra correctamente acentuada es carácter”.",
   "sources": [
     {
       "title": "Real Academia Española",

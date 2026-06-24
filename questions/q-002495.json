@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "hard",
-  "question": "“Qué término pertenece al vocabulario de fútbol”?",
+  "question": "Qué término pertenece al vocabulario de fútbol”?",
   "answers": [
     {
       "text": "salto con pértiga",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“hat-trick” forma parte del vocabulario de fútbol.",
+  "explanation": "hat-trick” forma parte del vocabulario de fútbol.",
   "sources": [
     {
       "title": "International Olympic Committee",

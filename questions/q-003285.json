@@ -7,7 +7,7 @@
     "programacion"
   ],
   "difficulty": "medium",
-  "question": "“Quién creó o impulsó originalmente el lenguaje Go”?",
+  "question": "Quién creó o impulsó originalmente el lenguaje Go”?",
   "answers": [
     {
       "text": "Robert Griesemer, Rob Pike y Ken Thompson",

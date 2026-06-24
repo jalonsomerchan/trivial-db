@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "medium",
-  "question": "¿En qué deporte se usa el término “half-pipe”?",
+  "question": "¿En qué deporte se usa el término half-pipe”?",
   "answers": [
     {
       "text": "voleibol",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “half-pipe” se usa en snowboard.",
+  "explanation": "El término half-pipe” se usa en snowboard.",
   "sources": [
     {
       "title": "International Olympic Committee",

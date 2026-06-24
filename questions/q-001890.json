@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "easy",
-  "question": "“Qué artista pintó “Guernica””?",
+  "question": "Qué artista pintó Guernica””?",
   "answers": [
     {
       "text": "Johannes Vermeer",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Guernica” fue pintada por Pablo Picasso.",
+  "explanation": "Guernica” fue pintada por Pablo Picasso.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

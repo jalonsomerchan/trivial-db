@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "“Qué obra fue escrita por Carmen Laforet. ¿Cuál es la respuesta”?",
+  "question": "Qué obra fue escrita por Carmen Laforet. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "Nada",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "Carmen Laforet escribió “Nada”.",
+  "explanation": "Carmen Laforet escribió Nada”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

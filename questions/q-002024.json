@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "hard",
-  "question": "“Qué término pertenece al vocabulario de rugby”?",
+  "question": "Qué término pertenece al vocabulario de rugby”?",
   "answers": [
     {
       "text": "scrum",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“scrum” forma parte del vocabulario de rugby.",
+  "explanation": "scrum” forma parte del vocabulario de rugby.",
   "sources": [
     {
       "title": "International Olympic Committee",

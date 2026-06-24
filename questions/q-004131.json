@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué palabra lleva tilde correctamente: reloj, réloj, relój”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Qué palabra lleva tilde correctamente: reloj, réloj, relój”?",
   "answers": [
     {
       "text": "relój",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “reloj”.",
+  "explanation": "La palabra correctamente acentuada es reloj”.",
   "sources": [
     {
       "title": "Real Academia Española",

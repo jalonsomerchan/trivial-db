@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "medium",
-  "question": "¿En qué deporte se usa el término “pit stop”?",
+  "question": "¿En qué deporte se usa el término pit stop”?",
   "answers": [
     {
       "text": "snowboard",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El término “pit stop” se usa en automovilismo.",
+  "explanation": "El término pit stop” se usa en automovilismo.",
   "sources": [
     {
       "title": "International Olympic Committee",

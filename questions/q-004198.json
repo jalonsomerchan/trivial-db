@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "“Cuál es el plural correcto de “país””?",
+  "question": "Cuál es el plural correcto de país””?",
   "answers": [
     {
       "text": "países",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “país” es “países”.",
+  "explanation": "El plural correcto de país” es países”.",
   "sources": [
     {
       "title": "Real Academia Española",

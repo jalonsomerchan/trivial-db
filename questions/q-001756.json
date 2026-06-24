@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió “En busca del tiempo perdido”?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió En busca del tiempo perdido”?",
   "answers": [
     {
       "text": "Mark Twain",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“En busca del tiempo perdido” es una obra de Marcel Proust.",
+  "explanation": "En busca del tiempo perdido” es una obra de Marcel Proust.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

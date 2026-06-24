@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Qué artista pintó “El matrimonio Arnolfini”?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Qué artista pintó El matrimonio Arnolfini”?",
   "answers": [
     {
       "text": "Vincent van Gogh",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El matrimonio Arnolfini” fue pintada por Jan van Eyck.",
+  "explanation": "El matrimonio Arnolfini” fue pintada por Jan van Eyck.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

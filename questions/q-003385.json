@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "Qué sigla corresponde a “sistema de nombres de dominio”. ¿Cuál es la respuesta?",
+  "question": "Qué sigla corresponde a sistema de nombres de dominio”. ¿Cuál es la respuesta?",
   "answers": [
     {
       "text": "SSD",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La sigla correspondiente a “sistema de nombres de dominio” es DNS.",
+  "explanation": "La sigla correspondiente a sistema de nombres de dominio” es DNS.",
   "sources": [
     {
       "title": "MDN Web Docs",

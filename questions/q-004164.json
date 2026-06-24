@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué singular corresponde al plural “caracteres”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué singular corresponde al plural caracteres”?",
   "answers": [
     {
       "text": "carácter",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “caracteres” es “carácter”.",
+  "explanation": "El singular de caracteres” es carácter”.",
   "sources": [
     {
       "title": "Real Academia Española",

@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "hard",
-  "question": "“Qué película fue dirigida por John Lasseter en esta selección”?",
+  "question": "Qué película fue dirigida por John Lasseter en esta selección”?",
   "answers": [
     {
       "text": "Toy Story",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "John Lasseter dirigió “Toy Story”.",
+  "explanation": "John Lasseter dirigió Toy Story”.",
   "sources": [
     {
       "title": "The Academy Awards",

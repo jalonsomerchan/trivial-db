@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió “Hamlet”?",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió Hamlet”?",
   "answers": [
     {
       "text": "autor anónimo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Hamlet” es una obra de William Shakespeare.",
+  "explanation": "Hamlet” es una obra de William Shakespeare.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

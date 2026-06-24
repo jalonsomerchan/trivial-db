@@ -7,14 +7,14 @@
     "literatura"
   ],
   "difficulty": "easy",
-  "question": "“Quién escribió “La Regenta”. ¿Cuál es la respuesta”?",
+  "question": "Quién escribió La Regenta”. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "Leandro Fernández de Moratín",
       "correct": false
     },
     {
-      "text": "Leopoldo Alas “Clarín”",
+      "text": "Leopoldo Alas Clarín”",
       "correct": true
     },
     {
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La Regenta” es una obra de Leopoldo Alas “Clarín”.",
+  "explanation": "La Regenta” es una obra de Leopoldo Alas Clarín”.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

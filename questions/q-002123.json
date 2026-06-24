@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "easy",
-  "question": "¿En qué deporte se usa el término “penalti”?",
+  "question": "¿En qué deporte se usa el término penalti”?",
   "answers": [
     {
       "text": "fútbol americano",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El término “penalti” se usa en fútbol.",
+  "explanation": "El término penalti” se usa en fútbol.",
   "sources": [
     {
       "title": "International Olympic Committee",

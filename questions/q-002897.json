@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “E.T., el extraterrestre”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película E.T., el extraterrestre”?",
   "answers": [
     {
       "text": "Emilio Martínez-Lázaro",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“E.T., el extraterrestre” fue dirigida por Steven Spielberg.",
+  "explanation": "E.T., el extraterrestre” fue dirigida por Steven Spielberg.",
   "sources": [
     {
       "title": "The Academy Awards",

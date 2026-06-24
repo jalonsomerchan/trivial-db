@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "hard",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Cuál es el plural correcto de “mamá””?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera Cuál es el plural correcto de mamá””?",
   "answers": [
     {
       "text": "regímenes",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El plural correcto de “mamá” es “mamás”.",
+  "explanation": "El plural correcto de mamá” es mamás”.",
   "sources": [
     {
       "title": "Real Academia Española",

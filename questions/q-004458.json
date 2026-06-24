@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "“exámenes, examenes, exámenés. ¿Cuál es la respuesta”?",
+  "question": "exámenes, examenes, exámenés. ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "examenes",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “exámenes”.",
+  "explanation": "La palabra correctamente acentuada es exámenes”.",
   "sources": [
     {
       "title": "Real Academia Española",

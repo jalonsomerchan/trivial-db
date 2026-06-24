@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "“Qué término gramatical corresponde a esta definición: “palabra cuya sílaba tónica es la antepenúltima””?",
+  "question": "Qué término gramatical corresponde a esta definición: palabra cuya sílaba tónica es la antepenúltima””?",
   "answers": [
     {
       "text": "antónimo",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La definición corresponde a “esdrújula”.",
+  "explanation": "La definición corresponde a esdrújula”.",
   "sources": [
     {
       "title": "Real Academia Española",

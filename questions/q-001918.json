@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "medium",
-  "question": "“Quién escribió “Fuenteovejuna””?",
+  "question": "Quién escribió Fuenteovejuna””?",
   "answers": [
     {
       "text": "Homero",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Fuenteovejuna” es una obra de Lope de Vega.",
+  "explanation": "Fuenteovejuna” es una obra de Lope de Vega.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

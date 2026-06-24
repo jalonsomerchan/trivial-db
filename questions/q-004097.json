@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "¿Qué término gramatical corresponde a esta definición: “palabra igual en forma a otra pero de distinto significado”?",
+  "question": "¿Qué término gramatical corresponde a esta definición: palabra igual en forma a otra pero de distinto significado”?",
   "answers": [
     {
       "text": "diptongo",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La definición corresponde a “homónima”.",
+  "explanation": "La definición corresponde a homónima”.",
   "sources": [
     {
       "title": "Real Academia Española",

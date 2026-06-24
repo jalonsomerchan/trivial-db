@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El código HTTP 201 corresponde a “Created”.",
+  "explanation": "El código HTTP 201 corresponde a Created”.",
   "sources": [
     {
       "title": "MDN Web Docs",

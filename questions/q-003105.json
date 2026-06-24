@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué sigla corresponde a “localizador uniforme de recursos”?",
+  "question": "¿Qué sigla corresponde a localizador uniforme de recursos”?",
   "answers": [
     {
       "text": "URL",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “localizador uniforme de recursos” es URL.",
+  "explanation": "La sigla correspondiente a localizador uniforme de recursos” es URL.",
   "sources": [
     {
       "title": "MDN Web Docs",

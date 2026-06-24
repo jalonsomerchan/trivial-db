@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "hard",
-  "question": "““Cuál es el plural correcto de “régimen”””?",
+  "question": "Cuál es el plural correcto de régimen”””?",
   "answers": [
     {
       "text": "camiones",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “régimen” es “regímenes”.",
+  "explanation": "El plural correcto de régimen” es regímenes”.",
   "sources": [
     {
       "title": "Real Academia Española",

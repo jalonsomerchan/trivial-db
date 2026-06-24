@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué artista publicó el álbum “OK Computer”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué artista publicó el álbum OK Computer”?",
   "answers": [
     {
       "text": "Eagles",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“OK Computer” es un álbum de Radiohead.",
+  "explanation": "OK Computer” es un álbum de Radiohead.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

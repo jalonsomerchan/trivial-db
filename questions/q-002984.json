@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película “Casablanca”?",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película Casablanca”?",
   "answers": [
     {
       "text": "Michael Curtiz",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Casablanca” fue dirigida por Michael Curtiz.",
+  "explanation": "Casablanca” fue dirigida por Michael Curtiz.",
   "sources": [
     {
       "title": "The Academy Awards",

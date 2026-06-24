@@ -7,7 +7,7 @@
     "literatura"
   ],
   "difficulty": "medium",
-  "question": "¿Quién escribió “Rayuela”?",
+  "question": "¿Quién escribió Rayuela”?",
   "answers": [
     {
       "text": "Octavio Paz",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“Rayuela” es una obra de Julio Cortázar.",
+  "explanation": "Rayuela” es una obra de Julio Cortázar.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

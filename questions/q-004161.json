@@ -7,7 +7,7 @@
     "acentuacion"
   ],
   "difficulty": "hard",
-  "question": "“capaz, cápaz, capáz””?",
+  "question": "capaz, cápaz, capáz””?",
   "answers": [
     {
       "text": "capaz",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La palabra correctamente acentuada es “capaz”.",
+  "explanation": "La palabra correctamente acentuada es capaz”.",
   "sources": [
     {
       "title": "Real Academia Española",

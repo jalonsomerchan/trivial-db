@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es el plural correcto de “verdad”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es el plural correcto de verdad”?",
   "answers": [
     {
       "text": "álbumes",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "El plural correcto de “verdad” es “verdades”.",
+  "explanation": "El plural correcto de verdad” es verdades”.",
   "sources": [
     {
       "title": "Real Academia Española",

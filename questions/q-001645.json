@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "easy",
-  "question": "“Qué artista pintó “La última cena””?",
+  "question": "Qué artista pintó La última cena””?",
   "answers": [
     {
       "text": "El Bosco",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La última cena” fue pintada por Leonardo da Vinci.",
+  "explanation": "La última cena” fue pintada por Leonardo da Vinci.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

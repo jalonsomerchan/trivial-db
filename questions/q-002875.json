@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "“Qué artista publicó el álbum “La leyenda del tiempo””?",
+  "question": "Qué artista publicó el álbum La leyenda del tiempo””?",
   "answers": [
     {
       "text": "Camarón de la Isla",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“La leyenda del tiempo” es un álbum de Camarón de la Isla.",
+  "explanation": "La leyenda del tiempo” es un álbum de Camarón de la Isla.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

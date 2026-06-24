@@ -7,7 +7,7 @@
     "pintura"
   ],
   "difficulty": "hard",
-  "question": "En historia del arte, “Ofelia” es una obra de...",
+  "question": "En historia del arte, Ofelia” es una obra de...",
   "answers": [
     {
       "text": "Grant Wood",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La obra “Ofelia” corresponde a John Everett Millais.",
+  "explanation": "La obra Ofelia” corresponde a John Everett Millais.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

@@ -7,7 +7,7 @@
     "musica-clasica"
   ],
   "difficulty": "medium",
-  "question": "¿Quién compuso “El lago de los cisnes”?",
+  "question": "¿Quién compuso El lago de los cisnes”?",
   "answers": [
     {
       "text": "Antonio Vivaldi",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“El lago de los cisnes” fue compuesta por Piotr Ilich Chaikovski.",
+  "explanation": "El lago de los cisnes” fue compuesta por Piotr Ilich Chaikovski.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

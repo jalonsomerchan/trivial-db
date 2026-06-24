@@ -7,7 +7,7 @@
     "gramatica"
   ],
   "difficulty": "hard",
-  "question": "¿Qué término gramatical corresponde a esta definición: “unidad con sentido completo y verbo conjugado”?",
+  "question": "¿Qué término gramatical corresponde a esta definición: unidad con sentido completo y verbo conjugado”?",
   "answers": [
     {
       "text": "conjunción",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "La definición corresponde a “oración”.",
+  "explanation": "La definición corresponde a oración”.",
   "sources": [
     {
       "title": "Real Academia Española",

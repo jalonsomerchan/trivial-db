@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "medium",
-  "question": "“Qué puerto usa HTTPS por defecto”?",
+  "question": "Qué puerto usa HTTPS por defecto”?",
   "answers": [
     {
       "text": "22",

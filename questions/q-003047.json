@@ -7,7 +7,7 @@
     "conceptos"
   ],
   "difficulty": "medium",
-  "question": "¿Qué sigla corresponde a “unidad central de procesamiento”?",
+  "question": "¿Qué sigla corresponde a unidad central de procesamiento”?",
   "answers": [
     {
       "text": "API",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "La sigla correspondiente a “unidad central de procesamiento” es CPU.",
+  "explanation": "La sigla correspondiente a unidad central de procesamiento” es CPU.",
   "sources": [
     {
       "title": "MDN Web Docs",

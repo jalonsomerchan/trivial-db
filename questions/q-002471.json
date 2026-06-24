@@ -7,7 +7,7 @@
     "terminologia"
   ],
   "difficulty": "hard",
-  "question": "“Qué término pertenece al vocabulario de hockey sobre hielo”?",
+  "question": "Qué término pertenece al vocabulario de hockey sobre hielo”?",
   "answers": [
     {
       "text": "ippon",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“power play” forma parte del vocabulario de hockey sobre hielo.",
+  "explanation": "power play” forma parte del vocabulario de hockey sobre hielo.",
   "sources": [
     {
       "title": "International Olympic Committee",

@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural “especímenes”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural especímenes”?",
   "answers": [
     {
       "text": "luz",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El singular de “especímenes” es “espécimen”.",
+  "explanation": "El singular de especímenes” es espécimen”.",
   "sources": [
     {
       "title": "Real Academia Española",

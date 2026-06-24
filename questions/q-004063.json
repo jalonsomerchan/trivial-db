@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "easy",
-  "question": "“Cuál es el plural correcto de “raíz””?",
+  "question": "Cuál es el plural correcto de raíz””?",
   "answers": [
     {
       "text": "peces",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "El plural correcto de “raíz” es “raíces”.",
+  "explanation": "El plural correcto de raíz” es raíces”.",
   "sources": [
     {
       "title": "Real Academia Española",

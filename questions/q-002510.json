@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "medium",
-  "question": "“En qué año se estrenó “El verdugo””?",
+  "question": "En qué año se estrenó El verdugo””?",
   "answers": [
     {
       "text": "2000",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“El verdugo” se estrenó en 1963.",
+  "explanation": "El verdugo” se estrenó en 1963.",
   "sources": [
     {
       "title": "The Academy Awards",

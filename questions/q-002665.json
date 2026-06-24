@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "medium",
-  "question": "¿Qué artista publicó el álbum “Nevermind”?",
+  "question": "¿Qué artista publicó el álbum Nevermind”?",
   "answers": [
     {
       "text": "Joan Manuel Serrat",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“Nevermind” es un álbum de Nirvana.",
+  "explanation": "Nevermind” es un álbum de Nirvana.",
   "sources": [
     {
       "title": "Encyclopaedia Britannica - Arts and Literature",

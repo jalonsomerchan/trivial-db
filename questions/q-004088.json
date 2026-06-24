@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a “resplandor”?",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a resplandor”?",
   "answers": [
     {
       "text": "pequeño",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“brillo” y “resplandor” tienen significado parecido.",
+  "explanation": "brillo” y resplandor” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",

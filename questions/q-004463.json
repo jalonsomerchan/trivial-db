@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "easy",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de “bonito”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de bonito”?",
   "answers": [
     {
       "text": "capital",
@@ -26,7 +26,7 @@
       "correct": true
     }
   ],
-  "explanation": "“hermoso” es un sinónimo de “bonito”.",
+  "explanation": "hermoso” es un sinónimo de bonito”.",
   "sources": [
     {
       "title": "Real Academia Española",

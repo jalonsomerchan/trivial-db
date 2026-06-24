@@ -7,7 +7,7 @@
     "lexico"
   ],
   "difficulty": "medium",
-  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra tiene un significado parecido a “fallo”?",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra tiene un significado parecido a fallo”?",
   "answers": [
     {
       "text": "error",
@@ -26,7 +26,7 @@
       "correct": false
     }
   ],
-  "explanation": "“error” y “fallo” tienen significado parecido.",
+  "explanation": "error” y fallo” tienen significado parecido.",
   "sources": [
     {
       "title": "Real Academia Española",
