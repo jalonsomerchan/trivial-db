@@ -1,0 +1,25 @@
+{
+  "id": "q-000044",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": ["programacion"],
+  "difficulty": "easy",
+  "question": "¿Qué lenguaje de programación se usa principalmente para dar interactividad a páginas web en el navegador?",
+  "answers": [
+    { "text": "SQL", "correct": false },
+    { "text": "JavaScript", "correct": true },
+    { "text": "Bash", "correct": false },
+    { "text": "C", "correct": false }
+  ],
+  "explanation": "JavaScript se utiliza ampliamente para programar interactividad en páginas web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs - JavaScript",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    }
+  ],
+  "tags": ["javascript", "web", "programacion"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
