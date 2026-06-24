@@ -249,7 +249,7 @@ Tarea:
 - Todas las preguntas deben estar en español salvo que se indique otro idioma.
 - Todas las preguntas deben tener una sola respuesta correcta.
 - MUY IMPORTANTE: las respuestas incorrectas deben estar relacionadas con la pregunta y ser distractores plausibles dentro del mismo tema, aunque no sean la opción correcta; evita respuestas absurdas, aleatorias o claramente fuera de contexto.
-
+- El número de preguntas por categoría y por nivel tiene que estar equilibrado
 - No añadas campo `type`.
 - No añadas campo `id` dentro de las respuestas.
 - Cada respuesta debe tener solo `text` y `correct`.
