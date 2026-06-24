@@ -1,0 +1,25 @@
+{
+  "id": "q-000079",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": ["capitales"],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Portugal?",
+  "answers": [
+    { "text": "Oporto", "correct": false },
+    { "text": "Lisboa", "correct": true },
+    { "text": "Coímbra", "correct": false },
+    { "text": "Braga", "correct": false }
+  ],
+  "explanation": "La capital de Portugal es Lisboa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Lisbon",
+      "url": "https://www.britannica.com/place/Lisbon"
+    }
+  ],
+  "tags": ["portugal", "lisboa", "capitales"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
