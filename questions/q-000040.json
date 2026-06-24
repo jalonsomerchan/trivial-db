@@ -1,0 +1,25 @@
+{
+  "id": "q-000040",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": ["pintura", "impresionismo"],
+  "difficulty": "medium",
+  "question": "¿Qué pintor es conocido por la serie de nenúfares?",
+  "answers": [
+    { "text": "Édouard Manet", "correct": false },
+    { "text": "Claude Monet", "correct": true },
+    { "text": "Vincent van Gogh", "correct": false },
+    { "text": "Paul Cézanne", "correct": false }
+  ],
+  "explanation": "Claude Monet pintó numerosas obras de nenúfares.",
+  "sources": [
+    {
+      "title": "Musée de l'Orangerie - Water Lilies",
+      "url": "https://www.musee-orangerie.fr/en/node/197502"
+    }
+  ],
+  "tags": ["monet", "nenufares", "impresionismo"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
