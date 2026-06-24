@@ -1,0 +1,25 @@
+{
+  "id": "q-000050",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": ["literatura-inglesa"],
+  "difficulty": "medium",
+  "question": "¿Quién escribió 1984?",
+  "answers": [
+    { "text": "Aldous Huxley", "correct": false },
+    { "text": "George Orwell", "correct": true },
+    { "text": "Ray Bradbury", "correct": false },
+    { "text": "J. R. R. Tolkien", "correct": false }
+  ],
+  "explanation": "1984 es una novela escrita por George Orwell.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Nineteen Eighty-four",
+      "url": "https://www.britannica.com/topic/Nineteen-Eighty-four"
+    }
+  ],
+  "tags": ["george-orwell", "1984", "distopia"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
