@@ -1,0 +1,43 @@
+{
+  "id": "q-000028",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "literatura-espanola"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué poeta español escribió Romancero gitano?",
+  "answers": [
+    {
+      "text": "Antonio Machado",
+      "correct": false
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": true
+    },
+    {
+      "text": "Rafael Alberti",
+      "correct": false
+    },
+    {
+      "text": "Miguel Hernández",
+      "correct": false
+    }
+  ],
+  "explanation": "Romancero gitano es una obra poética de Federico García Lorca.",
+  "sources": [
+    {
+      "title": "Instituto Cervantes - Federico García Lorca",
+      "url": "https://www.cervantes.es/bibliotecas_documentacion_espanol/creadores/garcia_lorca_federico.htm"
+    }
+  ],
+  "tags": [
+    "lorca",
+    "poesia",
+    "literatura-espanola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
