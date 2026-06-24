@@ -233,7 +233,7 @@ Después, comprobar que solo han cambiado los archivos esperados:
 Usa este prompt cuando quieras pedir a una IA que añada nuevas preguntas al repositorio:
 
 ```txt
-Trabaja sobre el repositorio `jalonsomerchan/trivial-db`.
+Trabaja sobre el repositorio `[jalonsomerchan/trivial-db](https://github.com/jalonsomerchan/trivial-db)`.
 
 Objetivo: añadir nuevas preguntas para juegos tipo trivial.
 
