@@ -1,0 +1,43 @@
+{
+  "id": "q-002575",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película “Volver”?",
+  "answers": [
+    {
+      "text": "Brad Bird",
+      "correct": false
+    },
+    {
+      "text": "Pedro Almodóvar",
+      "correct": true
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Guillermo del Toro",
+      "correct": false
+    }
+  ],
+  "explanation": "“Volver” fue dirigida por Pedro Almodóvar.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "volver",
+    "pedro-almodovar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

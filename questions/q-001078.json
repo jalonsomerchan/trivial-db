@@ -1,0 +1,43 @@
+{
+  "id": "q-001078",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1990, relacionado con la reunificación de Alemania?",
+  "answers": [
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XVII",
+      "correct": false
+    },
+    {
+      "text": "siglo XIII",
+      "correct": false
+    },
+    {
+      "text": "siglo I",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1990 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "reunificacion-de-alemania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

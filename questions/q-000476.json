@@ -1,0 +1,44 @@
+{
+  "id": "q-000476",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál es el símbolo químico del torio. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Th",
+      "correct": true
+    },
+    {
+      "text": "At",
+      "correct": false
+    },
+    {
+      "text": "Pa",
+      "correct": false
+    },
+    {
+      "text": "Rn",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del torio es Th.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "torio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

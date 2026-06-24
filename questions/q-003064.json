@@ -1,0 +1,43 @@
+{
+  "id": "q-003064",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Quién creó o impulsó originalmente el lenguaje D?",
+  "answers": [
+    {
+      "text": "depende de la arquitectura",
+      "correct": false
+    },
+    {
+      "text": "Gavin Wood y Christian Reitwiessner",
+      "correct": false
+    },
+    {
+      "text": "Walter Bright",
+      "correct": true
+    },
+    {
+      "text": "Robert Griesemer, Rob Pike y Ken Thompson",
+      "correct": false
+    }
+  ],
+  "explanation": "D se asocia históricamente con Walter Bright.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "d",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

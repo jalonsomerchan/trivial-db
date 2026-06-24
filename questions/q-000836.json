@@ -1,0 +1,43 @@
+{
+  "id": "q-000836",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Warsaw?",
+  "answers": [
+    {
+      "text": "Polonia",
+      "correct": true
+    },
+    {
+      "text": "Austria",
+      "correct": false
+    },
+    {
+      "text": "Rumania",
+      "correct": false
+    },
+    {
+      "text": "Gibraltar",
+      "correct": false
+    }
+  ],
+  "explanation": "Warsaw es la capital de Polonia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "polonia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000787",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Taiwán?",
+  "answers": [
+    {
+      "text": "+886",
+      "correct": true
+    },
+    {
+      "text": "+254",
+      "correct": false
+    },
+    {
+      "text": "+212",
+      "correct": false
+    },
+    {
+      "text": "+54",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Taiwán es +886.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "taiwan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

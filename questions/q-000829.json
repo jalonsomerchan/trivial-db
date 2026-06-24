@@ -1,0 +1,43 @@
+{
+  "id": "q-000829",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Afganistán?",
+  "answers": [
+    {
+      "text": "Abu Dhabi",
+      "correct": false
+    },
+    {
+      "text": "Kabul",
+      "correct": true
+    },
+    {
+      "text": "Damascus",
+      "correct": false
+    },
+    {
+      "text": "Kathmandu",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Afganistán es Kabul.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "afganistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

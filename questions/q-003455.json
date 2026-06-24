@@ -1,0 +1,42 @@
+{
+  "id": "q-003455",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién creó o impulsó originalmente el lenguaje Kotlin?",
+  "answers": [
+    {
+      "text": "Apple",
+      "correct": false
+    },
+    {
+      "text": "Cleve Moler",
+      "correct": false
+    },
+    {
+      "text": "JetBrains",
+      "correct": true
+    },
+    {
+      "text": "CODASYL",
+      "correct": false
+    }
+  ],
+  "explanation": "Kotlin se asocia históricamente con JetBrains.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "kotlin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

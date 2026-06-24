@@ -1,0 +1,44 @@
+{
+  "id": "q-001870",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: ““La Divina Comedia” pertenece principalmente al ámbito de...”?",
+  "answers": [
+    {
+      "text": "épica",
+      "correct": false
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "poesia",
+      "correct": true
+    },
+    {
+      "text": "literatura",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Divina Comedia” se clasifica dentro de poesia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "poesia",
+    "la-divina-comedia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

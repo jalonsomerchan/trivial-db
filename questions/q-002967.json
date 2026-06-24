@@ -1,0 +1,42 @@
+{
+  "id": "q-002967",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Bungie?",
+  "answers": [
+    {
+      "text": "Pokémon Rojo y Azul",
+      "correct": false
+    },
+    {
+      "text": "Diablo",
+      "correct": false
+    },
+    {
+      "text": "Dota 2",
+      "correct": false
+    },
+    {
+      "text": "Halo: Combat Evolved",
+      "correct": true
+    }
+  ],
+  "explanation": "Bungie desarrolló o publicó “Halo: Combat Evolved”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "bungie"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

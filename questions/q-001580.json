@@ -1,0 +1,44 @@
+{
+  "id": "q-001580",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: ““Emma” pertenece principalmente al ámbito de...”?",
+  "answers": [
+    {
+      "text": "épica",
+      "correct": false
+    },
+    {
+      "text": "teatro",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    },
+    {
+      "text": "literatura",
+      "correct": true
+    }
+  ],
+  "explanation": "“Emma” se clasifica dentro de literatura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "literatura",
+    "emma",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

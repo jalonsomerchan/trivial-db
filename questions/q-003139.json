@@ -1,0 +1,44 @@
+{
+  "id": "q-003139",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué código HTTP corresponde a “Internal Server Error””?",
+  "answers": [
+    {
+      "text": "503",
+      "correct": false
+    },
+    {
+      "text": "404",
+      "correct": false
+    },
+    {
+      "text": "500",
+      "correct": true
+    },
+    {
+      "text": "204",
+      "correct": false
+    }
+  ],
+  "explanation": "“Internal Server Error” corresponde al código HTTP 500.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "500",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

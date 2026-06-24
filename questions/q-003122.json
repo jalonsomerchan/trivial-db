@@ -1,0 +1,42 @@
+{
+  "id": "q-003122",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién creó o impulsó originalmente el lenguaje Haskell?",
+  "answers": [
+    {
+      "text": "Gavin Wood y Christian Reitwiessner",
+      "correct": false
+    },
+    {
+      "text": "Niklaus Wirth",
+      "correct": false
+    },
+    {
+      "text": "IBM",
+      "correct": false
+    },
+    {
+      "text": "un comité de diseño funcional",
+      "correct": true
+    }
+  ],
+  "explanation": "Haskell se asocia históricamente con un comité de diseño funcional.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "haskell"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

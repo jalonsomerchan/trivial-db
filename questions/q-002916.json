@@ -1,0 +1,43 @@
+{
+  "id": "q-002916",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál sería la opción correcta si la pista fuera “Qué película fue dirigida por George Lucas en esta selección””?",
+  "answers": [
+    {
+      "text": "El señor de los anillos: La comunidad del anillo",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Star Wars: Una nueva esperanza",
+      "correct": true
+    }
+  ],
+  "explanation": "George Lucas dirigió “Star Wars: Una nueva esperanza”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "george-lucas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

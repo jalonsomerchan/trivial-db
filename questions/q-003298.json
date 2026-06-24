@@ -1,0 +1,43 @@
+{
+  "id": "q-003298",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código HTTP corresponde a “OK”?",
+  "answers": [
+    {
+      "text": "409",
+      "correct": false
+    },
+    {
+      "text": "200",
+      "correct": true
+    },
+    {
+      "text": "204",
+      "correct": false
+    },
+    {
+      "text": "502",
+      "correct": false
+    }
+  ],
+  "explanation": "“OK” corresponde al código HTTP 200.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "200"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

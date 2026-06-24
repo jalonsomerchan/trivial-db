@@ -1,0 +1,42 @@
+{
+  "id": "q-004738",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 19 × 9?",
+  "answers": [
+    {
+      "text": "181",
+      "correct": false
+    },
+    {
+      "text": "171",
+      "correct": true
+    },
+    {
+      "text": "190",
+      "correct": false
+    },
+    {
+      "text": "162",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto de 19 por 9 es 171.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

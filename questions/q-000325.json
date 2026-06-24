@@ -1,0 +1,44 @@
+{
+  "id": "q-000325",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Qué elemento tiene el número atómico 63. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "europio",
+      "correct": true
+    },
+    {
+      "text": "gadolinio",
+      "correct": false
+    },
+    {
+      "text": "terbio",
+      "correct": false
+    },
+    {
+      "text": "cerio",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 63 corresponde al europio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "europio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

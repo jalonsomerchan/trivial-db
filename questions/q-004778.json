@@ -1,0 +1,42 @@
+{
+  "id": "q-004778",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 20% de 260?",
+  "answers": [
+    {
+      "text": "57",
+      "correct": false
+    },
+    {
+      "text": "47",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": true
+    },
+    {
+      "text": "62",
+      "correct": false
+    }
+  ],
+  "explanation": "El 20% de 260 es 260 × 20/100 = 52.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

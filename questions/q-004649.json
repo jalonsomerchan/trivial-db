@@ -1,0 +1,42 @@
+{
+  "id": "q-004649",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 17 × 10?",
+  "answers": [
+    {
+      "text": "177",
+      "correct": false
+    },
+    {
+      "text": "187",
+      "correct": false
+    },
+    {
+      "text": "160",
+      "correct": false
+    },
+    {
+      "text": "170",
+      "correct": true
+    }
+  ],
+  "explanation": "El producto de 17 por 10 es 170.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

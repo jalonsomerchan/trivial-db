@@ -1,0 +1,43 @@
+{
+  "id": "q-000237",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento tiene el número atómico 67?",
+  "answers": [
+    {
+      "text": "lutecio",
+      "correct": false
+    },
+    {
+      "text": "holmio",
+      "correct": true
+    },
+    {
+      "text": "prometio",
+      "correct": false
+    },
+    {
+      "text": "samario",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 67 corresponde al holmio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "holmio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

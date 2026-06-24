@@ -1,0 +1,43 @@
+{
+  "id": "q-001730",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "hard",
+  "question": "“Veinte poemas de amor y una canción desesperada” pertenece principalmente al ámbito de...",
+  "answers": [
+    {
+      "text": "literatura",
+      "correct": false
+    },
+    {
+      "text": "poesia",
+      "correct": true
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Veinte poemas de amor y una canción desesperada” se clasifica dentro de poesia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "poesia",
+    "veinte-poemas-de-amor-y-una-cancion-desesperada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

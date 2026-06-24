@@ -1,0 +1,42 @@
+{
+  "id": "q-003233",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato PNG?",
+  "answers": [
+    {
+      "text": "archivo comprimido",
+      "correct": false
+    },
+    {
+      "text": "imagen raster sin pérdida",
+      "correct": true
+    },
+    {
+      "text": "consultas a bases de datos",
+      "correct": false
+    },
+    {
+      "text": "intercambio de datos",
+      "correct": false
+    }
+  ],
+  "explanation": "PNG se utiliza habitualmente para imagen raster sin pérdida.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "png"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000660",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Pakistán?",
+  "answers": [
+    {
+      "text": "+76",
+      "correct": false
+    },
+    {
+      "text": "+92",
+      "correct": true
+    },
+    {
+      "text": "+239",
+      "correct": false
+    },
+    {
+      "text": "+269",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Pakistán es +92.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "pakistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

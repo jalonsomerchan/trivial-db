@@ -1,0 +1,43 @@
+{
+  "id": "q-003019",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "Para qué se usa habitualmente el formato SVG. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "marcado estructurado",
+      "correct": false
+    },
+    {
+      "text": "intercambio de datos",
+      "correct": false
+    },
+    {
+      "text": "estilos de páginas web",
+      "correct": false
+    },
+    {
+      "text": "gráficos vectoriales",
+      "correct": true
+    }
+  ],
+  "explanation": "SVG se utiliza habitualmente para gráficos vectoriales.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "svg",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

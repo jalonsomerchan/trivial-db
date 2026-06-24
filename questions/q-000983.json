@@ -1,0 +1,43 @@
+{
+  "id": "q-000983",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Santa Lucía?",
+  "answers": [
+    {
+      "text": ".ai",
+      "correct": false
+    },
+    {
+      "text": ".yt",
+      "correct": false
+    },
+    {
+      "text": ".lc",
+      "correct": true
+    },
+    {
+      "text": ".mk",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Santa Lucía es .lc.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "santa-lucia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

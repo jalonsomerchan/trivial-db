@@ -1,0 +1,43 @@
+{
+  "id": "q-000785",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Sahara Occidental?",
+  "answers": [
+    {
+      "text": ".sk",
+      "correct": false
+    },
+    {
+      "text": ".eh",
+      "correct": true
+    },
+    {
+      "text": ".lt",
+      "correct": false
+    },
+    {
+      "text": ".ga",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Sahara Occidental es .eh.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "sahara-occidental"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

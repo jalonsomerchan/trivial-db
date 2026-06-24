@@ -1,0 +1,42 @@
+{
+  "id": "q-004007",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término gramatical corresponde a esta definición: “palabra que modifica a un verbo, adjetivo u otro adverbio”?",
+  "answers": [
+    {
+      "text": "adjetivo",
+      "correct": false
+    },
+    {
+      "text": "adverbio",
+      "correct": true
+    },
+    {
+      "text": "hiato",
+      "correct": false
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a “adverbio”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "adverbio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000236",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento químico tiene el símbolo Nd?",
+  "answers": [
+    {
+      "text": "cesio",
+      "correct": false
+    },
+    {
+      "text": "terbio",
+      "correct": false
+    },
+    {
+      "text": "europio",
+      "correct": false
+    },
+    {
+      "text": "neodimio",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo Nd corresponde al neodimio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "neodimio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

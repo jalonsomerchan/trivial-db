@@ -1,0 +1,44 @@
+{
+  "id": "q-000128",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Cuál es el símbolo químico del cobalto”?",
+  "answers": [
+    {
+      "text": "Cu",
+      "correct": false
+    },
+    {
+      "text": "Sc",
+      "correct": false
+    },
+    {
+      "text": "Ga",
+      "correct": false
+    },
+    {
+      "text": "Co",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico del cobalto es Co.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "cobalto",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

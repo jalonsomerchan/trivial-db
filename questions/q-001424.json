@@ -1,0 +1,44 @@
+{
+  "id": "q-001424",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1453, relacionado con la caída de Constantinopla?",
+  "answers": [
+    {
+      "text": "siglo V",
+      "correct": false
+    },
+    {
+      "text": "siglo IV",
+      "correct": false
+    },
+    {
+      "text": "siglo XIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XV",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1453 pertenece al siglo XV.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "caida-de-constantinopla",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

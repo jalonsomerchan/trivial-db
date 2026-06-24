@@ -1,0 +1,43 @@
+{
+  "id": "q-002637",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "Qué álbum pertenece a Café Tacvba. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "21",
+      "correct": false
+    },
+    {
+      "text": "The Dark Side of the Moon",
+      "correct": false
+    },
+    {
+      "text": "La leyenda del tiempo",
+      "correct": false
+    },
+    {
+      "text": "Re",
+      "correct": true
+    }
+  ],
+  "explanation": "“Re” pertenece a Café Tacvba.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica",
+    "cafe-tacvba",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

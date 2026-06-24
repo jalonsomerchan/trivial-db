@@ -1,0 +1,43 @@
+{
+  "id": "q-001128",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál de estos acontecimientos fue posterior a la creación del Estado de Israel. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "proclamación de la Segunda República española",
+      "correct": false
+    },
+    {
+      "text": "fundación de la OTAN",
+      "correct": true
+    },
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Verdún",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1948, año de la creación del Estado de Israel.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

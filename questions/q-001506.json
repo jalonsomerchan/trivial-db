@@ -1,0 +1,44 @@
+{
+  "id": "q-001506",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Para un trivial de arte y literatura, completa la respuesta correcta: Qué obra fue escrita por Gustavo Adolfo Bécquer?",
+  "answers": [
+    {
+      "text": "Rimas",
+      "correct": true
+    },
+    {
+      "text": "Emma",
+      "correct": false
+    },
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": false
+    },
+    {
+      "text": "Romeo y Julieta",
+      "correct": false
+    }
+  ],
+  "explanation": "Gustavo Adolfo Bécquer escribió “Rimas”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "rimas",
+    "gustavo-adolfo-becquer",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

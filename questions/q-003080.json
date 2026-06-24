@@ -1,0 +1,44 @@
+{
+  "id": "q-003080",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Para qué se usa principalmente MongoDB”?",
+  "answers": [
+    {
+      "text": "escritorio remoto",
+      "correct": false
+    },
+    {
+      "text": "base de datos en memoria",
+      "correct": false
+    },
+    {
+      "text": "base de datos documental",
+      "correct": true
+    },
+    {
+      "text": "base de datos",
+      "correct": false
+    }
+  ],
+  "explanation": "MongoDB se usa principalmente para base de datos documental.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "mongodb",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

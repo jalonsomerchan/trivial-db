@@ -1,0 +1,43 @@
+{
+  "id": "q-000715",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Níger?",
+  "answers": [
+    {
+      "text": "+996",
+      "correct": false
+    },
+    {
+      "text": "+260",
+      "correct": false
+    },
+    {
+      "text": "+672",
+      "correct": false
+    },
+    {
+      "text": "+227",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Níger es +227.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "niger"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001586",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Quién escribió “Los santos inocentes”. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "Gustave Flaubert",
+      "correct": false
+    },
+    {
+      "text": "Luis Martín-Santos",
+      "correct": false
+    },
+    {
+      "text": "Carmen Laforet",
+      "correct": false
+    },
+    {
+      "text": "Miguel Delibes",
+      "correct": true
+    }
+  ],
+  "explanation": "“Los santos inocentes” es una obra de Miguel Delibes.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "los-santos-inocentes",
+    "miguel-delibes",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

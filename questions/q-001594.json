@@ -1,0 +1,44 @@
+{
+  "id": "q-001594",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "epica"
+  ],
+  "difficulty": "medium",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Qué obra fue escrita por Homero?",
+  "answers": [
+    {
+      "text": "Romeo y Julieta",
+      "correct": false
+    },
+    {
+      "text": "La Odisea",
+      "correct": true
+    },
+    {
+      "text": "Un mundo feliz",
+      "correct": false
+    },
+    {
+      "text": "San Manuel Bueno, mártir",
+      "correct": false
+    }
+  ],
+  "explanation": "Homero escribió “La Odisea”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-odisea",
+    "homero",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

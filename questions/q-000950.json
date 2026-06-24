@@ -1,0 +1,43 @@
+{
+  "id": "q-000950",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Cayenne?",
+  "answers": [
+    {
+      "text": "San Cristóbal y Nieves",
+      "correct": false
+    },
+    {
+      "text": "Honduras",
+      "correct": false
+    },
+    {
+      "text": "Islas Caimán",
+      "correct": false
+    },
+    {
+      "text": "Guayana Francesa",
+      "correct": true
+    }
+  ],
+  "explanation": "Cayenne es la capital de Guayana Francesa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "guayana-francesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

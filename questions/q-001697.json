@@ -1,0 +1,43 @@
+{
+  "id": "q-001697",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién escribió “La Divina Comedia”?",
+  "answers": [
+    {
+      "text": "autor anónimo",
+      "correct": false
+    },
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "Dante Alighieri",
+      "correct": true
+    },
+    {
+      "text": "Juan Rulfo",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Divina Comedia” es una obra de Dante Alighieri.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-divina-comedia",
+    "dante-alighieri"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

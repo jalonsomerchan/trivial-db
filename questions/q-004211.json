@@ -1,0 +1,44 @@
+{
+  "id": "q-004211",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "Qué palabra tiene un significado parecido a “apenado”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "triste",
+      "correct": true
+    },
+    {
+      "text": "amigo",
+      "correct": false
+    },
+    {
+      "text": "cierto",
+      "correct": false
+    },
+    {
+      "text": "claro",
+      "correct": false
+    }
+  ],
+  "explanation": "“triste” y “apenado” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "triste",
+    "apenado",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

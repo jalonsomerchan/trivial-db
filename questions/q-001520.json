@@ -1,0 +1,44 @@
+{
+  "id": "q-001520",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Qué artista pintó “Impresión, sol naciente”?",
+  "answers": [
+    {
+      "text": "Sandro Botticelli",
+      "correct": false
+    },
+    {
+      "text": "Johannes Vermeer",
+      "correct": false
+    },
+    {
+      "text": "John Everett Millais",
+      "correct": false
+    },
+    {
+      "text": "Claude Monet",
+      "correct": true
+    }
+  ],
+  "explanation": "“Impresión, sol naciente” fue pintada por Claude Monet.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "impresion-sol-naciente",
+    "claude-monet",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

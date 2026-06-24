@@ -1,0 +1,43 @@
+{
+  "id": "q-004225",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “Qué palabra lleva tilde correctamente: teléfono, telefono, teléfóno”?",
+  "answers": [
+    {
+      "text": "teléfóno",
+      "correct": false
+    },
+    {
+      "text": "teléfono",
+      "correct": true
+    },
+    {
+      "text": "telefono",
+      "correct": false
+    },
+    {
+      "text": "télefono",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “teléfono”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "telefono",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003655",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es un ingrediente principal de arepa”?",
+  "answers": [
+    {
+      "text": "carne especiada",
+      "correct": false
+    },
+    {
+      "text": "aguacate",
+      "correct": false
+    },
+    {
+      "text": "pan con queso",
+      "correct": false
+    },
+    {
+      "text": "maíz",
+      "correct": true
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de arepa es maíz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "arepa",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

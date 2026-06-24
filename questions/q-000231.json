@@ -1,0 +1,43 @@
+{
+  "id": "q-000231",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento tiene el número atómico 3?",
+  "answers": [
+    {
+      "text": "hidrógeno",
+      "correct": false
+    },
+    {
+      "text": "litio",
+      "correct": true
+    },
+    {
+      "text": "carbono",
+      "correct": false
+    },
+    {
+      "text": "boro",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 3 corresponde al litio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "litio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

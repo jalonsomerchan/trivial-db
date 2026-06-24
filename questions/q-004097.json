@@ -1,0 +1,42 @@
+{
+  "id": "q-004097",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término gramatical corresponde a esta definición: “palabra igual en forma a otra pero de distinto significado”?",
+  "answers": [
+    {
+      "text": "diptongo",
+      "correct": false
+    },
+    {
+      "text": "sustantivo",
+      "correct": false
+    },
+    {
+      "text": "homónima",
+      "correct": true
+    },
+    {
+      "text": "esdrújula",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a “homónima”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "homonima"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

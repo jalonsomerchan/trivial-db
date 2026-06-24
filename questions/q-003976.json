@@ -1,0 +1,42 @@
+{
+  "id": "q-003976",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado hojas rellenas?",
+  "answers": [
+    {
+      "text": "mole poblano",
+      "correct": false
+    },
+    {
+      "text": "sarma",
+      "correct": true
+    },
+    {
+      "text": "pulpo a la gallega",
+      "correct": false
+    },
+    {
+      "text": "kebab",
+      "correct": false
+    }
+  ],
+  "explanation": "sarma destaca por el uso de hojas rellenas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "hojas-rellenas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

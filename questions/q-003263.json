@@ -1,0 +1,44 @@
+{
+  "id": "q-003263",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Para qué se usa principalmente Telnet?",
+  "answers": [
+    {
+      "text": "base de datos",
+      "correct": false
+    },
+    {
+      "text": "escritorio remoto",
+      "correct": false
+    },
+    {
+      "text": "acceso remoto no cifrado",
+      "correct": true
+    },
+    {
+      "text": "base de datos documental",
+      "correct": false
+    }
+  ],
+  "explanation": "Telnet se usa principalmente para acceso remoto no cifrado.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "telnet",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

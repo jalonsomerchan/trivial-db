@@ -1,0 +1,44 @@
+{
+  "id": "q-002746",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "Quién dirigió la película “Buscando a Nemo”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Peter Jackson",
+      "correct": false
+    },
+    {
+      "text": "Giuseppe Tornatore",
+      "correct": false
+    },
+    {
+      "text": "Roberto Benigni",
+      "correct": false
+    },
+    {
+      "text": "Andrew Stanton",
+      "correct": true
+    }
+  ],
+  "explanation": "“Buscando a Nemo” fue dirigida por Andrew Stanton.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "buscando-a-nemo",
+    "andrew-stanton",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

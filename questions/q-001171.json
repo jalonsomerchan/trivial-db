@@ -1,0 +1,43 @@
+{
+  "id": "q-001171",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién fue el dictador italiano fundador del fascismo?",
+  "answers": [
+    {
+      "text": "Antonio Salazar",
+      "correct": false
+    },
+    {
+      "text": "Benito Mussolini",
+      "correct": true
+    },
+    {
+      "text": "Francisco Franco",
+      "correct": false
+    },
+    {
+      "text": "Adolf Hitler",
+      "correct": false
+    }
+  ],
+  "explanation": "El dictador italiano fundador del fascismo fue Benito Mussolini.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "historia",
+    "benito-mussolini"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

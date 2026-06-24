@@ -1,0 +1,44 @@
+{
+  "id": "q-003254",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: En qué año apareció por primera vez COBOL?",
+  "answers": [
+    {
+      "text": "1995",
+      "correct": false
+    },
+    {
+      "text": "1958",
+      "correct": false
+    },
+    {
+      "text": "1972",
+      "correct": false
+    },
+    {
+      "text": "1959",
+      "correct": true
+    }
+  ],
+  "explanation": "COBOL apareció por primera vez en 1959.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "cobol",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003579",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Qué plato de esta lista tiene como ingrediente destacado carne. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "pretzel",
+      "correct": false
+    },
+    {
+      "text": "asado",
+      "correct": true
+    },
+    {
+      "text": "shawarma",
+      "correct": false
+    },
+    {
+      "text": "naan",
+      "correct": false
+    }
+  ],
+  "explanation": "asado destaca por el uso de carne.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "carne",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000056",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Pd?",
+  "answers": [
+    {
+      "text": "niobio",
+      "correct": false
+    },
+    {
+      "text": "tecnecio",
+      "correct": false
+    },
+    {
+      "text": "rutenio",
+      "correct": false
+    },
+    {
+      "text": "paladio",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo Pd corresponde al paladio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "paladio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

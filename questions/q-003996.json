@@ -1,0 +1,42 @@
+{
+  "id": "q-003996",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un ingrediente principal de paella?",
+  "answers": [
+    {
+      "text": "arroz",
+      "correct": true
+    },
+    {
+      "text": "remolacha",
+      "correct": false
+    },
+    {
+      "text": "trigo sarraceno",
+      "correct": false
+    },
+    {
+      "text": "patatas fritas",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de paella es arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "paella"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004104",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene un significado parecido a “actual”?",
+  "answers": [
+    {
+      "text": "comenzar",
+      "correct": false
+    },
+    {
+      "text": "oscuridad",
+      "correct": false
+    },
+    {
+      "text": "vender",
+      "correct": false
+    },
+    {
+      "text": "moderno",
+      "correct": true
+    }
+  ],
+  "explanation": "“moderno” y “actual” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "moderno",
+    "actual"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

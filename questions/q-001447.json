@@ -1,0 +1,42 @@
+{
+  "id": "q-001447",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la firma de los Tratados de Roma?",
+  "answers": [
+    {
+      "text": "desembarco de Normandía",
+      "correct": false
+    },
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": false
+    },
+    {
+      "text": "Guerra de Secesión estadounidense",
+      "correct": false
+    },
+    {
+      "text": "Revolución cubana",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1957, año de la firma de los Tratados de Roma.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

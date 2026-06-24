@@ -1,0 +1,44 @@
+{
+  "id": "q-000061",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el número atómico del renio”?",
+  "answers": [
+    {
+      "text": "69",
+      "correct": false
+    },
+    {
+      "text": "68",
+      "correct": false
+    },
+    {
+      "text": "71",
+      "correct": false
+    },
+    {
+      "text": "75",
+      "correct": true
+    }
+  ],
+  "explanation": "El renio tiene número atómico 75.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "renio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

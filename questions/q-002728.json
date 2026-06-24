@@ -1,0 +1,44 @@
+{
+  "id": "q-002728",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué compañía o creador desarrolló “World of Warcraft””?",
+  "answers": [
+    {
+      "text": "Epic Games",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    },
+    {
+      "text": "Maxis",
+      "correct": false
+    },
+    {
+      "text": "Blizzard Entertainment",
+      "correct": true
+    }
+  ],
+  "explanation": "“World of Warcraft” se asocia con Blizzard Entertainment.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "world-of-warcraft",
+    "blizzard-entertainment",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

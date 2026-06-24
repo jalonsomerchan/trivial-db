@@ -1,0 +1,44 @@
+{
+  "id": "q-001113",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la fundación de la OTAN?",
+  "answers": [
+    {
+      "text": "1939",
+      "correct": false
+    },
+    {
+      "text": "1929",
+      "correct": false
+    },
+    {
+      "text": "1949",
+      "correct": true
+    },
+    {
+      "text": "1959",
+      "correct": false
+    }
+  ],
+  "explanation": "La fundación de la OTAN ocurrió en 1949.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fundacion-de-la-otan",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

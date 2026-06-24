@@ -1,0 +1,43 @@
+{
+  "id": "q-003962",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Qué plato de esta lista tiene como ingrediente destacado pescado crudo marinado?",
+  "answers": [
+    {
+      "text": "tiramisú",
+      "correct": false
+    },
+    {
+      "text": "adobo",
+      "correct": false
+    },
+    {
+      "text": "dim sum",
+      "correct": false
+    },
+    {
+      "text": "ceviche",
+      "correct": true
+    }
+  ],
+  "explanation": "ceviche destaca por el uso de pescado crudo marinado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pescado-crudo-marinado",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001225",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1215?",
+  "answers": [
+    {
+      "text": "inicio de la Guerra de la Independencia española",
+      "correct": false
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": false
+    },
+    {
+      "text": "proclamación de la Segunda República española",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": true
+    }
+  ],
+  "explanation": "En 1215 ocurrió la firma de la Carta Magna inglesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "firma-de-la-carta-magna-inglesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004343",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “Qué término gramatical corresponde a esta definición: “palabra que expresa acciones, procesos o estados””?",
+  "answers": [
+    {
+      "text": "antónimo",
+      "correct": false
+    },
+    {
+      "text": "verbo",
+      "correct": true
+    },
+    {
+      "text": "homónima",
+      "correct": false
+    },
+    {
+      "text": "oración",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a “verbo”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "verbo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

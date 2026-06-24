@@ -1,0 +1,43 @@
+{
+  "id": "q-002574",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se lanzó originalmente “Quake”?",
+  "answers": [
+    {
+      "text": "2015",
+      "correct": false
+    },
+    {
+      "text": "1998",
+      "correct": false
+    },
+    {
+      "text": "1980",
+      "correct": false
+    },
+    {
+      "text": "1996",
+      "correct": true
+    }
+  ],
+  "explanation": "“Quake” se lanzó originalmente en 1996.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "quake",
+    "lanzamientos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

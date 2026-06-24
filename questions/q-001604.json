@@ -1,0 +1,43 @@
+{
+  "id": "q-001604",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién compuso “Novena sinfonía”?",
+  "answers": [
+    {
+      "text": "Ludwig van Beethoven",
+      "correct": true
+    },
+    {
+      "text": "Claude Debussy",
+      "correct": false
+    },
+    {
+      "text": "Maurice Ravel",
+      "correct": false
+    },
+    {
+      "text": "Georg Friedrich Händel",
+      "correct": false
+    }
+  ],
+  "explanation": "“Novena sinfonía” fue compuesta por Ludwig van Beethoven.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "novena-sinfonia",
+    "ludwig-van-beethoven"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-003576",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Con qué país o región se asocia tradicionalmente el plato fish and chips?",
+  "answers": [
+    {
+      "text": "Reino Unido",
+      "correct": true
+    },
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Etiopía",
+      "correct": false
+    }
+  ],
+  "explanation": "fish and chips se asocia tradicionalmente con Reino Unido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "fish-and-chips",
+    "reino-unido",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

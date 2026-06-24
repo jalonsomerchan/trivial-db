@@ -1,0 +1,44 @@
+{
+  "id": "q-001252",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la primavera árabe?",
+  "answers": [
+    {
+      "text": "2011",
+      "correct": true
+    },
+    {
+      "text": "2021",
+      "correct": false
+    },
+    {
+      "text": "1991",
+      "correct": false
+    },
+    {
+      "text": "2001",
+      "correct": false
+    }
+  ],
+  "explanation": "La primavera árabe ocurrió en 2011.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "primavera-arabe",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

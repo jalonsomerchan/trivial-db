@@ -1,0 +1,43 @@
+{
+  "id": "q-001969",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "hard",
+  "question": "En historia del arte, “Impresión, sol naciente” es una obra de...",
+  "answers": [
+    {
+      "text": "Leonardo da Vinci",
+      "correct": false
+    },
+    {
+      "text": "Claude Monet",
+      "correct": true
+    },
+    {
+      "text": "Sandro Botticelli",
+      "correct": false
+    },
+    {
+      "text": "Johannes Vermeer",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “Impresión, sol naciente” corresponde a Claude Monet.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "historia-del-arte",
+    "claude-monet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

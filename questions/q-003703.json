@@ -1,0 +1,42 @@
+{
+  "id": "q-003703",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado pasta de curry?",
+  "answers": [
+    {
+      "text": "empanada",
+      "correct": false
+    },
+    {
+      "text": "nasi goreng",
+      "correct": false
+    },
+    {
+      "text": "bacalao al pilpil",
+      "correct": false
+    },
+    {
+      "text": "curry verde",
+      "correct": true
+    }
+  ],
+  "explanation": "curry verde destaca por el uso de pasta de curry.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pasta-de-curry"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

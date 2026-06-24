@@ -1,0 +1,43 @@
+{
+  "id": "q-003924",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa baño María. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "preparación previa de ingredientes y utensilios",
+      "correct": false
+    },
+    {
+      "text": "dorar rápidamente la superficie de un alimento",
+      "correct": false
+    },
+    {
+      "text": "punto de cocción firme de la pasta",
+      "correct": false
+    },
+    {
+      "text": "calentar suavemente usando un recipiente con agua",
+      "correct": true
+    }
+  ],
+  "explanation": "baño María significa calentar suavemente usando un recipiente con agua.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "bano-maria",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001057",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Qué acontecimiento histórico ocurrió en 1936”?",
+  "answers": [
+    {
+      "text": "comienzo de la Guerra Civil española",
+      "correct": true
+    },
+    {
+      "text": "Guerra de Secesión estadounidense",
+      "correct": false
+    },
+    {
+      "text": "desembarco de Normandía",
+      "correct": false
+    },
+    {
+      "text": "creación de la Organización de las Naciones Unidas",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1936 ocurrió la comienzo de la Guerra Civil española.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "comienzo-de-la-guerra-civil-espanola",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

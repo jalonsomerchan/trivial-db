@@ -1,0 +1,44 @@
+{
+  "id": "q-004393",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra tiene un significado parecido a “fallo”?",
+  "answers": [
+    {
+      "text": "error",
+      "correct": true
+    },
+    {
+      "text": "camino",
+      "correct": false
+    },
+    {
+      "text": "valiente",
+      "correct": false
+    },
+    {
+      "text": "comenzar",
+      "correct": false
+    }
+  ],
+  "explanation": "“error” y “fallo” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "error",
+    "fallo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

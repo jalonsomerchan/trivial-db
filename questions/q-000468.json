@@ -1,0 +1,44 @@
+{
+  "id": "q-000468",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Cuál es el número atómico del oro”?",
+  "answers": [
+    {
+      "text": "86",
+      "correct": false
+    },
+    {
+      "text": "85",
+      "correct": false
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "79",
+      "correct": true
+    }
+  ],
+  "explanation": "El oro tiene número atómico 79.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "oro",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

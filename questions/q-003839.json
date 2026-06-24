@@ -1,0 +1,44 @@
+{
+  "id": "q-003839",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Qué plato se asocia con Canadá y suele llevar patatas fritas?",
+  "answers": [
+    {
+      "text": "poutine",
+      "correct": true
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    },
+    {
+      "text": "moqueca",
+      "correct": false
+    },
+    {
+      "text": "pozole",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es poutine.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "canada",
+    "patatas-fritas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

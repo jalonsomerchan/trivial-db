@@ -1,0 +1,44 @@
+{
+  "id": "q-000055",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Qué elemento tiene el número atómico 4?",
+  "answers": [
+    {
+      "text": "berilio",
+      "correct": true
+    },
+    {
+      "text": "oxígeno",
+      "correct": false
+    },
+    {
+      "text": "hidrógeno",
+      "correct": false
+    },
+    {
+      "text": "carbono",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 4 corresponde al berilio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "berilio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

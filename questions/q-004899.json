@@ -1,0 +1,42 @@
+{
+  "id": "q-004899",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "numeros-primos"
+  ],
+  "difficulty": "hard",
+  "question": "¿El número 244 es primo?",
+  "answers": [
+    {
+      "text": "solo si acaba en 5",
+      "correct": false
+    },
+    {
+      "text": "sí",
+      "correct": false
+    },
+    {
+      "text": "solo si es impar",
+      "correct": false
+    },
+    {
+      "text": "no",
+      "correct": true
+    }
+  ],
+  "explanation": "Un número primo solo tiene dos divisores positivos: 1 y él mismo; para 244, la respuesta correcta es no.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "numeros-primos",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

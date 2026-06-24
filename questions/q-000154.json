@@ -1,0 +1,44 @@
+{
+  "id": "q-000154",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Cuál es el símbolo químico del darmstadtio”?",
+  "answers": [
+    {
+      "text": "Hs",
+      "correct": false
+    },
+    {
+      "text": "Ds",
+      "correct": true
+    },
+    {
+      "text": "Bh",
+      "correct": false
+    },
+    {
+      "text": "Fl",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del darmstadtio es Ds.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "darmstadtio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

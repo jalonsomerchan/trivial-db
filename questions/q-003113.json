@@ -1,0 +1,44 @@
+{
+  "id": "q-003113",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué código HTTP corresponde a “Unauthorized””?",
+  "answers": [
+    {
+      "text": "404",
+      "correct": false
+    },
+    {
+      "text": "401",
+      "correct": true
+    },
+    {
+      "text": "503",
+      "correct": false
+    },
+    {
+      "text": "429",
+      "correct": false
+    }
+  ],
+  "explanation": "“Unauthorized” corresponde al código HTTP 401.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "401",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

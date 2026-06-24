@@ -1,0 +1,44 @@
+{
+  "id": "q-002649",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película “El padrino””?",
+  "answers": [
+    {
+      "text": "Francis Ford Coppola",
+      "correct": true
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": false
+    },
+    {
+      "text": "Roberto Benigni",
+      "correct": false
+    }
+  ],
+  "explanation": "“El padrino” fue dirigida por Francis Ford Coppola.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-padrino",
+    "francis-ford-coppola",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

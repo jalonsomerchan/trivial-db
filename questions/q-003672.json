@@ -1,0 +1,44 @@
+{
+  "id": "q-003672",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Para un trivial de gastronomia, completa la respuesta correcta: Con qué país o región se asocia tradicionalmente el plato bacalao al pilpil?",
+  "answers": [
+    {
+      "text": "Corea",
+      "correct": false
+    },
+    {
+      "text": "Georgia",
+      "correct": false
+    },
+    {
+      "text": "Mediterráneo",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    }
+  ],
+  "explanation": "bacalao al pilpil se asocia tradicionalmente con España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "bacalao-al-pilpil",
+    "espana",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

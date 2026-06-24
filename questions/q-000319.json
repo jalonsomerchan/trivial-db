@@ -1,0 +1,44 @@
+{
+  "id": "q-000319",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el símbolo químico del oxígeno”?",
+  "answers": [
+    {
+      "text": "C",
+      "correct": false
+    },
+    {
+      "text": "O",
+      "correct": true
+    },
+    {
+      "text": "Si",
+      "correct": false
+    },
+    {
+      "text": "Mg",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del oxígeno es O.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "oxigeno",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

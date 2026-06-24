@@ -1,0 +1,43 @@
+{
+  "id": "q-000479",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el símbolo químico del neodimio?",
+  "answers": [
+    {
+      "text": "Xe",
+      "correct": false
+    },
+    {
+      "text": "Pr",
+      "correct": false
+    },
+    {
+      "text": "Cs",
+      "correct": false
+    },
+    {
+      "text": "Nd",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico del neodimio es Nd.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "neodimio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

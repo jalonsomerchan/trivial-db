@@ -1,0 +1,42 @@
+{
+  "id": "q-003565",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado merengue?",
+  "answers": [
+    {
+      "text": "laksa",
+      "correct": false
+    },
+    {
+      "text": "rendang",
+      "correct": false
+    },
+    {
+      "text": "tom yum",
+      "correct": false
+    },
+    {
+      "text": "pavlova",
+      "correct": true
+    }
+  ],
+  "explanation": "pavlova destaca por el uso de merengue.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "merengue"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-002549",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película “Los otros”?",
+  "answers": [
+    {
+      "text": "John Lasseter",
+      "correct": false
+    },
+    {
+      "text": "Gary Trousdale y Kirk Wise",
+      "correct": false
+    },
+    {
+      "text": "David Fincher",
+      "correct": false
+    },
+    {
+      "text": "Alejandro Amenábar",
+      "correct": true
+    }
+  ],
+  "explanation": "“Los otros” fue dirigida por Alejandro Amenábar.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "los-otros",
+    "alejandro-amenabar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

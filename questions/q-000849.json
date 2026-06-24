@@ -1,0 +1,43 @@
+{
+  "id": "q-000849",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Indonesia?",
+  "answers": [
+    {
+      "text": "New Delhi",
+      "correct": false
+    },
+    {
+      "text": "Taipei",
+      "correct": false
+    },
+    {
+      "text": "Yerevan",
+      "correct": false
+    },
+    {
+      "text": "Jakarta",
+      "correct": true
+    }
+  ],
+  "explanation": "La capital de Indonesia es Jakarta.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "indonesia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

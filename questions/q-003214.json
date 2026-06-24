@@ -1,0 +1,44 @@
+{
+  "id": "q-003214",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué protocolo se asocia normalmente al puerto 1883?",
+  "answers": [
+    {
+      "text": "NTP",
+      "correct": false
+    },
+    {
+      "text": "MQTT",
+      "correct": true
+    },
+    {
+      "text": "SMB",
+      "correct": false
+    },
+    {
+      "text": "Telnet",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 1883 se asocia habitualmente con MQTT.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "mqtt",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

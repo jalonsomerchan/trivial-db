@@ -1,0 +1,44 @@
+{
+  "id": "q-001706",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: “Tirano Banderas” pertenece principalmente al ámbito de...?",
+  "answers": [
+    {
+      "text": "teatro",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    },
+    {
+      "text": "literatura",
+      "correct": true
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    }
+  ],
+  "explanation": "“Tirano Banderas” se clasifica dentro de literatura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "literatura",
+    "tirano-banderas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

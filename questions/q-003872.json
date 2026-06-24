@@ -1,0 +1,43 @@
+{
+  "id": "q-003872",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "Qué técnica culinaria consiste en trabajar una masa con las manos o máquina. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "roux",
+      "correct": false
+    },
+    {
+      "text": "brunoise",
+      "correct": false
+    },
+    {
+      "text": "amasar",
+      "correct": true
+    },
+    {
+      "text": "levar",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es amasar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "amasar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

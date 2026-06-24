@@ -1,0 +1,43 @@
+{
+  "id": "q-001391",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién fue el navegante que completó la primera vuelta al mundo?",
+  "answers": [
+    {
+      "text": "Juan Sebastián Elcano",
+      "correct": true
+    },
+    {
+      "text": "Vasco da Gama",
+      "correct": false
+    },
+    {
+      "text": "Cristóbal Colón",
+      "correct": false
+    },
+    {
+      "text": "Fernando de Magallanes",
+      "correct": false
+    }
+  ],
+  "explanation": "El navegante que completó la primera vuelta al mundo fue Juan Sebastián Elcano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "historia",
+    "juan-sebastian-elcano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

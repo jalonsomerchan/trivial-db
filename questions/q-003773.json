@@ -1,0 +1,42 @@
+{
+  "id": "q-003773",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en transformar alimentos mediante microorganismos?",
+  "answers": [
+    {
+      "text": "desespumar",
+      "correct": false
+    },
+    {
+      "text": "napar",
+      "correct": false
+    },
+    {
+      "text": "fermentar",
+      "correct": true
+    },
+    {
+      "text": "pochar",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es fermentar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "fermentar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

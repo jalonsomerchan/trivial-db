@@ -1,0 +1,43 @@
+{
+  "id": "q-001434",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1944, relacionado con la desembarco de Normandía?",
+  "answers": [
+    {
+      "text": "siglo XIX",
+      "correct": false
+    },
+    {
+      "text": "siglo VII",
+      "correct": false
+    },
+    {
+      "text": "siglo XV",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1944 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "desembarco-de-normandia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

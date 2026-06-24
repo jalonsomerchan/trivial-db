@@ -1,0 +1,43 @@
+{
+  "id": "q-003612",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "Qué plato de esta lista tiene como ingrediente destacado alubias. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "pierna de cordero asada",
+      "correct": false
+    },
+    {
+      "text": "churrasco",
+      "correct": false
+    },
+    {
+      "text": "fabada asturiana",
+      "correct": true
+    },
+    {
+      "text": "paella",
+      "correct": false
+    }
+  ],
+  "explanation": "fabada asturiana destaca por el uso de alubias.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "alubias",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

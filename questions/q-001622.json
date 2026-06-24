@@ -1,0 +1,44 @@
+{
+  "id": "q-001622",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Para un trivial de arte y literatura, completa la respuesta correcta: Qué obra fue escrita por Miguel Delibes?",
+  "answers": [
+    {
+      "text": "Emma",
+      "correct": false
+    },
+    {
+      "text": "Veinte poemas de amor y una canción desesperada",
+      "correct": false
+    },
+    {
+      "text": "La Regenta",
+      "correct": false
+    },
+    {
+      "text": "Los santos inocentes",
+      "correct": true
+    }
+  ],
+  "explanation": "Miguel Delibes escribió “Los santos inocentes”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "los-santos-inocentes",
+    "miguel-delibes",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

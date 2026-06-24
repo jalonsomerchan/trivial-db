@@ -1,0 +1,44 @@
+{
+  "id": "q-001437",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la entrada en circulación del euro?",
+  "answers": [
+    {
+      "text": "1982",
+      "correct": false
+    },
+    {
+      "text": "2002",
+      "correct": true
+    },
+    {
+      "text": "2012",
+      "correct": false
+    },
+    {
+      "text": "1992",
+      "correct": false
+    }
+  ],
+  "explanation": "La entrada en circulación del euro ocurrió en 2002.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "entrada-en-circulacion-del-euro",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

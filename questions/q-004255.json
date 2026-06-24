@@ -1,0 +1,43 @@
+{
+  "id": "q-004255",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "Cuál es un sinónimo de “miedo”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "temor",
+      "correct": true
+    },
+    {
+      "text": "auxilio",
+      "correct": false
+    },
+    {
+      "text": "tranquilidad",
+      "correct": false
+    },
+    {
+      "text": "erudito",
+      "correct": false
+    }
+  ],
+  "explanation": "“temor” es un sinónimo de “miedo”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "miedo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

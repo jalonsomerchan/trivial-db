@@ -1,0 +1,42 @@
+{
+  "id": "q-001230",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1937?",
+  "answers": [
+    {
+      "text": "bombardeo de Guernica",
+      "correct": true
+    },
+    {
+      "text": "Tratado de Utrecht",
+      "correct": false
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": false
+    },
+    {
+      "text": "fundación de la Universidad de Salamanca",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1937 ocurrió la bombardeo de Guernica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "bombardeo-de-guernica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

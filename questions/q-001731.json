@@ -1,0 +1,43 @@
+{
+  "id": "q-001731",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién escribió “Bodas de sangre”?",
+  "answers": [
+    {
+      "text": "Franz Kafka",
+      "correct": false
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": true
+    },
+    {
+      "text": "Aldous Huxley",
+      "correct": false
+    },
+    {
+      "text": "Lope de Vega",
+      "correct": false
+    }
+  ],
+  "explanation": "“Bodas de sangre” es una obra de Federico García Lorca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "bodas-de-sangre",
+    "federico-garcia-lorca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

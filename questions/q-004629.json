@@ -1,0 +1,42 @@
+{
+  "id": "q-004629",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 20% de 170?",
+  "answers": [
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "39",
+      "correct": false
+    },
+    {
+      "text": "34",
+      "correct": true
+    },
+    {
+      "text": "44",
+      "correct": false
+    }
+  ],
+  "explanation": "El 20% de 170 es 170 × 20/100 = 34.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

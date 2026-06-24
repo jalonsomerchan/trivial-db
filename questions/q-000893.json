@@ -1,0 +1,43 @@
+{
+  "id": "q-000893",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Ucrania?",
+  "answers": [
+    {
+      "text": "+509",
+      "correct": false
+    },
+    {
+      "text": "+690",
+      "correct": false
+    },
+    {
+      "text": "+380",
+      "correct": true
+    },
+    {
+      "text": "+420",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Ucrania es +380.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "ucrania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

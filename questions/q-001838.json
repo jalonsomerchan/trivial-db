@@ -1,0 +1,44 @@
+{
+  "id": "q-001838",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió “Luces de bohemia”?",
+  "answers": [
+    {
+      "text": "Benito Pérez Galdós",
+      "correct": false
+    },
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": true
+    },
+    {
+      "text": "Roberto Bolaño",
+      "correct": false
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    }
+  ],
+  "explanation": "“Luces de bohemia” es una obra de Ramón María del Valle-Inclán.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "luces-de-bohemia",
+    "ramon-maria-del-valle-inclan",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

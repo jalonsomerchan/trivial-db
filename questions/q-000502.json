@@ -1,0 +1,43 @@
+{
+  "id": "q-000502",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Avarua?",
+  "answers": [
+    {
+      "text": "Wallis y Futuna",
+      "correct": false
+    },
+    {
+      "text": "Islas Marshall",
+      "correct": false
+    },
+    {
+      "text": "Islas Cook",
+      "correct": true
+    },
+    {
+      "text": "Nauru",
+      "correct": false
+    }
+  ],
+  "explanation": "Avarua es la capital de Islas Cook.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "islas-cook"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

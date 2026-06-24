@@ -1,0 +1,43 @@
+{
+  "id": "q-000705",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Washington D.C.?",
+  "answers": [
+    {
+      "text": "San Vicente y Granadinas",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "Islas Malvinas",
+      "correct": false
+    },
+    {
+      "text": "Barbados",
+      "correct": false
+    }
+  ],
+  "explanation": "Washington D.C. es la capital de Estados Unidos.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

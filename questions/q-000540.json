@@ -1,0 +1,43 @@
+{
+  "id": "q-000540",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Guinea Ecuatorial?",
+  "answers": [
+    {
+      "text": "+374",
+      "correct": false
+    },
+    {
+      "text": "+240",
+      "correct": true
+    },
+    {
+      "text": "+20",
+      "correct": false
+    },
+    {
+      "text": "+228",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Guinea Ecuatorial es +240.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "guinea-ecuatorial"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

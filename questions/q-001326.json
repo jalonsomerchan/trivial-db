@@ -1,0 +1,43 @@
+{
+  "id": "q-001326",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál de estos acontecimientos fue posterior a la Batalla de Waterloo”?",
+  "answers": [
+    {
+      "text": "comienzo de la Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Utrecht",
+      "correct": false
+    },
+    {
+      "text": "independencia de Grecia reconocida por el Tratado de Constantinopla",
+      "correct": true
+    },
+    {
+      "text": "Concilio de Nicea",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1815, año de la Batalla de Waterloo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

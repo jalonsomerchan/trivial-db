@@ -1,0 +1,44 @@
+{
+  "id": "q-000499",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento químico tiene el símbolo Ce”?",
+  "answers": [
+    {
+      "text": "cerio",
+      "correct": true
+    },
+    {
+      "text": "neodimio",
+      "correct": false
+    },
+    {
+      "text": "praseodimio",
+      "correct": false
+    },
+    {
+      "text": "yodo",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Ce corresponde al cerio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "cerio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

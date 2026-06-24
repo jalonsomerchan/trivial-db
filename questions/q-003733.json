@@ -1,0 +1,43 @@
+{
+  "id": "q-003733",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato de esta lista tiene como ingrediente destacado trigo sarraceno”?",
+  "answers": [
+    {
+      "text": "curry verde",
+      "correct": false
+    },
+    {
+      "text": "kasha",
+      "correct": true
+    },
+    {
+      "text": "fish and chips",
+      "correct": false
+    },
+    {
+      "text": "bobó de camarão",
+      "correct": false
+    }
+  ],
+  "explanation": "kasha destaca por el uso de trigo sarraceno.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "trigo-sarraceno",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

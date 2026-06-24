@@ -1,0 +1,44 @@
+{
+  "id": "q-002216",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "futbol"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En qué año ganó España el Mundial de fútbol jugado en Sudáfrica”?",
+  "answers": [
+    {
+      "text": "1994",
+      "correct": false
+    },
+    {
+      "text": "2010",
+      "correct": true
+    },
+    {
+      "text": "1934",
+      "correct": false
+    },
+    {
+      "text": "1990",
+      "correct": false
+    }
+  ],
+  "explanation": "España ganó el Mundial celebrado en Sudáfrica en 2010.",
+  "sources": [
+    {
+      "title": "FIFA World Cup",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "futbol",
+    "espana",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

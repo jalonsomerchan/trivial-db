@@ -1,0 +1,43 @@
+{
+  "id": "q-003512",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa caramelizar. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "mezclar líquidos que normalmente no se unen",
+      "correct": false
+    },
+    {
+      "text": "calentar azúcar hasta que se dore",
+      "correct": true
+    },
+    {
+      "text": "corte en tiras finas",
+      "correct": false
+    },
+    {
+      "text": "evaporar líquido para concentrar sabor",
+      "correct": false
+    }
+  ],
+  "explanation": "caramelizar significa calentar azúcar hasta que se dore.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "caramelizar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

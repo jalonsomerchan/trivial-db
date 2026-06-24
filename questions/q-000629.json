@@ -1,0 +1,43 @@
+{
+  "id": "q-000629",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Surinam?",
+  "answers": [
+    {
+      "text": "+378",
+      "correct": false
+    },
+    {
+      "text": "+224",
+      "correct": false
+    },
+    {
+      "text": "+856",
+      "correct": false
+    },
+    {
+      "text": "+597",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Surinam es +597.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "surinam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

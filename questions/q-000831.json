@@ -1,0 +1,43 @@
+{
+  "id": "q-000831",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Ulan Bator?",
+  "answers": [
+    {
+      "text": "Tailandia",
+      "correct": false
+    },
+    {
+      "text": "Mongolia",
+      "correct": true
+    },
+    {
+      "text": "Kazajistán",
+      "correct": false
+    },
+    {
+      "text": "Sri Lanka",
+      "correct": false
+    }
+  ],
+  "explanation": "Ulan Bator es la capital de Mongolia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "mongolia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

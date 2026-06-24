@@ -1,0 +1,43 @@
+{
+  "id": "q-000687",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Namibia?",
+  "answers": [
+    {
+      "text": ".na",
+      "correct": true
+    },
+    {
+      "text": ".mn",
+      "correct": false
+    },
+    {
+      "text": ".gg",
+      "correct": false
+    },
+    {
+      "text": ".bf",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Namibia es .na.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "namibia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

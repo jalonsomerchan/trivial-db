@@ -1,0 +1,43 @@
+{
+  "id": "q-000902",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Laos?",
+  "answers": [
+    {
+      "text": ".la",
+      "correct": true
+    },
+    {
+      "text": ".in",
+      "correct": false
+    },
+    {
+      "text": ".ni",
+      "correct": false
+    },
+    {
+      "text": ".dj",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Laos es .la.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "laos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001410",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Cuál de estos acontecimientos fue posterior a la Batalla de Hastings”?",
+  "answers": [
+    {
+      "text": "Batalla de Hastings",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Primera Cruzada",
+      "correct": true
+    },
+    {
+      "text": "destrucción de Pompeya por la erupción del Vesubio",
+      "correct": false
+    },
+    {
+      "text": "coronación imperial de Carlomagno",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1066, año de la Batalla de Hastings.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

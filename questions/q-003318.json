@@ -1,0 +1,43 @@
+{
+  "id": "q-003318",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año apareció por primera vez Scala?",
+  "answers": [
+    {
+      "text": "2010",
+      "correct": false
+    },
+    {
+      "text": "1972",
+      "correct": false
+    },
+    {
+      "text": "2004 (3)",
+      "correct": false
+    },
+    {
+      "text": "2004",
+      "correct": true
+    }
+  ],
+  "explanation": "Scala apareció por primera vez en 2004.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "scala",
+    "historia-tecnologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

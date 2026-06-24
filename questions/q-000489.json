@@ -1,0 +1,43 @@
+{
+  "id": "q-000489",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué magnitud física se mide en mol?",
+  "answers": [
+    {
+      "text": "longitud",
+      "correct": false
+    },
+    {
+      "text": "corriente eléctrica",
+      "correct": false
+    },
+    {
+      "text": "inducción magnética",
+      "correct": false
+    },
+    {
+      "text": "cantidad de sustancia",
+      "correct": true
+    }
+  ],
+  "explanation": "El mol es una unidad utilizada para medir cantidad de sustancia.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "unidades",
+    "mol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

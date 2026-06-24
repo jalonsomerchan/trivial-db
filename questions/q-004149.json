@@ -1,0 +1,42 @@
+{
+  "id": "q-004149",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "En gramática, ¿qué es un preposición?",
+  "answers": [
+    {
+      "text": "palabra que modifica a un verbo, adjetivo u otro adverbio",
+      "correct": false
+    },
+    {
+      "text": "palabra invariable que introduce complementos",
+      "correct": true
+    },
+    {
+      "text": "palabra igual en forma a otra pero de distinto significado",
+      "correct": false
+    },
+    {
+      "text": "palabra que sustituye o representa a un nombre",
+      "correct": false
+    }
+  ],
+  "explanation": "Un preposición es una palabra invariable que introduce complementos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "preposicion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

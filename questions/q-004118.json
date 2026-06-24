@@ -1,0 +1,43 @@
+{
+  "id": "q-004118",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra lleva tilde correctamente: sábado, sabado, sábádo?",
+  "answers": [
+    {
+      "text": "sabado",
+      "correct": false
+    },
+    {
+      "text": "sábádo",
+      "correct": false
+    },
+    {
+      "text": "sabadó",
+      "correct": false
+    },
+    {
+      "text": "sábado",
+      "correct": true
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “sábado”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "sabado",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

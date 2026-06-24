@@ -1,0 +1,43 @@
+{
+  "id": "q-000797",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Addis Ababa?",
+  "answers": [
+    {
+      "text": "Etiopía",
+      "correct": true
+    },
+    {
+      "text": "Guinea",
+      "correct": false
+    },
+    {
+      "text": "Kenia",
+      "correct": false
+    },
+    {
+      "text": "Ruanda",
+      "correct": false
+    }
+  ],
+  "explanation": "Addis Ababa es la capital de Etiopía.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "etiopia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

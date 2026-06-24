@@ -1,0 +1,43 @@
+{
+  "id": "q-004248",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué término gramatical corresponde a esta definición: “parte de la palabra que aporta el significado básico”?",
+  "answers": [
+    {
+      "text": "lexema",
+      "correct": true
+    },
+    {
+      "text": "preposición",
+      "correct": false
+    },
+    {
+      "text": "polisémica",
+      "correct": false
+    },
+    {
+      "text": "homónima",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a “lexema”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "lexema",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

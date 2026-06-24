@@ -1,0 +1,42 @@
+{
+  "id": "q-001224",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1914?",
+  "answers": [
+    {
+      "text": "comienzo de la Primera Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    },
+    {
+      "text": "conquista de Tenochtitlan por Hernán Cortés",
+      "correct": false
+    },
+    {
+      "text": "crisis de los misiles de Cuba",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1914 ocurrió la comienzo de la Primera Guerra Mundial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "comienzo-de-la-primera-guerra-mundial"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

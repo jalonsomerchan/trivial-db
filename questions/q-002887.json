@@ -1,0 +1,44 @@
+{
+  "id": "q-002887",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué compañía o creador desarrolló “Doom”?",
+  "answers": [
+    {
+      "text": "Valve",
+      "correct": false
+    },
+    {
+      "text": "id Software",
+      "correct": true
+    },
+    {
+      "text": "Nintendo",
+      "correct": false
+    },
+    {
+      "text": "Riot Games",
+      "correct": false
+    }
+  ],
+  "explanation": "“Doom” se asocia con id Software.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "doom",
+    "id-software",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

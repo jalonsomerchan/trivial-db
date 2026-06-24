@@ -1,0 +1,43 @@
+{
+  "id": "q-001005",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la atentados del 11 de septiembre en Estados Unidos?",
+  "answers": [
+    {
+      "text": "2011",
+      "correct": false
+    },
+    {
+      "text": "2001",
+      "correct": true
+    },
+    {
+      "text": "1991",
+      "correct": false
+    },
+    {
+      "text": "1981",
+      "correct": false
+    }
+  ],
+  "explanation": "La atentados del 11 de septiembre en Estados Unidos ocurrió en 2001.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "atentados-del-11-de-septiembre-en-estados-unidos",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

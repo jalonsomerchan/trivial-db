@@ -1,0 +1,43 @@
+{
+  "id": "q-000638",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Islamabad?",
+  "answers": [
+    {
+      "text": "Yemen",
+      "correct": false
+    },
+    {
+      "text": "Bangladesh",
+      "correct": false
+    },
+    {
+      "text": "Pakistán",
+      "correct": true
+    },
+    {
+      "text": "Azerbaiyán",
+      "correct": false
+    }
+  ],
+  "explanation": "Islamabad es la capital de Pakistán.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "pakistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

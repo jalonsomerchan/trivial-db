@@ -1,0 +1,43 @@
+{
+  "id": "q-000723",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Gibraltar?",
+  "answers": [
+    {
+      "text": "+290",
+      "correct": false
+    },
+    {
+      "text": "+680",
+      "correct": false
+    },
+    {
+      "text": "+32",
+      "correct": false
+    },
+    {
+      "text": "+350",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Gibraltar es +350.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "gibraltar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

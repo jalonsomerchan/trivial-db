@@ -1,0 +1,43 @@
+{
+  "id": "q-000799",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Ucrania?",
+  "answers": [
+    {
+      "text": "Bratislava",
+      "correct": false
+    },
+    {
+      "text": "Amsterdam",
+      "correct": false
+    },
+    {
+      "text": "London",
+      "correct": false
+    },
+    {
+      "text": "Kiev",
+      "correct": true
+    }
+  ],
+  "explanation": "La capital de Ucrania es Kiev.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "ucrania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

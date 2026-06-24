@@ -1,0 +1,44 @@
+{
+  "id": "q-000077",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué elemento tiene el número atómico 16”?",
+  "answers": [
+    {
+      "text": "potasio",
+      "correct": false
+    },
+    {
+      "text": "azufre",
+      "correct": true
+    },
+    {
+      "text": "neón",
+      "correct": false
+    },
+    {
+      "text": "escandio",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 16 corresponde al azufre.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "azufre",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

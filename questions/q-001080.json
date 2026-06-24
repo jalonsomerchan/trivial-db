@@ -1,0 +1,42 @@
+{
+  "id": "q-001080",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1959?",
+  "answers": [
+    {
+      "text": "fin de la Primera Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Lisboa en vigor",
+      "correct": false
+    },
+    {
+      "text": "Revolución cubana",
+      "correct": true
+    }
+  ],
+  "explanation": "En 1959 ocurrió la Revolución cubana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "revolucion-cubana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

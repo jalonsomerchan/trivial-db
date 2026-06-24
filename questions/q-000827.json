@@ -1,0 +1,43 @@
+{
+  "id": "q-000827",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Budapest?",
+  "answers": [
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Dinamarca",
+      "correct": false
+    },
+    {
+      "text": "Hungría",
+      "correct": true
+    }
+  ],
+  "explanation": "Budapest es la capital de Hungría.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "hungria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

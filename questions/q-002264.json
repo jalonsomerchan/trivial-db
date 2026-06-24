@@ -1,0 +1,44 @@
+{
+  "id": "q-002264",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de deporte, completa la respuesta correcta: En qué deporte se usa el término “scrum”?",
+  "answers": [
+    {
+      "text": "esgrima",
+      "correct": false
+    },
+    {
+      "text": "cricket",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": false
+    },
+    {
+      "text": "rugby",
+      "correct": true
+    }
+  ],
+  "explanation": "El término “scrum” se usa en rugby.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "terminologia",
+    "rugby",
+    "scrum",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

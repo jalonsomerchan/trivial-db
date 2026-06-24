@@ -1,0 +1,43 @@
+{
+  "id": "q-004453",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural “cafés”?",
+  "answers": [
+    {
+      "text": "bisturí",
+      "correct": false
+    },
+    {
+      "text": "café",
+      "correct": true
+    },
+    {
+      "text": "tabú",
+      "correct": false
+    },
+    {
+      "text": "fácil",
+      "correct": false
+    }
+  ],
+  "explanation": "El singular de “cafés” es “café”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "cafe",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

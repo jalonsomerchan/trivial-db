@@ -1,0 +1,43 @@
+{
+  "id": "q-004283",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el plural correcto de “canción””?",
+  "answers": [
+    {
+      "text": "canciones",
+      "correct": true
+    },
+    {
+      "text": "rubíes",
+      "correct": false
+    },
+    {
+      "text": "jabalíes",
+      "correct": false
+    },
+    {
+      "text": "ordenadores",
+      "correct": false
+    }
+  ],
+  "explanation": "El plural correcto de “canción” es “canciones”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "cancion",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

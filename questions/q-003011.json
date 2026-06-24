@@ -1,0 +1,43 @@
+{
+  "id": "q-003011",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año apareció por primera vez Scratch?",
+  "answers": [
+    {
+      "text": "2007",
+      "correct": true
+    },
+    {
+      "text": "1972",
+      "correct": false
+    },
+    {
+      "text": "1986",
+      "correct": false
+    },
+    {
+      "text": "1970",
+      "correct": false
+    }
+  ],
+  "explanation": "Scratch apareció por primera vez en 2007.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "scratch",
+    "historia-tecnologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

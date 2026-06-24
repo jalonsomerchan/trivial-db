@@ -1,0 +1,43 @@
+{
+  "id": "q-003992",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: En cocina, ¿qué significa ligar?",
+  "answers": [
+    {
+      "text": "dejar que una masa fermente y aumente de volumen",
+      "correct": false
+    },
+    {
+      "text": "dorar la superficie con calor fuerte",
+      "correct": false
+    },
+    {
+      "text": "cocinar lentamente con poco líquido",
+      "correct": false
+    },
+    {
+      "text": "dar consistencia a una salsa",
+      "correct": true
+    }
+  ],
+  "explanation": "ligar significa dar consistencia a una salsa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "ligar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

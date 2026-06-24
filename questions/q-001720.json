@@ -1,0 +1,44 @@
+{
+  "id": "q-001720",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Quién escribió “Platero y yo””?",
+  "answers": [
+    {
+      "text": "Juan Rulfo",
+      "correct": false
+    },
+    {
+      "text": "Virgilio",
+      "correct": false
+    },
+    {
+      "text": "Dante Alighieri",
+      "correct": false
+    },
+    {
+      "text": "Juan Ramón Jiménez",
+      "correct": true
+    }
+  ],
+  "explanation": "“Platero y yo” es una obra de Juan Ramón Jiménez.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "platero-y-yo",
+    "juan-ramon-jimenez",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

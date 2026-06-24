@@ -1,0 +1,44 @@
+{
+  "id": "q-000407",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento químico tiene el símbolo Ta”?",
+  "answers": [
+    {
+      "text": "iterbio",
+      "correct": false
+    },
+    {
+      "text": "renio",
+      "correct": false
+    },
+    {
+      "text": "platino",
+      "correct": false
+    },
+    {
+      "text": "tántalo",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo Ta corresponde al tántalo.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "tantalo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

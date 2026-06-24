@@ -1,0 +1,43 @@
+{
+  "id": "q-003546",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Tailandia y suele llevar fideos de arroz?",
+  "answers": [
+    {
+      "text": "pad thai",
+      "correct": true
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "raclette",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es pad thai.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "tailandia",
+    "fideos-de-arroz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

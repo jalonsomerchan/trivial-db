@@ -1,0 +1,42 @@
+{
+  "id": "q-004979",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el cuadrado de 13?",
+  "answers": [
+    {
+      "text": "196",
+      "correct": false
+    },
+    {
+      "text": "156",
+      "correct": false
+    },
+    {
+      "text": "182",
+      "correct": false
+    },
+    {
+      "text": "169",
+      "correct": true
+    }
+  ],
+  "explanation": "El cuadrado de 13 es 13 × 13 = 169.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "cuadrados"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

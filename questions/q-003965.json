@@ -1,0 +1,43 @@
+{
+  "id": "q-003965",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato shawarma?",
+  "answers": [
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Oriente Medio",
+      "correct": true
+    },
+    {
+      "text": "Venezuela y Colombia",
+      "correct": false
+    },
+    {
+      "text": "Jamaica",
+      "correct": false
+    }
+  ],
+  "explanation": "shawarma se asocia tradicionalmente con Oriente Medio.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "shawarma",
+    "oriente-medio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

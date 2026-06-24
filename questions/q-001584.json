@@ -1,0 +1,44 @@
+{
+  "id": "q-001584",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de arte y literatura: “Qué obra fue escrita por Mario Vargas Llosa””?",
+  "answers": [
+    {
+      "text": "Tiempo de silencio",
+      "correct": false
+    },
+    {
+      "text": "2666",
+      "correct": false
+    },
+    {
+      "text": "La ciudad y los perros",
+      "correct": true
+    },
+    {
+      "text": "Platero y yo",
+      "correct": false
+    }
+  ],
+  "explanation": "Mario Vargas Llosa escribió “La ciudad y los perros”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-ciudad-y-los-perros",
+    "mario-vargas-llosa",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

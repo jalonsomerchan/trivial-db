@@ -1,0 +1,44 @@
+{
+  "id": "q-000400",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del xenón?",
+  "answers": [
+    {
+      "text": "Xe",
+      "correct": true
+    },
+    {
+      "text": "Sn",
+      "correct": false
+    },
+    {
+      "text": "La",
+      "correct": false
+    },
+    {
+      "text": "Te",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del xenón es Xe.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "xenon",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

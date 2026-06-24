@@ -1,0 +1,44 @@
+{
+  "id": "q-003265",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: En qué año apareció por primera vez Julia?",
+  "answers": [
+    {
+      "text": "1995",
+      "correct": false
+    },
+    {
+      "text": "2012",
+      "correct": true
+    },
+    {
+      "text": "1964",
+      "correct": false
+    },
+    {
+      "text": "1990",
+      "correct": false
+    }
+  ],
+  "explanation": "Julia apareció por primera vez en 2012.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "julia",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

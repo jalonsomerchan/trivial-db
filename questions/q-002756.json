@@ -1,0 +1,44 @@
+{
+  "id": "q-002756",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compañía o creador desarrolló “Quake”?",
+  "answers": [
+    {
+      "text": "Maddy Makes Games",
+      "correct": false
+    },
+    {
+      "text": "id Software",
+      "correct": true
+    },
+    {
+      "text": "Game Freak",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    }
+  ],
+  "explanation": "“Quake” se asocia con id Software.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "quake",
+    "id-software",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

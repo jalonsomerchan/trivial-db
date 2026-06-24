@@ -1,0 +1,43 @@
+{
+  "id": "q-003664",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Cuál es un ingrediente principal de falafel?",
+  "answers": [
+    {
+      "text": "garbanzos",
+      "correct": true
+    },
+    {
+      "text": "carne picada",
+      "correct": false
+    },
+    {
+      "text": "remolacha",
+      "correct": false
+    },
+    {
+      "text": "col fermentada",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de falafel es garbanzos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "falafel",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

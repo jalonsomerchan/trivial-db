@@ -1,0 +1,43 @@
+{
+  "id": "q-000595",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO alfa-2 de Chile?",
+  "answers": [
+    {
+      "text": "SD",
+      "correct": false
+    },
+    {
+      "text": "VE",
+      "correct": false
+    },
+    {
+      "text": "PN",
+      "correct": false
+    },
+    {
+      "text": "CL",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Chile es CL.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos",
+    "chile"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

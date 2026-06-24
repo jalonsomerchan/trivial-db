@@ -1,0 +1,43 @@
+{
+  "id": "q-000773",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Bulgaria?",
+  "answers": [
+    {
+      "text": "+290",
+      "correct": false
+    },
+    {
+      "text": "+1868",
+      "correct": false
+    },
+    {
+      "text": "+995",
+      "correct": false
+    },
+    {
+      "text": "+359",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Bulgaria es +359.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "bulgaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000600",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Dhaka?",
+  "answers": [
+    {
+      "text": "Filipinas",
+      "correct": false
+    },
+    {
+      "text": "Irak",
+      "correct": false
+    },
+    {
+      "text": "Yemen",
+      "correct": false
+    },
+    {
+      "text": "Bangladesh",
+      "correct": true
+    }
+  ],
+  "explanation": "Dhaka es la capital de Bangladesh.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "bangladesh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

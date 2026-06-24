@@ -1,0 +1,42 @@
+{
+  "id": "q-004368",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra lleva tilde correctamente: fácil, facil, fác il?",
+  "answers": [
+    {
+      "text": "fác il",
+      "correct": false
+    },
+    {
+      "text": "fácil",
+      "correct": true
+    },
+    {
+      "text": "facíl",
+      "correct": false
+    },
+    {
+      "text": "facil",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “fácil”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "facil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

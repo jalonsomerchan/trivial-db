@@ -1,0 +1,43 @@
+{
+  "id": "q-001494",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 2009”?",
+  "answers": [
+    {
+      "text": "Guerra de Sucesión española",
+      "correct": false
+    },
+    {
+      "text": "coronación de Napoleón Bonaparte como emperador",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Lisboa en vigor",
+      "correct": true
+    }
+  ],
+  "explanation": "En 2009 ocurrió la Tratado de Lisboa en vigor.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratado-de-lisboa-en-vigor",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

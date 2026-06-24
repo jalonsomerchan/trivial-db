@@ -1,0 +1,43 @@
+{
+  "id": "q-001936",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "“La muerte de Artemio Cruz” pertenece principalmente al ámbito de...",
+  "answers": [
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "épica",
+      "correct": false
+    },
+    {
+      "text": "teatro",
+      "correct": false
+    },
+    {
+      "text": "literatura",
+      "correct": true
+    }
+  ],
+  "explanation": "“La muerte de Artemio Cruz” se clasifica dentro de literatura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "literatura",
+    "la-muerte-de-artemio-cruz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

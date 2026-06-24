@@ -1,0 +1,43 @@
+{
+  "id": "q-000511",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Serbia?",
+  "answers": [
+    {
+      "text": "+995",
+      "correct": false
+    },
+    {
+      "text": "+680",
+      "correct": false
+    },
+    {
+      "text": "+689",
+      "correct": false
+    },
+    {
+      "text": "+381",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Serbia es +381.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "serbia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

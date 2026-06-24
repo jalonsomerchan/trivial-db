@@ -1,0 +1,43 @@
+{
+  "id": "q-004284",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene un significado parecido a “hermoso”?",
+  "answers": [
+    {
+      "text": "trabajo",
+      "correct": false
+    },
+    {
+      "text": "maestro",
+      "correct": false
+    },
+    {
+      "text": "bonito",
+      "correct": true
+    },
+    {
+      "text": "norma",
+      "correct": false
+    }
+  ],
+  "explanation": "“bonito” y “hermoso” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "bonito",
+    "hermoso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

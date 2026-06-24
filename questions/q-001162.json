@@ -1,0 +1,42 @@
+{
+  "id": "q-001162",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 2008?",
+  "answers": [
+    {
+      "text": "quiebra de Lehman Brothers",
+      "correct": true
+    },
+    {
+      "text": "fin del apartheid legal en Sudáfrica con las primeras elecciones multirraciales",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "coronación de Napoleón Bonaparte como emperador",
+      "correct": false
+    }
+  ],
+  "explanation": "En 2008 ocurrió la quiebra de Lehman Brothers.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "quiebra-de-lehman-brothers"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

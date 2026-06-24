@@ -1,0 +1,42 @@
+{
+  "id": "q-002605",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con CD Projekt Red?",
+  "answers": [
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Street Fighter II",
+      "correct": false
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": true
+    },
+    {
+      "text": "Space Invaders",
+      "correct": false
+    }
+  ],
+  "explanation": "CD Projekt Red desarrolló o publicó “The Witcher 3”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "cd-projekt-red"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

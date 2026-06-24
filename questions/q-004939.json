@@ -1,0 +1,42 @@
+{
+  "id": "q-004939",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 12 - 12?",
+  "answers": [
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "0",
+      "correct": true
+    },
+    {
+      "text": "0 (3)",
+      "correct": false
+    }
+  ],
+  "explanation": "La resta 12 - 12 da 0.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

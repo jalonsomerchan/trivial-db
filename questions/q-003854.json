@@ -1,0 +1,43 @@
+{
+  "id": "q-003854",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Jamaica y suele llevar pollo especiado?",
+  "answers": [
+    {
+      "text": "jerk chicken",
+      "correct": true
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    },
+    {
+      "text": "ramen",
+      "correct": false
+    },
+    {
+      "text": "adobo",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es jerk chicken.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "jamaica",
+    "pollo-especiado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-002145",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "medium",
+  "question": "En qué deporte se usa el término “strikeout”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "esquí alpino",
+      "correct": false
+    },
+    {
+      "text": "biatlón",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": true
+    },
+    {
+      "text": "ciclismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “strikeout” se usa en béisbol.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "terminologia",
+    "beisbol",
+    "strikeout",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

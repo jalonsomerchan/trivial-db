@@ -1,0 +1,42 @@
+{
+  "id": "q-002873",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con FromSoftware?",
+  "answers": [
+    {
+      "text": "League of Legends",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    },
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "Dark Souls",
+      "correct": true
+    }
+  ],
+  "explanation": "FromSoftware desarrolló o publicó “Dark Souls”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "fromsoftware"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

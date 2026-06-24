@@ -1,0 +1,44 @@
+{
+  "id": "q-000255",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué elemento tiene el número atómico 86”?",
+  "answers": [
+    {
+      "text": "uranio",
+      "correct": false
+    },
+    {
+      "text": "radio",
+      "correct": false
+    },
+    {
+      "text": "radón",
+      "correct": true
+    },
+    {
+      "text": "plomo",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 86 corresponde al radón.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "radon",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

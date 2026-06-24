@@ -1,0 +1,43 @@
+{
+  "id": "q-002615",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Qué película fue dirigida por Francis Ford Coppola en esta selección?",
+  "answers": [
+    {
+      "text": "El señor de los anillos: El retorno del rey",
+      "correct": false
+    },
+    {
+      "text": "El señor de los anillos: La comunidad del anillo",
+      "correct": false
+    },
+    {
+      "text": "El silencio de los corderos",
+      "correct": false
+    },
+    {
+      "text": "El padrino",
+      "correct": true
+    }
+  ],
+  "explanation": "Francis Ford Coppola dirigió “El padrino”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "francis-ford-coppola",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

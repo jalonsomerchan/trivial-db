@@ -1,0 +1,43 @@
+{
+  "id": "q-000613",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué región continental se encuentra Islandia?",
+  "answers": [
+    {
+      "text": "Oceanía",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": false
+    },
+    {
+      "text": "Asia",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": true
+    }
+  ],
+  "explanation": "Islandia se clasifica geográficamente en Europa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "continentes",
+    "paises",
+    "europa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

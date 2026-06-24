@@ -1,0 +1,44 @@
+{
+  "id": "q-000317",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Cuál es el símbolo químico del nihonio?",
+  "answers": [
+    {
+      "text": "Nh",
+      "correct": true
+    },
+    {
+      "text": "Rg",
+      "correct": false
+    },
+    {
+      "text": "Ds",
+      "correct": false
+    },
+    {
+      "text": "Mc",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del nihonio es Nh.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "nihonio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

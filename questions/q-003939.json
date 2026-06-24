@@ -1,0 +1,42 @@
+{
+  "id": "q-003939",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado almejas?",
+  "answers": [
+    {
+      "text": "barbecue ribs",
+      "correct": false
+    },
+    {
+      "text": "pato laqueado",
+      "correct": false
+    },
+    {
+      "text": "fish and chips",
+      "correct": false
+    },
+    {
+      "text": "clam chowder",
+      "correct": true
+    }
+  ],
+  "explanation": "clam chowder destaca por el uso de almejas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "almejas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

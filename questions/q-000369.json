@@ -1,0 +1,44 @@
+{
+  "id": "q-000369",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico tiene el símbolo Ca?",
+  "answers": [
+    {
+      "text": "azufre",
+      "correct": false
+    },
+    {
+      "text": "calcio",
+      "correct": true
+    },
+    {
+      "text": "vanadio",
+      "correct": false
+    },
+    {
+      "text": "cloro",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Ca corresponde al calcio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "calcio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

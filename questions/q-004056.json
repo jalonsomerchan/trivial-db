@@ -1,0 +1,43 @@
+{
+  "id": "q-004056",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En gramática, ¿qué es un hiato”?",
+  "answers": [
+    {
+      "text": "palabra que une elementos o proposiciones",
+      "correct": false
+    },
+    {
+      "text": "palabra invariable que introduce complementos",
+      "correct": false
+    },
+    {
+      "text": "separación de dos vocales en sílabas distintas",
+      "correct": true
+    },
+    {
+      "text": "palabra que nombra personas, animales, cosas o ideas",
+      "correct": false
+    }
+  ],
+  "explanation": "Un hiato es una separación de dos vocales en sílabas distintas.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "hiato",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

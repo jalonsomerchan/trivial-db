@@ -1,0 +1,42 @@
+{
+  "id": "q-004805",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 8 × 9?",
+  "answers": [
+    {
+      "text": "71",
+      "correct": false
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "63",
+      "correct": false
+    },
+    {
+      "text": "72",
+      "correct": true
+    }
+  ],
+  "explanation": "El producto de 8 por 9 es 72.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000425",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico tiene el símbolo Ne?",
+  "answers": [
+    {
+      "text": "flúor",
+      "correct": false
+    },
+    {
+      "text": "silicio",
+      "correct": false
+    },
+    {
+      "text": "neón",
+      "correct": true
+    },
+    {
+      "text": "fósforo",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Ne corresponde al neón.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "neon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

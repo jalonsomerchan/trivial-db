@@ -1,0 +1,44 @@
+{
+  "id": "q-001856",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Quién escribió “2666””?",
+  "answers": [
+    {
+      "text": "Aldous Huxley",
+      "correct": false
+    },
+    {
+      "text": "Roberto Bolaño",
+      "correct": true
+    },
+    {
+      "text": "Luis Martín-Santos",
+      "correct": false
+    },
+    {
+      "text": "F. Scott Fitzgerald",
+      "correct": false
+    }
+  ],
+  "explanation": "“2666” es una obra de Roberto Bolaño.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "2666",
+    "roberto-bolano",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

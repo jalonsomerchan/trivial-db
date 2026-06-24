@@ -1,0 +1,44 @@
+{
+  "id": "q-001849",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "epica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: ““La Ilíada” pertenece principalmente al ámbito de...”?",
+  "answers": [
+    {
+      "text": "literatura",
+      "correct": false
+    },
+    {
+      "text": "epica",
+      "correct": true
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "épica",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Ilíada” se clasifica dentro de epica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "epica",
+    "la-iliada",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

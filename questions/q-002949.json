@@ -1,0 +1,43 @@
+{
+  "id": "q-002949",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Qué álbum pertenece a Prince”?",
+  "answers": [
+    {
+      "text": "Like a Prayer",
+      "correct": false
+    },
+    {
+      "text": "Purple Rain",
+      "correct": true
+    },
+    {
+      "text": "The Wall",
+      "correct": false
+    },
+    {
+      "text": "The Dark Side of the Moon",
+      "correct": false
+    }
+  ],
+  "explanation": "“Purple Rain” pertenece a Prince.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica",
+    "prince",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004301",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué término gramatical corresponde a esta definición: “palabra cuya sílaba tónica es la antepenúltima””?",
+  "answers": [
+    {
+      "text": "antónimo",
+      "correct": false
+    },
+    {
+      "text": "adjetivo",
+      "correct": false
+    },
+    {
+      "text": "conjunción",
+      "correct": false
+    },
+    {
+      "text": "esdrújula",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a “esdrújula”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "esdrujula",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

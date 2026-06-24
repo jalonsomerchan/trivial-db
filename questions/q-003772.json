@@ -1,0 +1,44 @@
+{
+  "id": "q-003772",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "Con qué país o región se asocia tradicionalmente el plato tzatziki. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Suiza",
+      "correct": false
+    },
+    {
+      "text": "Grecia",
+      "correct": true
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    }
+  ],
+  "explanation": "tzatziki se asocia tradicionalmente con Grecia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "tzatziki",
+    "grecia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

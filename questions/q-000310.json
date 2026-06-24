@@ -1,0 +1,44 @@
+{
+  "id": "q-000310",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el símbolo químico del bohrio”?",
+  "answers": [
+    {
+      "text": "Ds",
+      "correct": false
+    },
+    {
+      "text": "No",
+      "correct": false
+    },
+    {
+      "text": "Bh",
+      "correct": true
+    },
+    {
+      "text": "Rf",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del bohrio es Bh.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "bohrio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-003134",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué formato se utiliza habitualmente para archivo comprimido?",
+  "answers": [
+    {
+      "text": "JPEG",
+      "correct": false
+    },
+    {
+      "text": "ZIP",
+      "correct": true
+    },
+    {
+      "text": "WebP",
+      "correct": false
+    },
+    {
+      "text": "WASM",
+      "correct": false
+    }
+  ],
+  "explanation": "El formato ZIP se utiliza habitualmente para archivo comprimido.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "zip"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

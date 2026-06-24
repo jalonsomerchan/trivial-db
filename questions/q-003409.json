@@ -1,0 +1,44 @@
+{
+  "id": "q-003409",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En qué año apareció por primera vez C++”?",
+  "answers": [
+    {
+      "text": "1972",
+      "correct": false
+    },
+    {
+      "text": "1985 (3)",
+      "correct": false
+    },
+    {
+      "text": "1985",
+      "correct": true
+    },
+    {
+      "text": "2015",
+      "correct": false
+    }
+  ],
+  "explanation": "C++ apareció por primera vez en 1985.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "c",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000242",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el símbolo químico del níquel”?",
+  "answers": [
+    {
+      "text": "Zn",
+      "correct": false
+    },
+    {
+      "text": "Co",
+      "correct": false
+    },
+    {
+      "text": "Fe",
+      "correct": false
+    },
+    {
+      "text": "Ni",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico del níquel es Ni.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "niquel",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

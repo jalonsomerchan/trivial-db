@@ -1,0 +1,44 @@
+{
+  "id": "q-000078",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Cuál es el símbolo químico del plata”?",
+  "answers": [
+    {
+      "text": "Ag",
+      "correct": true
+    },
+    {
+      "text": "In",
+      "correct": false
+    },
+    {
+      "text": "Mo",
+      "correct": false
+    },
+    {
+      "text": "Rh",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del plata es Ag.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "plata",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000618",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Brunei?",
+  "answers": [
+    {
+      "text": "Bandar Seri Begawan",
+      "correct": true
+    },
+    {
+      "text": "Tbilisi",
+      "correct": false
+    },
+    {
+      "text": "Phnom Penh",
+      "correct": false
+    },
+    {
+      "text": "Dushanbe",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Brunei es Bandar Seri Begawan.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "brunei"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

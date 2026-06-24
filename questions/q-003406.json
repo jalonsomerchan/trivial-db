@@ -1,0 +1,42 @@
+{
+  "id": "q-003406",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién creó o impulsó originalmente el lenguaje Lisp?",
+  "answers": [
+    {
+      "text": "Yukihiro Matsumoto",
+      "correct": false
+    },
+    {
+      "text": "John McCarthy",
+      "correct": true
+    },
+    {
+      "text": "James Strachan",
+      "correct": false
+    },
+    {
+      "text": "James Gosling",
+      "correct": false
+    }
+  ],
+  "explanation": "Lisp se asocia históricamente con John McCarthy.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "lisp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

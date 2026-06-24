@@ -1,0 +1,43 @@
+{
+  "id": "q-000703",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Kuwait City?",
+  "answers": [
+    {
+      "text": "Kuwait",
+      "correct": true
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Turkmenistán",
+      "correct": false
+    },
+    {
+      "text": "Kirguizistán",
+      "correct": false
+    }
+  ],
+  "explanation": "Kuwait City es la capital de Kuwait.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "kuwait"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

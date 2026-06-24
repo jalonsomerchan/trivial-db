@@ -1,0 +1,44 @@
+{
+  "id": "q-001881",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: ““La casa de Bernarda Alba” pertenece principalmente al ámbito de...”?",
+  "answers": [
+    {
+      "text": "ensayo",
+      "correct": false
+    },
+    {
+      "text": "literatura",
+      "correct": false
+    },
+    {
+      "text": "teatro",
+      "correct": true
+    },
+    {
+      "text": "épica",
+      "correct": false
+    }
+  ],
+  "explanation": "“La casa de Bernarda Alba” se clasifica dentro de teatro.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "teatro",
+    "la-casa-de-bernarda-alba",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

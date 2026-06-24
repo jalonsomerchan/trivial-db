@@ -1,0 +1,44 @@
+{
+  "id": "q-001417",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “A qué siglo pertenece el año 1950, relacionado con la inicio de la Guerra de Corea”?",
+  "answers": [
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XXI",
+      "correct": false
+    },
+    {
+      "text": "siglo XIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XVI",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1950 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "inicio-de-la-guerra-de-corea",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

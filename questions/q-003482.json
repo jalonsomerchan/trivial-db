@@ -1,0 +1,44 @@
+{
+  "id": "q-003482",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Para qué se usa principalmente SMB?",
+  "answers": [
+    {
+      "text": "transferencia de archivos",
+      "correct": false
+    },
+    {
+      "text": "compartición de archivos",
+      "correct": true
+    },
+    {
+      "text": "recepción de correo",
+      "correct": false
+    },
+    {
+      "text": "base de datos en memoria",
+      "correct": false
+    }
+  ],
+  "explanation": "SMB se usa principalmente para compartición de archivos.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "smb",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

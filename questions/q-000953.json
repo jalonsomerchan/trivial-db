@@ -1,0 +1,43 @@
+{
+  "id": "q-000953",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Chipre?",
+  "answers": [
+    {
+      "text": ".cy",
+      "correct": true
+    },
+    {
+      "text": ".no",
+      "correct": false
+    },
+    {
+      "text": ".am",
+      "correct": false
+    },
+    {
+      "text": ".ge",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Chipre es .cy.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "chipre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

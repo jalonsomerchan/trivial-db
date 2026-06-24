@@ -1,0 +1,42 @@
+{
+  "id": "q-001381",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1989?",
+  "answers": [
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": true
+    },
+    {
+      "text": "comienzo de la Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "bombardeo de Guernica",
+      "correct": false
+    },
+    {
+      "text": "Revolución cubana",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1989 ocurrió la caída del Muro de Berlín.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "caida-del-muro-de-berlin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004072",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Para un trivial de lengua, completa la respuesta correcta: Cuál es el plural correcto de “jersey”?",
+  "answers": [
+    {
+      "text": "jerséis",
+      "correct": true
+    },
+    {
+      "text": "aviones",
+      "correct": false
+    },
+    {
+      "text": "luces",
+      "correct": false
+    },
+    {
+      "text": "voces",
+      "correct": false
+    }
+  ],
+  "explanation": "El plural correcto de “jersey” es “jerséis”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "jersey",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

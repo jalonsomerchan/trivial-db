@@ -1,0 +1,43 @@
+{
+  "id": "q-001186",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 2011”?",
+  "answers": [
+    {
+      "text": "ampliación de la Unión Europea hacia Europa central y oriental",
+      "correct": false
+    },
+    {
+      "text": "caída de Constantinopla",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Verdún",
+      "correct": false
+    },
+    {
+      "text": "primavera árabe",
+      "correct": true
+    }
+  ],
+  "explanation": "En 2011 ocurrió la primavera árabe.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "primavera-arabe",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

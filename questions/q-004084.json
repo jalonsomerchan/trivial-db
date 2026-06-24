@@ -1,0 +1,43 @@
+{
+  "id": "q-004084",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "océano, oceano, óceano. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "oceáno",
+      "correct": false
+    },
+    {
+      "text": "óceano",
+      "correct": false
+    },
+    {
+      "text": "oceano",
+      "correct": false
+    },
+    {
+      "text": "océano",
+      "correct": true
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “océano”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "oceano",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

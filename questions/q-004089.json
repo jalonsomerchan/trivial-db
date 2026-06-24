@@ -1,0 +1,43 @@
+{
+  "id": "q-004089",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene un significado parecido a “sendero”?",
+  "answers": [
+    {
+      "text": "camino",
+      "correct": true
+    },
+    {
+      "text": "terminar",
+      "correct": false
+    },
+    {
+      "text": "pequeño",
+      "correct": false
+    },
+    {
+      "text": "comenzar",
+      "correct": false
+    }
+  ],
+  "explanation": "“camino” y “sendero” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "camino",
+    "sendero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

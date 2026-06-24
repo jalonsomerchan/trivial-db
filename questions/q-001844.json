@@ -1,0 +1,44 @@
+{
+  "id": "q-001844",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió “Crimen y castigo”?",
+  "answers": [
+    {
+      "text": "Ernesto Sabato",
+      "correct": false
+    },
+    {
+      "text": "Laura Esquivel",
+      "correct": false
+    },
+    {
+      "text": "León Tolstói",
+      "correct": false
+    },
+    {
+      "text": "Fiódor Dostoievski",
+      "correct": true
+    }
+  ],
+  "explanation": "“Crimen y castigo” es una obra de Fiódor Dostoievski.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "crimen-y-castigo",
+    "fiodor-dostoievski",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

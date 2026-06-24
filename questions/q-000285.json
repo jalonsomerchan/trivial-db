@@ -1,0 +1,43 @@
+{
+  "id": "q-000285",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué planeta ocupa la posición 3 desde el Sol?",
+  "answers": [
+    {
+      "text": "Tierra",
+      "correct": true
+    },
+    {
+      "text": "Saturno",
+      "correct": false
+    },
+    {
+      "text": "Marte",
+      "correct": false
+    },
+    {
+      "text": "Venus",
+      "correct": false
+    }
+  ],
+  "explanation": "Tierra es el planeta número 3 contando desde el Sol.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "sistema-solar",
+    "planetas",
+    "tierra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

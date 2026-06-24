@@ -1,0 +1,44 @@
+{
+  "id": "q-004233",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué palabra tiene un significado parecido a “finalizar””?",
+  "answers": [
+    {
+      "text": "terminar",
+      "correct": true
+    },
+    {
+      "text": "enemigo",
+      "correct": false
+    },
+    {
+      "text": "comprar",
+      "correct": false
+    },
+    {
+      "text": "oír",
+      "correct": false
+    }
+  ],
+  "explanation": "“terminar” y “finalizar” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "terminar",
+    "finalizar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

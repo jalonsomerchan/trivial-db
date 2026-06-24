@@ -1,0 +1,43 @@
+{
+  "id": "q-003830",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato baklava?",
+  "answers": [
+    {
+      "text": "Marruecos",
+      "correct": false
+    },
+    {
+      "text": "Europa oriental",
+      "correct": false
+    },
+    {
+      "text": "China",
+      "correct": false
+    },
+    {
+      "text": "Mediterráneo oriental",
+      "correct": true
+    }
+  ],
+  "explanation": "baklava se asocia tradicionalmente con Mediterráneo oriental.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "baklava",
+    "mediterraneo-oriental"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

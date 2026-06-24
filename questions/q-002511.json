@@ -1,0 +1,43 @@
+{
+  "id": "q-002511",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué videojuego se asocia con Nintendo”?",
+  "answers": [
+    {
+      "text": "Hollow Knight",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": true
+    },
+    {
+      "text": "The Sims",
+      "correct": false
+    },
+    {
+      "text": "Quake",
+      "correct": false
+    }
+  ],
+  "explanation": "Nintendo desarrolló o publicó “Super Mario Bros.”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "nintendo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

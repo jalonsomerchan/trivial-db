@@ -1,0 +1,43 @@
+{
+  "id": "q-001749",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cuadro se asocia con Edward Hopper?",
+  "answers": [
+    {
+      "text": "Las señoritas de Aviñón",
+      "correct": false
+    },
+    {
+      "text": "Nighthawks",
+      "correct": true
+    },
+    {
+      "text": "La última cena",
+      "correct": false
+    },
+    {
+      "text": "La joven de la perla",
+      "correct": false
+    }
+  ],
+  "explanation": "Edward Hopper es el autor de “Nighthawks”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "nighthawks",
+    "edward-hopper"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

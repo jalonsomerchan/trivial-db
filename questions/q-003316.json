@@ -1,0 +1,42 @@
+{
+  "id": "q-003316",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué formato se utiliza habitualmente para imagen para web?",
+  "answers": [
+    {
+      "text": "MP3",
+      "correct": false
+    },
+    {
+      "text": "CSS",
+      "correct": false
+    },
+    {
+      "text": "SQL",
+      "correct": false
+    },
+    {
+      "text": "WebP",
+      "correct": true
+    }
+  ],
+  "explanation": "El formato WebP se utiliza habitualmente para imagen para web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "webp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

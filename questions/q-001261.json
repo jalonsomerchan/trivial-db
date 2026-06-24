@@ -1,0 +1,44 @@
+{
+  "id": "q-001261",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1701, relacionado con la Guerra de Sucesión española?",
+  "answers": [
+    {
+      "text": "siglo XX",
+      "correct": false
+    },
+    {
+      "text": "siglo XVIII",
+      "correct": true
+    },
+    {
+      "text": "siglo I",
+      "correct": false
+    },
+    {
+      "text": "siglo XI",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1701 pertenece al siglo XVIII.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "guerra-de-sucesion-espanola",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

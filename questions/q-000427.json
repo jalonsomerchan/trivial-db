@@ -1,0 +1,44 @@
+{
+  "id": "q-000427",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Qué elemento tiene el número atómico 14?",
+  "answers": [
+    {
+      "text": "azufre",
+      "correct": false
+    },
+    {
+      "text": "silicio",
+      "correct": true
+    },
+    {
+      "text": "cloro",
+      "correct": false
+    },
+    {
+      "text": "sodio",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 14 corresponde al silicio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "silicio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

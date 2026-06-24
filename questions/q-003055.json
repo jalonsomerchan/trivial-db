@@ -1,0 +1,44 @@
+{
+  "id": "q-003055",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué protocolo se asocia normalmente al puerto 3306?",
+  "answers": [
+    {
+      "text": "RDP",
+      "correct": false
+    },
+    {
+      "text": "PostgreSQL",
+      "correct": false
+    },
+    {
+      "text": "MySQL",
+      "correct": true
+    },
+    {
+      "text": "NTP",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 3306 se asocia habitualmente con MySQL.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "mysql",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

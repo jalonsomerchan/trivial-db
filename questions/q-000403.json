@@ -1,0 +1,43 @@
+{
+  "id": "q-000403",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento tiene el número atómico 94?",
+  "answers": [
+    {
+      "text": "radio",
+      "correct": false
+    },
+    {
+      "text": "plutonio",
+      "correct": true
+    },
+    {
+      "text": "californio",
+      "correct": false
+    },
+    {
+      "text": "americio",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 94 corresponde al plutonio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "plutonio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

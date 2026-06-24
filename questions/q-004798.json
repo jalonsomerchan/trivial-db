@@ -1,0 +1,42 @@
+{
+  "id": "q-004798",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 50% de 380?",
+  "answers": [
+    {
+      "text": "200",
+      "correct": false
+    },
+    {
+      "text": "195",
+      "correct": false
+    },
+    {
+      "text": "185",
+      "correct": false
+    },
+    {
+      "text": "190",
+      "correct": true
+    }
+  ],
+  "explanation": "El 50% de 380 es 380 × 50/100 = 190.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

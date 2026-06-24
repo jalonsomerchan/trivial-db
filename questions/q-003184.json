@@ -1,0 +1,43 @@
+{
+  "id": "q-003184",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Quién creó o impulsó originalmente el lenguaje Scala?",
+  "answers": [
+    {
+      "text": "James Gosling",
+      "correct": false
+    },
+    {
+      "text": "Larry Wall",
+      "correct": false
+    },
+    {
+      "text": "José Valim",
+      "correct": false
+    },
+    {
+      "text": "Martin Odersky",
+      "correct": true
+    }
+  ],
+  "explanation": "Scala se asocia históricamente con Martin Odersky.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "scala",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

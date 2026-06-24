@@ -1,0 +1,42 @@
+{
+  "id": "q-004014",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué singular corresponde al plural “hoteles”?",
+  "answers": [
+    {
+      "text": "ratón",
+      "correct": false
+    },
+    {
+      "text": "papá",
+      "correct": false
+    },
+    {
+      "text": "hotel",
+      "correct": true
+    },
+    {
+      "text": "camión",
+      "correct": false
+    }
+  ],
+  "explanation": "El singular de “hoteles” es “hotel”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "hotel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

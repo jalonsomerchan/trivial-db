@@ -1,0 +1,42 @@
+{
+  "id": "q-004948",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 40% de 320?",
+  "answers": [
+    {
+      "text": "138",
+      "correct": false
+    },
+    {
+      "text": "128",
+      "correct": true
+    },
+    {
+      "text": "123",
+      "correct": false
+    },
+    {
+      "text": "133",
+      "correct": false
+    }
+  ],
+  "explanation": "El 40% de 320 es 320 × 40/100 = 128.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

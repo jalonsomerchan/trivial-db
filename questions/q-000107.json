@@ -1,0 +1,43 @@
+{
+  "id": "q-000107",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del polonio?",
+  "answers": [
+    {
+      "text": "76",
+      "correct": false
+    },
+    {
+      "text": "82",
+      "correct": false
+    },
+    {
+      "text": "79",
+      "correct": false
+    },
+    {
+      "text": "84",
+      "correct": true
+    }
+  ],
+  "explanation": "El polonio tiene número atómico 84.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "polonio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

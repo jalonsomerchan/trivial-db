@@ -1,0 +1,42 @@
+{
+  "id": "q-003503",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa pochar?",
+  "answers": [
+    {
+      "text": "cocinar suavemente hasta ablandar",
+      "correct": true
+    },
+    {
+      "text": "evaporar líquido para concentrar sabor",
+      "correct": false
+    },
+    {
+      "text": "dar consistencia a una salsa",
+      "correct": false
+    },
+    {
+      "text": "punto de cocción firme de la pasta",
+      "correct": false
+    }
+  ],
+  "explanation": "pochar significa cocinar suavemente hasta ablandar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "pochar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

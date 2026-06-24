@@ -1,0 +1,42 @@
+{
+  "id": "q-003944",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa concassé?",
+  "answers": [
+    {
+      "text": "calentar suavemente usando un recipiente con agua",
+      "correct": false
+    },
+    {
+      "text": "tomate pelado y picado",
+      "correct": true
+    },
+    {
+      "text": "corte en dados pequeños",
+      "correct": false
+    },
+    {
+      "text": "dar consistencia a una salsa",
+      "correct": false
+    }
+  ],
+  "explanation": "concassé significa tomate pelado y picado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "concasse"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

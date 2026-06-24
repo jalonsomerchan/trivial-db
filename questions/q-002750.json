@@ -1,0 +1,43 @@
+{
+  "id": "q-002750",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película “Parque Jurásico”?",
+  "answers": [
+    {
+      "text": "Chris Buck y Jennifer Lee",
+      "correct": false
+    },
+    {
+      "text": "Roberto Benigni",
+      "correct": false
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": true
+    },
+    {
+      "text": "Hayao Miyazaki",
+      "correct": false
+    }
+  ],
+  "explanation": "“Parque Jurásico” fue dirigida por Steven Spielberg.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "parque-jurasico",
+    "steven-spielberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

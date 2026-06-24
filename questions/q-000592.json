@@ -1,0 +1,43 @@
+{
+  "id": "q-000592",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Montserrat?",
+  "answers": [
+    {
+      "text": "+672",
+      "correct": false
+    },
+    {
+      "text": "+968",
+      "correct": false
+    },
+    {
+      "text": "+44",
+      "correct": false
+    },
+    {
+      "text": "+1664",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Montserrat es +1664.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "montserrat"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

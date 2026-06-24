@@ -1,0 +1,43 @@
+{
+  "id": "q-003378",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué sigla corresponde a “integración continua”?",
+  "answers": [
+    {
+      "text": "CD",
+      "correct": false
+    },
+    {
+      "text": "DOM",
+      "correct": false
+    },
+    {
+      "text": "SSD",
+      "correct": false
+    },
+    {
+      "text": "CI",
+      "correct": true
+    }
+  ],
+  "explanation": "La sigla correspondiente a “integración continua” es CI.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "ci"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

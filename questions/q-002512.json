@@ -1,0 +1,44 @@
+{
+  "id": "q-002512",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se lanzó originalmente “Celeste”?",
+  "answers": [
+    {
+      "text": "2018",
+      "correct": true
+    },
+    {
+      "text": "2000",
+      "correct": false
+    },
+    {
+      "text": "1980",
+      "correct": false
+    },
+    {
+      "text": "2001",
+      "correct": false
+    }
+  ],
+  "explanation": "“Celeste” se lanzó originalmente en 2018.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "celeste",
+    "lanzamientos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

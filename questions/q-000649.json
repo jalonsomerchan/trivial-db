@@ -1,0 +1,43 @@
+{
+  "id": "q-000649",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Portugal?",
+  "answers": [
+    {
+      "text": "+592",
+      "correct": false
+    },
+    {
+      "text": "+688",
+      "correct": false
+    },
+    {
+      "text": "+223",
+      "correct": false
+    },
+    {
+      "text": "+351",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Portugal es +351.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "portugal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

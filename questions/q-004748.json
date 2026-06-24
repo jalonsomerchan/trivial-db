@@ -1,0 +1,42 @@
+{
+  "id": "q-004748",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 40% de 80?",
+  "answers": [
+    {
+      "text": "42",
+      "correct": false
+    },
+    {
+      "text": "32",
+      "correct": true
+    },
+    {
+      "text": "37",
+      "correct": false
+    },
+    {
+      "text": "27",
+      "correct": false
+    }
+  ],
+  "explanation": "El 40% de 80 es 80 × 40/100 = 32.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

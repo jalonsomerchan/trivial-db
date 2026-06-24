@@ -1,0 +1,44 @@
+{
+  "id": "q-001607",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Qué composición se asocia con Johann Sebastian Bach?",
+  "answers": [
+    {
+      "text": "El Mesías",
+      "correct": false
+    },
+    {
+      "text": "El lago de los cisnes",
+      "correct": false
+    },
+    {
+      "text": "Aida",
+      "correct": false
+    },
+    {
+      "text": "Tocata y fuga en re menor",
+      "correct": true
+    }
+  ],
+  "explanation": "Johann Sebastian Bach compuso “Tocata y fuga en re menor”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "tocata-y-fuga-en-re-menor",
+    "johann-sebastian-bach",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

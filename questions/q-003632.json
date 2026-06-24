@@ -1,0 +1,43 @@
+{
+  "id": "q-003632",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Qué plato de esta lista tiene como ingrediente destacado huevo y queso. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "pasta carbonara",
+      "correct": true
+    },
+    {
+      "text": "sushi",
+      "correct": false
+    },
+    {
+      "text": "lamington",
+      "correct": false
+    },
+    {
+      "text": "clam chowder",
+      "correct": false
+    }
+  ],
+  "explanation": "pasta carbonara destaca por el uso de huevo y queso.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "huevo-y-queso",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

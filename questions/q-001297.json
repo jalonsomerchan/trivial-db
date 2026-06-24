@@ -1,0 +1,42 @@
+{
+  "id": "q-001297",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1947?",
+  "answers": [
+    {
+      "text": "independencia de la India",
+      "correct": true
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    },
+    {
+      "text": "ampliación de la Unión Europea hacia Europa central y oriental",
+      "correct": false
+    },
+    {
+      "text": "primavera árabe",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1947 ocurrió la independencia de la India.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "independencia-de-la-india"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

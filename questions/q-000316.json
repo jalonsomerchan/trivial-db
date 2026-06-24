@@ -1,0 +1,43 @@
+{
+  "id": "q-000316",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento químico tiene el símbolo Os?",
+  "answers": [
+    {
+      "text": "oro",
+      "correct": false
+    },
+    {
+      "text": "mercurio",
+      "correct": false
+    },
+    {
+      "text": "osmio",
+      "correct": true
+    },
+    {
+      "text": "tántalo",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Os corresponde al osmio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "osmio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

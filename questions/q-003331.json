@@ -1,0 +1,44 @@
+{
+  "id": "q-003331",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué significa la sigla UDP en tecnología”?",
+  "answers": [
+    {
+      "text": "unidad de procesamiento gráfico",
+      "correct": false
+    },
+    {
+      "text": "protocolo de datagramas de usuario",
+      "correct": true
+    },
+    {
+      "text": "seguridad de la capa de transporte",
+      "correct": false
+    },
+    {
+      "text": "crear, leer, actualizar y borrar",
+      "correct": false
+    }
+  ],
+  "explanation": "En tecnología, UDP significa protocolo de datagramas de usuario.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "udp",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

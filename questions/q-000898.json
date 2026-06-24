@@ -1,0 +1,43 @@
+{
+  "id": "q-000898",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Zambia?",
+  "answers": [
+    {
+      "text": ".zm",
+      "correct": true
+    },
+    {
+      "text": ".pr",
+      "correct": false
+    },
+    {
+      "text": ".eg",
+      "correct": false
+    },
+    {
+      "text": ".ai",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Zambia es .zm.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "zambia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

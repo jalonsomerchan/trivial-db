@@ -1,0 +1,43 @@
+{
+  "id": "q-000985",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Victoria?",
+  "answers": [
+    {
+      "text": "Níger",
+      "correct": false
+    },
+    {
+      "text": "Mauritania",
+      "correct": false
+    },
+    {
+      "text": "Seychelles",
+      "correct": true
+    },
+    {
+      "text": "Namibia",
+      "correct": false
+    }
+  ],
+  "explanation": "Victoria es la capital de Seychelles.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "seychelles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

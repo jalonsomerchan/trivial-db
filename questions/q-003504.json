@@ -1,0 +1,42 @@
+{
+  "id": "q-003504",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado masa de pan?",
+  "answers": [
+    {
+      "text": "pizza napolitana",
+      "correct": true
+    },
+    {
+      "text": "tajín",
+      "correct": false
+    },
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": false
+    }
+  ],
+  "explanation": "pizza napolitana destaca por el uso de masa de pan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "masa-de-pan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

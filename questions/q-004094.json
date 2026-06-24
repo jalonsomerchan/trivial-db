@@ -1,0 +1,44 @@
+{
+  "id": "q-004094",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué palabra tiene un significado parecido a “coste””?",
+  "answers": [
+    {
+      "text": "norma",
+      "correct": false
+    },
+    {
+      "text": "precio",
+      "correct": true
+    },
+    {
+      "text": "bajar",
+      "correct": false
+    },
+    {
+      "text": "valiente",
+      "correct": false
+    }
+  ],
+  "explanation": "“precio” y “coste” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "precio",
+    "coste",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

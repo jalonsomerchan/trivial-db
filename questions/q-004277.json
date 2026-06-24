@@ -1,0 +1,43 @@
+{
+  "id": "q-004277",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "ciudad, cíudad, ciudád. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "ciudád",
+      "correct": false
+    },
+    {
+      "text": "ciudàd",
+      "correct": false
+    },
+    {
+      "text": "cíudad",
+      "correct": false
+    },
+    {
+      "text": "ciudad",
+      "correct": true
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “ciudad”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "ciudad",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

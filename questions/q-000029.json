@@ -1,0 +1,43 @@
+{
+  "id": "q-000029",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico tiene el símbolo O?",
+  "answers": [
+    {
+      "text": "sodio",
+      "correct": false
+    },
+    {
+      "text": "oxígeno",
+      "correct": true
+    },
+    {
+      "text": "neón",
+      "correct": false
+    },
+    {
+      "text": "magnesio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo O corresponde al oxígeno.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "oxigeno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

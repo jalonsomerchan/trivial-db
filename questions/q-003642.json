@@ -1,0 +1,44 @@
+{
+  "id": "q-003642",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato se asocia con México y suele llevar chiles y especias”?",
+  "answers": [
+    {
+      "text": "pesto genovés",
+      "correct": false
+    },
+    {
+      "text": "mole poblano",
+      "correct": true
+    },
+    {
+      "text": "bobó de camarão",
+      "correct": false
+    },
+    {
+      "text": "banh mi",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es mole poblano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "mexico",
+    "chiles-y-especias",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

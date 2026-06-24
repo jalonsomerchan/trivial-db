@@ -1,0 +1,43 @@
+{
+  "id": "q-000900",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Nouakchott?",
+  "answers": [
+    {
+      "text": "Zambia",
+      "correct": false
+    },
+    {
+      "text": "Mauritania",
+      "correct": true
+    },
+    {
+      "text": "Ruanda",
+      "correct": false
+    },
+    {
+      "text": "Chad",
+      "correct": false
+    }
+  ],
+  "explanation": "Nouakchott es la capital de Mauritania.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "mauritania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

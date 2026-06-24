@@ -1,0 +1,43 @@
+{
+  "id": "q-003387",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto usa FTP por defecto?",
+  "answers": [
+    {
+      "text": "445",
+      "correct": false
+    },
+    {
+      "text": "21",
+      "correct": true
+    },
+    {
+      "text": "23",
+      "correct": false
+    },
+    {
+      "text": "53",
+      "correct": false
+    }
+  ],
+  "explanation": "FTP suele usar el puerto 21 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "ftp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

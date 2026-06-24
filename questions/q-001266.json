@@ -1,0 +1,44 @@
+{
+  "id": "q-001266",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la asesinato de John F. Kennedy?",
+  "answers": [
+    {
+      "text": "1943",
+      "correct": false
+    },
+    {
+      "text": "1963",
+      "correct": true
+    },
+    {
+      "text": "1973",
+      "correct": false
+    },
+    {
+      "text": "1953",
+      "correct": false
+    }
+  ],
+  "explanation": "La asesinato de John F. Kennedy ocurrió en 1963.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "asesinato-de-john-f-kennedy",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

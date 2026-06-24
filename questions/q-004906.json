@@ -1,0 +1,42 @@
+{
+  "id": "q-004906",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 40% de 110?",
+  "answers": [
+    {
+      "text": "39",
+      "correct": false
+    },
+    {
+      "text": "54",
+      "correct": false
+    },
+    {
+      "text": "49",
+      "correct": false
+    },
+    {
+      "text": "44",
+      "correct": true
+    }
+  ],
+  "explanation": "El 40% de 110 es 110 × 40/100 = 44.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

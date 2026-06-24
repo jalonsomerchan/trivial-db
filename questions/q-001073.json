@@ -1,0 +1,42 @@
+{
+  "id": "q-001073",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1918?",
+  "answers": [
+    {
+      "text": "fin de la Primera Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "ataque a Pearl Harbor",
+      "correct": false
+    },
+    {
+      "text": "unificación de Italia",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1918 ocurrió la fin de la Primera Guerra Mundial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fin-de-la-primera-guerra-mundial"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

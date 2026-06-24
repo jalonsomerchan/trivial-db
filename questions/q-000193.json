@@ -1,0 +1,44 @@
+{
+  "id": "q-000193",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el símbolo químico del wolframio?",
+  "answers": [
+    {
+      "text": "Lu",
+      "correct": false
+    },
+    {
+      "text": "W",
+      "correct": true
+    },
+    {
+      "text": "Er",
+      "correct": false
+    },
+    {
+      "text": "Tm",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del wolframio es W.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "wolframio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

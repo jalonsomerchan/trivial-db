@@ -1,0 +1,43 @@
+{
+  "id": "q-003946",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato rendang?",
+  "answers": [
+    {
+      "text": "Australia",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    },
+    {
+      "text": "Indonesia",
+      "correct": true
+    },
+    {
+      "text": "Hungría",
+      "correct": false
+    }
+  ],
+  "explanation": "rendang se asocia tradicionalmente con Indonesia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "rendang",
+    "indonesia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

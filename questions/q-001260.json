@@ -1,0 +1,44 @@
+{
+  "id": "q-001260",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: En qué año ocurrió la Tratado de Utrecht?",
+  "answers": [
+    {
+      "text": "1738",
+      "correct": false
+    },
+    {
+      "text": "1688",
+      "correct": false
+    },
+    {
+      "text": "1713",
+      "correct": true
+    },
+    {
+      "text": "1663",
+      "correct": false
+    }
+  ],
+  "explanation": "La Tratado de Utrecht ocurrió en 1713.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratado-de-utrecht",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

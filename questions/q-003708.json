@@ -1,0 +1,42 @@
+{
+  "id": "q-003708",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado verduras?",
+  "answers": [
+    {
+      "text": "ratatouille",
+      "correct": true
+    },
+    {
+      "text": "shepherd’s pie",
+      "correct": false
+    },
+    {
+      "text": "tortilla de patatas",
+      "correct": false
+    },
+    {
+      "text": "fish and chips",
+      "correct": false
+    }
+  ],
+  "explanation": "ratatouille destaca por el uso de verduras.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "verduras"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-002718",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “Regreso al futuro”?",
+  "answers": [
+    {
+      "text": "Robert Zemeckis",
+      "correct": true
+    },
+    {
+      "text": "George Lucas",
+      "correct": false
+    },
+    {
+      "text": "Quentin Tarantino",
+      "correct": false
+    },
+    {
+      "text": "Brad Bird",
+      "correct": false
+    }
+  ],
+  "explanation": "“Regreso al futuro” fue dirigida por Robert Zemeckis.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "regreso-al-futuro",
+    "robert-zemeckis",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

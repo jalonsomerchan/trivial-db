@@ -1,0 +1,42 @@
+{
+  "id": "q-003779",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado huevo y nata?",
+  "answers": [
+    {
+      "text": "bunny chow",
+      "correct": false
+    },
+    {
+      "text": "pozole",
+      "correct": false
+    },
+    {
+      "text": "quiche lorraine",
+      "correct": true
+    },
+    {
+      "text": "crêpe",
+      "correct": false
+    }
+  ],
+  "explanation": "quiche lorraine destaca por el uso de huevo y nata.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "huevo-y-nata"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

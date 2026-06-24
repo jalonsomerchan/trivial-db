@@ -1,0 +1,43 @@
+{
+  "id": "q-000031",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el símbolo químico del einstenio?",
+  "answers": [
+    {
+      "text": "Bk",
+      "correct": false
+    },
+    {
+      "text": "No",
+      "correct": false
+    },
+    {
+      "text": "Es",
+      "correct": true
+    },
+    {
+      "text": "Md",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del einstenio es Es.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "einstenio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

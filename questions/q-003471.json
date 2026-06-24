@@ -1,0 +1,42 @@
+{
+  "id": "q-003471",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién creó o impulsó originalmente el lenguaje Dart?",
+  "answers": [
+    {
+      "text": "Google",
+      "correct": true
+    },
+    {
+      "text": "Graydon Hoare",
+      "correct": false
+    },
+    {
+      "text": "James Gosling",
+      "correct": false
+    },
+    {
+      "text": "John Kemeny y Thomas Kurtz",
+      "correct": false
+    }
+  ],
+  "explanation": "Dart se asocia históricamente con Google.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "dart"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

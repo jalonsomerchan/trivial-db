@@ -1,0 +1,44 @@
+{
+  "id": "q-003780",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Para un trivial de gastronomia, completa la respuesta correcta: Qué plato se asocia con España y suele llevar arroz?",
+  "answers": [
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "bobó de camarão",
+      "correct": false
+    },
+    {
+      "text": "tortilla de patatas",
+      "correct": false
+    },
+    {
+      "text": "paella",
+      "correct": true
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es paella.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "espana",
+    "arroz",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

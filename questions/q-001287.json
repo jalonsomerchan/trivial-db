@@ -1,0 +1,43 @@
+{
+  "id": "q-001287",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la Tratado de Lisboa en vigor?",
+  "answers": [
+    {
+      "text": "1989",
+      "correct": false
+    },
+    {
+      "text": "2019",
+      "correct": false
+    },
+    {
+      "text": "2009",
+      "correct": true
+    },
+    {
+      "text": "1999",
+      "correct": false
+    }
+  ],
+  "explanation": "La Tratado de Lisboa en vigor ocurrió en 2009.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratado-de-lisboa-en-vigor",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

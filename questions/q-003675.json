@@ -1,0 +1,43 @@
+{
+  "id": "q-003675",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Cuál de estos términos es una técnica culinaria relacionada con “pasar””?",
+  "answers": [
+    {
+      "text": "tamizar",
+      "correct": true
+    },
+    {
+      "text": "desglasar",
+      "correct": false
+    },
+    {
+      "text": "curar",
+      "correct": false
+    },
+    {
+      "text": "amasar",
+      "correct": false
+    }
+  ],
+  "explanation": "La respuesta correcta es tamizar, una técnica culinaria reconocida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "tamizar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

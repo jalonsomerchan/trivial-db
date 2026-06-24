@@ -1,0 +1,42 @@
+{
+  "id": "q-002393",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "tenis"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué superficie se juega tradicionalmente Roland Garros?",
+  "answers": [
+    {
+      "text": "hierba",
+      "correct": false
+    },
+    {
+      "text": "pista dura",
+      "correct": false
+    },
+    {
+      "text": "tierra batida (3)",
+      "correct": false
+    },
+    {
+      "text": "tierra batida",
+      "correct": true
+    }
+  ],
+  "explanation": "Roland Garros se juega tradicionalmente sobre tierra batida.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "tenis",
+    "roland-garros"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

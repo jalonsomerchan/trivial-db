@@ -1,0 +1,42 @@
+{
+  "id": "q-004561",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 40% de 340?",
+  "answers": [
+    {
+      "text": "141",
+      "correct": false
+    },
+    {
+      "text": "131",
+      "correct": false
+    },
+    {
+      "text": "146",
+      "correct": false
+    },
+    {
+      "text": "136",
+      "correct": true
+    }
+  ],
+  "explanation": "El 40% de 340 es 340 × 40/100 = 136.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

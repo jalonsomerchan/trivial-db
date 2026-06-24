@@ -1,0 +1,43 @@
+{
+  "id": "q-003496",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué significa el código HTTP 404?",
+  "answers": [
+    {
+      "text": "Not Found",
+      "correct": true
+    },
+    {
+      "text": "Forbidden",
+      "correct": false
+    },
+    {
+      "text": "No Content",
+      "correct": false
+    },
+    {
+      "text": "Gateway Timeout",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 404 corresponde a “Not Found”.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "404"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

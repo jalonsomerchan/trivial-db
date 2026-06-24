@@ -1,0 +1,43 @@
+{
+  "id": "q-000111",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el número atómico del rutenio?",
+  "answers": [
+    {
+      "text": "42",
+      "correct": false
+    },
+    {
+      "text": "44",
+      "correct": true
+    },
+    {
+      "text": "52",
+      "correct": false
+    },
+    {
+      "text": "36",
+      "correct": false
+    }
+  ],
+  "explanation": "El rutenio tiene número atómico 44.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "rutenio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000936",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital The Valley?",
+  "answers": [
+    {
+      "text": "Islas Georgias del Sur y Sandwich del Sur",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Dominica",
+      "correct": false
+    },
+    {
+      "text": "Anguilla",
+      "correct": true
+    }
+  ],
+  "explanation": "The Valley es la capital de Anguilla.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "anguilla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

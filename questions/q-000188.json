@@ -1,0 +1,44 @@
+{
+  "id": "q-000188",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Cuál es el número atómico del moscovio?",
+  "answers": [
+    {
+      "text": "115",
+      "correct": true
+    },
+    {
+      "text": "107",
+      "correct": false
+    },
+    {
+      "text": "114",
+      "correct": false
+    },
+    {
+      "text": "113",
+      "correct": false
+    }
+  ],
+  "explanation": "El moscovio tiene número atómico 115.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "moscovio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-002648",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál sería la opción correcta si la pista fuera “En qué año se estrenó “Alien, el octavo pasajero”””?",
+  "answers": [
+    {
+      "text": "2008",
+      "correct": false
+    },
+    {
+      "text": "2004",
+      "correct": false
+    },
+    {
+      "text": "1994",
+      "correct": false
+    },
+    {
+      "text": "1979",
+      "correct": true
+    }
+  ],
+  "explanation": "“Alien, el octavo pasajero” se estrenó en 1979.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alien-el-octavo-pasajero",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

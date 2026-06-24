@@ -1,0 +1,43 @@
+{
+  "id": "q-000946",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Liechtenstein?",
+  "answers": [
+    {
+      "text": "Tallinn",
+      "correct": false
+    },
+    {
+      "text": "Copenhagen",
+      "correct": false
+    },
+    {
+      "text": "Chișinău",
+      "correct": false
+    },
+    {
+      "text": "Vaduz",
+      "correct": true
+    }
+  ],
+  "explanation": "La capital de Liechtenstein es Vaduz.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "liechtenstein"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

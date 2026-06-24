@@ -1,0 +1,44 @@
+{
+  "id": "q-003309",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué significa la sigla CD en tecnología”?",
+  "answers": [
+    {
+      "text": "crear, leer, actualizar y borrar",
+      "correct": false
+    },
+    {
+      "text": "despliegue o entrega continua",
+      "correct": true
+    },
+    {
+      "text": "seguridad de la capa de transporte",
+      "correct": false
+    },
+    {
+      "text": "mapeo objeto-relacional",
+      "correct": false
+    }
+  ],
+  "explanation": "En tecnología, CD significa despliegue o entrega continua.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "cd",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

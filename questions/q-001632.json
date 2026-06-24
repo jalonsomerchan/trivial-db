@@ -1,0 +1,43 @@
+{
+  "id": "q-001632",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cuadro se asocia con Salvador Dalí?",
+  "answers": [
+    {
+      "text": "La libertad guiando al pueblo",
+      "correct": false
+    },
+    {
+      "text": "La persistencia de la memoria",
+      "correct": true
+    },
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "El matrimonio Arnolfini",
+      "correct": false
+    }
+  ],
+  "explanation": "Salvador Dalí es el autor de “La persistencia de la memoria”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "la-persistencia-de-la-memoria",
+    "salvador-dali"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

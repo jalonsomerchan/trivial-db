@@ -1,0 +1,43 @@
+{
+  "id": "q-000908",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Estonia?",
+  "answers": [
+    {
+      "text": ".ee",
+      "correct": true
+    },
+    {
+      "text": ".sy",
+      "correct": false
+    },
+    {
+      "text": ".ie",
+      "correct": false
+    },
+    {
+      "text": ".rw",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Estonia es .ee.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "estonia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

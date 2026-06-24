@@ -1,0 +1,44 @@
+{
+  "id": "q-003317",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué significa la sigla CI en tecnología”?",
+  "answers": [
+    {
+      "text": "mapeo objeto-relacional",
+      "correct": false
+    },
+    {
+      "text": "crear, leer, actualizar y borrar",
+      "correct": false
+    },
+    {
+      "text": "integración continua",
+      "correct": true
+    },
+    {
+      "text": "red privada virtual",
+      "correct": false
+    }
+  ],
+  "explanation": "En tecnología, CI significa integración continua.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "ci",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

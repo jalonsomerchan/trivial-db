@@ -1,0 +1,43 @@
+{
+  "id": "q-002541",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Qué película fue dirigida por Orson Welles en esta selección”?",
+  "answers": [
+    {
+      "text": "Bienvenido, Mister Marshall",
+      "correct": false
+    },
+    {
+      "text": "Amélie",
+      "correct": false
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": true
+    },
+    {
+      "text": "E.T., el extraterrestre",
+      "correct": false
+    }
+  ],
+  "explanation": "Orson Welles dirigió “Ciudadano Kane”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "orson-welles",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

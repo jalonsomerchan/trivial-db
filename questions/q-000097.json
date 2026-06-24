@@ -1,0 +1,43 @@
+{
+  "id": "q-000097",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el símbolo químico del iterbio?",
+  "answers": [
+    {
+      "text": "Ho",
+      "correct": false
+    },
+    {
+      "text": "Lu",
+      "correct": false
+    },
+    {
+      "text": "Os",
+      "correct": false
+    },
+    {
+      "text": "Yb",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico del iterbio es Yb.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "iterbio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

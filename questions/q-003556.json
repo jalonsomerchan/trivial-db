@@ -1,0 +1,44 @@
+{
+  "id": "q-003556",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Con qué país o región se asocia tradicionalmente el plato ratatouille?",
+  "answers": [
+    {
+      "text": "Francia",
+      "correct": true
+    },
+    {
+      "text": "Georgia",
+      "correct": false
+    },
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Canadá",
+      "correct": false
+    }
+  ],
+  "explanation": "ratatouille se asocia tradicionalmente con Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "ratatouille",
+    "francia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

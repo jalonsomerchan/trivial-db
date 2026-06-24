@@ -1,0 +1,43 @@
+{
+  "id": "q-000875",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Eritrea?",
+  "answers": [
+    {
+      "text": "+291",
+      "correct": true
+    },
+    {
+      "text": "+248",
+      "correct": false
+    },
+    {
+      "text": "+1876",
+      "correct": false
+    },
+    {
+      "text": "+76",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Eritrea es +291.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "eritrea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000287",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "Cuál es el número atómico del molibdeno. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "41",
+      "correct": false
+    },
+    {
+      "text": "48",
+      "correct": false
+    },
+    {
+      "text": "38",
+      "correct": false
+    },
+    {
+      "text": "42",
+      "correct": true
+    }
+  ],
+  "explanation": "El molibdeno tiene número atómico 42.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "molibdeno",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

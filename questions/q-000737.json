@@ -1,0 +1,43 @@
+{
+  "id": "q-000737",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Zagreb?",
+  "answers": [
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Croacia",
+      "correct": true
+    },
+    {
+      "text": "Chipre",
+      "correct": false
+    },
+    {
+      "text": "Islandia",
+      "correct": false
+    }
+  ],
+  "explanation": "Zagreb es la capital de Croacia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "croacia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

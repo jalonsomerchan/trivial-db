@@ -1,0 +1,42 @@
+{
+  "id": "q-004267",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "En gramática, ¿qué es un adjetivo?",
+  "answers": [
+    {
+      "text": "unión de dos vocales en una misma sílaba",
+      "correct": false
+    },
+    {
+      "text": "palabra que nombra personas, animales, cosas o ideas",
+      "correct": false
+    },
+    {
+      "text": "palabra con varios significados",
+      "correct": false
+    },
+    {
+      "text": "palabra que expresa cualidades o propiedades",
+      "correct": true
+    }
+  ],
+  "explanation": "Un adjetivo es una palabra que expresa cualidades o propiedades.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "adjetivo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

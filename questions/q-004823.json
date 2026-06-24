@@ -1,0 +1,42 @@
+{
+  "id": "q-004823",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 50% de 170?",
+  "answers": [
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "85",
+      "correct": true
+    },
+    {
+      "text": "95",
+      "correct": false
+    },
+    {
+      "text": "90",
+      "correct": false
+    }
+  ],
+  "explanation": "El 50% de 170 es 170 × 50/100 = 85.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004328",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "último, ultimo, ultímo. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "últimó",
+      "correct": false
+    },
+    {
+      "text": "ultímo",
+      "correct": false
+    },
+    {
+      "text": "último",
+      "correct": true
+    },
+    {
+      "text": "ultimo",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “último”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "ultimo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

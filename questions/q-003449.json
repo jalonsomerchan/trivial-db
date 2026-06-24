@@ -1,0 +1,43 @@
+{
+  "id": "q-003449",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto usa MongoDB por defecto?",
+  "answers": [
+    {
+      "text": "21",
+      "correct": false
+    },
+    {
+      "text": "27017",
+      "correct": true
+    },
+    {
+      "text": "5432",
+      "correct": false
+    },
+    {
+      "text": "23",
+      "correct": false
+    }
+  ],
+  "explanation": "MongoDB suele usar el puerto 27017 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "mongodb"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

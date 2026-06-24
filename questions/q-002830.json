@@ -1,0 +1,44 @@
+{
+  "id": "q-002830",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál sería la opción correcta si la pista fuera “En qué año se estrenó “Uno de los nuestros”””?",
+  "answers": [
+    {
+      "text": "1994",
+      "correct": false
+    },
+    {
+      "text": "1985",
+      "correct": false
+    },
+    {
+      "text": "1990",
+      "correct": true
+    },
+    {
+      "text": "1993",
+      "correct": false
+    }
+  ],
+  "explanation": "“Uno de los nuestros” se estrenó en 1990.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "uno-de-los-nuestros",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

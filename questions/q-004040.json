@@ -1,0 +1,43 @@
+{
+  "id": "q-004040",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “alemán, aleman, á leman. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "á leman",
+      "correct": false
+    },
+    {
+      "text": "alemàn",
+      "correct": false
+    },
+    {
+      "text": "alemán",
+      "correct": true
+    },
+    {
+      "text": "aleman",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “alemán”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "aleman",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

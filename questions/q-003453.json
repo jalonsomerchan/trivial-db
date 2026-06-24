@@ -1,0 +1,43 @@
+{
+  "id": "q-003453",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año apareció por primera vez Rust?",
+  "answers": [
+    {
+      "text": "2010",
+      "correct": true
+    },
+    {
+      "text": "2012",
+      "correct": false
+    },
+    {
+      "text": "2004",
+      "correct": false
+    },
+    {
+      "text": "1985",
+      "correct": false
+    }
+  ],
+  "explanation": "Rust apareció por primera vez en 2010.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "rust",
+    "historia-tecnologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003728",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato guacamole?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": true
+    },
+    {
+      "text": "Australia y Nueva Zelanda",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Georgia",
+      "correct": false
+    }
+  ],
+  "explanation": "guacamole se asocia tradicionalmente con México.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "guacamole",
+    "mexico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

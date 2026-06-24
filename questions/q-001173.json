@@ -1,0 +1,43 @@
+{
+  "id": "q-001173",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1066, relacionado con la Batalla de Hastings?",
+  "answers": [
+    {
+      "text": "siglo VIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XI",
+      "correct": true
+    },
+    {
+      "text": "siglo IV",
+      "correct": false
+    },
+    {
+      "text": "siglo XXI",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1066 pertenece al siglo XI.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "batalla-de-hastings"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001334",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál de estos acontecimientos fue posterior a la Edicto de Milán. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Concilio de Nicea",
+      "correct": true
+    },
+    {
+      "text": "Concilio de Nicea (3)",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Nicea (2)",
+      "correct": false
+    },
+    {
+      "text": "destrucción de Pompeya por la erupción del Vesubio",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 313, año de la Edicto de Milán.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000138",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Cuál es el número atómico del fermio?",
+  "answers": [
+    {
+      "text": "93",
+      "correct": false
+    },
+    {
+      "text": "100",
+      "correct": true
+    },
+    {
+      "text": "102",
+      "correct": false
+    },
+    {
+      "text": "97",
+      "correct": false
+    }
+  ],
+  "explanation": "El fermio tiene número atómico 100.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "fermio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

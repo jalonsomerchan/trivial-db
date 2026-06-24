@@ -1,0 +1,42 @@
+{
+  "id": "q-004592",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "numeros-primos"
+  ],
+  "difficulty": "hard",
+  "question": "¿El número 167 es primo?",
+  "answers": [
+    {
+      "text": "no",
+      "correct": false
+    },
+    {
+      "text": "sí (3)",
+      "correct": false
+    },
+    {
+      "text": "solo si es par",
+      "correct": false
+    },
+    {
+      "text": "sí",
+      "correct": true
+    }
+  ],
+  "explanation": "Un número primo solo tiene dos divisores positivos: 1 y él mismo; para 167, la respuesta correcta es sí.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "numeros-primos",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

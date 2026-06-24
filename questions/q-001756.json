@@ -1,0 +1,44 @@
+{
+  "id": "q-001756",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió “En busca del tiempo perdido”?",
+  "answers": [
+    {
+      "text": "Mark Twain",
+      "correct": false
+    },
+    {
+      "text": "Marcel Proust",
+      "correct": true
+    },
+    {
+      "text": "Antonio Machado",
+      "correct": false
+    },
+    {
+      "text": "Juan Rulfo",
+      "correct": false
+    }
+  ],
+  "explanation": "“En busca del tiempo perdido” es una obra de Marcel Proust.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "en-busca-del-tiempo-perdido",
+    "marcel-proust",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

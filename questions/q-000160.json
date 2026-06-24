@@ -1,0 +1,44 @@
+{
+  "id": "q-000160",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del cobre?",
+  "answers": [
+    {
+      "text": "V",
+      "correct": false
+    },
+    {
+      "text": "Cu",
+      "correct": true
+    },
+    {
+      "text": "Ge",
+      "correct": false
+    },
+    {
+      "text": "Ga",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del cobre es Cu.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "cobre",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

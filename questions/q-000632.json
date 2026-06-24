@@ -1,0 +1,43 @@
+{
+  "id": "q-000632",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Países Bajos?",
+  "answers": [
+    {
+      "text": ".lb",
+      "correct": false
+    },
+    {
+      "text": ".nl",
+      "correct": true
+    },
+    {
+      "text": ".tm",
+      "correct": false
+    },
+    {
+      "text": ".sb",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Países Bajos es .nl.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

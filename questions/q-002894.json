@@ -1,0 +1,44 @@
+{
+  "id": "q-002894",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál sería la opción correcta si la pista fuera “Quién dirigió la película “Frozen”””?",
+  "answers": [
+    {
+      "text": "Chris Buck y Jennifer Lee",
+      "correct": true
+    },
+    {
+      "text": "Lee Unkrich",
+      "correct": false
+    },
+    {
+      "text": "Roger Allers y Rob Minkoff",
+      "correct": false
+    },
+    {
+      "text": "Martin Scorsese",
+      "correct": false
+    }
+  ],
+  "explanation": "“Frozen” fue dirigida por Chris Buck y Jennifer Lee.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "frozen",
+    "chris-buck-y-jennifer-lee",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001159",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "Qué acontecimiento histórico ocurrió en 1545. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Concilio de Trento",
+      "correct": true
+    },
+    {
+      "text": "primera Exposición Universal de París con la Torre Eiffel",
+      "correct": false
+    },
+    {
+      "text": "asesinato de John F. Kennedy",
+      "correct": false
+    },
+    {
+      "text": "atentados del 11 de septiembre en Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1545 ocurrió la Concilio de Trento.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "concilio-de-trento",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-003076",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: En qué año apareció por primera vez Elixir?",
+  "answers": [
+    {
+      "text": "2001",
+      "correct": false
+    },
+    {
+      "text": "1964",
+      "correct": false
+    },
+    {
+      "text": "2011",
+      "correct": true
+    },
+    {
+      "text": "2007",
+      "correct": false
+    }
+  ],
+  "explanation": "Elixir apareció por primera vez en 2011.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "elixir",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

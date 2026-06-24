@@ -1,0 +1,42 @@
+{
+  "id": "q-001199",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la Declaración de Independencia de Estados Unidos?",
+  "answers": [
+    {
+      "text": "comienzo de la Revolución francesa",
+      "correct": true
+    },
+    {
+      "text": "Edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Nicea",
+      "correct": false
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1776, año de la Declaración de Independencia de Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

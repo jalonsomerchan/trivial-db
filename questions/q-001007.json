@@ -1,0 +1,43 @@
+{
+  "id": "q-001007",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál de estos acontecimientos fue posterior a la comienzo de la Reforma protestante. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Batalla de Hastings",
+      "correct": false
+    },
+    {
+      "text": "conquista de Tenochtitlan por Hernán Cortés",
+      "correct": true
+    },
+    {
+      "text": "destrucción de Pompeya por la erupción del Vesubio",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Reforma protestante",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1517, año de la comienzo de la Reforma protestante.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

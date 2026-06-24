@@ -1,0 +1,43 @@
+{
+  "id": "q-002614",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué álbum pertenece a The Beatles?",
+  "answers": [
+    {
+      "text": "Dónde jugarán los niños",
+      "correct": false
+    },
+    {
+      "text": "Abbey Road",
+      "correct": true
+    },
+    {
+      "text": "The Dark Side of the Moon",
+      "correct": false
+    },
+    {
+      "text": "Re",
+      "correct": false
+    }
+  ],
+  "explanation": "“Abbey Road” pertenece a The Beatles.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica",
+    "the-beatles",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

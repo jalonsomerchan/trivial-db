@@ -1,0 +1,43 @@
+{
+  "id": "q-000769",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Bermudas?",
+  "answers": [
+    {
+      "text": ".bm",
+      "correct": true
+    },
+    {
+      "text": ".pt",
+      "correct": false
+    },
+    {
+      "text": ".fj",
+      "correct": false
+    },
+    {
+      "text": ".us",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Bermudas es .bm.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "bermudas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

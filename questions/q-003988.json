@@ -1,0 +1,44 @@
+{
+  "id": "q-003988",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato se asocia con Brasil y suele llevar carne a la parrilla”?",
+  "answers": [
+    {
+      "text": "boeuf bourguignon",
+      "correct": false
+    },
+    {
+      "text": "laksa",
+      "correct": false
+    },
+    {
+      "text": "churrasco",
+      "correct": true
+    },
+    {
+      "text": "feijoada",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es churrasco.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "brasil",
+    "carne-a-la-parrilla",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

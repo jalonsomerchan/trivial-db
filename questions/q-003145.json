@@ -1,0 +1,42 @@
+{
+  "id": "q-003145",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato WASM?",
+  "answers": [
+    {
+      "text": "imagen raster sin pérdida",
+      "correct": false
+    },
+    {
+      "text": "binario para web",
+      "correct": true
+    },
+    {
+      "text": "archivo comprimido",
+      "correct": false
+    },
+    {
+      "text": "intercambio de datos",
+      "correct": false
+    }
+  ],
+  "explanation": "WASM se utiliza habitualmente para binario para web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "wasm"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

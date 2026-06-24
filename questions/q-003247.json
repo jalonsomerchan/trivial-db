@@ -1,0 +1,44 @@
+{
+  "id": "q-003247",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué código HTTP corresponde a “Forbidden””?",
+  "answers": [
+    {
+      "text": "403",
+      "correct": true
+    },
+    {
+      "text": "201",
+      "correct": false
+    },
+    {
+      "text": "500",
+      "correct": false
+    },
+    {
+      "text": "409",
+      "correct": false
+    }
+  ],
+  "explanation": "“Forbidden” corresponde al código HTTP 403.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "403",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

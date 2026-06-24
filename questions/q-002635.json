@@ -1,0 +1,44 @@
+{
+  "id": "q-002635",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué compañía o creador desarrolló “Dark Souls”?",
+  "answers": [
+    {
+      "text": "Blizzard Entertainment",
+      "correct": false
+    },
+    {
+      "text": "Namco",
+      "correct": false
+    },
+    {
+      "text": "FromSoftware",
+      "correct": true
+    },
+    {
+      "text": "Game Freak",
+      "correct": false
+    }
+  ],
+  "explanation": "“Dark Souls” se asocia con FromSoftware.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "dark-souls",
+    "fromsoftware",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

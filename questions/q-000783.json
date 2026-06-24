@@ -1,0 +1,43 @@
+{
+  "id": "q-000783",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Tallinn?",
+  "answers": [
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "Estonia",
+      "correct": true
+    },
+    {
+      "text": "Bosnia y Herzegovina",
+      "correct": false
+    },
+    {
+      "text": "Letonia",
+      "correct": false
+    }
+  ],
+  "explanation": "Tallinn es la capital de Estonia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "estonia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

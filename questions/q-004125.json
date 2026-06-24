@@ -1,0 +1,43 @@
+{
+  "id": "q-004125",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “Qué término gramatical corresponde a esta definición: “palabra cuya sílaba tónica es la última””?",
+  "answers": [
+    {
+      "text": "aguda",
+      "correct": true
+    },
+    {
+      "text": "polisémica",
+      "correct": false
+    },
+    {
+      "text": "sinónimo",
+      "correct": false
+    },
+    {
+      "text": "antónimo",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a “aguda”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "aguda",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

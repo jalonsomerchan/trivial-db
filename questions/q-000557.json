@@ -1,0 +1,43 @@
+{
+  "id": "q-000557",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Congo (Rep. Dem.)?",
+  "answers": [
+    {
+      "text": ".sj",
+      "correct": false
+    },
+    {
+      "text": ".cz",
+      "correct": false
+    },
+    {
+      "text": ".cd",
+      "correct": true
+    },
+    {
+      "text": ".ck",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Congo (Rep. Dem.) es .cd.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "congo-rep-dem"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

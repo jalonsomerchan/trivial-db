@@ -1,0 +1,42 @@
+{
+  "id": "q-002587",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué álbum pertenece a Alejandro Sanz?",
+  "answers": [
+    {
+      "text": "Mediterráneo",
+      "correct": false
+    },
+    {
+      "text": "Bocanada",
+      "correct": false
+    },
+    {
+      "text": "Omega",
+      "correct": false
+    },
+    {
+      "text": "Corazón partío",
+      "correct": true
+    }
+  ],
+  "explanation": "“Corazón partío” pertenece a Alejandro Sanz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica",
+    "alejandro-sanz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

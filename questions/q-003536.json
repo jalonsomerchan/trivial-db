@@ -1,0 +1,42 @@
+{
+  "id": "q-003536",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado café y mascarpone?",
+  "answers": [
+    {
+      "text": "shepherd’s pie",
+      "correct": false
+    },
+    {
+      "text": "kebab",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": false
+    },
+    {
+      "text": "tiramisú",
+      "correct": true
+    }
+  ],
+  "explanation": "tiramisú destaca por el uso de café y mascarpone.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "cafe-y-mascarpone"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

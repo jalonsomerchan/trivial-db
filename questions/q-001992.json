@@ -1,0 +1,43 @@
+{
+  "id": "q-001992",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué composición se asocia con Claude Debussy?",
+  "answers": [
+    {
+      "text": "El lago de los cisnes",
+      "correct": false
+    },
+    {
+      "text": "Aida",
+      "correct": false
+    },
+    {
+      "text": "Claro de luna",
+      "correct": true
+    },
+    {
+      "text": "El anillo del nibelungo",
+      "correct": false
+    }
+  ],
+  "explanation": "Claude Debussy compuso “Claro de luna”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "claro-de-luna",
+    "claude-debussy"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

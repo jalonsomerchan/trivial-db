@@ -1,0 +1,44 @@
+{
+  "id": "q-004178",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "Qué palabra tiene un significado parecido a “tiniebla”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "oscuridad",
+      "correct": true
+    },
+    {
+      "text": "fácil",
+      "correct": false
+    },
+    {
+      "text": "bonito",
+      "correct": false
+    },
+    {
+      "text": "brillo",
+      "correct": false
+    }
+  ],
+  "explanation": "“oscuridad” y “tiniebla” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "oscuridad",
+    "tiniebla",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

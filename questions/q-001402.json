@@ -1,0 +1,42 @@
+{
+  "id": "q-001402",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la bombardeo de Guernica?",
+  "answers": [
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Segunda Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "final de la primera vuelta al mundo de Magallanes-Elcano",
+      "correct": false
+    },
+    {
+      "text": "Revolución rusa",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1937, año de la bombardeo de Guernica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

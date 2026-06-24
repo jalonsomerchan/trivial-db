@@ -1,0 +1,43 @@
+{
+  "id": "q-001153",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál de estos acontecimientos fue anterior a la fundación de la Universidad de Salamanca”?",
+  "answers": [
+    {
+      "text": "Batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "Batalla de las Navas de Tolosa",
+      "correct": true
+    },
+    {
+      "text": "salida efectiva del Reino Unido de la Unión Europea",
+      "correct": false
+    },
+    {
+      "text": "atentados del 11 de septiembre en Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió antes de 1218, año de la fundación de la Universidad de Salamanca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-004461",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Según la posición de la sílaba tónica, ¿qué tipo de palabra es “lápiz”?",
+  "answers": [
+    {
+      "text": "llana",
+      "correct": true
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    },
+    {
+      "text": "esdrújula",
+      "correct": false
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    }
+  ],
+  "explanation": "“lápiz” es una palabra llana.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "lapiz",
+    "llana",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

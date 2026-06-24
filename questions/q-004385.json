@@ -1,0 +1,42 @@
+{
+  "id": "q-004385",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el plural correcto de “actriz”?",
+  "answers": [
+    {
+      "text": "actrices",
+      "correct": true
+    },
+    {
+      "text": "cafés",
+      "correct": false
+    },
+    {
+      "text": "cruces",
+      "correct": false
+    },
+    {
+      "text": "doctores",
+      "correct": false
+    }
+  ],
+  "explanation": "El plural correcto de “actriz” es “actrices”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "actriz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

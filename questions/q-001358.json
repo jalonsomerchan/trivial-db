@@ -1,0 +1,43 @@
+{
+  "id": "q-001358",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "Qué acontecimiento histórico ocurrió en 1521. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Tratado de Maastricht",
+      "correct": false
+    },
+    {
+      "text": "conquista de Tenochtitlan por Hernán Cortés",
+      "correct": true
+    },
+    {
+      "text": "crack bursátil de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "caída de Constantinopla",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1521 ocurrió la conquista de Tenochtitlan por Hernán Cortés.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conquista-de-tenochtitlan-por-hernan-cortes",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

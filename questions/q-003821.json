@@ -1,0 +1,43 @@
+{
+  "id": "q-003821",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato tempura?",
+  "answers": [
+    {
+      "text": "Japón",
+      "correct": true
+    },
+    {
+      "text": "Indonesia",
+      "correct": false
+    },
+    {
+      "text": "Venezuela y Colombia",
+      "correct": false
+    },
+    {
+      "text": "Europa oriental",
+      "correct": false
+    }
+  ],
+  "explanation": "tempura se asocia tradicionalmente con Japón.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "tempura",
+    "japon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004163",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "Cuál es un sinónimo de “lento”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "docente",
+      "correct": false
+    },
+    {
+      "text": "resplandor",
+      "correct": false
+    },
+    {
+      "text": "sendero",
+      "correct": false
+    },
+    {
+      "text": "pausado",
+      "correct": true
+    }
+  ],
+  "explanation": "“pausado” es un sinónimo de “lento”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "lento",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000326",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Cuál es el número atómico del arsénico?",
+  "answers": [
+    {
+      "text": "30",
+      "correct": false
+    },
+    {
+      "text": "33",
+      "correct": true
+    },
+    {
+      "text": "35",
+      "correct": false
+    },
+    {
+      "text": "27",
+      "correct": false
+    }
+  ],
+  "explanation": "El arsénico tiene número atómico 33.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "arsenico",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

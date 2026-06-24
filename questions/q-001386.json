@@ -1,0 +1,44 @@
+{
+  "id": "q-001386",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la revolución iraní?",
+  "answers": [
+    {
+      "text": "1969",
+      "correct": false
+    },
+    {
+      "text": "1989",
+      "correct": false
+    },
+    {
+      "text": "1959",
+      "correct": false
+    },
+    {
+      "text": "1979",
+      "correct": true
+    }
+  ],
+  "explanation": "La revolución iraní ocurrió en 1979.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "revolucion-irani",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

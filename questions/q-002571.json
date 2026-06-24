@@ -1,0 +1,43 @@
+{
+  "id": "q-002571",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se lanzó originalmente “Minecraft”?",
+  "answers": [
+    {
+      "text": "2011",
+      "correct": true
+    },
+    {
+      "text": "2022",
+      "correct": false
+    },
+    {
+      "text": "1998",
+      "correct": false
+    },
+    {
+      "text": "1978",
+      "correct": false
+    }
+  ],
+  "explanation": "“Minecraft” se lanzó originalmente en 2011.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "minecraft",
+    "lanzamientos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

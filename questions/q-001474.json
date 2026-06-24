@@ -1,0 +1,42 @@
+{
+  "id": "q-001474",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la unificación alemana?",
+  "answers": [
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": false
+    },
+    {
+      "text": "coronación de Napoleón Bonaparte como emperador",
+      "correct": false
+    },
+    {
+      "text": "Edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "primera Exposición Universal de París con la Torre Eiffel",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1871, año de la unificación alemana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

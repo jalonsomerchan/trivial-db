@@ -1,0 +1,44 @@
+{
+  "id": "q-001551",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Quién escribió “Sobre héroes y tumbas”?",
+  "answers": [
+    {
+      "text": "Mary Shelley",
+      "correct": false
+    },
+    {
+      "text": "Ernesto Sabato",
+      "correct": true
+    },
+    {
+      "text": "Gustavo Adolfo Bécquer",
+      "correct": false
+    },
+    {
+      "text": "Juan Ramón Jiménez",
+      "correct": false
+    }
+  ],
+  "explanation": "“Sobre héroes y tumbas” es una obra de Ernesto Sabato.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "sobre-heroes-y-tumbas",
+    "ernesto-sabato",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

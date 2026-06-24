@@ -1,0 +1,43 @@
+{
+  "id": "q-000536",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Guayana Francesa?",
+  "answers": [
+    {
+      "text": "+594",
+      "correct": true
+    },
+    {
+      "text": "+44",
+      "correct": false
+    },
+    {
+      "text": "+676",
+      "correct": false
+    },
+    {
+      "text": "+590",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Guayana Francesa es +594.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "guayana-francesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

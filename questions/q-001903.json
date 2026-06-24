@@ -1,0 +1,43 @@
+{
+  "id": "q-001903",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién compuso “Carmen”?",
+  "answers": [
+    {
+      "text": "Georg Friedrich Händel",
+      "correct": false
+    },
+    {
+      "text": "Gioachino Rossini",
+      "correct": false
+    },
+    {
+      "text": "Georges Bizet",
+      "correct": true
+    },
+    {
+      "text": "Giacomo Puccini",
+      "correct": false
+    }
+  ],
+  "explanation": "“Carmen” fue compuesta por Georges Bizet.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "carmen",
+    "georges-bizet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

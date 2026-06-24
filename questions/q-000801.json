@@ -1,0 +1,43 @@
+{
+  "id": "q-000801",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Islas Caimán?",
+  "answers": [
+    {
+      "text": "+856",
+      "correct": false
+    },
+    {
+      "text": "+52",
+      "correct": false
+    },
+    {
+      "text": "+1268",
+      "correct": false
+    },
+    {
+      "text": "+1345",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Islas Caimán es +1345.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "islas-caiman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

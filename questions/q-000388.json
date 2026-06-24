@@ -1,0 +1,43 @@
+{
+  "id": "q-000388",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del livermorio?",
+  "answers": [
+    {
+      "text": "112",
+      "correct": false
+    },
+    {
+      "text": "111",
+      "correct": false
+    },
+    {
+      "text": "116",
+      "correct": true
+    },
+    {
+      "text": "110",
+      "correct": false
+    }
+  ],
+  "explanation": "El livermorio tiene número atómico 116.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "livermorio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

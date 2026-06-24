@@ -1,0 +1,43 @@
+{
+  "id": "q-004427",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de lengua: “Qué palabra lleva tilde correctamente: héroe, heroe, héroé””?",
+  "answers": [
+    {
+      "text": "héreo",
+      "correct": false
+    },
+    {
+      "text": "héroe",
+      "correct": true
+    },
+    {
+      "text": "heroe",
+      "correct": false
+    },
+    {
+      "text": "héroé",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “héroe”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "heroe",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-002076",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "easy",
+  "question": "En deporte, ¿qué opción responde correctamente a esta pista: En qué deporte se usa el término “tie-break”?",
+  "answers": [
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "esquí alpino",
+      "correct": false
+    },
+    {
+      "text": "tenis",
+      "correct": true
+    },
+    {
+      "text": "automovilismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “tie-break” se usa en tenis.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "terminologia",
+    "tenis",
+    "tie-break",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

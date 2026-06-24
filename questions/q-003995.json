@@ -1,0 +1,43 @@
+{
+  "id": "q-003995",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato de esta lista tiene como ingrediente destacado patata. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "tortilla de patatas",
+      "correct": true
+    },
+    {
+      "text": "baklava",
+      "correct": false
+    },
+    {
+      "text": "kebab",
+      "correct": false
+    },
+    {
+      "text": "pavlova",
+      "correct": false
+    }
+  ],
+  "explanation": "tortilla de patatas destaca por el uso de patata.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "patata",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

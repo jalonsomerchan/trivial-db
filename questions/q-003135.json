@@ -1,0 +1,44 @@
+{
+  "id": "q-003135",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "Qué puerto usa MySQL por defecto. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "443",
+      "correct": false
+    },
+    {
+      "text": "25",
+      "correct": false
+    },
+    {
+      "text": "3306",
+      "correct": true
+    }
+  ],
+  "explanation": "MySQL suele usar el puerto 3306 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "mysql",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

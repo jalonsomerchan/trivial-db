@@ -1,0 +1,43 @@
+{
+  "id": "q-003038",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "Para qué se usa habitualmente el formato YAML. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "gráficos vectoriales",
+      "correct": false
+    },
+    {
+      "text": "imagen animada sencilla",
+      "correct": false
+    },
+    {
+      "text": "consultas a bases de datos",
+      "correct": false
+    },
+    {
+      "text": "configuración legible",
+      "correct": true
+    }
+  ],
+  "explanation": "YAML se utiliza habitualmente para configuración legible.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "yaml",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

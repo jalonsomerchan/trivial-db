@@ -1,0 +1,43 @@
+{
+  "id": "q-002788",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compañía o creador desarrolló “Grand Theft Auto III”?",
+  "answers": [
+    {
+      "text": "Santa Monica Studio",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    },
+    {
+      "text": "ConcernedApe",
+      "correct": false
+    },
+    {
+      "text": "Rockstar Games",
+      "correct": true
+    }
+  ],
+  "explanation": "“Grand Theft Auto III” se asocia con Rockstar Games.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "grand-theft-auto-iii",
+    "rockstar-games"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

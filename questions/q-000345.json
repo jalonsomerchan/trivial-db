@@ -1,0 +1,44 @@
+{
+  "id": "q-000345",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué elemento químico tiene el símbolo Be”?",
+  "answers": [
+    {
+      "text": "oxígeno",
+      "correct": false
+    },
+    {
+      "text": "litio",
+      "correct": false
+    },
+    {
+      "text": "berilio",
+      "correct": true
+    },
+    {
+      "text": "boro",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Be corresponde al berilio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "berilio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

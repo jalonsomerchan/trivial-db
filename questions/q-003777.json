@@ -1,0 +1,42 @@
+{
+  "id": "q-003777",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado ternera?",
+  "answers": [
+    {
+      "text": "lomo saltado",
+      "correct": true
+    },
+    {
+      "text": "dim sum",
+      "correct": false
+    },
+    {
+      "text": "pelmeni",
+      "correct": false
+    },
+    {
+      "text": "jambalaya",
+      "correct": false
+    }
+  ],
+  "explanation": "lomo saltado destaca por el uso de ternera.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "ternera"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001013",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “A qué siglo pertenece el año 1948, relacionado con la creación del Estado de Israel”?",
+  "answers": [
+    {
+      "text": "siglo VII",
+      "correct": false
+    },
+    {
+      "text": "siglo VIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XIX",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1948 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "creacion-del-estado-de-israel",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001831",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En historia del arte, “La última cena” es una obra de...”?",
+  "answers": [
+    {
+      "text": "Leonardo da Vinci",
+      "correct": true
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    },
+    {
+      "text": "Vasili Kandinski",
+      "correct": false
+    },
+    {
+      "text": "Edward Hopper",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “La última cena” corresponde a Leonardo da Vinci.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "historia-del-arte",
+    "leonardo-da-vinci",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000116",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Sr?",
+  "answers": [
+    {
+      "text": "selenio",
+      "correct": false
+    },
+    {
+      "text": "itrio",
+      "correct": false
+    },
+    {
+      "text": "estroncio",
+      "correct": true
+    },
+    {
+      "text": "kriptón",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Sr corresponde al estroncio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "estroncio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

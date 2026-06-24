@@ -1,0 +1,44 @@
+{
+  "id": "q-002281",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "futbol"
+  ],
+  "difficulty": "medium",
+  "question": "En deporte, ¿qué opción responde correctamente a esta pista: Dónde se disputó el Mundial de fútbol de 1962?",
+  "answers": [
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Catar",
+      "correct": false
+    },
+    {
+      "text": "Chile",
+      "correct": true
+    },
+    {
+      "text": "Alemania",
+      "correct": false
+    }
+  ],
+  "explanation": "El Mundial de fútbol de 1962 se disputó en Chile.",
+  "sources": [
+    {
+      "title": "FIFA World Cup",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "futbol",
+    "chile",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

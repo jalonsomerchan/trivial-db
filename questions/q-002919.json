@@ -1,0 +1,44 @@
+{
+  "id": "q-002919",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "En qué año se lanzó originalmente “God of War”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "2007",
+      "correct": false
+    },
+    {
+      "text": "2005",
+      "correct": true
+    },
+    {
+      "text": "1991",
+      "correct": false
+    },
+    {
+      "text": "2011",
+      "correct": false
+    }
+  ],
+  "explanation": "“God of War” se lanzó originalmente en 2005.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "god-of-war",
+    "lanzamientos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

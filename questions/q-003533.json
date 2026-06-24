@@ -1,0 +1,43 @@
+{
+  "id": "q-003533",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Cuál es un ingrediente principal de lomo saltado”?",
+  "answers": [
+    {
+      "text": "ternera",
+      "correct": true
+    },
+    {
+      "text": "pescado",
+      "correct": false
+    },
+    {
+      "text": "pulpo",
+      "correct": false
+    },
+    {
+      "text": "albahaca",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de lomo saltado es ternera.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "lomo-saltado",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

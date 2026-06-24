@@ -1,0 +1,43 @@
+{
+  "id": "q-000624",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Accra?",
+  "answers": [
+    {
+      "text": "Ghana",
+      "correct": true
+    },
+    {
+      "text": "Santa Helena",
+      "correct": false
+    },
+    {
+      "text": "Somalia",
+      "correct": false
+    },
+    {
+      "text": "Malawi",
+      "correct": false
+    }
+  ],
+  "explanation": "Accra es la capital de Ghana.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "ghana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-003039",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "Qué significa la sigla DOM en tecnología. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "protocolo de control de transmisión",
+      "correct": false
+    },
+    {
+      "text": "modelo de objetos del documento",
+      "correct": true
+    },
+    {
+      "text": "red de área amplia",
+      "correct": false
+    },
+    {
+      "text": "interfaz de línea de comandos",
+      "correct": false
+    }
+  ],
+  "explanation": "En tecnología, DOM significa modelo de objetos del documento.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "dom",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001384",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1588?",
+  "answers": [
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": true
+    },
+    {
+      "text": "aprobación de la Constitución española",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1588 ocurrió la derrota de la Armada Invencible.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "derrota-de-la-armada-invencible"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

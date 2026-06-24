@@ -1,0 +1,42 @@
+{
+  "id": "q-004308",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término gramatical corresponde a esta definición: “palabra que sustituye o representa a un nombre”?",
+  "answers": [
+    {
+      "text": "aguda",
+      "correct": false
+    },
+    {
+      "text": "hiato",
+      "correct": false
+    },
+    {
+      "text": "homónima",
+      "correct": false
+    },
+    {
+      "text": "pronombre",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a “pronombre”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "pronombre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

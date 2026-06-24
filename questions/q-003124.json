@@ -1,0 +1,43 @@
+{
+  "id": "q-003124",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Quién creó o impulsó originalmente el lenguaje Assembly?",
+  "answers": [
+    {
+      "text": "Google",
+      "correct": false
+    },
+    {
+      "text": "JetBrains",
+      "correct": false
+    },
+    {
+      "text": "Martin Odersky",
+      "correct": false
+    },
+    {
+      "text": "depende de la arquitectura",
+      "correct": true
+    }
+  ],
+  "explanation": "Assembly se asocia históricamente con depende de la arquitectura.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "assembly",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

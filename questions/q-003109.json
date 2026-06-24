@@ -1,0 +1,44 @@
+{
+  "id": "q-003109",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Para qué se usa principalmente LDAP?",
+  "answers": [
+    {
+      "text": "directorios",
+      "correct": true
+    },
+    {
+      "text": "base de datos en memoria",
+      "correct": false
+    },
+    {
+      "text": "envío de correo",
+      "correct": false
+    },
+    {
+      "text": "mensajería ligera",
+      "correct": false
+    }
+  ],
+  "explanation": "LDAP se usa principalmente para directorios.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "ldap",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

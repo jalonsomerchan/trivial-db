@@ -1,0 +1,43 @@
+{
+  "id": "q-004293",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene un significado parecido a “sencillo”?",
+  "answers": [
+    {
+      "text": "cierto",
+      "correct": false
+    },
+    {
+      "text": "norma",
+      "correct": false
+    },
+    {
+      "text": "fácil",
+      "correct": true
+    },
+    {
+      "text": "oscuridad",
+      "correct": false
+    }
+  ],
+  "explanation": "“fácil” y “sencillo” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "facil",
+    "sencillo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

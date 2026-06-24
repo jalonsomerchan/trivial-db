@@ -1,0 +1,44 @@
+{
+  "id": "q-000341",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento tiene el número atómico 98”?",
+  "answers": [
+    {
+      "text": "plutonio",
+      "correct": false
+    },
+    {
+      "text": "lawrencio",
+      "correct": false
+    },
+    {
+      "text": "californio",
+      "correct": true
+    },
+    {
+      "text": "mendelevio",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 98 corresponde al californio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "californio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

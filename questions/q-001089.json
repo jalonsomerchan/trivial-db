@@ -1,0 +1,43 @@
+{
+  "id": "q-001089",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Cuál de estos acontecimientos fue posterior a la Hégira de Mahoma a Medina”?",
+  "answers": [
+    {
+      "text": "coronación imperial de Carlomagno",
+      "correct": true
+    },
+    {
+      "text": "Hégira de Mahoma a Medina",
+      "correct": false
+    },
+    {
+      "text": "destrucción de Pompeya por la erupción del Vesubio",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Nicea",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 622, año de la Hégira de Mahoma a Medina.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

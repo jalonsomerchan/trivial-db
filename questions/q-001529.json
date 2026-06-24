@@ -1,0 +1,44 @@
+{
+  "id": "q-001529",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Quién escribió “Soledades””?",
+  "answers": [
+    {
+      "text": "Jorge Luis Borges",
+      "correct": false
+    },
+    {
+      "text": "Antonio Machado",
+      "correct": true
+    },
+    {
+      "text": "F. Scott Fitzgerald",
+      "correct": false
+    },
+    {
+      "text": "Octavio Paz",
+      "correct": false
+    }
+  ],
+  "explanation": "“Soledades” es una obra de Antonio Machado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "soledades",
+    "antonio-machado",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000025",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Cuál es el número atómico del níquel?",
+  "answers": [
+    {
+      "text": "27",
+      "correct": false
+    },
+    {
+      "text": "28",
+      "correct": true
+    },
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "30",
+      "correct": false
+    }
+  ],
+  "explanation": "El níquel tiene número atómico 28.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "niquel",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

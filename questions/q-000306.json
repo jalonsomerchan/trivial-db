@@ -1,0 +1,43 @@
+{
+  "id": "q-000306",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Tc?",
+  "answers": [
+    {
+      "text": "indio",
+      "correct": false
+    },
+    {
+      "text": "tecnecio",
+      "correct": true
+    },
+    {
+      "text": "paladio",
+      "correct": false
+    },
+    {
+      "text": "molibdeno",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Tc corresponde al tecnecio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "tecnecio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

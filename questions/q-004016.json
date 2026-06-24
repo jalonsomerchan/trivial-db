@@ -1,0 +1,42 @@
+{
+  "id": "q-004016",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un sinónimo de “oír”?",
+  "answers": [
+    {
+      "text": "veloz",
+      "correct": false
+    },
+    {
+      "text": "contento",
+      "correct": false
+    },
+    {
+      "text": "adquirir",
+      "correct": false
+    },
+    {
+      "text": "escuchar",
+      "correct": true
+    }
+  ],
+  "explanation": "“escuchar” es un sinónimo de “oír”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "oir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

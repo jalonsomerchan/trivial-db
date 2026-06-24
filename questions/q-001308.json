@@ -1,0 +1,42 @@
+{
+  "id": "q-001308",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la final de la primera vuelta al mundo de Magallanes-Elcano?",
+  "answers": [
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "Hégira de Mahoma a Medina",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Trento",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1522, año de la final de la primera vuelta al mundo de Magallanes-Elcano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

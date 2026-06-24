@@ -1,0 +1,43 @@
+{
+  "id": "q-001564",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra fue escrita por Antonio Machado?",
+  "answers": [
+    {
+      "text": "La Odisea",
+      "correct": false
+    },
+    {
+      "text": "Tirano Banderas",
+      "correct": false
+    },
+    {
+      "text": "El amor en los tiempos del cólera",
+      "correct": false
+    },
+    {
+      "text": "Campos de Castilla",
+      "correct": true
+    }
+  ],
+  "explanation": "Antonio Machado escribió “Campos de Castilla”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "campos-de-castilla",
+    "antonio-machado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

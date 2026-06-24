@@ -1,0 +1,43 @@
+{
+  "id": "q-003638",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato de esta lista tiene como ingrediente destacado col fermentada”?",
+  "answers": [
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "boeuf bourguignon",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": true
+    },
+    {
+      "text": "cuscús",
+      "correct": false
+    }
+  ],
+  "explanation": "kimchi destaca por el uso de col fermentada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "col-fermentada",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

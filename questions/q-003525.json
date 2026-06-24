@@ -1,0 +1,44 @@
+{
+  "id": "q-003525",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Con qué país o región se asocia tradicionalmente el plato pelmeni”?",
+  "answers": [
+    {
+      "text": "Rusia",
+      "correct": true
+    },
+    {
+      "text": "Irlanda",
+      "correct": false
+    },
+    {
+      "text": "China",
+      "correct": false
+    },
+    {
+      "text": "Australia y Nueva Zelanda",
+      "correct": false
+    }
+  ],
+  "explanation": "pelmeni se asocia tradicionalmente con Rusia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "pelmeni",
+    "rusia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

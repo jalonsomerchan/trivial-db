@@ -1,0 +1,44 @@
+{
+  "id": "q-000060",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "Cuál es el símbolo químico del zinc. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Zn",
+      "correct": true
+    },
+    {
+      "text": "Cr",
+      "correct": false
+    },
+    {
+      "text": "Se",
+      "correct": false
+    },
+    {
+      "text": "Mn",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del zinc es Zn.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "zinc",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003922",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Corea y suele llevar col fermentada?",
+  "answers": [
+    {
+      "text": "fish and chips",
+      "correct": false
+    },
+    {
+      "text": "bobó de camarão",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": true
+    },
+    {
+      "text": "bacalao al pilpil",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es kimchi.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "corea",
+    "col-fermentada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

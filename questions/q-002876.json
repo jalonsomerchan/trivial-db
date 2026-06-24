@@ -1,0 +1,44 @@
+{
+  "id": "q-002876",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿En qué año se estrenó “Casablanca”?",
+  "answers": [
+    {
+      "text": "1990",
+      "correct": false
+    },
+    {
+      "text": "1994",
+      "correct": false
+    },
+    {
+      "text": "1995",
+      "correct": false
+    },
+    {
+      "text": "1942",
+      "correct": true
+    }
+  ],
+  "explanation": "“Casablanca” se estrenó en 1942.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "casablanca",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

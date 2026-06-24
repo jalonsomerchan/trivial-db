@@ -1,0 +1,42 @@
+{
+  "id": "q-003905",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado maíz cacahuazintle?",
+  "answers": [
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "pozole",
+      "correct": true
+    },
+    {
+      "text": "lomo saltado",
+      "correct": false
+    },
+    {
+      "text": "jambalaya",
+      "correct": false
+    }
+  ],
+  "explanation": "pozole destaca por el uso de maíz cacahuazintle.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "maiz-cacahuazintle"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000967",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Bahrein?",
+  "answers": [
+    {
+      "text": "+232",
+      "correct": false
+    },
+    {
+      "text": "+973",
+      "correct": true
+    },
+    {
+      "text": "+372",
+      "correct": false
+    },
+    {
+      "text": "+1264",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Bahrein es +973.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "bahrein"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

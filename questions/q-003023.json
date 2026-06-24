@@ -1,0 +1,43 @@
+{
+  "id": "q-003023",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Quién creó o impulsó originalmente el lenguaje F#?",
+  "answers": [
+    {
+      "text": "Martin Odersky",
+      "correct": false
+    },
+    {
+      "text": "Gavin Wood y Christian Reitwiessner",
+      "correct": false
+    },
+    {
+      "text": "Robert Griesemer, Rob Pike y Ken Thompson",
+      "correct": false
+    },
+    {
+      "text": "Microsoft Research",
+      "correct": true
+    }
+  ],
+  "explanation": "F# se asocia históricamente con Microsoft Research.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "f",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

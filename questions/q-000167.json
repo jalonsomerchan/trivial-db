@@ -1,0 +1,44 @@
+{
+  "id": "q-000167",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el símbolo químico del estroncio”?",
+  "answers": [
+    {
+      "text": "Br",
+      "correct": false
+    },
+    {
+      "text": "Zr",
+      "correct": false
+    },
+    {
+      "text": "Sr",
+      "correct": true
+    },
+    {
+      "text": "Y",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del estroncio es Sr.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "estroncio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-003466",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Para qué se usa principalmente SMTP?",
+  "answers": [
+    {
+      "text": "envío de correo",
+      "correct": true
+    },
+    {
+      "text": "gestión de correo",
+      "correct": false
+    },
+    {
+      "text": "autenticación de red",
+      "correct": false
+    },
+    {
+      "text": "señalización VoIP",
+      "correct": false
+    }
+  ],
+  "explanation": "SMTP se usa principalmente para envío de correo.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "smtp",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

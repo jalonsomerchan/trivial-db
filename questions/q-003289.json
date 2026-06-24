@@ -1,0 +1,44 @@
+{
+  "id": "q-003289",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué protocolo se asocia normalmente al puerto 445”?",
+  "answers": [
+    {
+      "text": "IMAP",
+      "correct": false
+    },
+    {
+      "text": "MySQL",
+      "correct": false
+    },
+    {
+      "text": "SMB",
+      "correct": true
+    },
+    {
+      "text": "HTTP",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 445 se asocia habitualmente con SMB.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "smb",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

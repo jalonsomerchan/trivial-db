@@ -1,0 +1,44 @@
+{
+  "id": "q-001766",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Quién escribió “La casa de Bernarda Alba”. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": true
+    },
+    {
+      "text": "Roberto Bolaño",
+      "correct": false
+    }
+  ],
+  "explanation": "“La casa de Bernarda Alba” es una obra de Federico García Lorca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-casa-de-bernarda-alba",
+    "federico-garcia-lorca",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-003280",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato ZIP?",
+  "answers": [
+    {
+      "text": "archivo comprimido",
+      "correct": true
+    },
+    {
+      "text": "consultas a bases de datos",
+      "correct": false
+    },
+    {
+      "text": "contenedor de vídeo",
+      "correct": false
+    },
+    {
+      "text": "estilos de páginas web",
+      "correct": false
+    }
+  ],
+  "explanation": "ZIP se utiliza habitualmente para archivo comprimido.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "zip"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

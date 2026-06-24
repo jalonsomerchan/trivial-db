@@ -1,0 +1,42 @@
+{
+  "id": "q-003778",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado pollo especiado?",
+  "answers": [
+    {
+      "text": "moqueca",
+      "correct": false
+    },
+    {
+      "text": "jerk chicken",
+      "correct": true
+    },
+    {
+      "text": "tajín",
+      "correct": false
+    },
+    {
+      "text": "meat pie",
+      "correct": false
+    }
+  ],
+  "explanation": "jerk chicken destaca por el uso de pollo especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pollo-especiado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

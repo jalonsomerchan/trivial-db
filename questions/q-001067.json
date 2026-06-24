@@ -1,0 +1,42 @@
+{
+  "id": "q-001067",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1994?",
+  "answers": [
+    {
+      "text": "Batalla de Waterloo",
+      "correct": false
+    },
+    {
+      "text": "crack bursátil de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "fin del apartheid legal en Sudáfrica con las primeras elecciones multirraciales",
+      "correct": true
+    },
+    {
+      "text": "referéndum del Brexit",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1994 ocurrió la fin del apartheid legal en Sudáfrica con las primeras elecciones multirraciales.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fin-del-apartheid-legal-en-sudafrica-con-las-primeras-elecciones-multirraciales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

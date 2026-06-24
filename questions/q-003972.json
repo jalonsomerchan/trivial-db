@@ -1,0 +1,43 @@
+{
+  "id": "q-003972",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Cuál es un ingrediente principal de doro wat?",
+  "answers": [
+    {
+      "text": "pulpo",
+      "correct": false
+    },
+    {
+      "text": "pollo",
+      "correct": true
+    },
+    {
+      "text": "queso",
+      "correct": false
+    },
+    {
+      "text": "tortita",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de doro wat es pollo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "doro-wat",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

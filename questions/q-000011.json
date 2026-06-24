@@ -1,0 +1,44 @@
+{
+  "id": "q-000011",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento tiene el número atómico 25”?",
+  "answers": [
+    {
+      "text": "potasio",
+      "correct": false
+    },
+    {
+      "text": "manganeso",
+      "correct": true
+    },
+    {
+      "text": "galio",
+      "correct": false
+    },
+    {
+      "text": "cobre",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 25 corresponde al manganeso.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "manganeso",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

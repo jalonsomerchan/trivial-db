@@ -1,0 +1,43 @@
+{
+  "id": "q-003572",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "Qué técnica culinaria consiste en sumergir brevemente un alimento en agua hirviendo. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "concassé",
+      "correct": false
+    },
+    {
+      "text": "confitar",
+      "correct": false
+    },
+    {
+      "text": "escaldar",
+      "correct": true
+    },
+    {
+      "text": "levar",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es escaldar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "escaldar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

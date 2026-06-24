@@ -1,0 +1,43 @@
+{
+  "id": "q-003374",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla TCP en tecnología?",
+  "answers": [
+    {
+      "text": "integración continua",
+      "correct": false
+    },
+    {
+      "text": "protocolo de control de transmisión",
+      "correct": true
+    },
+    {
+      "text": "protocolo de datagramas de usuario",
+      "correct": false
+    },
+    {
+      "text": "red de área amplia",
+      "correct": false
+    }
+  ],
+  "explanation": "En tecnología, TCP significa protocolo de control de transmisión.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "tcp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

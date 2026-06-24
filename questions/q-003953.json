@@ -1,0 +1,43 @@
+{
+  "id": "q-003953",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Cuál es un ingrediente principal de jambalaya?",
+  "answers": [
+    {
+      "text": "tofu",
+      "correct": false
+    },
+    {
+      "text": "yogur y pepino",
+      "correct": false
+    },
+    {
+      "text": "bacalao",
+      "correct": false
+    },
+    {
+      "text": "arroz",
+      "correct": true
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de jambalaya es arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "jambalaya",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

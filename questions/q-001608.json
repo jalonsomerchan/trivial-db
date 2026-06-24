@@ -1,0 +1,44 @@
+{
+  "id": "q-001608",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de arte y literatura: “Qué obra fue escrita por Ernesto Sabato””?",
+  "answers": [
+    {
+      "text": "San Manuel Bueno, mártir",
+      "correct": false
+    },
+    {
+      "text": "El laberinto de la soledad",
+      "correct": false
+    },
+    {
+      "text": "Anna Karénina",
+      "correct": false
+    },
+    {
+      "text": "El túnel",
+      "correct": true
+    }
+  ],
+  "explanation": "Ernesto Sabato escribió “El túnel”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "el-tunel",
+    "ernesto-sabato",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

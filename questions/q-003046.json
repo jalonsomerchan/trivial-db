@@ -1,0 +1,43 @@
+{
+  "id": "q-003046",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "Quién creó o impulsó originalmente el lenguaje C. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "IBM",
+      "correct": false
+    },
+    {
+      "text": "Alan Kay, Dan Ingalls y Adele Goldberg",
+      "correct": false
+    },
+    {
+      "text": "Larry Wall",
+      "correct": false
+    },
+    {
+      "text": "Dennis Ritchie",
+      "correct": true
+    }
+  ],
+  "explanation": "C se asocia históricamente con Dennis Ritchie.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "c",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004389",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el plural correcto de “menú””?",
+  "answers": [
+    {
+      "text": "reyes",
+      "correct": false
+    },
+    {
+      "text": "currículos",
+      "correct": false
+    },
+    {
+      "text": "jóvenes",
+      "correct": false
+    },
+    {
+      "text": "menús",
+      "correct": true
+    }
+  ],
+  "explanation": "El plural correcto de “menú” es “menús”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "menu",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

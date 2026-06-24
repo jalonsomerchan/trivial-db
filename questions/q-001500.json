@@ -1,0 +1,44 @@
+{
+  "id": "q-001500",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “A qué siglo pertenece el año 2016, relacionado con la referéndum del Brexit”?",
+  "answers": [
+    {
+      "text": "siglo XXI",
+      "correct": true
+    },
+    {
+      "text": "siglo I",
+      "correct": false
+    },
+    {
+      "text": "siglo VIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XIII",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 2016 pertenece al siglo XXI.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "referendum-del-brexit",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

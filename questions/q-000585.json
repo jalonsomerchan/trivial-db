@@ -1,0 +1,43 @@
+{
+  "id": "q-000585",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Gibraltar?",
+  "answers": [
+    {
+      "text": "Kiev",
+      "correct": false
+    },
+    {
+      "text": "Dublin",
+      "correct": false
+    },
+    {
+      "text": "Gibraltar",
+      "correct": true
+    },
+    {
+      "text": "St. Peter Port",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Gibraltar es Gibraltar.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "gibraltar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

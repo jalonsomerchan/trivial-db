@@ -1,0 +1,43 @@
+{
+  "id": "q-000948",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Maseru?",
+  "answers": [
+    {
+      "text": "Lesotho",
+      "correct": true
+    },
+    {
+      "text": "Guinea",
+      "correct": false
+    },
+    {
+      "text": "Sudán",
+      "correct": false
+    },
+    {
+      "text": "Burkina Faso",
+      "correct": false
+    }
+  ],
+  "explanation": "Maseru es la capital de Lesotho.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "lesotho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

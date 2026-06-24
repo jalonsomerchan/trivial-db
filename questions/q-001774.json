@@ -1,0 +1,44 @@
+{
+  "id": "q-001774",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Quién escribió “La tregua””?",
+  "answers": [
+    {
+      "text": "Mario Benedetti",
+      "correct": true
+    },
+    {
+      "text": "Miguel Delibes",
+      "correct": false
+    },
+    {
+      "text": "Ernesto Sabato",
+      "correct": false
+    },
+    {
+      "text": "Virgilio",
+      "correct": false
+    }
+  ],
+  "explanation": "“La tregua” es una obra de Mario Benedetti.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-tregua",
+    "mario-benedetti",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

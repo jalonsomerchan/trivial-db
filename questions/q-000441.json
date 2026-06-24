@@ -1,0 +1,44 @@
+{
+  "id": "q-000441",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el número atómico del seaborgio?",
+  "answers": [
+    {
+      "text": "110",
+      "correct": false
+    },
+    {
+      "text": "100",
+      "correct": false
+    },
+    {
+      "text": "101",
+      "correct": false
+    },
+    {
+      "text": "106",
+      "correct": true
+    }
+  ],
+  "explanation": "El seaborgio tiene número atómico 106.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "seaborgio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

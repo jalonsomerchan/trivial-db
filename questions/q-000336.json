@@ -1,0 +1,44 @@
+{
+  "id": "q-000336",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el símbolo químico del cadmio”?",
+  "answers": [
+    {
+      "text": "Pd",
+      "correct": false
+    },
+    {
+      "text": "Tc",
+      "correct": false
+    },
+    {
+      "text": "Cd",
+      "correct": true
+    },
+    {
+      "text": "I",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del cadmio es Cd.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "cadmio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

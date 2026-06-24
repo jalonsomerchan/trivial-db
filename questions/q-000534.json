@@ -1,0 +1,43 @@
+{
+  "id": "q-000534",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Senegal?",
+  "answers": [
+    {
+      "text": "Dakar",
+      "correct": true
+    },
+    {
+      "text": "Djibouti",
+      "correct": false
+    },
+    {
+      "text": "Mamoudzou",
+      "correct": false
+    },
+    {
+      "text": "São Tomé",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Senegal es Dakar.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "senegal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000155",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Ni?",
+  "answers": [
+    {
+      "text": "zinc",
+      "correct": false
+    },
+    {
+      "text": "níquel",
+      "correct": true
+    },
+    {
+      "text": "arsénico",
+      "correct": false
+    },
+    {
+      "text": "hierro",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Ni corresponde al níquel.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "niquel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

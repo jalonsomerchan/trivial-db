@@ -1,0 +1,43 @@
+{
+  "id": "q-003297",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año apareció por primera vez Raku?",
+  "answers": [
+    {
+      "text": "2015",
+      "correct": true
+    },
+    {
+      "text": "1964",
+      "correct": false
+    },
+    {
+      "text": "2014",
+      "correct": false
+    },
+    {
+      "text": "1991",
+      "correct": false
+    }
+  ],
+  "explanation": "Raku apareció por primera vez en 2015.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "raku",
+    "historia-tecnologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

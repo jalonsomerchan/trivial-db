@@ -1,0 +1,42 @@
+{
+  "id": "q-003517",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es un ingrediente principal de miso shiru?",
+  "answers": [
+    {
+      "text": "queso",
+      "correct": false
+    },
+    {
+      "text": "caldo especiado",
+      "correct": false
+    },
+    {
+      "text": "miso",
+      "correct": true
+    },
+    {
+      "text": "masa filo y frutos secos",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de miso shiru es miso.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "miso-shiru"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

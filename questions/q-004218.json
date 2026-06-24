@@ -1,0 +1,43 @@
+{
+  "id": "q-004218",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "Cuál es un sinónimo de “error”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "verdadero",
+      "correct": false
+    },
+    {
+      "text": "finalizar",
+      "correct": false
+    },
+    {
+      "text": "docente",
+      "correct": false
+    },
+    {
+      "text": "fallo",
+      "correct": true
+    }
+  ],
+  "explanation": "“fallo” es un sinónimo de “error”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "error",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

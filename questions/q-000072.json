@@ -1,0 +1,43 @@
+{
+  "id": "q-000072",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento tiene el número atómico 28?",
+  "answers": [
+    {
+      "text": "selenio",
+      "correct": false
+    },
+    {
+      "text": "cobalto",
+      "correct": false
+    },
+    {
+      "text": "cromo",
+      "correct": false
+    },
+    {
+      "text": "níquel",
+      "correct": true
+    }
+  ],
+  "explanation": "El número atómico 28 corresponde al níquel.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "niquel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

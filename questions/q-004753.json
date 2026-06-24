@@ -1,0 +1,42 @@
+{
+  "id": "q-004753",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 60% de 160?",
+  "answers": [
+    {
+      "text": "96",
+      "correct": true
+    },
+    {
+      "text": "91",
+      "correct": false
+    },
+    {
+      "text": "101",
+      "correct": false
+    },
+    {
+      "text": "106",
+      "correct": false
+    }
+  ],
+  "explanation": "El 60% de 160 es 160 × 60/100 = 96.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

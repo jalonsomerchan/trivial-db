@@ -1,0 +1,42 @@
+{
+  "id": "q-003573",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa confitar?",
+  "answers": [
+    {
+      "text": "sumergir brevemente un alimento en agua hirviendo",
+      "correct": false
+    },
+    {
+      "text": "dejar que una masa fermente y aumente de volumen",
+      "correct": false
+    },
+    {
+      "text": "mezclar líquidos que normalmente no se unen",
+      "correct": false
+    },
+    {
+      "text": "cocinar lentamente en grasa o almíbar a baja temperatura",
+      "correct": true
+    }
+  ],
+  "explanation": "confitar significa cocinar lentamente en grasa o almíbar a baja temperatura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "confitar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

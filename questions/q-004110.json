@@ -1,0 +1,43 @@
+{
+  "id": "q-004110",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "Según la posición de la sílaba tónica, ¿qué tipo de palabra es “teléfono”?",
+  "answers": [
+    {
+      "text": "llana",
+      "correct": false
+    },
+    {
+      "text": "esdrújula",
+      "correct": true
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    }
+  ],
+  "explanation": "“teléfono” es una palabra esdrújula.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "telefono",
+    "esdrujula"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

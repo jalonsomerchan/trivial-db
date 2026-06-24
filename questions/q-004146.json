@@ -1,0 +1,44 @@
+{
+  "id": "q-004146",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “Qué palabra tiene un significado parecido a “adquirir””?",
+  "answers": [
+    {
+      "text": "historia",
+      "correct": false
+    },
+    {
+      "text": "alegre",
+      "correct": false
+    },
+    {
+      "text": "comprar",
+      "correct": true
+    },
+    {
+      "text": "fuerza",
+      "correct": false
+    }
+  ],
+  "explanation": "“comprar” y “adquirir” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "comprar",
+    "adquirir",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

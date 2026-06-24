@@ -1,0 +1,43 @@
+{
+  "id": "q-003322",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Quién creó o impulsó originalmente el lenguaje Prolog”?",
+  "answers": [
+    {
+      "text": "Alain Colmerauer y Robert Kowalski",
+      "correct": true
+    },
+    {
+      "text": "José Valim",
+      "correct": false
+    },
+    {
+      "text": "CODASYL",
+      "correct": false
+    },
+    {
+      "text": "James Strachan",
+      "correct": false
+    }
+  ],
+  "explanation": "Prolog se asocia históricamente con Alain Colmerauer y Robert Kowalski.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "prolog",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

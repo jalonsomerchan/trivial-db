@@ -1,0 +1,43 @@
+{
+  "id": "q-001780",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué composición se asocia con Georges Bizet?",
+  "answers": [
+    {
+      "text": "Carmen",
+      "correct": true
+    },
+    {
+      "text": "La bohème",
+      "correct": false
+    },
+    {
+      "text": "Madama Butterfly",
+      "correct": false
+    },
+    {
+      "text": "Claro de luna",
+      "correct": false
+    }
+  ],
+  "explanation": "Georges Bizet compuso “Carmen”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "carmen",
+    "georges-bizet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

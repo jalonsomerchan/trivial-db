@@ -1,0 +1,43 @@
+{
+  "id": "q-000131",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del germanio?",
+  "answers": [
+    {
+      "text": "As",
+      "correct": false
+    },
+    {
+      "text": "Rb",
+      "correct": false
+    },
+    {
+      "text": "Kr",
+      "correct": false
+    },
+    {
+      "text": "Ge",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico del germanio es Ge.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "germanio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

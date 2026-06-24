@@ -1,0 +1,42 @@
+{
+  "id": "q-003340",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato JPEG?",
+  "answers": [
+    {
+      "text": "configuración legible",
+      "correct": false
+    },
+    {
+      "text": "fotografía comprimida",
+      "correct": true
+    },
+    {
+      "text": "datos tabulares",
+      "correct": false
+    },
+    {
+      "text": "archivo comprimido",
+      "correct": false
+    }
+  ],
+  "explanation": "JPEG se utiliza habitualmente para fotografía comprimida.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "jpeg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

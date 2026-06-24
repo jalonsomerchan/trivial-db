@@ -1,0 +1,42 @@
+{
+  "id": "q-003674",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado patatas fritas?",
+  "answers": [
+    {
+      "text": "pavlova",
+      "correct": false
+    },
+    {
+      "text": "blini",
+      "correct": false
+    },
+    {
+      "text": "poutine",
+      "correct": true
+    },
+    {
+      "text": "pho",
+      "correct": false
+    }
+  ],
+  "explanation": "poutine destaca por el uso de patatas fritas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "patatas-fritas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

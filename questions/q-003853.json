@@ -1,0 +1,43 @@
+{
+  "id": "q-003853",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Balcanes y suele llevar carne picada?",
+  "answers": [
+    {
+      "text": "cevapi",
+      "correct": true
+    },
+    {
+      "text": "banh mi",
+      "correct": false
+    },
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "jambalaya",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es cevapi.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "balcanes",
+    "carne-picada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

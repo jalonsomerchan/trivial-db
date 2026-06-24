@@ -1,0 +1,44 @@
+{
+  "id": "q-001861",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué obra fue escrita por Camilo José Cela”?",
+  "answers": [
+    {
+      "text": "Moby-Dick",
+      "correct": false
+    },
+    {
+      "text": "El amor en los tiempos del cólera",
+      "correct": false
+    },
+    {
+      "text": "Notre-Dame de París",
+      "correct": false
+    },
+    {
+      "text": "La colmena",
+      "correct": true
+    }
+  ],
+  "explanation": "Camilo José Cela escribió “La colmena”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-colmena",
+    "camilo-jose-cela",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

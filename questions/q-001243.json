@@ -1,0 +1,43 @@
+{
+  "id": "q-001243",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál de estos acontecimientos fue posterior a la crisis de los misiles de Cuba. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "destrucción de Pompeya por la erupción del Vesubio",
+      "correct": false
+    },
+    {
+      "text": "Hégira de Mahoma a Medina",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "asesinato de John F. Kennedy",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1962, año de la crisis de los misiles de Cuba.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

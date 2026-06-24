@@ -1,0 +1,43 @@
+{
+  "id": "q-004362",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “sábado, sabado, sábádo. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "sábádo",
+      "correct": false
+    },
+    {
+      "text": "sabado",
+      "correct": false
+    },
+    {
+      "text": "sabadó",
+      "correct": false
+    },
+    {
+      "text": "sábado",
+      "correct": true
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “sábado”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "sabado",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

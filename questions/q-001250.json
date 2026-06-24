@@ -1,0 +1,44 @@
+{
+  "id": "q-001250",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “En qué año ocurrió la unificación de Italia”?",
+  "answers": [
+    {
+      "text": "1871",
+      "correct": false
+    },
+    {
+      "text": "1861",
+      "correct": true
+    },
+    {
+      "text": "1841",
+      "correct": false
+    },
+    {
+      "text": "1851",
+      "correct": false
+    }
+  ],
+  "explanation": "La unificación de Italia ocurrió en 1861.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "unificacion-de-italia",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

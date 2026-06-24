@@ -1,0 +1,43 @@
+{
+  "id": "q-003893",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Qué técnica culinaria consiste en calentar suavemente usando un recipiente con agua?",
+  "answers": [
+    {
+      "text": "baño María",
+      "correct": true
+    },
+    {
+      "text": "amasar",
+      "correct": false
+    },
+    {
+      "text": "curar",
+      "correct": false
+    },
+    {
+      "text": "napar",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es baño María.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "bano-maria",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

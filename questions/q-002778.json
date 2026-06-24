@@ -1,0 +1,44 @@
+{
+  "id": "q-002778",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “En qué año se estrenó “Braveheart””. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "2009",
+      "correct": false
+    },
+    {
+      "text": "1976",
+      "correct": false
+    },
+    {
+      "text": "1995",
+      "correct": true
+    },
+    {
+      "text": "1991",
+      "correct": false
+    }
+  ],
+  "explanation": "“Braveheart” se estrenó en 1995.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "braveheart",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

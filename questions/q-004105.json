@@ -1,0 +1,43 @@
+{
+  "id": "q-004105",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es un sinónimo de “amigo”?",
+  "answers": [
+    {
+      "text": "complicado",
+      "correct": false
+    },
+    {
+      "text": "capital",
+      "correct": false
+    },
+    {
+      "text": "temor",
+      "correct": false
+    },
+    {
+      "text": "compañero",
+      "correct": true
+    }
+  ],
+  "explanation": "“compañero” es un sinónimo de “amigo”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "amigo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004600",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuánto es 40 - 8”?",
+  "answers": [
+    {
+      "text": "31",
+      "correct": false
+    },
+    {
+      "text": "32",
+      "correct": true
+    },
+    {
+      "text": "33",
+      "correct": false
+    },
+    {
+      "text": "37",
+      "correct": false
+    }
+  ],
+  "explanation": "La resta 40 - 8 da 32.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

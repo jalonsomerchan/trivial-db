@@ -1,0 +1,43 @@
+{
+  "id": "q-001104",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 1963”?",
+  "answers": [
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "asesinato de John F. Kennedy",
+      "correct": true
+    },
+    {
+      "text": "salida efectiva del Reino Unido de la Unión Europea",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Primera Cruzada",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1963 ocurrió la asesinato de John F. Kennedy.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "asesinato-de-john-f-kennedy",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

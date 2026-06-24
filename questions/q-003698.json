@@ -1,0 +1,42 @@
+{
+  "id": "q-003698",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en dorar la superficie con calor fuerte?",
+  "answers": [
+    {
+      "text": "sellar",
+      "correct": false
+    },
+    {
+      "text": "emulsionar",
+      "correct": false
+    },
+    {
+      "text": "gratinar",
+      "correct": true
+    },
+    {
+      "text": "desglasar",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es gratinar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "gratinar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

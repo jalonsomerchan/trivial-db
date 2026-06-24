@@ -1,0 +1,44 @@
+{
+  "id": "q-004091",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué palabra tiene un significado parecido a “obsequio””?",
+  "answers": [
+    {
+      "text": "regalo",
+      "correct": true
+    },
+    {
+      "text": "brillo",
+      "correct": false
+    },
+    {
+      "text": "ira",
+      "correct": false
+    },
+    {
+      "text": "vender",
+      "correct": false
+    }
+  ],
+  "explanation": "“regalo” y “obsequio” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "regalo",
+    "obsequio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

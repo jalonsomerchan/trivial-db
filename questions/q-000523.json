@@ -1,0 +1,43 @@
+{
+  "id": "q-000523",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Asmara?",
+  "answers": [
+    {
+      "text": "Cabo Verde",
+      "correct": false
+    },
+    {
+      "text": "Eritrea",
+      "correct": true
+    },
+    {
+      "text": "Malawi",
+      "correct": false
+    },
+    {
+      "text": "Santo Tomé y Príncipe",
+      "correct": false
+    }
+  ],
+  "explanation": "Asmara es la capital de Eritrea.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "eritrea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

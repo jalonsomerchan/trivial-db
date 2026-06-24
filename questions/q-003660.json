@@ -1,0 +1,43 @@
+{
+  "id": "q-003660",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato risotto?",
+  "answers": [
+    {
+      "text": "Italia",
+      "correct": true
+    },
+    {
+      "text": "Tailandia",
+      "correct": false
+    },
+    {
+      "text": "Australia",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": false
+    }
+  ],
+  "explanation": "risotto se asocia tradicionalmente con Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "risotto",
+    "italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

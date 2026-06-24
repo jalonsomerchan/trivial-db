@@ -1,0 +1,42 @@
+{
+  "id": "q-004349",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término gramatical corresponde a esta definición: “unidad mínima con significado gramatical”?",
+  "answers": [
+    {
+      "text": "adjetivo",
+      "correct": false
+    },
+    {
+      "text": "diptongo",
+      "correct": false
+    },
+    {
+      "text": "verbo",
+      "correct": false
+    },
+    {
+      "text": "morfema",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a “morfema”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "morfema"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

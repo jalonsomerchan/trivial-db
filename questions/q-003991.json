@@ -1,0 +1,42 @@
+{
+  "id": "q-003991",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado carne y pimentón?",
+  "answers": [
+    {
+      "text": "goulash",
+      "correct": true
+    },
+    {
+      "text": "laksa",
+      "correct": false
+    },
+    {
+      "text": "pierogi",
+      "correct": false
+    },
+    {
+      "text": "kebab",
+      "correct": false
+    }
+  ],
+  "explanation": "goulash destaca por el uso de carne y pimentón.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "carne-y-pimenton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

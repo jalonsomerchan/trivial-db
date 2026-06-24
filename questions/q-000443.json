@@ -1,0 +1,43 @@
+{
+  "id": "q-000443",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento químico tiene el símbolo U?",
+  "answers": [
+    {
+      "text": "californio",
+      "correct": false
+    },
+    {
+      "text": "protactinio",
+      "correct": false
+    },
+    {
+      "text": "uranio",
+      "correct": true
+    },
+    {
+      "text": "radón",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo U corresponde al uranio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "uranio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

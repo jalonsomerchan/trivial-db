@@ -1,0 +1,43 @@
+{
+  "id": "q-004191",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Cuál es un sinónimo de “antiguo”?",
+  "answers": [
+    {
+      "text": "adquirir",
+      "correct": false
+    },
+    {
+      "text": "tiniebla",
+      "correct": false
+    },
+    {
+      "text": "viejo",
+      "correct": true
+    },
+    {
+      "text": "resplandor",
+      "correct": false
+    }
+  ],
+  "explanation": "“viejo” es un sinónimo de “antiguo”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "antiguo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

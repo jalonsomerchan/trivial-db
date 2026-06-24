@@ -1,0 +1,43 @@
+{
+  "id": "q-004522",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "Cuánto es 20 + 36. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "55",
+      "correct": false
+    },
+    {
+      "text": "57",
+      "correct": false
+    },
+    {
+      "text": "66",
+      "correct": false
+    },
+    {
+      "text": "56",
+      "correct": true
+    }
+  ],
+  "explanation": "Al sumar 20 y 36 se obtiene 56.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

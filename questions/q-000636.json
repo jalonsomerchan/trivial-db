@@ -1,0 +1,43 @@
+{
+  "id": "q-000636",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Palau?",
+  "answers": [
+    {
+      "text": "Ngerulmud",
+      "correct": true
+    },
+    {
+      "text": "Avarua",
+      "correct": false
+    },
+    {
+      "text": "Adamstown",
+      "correct": false
+    },
+    {
+      "text": "Nouméa",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Palau es Ngerulmud.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "palau"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003782",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Qué plato de esta lista tiene como ingrediente destacado pan?",
+  "answers": [
+    {
+      "text": "naan",
+      "correct": false
+    },
+    {
+      "text": "shawarma",
+      "correct": false
+    },
+    {
+      "text": "banh mi",
+      "correct": true
+    },
+    {
+      "text": "fondue",
+      "correct": false
+    }
+  ],
+  "explanation": "banh mi destaca por el uso de pan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pan",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

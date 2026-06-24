@@ -1,0 +1,44 @@
+{
+  "id": "q-001764",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "Quién compuso “Las cuatro estaciones”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Johann Sebastian Bach",
+      "correct": false
+    },
+    {
+      "text": "Carl Orff",
+      "correct": false
+    },
+    {
+      "text": "Antonio Vivaldi",
+      "correct": true
+    },
+    {
+      "text": "Ludwig van Beethoven",
+      "correct": false
+    }
+  ],
+  "explanation": "“Las cuatro estaciones” fue compuesta por Antonio Vivaldi.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "las-cuatro-estaciones",
+    "antonio-vivaldi",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

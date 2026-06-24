@@ -1,0 +1,43 @@
+{
+  "id": "q-004318",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “En gramática, ¿qué es un aguda”?",
+  "answers": [
+    {
+      "text": "palabra que sustituye o representa a un nombre",
+      "correct": false
+    },
+    {
+      "text": "unión de dos vocales en una misma sílaba",
+      "correct": false
+    },
+    {
+      "text": "separación de dos vocales en sílabas distintas",
+      "correct": false
+    },
+    {
+      "text": "palabra cuya sílaba tónica es la última",
+      "correct": true
+    }
+  ],
+  "explanation": "Un aguda es una palabra cuya sílaba tónica es la última.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "aguda",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

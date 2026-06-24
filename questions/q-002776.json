@@ -1,0 +1,42 @@
+{
+  "id": "q-002776",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Game Freak?",
+  "answers": [
+    {
+      "text": "Pokémon Rojo y Azul",
+      "correct": true
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "Space Invaders",
+      "correct": false
+    }
+  ],
+  "explanation": "Game Freak desarrolló o publicó “Pokémon Rojo y Azul”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "game-freak"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

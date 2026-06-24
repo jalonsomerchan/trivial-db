@@ -1,0 +1,43 @@
+{
+  "id": "q-003828",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato jerk chicken?",
+  "answers": [
+    {
+      "text": "Europa oriental",
+      "correct": false
+    },
+    {
+      "text": "Grecia",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": false
+    },
+    {
+      "text": "Jamaica",
+      "correct": true
+    }
+  ],
+  "explanation": "jerk chicken se asocia tradicionalmente con Jamaica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "jerk-chicken",
+    "jamaica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000744",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Guernsey?",
+  "answers": [
+    {
+      "text": ".sb",
+      "correct": false
+    },
+    {
+      "text": ".gg",
+      "correct": true
+    },
+    {
+      "text": ".nl",
+      "correct": false
+    },
+    {
+      "text": ".zw",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Guernsey es .gg.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "guernsey"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-003418",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué protocolo se asocia normalmente al puerto 6379”?",
+  "answers": [
+    {
+      "text": "DNS",
+      "correct": false
+    },
+    {
+      "text": "Redis",
+      "correct": true
+    },
+    {
+      "text": "SSH",
+      "correct": false
+    },
+    {
+      "text": "PostgreSQL",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 6379 se asocia habitualmente con Redis.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "redis",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

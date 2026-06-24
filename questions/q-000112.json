@@ -1,0 +1,44 @@
+{
+  "id": "q-000112",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "Qué elemento químico tiene el símbolo Fe. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "hierro",
+      "correct": true
+    },
+    {
+      "text": "cobre",
+      "correct": false
+    },
+    {
+      "text": "cromo",
+      "correct": false
+    },
+    {
+      "text": "calcio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Fe corresponde al hierro.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "hierro",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

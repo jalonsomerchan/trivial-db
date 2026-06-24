@@ -1,0 +1,43 @@
+{
+  "id": "q-003207",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto usa Kerberos por defecto?",
+  "answers": [
+    {
+      "text": "88",
+      "correct": true
+    },
+    {
+      "text": "5432",
+      "correct": false
+    },
+    {
+      "text": "23",
+      "correct": false
+    },
+    {
+      "text": "123",
+      "correct": false
+    }
+  ],
+  "explanation": "Kerberos suele usar el puerto 88 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "kerberos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

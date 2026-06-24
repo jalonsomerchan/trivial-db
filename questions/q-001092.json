@@ -1,0 +1,42 @@
+{
+  "id": "q-001092",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la primavera árabe?",
+  "answers": [
+    {
+      "text": "Batalla de Waterloo",
+      "correct": false
+    },
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "referéndum del Brexit",
+      "correct": true
+    },
+    {
+      "text": "coronación imperial de Carlomagno",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 2011, año de la primavera árabe.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003817",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Qué plato de esta lista tiene como ingrediente destacado arroz frito?",
+  "answers": [
+    {
+      "text": "nasi goreng",
+      "correct": true
+    },
+    {
+      "text": "fondue",
+      "correct": false
+    },
+    {
+      "text": "sauerbraten",
+      "correct": false
+    },
+    {
+      "text": "cocido madrileño",
+      "correct": false
+    }
+  ],
+  "explanation": "nasi goreng destaca por el uso de arroz frito.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "arroz-frito",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

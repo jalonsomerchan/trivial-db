@@ -1,0 +1,43 @@
+{
+  "id": "q-001014",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 1096”?",
+  "answers": [
+    {
+      "text": "aprobación de la Constitución española",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Primera Cruzada",
+      "correct": true
+    },
+    {
+      "text": "asesinato de John F. Kennedy",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Tordesillas",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1096 ocurrió la comienzo de la Primera Cruzada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "comienzo-de-la-primera-cruzada",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

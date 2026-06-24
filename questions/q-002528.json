@@ -1,0 +1,43 @@
+{
+  "id": "q-002528",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se estrenó “Birdman”?",
+  "answers": [
+    {
+      "text": "2001",
+      "correct": false
+    },
+    {
+      "text": "1942",
+      "correct": false
+    },
+    {
+      "text": "2014",
+      "correct": true
+    },
+    {
+      "text": "2014 (3)",
+      "correct": false
+    }
+  ],
+  "explanation": "“Birdman” se estrenó en 2014.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "birdman",
+    "estrenos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

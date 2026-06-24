@@ -1,0 +1,43 @@
+{
+  "id": "q-000738",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Bissau?",
+  "answers": [
+    {
+      "text": "Lesotho",
+      "correct": false
+    },
+    {
+      "text": "Guinea-Bisáu",
+      "correct": true
+    },
+    {
+      "text": "Malawi",
+      "correct": false
+    },
+    {
+      "text": "Sudán",
+      "correct": false
+    }
+  ],
+  "explanation": "Bissau es la capital de Guinea-Bisáu.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "guinea-bisau"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-003552",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa roux?",
+  "answers": [
+    {
+      "text": "mezcla cocida de harina y grasa",
+      "correct": true
+    },
+    {
+      "text": "cocinar suavemente hasta ablandar",
+      "correct": false
+    },
+    {
+      "text": "retirar espuma de una preparación",
+      "correct": false
+    },
+    {
+      "text": "dar consistencia a una salsa",
+      "correct": false
+    }
+  ],
+  "explanation": "roux significa mezcla cocida de harina y grasa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "roux"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000082",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento tiene el número atómico 60?",
+  "answers": [
+    {
+      "text": "terbio",
+      "correct": false
+    },
+    {
+      "text": "disprosio",
+      "correct": false
+    },
+    {
+      "text": "xenón",
+      "correct": false
+    },
+    {
+      "text": "neodimio",
+      "correct": true
+    }
+  ],
+  "explanation": "El número atómico 60 corresponde al neodimio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "neodimio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

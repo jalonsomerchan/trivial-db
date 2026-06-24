@@ -1,0 +1,43 @@
+{
+  "id": "q-000658",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Niamey?",
+  "answers": [
+    {
+      "text": "Territorio Británico del Océano Índico",
+      "correct": false
+    },
+    {
+      "text": "Suazilandia",
+      "correct": false
+    },
+    {
+      "text": "Guinea",
+      "correct": false
+    },
+    {
+      "text": "Níger",
+      "correct": true
+    }
+  ],
+  "explanation": "Niamey es la capital de Níger.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "niger"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

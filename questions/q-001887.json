@@ -1,0 +1,43 @@
+{
+  "id": "q-001887",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién escribió “Drácula”?",
+  "answers": [
+    {
+      "text": "Roberto Bolaño",
+      "correct": false
+    },
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "Bram Stoker",
+      "correct": true
+    },
+    {
+      "text": "Albert Camus",
+      "correct": false
+    }
+  ],
+  "explanation": "“Drácula” es una obra de Bram Stoker.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "dracula",
+    "bram-stoker"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001246",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "hard",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: En qué año ocurrió la comienzo de la Primera Cruzada?",
+  "answers": [
+    {
+      "text": "1046",
+      "correct": false
+    },
+    {
+      "text": "1121",
+      "correct": false
+    },
+    {
+      "text": "1071",
+      "correct": false
+    },
+    {
+      "text": "1096",
+      "correct": true
+    }
+  ],
+  "explanation": "La comienzo de la Primera Cruzada ocurrió en 1096.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "comienzo-de-la-primera-cruzada",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

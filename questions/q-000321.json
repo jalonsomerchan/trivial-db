@@ -1,0 +1,43 @@
+{
+  "id": "q-000321",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del actinio?",
+  "answers": [
+    {
+      "text": "89",
+      "correct": true
+    },
+    {
+      "text": "87",
+      "correct": false
+    },
+    {
+      "text": "91",
+      "correct": false
+    },
+    {
+      "text": "83",
+      "correct": false
+    }
+  ],
+  "explanation": "El actinio tiene número atómico 89.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "actinio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

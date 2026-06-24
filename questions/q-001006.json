@@ -1,0 +1,43 @@
+{
+  "id": "q-001006",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año ocurrió la final de la primera vuelta al mundo de Magallanes-Elcano?",
+  "answers": [
+    {
+      "text": "1472",
+      "correct": false
+    },
+    {
+      "text": "1547",
+      "correct": false
+    },
+    {
+      "text": "1522",
+      "correct": true
+    },
+    {
+      "text": "1497",
+      "correct": false
+    }
+  ],
+  "explanation": "La final de la primera vuelta al mundo de Magallanes-Elcano ocurrió en 1522.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "final-de-la-primera-vuelta-al-mundo-de-magallanes-elcano",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

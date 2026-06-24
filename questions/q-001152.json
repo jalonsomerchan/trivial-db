@@ -1,0 +1,42 @@
+{
+  "id": "q-001152",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué acontecimiento histórico ocurrió en 622?",
+  "answers": [
+    {
+      "text": "fin de la Segunda Guerra Mundial en Europa",
+      "correct": false
+    },
+    {
+      "text": "referéndum del Brexit",
+      "correct": false
+    },
+    {
+      "text": "Hégira de Mahoma a Medina",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Guerra de la Independencia española",
+      "correct": false
+    }
+  ],
+  "explanation": "En 622 ocurrió la Hégira de Mahoma a Medina.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "hegira-de-mahoma-a-medina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

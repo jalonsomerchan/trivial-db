@@ -1,0 +1,43 @@
+{
+  "id": "q-004390",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "francés, frances, fránces. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "francés",
+      "correct": true
+    },
+    {
+      "text": "fránces",
+      "correct": false
+    },
+    {
+      "text": "frances",
+      "correct": false
+    },
+    {
+      "text": "francès",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “francés”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "frances",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

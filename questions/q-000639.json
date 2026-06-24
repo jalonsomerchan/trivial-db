@@ -1,0 +1,43 @@
+{
+  "id": "q-000639",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Irlanda?",
+  "answers": [
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Belgrade",
+      "correct": false
+    },
+    {
+      "text": "Dublin",
+      "correct": true
+    },
+    {
+      "text": "Valletta",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Irlanda es Dublin.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "irlanda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001274",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la aprobación de la Constitución española?",
+  "answers": [
+    {
+      "text": "1988",
+      "correct": false
+    },
+    {
+      "text": "1968",
+      "correct": false
+    },
+    {
+      "text": "1958",
+      "correct": false
+    },
+    {
+      "text": "1978",
+      "correct": true
+    }
+  ],
+  "explanation": "La aprobación de la Constitución española ocurrió en 1978.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "aprobacion-de-la-constitucion-espanola",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

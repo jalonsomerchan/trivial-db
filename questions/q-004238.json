@@ -1,0 +1,43 @@
+{
+  "id": "q-004238",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “Cuál es un sinónimo de “casa””?",
+  "answers": [
+    {
+      "text": "extraño",
+      "correct": false
+    },
+    {
+      "text": "vivienda",
+      "correct": true
+    },
+    {
+      "text": "obsequio",
+      "correct": false
+    },
+    {
+      "text": "hermoso",
+      "correct": false
+    }
+  ],
+  "explanation": "“vivienda” es un sinónimo de “casa”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "casa",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

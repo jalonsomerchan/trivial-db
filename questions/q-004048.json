@@ -1,0 +1,44 @@
+{
+  "id": "q-004048",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a “veloz”?",
+  "answers": [
+    {
+      "text": "calma",
+      "correct": false
+    },
+    {
+      "text": "rápido",
+      "correct": true
+    },
+    {
+      "text": "triste",
+      "correct": false
+    },
+    {
+      "text": "regalo",
+      "correct": false
+    }
+  ],
+  "explanation": "“rápido” y “veloz” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "rapido",
+    "veloz",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

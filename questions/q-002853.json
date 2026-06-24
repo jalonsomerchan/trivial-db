@@ -1,0 +1,43 @@
+{
+  "id": "q-002853",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué película fue dirigida por Brad Bird en esta selección?",
+  "answers": [
+    {
+      "text": "WALL·E",
+      "correct": false
+    },
+    {
+      "text": "La lista de Schindler",
+      "correct": false
+    },
+    {
+      "text": "Los increíbles",
+      "correct": true
+    },
+    {
+      "text": "Kill Bill: Volumen 1",
+      "correct": false
+    }
+  ],
+  "explanation": "Brad Bird dirigió “Los increíbles”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "brad-bird",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

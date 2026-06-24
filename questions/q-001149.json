@@ -1,0 +1,42 @@
+{
+  "id": "q-001149",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la Concilio de Trento?",
+  "answers": [
+    {
+      "text": "comienzo de la Primera Cruzada",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Tordesillas",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Lepanto",
+      "correct": true
+    },
+    {
+      "text": "llegada de Cristóbal Colón a América",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1545, año de la Concilio de Trento.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

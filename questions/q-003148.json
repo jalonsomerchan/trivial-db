@@ -1,0 +1,42 @@
+{
+  "id": "q-003148",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué formato se utiliza habitualmente para imagen moderna comprimida?",
+  "answers": [
+    {
+      "text": "SQL",
+      "correct": false
+    },
+    {
+      "text": "CSV",
+      "correct": false
+    },
+    {
+      "text": "MP3",
+      "correct": false
+    },
+    {
+      "text": "AVIF",
+      "correct": true
+    }
+  ],
+  "explanation": "El formato AVIF se utiliza habitualmente para imagen moderna comprimida.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "avif"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

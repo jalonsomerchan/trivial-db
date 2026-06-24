@@ -1,0 +1,43 @@
+{
+  "id": "q-001885",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista pintó “Las señoritas de Aviñón”?",
+  "answers": [
+    {
+      "text": "John Everett Millais",
+      "correct": false
+    },
+    {
+      "text": "Pablo Picasso",
+      "correct": true
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    },
+    {
+      "text": "Leonardo da Vinci",
+      "correct": false
+    }
+  ],
+  "explanation": "“Las señoritas de Aviñón” fue pintada por Pablo Picasso.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "las-senoritas-de-avinon",
+    "pablo-picasso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

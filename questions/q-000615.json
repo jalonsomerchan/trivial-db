@@ -1,0 +1,43 @@
+{
+  "id": "q-000615",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Dominica?",
+  "answers": [
+    {
+      "text": "+374",
+      "correct": false
+    },
+    {
+      "text": "+31",
+      "correct": false
+    },
+    {
+      "text": "+240",
+      "correct": false
+    },
+    {
+      "text": "+1767",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Dominica es +1767.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "dominica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

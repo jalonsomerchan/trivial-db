@@ -1,0 +1,44 @@
+{
+  "id": "q-001690",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "ensayo"
+  ],
+  "difficulty": "hard",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: “El laberinto de la soledad” pertenece principalmente al ámbito de...?",
+  "answers": [
+    {
+      "text": "teatro",
+      "correct": false
+    },
+    {
+      "text": "literatura",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": true
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    }
+  ],
+  "explanation": "“El laberinto de la soledad” se clasifica dentro de ensayo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "ensayo",
+    "el-laberinto-de-la-soledad",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

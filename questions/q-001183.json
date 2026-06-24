@@ -1,0 +1,42 @@
+{
+  "id": "q-001183",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue anterior a la ampliación de la Unión Europea hacia Europa central y oriental?",
+  "answers": [
+    {
+      "text": "quiebra de Lehman Brothers",
+      "correct": false
+    },
+    {
+      "text": "ampliación de la Unión Europea hacia Europa central y oriental",
+      "correct": false
+    },
+    {
+      "text": "salida efectiva del Reino Unido de la Unión Europea",
+      "correct": false
+    },
+    {
+      "text": "entrada en circulación del euro",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió antes de 2004, año de la ampliación de la Unión Europea hacia Europa central y oriental.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

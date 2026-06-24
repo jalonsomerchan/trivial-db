@@ -1,0 +1,44 @@
+{
+  "id": "q-001736",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué obra fue escrita por Herman Melville”?",
+  "answers": [
+    {
+      "text": "Doña Perfecta",
+      "correct": false
+    },
+    {
+      "text": "Pedro Páramo",
+      "correct": false
+    },
+    {
+      "text": "Moby-Dick",
+      "correct": true
+    },
+    {
+      "text": "Ulises",
+      "correct": false
+    }
+  ],
+  "explanation": "Herman Melville escribió “Moby-Dick”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "moby-dick",
+    "herman-melville",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

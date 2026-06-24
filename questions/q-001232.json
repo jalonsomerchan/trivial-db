@@ -1,0 +1,43 @@
+{
+  "id": "q-001232",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1989, relacionado con la caída del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "siglo IX",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XIX",
+      "correct": false
+    },
+    {
+      "text": "siglo VIII",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1989 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "caida-del-muro-de-berlin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

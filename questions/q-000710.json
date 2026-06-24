@@ -1,0 +1,43 @@
+{
+  "id": "q-000710",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Trinidad y Tobago?",
+  "answers": [
+    {
+      "text": ".ws",
+      "correct": false
+    },
+    {
+      "text": ".tt",
+      "correct": true
+    },
+    {
+      "text": ".se",
+      "correct": false
+    },
+    {
+      "text": ".mg",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Trinidad y Tobago es .tt.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "trinidad-y-tobago"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

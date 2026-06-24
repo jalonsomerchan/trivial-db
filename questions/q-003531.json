@@ -1,0 +1,43 @@
+{
+  "id": "q-003531",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Cuál es un ingrediente principal de quiche lorraine?",
+  "answers": [
+    {
+      "text": "huevo y nata",
+      "correct": true
+    },
+    {
+      "text": "bocados al vapor",
+      "correct": false
+    },
+    {
+      "text": "guiso especiado",
+      "correct": false
+    },
+    {
+      "text": "pan con queso",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de quiche lorraine es huevo y nata.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "quiche-lorraine",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000848",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Albania?",
+  "answers": [
+    {
+      "text": "+355",
+      "correct": true
+    },
+    {
+      "text": "+1784",
+      "correct": false
+    },
+    {
+      "text": "+53",
+      "correct": false
+    },
+    {
+      "text": "+45",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Albania es +355.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "albania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

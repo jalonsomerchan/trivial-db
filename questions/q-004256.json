@@ -1,0 +1,42 @@
+{
+  "id": "q-004256",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "En gramática, ¿qué es un pronombre?",
+  "answers": [
+    {
+      "text": "palabra que sustituye o representa a un nombre",
+      "correct": true
+    },
+    {
+      "text": "palabra que une elementos o proposiciones",
+      "correct": false
+    },
+    {
+      "text": "palabra que acompaña al sustantivo y concreta su referencia",
+      "correct": false
+    },
+    {
+      "text": "palabra con varios significados",
+      "correct": false
+    }
+  ],
+  "explanation": "Un pronombre es una palabra que sustituye o representa a un nombre.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "pronombre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

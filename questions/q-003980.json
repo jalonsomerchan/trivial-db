@@ -1,0 +1,43 @@
+{
+  "id": "q-003980",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato pretzel?",
+  "answers": [
+    {
+      "text": "Suiza",
+      "correct": false
+    },
+    {
+      "text": "Europa oriental",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Alemania",
+      "correct": true
+    }
+  ],
+  "explanation": "pretzel se asocia tradicionalmente con Alemania.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "pretzel",
+    "alemania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

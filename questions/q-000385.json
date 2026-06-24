@@ -1,0 +1,44 @@
+{
+  "id": "q-000385",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Cuál es el número atómico del tulio”?",
+  "answers": [
+    {
+      "text": "67",
+      "correct": false
+    },
+    {
+      "text": "75",
+      "correct": false
+    },
+    {
+      "text": "69",
+      "correct": true
+    },
+    {
+      "text": "61",
+      "correct": false
+    }
+  ],
+  "explanation": "El tulio tiene número atómico 69.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "tulio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

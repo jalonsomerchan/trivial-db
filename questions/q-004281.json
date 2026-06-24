@@ -1,0 +1,42 @@
+{
+  "id": "q-004281",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra lleva tilde correctamente: exámenes, examenes, exámenés?",
+  "answers": [
+    {
+      "text": "exámenés",
+      "correct": false
+    },
+    {
+      "text": "examénes",
+      "correct": false
+    },
+    {
+      "text": "examenes",
+      "correct": false
+    },
+    {
+      "text": "exámenes",
+      "correct": true
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “exámenes”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "examenes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-003053",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Para qué se usa principalmente SSH?",
+  "answers": [
+    {
+      "text": "acceso remoto no cifrado",
+      "correct": false
+    },
+    {
+      "text": "acceso remoto seguro",
+      "correct": true
+    },
+    {
+      "text": "base de datos",
+      "correct": false
+    },
+    {
+      "text": "gestión de correo",
+      "correct": false
+    }
+  ],
+  "explanation": "SSH se usa principalmente para acceso remoto seguro.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "ssh",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

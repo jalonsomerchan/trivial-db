@@ -1,0 +1,43 @@
+{
+  "id": "q-002518",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se lanzó originalmente “World of Warcraft”?",
+  "answers": [
+    {
+      "text": "2015",
+      "correct": false
+    },
+    {
+      "text": "2001",
+      "correct": false
+    },
+    {
+      "text": "2004 (3)",
+      "correct": false
+    },
+    {
+      "text": "2004",
+      "correct": true
+    }
+  ],
+  "explanation": "“World of Warcraft” se lanzó originalmente en 2004.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "world-of-warcraft",
+    "lanzamientos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

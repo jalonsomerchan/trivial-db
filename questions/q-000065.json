@@ -1,0 +1,44 @@
+{
+  "id": "q-000065",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué elemento químico tiene el símbolo In”?",
+  "answers": [
+    {
+      "text": "rodio",
+      "correct": false
+    },
+    {
+      "text": "antimonio",
+      "correct": false
+    },
+    {
+      "text": "indio",
+      "correct": true
+    },
+    {
+      "text": "cesio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo In corresponde al indio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "indio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

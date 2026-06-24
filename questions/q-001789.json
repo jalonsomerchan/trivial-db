@@ -1,0 +1,43 @@
+{
+  "id": "q-001789",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra fue escrita por León Tolstói?",
+  "answers": [
+    {
+      "text": "Nada",
+      "correct": false
+    },
+    {
+      "text": "La ciudad y los perros",
+      "correct": false
+    },
+    {
+      "text": "Tiempo de silencio",
+      "correct": false
+    },
+    {
+      "text": "Guerra y paz",
+      "correct": true
+    }
+  ],
+  "explanation": "León Tolstói escribió “Guerra y paz”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "guerra-y-paz",
+    "leon-tolstoi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001985",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "easy",
+  "question": "Quién escribió “El sí de las niñas”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Pedro Calderón de la Barca",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Unamuno",
+      "correct": false
+    },
+    {
+      "text": "Tirso de Molina",
+      "correct": false
+    },
+    {
+      "text": "Leandro Fernández de Moratín",
+      "correct": true
+    }
+  ],
+  "explanation": "“El sí de las niñas” es una obra de Leandro Fernández de Moratín.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "el-si-de-las-ninas",
+    "leandro-fernandez-de-moratin",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-002566",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Quién dirigió la película “Forrest Gump””. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Alejandro Amenábar",
+      "correct": false
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Robert Zemeckis",
+      "correct": true
+    },
+    {
+      "text": "John Lasseter",
+      "correct": false
+    }
+  ],
+  "explanation": "“Forrest Gump” fue dirigida por Robert Zemeckis.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "forrest-gump",
+    "robert-zemeckis",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003098",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla GUI en tecnología?",
+  "answers": [
+    {
+      "text": "unidad de procesamiento gráfico",
+      "correct": false
+    },
+    {
+      "text": "interfaz gráfica de usuario",
+      "correct": true
+    },
+    {
+      "text": "unidad central de procesamiento",
+      "correct": false
+    },
+    {
+      "text": "protocolo de control de transmisión",
+      "correct": false
+    }
+  ],
+  "explanation": "En tecnología, GUI significa interfaz gráfica de usuario.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "gui"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

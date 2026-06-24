@@ -1,0 +1,44 @@
+{
+  "id": "q-001170",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En qué año ocurrió la comienzo de la Guerra Civil española”?",
+  "answers": [
+    {
+      "text": "1926",
+      "correct": false
+    },
+    {
+      "text": "1946",
+      "correct": false
+    },
+    {
+      "text": "1916",
+      "correct": false
+    },
+    {
+      "text": "1936",
+      "correct": true
+    }
+  ],
+  "explanation": "La comienzo de la Guerra Civil española ocurrió en 1936.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "comienzo-de-la-guerra-civil-espanola",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

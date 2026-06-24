@@ -1,0 +1,43 @@
+{
+  "id": "q-004481",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “después, despues, dés pues. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "despues",
+      "correct": false
+    },
+    {
+      "text": "dés pues",
+      "correct": false
+    },
+    {
+      "text": "despuès",
+      "correct": false
+    },
+    {
+      "text": "después",
+      "correct": true
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “después”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "despues",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

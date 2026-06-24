@@ -1,0 +1,43 @@
+{
+  "id": "q-000820",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Sudán del Sur?",
+  "answers": [
+    {
+      "text": ".tj",
+      "correct": false
+    },
+    {
+      "text": ".cg",
+      "correct": false
+    },
+    {
+      "text": ".ss",
+      "correct": true
+    },
+    {
+      "text": ".kr",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Sudán del Sur es .ss.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "sudan-del-sur"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

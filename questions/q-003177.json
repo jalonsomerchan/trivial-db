@@ -1,0 +1,44 @@
+{
+  "id": "q-003177",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué protocolo se asocia normalmente al puerto 3389?",
+  "answers": [
+    {
+      "text": "SMTP",
+      "correct": false
+    },
+    {
+      "text": "MQTT",
+      "correct": false
+    },
+    {
+      "text": "RDP",
+      "correct": true
+    },
+    {
+      "text": "DNS",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 3389 se asocia habitualmente con RDP.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "rdp",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

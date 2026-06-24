@@ -1,0 +1,44 @@
+{
+  "id": "q-001889",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: “2666” pertenece principalmente al ámbito de...?",
+  "answers": [
+    {
+      "text": "épica",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    },
+    {
+      "text": "teatro",
+      "correct": false
+    },
+    {
+      "text": "literatura",
+      "correct": true
+    }
+  ],
+  "explanation": "“2666” se clasifica dentro de literatura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "literatura",
+    "2666",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

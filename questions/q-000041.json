@@ -1,0 +1,44 @@
+{
+  "id": "q-000041",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué elemento químico tiene el símbolo Hs”?",
+  "answers": [
+    {
+      "text": "meitnerio",
+      "correct": false
+    },
+    {
+      "text": "hasio",
+      "correct": true
+    },
+    {
+      "text": "copernicio",
+      "correct": false
+    },
+    {
+      "text": "roentgenio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Hs corresponde al hasio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "hasio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

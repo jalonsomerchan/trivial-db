@@ -1,0 +1,44 @@
+{
+  "id": "q-003224",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: En qué año apareció por primera vez Swift?",
+  "answers": [
+    {
+      "text": "1985",
+      "correct": false
+    },
+    {
+      "text": "2015",
+      "correct": false
+    },
+    {
+      "text": "2014",
+      "correct": true
+    },
+    {
+      "text": "1987",
+      "correct": false
+    }
+  ],
+  "explanation": "Swift apareció por primera vez en 2014.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "swift",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

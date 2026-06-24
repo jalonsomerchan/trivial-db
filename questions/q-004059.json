@@ -1,0 +1,43 @@
+{
+  "id": "q-004059",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "también, tambien, támbien. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "támbien",
+      "correct": false
+    },
+    {
+      "text": "tambien",
+      "correct": false
+    },
+    {
+      "text": "tambíen",
+      "correct": false
+    },
+    {
+      "text": "también",
+      "correct": true
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “también”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "tambien",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

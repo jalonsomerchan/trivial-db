@@ -1,0 +1,43 @@
+{
+  "id": "q-003059",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año apareció por primera vez Objective-C?",
+  "answers": [
+    {
+      "text": "2007",
+      "correct": false
+    },
+    {
+      "text": "2005",
+      "correct": false
+    },
+    {
+      "text": "1984",
+      "correct": true
+    },
+    {
+      "text": "2012",
+      "correct": false
+    }
+  ],
+  "explanation": "Objective-C apareció por primera vez en 1984.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "objective-c",
+    "historia-tecnologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

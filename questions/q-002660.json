@@ -1,0 +1,43 @@
+{
+  "id": "q-002660",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se lanzó originalmente “Tetris”?",
+  "answers": [
+    {
+      "text": "1991",
+      "correct": false
+    },
+    {
+      "text": "2000",
+      "correct": false
+    },
+    {
+      "text": "1984 (3)",
+      "correct": false
+    },
+    {
+      "text": "1984",
+      "correct": true
+    }
+  ],
+  "explanation": "“Tetris” se lanzó originalmente en 1984.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "tetris",
+    "lanzamientos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

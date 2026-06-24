@@ -1,0 +1,42 @@
+{
+  "id": "q-003625",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es un ingrediente principal de pato laqueado?",
+  "answers": [
+    {
+      "text": "camarón",
+      "correct": false
+    },
+    {
+      "text": "pato",
+      "correct": true
+    },
+    {
+      "text": "berenjena",
+      "correct": false
+    },
+    {
+      "text": "fideos de arroz",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de pato laqueado es pato.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pato-laqueado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

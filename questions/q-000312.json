@@ -1,0 +1,43 @@
+{
+  "id": "q-000312",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del cerio?",
+  "answers": [
+    {
+      "text": "54",
+      "correct": false
+    },
+    {
+      "text": "63",
+      "correct": false
+    },
+    {
+      "text": "58",
+      "correct": true
+    },
+    {
+      "text": "66",
+      "correct": false
+    }
+  ],
+  "explanation": "El cerio tiene número atómico 58.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "cerio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

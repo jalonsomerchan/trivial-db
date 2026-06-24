@@ -1,0 +1,43 @@
+{
+  "id": "q-003129",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué significa el código HTTP 500?",
+  "answers": [
+    {
+      "text": "Bad Gateway",
+      "correct": false
+    },
+    {
+      "text": "Internal Server Error",
+      "correct": true
+    },
+    {
+      "text": "Moved Permanently",
+      "correct": false
+    },
+    {
+      "text": "I'm a teapot",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 500 corresponde a “Internal Server Error”.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "500"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

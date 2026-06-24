@@ -1,0 +1,44 @@
+{
+  "id": "q-001689",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Qué obra fue escrita por Pedro Calderón de la Barca. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "Fuenteovejuna",
+      "correct": false
+    },
+    {
+      "text": "La vida es sueño",
+      "correct": true
+    },
+    {
+      "text": "Rayuela",
+      "correct": false
+    },
+    {
+      "text": "Soledades",
+      "correct": false
+    }
+  ],
+  "explanation": "Pedro Calderón de la Barca escribió “La vida es sueño”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-vida-es-sueno",
+    "pedro-calderon-de-la-barca",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

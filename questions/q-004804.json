@@ -1,0 +1,42 @@
+{
+  "id": "q-004804",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "geometria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el área de un rectángulo de base 10 y altura 4?",
+  "answers": [
+    {
+      "text": "44",
+      "correct": false
+    },
+    {
+      "text": "40",
+      "correct": true
+    },
+    {
+      "text": "50",
+      "correct": false
+    },
+    {
+      "text": "28",
+      "correct": false
+    }
+  ],
+  "explanation": "El área de un rectángulo se calcula como base por altura: 10 × 4 = 40.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "geometria",
+    "area"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

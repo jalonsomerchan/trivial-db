@@ -1,0 +1,43 @@
+{
+  "id": "q-001433",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Qué acontecimiento histórico ocurrió en 1941”?",
+  "answers": [
+    {
+      "text": "ataque a Pearl Harbor",
+      "correct": true
+    },
+    {
+      "text": "primera Exposición Universal de París con la Torre Eiffel",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Hastings",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Guerra Civil española",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1941 ocurrió la ataque a Pearl Harbor.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "ataque-a-pearl-harbor",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

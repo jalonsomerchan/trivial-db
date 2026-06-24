@@ -1,0 +1,42 @@
+{
+  "id": "q-004947",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el cuadrado de 29?",
+  "answers": [
+    {
+      "text": "841",
+      "correct": true
+    },
+    {
+      "text": "812",
+      "correct": false
+    },
+    {
+      "text": "870",
+      "correct": false
+    },
+    {
+      "text": "900",
+      "correct": false
+    }
+  ],
+  "explanation": "El cuadrado de 29 es 29 × 29 = 841.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "cuadrados"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

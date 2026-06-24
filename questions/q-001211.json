@@ -1,0 +1,43 @@
+{
+  "id": "q-001211",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién fue el emperador francés derrotado en Waterloo?",
+  "answers": [
+    {
+      "text": "Otto von Bismarck",
+      "correct": false
+    },
+    {
+      "text": "Carlos X",
+      "correct": false
+    },
+    {
+      "text": "Napoleón Bonaparte",
+      "correct": true
+    },
+    {
+      "text": "Luis XVI",
+      "correct": false
+    }
+  ],
+  "explanation": "El emperador francés derrotado en Waterloo fue Napoleón Bonaparte.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "historia",
+    "napoleon-bonaparte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

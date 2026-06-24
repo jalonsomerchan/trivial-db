@@ -1,0 +1,43 @@
+{
+  "id": "q-003133",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Quién creó o impulsó originalmente el lenguaje Lua?",
+  "answers": [
+    {
+      "text": "Apple",
+      "correct": false
+    },
+    {
+      "text": "Roberto Ierusalimschy, Luiz Henrique de Figueiredo y Waldemar Celes",
+      "correct": true
+    },
+    {
+      "text": "Dennis Ritchie",
+      "correct": false
+    },
+    {
+      "text": "John Kemeny y Thomas Kurtz",
+      "correct": false
+    }
+  ],
+  "explanation": "Lua se asocia históricamente con Roberto Ierusalimschy, Luiz Henrique de Figueiredo y Waldemar Celes.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "lua",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

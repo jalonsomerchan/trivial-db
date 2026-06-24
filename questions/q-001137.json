@@ -1,0 +1,43 @@
+{
+  "id": "q-001137",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la Tratado de Maastricht?",
+  "answers": [
+    {
+      "text": "1992",
+      "correct": true
+    },
+    {
+      "text": "1972",
+      "correct": false
+    },
+    {
+      "text": "2002",
+      "correct": false
+    },
+    {
+      "text": "1982",
+      "correct": false
+    }
+  ],
+  "explanation": "La Tratado de Maastricht ocurrió en 1992.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratado-de-maastricht",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

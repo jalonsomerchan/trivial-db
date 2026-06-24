@@ -1,0 +1,44 @@
+{
+  "id": "q-004316",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "Según la posición de la sílaba tónica, ¿qué tipo de palabra es “joven”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "llana",
+      "correct": true
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    },
+    {
+      "text": "esdrújula",
+      "correct": false
+    }
+  ],
+  "explanation": "“joven” es una palabra llana.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "joven",
+    "llana",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

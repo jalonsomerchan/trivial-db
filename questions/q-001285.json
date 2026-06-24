@@ -1,0 +1,44 @@
+{
+  "id": "q-001285",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “A qué siglo pertenece el año 1969, relacionado con la llegada del Apolo 11 a la Luna”?",
+  "answers": [
+    {
+      "text": "siglo I",
+      "correct": false
+    },
+    {
+      "text": "siglo XXI",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XI",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1969 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "llegada-del-apolo-11-a-la-luna",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

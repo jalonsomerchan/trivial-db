@@ -1,0 +1,42 @@
+{
+  "id": "q-004509",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 5 × 4?",
+  "answers": [
+    {
+      "text": "20",
+      "correct": true
+    },
+    {
+      "text": "16",
+      "correct": false
+    },
+    {
+      "text": "21",
+      "correct": false
+    },
+    {
+      "text": "25",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto de 5 por 4 es 20.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

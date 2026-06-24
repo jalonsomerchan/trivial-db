@@ -1,0 +1,43 @@
+{
+  "id": "q-003194",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa principalmente MQTT?",
+  "answers": [
+    {
+      "text": "mensajería ligera",
+      "correct": true
+    },
+    {
+      "text": "web",
+      "correct": false
+    },
+    {
+      "text": "resolución de nombres",
+      "correct": false
+    },
+    {
+      "text": "base de datos en memoria",
+      "correct": false
+    }
+  ],
+  "explanation": "MQTT se usa principalmente para mensajería ligera.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "mqtt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

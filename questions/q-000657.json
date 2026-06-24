@@ -1,0 +1,43 @@
+{
+  "id": "q-000657",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Wallis y Futuna?",
+  "answers": [
+    {
+      "text": "Kingston",
+      "correct": false
+    },
+    {
+      "text": "Mata-Utu",
+      "correct": true
+    },
+    {
+      "text": "Ngerulmud",
+      "correct": false
+    },
+    {
+      "text": "West Island",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Wallis y Futuna es Mata-Utu.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "wallis-y-futuna"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

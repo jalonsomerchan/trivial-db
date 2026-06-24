@@ -1,0 +1,43 @@
+{
+  "id": "q-003353",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Quién creó o impulsó originalmente el lenguaje Scratch?",
+  "answers": [
+    {
+      "text": "Dennis Ritchie",
+      "correct": false
+    },
+    {
+      "text": "IBM",
+      "correct": false
+    },
+    {
+      "text": "MIT Media Lab",
+      "correct": true
+    },
+    {
+      "text": "James Gosling",
+      "correct": false
+    }
+  ],
+  "explanation": "Scratch se asocia históricamente con MIT Media Lab.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "scratch",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

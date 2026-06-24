@@ -1,0 +1,42 @@
+{
+  "id": "q-004190",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término gramatical corresponde a esta definición: “palabra con significado opuesto”?",
+  "answers": [
+    {
+      "text": "pronombre",
+      "correct": false
+    },
+    {
+      "text": "homónima",
+      "correct": false
+    },
+    {
+      "text": "polisémica",
+      "correct": false
+    },
+    {
+      "text": "antónimo",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a “antónimo”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "antonimo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

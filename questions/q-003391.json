@@ -1,0 +1,44 @@
+{
+  "id": "q-003391",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué código HTTP corresponde a “No Content””?",
+  "answers": [
+    {
+      "text": "204",
+      "correct": true
+    },
+    {
+      "text": "500",
+      "correct": false
+    },
+    {
+      "text": "302",
+      "correct": false
+    },
+    {
+      "text": "504",
+      "correct": false
+    }
+  ],
+  "explanation": "“No Content” corresponde al código HTTP 204.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "204",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

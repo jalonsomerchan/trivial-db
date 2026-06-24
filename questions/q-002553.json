@@ -1,0 +1,43 @@
+{
+  "id": "q-002553",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué compañía o creador desarrolló “Pac-Man”?",
+  "answers": [
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "Namco",
+      "correct": true
+    },
+    {
+      "text": "Valve",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pac-Man” se asocia con Namco.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "pac-man",
+    "namco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

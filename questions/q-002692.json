@@ -1,0 +1,44 @@
+{
+  "id": "q-002692",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Qué compañía o creador desarrolló “StarCraft””?",
+  "answers": [
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": false
+    },
+    {
+      "text": "Blizzard Entertainment",
+      "correct": true
+    },
+    {
+      "text": "Square",
+      "correct": false
+    }
+  ],
+  "explanation": "“StarCraft” se asocia con Blizzard Entertainment.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "starcraft",
+    "blizzard-entertainment",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

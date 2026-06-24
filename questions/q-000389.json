@@ -1,0 +1,43 @@
+{
+  "id": "q-000389",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el número atómico del silicio?",
+  "answers": [
+    {
+      "text": "13",
+      "correct": false
+    },
+    {
+      "text": "14",
+      "correct": true
+    },
+    {
+      "text": "11",
+      "correct": false
+    },
+    {
+      "text": "16",
+      "correct": false
+    }
+  ],
+  "explanation": "El silicio tiene número atómico 14.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "silicio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

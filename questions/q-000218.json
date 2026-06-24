@@ -1,0 +1,44 @@
+{
+  "id": "q-000218",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "Qué elemento tiene el número atómico 104. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "hasio",
+      "correct": false
+    },
+    {
+      "text": "bohrio",
+      "correct": false
+    },
+    {
+      "text": "seaborgio",
+      "correct": false
+    },
+    {
+      "text": "rutherfordio",
+      "correct": true
+    }
+  ],
+  "explanation": "El número atómico 104 corresponde al rutherfordio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "rutherfordio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-003883",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué plato se asocia con Grecia y suele llevar yogur y pepino”?",
+  "answers": [
+    {
+      "text": "tzatziki",
+      "correct": true
+    },
+    {
+      "text": "shawarma",
+      "correct": false
+    },
+    {
+      "text": "pretzel",
+      "correct": false
+    },
+    {
+      "text": "barbecue ribs",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es tzatziki.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "grecia",
+    "yogur-y-pepino",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-004489",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un sinónimo de “camino”?",
+  "answers": [
+    {
+      "text": "audaz",
+      "correct": false
+    },
+    {
+      "text": "sendero",
+      "correct": true
+    },
+    {
+      "text": "enfado",
+      "correct": false
+    },
+    {
+      "text": "complicado",
+      "correct": false
+    }
+  ],
+  "explanation": "“sendero” es un sinónimo de “camino”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "camino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

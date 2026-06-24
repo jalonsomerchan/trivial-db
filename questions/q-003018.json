@@ -1,0 +1,44 @@
+{
+  "id": "q-003018",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué puerto usa SMTP por defecto”?",
+  "answers": [
+    {
+      "text": "22",
+      "correct": false
+    },
+    {
+      "text": "445",
+      "correct": false
+    },
+    {
+      "text": "25",
+      "correct": true
+    },
+    {
+      "text": "23",
+      "correct": false
+    }
+  ],
+  "explanation": "SMTP suele usar el puerto 25 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "smtp",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

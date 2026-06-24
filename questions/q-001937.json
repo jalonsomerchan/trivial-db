@@ -1,0 +1,44 @@
+{
+  "id": "q-001937",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "Qué obra fue escrita por Mary Shelley. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Un mundo feliz",
+      "correct": false
+    },
+    {
+      "text": "Luces de bohemia",
+      "correct": false
+    },
+    {
+      "text": "Frankenstein",
+      "correct": true
+    },
+    {
+      "text": "La Regenta",
+      "correct": false
+    }
+  ],
+  "explanation": "Mary Shelley escribió “Frankenstein”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "frankenstein",
+    "mary-shelley",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

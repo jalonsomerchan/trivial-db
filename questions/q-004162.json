@@ -1,0 +1,44 @@
+{
+  "id": "q-004162",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué palabra tiene un significado parecido a “compañero”?",
+  "answers": [
+    {
+      "text": "amigo",
+      "correct": true
+    },
+    {
+      "text": "vender",
+      "correct": false
+    },
+    {
+      "text": "error",
+      "correct": false
+    },
+    {
+      "text": "grande",
+      "correct": false
+    }
+  ],
+  "explanation": "“amigo” y “compañero” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "amigo",
+    "companero",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

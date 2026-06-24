@@ -1,0 +1,44 @@
+{
+  "id": "q-000152",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué elemento químico tiene el símbolo Xe”?",
+  "answers": [
+    {
+      "text": "xenón",
+      "correct": true
+    },
+    {
+      "text": "cadmio",
+      "correct": false
+    },
+    {
+      "text": "telurio",
+      "correct": false
+    },
+    {
+      "text": "neodimio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Xe corresponde al xenón.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "xenon",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

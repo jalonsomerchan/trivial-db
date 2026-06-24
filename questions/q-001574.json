@@ -1,0 +1,44 @@
+{
+  "id": "q-001574",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "easy",
+  "question": "Quién escribió “Hamlet”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "autor anónimo",
+      "correct": false
+    },
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": false
+    },
+    {
+      "text": "F. Scott Fitzgerald",
+      "correct": false
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": true
+    }
+  ],
+  "explanation": "“Hamlet” es una obra de William Shakespeare.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "hamlet",
+    "william-shakespeare",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

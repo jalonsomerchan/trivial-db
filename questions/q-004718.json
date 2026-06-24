@@ -1,0 +1,42 @@
+{
+  "id": "q-004718",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 10% de 190?",
+  "answers": [
+    {
+      "text": "19",
+      "correct": true
+    },
+    {
+      "text": "14",
+      "correct": false
+    },
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": false
+    }
+  ],
+  "explanation": "El 10% de 190 es 190 × 10/100 = 19.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

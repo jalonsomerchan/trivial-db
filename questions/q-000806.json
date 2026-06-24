@@ -1,0 +1,43 @@
+{
+  "id": "q-000806",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Guinea-Bisáu?",
+  "answers": [
+    {
+      "text": ".sy",
+      "correct": false
+    },
+    {
+      "text": ".se",
+      "correct": false
+    },
+    {
+      "text": ".gw",
+      "correct": true
+    },
+    {
+      "text": ".sr",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Guinea-Bisáu es .gw.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "guinea-bisau"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

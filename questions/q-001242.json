@@ -1,0 +1,43 @@
+{
+  "id": "q-001242",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál de estos acontecimientos fue posterior a la inicio de la Guerra de la Independencia española”?",
+  "answers": [
+    {
+      "text": "Edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "Constitución de Cádiz",
+      "correct": true
+    },
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "fundación de la Universidad de Salamanca",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1808, año de la inicio de la Guerra de la Independencia española.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

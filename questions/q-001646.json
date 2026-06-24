@@ -1,0 +1,43 @@
+{
+  "id": "q-001646",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién escribió “Residencia en la tierra”?",
+  "answers": [
+    {
+      "text": "Julio Cortázar",
+      "correct": false
+    },
+    {
+      "text": "George Orwell",
+      "correct": false
+    },
+    {
+      "text": "Pablo Neruda",
+      "correct": true
+    },
+    {
+      "text": "Aldous Huxley",
+      "correct": false
+    }
+  ],
+  "explanation": "“Residencia en la tierra” es una obra de Pablo Neruda.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "residencia-en-la-tierra",
+    "pablo-neruda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

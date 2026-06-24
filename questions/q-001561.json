@@ -1,0 +1,44 @@
+{
+  "id": "q-001561",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Qué cuadro se asocia con Théodore Géricault?",
+  "answers": [
+    {
+      "text": "La última cena",
+      "correct": false
+    },
+    {
+      "text": "American Gothic",
+      "correct": false
+    },
+    {
+      "text": "La balsa de la Medusa",
+      "correct": true
+    },
+    {
+      "text": "La libertad guiando al pueblo",
+      "correct": false
+    }
+  ],
+  "explanation": "Théodore Géricault es el autor de “La balsa de la Medusa”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "la-balsa-de-la-medusa",
+    "theodore-gericault",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

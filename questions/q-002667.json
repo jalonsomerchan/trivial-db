@@ -1,0 +1,44 @@
+{
+  "id": "q-002667",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál sería la opción correcta si la pista fuera “En qué año se estrenó “Kill Bill: Volumen 1”””?",
+  "answers": [
+    {
+      "text": "1991",
+      "correct": false
+    },
+    {
+      "text": "2003",
+      "correct": true
+    },
+    {
+      "text": "2000",
+      "correct": false
+    },
+    {
+      "text": "1976",
+      "correct": false
+    }
+  ],
+  "explanation": "“Kill Bill: Volumen 1” se estrenó en 2003.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "kill-bill-volumen-1",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

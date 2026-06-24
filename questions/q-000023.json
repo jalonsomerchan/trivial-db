@@ -1,0 +1,43 @@
+{
+  "id": "q-000023",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento químico tiene el símbolo At?",
+  "answers": [
+    {
+      "text": "astato",
+      "correct": true
+    },
+    {
+      "text": "radio",
+      "correct": false
+    },
+    {
+      "text": "talio",
+      "correct": false
+    },
+    {
+      "text": "torio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo At corresponde al astato.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "astato"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

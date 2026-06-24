@@ -1,0 +1,43 @@
+{
+  "id": "q-001698",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién escribió “1984”?",
+  "answers": [
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    },
+    {
+      "text": "George Orwell",
+      "correct": true
+    },
+    {
+      "text": "Dante Alighieri",
+      "correct": false
+    },
+    {
+      "text": "Tirso de Molina",
+      "correct": false
+    }
+  ],
+  "explanation": "“1984” es una obra de George Orwell.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "1984",
+    "george-orwell"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

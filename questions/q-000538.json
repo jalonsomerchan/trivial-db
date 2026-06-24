@@ -1,0 +1,43 @@
+{
+  "id": "q-000538",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital N'Djamena?",
+  "answers": [
+    {
+      "text": "Chad",
+      "correct": true
+    },
+    {
+      "text": "Ruanda",
+      "correct": false
+    },
+    {
+      "text": "Burundi",
+      "correct": false
+    },
+    {
+      "text": "Níger",
+      "correct": false
+    }
+  ],
+  "explanation": "N'Djamena es la capital de Chad.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "chad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

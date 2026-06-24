@@ -1,0 +1,43 @@
+{
+  "id": "q-003581",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato de esta lista tiene como ingrediente destacado masa fina”?",
+  "answers": [
+    {
+      "text": "crêpe",
+      "correct": true
+    },
+    {
+      "text": "miso shiru",
+      "correct": false
+    },
+    {
+      "text": "tiramisú",
+      "correct": false
+    },
+    {
+      "text": "blini",
+      "correct": false
+    }
+  ],
+  "explanation": "crêpe destaca por el uso de masa fina.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "masa-fina",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

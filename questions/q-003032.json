@@ -1,0 +1,44 @@
+{
+  "id": "q-003032",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "hard",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué código HTTP corresponde a “Gateway Timeout”?",
+  "answers": [
+    {
+      "text": "204",
+      "correct": false
+    },
+    {
+      "text": "200",
+      "correct": false
+    },
+    {
+      "text": "302",
+      "correct": false
+    },
+    {
+      "text": "504",
+      "correct": true
+    }
+  ],
+  "explanation": "“Gateway Timeout” corresponde al código HTTP 504.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "504",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

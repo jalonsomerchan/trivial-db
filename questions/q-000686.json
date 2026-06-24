@@ -1,0 +1,43 @@
+{
+  "id": "q-000686",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO alfa-2 de Islas Cook?",
+  "answers": [
+    {
+      "text": "TT",
+      "correct": false
+    },
+    {
+      "text": "CK",
+      "correct": true
+    },
+    {
+      "text": "HK",
+      "correct": false
+    },
+    {
+      "text": "JP",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Islas Cook es CK.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos",
+    "islas-cook"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

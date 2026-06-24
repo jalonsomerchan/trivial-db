@@ -1,0 +1,42 @@
+{
+  "id": "q-003553",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa levar?",
+  "answers": [
+    {
+      "text": "cocinar suavemente hasta ablandar",
+      "correct": false
+    },
+    {
+      "text": "evaporar líquido para concentrar sabor",
+      "correct": false
+    },
+    {
+      "text": "dar consistencia a una salsa",
+      "correct": false
+    },
+    {
+      "text": "dejar que una masa fermente y aumente de volumen",
+      "correct": true
+    }
+  ],
+  "explanation": "levar significa dejar que una masa fermente y aumente de volumen.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "levar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

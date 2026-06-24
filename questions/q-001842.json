@@ -1,0 +1,44 @@
+{
+  "id": "q-001842",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Quién escribió “Don Quijote de la Mancha”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Julio Cortázar",
+      "correct": false
+    },
+    {
+      "text": "Miguel Delibes",
+      "correct": false
+    },
+    {
+      "text": "Laura Esquivel",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Cervantes",
+      "correct": true
+    }
+  ],
+  "explanation": "“Don Quijote de la Mancha” es una obra de Miguel de Cervantes.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "don-quijote-de-la-mancha",
+    "miguel-de-cervantes",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

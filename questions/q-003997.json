@@ -1,0 +1,42 @@
+{
+  "id": "q-003997",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es un ingrediente principal de cuscús?",
+  "answers": [
+    {
+      "text": "pollo",
+      "correct": false
+    },
+    {
+      "text": "carne especiada",
+      "correct": false
+    },
+    {
+      "text": "merengue",
+      "correct": false
+    },
+    {
+      "text": "sémola de trigo",
+      "correct": true
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de cuscús es sémola de trigo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "cuscus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

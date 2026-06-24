@@ -1,0 +1,43 @@
+{
+  "id": "q-003027",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué protocolo se asocia normalmente al puerto 5432?",
+  "answers": [
+    {
+      "text": "RDP",
+      "correct": false
+    },
+    {
+      "text": "FTP",
+      "correct": false
+    },
+    {
+      "text": "Redis",
+      "correct": false
+    },
+    {
+      "text": "PostgreSQL",
+      "correct": true
+    }
+  ],
+  "explanation": "El puerto 5432 se asocia habitualmente con PostgreSQL.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "postgresql"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

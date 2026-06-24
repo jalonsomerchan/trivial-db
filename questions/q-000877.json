@@ -1,0 +1,43 @@
+{
+  "id": "q-000877",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Portugal?",
+  "answers": [
+    {
+      "text": "Lisbon",
+      "correct": true
+    },
+    {
+      "text": "St. Peter Port",
+      "correct": false
+    },
+    {
+      "text": "Bucharest",
+      "correct": false
+    },
+    {
+      "text": "Sofia",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Portugal es Lisbon.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "portugal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

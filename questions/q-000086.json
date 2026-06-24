@@ -1,0 +1,44 @@
+{
+  "id": "q-000086",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento químico tiene el símbolo Pt”?",
+  "answers": [
+    {
+      "text": "bismuto",
+      "correct": false
+    },
+    {
+      "text": "wolframio",
+      "correct": false
+    },
+    {
+      "text": "osmio",
+      "correct": false
+    },
+    {
+      "text": "platino",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo Pt corresponde al platino.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "platino",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-002652",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se lanzó originalmente “Metal Gear Solid”?",
+  "answers": [
+    {
+      "text": "1999",
+      "correct": false
+    },
+    {
+      "text": "1998",
+      "correct": true
+    },
+    {
+      "text": "2015",
+      "correct": false
+    },
+    {
+      "text": "2000",
+      "correct": false
+    }
+  ],
+  "explanation": "“Metal Gear Solid” se lanzó originalmente en 1998.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metal-gear-solid",
+    "lanzamientos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

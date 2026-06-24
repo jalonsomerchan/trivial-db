@@ -1,0 +1,43 @@
+{
+  "id": "q-001029",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: Qué acontecimiento histórico ocurrió en 1832?",
+  "answers": [
+    {
+      "text": "independencia de Grecia reconocida por el Tratado de Constantinopla",
+      "correct": true
+    },
+    {
+      "text": "comienzo de la Reforma protestante",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Nicea",
+      "correct": false
+    },
+    {
+      "text": "salida efectiva del Reino Unido de la Unión Europea",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1832 ocurrió la independencia de Grecia reconocida por el Tratado de Constantinopla.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "independencia-de-grecia-reconocida-por-el-tratado-de-constantinopla",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

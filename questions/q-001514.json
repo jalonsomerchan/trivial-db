@@ -1,0 +1,44 @@
+{
+  "id": "q-001514",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Quién escribió “Rayuela””?",
+  "answers": [
+    {
+      "text": "Julio Cortázar",
+      "correct": true
+    },
+    {
+      "text": "F. Scott Fitzgerald",
+      "correct": false
+    },
+    {
+      "text": "Octavio Paz",
+      "correct": false
+    },
+    {
+      "text": "Mario Benedetti",
+      "correct": false
+    }
+  ],
+  "explanation": "“Rayuela” es una obra de Julio Cortázar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "rayuela",
+    "julio-cortazar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002770",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se estrenó “El laberinto del fauno”?",
+  "answers": [
+    {
+      "text": "1999",
+      "correct": false
+    },
+    {
+      "text": "2001",
+      "correct": false
+    },
+    {
+      "text": "1995",
+      "correct": false
+    },
+    {
+      "text": "2006",
+      "correct": true
+    }
+  ],
+  "explanation": "“El laberinto del fauno” se estrenó en 2006.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-laberinto-del-fauno",
+    "estrenos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

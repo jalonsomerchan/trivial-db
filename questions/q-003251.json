@@ -1,0 +1,42 @@
+{
+  "id": "q-003251",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato PDF?",
+  "answers": [
+    {
+      "text": "datos tabulares",
+      "correct": false
+    },
+    {
+      "text": "estilos de páginas web",
+      "correct": false
+    },
+    {
+      "text": "contenedor de vídeo",
+      "correct": false
+    },
+    {
+      "text": "documento portable",
+      "correct": true
+    }
+  ],
+  "explanation": "PDF se utiliza habitualmente para documento portable.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "pdf"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

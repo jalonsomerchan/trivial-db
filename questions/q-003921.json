@@ -1,0 +1,42 @@
+{
+  "id": "q-003921",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado albahaca?",
+  "answers": [
+    {
+      "text": "asado",
+      "correct": false
+    },
+    {
+      "text": "pesto genovés",
+      "correct": true
+    },
+    {
+      "text": "dim sum",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    }
+  ],
+  "explanation": "pesto genovés destaca por el uso de albahaca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "albahaca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

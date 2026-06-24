@@ -1,0 +1,43 @@
+{
+  "id": "q-003198",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto usa DNS por defecto?",
+  "answers": [
+    {
+      "text": "443",
+      "correct": false
+    },
+    {
+      "text": "88",
+      "correct": false
+    },
+    {
+      "text": "53",
+      "correct": true
+    },
+    {
+      "text": "6379",
+      "correct": false
+    }
+  ],
+  "explanation": "DNS suele usar el puerto 53 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "dns"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

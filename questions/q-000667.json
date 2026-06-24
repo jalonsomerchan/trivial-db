@@ -1,0 +1,43 @@
+{
+  "id": "q-000667",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de El Salvador?",
+  "answers": [
+    {
+      "text": "+1264",
+      "correct": false
+    },
+    {
+      "text": "+374",
+      "correct": false
+    },
+    {
+      "text": "+373",
+      "correct": false
+    },
+    {
+      "text": "+503",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de El Salvador es +503.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "el-salvador"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

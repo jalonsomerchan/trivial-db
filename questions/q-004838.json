@@ -1,0 +1,42 @@
+{
+  "id": "q-004838",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 16 × 4?",
+  "answers": [
+    {
+      "text": "64",
+      "correct": true
+    },
+    {
+      "text": "76",
+      "correct": false
+    },
+    {
+      "text": "60",
+      "correct": false
+    },
+    {
+      "text": "80",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto de 16 por 4 es 64.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

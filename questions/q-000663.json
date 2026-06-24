@@ -1,0 +1,43 @@
+{
+  "id": "q-000663",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Dushanbe?",
+  "answers": [
+    {
+      "text": "Kuwait",
+      "correct": false
+    },
+    {
+      "text": "Timor Oriental",
+      "correct": false
+    },
+    {
+      "text": "Malasia",
+      "correct": false
+    },
+    {
+      "text": "Tayikistán",
+      "correct": true
+    }
+  ],
+  "explanation": "Dushanbe es la capital de Tayikistán.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "tayikistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

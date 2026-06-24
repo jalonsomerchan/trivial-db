@@ -1,0 +1,44 @@
+{
+  "id": "q-001955",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Quién escribió “Fortunata y Jacinta”?",
+  "answers": [
+    {
+      "text": "Benito Pérez Galdós",
+      "correct": true
+    },
+    {
+      "text": "Albert Camus",
+      "correct": false
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Unamuno",
+      "correct": false
+    }
+  ],
+  "explanation": "“Fortunata y Jacinta” es una obra de Benito Pérez Galdós.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "fortunata-y-jacinta",
+    "benito-perez-galdos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

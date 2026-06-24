@@ -1,0 +1,44 @@
+{
+  "id": "q-000101",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el número atómico del niobio?",
+  "answers": [
+    {
+      "text": "45",
+      "correct": false
+    },
+    {
+      "text": "41",
+      "correct": true
+    },
+    {
+      "text": "36",
+      "correct": false
+    },
+    {
+      "text": "37",
+      "correct": false
+    }
+  ],
+  "explanation": "El niobio tiene número atómico 41.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "niobio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

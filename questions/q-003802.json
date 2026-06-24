@@ -1,0 +1,42 @@
+{
+  "id": "q-003802",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es un ingrediente principal de mapo tofu?",
+  "answers": [
+    {
+      "text": "carne asada",
+      "correct": false
+    },
+    {
+      "text": "carne y pimentón",
+      "correct": false
+    },
+    {
+      "text": "pasta de curry",
+      "correct": false
+    },
+    {
+      "text": "tofu",
+      "correct": true
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de mapo tofu es tofu.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "mapo-tofu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

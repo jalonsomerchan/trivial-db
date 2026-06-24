@@ -1,0 +1,43 @@
+{
+  "id": "q-003405",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Quién creó o impulsó originalmente el lenguaje Swift?",
+  "answers": [
+    {
+      "text": "Apple",
+      "correct": true
+    },
+    {
+      "text": "Ross Ihaka y Robert Gentleman",
+      "correct": false
+    },
+    {
+      "text": "Graydon Hoare",
+      "correct": false
+    },
+    {
+      "text": "Alain Colmerauer y Robert Kowalski",
+      "correct": false
+    }
+  ],
+  "explanation": "Swift se asocia históricamente con Apple.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "swift",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

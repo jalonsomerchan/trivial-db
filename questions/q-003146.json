@@ -1,0 +1,44 @@
+{
+  "id": "q-003146",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "Para qué se usa principalmente SIP. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "base de datos",
+      "correct": false
+    },
+    {
+      "text": "recepción de correo",
+      "correct": false
+    },
+    {
+      "text": "autenticación de red",
+      "correct": false
+    },
+    {
+      "text": "señalización VoIP",
+      "correct": true
+    }
+  ],
+  "explanation": "SIP se usa principalmente para señalización VoIP.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "sip",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

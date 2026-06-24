@@ -1,0 +1,44 @@
+{
+  "id": "q-001744",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Quién escribió “Cinco horas con Mario”. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "Miguel Delibes",
+      "correct": true
+    },
+    {
+      "text": "Miguel de Cervantes",
+      "correct": false
+    },
+    {
+      "text": "Mark Twain",
+      "correct": false
+    },
+    {
+      "text": "Antonio Machado",
+      "correct": false
+    }
+  ],
+  "explanation": "“Cinco horas con Mario” es una obra de Miguel Delibes.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "cinco-horas-con-mario",
+    "miguel-delibes",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

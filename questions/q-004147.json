@@ -1,0 +1,43 @@
+{
+  "id": "q-004147",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "medium",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué singular corresponde al plural “actrices”?",
+  "answers": [
+    {
+      "text": "actriz",
+      "correct": true
+    },
+    {
+      "text": "león",
+      "correct": false
+    },
+    {
+      "text": "carácter",
+      "correct": false
+    },
+    {
+      "text": "rubí",
+      "correct": false
+    }
+  ],
+  "explanation": "El singular de “actrices” es “actriz”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "actriz",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

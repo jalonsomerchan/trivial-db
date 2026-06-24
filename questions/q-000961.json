@@ -1,0 +1,43 @@
+{
+  "id": "q-000961",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Islas Malvinas?",
+  "answers": [
+    {
+      "text": "+370",
+      "correct": false
+    },
+    {
+      "text": "+683",
+      "correct": false
+    },
+    {
+      "text": "+500",
+      "correct": true
+    },
+    {
+      "text": "+351",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Islas Malvinas es +500.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "islas-malvinas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

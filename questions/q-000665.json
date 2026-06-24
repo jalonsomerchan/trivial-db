@@ -1,0 +1,43 @@
+{
+  "id": "q-000665",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Estados Unidos?",
+  "answers": [
+    {
+      "text": "Mexico City",
+      "correct": false
+    },
+    {
+      "text": "Havana",
+      "correct": false
+    },
+    {
+      "text": "Washington D.C.",
+      "correct": true
+    },
+    {
+      "text": "Montevideo",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Estados Unidos es Washington D.C..",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

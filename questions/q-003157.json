@@ -1,0 +1,44 @@
+{
+  "id": "q-003157",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “En qué año apareció por primera vez F#”?",
+  "answers": [
+    {
+      "text": "2012",
+      "correct": false
+    },
+    {
+      "text": "1995",
+      "correct": false
+    },
+    {
+      "text": "2009",
+      "correct": false
+    },
+    {
+      "text": "2005",
+      "correct": true
+    }
+  ],
+  "explanation": "F# apareció por primera vez en 2005.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "f",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

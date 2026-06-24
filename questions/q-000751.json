@@ -1,0 +1,43 @@
+{
+  "id": "q-000751",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Nuku'alofa?",
+  "answers": [
+    {
+      "text": "Nueva Caledonia",
+      "correct": false
+    },
+    {
+      "text": "Nauru",
+      "correct": false
+    },
+    {
+      "text": "Samoa",
+      "correct": false
+    },
+    {
+      "text": "Tonga",
+      "correct": true
+    }
+  ],
+  "explanation": "Nuku'alofa es la capital de Tonga.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "tonga"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

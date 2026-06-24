@@ -1,0 +1,43 @@
+{
+  "id": "q-003325",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Quién creó o impulsó originalmente el lenguaje COBOL?",
+  "answers": [
+    {
+      "text": "Microsoft",
+      "correct": false
+    },
+    {
+      "text": "CODASYL",
+      "correct": true
+    },
+    {
+      "text": "James Strachan",
+      "correct": false
+    },
+    {
+      "text": "Alan Kay, Dan Ingalls y Adele Goldberg",
+      "correct": false
+    }
+  ],
+  "explanation": "COBOL se asocia históricamente con CODASYL.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "cobol",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

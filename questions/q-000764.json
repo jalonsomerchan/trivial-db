@@ -1,0 +1,43 @@
+{
+  "id": "q-000764",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO alfa-2 de Rusia?",
+  "answers": [
+    {
+      "text": "GM",
+      "correct": false
+    },
+    {
+      "text": "SH",
+      "correct": false
+    },
+    {
+      "text": "AO",
+      "correct": false
+    },
+    {
+      "text": "RU",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Rusia es RU.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos",
+    "rusia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

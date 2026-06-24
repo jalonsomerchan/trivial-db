@@ -1,0 +1,43 @@
+{
+  "id": "q-001959",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué composición se asocia con Ludwig van Beethoven?",
+  "answers": [
+    {
+      "text": "Madama Butterfly",
+      "correct": false
+    },
+    {
+      "text": "Novena sinfonía",
+      "correct": true
+    },
+    {
+      "text": "Sinfonía del Nuevo Mundo",
+      "correct": false
+    },
+    {
+      "text": "La flauta mágica",
+      "correct": false
+    }
+  ],
+  "explanation": "Ludwig van Beethoven compuso “Novena sinfonía”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "novena-sinfonia",
+    "ludwig-van-beethoven"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

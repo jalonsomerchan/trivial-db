@@ -1,0 +1,42 @@
+{
+  "id": "q-003102",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato MP3?",
+  "answers": [
+    {
+      "text": "intercambio de datos",
+      "correct": false
+    },
+    {
+      "text": "imagen raster sin pérdida",
+      "correct": false
+    },
+    {
+      "text": "datos tabulares",
+      "correct": false
+    },
+    {
+      "text": "audio comprimido",
+      "correct": true
+    }
+  ],
+  "explanation": "MP3 se utiliza habitualmente para audio comprimido.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "mp3"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

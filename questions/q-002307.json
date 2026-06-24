@@ -1,0 +1,43 @@
+{
+  "id": "q-002307",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "hard",
+  "question": "Qué deporte empieza normalmente con 7 jugadores por equipo y anota mediante ensayo. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "rugby seven",
+      "correct": true
+    },
+    {
+      "text": "balonmano",
+      "correct": false
+    },
+    {
+      "text": "fútbol americano",
+      "correct": false
+    },
+    {
+      "text": "curling",
+      "correct": false
+    }
+  ],
+  "explanation": "Esa combinación corresponde a rugby seven.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "rugby-seven",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002639",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué álbum pertenece a Joni Mitchell”?",
+  "answers": [
+    {
+      "text": "Blue",
+      "correct": true
+    },
+    {
+      "text": "The Wall",
+      "correct": false
+    },
+    {
+      "text": "Más",
+      "correct": false
+    },
+    {
+      "text": "El mal querer",
+      "correct": false
+    }
+  ],
+  "explanation": "“Blue” pertenece a Joni Mitchell.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica",
+    "joni-mitchell",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

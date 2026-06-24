@@ -1,0 +1,44 @@
+{
+  "id": "q-001425",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En qué año ocurrió la bombardeo de Guernica”?",
+  "answers": [
+    {
+      "text": "1947",
+      "correct": false
+    },
+    {
+      "text": "1917",
+      "correct": false
+    },
+    {
+      "text": "1927",
+      "correct": false
+    },
+    {
+      "text": "1937",
+      "correct": true
+    }
+  ],
+  "explanation": "La bombardeo de Guernica ocurrió en 1937.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "bombardeo-de-guernica",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

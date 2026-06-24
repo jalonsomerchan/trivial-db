@@ -1,0 +1,43 @@
+{
+  "id": "q-001142",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 1962”?",
+  "answers": [
+    {
+      "text": "entrada en circulación del euro",
+      "correct": false
+    },
+    {
+      "text": "crisis de los misiles de Cuba",
+      "correct": true
+    },
+    {
+      "text": "quiebra de Lehman Brothers",
+      "correct": false
+    },
+    {
+      "text": "independencia de la India",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1962 ocurrió la crisis de los misiles de Cuba.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "crisis-de-los-misiles-de-cuba",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

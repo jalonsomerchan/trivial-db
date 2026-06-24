@@ -1,0 +1,44 @@
+{
+  "id": "q-000215",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el símbolo químico del flúor?",
+  "answers": [
+    {
+      "text": "Na",
+      "correct": false
+    },
+    {
+      "text": "B",
+      "correct": false
+    },
+    {
+      "text": "F",
+      "correct": true
+    },
+    {
+      "text": "O",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del flúor es F.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "fluor",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

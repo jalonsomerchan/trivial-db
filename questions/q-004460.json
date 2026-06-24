@@ -1,0 +1,42 @@
+{
+  "id": "q-004460",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el plural correcto de “buey”?",
+  "answers": [
+    {
+      "text": "bueyes",
+      "correct": true
+    },
+    {
+      "text": "países",
+      "correct": false
+    },
+    {
+      "text": "cruces",
+      "correct": false
+    },
+    {
+      "text": "currículos",
+      "correct": false
+    }
+  ],
+  "explanation": "El plural correcto de “buey” es “bueyes”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "buey"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

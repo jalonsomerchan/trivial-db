@@ -1,0 +1,43 @@
+{
+  "id": "q-000340",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del paladio?",
+  "answers": [
+    {
+      "text": "In",
+      "correct": false
+    },
+    {
+      "text": "Pd",
+      "correct": true
+    },
+    {
+      "text": "Nb",
+      "correct": false
+    },
+    {
+      "text": "Mo",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del paladio es Pd.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "paladio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

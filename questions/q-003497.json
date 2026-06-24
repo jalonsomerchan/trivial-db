@@ -1,0 +1,42 @@
+{
+  "id": "q-003497",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato FLAC?",
+  "answers": [
+    {
+      "text": "imagen raster sin pérdida",
+      "correct": false
+    },
+    {
+      "text": "imagen animada sencilla",
+      "correct": false
+    },
+    {
+      "text": "binario para web",
+      "correct": false
+    },
+    {
+      "text": "audio sin pérdida",
+      "correct": true
+    }
+  ],
+  "explanation": "FLAC se utiliza habitualmente para audio sin pérdida.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "flac"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

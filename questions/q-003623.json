@@ -1,0 +1,42 @@
+{
+  "id": "q-003623",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado tortilla de maíz?",
+  "answers": [
+    {
+      "text": "banh mi",
+      "correct": false
+    },
+    {
+      "text": "pierna de cordero asada",
+      "correct": false
+    },
+    {
+      "text": "fabada asturiana",
+      "correct": false
+    },
+    {
+      "text": "taco",
+      "correct": true
+    }
+  ],
+  "explanation": "taco destaca por el uso de tortilla de maíz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "tortilla-de-maiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-003811",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado huevo y tomate?",
+  "answers": [
+    {
+      "text": "raclette",
+      "correct": false
+    },
+    {
+      "text": "bobó de camarão",
+      "correct": false
+    },
+    {
+      "text": "pozole",
+      "correct": false
+    },
+    {
+      "text": "shakshuka",
+      "correct": true
+    }
+  ],
+  "explanation": "shakshuka destaca por el uso de huevo y tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "huevo-y-tomate"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

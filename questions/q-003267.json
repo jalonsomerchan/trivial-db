@@ -1,0 +1,43 @@
+{
+  "id": "q-003267",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto usa HTTP por defecto?",
+  "answers": [
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "22",
+      "correct": false
+    },
+    {
+      "text": "123",
+      "correct": false
+    },
+    {
+      "text": "80",
+      "correct": true
+    }
+  ],
+  "explanation": "HTTP suele usar el puerto 80 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "http"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

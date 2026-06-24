@@ -1,0 +1,44 @@
+{
+  "id": "q-000328",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el número atómico del einstenio”?",
+  "answers": [
+    {
+      "text": "100",
+      "correct": false
+    },
+    {
+      "text": "93",
+      "correct": false
+    },
+    {
+      "text": "102",
+      "correct": false
+    },
+    {
+      "text": "99",
+      "correct": true
+    }
+  ],
+  "explanation": "El einstenio tiene número atómico 99.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "einstenio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

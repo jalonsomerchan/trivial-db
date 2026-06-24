@@ -1,0 +1,43 @@
+{
+  "id": "q-000508",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Puerto Rico?",
+  "answers": [
+    {
+      "text": ".md",
+      "correct": false
+    },
+    {
+      "text": ".iq",
+      "correct": false
+    },
+    {
+      "text": ".ua",
+      "correct": false
+    },
+    {
+      "text": ".pr",
+      "correct": true
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Puerto Rico es .pr.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "puerto-rico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

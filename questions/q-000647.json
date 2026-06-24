@@ -1,0 +1,43 @@
+{
+  "id": "q-000647",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Khartoum?",
+  "answers": [
+    {
+      "text": "Cabo Verde",
+      "correct": false
+    },
+    {
+      "text": "Guinea",
+      "correct": false
+    },
+    {
+      "text": "Sudán",
+      "correct": true
+    },
+    {
+      "text": "Níger",
+      "correct": false
+    }
+  ],
+  "explanation": "Khartoum es la capital de Sudán.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "sudan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

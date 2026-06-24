@@ -1,0 +1,43 @@
+{
+  "id": "q-001314",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año ocurrió la toma de la Bastilla?",
+  "answers": [
+    {
+      "text": "1789",
+      "correct": true
+    },
+    {
+      "text": "1764",
+      "correct": false
+    },
+    {
+      "text": "1739",
+      "correct": false
+    },
+    {
+      "text": "1814",
+      "correct": false
+    }
+  ],
+  "explanation": "La toma de la Bastilla ocurrió en 1789.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "toma-de-la-bastilla",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

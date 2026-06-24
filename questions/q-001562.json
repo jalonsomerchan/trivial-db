@@ -1,0 +1,43 @@
+{
+  "id": "q-001562",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "ensayo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra fue escrita por Octavio Paz?",
+  "answers": [
+    {
+      "text": "El laberinto de la soledad",
+      "correct": true
+    },
+    {
+      "text": "El sí de las niñas",
+      "correct": false
+    },
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": false
+    },
+    {
+      "text": "La Divina Comedia",
+      "correct": false
+    }
+  ],
+  "explanation": "Octavio Paz escribió “El laberinto de la soledad”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "el-laberinto-de-la-soledad",
+    "octavio-paz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

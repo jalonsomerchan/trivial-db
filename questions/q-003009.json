@@ -1,0 +1,43 @@
+{
+  "id": "q-003009",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "Para qué se usa habitualmente el formato HTML. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "audio sin pérdida",
+      "correct": false
+    },
+    {
+      "text": "imagen animada sencilla",
+      "correct": false
+    },
+    {
+      "text": "páginas web",
+      "correct": true
+    },
+    {
+      "text": "gráficos vectoriales",
+      "correct": false
+    }
+  ],
+  "explanation": "HTML se utiliza habitualmente para páginas web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "html",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

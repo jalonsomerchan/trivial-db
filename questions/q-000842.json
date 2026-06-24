@@ -1,0 +1,43 @@
+{
+  "id": "q-000842",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Majuro?",
+  "answers": [
+    {
+      "text": "Papúa Nueva Guinea",
+      "correct": false
+    },
+    {
+      "text": "Islas Cocos o Islas Keeling",
+      "correct": false
+    },
+    {
+      "text": "Islas Marshall",
+      "correct": true
+    },
+    {
+      "text": "Polinesia Francesa",
+      "correct": false
+    }
+  ],
+  "explanation": "Majuro es la capital de Islas Marshall.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "islas-marshall"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

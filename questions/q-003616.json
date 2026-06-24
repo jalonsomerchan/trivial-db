@@ -1,0 +1,42 @@
+{
+  "id": "q-003616",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en cocinar lentamente en grasa o almíbar a baja temperatura?",
+  "answers": [
+    {
+      "text": "caramelizar",
+      "correct": false
+    },
+    {
+      "text": "escabechar",
+      "correct": false
+    },
+    {
+      "text": "confitar",
+      "correct": true
+    },
+    {
+      "text": "fermentar",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es confitar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "confitar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

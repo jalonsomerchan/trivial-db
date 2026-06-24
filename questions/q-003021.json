@@ -1,0 +1,44 @@
+{
+  "id": "q-003021",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué protocolo se asocia normalmente al puerto 25”?",
+  "answers": [
+    {
+      "text": "DNS",
+      "correct": false
+    },
+    {
+      "text": "Redis",
+      "correct": false
+    },
+    {
+      "text": "SMTP",
+      "correct": true
+    },
+    {
+      "text": "HTTP",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 25 se asocia habitualmente con SMTP.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "smtp",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

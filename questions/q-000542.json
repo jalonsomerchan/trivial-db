@@ -1,0 +1,43 @@
+{
+  "id": "q-000542",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de República de Sudáfrica?",
+  "answers": [
+    {
+      "text": "Pretoria",
+      "correct": true
+    },
+    {
+      "text": "Bujumbura",
+      "correct": false
+    },
+    {
+      "text": "Libreville",
+      "correct": false
+    },
+    {
+      "text": "Cairo",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de República de Sudáfrica es Pretoria.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "republica-de-sudafrica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

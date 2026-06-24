@@ -1,0 +1,43 @@
+{
+  "id": "q-002931",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué película fue dirigida por David Fincher en esta selección?",
+  "answers": [
+    {
+      "text": "Amores perros",
+      "correct": false
+    },
+    {
+      "text": "Frozen",
+      "correct": false
+    },
+    {
+      "text": "Taxi Driver",
+      "correct": false
+    },
+    {
+      "text": "El club de la lucha",
+      "correct": true
+    }
+  ],
+  "explanation": "David Fincher dirigió “El club de la lucha”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "david-fincher",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

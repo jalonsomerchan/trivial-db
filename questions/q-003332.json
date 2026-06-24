@@ -1,0 +1,42 @@
+{
+  "id": "q-003332",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién creó o impulsó originalmente el lenguaje R?",
+  "answers": [
+    {
+      "text": "Dennis Ritchie",
+      "correct": false
+    },
+    {
+      "text": "MIT Media Lab",
+      "correct": false
+    },
+    {
+      "text": "Ross Ihaka y Robert Gentleman",
+      "correct": true
+    },
+    {
+      "text": "Robert Griesemer, Rob Pike y Ken Thompson",
+      "correct": false
+    }
+  ],
+  "explanation": "R se asocia históricamente con Ross Ihaka y Robert Gentleman.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "r"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000292",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el símbolo químico del oganesón?",
+  "answers": [
+    {
+      "text": "Fl",
+      "correct": false
+    },
+    {
+      "text": "Ts",
+      "correct": false
+    },
+    {
+      "text": "Og",
+      "correct": true
+    },
+    {
+      "text": "Mc",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del oganesón es Og.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "oganeson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

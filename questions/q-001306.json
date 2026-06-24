@@ -1,0 +1,43 @@
+{
+  "id": "q-001306",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál de estos acontecimientos fue posterior a la Constitución de Cádiz”?",
+  "answers": [
+    {
+      "text": "caída de Constantinopla",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Waterloo",
+      "correct": true
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1812, año de la Constitución de Cádiz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

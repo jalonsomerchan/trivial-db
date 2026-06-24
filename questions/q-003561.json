@@ -1,0 +1,44 @@
+{
+  "id": "q-003561",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué plato se asocia con España y suele llevar pulpo”?",
+  "answers": [
+    {
+      "text": "pesto genovés",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "pulpo a la gallega",
+      "correct": true
+    },
+    {
+      "text": "fish and chips",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es pulpo a la gallega.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "espana",
+    "pulpo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000335",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué elemento tiene el número atómico 105”?",
+  "answers": [
+    {
+      "text": "darmstadtio",
+      "correct": false
+    },
+    {
+      "text": "seaborgio",
+      "correct": false
+    },
+    {
+      "text": "meitnerio",
+      "correct": false
+    },
+    {
+      "text": "dubnio",
+      "correct": true
+    }
+  ],
+  "explanation": "El número atómico 105 corresponde al dubnio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "dubnio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

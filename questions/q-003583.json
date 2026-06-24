@@ -1,0 +1,43 @@
+{
+  "id": "q-003583",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con China y suele llevar pato?",
+  "answers": [
+    {
+      "text": "blini",
+      "correct": false
+    },
+    {
+      "text": "poutine",
+      "correct": false
+    },
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "pato laqueado",
+      "correct": true
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es pato laqueado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "china",
+    "pato"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

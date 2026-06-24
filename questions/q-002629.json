@@ -1,0 +1,43 @@
+{
+  "id": "q-002629",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Lana y Lilly Wachowski en esta selección?",
+  "answers": [
+    {
+      "text": "Matrix",
+      "correct": true
+    },
+    {
+      "text": "Salvar al soldado Ryan",
+      "correct": false
+    },
+    {
+      "text": "Tiburón",
+      "correct": false
+    },
+    {
+      "text": "Volver",
+      "correct": false
+    }
+  ],
+  "explanation": "Lana y Lilly Wachowski dirigió “Matrix”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lana-y-lilly-wachowski",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

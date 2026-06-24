@@ -1,0 +1,44 @@
+{
+  "id": "q-001644",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Qué composición se asocia con Gioachino Rossini?",
+  "answers": [
+    {
+      "text": "El barbero de Sevilla",
+      "correct": true
+    },
+    {
+      "text": "Cuadros de una exposición",
+      "correct": false
+    },
+    {
+      "text": "El Mesías",
+      "correct": false
+    },
+    {
+      "text": "El lago de los cisnes",
+      "correct": false
+    }
+  ],
+  "explanation": "Gioachino Rossini compuso “El barbero de Sevilla”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "el-barbero-de-sevilla",
+    "gioachino-rossini",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

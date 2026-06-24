@@ -1,0 +1,44 @@
+{
+  "id": "q-003279",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Para qué se usa principalmente Kerberos”?",
+  "answers": [
+    {
+      "text": "envío de correo",
+      "correct": false
+    },
+    {
+      "text": "sincronización horaria",
+      "correct": false
+    },
+    {
+      "text": "autenticación de red",
+      "correct": true
+    },
+    {
+      "text": "base de datos",
+      "correct": false
+    }
+  ],
+  "explanation": "Kerberos se usa principalmente para autenticación de red.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "kerberos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

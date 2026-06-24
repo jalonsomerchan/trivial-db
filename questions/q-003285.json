@@ -1,0 +1,43 @@
+{
+  "id": "q-003285",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Quién creó o impulsó originalmente el lenguaje Go”?",
+  "answers": [
+    {
+      "text": "Robert Griesemer, Rob Pike y Ken Thompson",
+      "correct": true
+    },
+    {
+      "text": "Ross Ihaka y Robert Gentleman",
+      "correct": false
+    },
+    {
+      "text": "MIT Media Lab",
+      "correct": false
+    },
+    {
+      "text": "Rich Hickey",
+      "correct": false
+    }
+  ],
+  "explanation": "Go se asocia históricamente con Robert Griesemer, Rob Pike y Ken Thompson.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "go",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

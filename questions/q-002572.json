@@ -1,0 +1,44 @@
+{
+  "id": "q-002572",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “En qué año se estrenó “Ciudadano Kane””. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "1994",
+      "correct": false
+    },
+    {
+      "text": "1998",
+      "correct": false
+    },
+    {
+      "text": "1941",
+      "correct": true
+    },
+    {
+      "text": "2009",
+      "correct": false
+    }
+  ],
+  "explanation": "“Ciudadano Kane” se estrenó en 1941.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "ciudadano-kane",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

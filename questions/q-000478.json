@@ -1,0 +1,43 @@
+{
+  "id": "q-000478",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué unidad del Sistema Internacional se usa para medir longitud?",
+  "answers": [
+    {
+      "text": "watt",
+      "correct": false
+    },
+    {
+      "text": "metro",
+      "correct": true
+    },
+    {
+      "text": "pascal",
+      "correct": false
+    },
+    {
+      "text": "candela",
+      "correct": false
+    }
+  ],
+  "explanation": "La unidad correspondiente para longitud es el metro.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "unidades",
+    "metro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

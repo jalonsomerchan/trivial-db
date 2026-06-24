@@ -1,0 +1,42 @@
+{
+  "id": "q-003824",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en punto de cocción firme de la pasta?",
+  "answers": [
+    {
+      "text": "brunoise",
+      "correct": false
+    },
+    {
+      "text": "sellar",
+      "correct": false
+    },
+    {
+      "text": "brasear",
+      "correct": false
+    },
+    {
+      "text": "al dente",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica descrita es al dente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "al-dente"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

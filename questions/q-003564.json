@@ -1,0 +1,42 @@
+{
+  "id": "q-003564",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa desespumar?",
+  "answers": [
+    {
+      "text": "punto de cocción firme de la pasta",
+      "correct": false
+    },
+    {
+      "text": "dorar rápidamente la superficie de un alimento",
+      "correct": false
+    },
+    {
+      "text": "calentar para reducir microorganismos",
+      "correct": false
+    },
+    {
+      "text": "retirar espuma de una preparación",
+      "correct": true
+    }
+  ],
+  "explanation": "desespumar significa retirar espuma de una preparación.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "desespumar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

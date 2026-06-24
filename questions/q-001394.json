@@ -1,0 +1,42 @@
+{
+  "id": "q-001394",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la salida efectiva del Reino Unido de la Unión Europea?",
+  "answers": [
+    {
+      "text": "quiebra de Lehman Brothers",
+      "correct": false
+    },
+    {
+      "text": "salida efectiva del Reino Unido de la Unión Europea",
+      "correct": true
+    },
+    {
+      "text": "Guerra de Secesión estadounidense",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 2020, año de la salida efectiva del Reino Unido de la Unión Europea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

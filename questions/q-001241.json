@@ -1,0 +1,44 @@
+{
+  "id": "q-001241",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “A qué siglo pertenece el año 1963, relacionado con la asesinato de John F. Kennedy”?",
+  "answers": [
+    {
+      "text": "siglo XIX",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XVIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XIII",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1963 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "asesinato-de-john-f-kennedy",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

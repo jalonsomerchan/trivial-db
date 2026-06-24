@@ -1,0 +1,44 @@
+{
+  "id": "q-001469",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1492, relacionado con la llegada de Cristóbal Colón a América?",
+  "answers": [
+    {
+      "text": "siglo XX",
+      "correct": false
+    },
+    {
+      "text": "siglo VIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XV",
+      "correct": true
+    },
+    {
+      "text": "siglo IX",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1492 pertenece al siglo XV.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "llegada-de-cristobal-colon-a-america",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-004882",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 50% de 80?",
+  "answers": [
+    {
+      "text": "40",
+      "correct": true
+    },
+    {
+      "text": "45",
+      "correct": false
+    },
+    {
+      "text": "35",
+      "correct": false
+    },
+    {
+      "text": "50",
+      "correct": false
+    }
+  ],
+  "explanation": "El 50% de 80 es 80 × 50/100 = 40.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

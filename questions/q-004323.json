@@ -1,0 +1,43 @@
+{
+  "id": "q-004323",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "ortografia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál de estas palabras está escrita correctamente?",
+  "answers": [
+    {
+      "text": "camíon",
+      "correct": false
+    },
+    {
+      "text": "camión",
+      "correct": true
+    },
+    {
+      "text": "camion",
+      "correct": false
+    },
+    {
+      "text": "cámion",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma correcta es “camión”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "ortografia",
+    "acentuacion",
+    "camion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

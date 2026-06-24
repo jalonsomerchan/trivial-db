@@ -1,0 +1,43 @@
+{
+  "id": "q-002385",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuántos jugadores por equipo comienzan un partido de curling”?",
+  "answers": [
+    {
+      "text": "11",
+      "correct": false
+    },
+    {
+      "text": "10",
+      "correct": false
+    },
+    {
+      "text": "6",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": true
+    }
+  ],
+  "explanation": "En curling, cada equipo comienza con 4 jugadores en el campo o pista.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "curling",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

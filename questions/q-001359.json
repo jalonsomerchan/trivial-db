@@ -1,0 +1,43 @@
+{
+  "id": "q-001359",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 2004”?",
+  "answers": [
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "salida efectiva del Reino Unido de la Unión Europea",
+      "correct": false
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    },
+    {
+      "text": "ampliación de la Unión Europea hacia Europa central y oriental",
+      "correct": true
+    }
+  ],
+  "explanation": "En 2004 ocurrió la ampliación de la Unión Europea hacia Europa central y oriental.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "ampliacion-de-la-union-europea-hacia-europa-central-y-oriental",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

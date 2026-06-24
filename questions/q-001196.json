@@ -1,0 +1,43 @@
+{
+  "id": "q-001196",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál de estos acontecimientos fue anterior a la guerra hispano-estadounidense. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "comienzo de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "fin de la Primera Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "primera Exposición Universal de París con la Torre Eiffel",
+      "correct": true
+    },
+    {
+      "text": "fin del apartheid legal en Sudáfrica con las primeras elecciones multirraciales",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió antes de 1898, año de la guerra hispano-estadounidense.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

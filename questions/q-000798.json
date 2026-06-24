@@ -1,0 +1,43 @@
+{
+  "id": "q-000798",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Kazajistán?",
+  "answers": [
+    {
+      "text": ".ai",
+      "correct": false
+    },
+    {
+      "text": ".io",
+      "correct": false
+    },
+    {
+      "text": ".kz",
+      "correct": true
+    },
+    {
+      "text": ".lr",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Kazajistán es .kz.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "kazajistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

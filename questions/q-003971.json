@@ -1,0 +1,42 @@
+{
+  "id": "q-003971",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en recuperar jugos pegados con líquido?",
+  "answers": [
+    {
+      "text": "sofreír",
+      "correct": false
+    },
+    {
+      "text": "pasteurizar",
+      "correct": false
+    },
+    {
+      "text": "escaldar",
+      "correct": false
+    },
+    {
+      "text": "desglasar",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica descrita es desglasar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "desglasar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

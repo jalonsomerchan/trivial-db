@@ -1,0 +1,42 @@
+{
+  "id": "q-001389",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la fin del apartheid legal en Sudáfrica con las primeras elecciones multirraciales?",
+  "answers": [
+    {
+      "text": "Tratado de Maastricht",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Trafalgar",
+      "correct": false
+    },
+    {
+      "text": "atentados del 11 de septiembre en Estados Unidos",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1994, año de la fin del apartheid legal en Sudáfrica con las primeras elecciones multirraciales.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

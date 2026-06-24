@@ -1,0 +1,43 @@
+{
+  "id": "q-000782",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO alfa-3 de Mónaco?",
+  "answers": [
+    {
+      "text": "DZA",
+      "correct": false
+    },
+    {
+      "text": "IRQ",
+      "correct": false
+    },
+    {
+      "text": "SGP",
+      "correct": false
+    },
+    {
+      "text": "MCO",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO alfa-3 de Mónaco es MCO.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos",
+    "monaco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

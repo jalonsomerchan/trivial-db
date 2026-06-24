@@ -1,0 +1,44 @@
+{
+  "id": "q-001038",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: En qué año ocurrió la comienzo de la Revolución francesa?",
+  "answers": [
+    {
+      "text": "1814",
+      "correct": false
+    },
+    {
+      "text": "1764",
+      "correct": false
+    },
+    {
+      "text": "1789",
+      "correct": true
+    },
+    {
+      "text": "1739",
+      "correct": false
+    }
+  ],
+  "explanation": "La comienzo de la Revolución francesa ocurrió en 1789.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "comienzo-de-la-revolucion-francesa",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002720",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Square?",
+  "answers": [
+    {
+      "text": "World of Warcraft",
+      "correct": false
+    },
+    {
+      "text": "Elden Ring",
+      "correct": false
+    },
+    {
+      "text": "Space Invaders",
+      "correct": false
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": true
+    }
+  ],
+  "explanation": "Square desarrolló o publicó “Final Fantasy VII”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "square",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

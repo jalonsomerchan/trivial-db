@@ -1,0 +1,43 @@
+{
+  "id": "q-000428",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento tiene el número atómico 61?",
+  "answers": [
+    {
+      "text": "disprosio",
+      "correct": false
+    },
+    {
+      "text": "gadolinio",
+      "correct": false
+    },
+    {
+      "text": "samario",
+      "correct": false
+    },
+    {
+      "text": "prometio",
+      "correct": true
+    }
+  ],
+  "explanation": "El número atómico 61 corresponde al prometio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "prometio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

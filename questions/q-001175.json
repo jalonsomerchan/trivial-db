@@ -1,0 +1,44 @@
+{
+  "id": "q-001175",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “A qué siglo pertenece el año 1978, relacionado con la aprobación de la Constitución española”?",
+  "answers": [
+    {
+      "text": "siglo XVII",
+      "correct": false
+    },
+    {
+      "text": "siglo V",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XIII",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1978 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "aprobacion-de-la-constitucion-espanola",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

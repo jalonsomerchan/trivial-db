@@ -1,0 +1,43 @@
+{
+  "id": "q-002988",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compañía o creador desarrolló “Resident Evil”?",
+  "answers": [
+    {
+      "text": "Capcom",
+      "correct": true
+    },
+    {
+      "text": "Santa Monica Studio",
+      "correct": false
+    },
+    {
+      "text": "Riot Games",
+      "correct": false
+    },
+    {
+      "text": "Square",
+      "correct": false
+    }
+  ],
+  "explanation": "“Resident Evil” se asocia con Capcom.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "resident-evil",
+    "capcom"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

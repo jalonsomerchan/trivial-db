@@ -1,0 +1,44 @@
+{
+  "id": "q-003943",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Con qué país o región se asocia tradicionalmente el plato tom yum?",
+  "answers": [
+    {
+      "text": "América Latina y España",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    },
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Tailandia",
+      "correct": true
+    }
+  ],
+  "explanation": "tom yum se asocia tradicionalmente con Tailandia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "tom-yum",
+    "tailandia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001328",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Qué acontecimiento histórico ocurrió en 1898”?",
+  "answers": [
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": true
+    },
+    {
+      "text": "atentados del 11 de septiembre en Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": false
+    },
+    {
+      "text": "Guerra de Sucesión española",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1898 ocurrió la guerra hispano-estadounidense.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerra-hispano-estadounidense",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

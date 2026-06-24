@@ -1,0 +1,43 @@
+{
+  "id": "q-001200",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 1975”?",
+  "answers": [
+    {
+      "text": "comienzo de la Primera Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "bombardeo de Guernica",
+      "correct": false
+    },
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": false
+    },
+    {
+      "text": "muerte de Franco",
+      "correct": true
+    }
+  ],
+  "explanation": "En 1975 ocurrió la muerte de Franco.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "muerte-de-franco",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

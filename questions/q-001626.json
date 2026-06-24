@@ -1,0 +1,43 @@
+{
+  "id": "q-001626",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra fue escrita por Laura Esquivel?",
+  "answers": [
+    {
+      "text": "Campos de Castilla",
+      "correct": false
+    },
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    },
+    {
+      "text": "El extranjero",
+      "correct": false
+    },
+    {
+      "text": "Como agua para chocolate",
+      "correct": true
+    }
+  ],
+  "explanation": "Laura Esquivel escribió “Como agua para chocolate”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "como-agua-para-chocolate",
+    "laura-esquivel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

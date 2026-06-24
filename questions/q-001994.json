@@ -1,0 +1,44 @@
+{
+  "id": "q-001994",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué obra fue escrita por Marcel Proust”?",
+  "answers": [
+    {
+      "text": "En busca del tiempo perdido",
+      "correct": true
+    },
+    {
+      "text": "El burlador de Sevilla",
+      "correct": false
+    },
+    {
+      "text": "La colmena",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    }
+  ],
+  "explanation": "Marcel Proust escribió “En busca del tiempo perdido”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "en-busca-del-tiempo-perdido",
+    "marcel-proust",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

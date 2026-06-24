@@ -1,0 +1,42 @@
+{
+  "id": "q-003723",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado carne picada?",
+  "answers": [
+    {
+      "text": "churrasco",
+      "correct": false
+    },
+    {
+      "text": "hamburguesa",
+      "correct": true
+    },
+    {
+      "text": "tabulé",
+      "correct": false
+    },
+    {
+      "text": "shepherd’s pie",
+      "correct": false
+    }
+  ],
+  "explanation": "hamburguesa destaca por el uso de carne picada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "carne-picada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

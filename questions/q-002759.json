@@ -1,0 +1,43 @@
+{
+  "id": "q-002759",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Mojang?",
+  "answers": [
+    {
+      "text": "Animal Crossing",
+      "correct": false
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": true
+    },
+    {
+      "text": "Dota 2",
+      "correct": false
+    }
+  ],
+  "explanation": "Mojang desarrolló o publicó “Minecraft”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mojang",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

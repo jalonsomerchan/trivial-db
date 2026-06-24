@@ -1,0 +1,43 @@
+{
+  "id": "q-002646",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Gary Trousdale y Kirk Wise en esta selección?",
+  "answers": [
+    {
+      "text": "El padrino",
+      "correct": false
+    },
+    {
+      "text": "La bella y la bestia",
+      "correct": true
+    },
+    {
+      "text": "Mi vecino Totoro",
+      "correct": false
+    },
+    {
+      "text": "Regreso al futuro",
+      "correct": false
+    }
+  ],
+  "explanation": "Gary Trousdale y Kirk Wise dirigió “La bella y la bestia”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "gary-trousdale-y-kirk-wise",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

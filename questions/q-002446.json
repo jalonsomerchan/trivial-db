@@ -1,0 +1,44 @@
+{
+  "id": "q-002446",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué término pertenece al vocabulario de baloncesto”?",
+  "answers": [
+    {
+      "text": "drive",
+      "correct": false
+    },
+    {
+      "text": "field goal",
+      "correct": false
+    },
+    {
+      "text": "knockout",
+      "correct": false
+    },
+    {
+      "text": "pick and roll",
+      "correct": true
+    }
+  ],
+  "explanation": "“pick and roll” forma parte del vocabulario de baloncesto.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "terminologia",
+    "baloncesto",
+    "pick-and-roll",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

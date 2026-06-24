@@ -1,0 +1,44 @@
+{
+  "id": "q-002913",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Quién dirigió la película “Titanic””?",
+  "answers": [
+    {
+      "text": "Guillermo del Toro",
+      "correct": false
+    },
+    {
+      "text": "Jean-Pierre Jeunet",
+      "correct": false
+    },
+    {
+      "text": "Orson Welles",
+      "correct": false
+    },
+    {
+      "text": "James Cameron",
+      "correct": true
+    }
+  ],
+  "explanation": "“Titanic” fue dirigida por James Cameron.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "titanic",
+    "james-cameron",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

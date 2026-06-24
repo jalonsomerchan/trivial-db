@@ -1,0 +1,44 @@
+{
+  "id": "q-002659",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la película “Amélie”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Jean-Pierre Jeunet",
+      "correct": true
+    },
+    {
+      "text": "John Lasseter",
+      "correct": false
+    },
+    {
+      "text": "Alejandro Amenábar",
+      "correct": false
+    },
+    {
+      "text": "Orson Welles",
+      "correct": false
+    }
+  ],
+  "explanation": "“Amélie” fue dirigida por Jean-Pierre Jeunet.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "amelie",
+    "jean-pierre-jeunet",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

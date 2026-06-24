@@ -1,0 +1,42 @@
+{
+  "id": "q-001464",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 2016?",
+  "answers": [
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "referéndum del Brexit",
+      "correct": true
+    },
+    {
+      "text": "comienzo de la Primera Guerra Mundial",
+      "correct": false
+    }
+  ],
+  "explanation": "En 2016 ocurrió la referéndum del Brexit.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "referendum-del-brexit"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

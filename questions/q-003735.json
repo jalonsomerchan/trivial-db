@@ -1,0 +1,43 @@
+{
+  "id": "q-003735",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Brasil y suele llevar camarón?",
+  "answers": [
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "bobó de camarão",
+      "correct": true
+    },
+    {
+      "text": "jambalaya",
+      "correct": false
+    },
+    {
+      "text": "sarma",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es bobó de camarão.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "brasil",
+    "camaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-004083",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "En gramática, ¿qué es un diptongo?",
+  "answers": [
+    {
+      "text": "separación de dos vocales en sílabas distintas",
+      "correct": false
+    },
+    {
+      "text": "unión de dos vocales en una misma sílaba",
+      "correct": true
+    },
+    {
+      "text": "palabra que expresa acciones, procesos o estados",
+      "correct": false
+    },
+    {
+      "text": "palabra con significado opuesto",
+      "correct": false
+    }
+  ],
+  "explanation": "Un diptongo es una unión de dos vocales en una misma sílaba.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "diptongo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

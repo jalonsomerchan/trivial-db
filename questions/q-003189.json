@@ -1,0 +1,43 @@
+{
+  "id": "q-003189",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Quién creó o impulsó originalmente el lenguaje Erlang?",
+  "answers": [
+    {
+      "text": "Brendan Eich",
+      "correct": false
+    },
+    {
+      "text": "Jeff Bezanson, Stefan Karpinski, Viral Shah y Alan Edelman",
+      "correct": false
+    },
+    {
+      "text": "Ericsson",
+      "correct": true
+    },
+    {
+      "text": "Walter Bright",
+      "correct": false
+    }
+  ],
+  "explanation": "Erlang se asocia históricamente con Ericsson.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "erlang",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

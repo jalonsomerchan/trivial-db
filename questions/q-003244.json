@@ -1,0 +1,44 @@
+{
+  "id": "q-003244",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "Para qué se usa principalmente POP3. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "compartición de archivos",
+      "correct": false
+    },
+    {
+      "text": "base de datos en memoria",
+      "correct": false
+    },
+    {
+      "text": "recepción de correo",
+      "correct": true
+    },
+    {
+      "text": "gestión de correo",
+      "correct": false
+    }
+  ],
+  "explanation": "POP3 se usa principalmente para recepción de correo.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "pop3",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

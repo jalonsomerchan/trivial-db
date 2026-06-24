@@ -1,0 +1,42 @@
+{
+  "id": "q-003186",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato Markdown?",
+  "answers": [
+    {
+      "text": "imagen para web",
+      "correct": false
+    },
+    {
+      "text": "texto con formato ligero",
+      "correct": true
+    },
+    {
+      "text": "archivo comprimido",
+      "correct": false
+    },
+    {
+      "text": "estilos de páginas web",
+      "correct": false
+    }
+  ],
+  "explanation": "Markdown se utiliza habitualmente para texto con formato ligero.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "markdown"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

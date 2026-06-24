@@ -1,0 +1,44 @@
+{
+  "id": "q-001834",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: ““Campos de Castilla” pertenece principalmente al ámbito de...”?",
+  "answers": [
+    {
+      "text": "literatura",
+      "correct": false
+    },
+    {
+      "text": "teatro",
+      "correct": false
+    },
+    {
+      "text": "poesia",
+      "correct": true
+    },
+    {
+      "text": "épica",
+      "correct": false
+    }
+  ],
+  "explanation": "“Campos de Castilla” se clasifica dentro de poesia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "poesia",
+    "campos-de-castilla",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

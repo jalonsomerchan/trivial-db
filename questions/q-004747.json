@@ -1,0 +1,42 @@
+{
+  "id": "q-004747",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 75% de 360?",
+  "answers": [
+    {
+      "text": "275",
+      "correct": false
+    },
+    {
+      "text": "270",
+      "correct": true
+    },
+    {
+      "text": "280",
+      "correct": false
+    },
+    {
+      "text": "265",
+      "correct": false
+    }
+  ],
+  "explanation": "El 75% de 360 es 360 × 75/100 = 270.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000223",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Cu?",
+  "answers": [
+    {
+      "text": "hierro",
+      "correct": false
+    },
+    {
+      "text": "germanio",
+      "correct": false
+    },
+    {
+      "text": "cobre",
+      "correct": true
+    },
+    {
+      "text": "vanadio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Cu corresponde al cobre.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "cobre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

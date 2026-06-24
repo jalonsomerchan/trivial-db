@@ -1,0 +1,43 @@
+{
+  "id": "q-001295",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: Cuál de estos acontecimientos fue anterior a la llegada del Apolo 11 a la Luna?",
+  "answers": [
+    {
+      "text": "Tratado de Lisboa en vigor",
+      "correct": false
+    },
+    {
+      "text": "asesinato de John F. Kennedy",
+      "correct": true
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "fin del apartheid legal en Sudáfrica con las primeras elecciones multirraciales",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió antes de 1969, año de la llegada del Apolo 11 a la Luna.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

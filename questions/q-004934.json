@@ -1,0 +1,43 @@
+{
+  "id": "q-004934",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "En matematicas, ¿qué opción responde correctamente a esta pista: Cuánto es 32 - 32?",
+  "answers": [
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "0 (3)",
+      "correct": false
+    },
+    {
+      "text": "0",
+      "correct": true
+    }
+  ],
+  "explanation": "La resta 32 - 32 da 0.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

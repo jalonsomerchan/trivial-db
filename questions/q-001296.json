@@ -1,0 +1,43 @@
+{
+  "id": "q-001296",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "hard",
+  "question": "Qué acontecimiento histórico ocurrió en 79. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "coronación imperial de Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "destrucción de Pompeya por la erupción del Vesubio",
+      "correct": true
+    },
+    {
+      "text": "fundación de la Universidad de Salamanca",
+      "correct": false
+    }
+  ],
+  "explanation": "En 79 ocurrió la destrucción de Pompeya por la erupción del Vesubio.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "destruccion-de-pompeya-por-la-erupcion-del-vesubio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

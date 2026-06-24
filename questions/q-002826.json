@@ -1,0 +1,43 @@
+{
+  "id": "q-002826",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué álbum pertenece a Beyoncé”?",
+  "answers": [
+    {
+      "text": "Mediterráneo",
+      "correct": false
+    },
+    {
+      "text": "Lemonade",
+      "correct": true
+    },
+    {
+      "text": "Re",
+      "correct": false
+    },
+    {
+      "text": "La leyenda del tiempo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Lemonade” pertenece a Beyoncé.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica",
+    "beyonce",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

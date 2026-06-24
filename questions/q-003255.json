@@ -1,0 +1,42 @@
+{
+  "id": "q-003255",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué formato se utiliza habitualmente para imagen animada sencilla?",
+  "answers": [
+    {
+      "text": "JSON",
+      "correct": false
+    },
+    {
+      "text": "MP4",
+      "correct": false
+    },
+    {
+      "text": "GIF",
+      "correct": true
+    },
+    {
+      "text": "ZIP",
+      "correct": false
+    }
+  ],
+  "explanation": "El formato GIF se utiliza habitualmente para imagen animada sencilla.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "gif"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

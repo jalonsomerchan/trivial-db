@@ -1,0 +1,44 @@
+{
+  "id": "q-001913",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de arte y literatura: “Quién escribió “Bodas de sangre”””?",
+  "answers": [
+    {
+      "text": "Aldous Huxley",
+      "correct": false
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": true
+    },
+    {
+      "text": "Franz Kafka",
+      "correct": false
+    },
+    {
+      "text": "Lope de Vega",
+      "correct": false
+    }
+  ],
+  "explanation": "“Bodas de sangre” es una obra de Federico García Lorca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "bodas-de-sangre",
+    "federico-garcia-lorca",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

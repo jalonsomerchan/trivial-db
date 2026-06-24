@@ -1,0 +1,44 @@
+{
+  "id": "q-003935",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Con qué país o región se asocia tradicionalmente el plato bibimbap?",
+  "answers": [
+    {
+      "text": "Norte de África",
+      "correct": false
+    },
+    {
+      "text": "Mediterráneo oriental",
+      "correct": false
+    },
+    {
+      "text": "Georgia",
+      "correct": false
+    },
+    {
+      "text": "Corea",
+      "correct": true
+    }
+  ],
+  "explanation": "bibimbap se asocia tradicionalmente con Corea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "bibimbap",
+    "corea",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

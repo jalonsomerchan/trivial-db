@@ -1,0 +1,44 @@
+{
+  "id": "q-002787",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "Qué compañía o creador desarrolló “The Sims”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Namco",
+      "correct": false
+    },
+    {
+      "text": "Maxis",
+      "correct": true
+    },
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "Blizzard Entertainment",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Sims” se asocia con Maxis.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-sims",
+    "maxis",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

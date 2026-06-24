@@ -1,0 +1,43 @@
+{
+  "id": "q-000879",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Polinesia Francesa?",
+  "answers": [
+    {
+      "text": ".es",
+      "correct": false
+    },
+    {
+      "text": ".pm",
+      "correct": false
+    },
+    {
+      "text": ".nr",
+      "correct": false
+    },
+    {
+      "text": ".pf",
+      "correct": true
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Polinesia Francesa es .pf.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "polinesia-francesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

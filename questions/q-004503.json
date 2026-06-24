@@ -1,0 +1,42 @@
+{
+  "id": "q-004503",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 5 × 7?",
+  "answers": [
+    {
+      "text": "33",
+      "correct": false
+    },
+    {
+      "text": "28",
+      "correct": false
+    },
+    {
+      "text": "40",
+      "correct": false
+    },
+    {
+      "text": "35",
+      "correct": true
+    }
+  ],
+  "explanation": "El producto de 5 por 7 es 35.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

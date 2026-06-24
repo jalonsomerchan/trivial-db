@@ -1,0 +1,42 @@
+{
+  "id": "q-002791",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Guillermo del Toro en esta selección?",
+  "answers": [
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    },
+    {
+      "text": "Up",
+      "correct": false
+    },
+    {
+      "text": "El laberinto del fauno",
+      "correct": true
+    },
+    {
+      "text": "Frozen",
+      "correct": false
+    }
+  ],
+  "explanation": "Guillermo del Toro dirigió “El laberinto del fauno”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "guillermo-del-toro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

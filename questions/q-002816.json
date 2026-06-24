@@ -1,0 +1,44 @@
+{
+  "id": "q-002816",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué compañía o creador desarrolló “Portal””?",
+  "answers": [
+    {
+      "text": "ConcernedApe",
+      "correct": false
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    },
+    {
+      "text": "Blizzard Entertainment",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": true
+    }
+  ],
+  "explanation": "“Portal” se asocia con Valve.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "portal",
+    "valve",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

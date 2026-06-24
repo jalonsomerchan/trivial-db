@@ -1,0 +1,43 @@
+{
+  "id": "q-000469",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento tiene el número atómico 118?",
+  "answers": [
+    {
+      "text": "copernicio",
+      "correct": false
+    },
+    {
+      "text": "oganesón",
+      "correct": true
+    },
+    {
+      "text": "moscovio",
+      "correct": false
+    },
+    {
+      "text": "nihonio",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 118 corresponde al oganesón.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "oganeson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

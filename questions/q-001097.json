@@ -1,0 +1,44 @@
+{
+  "id": "q-001097",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la Revolución cubana?",
+  "answers": [
+    {
+      "text": "1969",
+      "correct": false
+    },
+    {
+      "text": "1949",
+      "correct": false
+    },
+    {
+      "text": "1959",
+      "correct": true
+    },
+    {
+      "text": "1939",
+      "correct": false
+    }
+  ],
+  "explanation": "La Revolución cubana ocurrió en 1959.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "revolucion-cubana",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

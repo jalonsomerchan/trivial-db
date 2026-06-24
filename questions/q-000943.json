@@ -1,0 +1,43 @@
+{
+  "id": "q-000943",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Chișinău?",
+  "answers": [
+    {
+      "text": "Moldavia",
+      "correct": true
+    },
+    {
+      "text": "Bielorrusia",
+      "correct": false
+    },
+    {
+      "text": "Irlanda",
+      "correct": false
+    },
+    {
+      "text": "Islas Svalbard y Jan Mayen",
+      "correct": false
+    }
+  ],
+  "explanation": "Chișinău es la capital de Moldavia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "moldavia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

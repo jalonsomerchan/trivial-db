@@ -1,0 +1,44 @@
+{
+  "id": "q-001526",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "hard",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: “El perro del hortelano” pertenece principalmente al ámbito de...?",
+  "answers": [
+    {
+      "text": "épica",
+      "correct": false
+    },
+    {
+      "text": "literatura",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    },
+    {
+      "text": "teatro",
+      "correct": true
+    }
+  ],
+  "explanation": "“El perro del hortelano” se clasifica dentro de teatro.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "teatro",
+    "el-perro-del-hortelano",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

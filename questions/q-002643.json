@@ -1,0 +1,44 @@
+{
+  "id": "q-002643",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "easy",
+  "question": "Qué artista publicó el álbum “Sgt. Pepper’s Lonely Hearts Club Band”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Café Tacvba",
+      "correct": false
+    },
+    {
+      "text": "Miles Davis",
+      "correct": false
+    },
+    {
+      "text": "Eagles",
+      "correct": false
+    },
+    {
+      "text": "The Beatles",
+      "correct": true
+    }
+  ],
+  "explanation": "“Sgt. Pepper’s Lonely Hearts Club Band” es un álbum de The Beatles.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica",
+    "sgt-pepper-s-lonely-hearts-club-band",
+    "the-beatles",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

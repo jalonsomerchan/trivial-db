@@ -1,0 +1,43 @@
+{
+  "id": "q-003550",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Cuál es un ingrediente principal de moqueca?",
+  "answers": [
+    {
+      "text": "pescado",
+      "correct": true
+    },
+    {
+      "text": "masa fina",
+      "correct": false
+    },
+    {
+      "text": "carne marinada",
+      "correct": false
+    },
+    {
+      "text": "brochetas con salsa de cacahuete",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de moqueca es pescado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "moqueca",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

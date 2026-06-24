@@ -1,0 +1,43 @@
+{
+  "id": "q-002252",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "futbol"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año ganó Argentina el Mundial de fútbol jugado en Argentina?",
+  "answers": [
+    {
+      "text": "1978",
+      "correct": true
+    },
+    {
+      "text": "2002",
+      "correct": false
+    },
+    {
+      "text": "2014",
+      "correct": false
+    },
+    {
+      "text": "1958",
+      "correct": false
+    }
+  ],
+  "explanation": "Argentina ganó el Mundial celebrado en Argentina en 1978.",
+  "sources": [
+    {
+      "title": "FIFA World Cup",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "futbol",
+    "argentina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

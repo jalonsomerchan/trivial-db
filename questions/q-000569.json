@@ -1,0 +1,43 @@
+{
+  "id": "q-000569",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Madagascar?",
+  "answers": [
+    {
+      "text": ".gu",
+      "correct": false
+    },
+    {
+      "text": ".ck",
+      "correct": false
+    },
+    {
+      "text": ".mg",
+      "correct": true
+    },
+    {
+      "text": ".tm",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Madagascar es .mg.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "madagascar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

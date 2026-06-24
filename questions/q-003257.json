@@ -1,0 +1,42 @@
+{
+  "id": "q-003257",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién creó o impulsó originalmente el lenguaje Java?",
+  "answers": [
+    {
+      "text": "Gavin Wood y Christian Reitwiessner",
+      "correct": false
+    },
+    {
+      "text": "Yukihiro Matsumoto",
+      "correct": false
+    },
+    {
+      "text": "José Valim",
+      "correct": false
+    },
+    {
+      "text": "James Gosling",
+      "correct": true
+    }
+  ],
+  "explanation": "Java se asocia históricamente con James Gosling.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "java"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

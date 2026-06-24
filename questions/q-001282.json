@@ -1,0 +1,44 @@
+{
+  "id": "q-001282",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “En qué año ocurrió la Constitución de Cádiz”?",
+  "answers": [
+    {
+      "text": "1812",
+      "correct": true
+    },
+    {
+      "text": "1792",
+      "correct": false
+    },
+    {
+      "text": "1802",
+      "correct": false
+    },
+    {
+      "text": "1822",
+      "correct": false
+    }
+  ],
+  "explanation": "La Constitución de Cádiz ocurrió en 1812.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "constitucion-de-cadiz",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

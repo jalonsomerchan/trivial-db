@@ -1,0 +1,43 @@
+{
+  "id": "q-001187",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Qué acontecimiento histórico ocurrió en 1945”?",
+  "answers": [
+    {
+      "text": "fin de la Segunda Guerra Mundial en Europa",
+      "correct": true
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": false
+    },
+    {
+      "text": "unificación de Italia",
+      "correct": false
+    },
+    {
+      "text": "crisis de los misiles de Cuba",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1945 ocurrió la fin de la Segunda Guerra Mundial en Europa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fin-de-la-segunda-guerra-mundial-en-europa",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

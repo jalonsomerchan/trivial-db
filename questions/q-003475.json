@@ -1,0 +1,43 @@
+{
+  "id": "q-003475",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Quién creó o impulsó originalmente el lenguaje Python?",
+  "answers": [
+    {
+      "text": "Guido van Rossum",
+      "correct": true
+    },
+    {
+      "text": "CODASYL",
+      "correct": false
+    },
+    {
+      "text": "Google",
+      "correct": false
+    },
+    {
+      "text": "Larry Wall",
+      "correct": false
+    }
+  ],
+  "explanation": "Python se asocia históricamente con Guido van Rossum.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "python",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

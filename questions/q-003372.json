@@ -1,0 +1,44 @@
+{
+  "id": "q-003372",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué significa la sigla CPU en tecnología”?",
+  "answers": [
+    {
+      "text": "interfaz gráfica de usuario",
+      "correct": false
+    },
+    {
+      "text": "mapeo objeto-relacional",
+      "correct": false
+    },
+    {
+      "text": "interfaz de programación de aplicaciones",
+      "correct": false
+    },
+    {
+      "text": "unidad central de procesamiento",
+      "correct": true
+    }
+  ],
+  "explanation": "En tecnología, CPU significa unidad central de procesamiento.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "cpu",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003794",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato lomo saltado?",
+  "answers": [
+    {
+      "text": "Mediterráneo oriental",
+      "correct": false
+    },
+    {
+      "text": "Magreb",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": true
+    }
+  ],
+  "explanation": "lomo saltado se asocia tradicionalmente con Perú.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "lomo-saltado",
+    "peru"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

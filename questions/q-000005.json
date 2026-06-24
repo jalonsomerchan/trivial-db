@@ -1,0 +1,44 @@
+{
+  "id": "q-000005",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el símbolo químico del bismuto”?",
+  "answers": [
+    {
+      "text": "Ac",
+      "correct": false
+    },
+    {
+      "text": "Fr",
+      "correct": false
+    },
+    {
+      "text": "Bi",
+      "correct": true
+    },
+    {
+      "text": "Rn",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del bismuto es Bi.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "bismuto",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

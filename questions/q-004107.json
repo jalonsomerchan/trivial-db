@@ -1,0 +1,44 @@
+{
+  "id": "q-004107",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "Qué palabra tiene un significado parecido a “vivienda”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "error",
+      "correct": false
+    },
+    {
+      "text": "bonito",
+      "correct": false
+    },
+    {
+      "text": "casa",
+      "correct": true
+    },
+    {
+      "text": "precio",
+      "correct": false
+    }
+  ],
+  "explanation": "“casa” y “vivienda” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "casa",
+    "vivienda",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

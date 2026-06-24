@@ -1,0 +1,43 @@
+{
+  "id": "q-000260",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Cs?",
+  "answers": [
+    {
+      "text": "praseodimio",
+      "correct": false
+    },
+    {
+      "text": "cesio",
+      "correct": true
+    },
+    {
+      "text": "xenón",
+      "correct": false
+    },
+    {
+      "text": "bario",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Cs corresponde al cesio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "cesio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

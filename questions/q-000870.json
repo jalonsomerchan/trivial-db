@@ -1,0 +1,43 @@
+{
+  "id": "q-000870",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Antananarivo?",
+  "answers": [
+    {
+      "text": "Chad",
+      "correct": false
+    },
+    {
+      "text": "Madagascar",
+      "correct": true
+    },
+    {
+      "text": "Mauritania",
+      "correct": false
+    },
+    {
+      "text": "Congo (Rep. Dem.)",
+      "correct": false
+    }
+  ],
+  "explanation": "Antananarivo es la capital de Madagascar.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "madagascar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

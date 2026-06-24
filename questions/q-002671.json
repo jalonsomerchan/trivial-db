@@ -1,0 +1,44 @@
+{
+  "id": "q-002671",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Qué compañía o creador desarrolló “Halo: Combat Evolved””?",
+  "answers": [
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": true
+    },
+    {
+      "text": "Blizzard Entertainment",
+      "correct": false
+    },
+    {
+      "text": "Konami",
+      "correct": false
+    }
+  ],
+  "explanation": "“Halo: Combat Evolved” se asocia con Bungie.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "halo-combat-evolved",
+    "bungie",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

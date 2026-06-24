@@ -1,0 +1,42 @@
+{
+  "id": "q-001499",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la unificación de Italia?",
+  "answers": [
+    {
+      "text": "llegada de Cristóbal Colón a América",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Nicea",
+      "correct": false
+    },
+    {
+      "text": "unificación alemana",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1861, año de la unificación de Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

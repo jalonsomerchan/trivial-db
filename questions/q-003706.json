@@ -1,0 +1,42 @@
+{
+  "id": "q-003706",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa amasar?",
+  "answers": [
+    {
+      "text": "punto de cocción firme de la pasta",
+      "correct": false
+    },
+    {
+      "text": "dorar rápidamente la superficie de un alimento",
+      "correct": false
+    },
+    {
+      "text": "trabajar una masa con las manos o máquina",
+      "correct": true
+    },
+    {
+      "text": "mezclar líquidos que normalmente no se unen",
+      "correct": false
+    }
+  ],
+  "explanation": "amasar significa trabajar una masa con las manos o máquina.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "amasar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

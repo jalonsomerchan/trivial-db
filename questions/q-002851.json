@@ -1,0 +1,43 @@
+{
+  "id": "q-002851",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "Qué película fue dirigida por Giuseppe Tornatore en esta selección. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "La vida es bella",
+      "correct": false
+    },
+    {
+      "text": "Volver",
+      "correct": false
+    },
+    {
+      "text": "El señor de los anillos: La comunidad del anillo",
+      "correct": false
+    },
+    {
+      "text": "Cinema Paradiso",
+      "correct": true
+    }
+  ],
+  "explanation": "Giuseppe Tornatore dirigió “Cinema Paradiso”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "giuseppe-tornatore",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

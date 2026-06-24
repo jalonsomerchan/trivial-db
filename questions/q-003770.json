@@ -1,0 +1,42 @@
+{
+  "id": "q-003770",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos términos es una técnica culinaria relacionada con “cocinar”?",
+  "answers": [
+    {
+      "text": "confitar",
+      "correct": true
+    },
+    {
+      "text": "curar",
+      "correct": false
+    },
+    {
+      "text": "napar",
+      "correct": false
+    },
+    {
+      "text": "sellar",
+      "correct": false
+    }
+  ],
+  "explanation": "La respuesta correcta es confitar, una técnica culinaria reconocida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "confitar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

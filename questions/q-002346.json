@@ -1,0 +1,43 @@
+{
+  "id": "q-002346",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "juegos-olimpicos"
+  ],
+  "difficulty": "hard",
+  "question": "En qué año organizó Melbourne unos Juegos Olímpicos de verano de esta lista. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "1904",
+      "correct": false
+    },
+    {
+      "text": "1896",
+      "correct": false
+    },
+    {
+      "text": "1956",
+      "correct": true
+    },
+    {
+      "text": "1996",
+      "correct": false
+    }
+  ],
+  "explanation": "Melbourne organizó los Juegos Olímpicos de verano en 1956.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "melbourne",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001166",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la fin del apartheid legal en Sudáfrica con las primeras elecciones multirraciales?",
+  "answers": [
+    {
+      "text": "1974",
+      "correct": false
+    },
+    {
+      "text": "1994",
+      "correct": true
+    },
+    {
+      "text": "2004",
+      "correct": false
+    },
+    {
+      "text": "1984",
+      "correct": false
+    }
+  ],
+  "explanation": "La fin del apartheid legal en Sudáfrica con las primeras elecciones multirraciales ocurrió en 1994.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fin-del-apartheid-legal-en-sudafrica-con-las-primeras-elecciones-multirraciales",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

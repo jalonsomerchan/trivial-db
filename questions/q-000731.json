@@ -1,0 +1,43 @@
+{
+  "id": "q-000731",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Bolivia?",
+  "answers": [
+    {
+      "text": ".lv",
+      "correct": false
+    },
+    {
+      "text": ".bo",
+      "correct": true
+    },
+    {
+      "text": ".gd",
+      "correct": false
+    },
+    {
+      "text": ".kp",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Bolivia es .bo.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "bolivia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

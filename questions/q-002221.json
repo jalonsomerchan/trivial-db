@@ -1,0 +1,43 @@
+{
+  "id": "q-002221",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "juegos-olimpicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En qué año organizó Los Ángeles unos Juegos Olímpicos de verano de esta lista”?",
+  "answers": [
+    {
+      "text": "1932",
+      "correct": true
+    },
+    {
+      "text": "1900",
+      "correct": false
+    },
+    {
+      "text": "1948",
+      "correct": false
+    },
+    {
+      "text": "2024",
+      "correct": false
+    }
+  ],
+  "explanation": "Los Ángeles organizó los Juegos Olímpicos de verano en 1932.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "los-angeles",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

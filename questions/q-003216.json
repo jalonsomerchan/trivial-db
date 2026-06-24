@@ -1,0 +1,42 @@
+{
+  "id": "q-003216",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué formato se utiliza habitualmente para gráficos vectoriales?",
+  "answers": [
+    {
+      "text": "WebP",
+      "correct": false
+    },
+    {
+      "text": "CSS",
+      "correct": false
+    },
+    {
+      "text": "SVG",
+      "correct": true
+    },
+    {
+      "text": "JSON",
+      "correct": false
+    }
+  ],
+  "explanation": "El formato SVG se utiliza habitualmente para gráficos vectoriales.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "svg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

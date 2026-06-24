@@ -1,0 +1,43 @@
+{
+  "id": "q-001435",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 2011, relacionado con la primavera árabe?",
+  "answers": [
+    {
+      "text": "siglo XVII",
+      "correct": false
+    },
+    {
+      "text": "siglo IX",
+      "correct": false
+    },
+    {
+      "text": "siglo XXI",
+      "correct": true
+    },
+    {
+      "text": "siglo IV",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 2011 pertenece al siglo XXI.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "primavera-arabe"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

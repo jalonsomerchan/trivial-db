@@ -1,0 +1,44 @@
+{
+  "id": "q-003213",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Para qué se usa principalmente DNS”?",
+  "answers": [
+    {
+      "text": "base de datos documental",
+      "correct": false
+    },
+    {
+      "text": "resolución de nombres",
+      "correct": true
+    },
+    {
+      "text": "compartición de archivos",
+      "correct": false
+    },
+    {
+      "text": "acceso remoto seguro",
+      "correct": false
+    }
+  ],
+  "explanation": "DNS se usa principalmente para resolución de nombres.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "dns",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

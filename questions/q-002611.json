@@ -1,0 +1,43 @@
+{
+  "id": "q-002611",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué película fue dirigida por Martin Scorsese en esta selección?",
+  "answers": [
+    {
+      "text": "Frozen",
+      "correct": false
+    },
+    {
+      "text": "Braveheart",
+      "correct": false
+    },
+    {
+      "text": "Gladiator",
+      "correct": false
+    },
+    {
+      "text": "Taxi Driver",
+      "correct": true
+    }
+  ],
+  "explanation": "Martin Scorsese dirigió “Taxi Driver”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "martin-scorsese",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

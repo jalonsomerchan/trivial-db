@@ -1,0 +1,42 @@
+{
+  "id": "q-003600",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado carne marinada?",
+  "answers": [
+    {
+      "text": "shakshuka",
+      "correct": false
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    },
+    {
+      "text": "moqueca",
+      "correct": false
+    },
+    {
+      "text": "sauerbraten",
+      "correct": true
+    }
+  ],
+  "explanation": "sauerbraten destaca por el uso de carne marinada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "carne-marinada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

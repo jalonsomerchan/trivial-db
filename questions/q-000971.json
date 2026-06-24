@@ -1,0 +1,43 @@
+{
+  "id": "q-000971",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Tirana?",
+  "answers": [
+    {
+      "text": "Albania",
+      "correct": true
+    },
+    {
+      "text": "Austria",
+      "correct": false
+    },
+    {
+      "text": "Mónaco",
+      "correct": false
+    },
+    {
+      "text": "Islandia",
+      "correct": false
+    }
+  ],
+  "explanation": "Tirana es la capital de Albania.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "albania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

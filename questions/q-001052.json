@@ -1,0 +1,43 @@
+{
+  "id": "q-001052",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Qué acontecimiento histórico ocurrió en 1939”?",
+  "answers": [
+    {
+      "text": "independencia de la India",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Verdún",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Segunda Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "coronación imperial de Carlomagno",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1939 ocurrió la comienzo de la Segunda Guerra Mundial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "comienzo-de-la-segunda-guerra-mundial",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

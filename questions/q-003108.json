@@ -1,0 +1,43 @@
+{
+  "id": "q-003108",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto usa Telnet por defecto?",
+  "answers": [
+    {
+      "text": "6379",
+      "correct": false
+    },
+    {
+      "text": "389",
+      "correct": false
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "23",
+      "correct": true
+    }
+  ],
+  "explanation": "Telnet suele usar el puerto 23 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "telnet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001656",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Quién escribió “Aura”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Juan Ramón Jiménez",
+      "correct": false
+    },
+    {
+      "text": "Jane Austen",
+      "correct": false
+    },
+    {
+      "text": "Leandro Fernández de Moratín",
+      "correct": false
+    },
+    {
+      "text": "Carlos Fuentes",
+      "correct": true
+    }
+  ],
+  "explanation": "“Aura” es una obra de Carlos Fuentes.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "aura",
+    "carlos-fuentes",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

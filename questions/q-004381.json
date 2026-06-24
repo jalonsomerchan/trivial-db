@@ -1,0 +1,44 @@
+{
+  "id": "q-004381",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "Qué palabra tiene un significado parecido a “diminuto”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "bajar",
+      "correct": false
+    },
+    {
+      "text": "rápido",
+      "correct": false
+    },
+    {
+      "text": "pequeño",
+      "correct": true
+    },
+    {
+      "text": "terminar",
+      "correct": false
+    }
+  ],
+  "explanation": "“pequeño” y “diminuto” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "pequeno",
+    "diminuto",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

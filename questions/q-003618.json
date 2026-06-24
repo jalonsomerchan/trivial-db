@@ -1,0 +1,43 @@
+{
+  "id": "q-003618",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Qué plato de esta lista tiene como ingrediente destacado chiles y especias?",
+  "answers": [
+    {
+      "text": "injera",
+      "correct": false
+    },
+    {
+      "text": "mole poblano",
+      "correct": true
+    },
+    {
+      "text": "dim sum",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": false
+    }
+  ],
+  "explanation": "mole poblano destaca por el uso de chiles y especias.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "chiles-y-especias",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

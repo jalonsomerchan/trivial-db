@@ -1,0 +1,44 @@
+{
+  "id": "q-002645",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Qué compañía o creador desarrolló “Hollow Knight””?",
+  "answers": [
+    {
+      "text": "FromSoftware",
+      "correct": false
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    },
+    {
+      "text": "Rockstar Games",
+      "correct": false
+    },
+    {
+      "text": "Team Cherry",
+      "correct": true
+    }
+  ],
+  "explanation": "“Hollow Knight” se asocia con Team Cherry.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "hollow-knight",
+    "team-cherry",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

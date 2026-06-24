@@ -1,0 +1,43 @@
+{
+  "id": "q-003530",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato de esta lista tiene como ingrediente destacado pan salado”?",
+  "answers": [
+    {
+      "text": "pretzel",
+      "correct": true
+    },
+    {
+      "text": "pavlova",
+      "correct": false
+    },
+    {
+      "text": "doro wat",
+      "correct": false
+    },
+    {
+      "text": "taco",
+      "correct": false
+    }
+  ],
+  "explanation": "pretzel destaca por el uso de pan salado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pan-salado",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

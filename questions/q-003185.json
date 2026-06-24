@@ -1,0 +1,43 @@
+{
+  "id": "q-003185",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Quién creó o impulsó originalmente el lenguaje Clojure?",
+  "answers": [
+    {
+      "text": "Cleve Moler",
+      "correct": false
+    },
+    {
+      "text": "Rich Hickey",
+      "correct": true
+    },
+    {
+      "text": "Robert Griesemer, Rob Pike y Ken Thompson",
+      "correct": false
+    },
+    {
+      "text": "Yukihiro Matsumoto",
+      "correct": false
+    }
+  ],
+  "explanation": "Clojure se asocia históricamente con Rich Hickey.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "clojure",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

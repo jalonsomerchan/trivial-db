@@ -1,0 +1,43 @@
+{
+  "id": "q-002598",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué película fue dirigida por Jonathan Demme en esta selección. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "El verdugo",
+      "correct": false
+    },
+    {
+      "text": "El silencio de los corderos",
+      "correct": true
+    },
+    {
+      "text": "Mar adentro",
+      "correct": false
+    },
+    {
+      "text": "Regreso al futuro",
+      "correct": false
+    }
+  ],
+  "explanation": "Jonathan Demme dirigió “El silencio de los corderos”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "jonathan-demme",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

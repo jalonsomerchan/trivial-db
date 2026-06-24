@@ -1,0 +1,43 @@
+{
+  "id": "q-002748",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película “Avatar”?",
+  "answers": [
+    {
+      "text": "Orson Welles",
+      "correct": false
+    },
+    {
+      "text": "Gary Trousdale y Kirk Wise",
+      "correct": false
+    },
+    {
+      "text": "James Cameron",
+      "correct": true
+    },
+    {
+      "text": "Katsuhiro Otomo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Avatar” fue dirigida por James Cameron.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "avatar",
+    "james-cameron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

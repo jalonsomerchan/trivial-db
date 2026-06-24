@@ -1,0 +1,42 @@
+{
+  "id": "q-003110",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato WebP?",
+  "answers": [
+    {
+      "text": "estilos de páginas web",
+      "correct": false
+    },
+    {
+      "text": "documento portable",
+      "correct": false
+    },
+    {
+      "text": "imagen para web",
+      "correct": true
+    },
+    {
+      "text": "datos tabulares",
+      "correct": false
+    }
+  ],
+  "explanation": "WebP se utiliza habitualmente para imagen para web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "webp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

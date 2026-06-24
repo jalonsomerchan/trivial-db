@@ -1,0 +1,42 @@
+{
+  "id": "q-004539",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 7 × 10?",
+  "answers": [
+    {
+      "text": "77",
+      "correct": false
+    },
+    {
+      "text": "67",
+      "correct": false
+    },
+    {
+      "text": "60",
+      "correct": false
+    },
+    {
+      "text": "70",
+      "correct": true
+    }
+  ],
+  "explanation": "El producto de 7 por 10 es 70.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

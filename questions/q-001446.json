@@ -1,0 +1,43 @@
+{
+  "id": "q-001446",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: Qué acontecimiento histórico ocurrió en 1848?",
+  "answers": [
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": true
+    },
+    {
+      "text": "fundación de la OTAN",
+      "correct": false
+    },
+    {
+      "text": "quiebra de Lehman Brothers",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1848 ocurrió la publicación del Manifiesto Comunista.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "publicacion-del-manifiesto-comunista",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001344",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “A qué siglo pertenece el año 1962, relacionado con la crisis de los misiles de Cuba”?",
+  "answers": [
+    {
+      "text": "siglo XIX",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo VII",
+      "correct": false
+    },
+    {
+      "text": "siglo XV",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1962 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "crisis-de-los-misiles-de-cuba",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

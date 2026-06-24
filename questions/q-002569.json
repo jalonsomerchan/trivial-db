@@ -1,0 +1,43 @@
+{
+  "id": "q-002569",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "Qué videojuego se asocia con id Software. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Doom",
+      "correct": true
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": false
+    },
+    {
+      "text": "Grand Theft Auto III",
+      "correct": false
+    }
+  ],
+  "explanation": "id Software desarrolló o publicó “Doom”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "id-software",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

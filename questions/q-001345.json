@@ -1,0 +1,44 @@
+{
+  "id": "q-001345",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En historia, ¿qué opción responde correctamente a esta pista: En qué año ocurrió la destrucción de Pompeya por la erupción del Vesubio?",
+  "answers": [
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "79",
+      "correct": true
+    },
+    {
+      "text": "104",
+      "correct": false
+    },
+    {
+      "text": "54",
+      "correct": false
+    }
+  ],
+  "explanation": "La destrucción de Pompeya por la erupción del Vesubio ocurrió en 79.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "destruccion-de-pompeya-por-la-erupcion-del-vesubio",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

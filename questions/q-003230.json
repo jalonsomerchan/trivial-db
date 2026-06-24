@@ -1,0 +1,43 @@
+{
+  "id": "q-003230",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código HTTP corresponde a “Found”?",
+  "answers": [
+    {
+      "text": "502",
+      "correct": false
+    },
+    {
+      "text": "500",
+      "correct": false
+    },
+    {
+      "text": "403",
+      "correct": false
+    },
+    {
+      "text": "302",
+      "correct": true
+    }
+  ],
+  "explanation": "“Found” corresponde al código HTTP 302.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "302"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

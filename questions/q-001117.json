@@ -1,0 +1,44 @@
+{
+  "id": "q-001117",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: A qué siglo pertenece el año 1939, relacionado con la comienzo de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "siglo I",
+      "correct": false
+    },
+    {
+      "text": "siglo XXI",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo VIII",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1939 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "comienzo-de-la-segunda-guerra-mundial",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

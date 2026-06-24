@@ -1,0 +1,44 @@
+{
+  "id": "q-001825",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Quién escribió “El Aleph”. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "William Shakespeare",
+      "correct": false
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": false
+    },
+    {
+      "text": "Jorge Luis Borges",
+      "correct": true
+    }
+  ],
+  "explanation": "“El Aleph” es una obra de Jorge Luis Borges.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "el-aleph",
+    "jorge-luis-borges",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

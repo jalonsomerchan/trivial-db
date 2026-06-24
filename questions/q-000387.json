@@ -1,0 +1,44 @@
+{
+  "id": "q-000387",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico tiene el símbolo Db?",
+  "answers": [
+    {
+      "text": "roentgenio",
+      "correct": false
+    },
+    {
+      "text": "fermio",
+      "correct": false
+    },
+    {
+      "text": "dubnio",
+      "correct": true
+    },
+    {
+      "text": "darmstadtio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Db corresponde al dubnio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "dubnio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

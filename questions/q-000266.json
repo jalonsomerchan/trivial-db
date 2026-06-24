@@ -1,0 +1,43 @@
+{
+  "id": "q-000266",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Sn?",
+  "answers": [
+    {
+      "text": "rutenio",
+      "correct": false
+    },
+    {
+      "text": "telurio",
+      "correct": false
+    },
+    {
+      "text": "yodo",
+      "correct": false
+    },
+    {
+      "text": "estaño",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo Sn corresponde al estaño.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "estano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

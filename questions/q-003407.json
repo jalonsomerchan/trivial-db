@@ -1,0 +1,42 @@
+{
+  "id": "q-003407",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué formato se utiliza habitualmente para marcado estructurado?",
+  "answers": [
+    {
+      "text": "XML",
+      "correct": true
+    },
+    {
+      "text": "JSON",
+      "correct": false
+    },
+    {
+      "text": "CSV",
+      "correct": false
+    },
+    {
+      "text": "MP4",
+      "correct": false
+    }
+  ],
+  "explanation": "El formato XML se utiliza habitualmente para marcado estructurado.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "xml"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

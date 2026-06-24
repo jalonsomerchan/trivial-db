@@ -1,0 +1,42 @@
+{
+  "id": "q-003610",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es un ingrediente principal de jerk chicken?",
+  "answers": [
+    {
+      "text": "camarón",
+      "correct": false
+    },
+    {
+      "text": "pollo especiado",
+      "correct": true
+    },
+    {
+      "text": "fideos",
+      "correct": false
+    },
+    {
+      "text": "pan plano",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de jerk chicken es pollo especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "jerk-chicken"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

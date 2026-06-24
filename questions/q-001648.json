@@ -1,0 +1,43 @@
+{
+  "id": "q-001648",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra fue escrita por Franz Kafka?",
+  "answers": [
+    {
+      "text": "San Manuel Bueno, mártir",
+      "correct": false
+    },
+    {
+      "text": "Rimas",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": true
+    },
+    {
+      "text": "Niebla",
+      "correct": false
+    }
+  ],
+  "explanation": "Franz Kafka escribió “La metamorfosis”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-metamorfosis",
+    "franz-kafka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

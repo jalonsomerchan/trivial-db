@@ -1,0 +1,43 @@
+{
+  "id": "q-001049",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1898, relacionado con la guerra hispano-estadounidense?",
+  "answers": [
+    {
+      "text": "siglo XIX",
+      "correct": true
+    },
+    {
+      "text": "siglo XVI",
+      "correct": false
+    },
+    {
+      "text": "siglo VII",
+      "correct": false
+    },
+    {
+      "text": "siglo I",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1898 pertenece al siglo XIX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "guerra-hispano-estadounidense"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

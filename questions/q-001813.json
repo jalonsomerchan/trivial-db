@@ -1,0 +1,44 @@
+{
+  "id": "q-001813",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: En historia del arte, “La Gioconda” es una obra de...?",
+  "answers": [
+    {
+      "text": "Leonardo da Vinci",
+      "correct": true
+    },
+    {
+      "text": "Vincent van Gogh",
+      "correct": false
+    },
+    {
+      "text": "John Everett Millais",
+      "correct": false
+    },
+    {
+      "text": "Jan van Eyck",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “La Gioconda” corresponde a Leonardo da Vinci.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "historia-del-arte",
+    "leonardo-da-vinci",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

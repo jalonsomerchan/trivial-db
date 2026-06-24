@@ -1,0 +1,44 @@
+{
+  "id": "q-002936",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compañía o creador desarrolló “Fortnite”?",
+  "answers": [
+    {
+      "text": "Epic Games",
+      "correct": true
+    },
+    {
+      "text": "ConcernedApe",
+      "correct": false
+    },
+    {
+      "text": "Nintendo",
+      "correct": false
+    },
+    {
+      "text": "Taito",
+      "correct": false
+    }
+  ],
+  "explanation": "“Fortnite” se asocia con Epic Games.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "fortnite",
+    "epic-games",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

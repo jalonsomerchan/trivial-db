@@ -1,0 +1,44 @@
+{
+  "id": "q-001573",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Qué obra fue escrita por Juan Rulfo. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "Pedro Páramo",
+      "correct": true
+    },
+    {
+      "text": "El gran Gatsby",
+      "correct": false
+    },
+    {
+      "text": "Rebelión en la granja",
+      "correct": false
+    },
+    {
+      "text": "Los detectives salvajes",
+      "correct": false
+    }
+  ],
+  "explanation": "Juan Rulfo escribió “Pedro Páramo”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "pedro-paramo",
+    "juan-rulfo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

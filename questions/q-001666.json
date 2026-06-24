@@ -1,0 +1,44 @@
+{
+  "id": "q-001666",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Quién escribió “Crónica de una muerte anunciada””?",
+  "answers": [
+    {
+      "text": "Franz Kafka",
+      "correct": false
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": true
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": false
+    },
+    {
+      "text": "Dante Alighieri",
+      "correct": false
+    }
+  ],
+  "explanation": "“Crónica de una muerte anunciada” es una obra de Gabriel García Márquez.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "cronica-de-una-muerte-anunciada",
+    "gabriel-garcia-marquez",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

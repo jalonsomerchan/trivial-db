@@ -1,0 +1,43 @@
+{
+  "id": "q-003558",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato de esta lista tiene como ingrediente destacado arroz avinagrado”?",
+  "answers": [
+    {
+      "text": "tiramisú",
+      "correct": false
+    },
+    {
+      "text": "sushi",
+      "correct": true
+    },
+    {
+      "text": "pulpo a la gallega",
+      "correct": false
+    },
+    {
+      "text": "rendang",
+      "correct": false
+    }
+  ],
+  "explanation": "sushi destaca por el uso de arroz avinagrado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "arroz-avinagrado",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

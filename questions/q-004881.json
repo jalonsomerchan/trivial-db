@@ -1,0 +1,42 @@
+{
+  "id": "q-004881",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 19 × 12?",
+  "answers": [
+    {
+      "text": "216",
+      "correct": false
+    },
+    {
+      "text": "247",
+      "correct": false
+    },
+    {
+      "text": "235",
+      "correct": false
+    },
+    {
+      "text": "228",
+      "correct": true
+    }
+  ],
+  "explanation": "El producto de 19 por 12 es 228.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

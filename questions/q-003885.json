@@ -1,0 +1,43 @@
+{
+  "id": "q-003885",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Cuál es un ingrediente principal de pozole?",
+  "answers": [
+    {
+      "text": "miso",
+      "correct": false
+    },
+    {
+      "text": "pan con queso",
+      "correct": false
+    },
+    {
+      "text": "maíz cacahuazintle",
+      "correct": true
+    },
+    {
+      "text": "pan",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de pozole es maíz cacahuazintle.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pozole",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

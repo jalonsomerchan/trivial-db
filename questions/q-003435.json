@@ -1,0 +1,44 @@
+{
+  "id": "q-003435",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “En qué año apareció por primera vez Ruby”?",
+  "answers": [
+    {
+      "text": "1995",
+      "correct": true
+    },
+    {
+      "text": "2012",
+      "correct": false
+    },
+    {
+      "text": "1987",
+      "correct": false
+    },
+    {
+      "text": "1985",
+      "correct": false
+    }
+  ],
+  "explanation": "Ruby apareció por primera vez en 1995.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "ruby",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

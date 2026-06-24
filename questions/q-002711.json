@@ -1,0 +1,43 @@
+{
+  "id": "q-002711",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se lanzó originalmente “Grand Theft Auto III”?",
+  "answers": [
+    {
+      "text": "2001",
+      "correct": true
+    },
+    {
+      "text": "1998",
+      "correct": false
+    },
+    {
+      "text": "2015",
+      "correct": false
+    },
+    {
+      "text": "2001 (3)",
+      "correct": false
+    }
+  ],
+  "explanation": "“Grand Theft Auto III” se lanzó originalmente en 2001.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "grand-theft-auto-iii",
+    "lanzamientos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

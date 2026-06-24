@@ -1,0 +1,44 @@
+{
+  "id": "q-003371",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "Qué puerto usa SMB por defecto. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "445",
+      "correct": true
+    },
+    {
+      "text": "389",
+      "correct": false
+    },
+    {
+      "text": "21",
+      "correct": false
+    },
+    {
+      "text": "53",
+      "correct": false
+    }
+  ],
+  "explanation": "SMB suele usar el puerto 445 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "smb",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

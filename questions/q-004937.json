@@ -1,0 +1,43 @@
+{
+  "id": "q-004937",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de matematicas: “Cuánto es 19 + 33”?",
+  "answers": [
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "51",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": true
+    },
+    {
+      "text": "62",
+      "correct": false
+    }
+  ],
+  "explanation": "Al sumar 19 y 33 se obtiene 52.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

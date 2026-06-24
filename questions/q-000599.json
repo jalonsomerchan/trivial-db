@@ -1,0 +1,43 @@
+{
+  "id": "q-000599",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Islas Salomón?",
+  "answers": [
+    {
+      "text": "+507",
+      "correct": false
+    },
+    {
+      "text": "+235",
+      "correct": false
+    },
+    {
+      "text": "+677",
+      "correct": true
+    },
+    {
+      "text": "+1264",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Islas Salomón es +677.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "islas-salomon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

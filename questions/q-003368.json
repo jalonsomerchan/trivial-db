@@ -1,0 +1,42 @@
+{
+  "id": "q-003368",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato AVIF?",
+  "answers": [
+    {
+      "text": "imagen moderna comprimida",
+      "correct": true
+    },
+    {
+      "text": "binario para web",
+      "correct": false
+    },
+    {
+      "text": "imagen raster sin pérdida",
+      "correct": false
+    },
+    {
+      "text": "fotografía comprimida",
+      "correct": false
+    }
+  ],
+  "explanation": "AVIF se utiliza habitualmente para imagen moderna comprimida.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "avif"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

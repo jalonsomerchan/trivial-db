@@ -1,0 +1,43 @@
+{
+  "id": "q-002585",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué película fue dirigida por Roger Allers y Rob Minkoff en esta selección”?",
+  "answers": [
+    {
+      "text": "La lista de Schindler",
+      "correct": false
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Mi vecino Totoro",
+      "correct": false
+    },
+    {
+      "text": "El rey león",
+      "correct": true
+    }
+  ],
+  "explanation": "Roger Allers y Rob Minkoff dirigió “El rey león”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "roger-allers-y-rob-minkoff",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000973",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Mozambique?",
+  "answers": [
+    {
+      "text": "Moroni",
+      "correct": false
+    },
+    {
+      "text": "Kigali",
+      "correct": false
+    },
+    {
+      "text": "Ouagadougou",
+      "correct": false
+    },
+    {
+      "text": "Maputo",
+      "correct": true
+    }
+  ],
+  "explanation": "La capital de Mozambique es Maputo.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "mozambique"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

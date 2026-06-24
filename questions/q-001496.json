@@ -1,0 +1,43 @@
+{
+  "id": "q-001496",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año ocurrió la guerra hispano-estadounidense?",
+  "answers": [
+    {
+      "text": "1898",
+      "correct": true
+    },
+    {
+      "text": "1908",
+      "correct": false
+    },
+    {
+      "text": "1888",
+      "correct": false
+    },
+    {
+      "text": "1878",
+      "correct": false
+    }
+  ],
+  "explanation": "La guerra hispano-estadounidense ocurrió en 1898.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerra-hispano-estadounidense",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

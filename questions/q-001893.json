@@ -1,0 +1,44 @@
+{
+  "id": "q-001893",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Qué obra fue escrita por Roberto Bolaño. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "Los detectives salvajes",
+      "correct": true
+    },
+    {
+      "text": "Frankenstein",
+      "correct": false
+    },
+    {
+      "text": "Otelo",
+      "correct": false
+    },
+    {
+      "text": "Tiempo de silencio",
+      "correct": false
+    }
+  ],
+  "explanation": "Roberto Bolaño escribió “Los detectives salvajes”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "los-detectives-salvajes",
+    "roberto-bolano",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

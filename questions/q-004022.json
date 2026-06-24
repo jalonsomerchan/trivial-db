@@ -1,0 +1,43 @@
+{
+  "id": "q-004022",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “baúl, baul, bául. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "bául",
+      "correct": false
+    },
+    {
+      "text": "baúl",
+      "correct": true
+    },
+    {
+      "text": "baul",
+      "correct": false
+    },
+    {
+      "text": "baùl",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “baúl”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "baul",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

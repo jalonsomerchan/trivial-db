@@ -1,0 +1,43 @@
+{
+  "id": "q-000863",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO alfa-2 de Bolivia?",
+  "answers": [
+    {
+      "text": "RW",
+      "correct": false
+    },
+    {
+      "text": "KI",
+      "correct": false
+    },
+    {
+      "text": "CX",
+      "correct": false
+    },
+    {
+      "text": "BO",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Bolivia es BO.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos",
+    "bolivia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

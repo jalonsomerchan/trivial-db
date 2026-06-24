@@ -1,0 +1,43 @@
+{
+  "id": "q-004201",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es un sinónimo de “moderno””?",
+  "answers": [
+    {
+      "text": "actual",
+      "correct": true
+    },
+    {
+      "text": "descender",
+      "correct": false
+    },
+    {
+      "text": "labor",
+      "correct": false
+    },
+    {
+      "text": "erudito",
+      "correct": false
+    }
+  ],
+  "explanation": "“actual” es un sinónimo de “moderno”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "moderno",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

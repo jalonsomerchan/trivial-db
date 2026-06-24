@@ -1,0 +1,43 @@
+{
+  "id": "q-000091",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Sb?",
+  "answers": [
+    {
+      "text": "antimonio",
+      "correct": true
+    },
+    {
+      "text": "yodo",
+      "correct": false
+    },
+    {
+      "text": "rodio",
+      "correct": false
+    },
+    {
+      "text": "xenón",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Sb corresponde al antimonio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "antimonio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

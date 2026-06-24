@@ -1,0 +1,43 @@
+{
+  "id": "q-000717",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Jersey?",
+  "answers": [
+    {
+      "text": ".ee",
+      "correct": false
+    },
+    {
+      "text": ".np",
+      "correct": false
+    },
+    {
+      "text": ".bt",
+      "correct": false
+    },
+    {
+      "text": ".je",
+      "correct": true
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Jersey es .je.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "jersey"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

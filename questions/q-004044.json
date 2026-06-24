@@ -1,0 +1,43 @@
+{
+  "id": "q-004044",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "easy",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es el plural correcto de “papá”?",
+  "answers": [
+    {
+      "text": "cruces",
+      "correct": false
+    },
+    {
+      "text": "reyes",
+      "correct": false
+    },
+    {
+      "text": "papás",
+      "correct": true
+    },
+    {
+      "text": "animales",
+      "correct": false
+    }
+  ],
+  "explanation": "El plural correcto de “papá” es “papás”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "papa",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

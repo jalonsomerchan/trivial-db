@@ -1,0 +1,43 @@
+{
+  "id": "q-004296",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural “especímenes”?",
+  "answers": [
+    {
+      "text": "luz",
+      "correct": false
+    },
+    {
+      "text": "hindú",
+      "correct": false
+    },
+    {
+      "text": "espécimen",
+      "correct": true
+    },
+    {
+      "text": "rey",
+      "correct": false
+    }
+  ],
+  "explanation": "El singular de “especímenes” es “espécimen”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "especimen",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001239",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue anterior a la Concilio de Trento?",
+  "answers": [
+    {
+      "text": "final de la primera vuelta al mundo de Magallanes-Elcano",
+      "correct": true
+    },
+    {
+      "text": "unificación alemana",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió antes de 1545, año de la Concilio de Trento.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

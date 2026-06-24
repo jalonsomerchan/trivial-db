@@ -1,0 +1,43 @@
+{
+  "id": "q-001213",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Qué acontecimiento histórico ocurrió en 1889”?",
+  "answers": [
+    {
+      "text": "primera Exposición Universal de París con la Torre Eiffel",
+      "correct": true
+    },
+    {
+      "text": "final de la primera vuelta al mundo de Magallanes-Elcano",
+      "correct": false
+    },
+    {
+      "text": "Edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "independencia de la India",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1889 ocurrió la primera Exposición Universal de París con la Torre Eiffel.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "primera-exposicion-universal-de-paris-con-la-torre-eiffel",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

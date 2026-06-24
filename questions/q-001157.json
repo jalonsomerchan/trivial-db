@@ -1,0 +1,43 @@
+{
+  "id": "q-001157",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1804, relacionado con la coronación de Napoleón Bonaparte como emperador?",
+  "answers": [
+    {
+      "text": "siglo XVII",
+      "correct": false
+    },
+    {
+      "text": "siglo XVI",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX",
+      "correct": true
+    },
+    {
+      "text": "siglo VII",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1804 pertenece al siglo XIX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "coronacion-de-napoleon-bonaparte-como-emperador"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002796",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Team Cherry?",
+  "answers": [
+    {
+      "text": "Tetris",
+      "correct": false
+    },
+    {
+      "text": "World of Warcraft",
+      "correct": false
+    },
+    {
+      "text": "Hollow Knight",
+      "correct": true
+    },
+    {
+      "text": "Grand Theft Auto III",
+      "correct": false
+    }
+  ],
+  "explanation": "Team Cherry desarrolló o publicó “Hollow Knight”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "team-cherry"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

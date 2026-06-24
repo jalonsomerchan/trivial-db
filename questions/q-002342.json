@@ -1,0 +1,42 @@
+{
+  "id": "q-002342",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "tenis"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué torneo de Grand Slam se juega en Melbourne?",
+  "answers": [
+    {
+      "text": "Roland Garros",
+      "correct": false
+    },
+    {
+      "text": "Wimbledon",
+      "correct": false
+    },
+    {
+      "text": "US Open",
+      "correct": false
+    },
+    {
+      "text": "Open de Australia",
+      "correct": true
+    }
+  ],
+  "explanation": "El Grand Slam que se disputa en Melbourne es Open de Australia.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "tenis",
+    "open-de-australia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

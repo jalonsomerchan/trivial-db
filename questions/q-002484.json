@@ -1,0 +1,44 @@
+{
+  "id": "q-002484",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "easy",
+  "question": "En deporte, ¿qué opción responde correctamente a esta pista: En qué deporte se usa el término “tapón”?",
+  "answers": [
+    {
+      "text": "judo",
+      "correct": false
+    },
+    {
+      "text": "fútbol americano",
+      "correct": false
+    },
+    {
+      "text": "baloncesto",
+      "correct": true
+    },
+    {
+      "text": "voleibol",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “tapón” se usa en baloncesto.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "terminologia",
+    "baloncesto",
+    "tapon",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

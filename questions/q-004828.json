@@ -1,0 +1,42 @@
+{
+  "id": "q-004828",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 14 × 7?",
+  "answers": [
+    {
+      "text": "105",
+      "correct": false
+    },
+    {
+      "text": "112",
+      "correct": false
+    },
+    {
+      "text": "91",
+      "correct": false
+    },
+    {
+      "text": "98",
+      "correct": true
+    }
+  ],
+  "explanation": "El producto de 14 por 7 es 98.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

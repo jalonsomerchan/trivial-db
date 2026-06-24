@@ -1,0 +1,42 @@
+{
+  "id": "q-004892",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 16 × 7?",
+  "answers": [
+    {
+      "text": "112",
+      "correct": true
+    },
+    {
+      "text": "128",
+      "correct": false
+    },
+    {
+      "text": "121",
+      "correct": false
+    },
+    {
+      "text": "105",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto de 16 por 7 es 112.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

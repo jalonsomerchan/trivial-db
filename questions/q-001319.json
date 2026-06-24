@@ -1,0 +1,42 @@
+{
+  "id": "q-001319",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la guerra hispano-estadounidense?",
+  "answers": [
+    {
+      "text": "Hégira de Mahoma a Medina",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Primera Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1898, año de la guerra hispano-estadounidense.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

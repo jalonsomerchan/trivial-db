@@ -1,0 +1,44 @@
+{
+  "id": "q-001008",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la creación del Estado de Israel?",
+  "answers": [
+    {
+      "text": "1928",
+      "correct": false
+    },
+    {
+      "text": "1958",
+      "correct": false
+    },
+    {
+      "text": "1948",
+      "correct": true
+    },
+    {
+      "text": "1938",
+      "correct": false
+    }
+  ],
+  "explanation": "La creación del Estado de Israel ocurrió en 1948.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "creacion-del-estado-de-israel",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

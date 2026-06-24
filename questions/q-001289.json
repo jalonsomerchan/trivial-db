@@ -1,0 +1,42 @@
+{
+  "id": "q-001289",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la llegada de Vasco da Gama a la India?",
+  "answers": [
+    {
+      "text": "llegada de Cristóbal Colón a América",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Verdún",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Hastings",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Reforma protestante",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1498, año de la llegada de Vasco da Gama a la India.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

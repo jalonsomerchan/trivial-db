@@ -1,0 +1,44 @@
+{
+  "id": "q-000430",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento químico tiene el símbolo Li”?",
+  "answers": [
+    {
+      "text": "litio",
+      "correct": true
+    },
+    {
+      "text": "nitrógeno",
+      "correct": false
+    },
+    {
+      "text": "berilio",
+      "correct": false
+    },
+    {
+      "text": "boro",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Li corresponde al litio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "litio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

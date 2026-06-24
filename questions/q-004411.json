@@ -1,0 +1,43 @@
+{
+  "id": "q-004411",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "hard",
+  "question": "Qué singular corresponde al plural “jabalíes”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "jabalí",
+      "correct": true
+    },
+    {
+      "text": "jersey",
+      "correct": false
+    },
+    {
+      "text": "álbum",
+      "correct": false
+    },
+    {
+      "text": "nariz",
+      "correct": false
+    }
+  ],
+  "explanation": "El singular de “jabalíes” es “jabalí”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "jabali",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

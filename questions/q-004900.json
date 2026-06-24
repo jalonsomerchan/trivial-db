@@ -1,0 +1,42 @@
+{
+  "id": "q-004900",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 35 + 41?",
+  "answers": [
+    {
+      "text": "86",
+      "correct": false
+    },
+    {
+      "text": "77",
+      "correct": false
+    },
+    {
+      "text": "76",
+      "correct": true
+    },
+    {
+      "text": "75",
+      "correct": false
+    }
+  ],
+  "explanation": "Al sumar 35 y 41 se obtiene 76.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

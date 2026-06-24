@@ -1,0 +1,43 @@
+{
+  "id": "q-003585",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato de esta lista tiene como ingrediente destacado camarón”?",
+  "answers": [
+    {
+      "text": "bunny chow",
+      "correct": false
+    },
+    {
+      "text": "barbecue ribs",
+      "correct": false
+    },
+    {
+      "text": "bobó de camarão",
+      "correct": true
+    },
+    {
+      "text": "hummus",
+      "correct": false
+    }
+  ],
+  "explanation": "bobó de camarão destaca por el uso de camarón.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "camaron",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

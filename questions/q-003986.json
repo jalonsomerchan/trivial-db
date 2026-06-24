@@ -1,0 +1,42 @@
+{
+  "id": "q-003986",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos términos es una técnica culinaria relacionada con “mezclar”?",
+  "answers": [
+    {
+      "text": "levar",
+      "correct": false
+    },
+    {
+      "text": "tamizar",
+      "correct": false
+    },
+    {
+      "text": "emulsionar",
+      "correct": true
+    },
+    {
+      "text": "desglasar",
+      "correct": false
+    }
+  ],
+  "explanation": "La respuesta correcta es emulsionar, una técnica culinaria reconocida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "emulsionar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

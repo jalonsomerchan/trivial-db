@@ -1,0 +1,43 @@
+{
+  "id": "q-003984",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál de estos términos es una técnica culinaria relacionada con “preparación””?",
+  "answers": [
+    {
+      "text": "fermentar",
+      "correct": false
+    },
+    {
+      "text": "marinar",
+      "correct": false
+    },
+    {
+      "text": "sofreír",
+      "correct": false
+    },
+    {
+      "text": "mise en place",
+      "correct": true
+    }
+  ],
+  "explanation": "La respuesta correcta es mise en place, una técnica culinaria reconocida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "mise-en-place",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

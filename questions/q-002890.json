@@ -1,0 +1,44 @@
+{
+  "id": "q-002890",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “En qué año se estrenó “El silencio de los corderos””?",
+  "answers": [
+    {
+      "text": "1991",
+      "correct": true
+    },
+    {
+      "text": "2013",
+      "correct": false
+    },
+    {
+      "text": "1995",
+      "correct": false
+    },
+    {
+      "text": "2003",
+      "correct": false
+    }
+  ],
+  "explanation": "“El silencio de los corderos” se estrenó en 1991.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-silencio-de-los-corderos",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

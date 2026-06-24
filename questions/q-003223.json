@@ -1,0 +1,44 @@
+{
+  "id": "q-003223",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "Qué protocolo se asocia normalmente al puerto 143. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "MySQL",
+      "correct": false
+    },
+    {
+      "text": "IMAP",
+      "correct": true
+    },
+    {
+      "text": "Redis",
+      "correct": false
+    },
+    {
+      "text": "MongoDB",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 143 se asocia habitualmente con IMAP.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "imap",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

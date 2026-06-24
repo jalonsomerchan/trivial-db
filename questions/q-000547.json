@@ -1,0 +1,43 @@
+{
+  "id": "q-000547",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital West Island?",
+  "answers": [
+    {
+      "text": "Tuvalu",
+      "correct": false
+    },
+    {
+      "text": "Islas Marianas del Norte",
+      "correct": false
+    },
+    {
+      "text": "Wallis y Futuna",
+      "correct": false
+    },
+    {
+      "text": "Islas Cocos o Islas Keeling",
+      "correct": true
+    }
+  ],
+  "explanation": "West Island es la capital de Islas Cocos o Islas Keeling.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "islas-cocos-o-islas-keeling"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

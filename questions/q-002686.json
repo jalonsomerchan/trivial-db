@@ -1,0 +1,44 @@
+{
+  "id": "q-002686",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Quién dirigió la película “Los increíbles””. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Hayao Miyazaki",
+      "correct": false
+    },
+    {
+      "text": "Brad Bird",
+      "correct": true
+    },
+    {
+      "text": "Jean-Pierre Jeunet",
+      "correct": false
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": false
+    }
+  ],
+  "explanation": "“Los increíbles” fue dirigida por Brad Bird.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "los-increibles",
+    "brad-bird",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

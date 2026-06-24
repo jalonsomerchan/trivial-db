@@ -1,0 +1,43 @@
+{
+  "id": "q-002670",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista publicó el álbum “Thriller”?",
+  "answers": [
+    {
+      "text": "Café Tacvba",
+      "correct": false
+    },
+    {
+      "text": "The Beatles",
+      "correct": false
+    },
+    {
+      "text": "Eagles",
+      "correct": false
+    },
+    {
+      "text": "Michael Jackson",
+      "correct": true
+    }
+  ],
+  "explanation": "“Thriller” es un álbum de Michael Jackson.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica",
+    "thriller",
+    "michael-jackson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

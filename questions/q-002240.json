@@ -1,0 +1,43 @@
+{
+  "id": "q-002240",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de deporte: “Qué deporte empieza normalmente con 15 jugadores por equipo y anota mediante ensayo”?",
+  "answers": [
+    {
+      "text": "rugby seven",
+      "correct": false
+    },
+    {
+      "text": "waterpolo",
+      "correct": false
+    },
+    {
+      "text": "hockey sobre césped",
+      "correct": false
+    },
+    {
+      "text": "rugby union",
+      "correct": true
+    }
+  ],
+  "explanation": "Esa combinación corresponde a rugby union.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "rugby-union",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

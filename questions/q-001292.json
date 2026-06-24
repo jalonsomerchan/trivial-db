@@ -1,0 +1,44 @@
+{
+  "id": "q-001292",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En qué año ocurrió la primera Exposición Universal de París con la Torre Eiffel”?",
+  "answers": [
+    {
+      "text": "1899",
+      "correct": false
+    },
+    {
+      "text": "1869",
+      "correct": false
+    },
+    {
+      "text": "1879",
+      "correct": false
+    },
+    {
+      "text": "1889",
+      "correct": true
+    }
+  ],
+  "explanation": "La primera Exposición Universal de París con la Torre Eiffel ocurrió en 1889.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "primera-exposicion-universal-de-paris-con-la-torre-eiffel",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

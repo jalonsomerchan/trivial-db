@@ -1,0 +1,43 @@
+{
+  "id": "q-003515",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "Cuál es un ingrediente principal de salmorejo. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "aguacate",
+      "correct": false
+    },
+    {
+      "text": "camarón",
+      "correct": false
+    },
+    {
+      "text": "tomate",
+      "correct": true
+    },
+    {
+      "text": "arroz avinagrado",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de salmorejo es tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "salmorejo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

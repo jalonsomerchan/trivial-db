@@ -1,0 +1,43 @@
+{
+  "id": "q-001197",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la comienzo de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "1939",
+      "correct": true
+    },
+    {
+      "text": "1949",
+      "correct": false
+    },
+    {
+      "text": "1929",
+      "correct": false
+    },
+    {
+      "text": "1919",
+      "correct": false
+    }
+  ],
+  "explanation": "La comienzo de la Segunda Guerra Mundial ocurrió en 1939.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "comienzo-de-la-segunda-guerra-mundial",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

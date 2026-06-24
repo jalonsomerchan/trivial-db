@@ -1,0 +1,44 @@
+{
+  "id": "q-001946",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: ““Moby-Dick” pertenece principalmente al ámbito de...”?",
+  "answers": [
+    {
+      "text": "literatura",
+      "correct": true
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "épica",
+      "correct": false
+    }
+  ],
+  "explanation": "“Moby-Dick” se clasifica dentro de literatura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "literatura",
+    "moby-dick",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

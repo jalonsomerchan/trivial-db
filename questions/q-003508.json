@@ -1,0 +1,42 @@
+{
+  "id": "q-003508",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en retirar espuma de una preparación?",
+  "answers": [
+    {
+      "text": "desespumar",
+      "correct": true
+    },
+    {
+      "text": "roux",
+      "correct": false
+    },
+    {
+      "text": "escaldar",
+      "correct": false
+    },
+    {
+      "text": "sellar",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es desespumar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "desespumar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

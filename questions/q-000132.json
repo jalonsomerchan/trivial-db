@@ -1,0 +1,44 @@
+{
+  "id": "q-000132",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el símbolo químico del copernicio”?",
+  "answers": [
+    {
+      "text": "Mc",
+      "correct": false
+    },
+    {
+      "text": "Sg",
+      "correct": false
+    },
+    {
+      "text": "Cn",
+      "correct": true
+    },
+    {
+      "text": "Hs",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del copernicio es Cn.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "copernicio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000409",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué magnitud física se mide en ohmio?",
+  "answers": [
+    {
+      "text": "resistencia eléctrica",
+      "correct": true
+    },
+    {
+      "text": "potencia",
+      "correct": false
+    },
+    {
+      "text": "longitud",
+      "correct": false
+    },
+    {
+      "text": "intensidad luminosa",
+      "correct": false
+    }
+  ],
+  "explanation": "El ohmio es una unidad utilizada para medir resistencia eléctrica.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "unidades",
+    "ohmio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

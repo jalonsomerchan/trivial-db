@@ -1,0 +1,44 @@
+{
+  "id": "q-001201",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En qué año ocurrió la proclamación de la Segunda República española”?",
+  "answers": [
+    {
+      "text": "1931",
+      "correct": true
+    },
+    {
+      "text": "1941",
+      "correct": false
+    },
+    {
+      "text": "1911",
+      "correct": false
+    },
+    {
+      "text": "1921",
+      "correct": false
+    }
+  ],
+  "explanation": "La proclamación de la Segunda República española ocurrió en 1931.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "proclamacion-de-la-segunda-republica-espanola",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

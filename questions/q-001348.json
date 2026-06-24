@@ -1,0 +1,44 @@
+{
+  "id": "q-001348",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: En qué año ocurrió la Paz de Westfalia?",
+  "answers": [
+    {
+      "text": "1673",
+      "correct": false
+    },
+    {
+      "text": "1623",
+      "correct": false
+    },
+    {
+      "text": "1648",
+      "correct": true
+    },
+    {
+      "text": "1598",
+      "correct": false
+    }
+  ],
+  "explanation": "La Paz de Westfalia ocurrió en 1648.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "paz-de-westfalia",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

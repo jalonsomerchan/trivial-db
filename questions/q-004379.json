@@ -1,0 +1,42 @@
+{
+  "id": "q-004379",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un sinónimo de “norma”?",
+  "answers": [
+    {
+      "text": "empezar",
+      "correct": false
+    },
+    {
+      "text": "regla",
+      "correct": true
+    },
+    {
+      "text": "descender",
+      "correct": false
+    },
+    {
+      "text": "viejo",
+      "correct": false
+    }
+  ],
+  "explanation": "“regla” es un sinónimo de “norma”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "norma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

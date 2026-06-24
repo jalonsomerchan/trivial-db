@@ -1,0 +1,44 @@
+{
+  "id": "q-002554",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "Quién dirigió la película “Gladiator”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Robert Zemeckis",
+      "correct": false
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": true
+    },
+    {
+      "text": "Luis García Berlanga",
+      "correct": false
+    },
+    {
+      "text": "Emilio Martínez-Lázaro",
+      "correct": false
+    }
+  ],
+  "explanation": "“Gladiator” fue dirigida por Ridley Scott.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "gladiator",
+    "ridley-scott",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

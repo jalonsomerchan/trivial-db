@@ -1,0 +1,44 @@
+{
+  "id": "q-000081",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "Qué elemento químico tiene el símbolo Cn. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "nihonio",
+      "correct": false
+    },
+    {
+      "text": "meitnerio",
+      "correct": false
+    },
+    {
+      "text": "copernicio",
+      "correct": true
+    },
+    {
+      "text": "roentgenio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Cn corresponde al copernicio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "copernicio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

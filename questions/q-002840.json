@@ -1,0 +1,44 @@
+{
+  "id": "q-002840",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Quién dirigió la película “El club de la lucha””. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "David Fincher",
+      "correct": true
+    },
+    {
+      "text": "Orson Welles",
+      "correct": false
+    },
+    {
+      "text": "Pedro Almodóvar",
+      "correct": false
+    },
+    {
+      "text": "George Lucas",
+      "correct": false
+    }
+  ],
+  "explanation": "“El club de la lucha” fue dirigida por David Fincher.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-club-de-la-lucha",
+    "david-fincher",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

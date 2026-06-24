@@ -1,0 +1,42 @@
+{
+  "id": "q-004115",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un sinónimo de “fuerza”?",
+  "answers": [
+    {
+      "text": "pausado",
+      "correct": false
+    },
+    {
+      "text": "adquirir",
+      "correct": false
+    },
+    {
+      "text": "energía",
+      "correct": true
+    },
+    {
+      "text": "enorme",
+      "correct": false
+    }
+  ],
+  "explanation": "“energía” es un sinónimo de “fuerza”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "fuerza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

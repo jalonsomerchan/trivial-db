@@ -1,0 +1,43 @@
+{
+  "id": "q-003326",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código HTTP corresponde a “Not Found”?",
+  "answers": [
+    {
+      "text": "201",
+      "correct": false
+    },
+    {
+      "text": "429",
+      "correct": false
+    },
+    {
+      "text": "418",
+      "correct": false
+    },
+    {
+      "text": "404",
+      "correct": true
+    }
+  ],
+  "explanation": "“Not Found” corresponde al código HTTP 404.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "404"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

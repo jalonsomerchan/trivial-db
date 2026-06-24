@@ -1,0 +1,44 @@
+{
+  "id": "q-003211",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Para qué se usa principalmente Redis”?",
+  "answers": [
+    {
+      "text": "acceso remoto no cifrado",
+      "correct": false
+    },
+    {
+      "text": "web",
+      "correct": false
+    },
+    {
+      "text": "base de datos en memoria",
+      "correct": true
+    },
+    {
+      "text": "compartición de archivos",
+      "correct": false
+    }
+  ],
+  "explanation": "Redis se usa principalmente para base de datos en memoria.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "redis",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

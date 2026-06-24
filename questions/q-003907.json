@@ -1,0 +1,43 @@
+{
+  "id": "q-003907",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es un ingrediente principal de nasi goreng”?",
+  "answers": [
+    {
+      "text": "chiles y especias",
+      "correct": false
+    },
+    {
+      "text": "caldo especiado",
+      "correct": false
+    },
+    {
+      "text": "carne picada",
+      "correct": false
+    },
+    {
+      "text": "arroz frito",
+      "correct": true
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de nasi goreng es arroz frito.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "nasi-goreng",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

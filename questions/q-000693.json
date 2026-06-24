@@ -1,0 +1,43 @@
+{
+  "id": "q-000693",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Turkmenistán?",
+  "answers": [
+    {
+      "text": "+682",
+      "correct": false
+    },
+    {
+      "text": "+993",
+      "correct": true
+    },
+    {
+      "text": "+598",
+      "correct": false
+    },
+    {
+      "text": "+690",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Turkmenistán es +993.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "turkmenistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

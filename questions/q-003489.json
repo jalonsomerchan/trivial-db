@@ -1,0 +1,43 @@
+{
+  "id": "q-003489",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Quién creó o impulsó originalmente el lenguaje MATLAB?",
+  "answers": [
+    {
+      "text": "John McCarthy",
+      "correct": false
+    },
+    {
+      "text": "Martin Odersky",
+      "correct": false
+    },
+    {
+      "text": "Ericsson",
+      "correct": false
+    },
+    {
+      "text": "Cleve Moler",
+      "correct": true
+    }
+  ],
+  "explanation": "MATLAB se asocia históricamente con Cleve Moler.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "matlab",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

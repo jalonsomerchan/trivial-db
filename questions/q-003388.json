@@ -1,0 +1,43 @@
+{
+  "id": "q-003388",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "Quién creó o impulsó originalmente el lenguaje Ruby. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Yukihiro Matsumoto",
+      "correct": true
+    },
+    {
+      "text": "John Kemeny y Thomas Kurtz",
+      "correct": false
+    },
+    {
+      "text": "Brendan Eich",
+      "correct": false
+    },
+    {
+      "text": "Cleve Moler",
+      "correct": false
+    }
+  ],
+  "explanation": "Ruby se asocia históricamente con Yukihiro Matsumoto.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "ruby",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

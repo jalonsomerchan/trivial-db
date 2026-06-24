@@ -1,0 +1,44 @@
+{
+  "id": "q-003215",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "En qué año apareció por primera vez Dart. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "1987",
+      "correct": false
+    },
+    {
+      "text": "1985",
+      "correct": false
+    },
+    {
+      "text": "2010",
+      "correct": false
+    },
+    {
+      "text": "2011",
+      "correct": true
+    }
+  ],
+  "explanation": "Dart apareció por primera vez en 2011.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "dart",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

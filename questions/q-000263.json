@@ -1,0 +1,44 @@
+{
+  "id": "q-000263",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué elemento químico tiene el símbolo F”?",
+  "answers": [
+    {
+      "text": "berilio",
+      "correct": false
+    },
+    {
+      "text": "nitrógeno",
+      "correct": false
+    },
+    {
+      "text": "flúor",
+      "correct": true
+    },
+    {
+      "text": "magnesio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo F corresponde al flúor.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "fluor",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000743",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Suiza?",
+  "answers": [
+    {
+      "text": "+41",
+      "correct": true
+    },
+    {
+      "text": "+94",
+      "correct": false
+    },
+    {
+      "text": "+670",
+      "correct": false
+    },
+    {
+      "text": "+677",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Suiza es +41.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "suiza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

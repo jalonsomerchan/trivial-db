@@ -1,0 +1,44 @@
+{
+  "id": "q-000017",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Cuál es el número atómico del estroncio?",
+  "answers": [
+    {
+      "text": "36",
+      "correct": false
+    },
+    {
+      "text": "46",
+      "correct": false
+    },
+    {
+      "text": "34",
+      "correct": false
+    },
+    {
+      "text": "38",
+      "correct": true
+    }
+  ],
+  "explanation": "El estroncio tiene número atómico 38.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "estroncio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

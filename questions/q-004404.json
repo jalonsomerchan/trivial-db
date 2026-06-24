@@ -1,0 +1,43 @@
+{
+  "id": "q-004404",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué palabra lleva tilde correctamente: jamás, jamas, jámas”?",
+  "answers": [
+    {
+      "text": "jamàs",
+      "correct": false
+    },
+    {
+      "text": "jamás",
+      "correct": true
+    },
+    {
+      "text": "jamas",
+      "correct": false
+    },
+    {
+      "text": "jámas",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “jamás”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "jamas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

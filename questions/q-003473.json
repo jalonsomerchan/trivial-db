@@ -1,0 +1,44 @@
+{
+  "id": "q-003473",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "En qué año apareció por primera vez C. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "1949",
+      "correct": false
+    },
+    {
+      "text": "1993",
+      "correct": false
+    },
+    {
+      "text": "2012",
+      "correct": false
+    },
+    {
+      "text": "1972",
+      "correct": true
+    }
+  ],
+  "explanation": "C apareció por primera vez en 1972.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "c",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

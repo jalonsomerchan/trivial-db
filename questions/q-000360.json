@@ -1,0 +1,44 @@
+{
+  "id": "q-000360",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál es el símbolo químico del mercurio. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Hg",
+      "correct": true
+    },
+    {
+      "text": "Pb",
+      "correct": false
+    },
+    {
+      "text": "Bi",
+      "correct": false
+    },
+    {
+      "text": "Rn",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del mercurio es Hg.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "mercurio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

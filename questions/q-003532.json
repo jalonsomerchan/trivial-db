@@ -1,0 +1,42 @@
+{
+  "id": "q-003532",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es un ingrediente principal de ceviche?",
+  "answers": [
+    {
+      "text": "pescado crudo marinado",
+      "correct": true
+    },
+    {
+      "text": "cordero",
+      "correct": false
+    },
+    {
+      "text": "almejas",
+      "correct": false
+    },
+    {
+      "text": "masa filo y frutos secos",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de ceviche es pescado crudo marinado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "ceviche"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

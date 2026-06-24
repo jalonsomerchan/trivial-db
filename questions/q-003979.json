@@ -1,0 +1,43 @@
+{
+  "id": "q-003979",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es un ingrediente principal de clam chowder”?",
+  "answers": [
+    {
+      "text": "col fermentada",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": false
+    },
+    {
+      "text": "huevo y queso",
+      "correct": false
+    },
+    {
+      "text": "almejas",
+      "correct": true
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de clam chowder es almejas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "clam-chowder",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

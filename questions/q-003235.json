@@ -1,0 +1,44 @@
+{
+  "id": "q-003235",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “En qué año apareció por primera vez Lua”?",
+  "answers": [
+    {
+      "text": "2011",
+      "correct": false
+    },
+    {
+      "text": "1993",
+      "correct": true
+    },
+    {
+      "text": "1972",
+      "correct": false
+    },
+    {
+      "text": "1970",
+      "correct": false
+    }
+  ],
+  "explanation": "Lua apareció por primera vez en 1993.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "lua",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

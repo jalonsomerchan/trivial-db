@@ -1,0 +1,44 @@
+{
+  "id": "q-003639",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "Con qué país o región se asocia tradicionalmente el plato hamburguesa. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Australia y Nueva Zelanda",
+      "correct": false
+    },
+    {
+      "text": "Balcanes",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": true
+    }
+  ],
+  "explanation": "hamburguesa se asocia tradicionalmente con Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "hamburguesa",
+    "estados-unidos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

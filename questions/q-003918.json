@@ -1,0 +1,43 @@
+{
+  "id": "q-003918",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Qué plato de esta lista tiene como ingrediente destacado pescado?",
+  "answers": [
+    {
+      "text": "cevapi",
+      "correct": false
+    },
+    {
+      "text": "dim sum",
+      "correct": false
+    },
+    {
+      "text": "moqueca",
+      "correct": true
+    },
+    {
+      "text": "ceviche",
+      "correct": false
+    }
+  ],
+  "explanation": "moqueca destaca por el uso de pescado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pescado",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

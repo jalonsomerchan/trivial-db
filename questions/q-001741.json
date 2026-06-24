@@ -1,0 +1,44 @@
+{
+  "id": "q-001741",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de arte y literatura: ““Luces de bohemia” pertenece principalmente al ámbito de...””?",
+  "answers": [
+    {
+      "text": "épica",
+      "correct": false
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "teatro",
+      "correct": true
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Luces de bohemia” se clasifica dentro de teatro.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "teatro",
+    "luces-de-bohemia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

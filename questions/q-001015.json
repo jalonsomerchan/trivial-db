@@ -1,0 +1,43 @@
+{
+  "id": "q-001015",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién fue el líder de la independencia de la India?",
+  "answers": [
+    {
+      "text": "Subhas Chandra Bose",
+      "correct": false
+    },
+    {
+      "text": "Jawaharlal Nehru",
+      "correct": false
+    },
+    {
+      "text": "Mahatma Gandhi",
+      "correct": true
+    },
+    {
+      "text": "Muhammad Ali Jinnah",
+      "correct": false
+    }
+  ],
+  "explanation": "El líder de la independencia de la India fue Mahatma Gandhi.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "historia",
+    "mahatma-gandhi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-003808",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado lentejas?",
+  "answers": [
+    {
+      "text": "dal",
+      "correct": true
+    },
+    {
+      "text": "khachapuri",
+      "correct": false
+    },
+    {
+      "text": "barbecue ribs",
+      "correct": false
+    },
+    {
+      "text": "pulpo a la gallega",
+      "correct": false
+    }
+  ],
+  "explanation": "dal destaca por el uso de lentejas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "lentejas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

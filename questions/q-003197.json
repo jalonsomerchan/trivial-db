@@ -1,0 +1,43 @@
+{
+  "id": "q-003197",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla GPU en tecnología?",
+  "answers": [
+    {
+      "text": "unidad de procesamiento gráfico",
+      "correct": true
+    },
+    {
+      "text": "integración continua",
+      "correct": false
+    },
+    {
+      "text": "despliegue o entrega continua",
+      "correct": false
+    },
+    {
+      "text": "interfaz gráfica de usuario",
+      "correct": false
+    }
+  ],
+  "explanation": "En tecnología, GPU significa unidad de procesamiento gráfico.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "gpu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

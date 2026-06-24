@@ -1,0 +1,44 @@
+{
+  "id": "q-002995",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En qué año se estrenó “E.T., el extraterrestre””?",
+  "answers": [
+    {
+      "text": "2009",
+      "correct": false
+    },
+    {
+      "text": "1982",
+      "correct": true
+    },
+    {
+      "text": "2006",
+      "correct": false
+    },
+    {
+      "text": "2003",
+      "correct": false
+    }
+  ],
+  "explanation": "“E.T., el extraterrestre” se estrenó en 1982.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "e-t-el-extraterrestre",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001711",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "easy",
+  "question": "“Soledades” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "poesia",
+      "correct": true
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    },
+    {
+      "text": "teatro",
+      "correct": false
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    }
+  ],
+  "explanation": "“Soledades” se clasifica dentro de poesia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "poesia",
+    "soledades",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

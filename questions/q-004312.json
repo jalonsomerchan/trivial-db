@@ -1,0 +1,43 @@
+{
+  "id": "q-004312",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Para un trivial de lengua, completa la respuesta correcta: Qué palabra lleva tilde correctamente: sofá, sofa, sófa?",
+  "answers": [
+    {
+      "text": "sofá",
+      "correct": true
+    },
+    {
+      "text": "sofa",
+      "correct": false
+    },
+    {
+      "text": "sofà",
+      "correct": false
+    },
+    {
+      "text": "sófa",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “sofá”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "sofa",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

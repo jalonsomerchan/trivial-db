@@ -1,0 +1,43 @@
+{
+  "id": "q-004302",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “Cuál es un sinónimo de “feo””?",
+  "answers": [
+    {
+      "text": "enorme",
+      "correct": false
+    },
+    {
+      "text": "empezar",
+      "correct": false
+    },
+    {
+      "text": "auxilio",
+      "correct": false
+    },
+    {
+      "text": "horrible",
+      "correct": true
+    }
+  ],
+  "explanation": "“horrible” es un sinónimo de “feo”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "feo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

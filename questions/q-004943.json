@@ -1,0 +1,42 @@
+{
+  "id": "q-004943",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 8 × 13?",
+  "answers": [
+    {
+      "text": "99",
+      "correct": false
+    },
+    {
+      "text": "91",
+      "correct": false
+    },
+    {
+      "text": "112",
+      "correct": false
+    },
+    {
+      "text": "104",
+      "correct": true
+    }
+  ],
+  "explanation": "El producto de 8 por 13 es 104.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001429",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Cuál de estos acontecimientos fue posterior a la Batalla de Lepanto”?",
+  "answers": [
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": true
+    },
+    {
+      "text": "fundación de la Universidad de Salamanca",
+      "correct": false
+    },
+    {
+      "text": "conquista de Tenochtitlan por Hernán Cortés",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Nicea",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1571, año de la Batalla de Lepanto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

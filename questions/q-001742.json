@@ -1,0 +1,44 @@
+{
+  "id": "q-001742",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: ““Doña Perfecta” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "épica",
+      "correct": false
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "literatura",
+      "correct": true
+    },
+    {
+      "text": "teatro",
+      "correct": false
+    }
+  ],
+  "explanation": "“Doña Perfecta” se clasifica dentro de literatura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "literatura",
+    "dona-perfecta",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

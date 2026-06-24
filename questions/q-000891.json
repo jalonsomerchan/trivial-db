@@ -1,0 +1,43 @@
+{
+  "id": "q-000891",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Niue?",
+  "answers": [
+    {
+      "text": "+261",
+      "correct": false
+    },
+    {
+      "text": "+62",
+      "correct": false
+    },
+    {
+      "text": "+683",
+      "correct": true
+    },
+    {
+      "text": "+850",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Niue es +683.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "niue"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

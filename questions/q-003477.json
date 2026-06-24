@@ -1,0 +1,43 @@
+{
+  "id": "q-003477",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Quién creó o impulsó originalmente el lenguaje TypeScript”?",
+  "answers": [
+    {
+      "text": "Google",
+      "correct": false
+    },
+    {
+      "text": "Ross Ihaka y Robert Gentleman",
+      "correct": false
+    },
+    {
+      "text": "Gavin Wood y Christian Reitwiessner",
+      "correct": false
+    },
+    {
+      "text": "Microsoft",
+      "correct": true
+    }
+  ],
+  "explanation": "TypeScript se asocia históricamente con Microsoft.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "typescript",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

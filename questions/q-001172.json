@@ -1,0 +1,44 @@
+{
+  "id": "q-001172",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En qué año ocurrió la Revolución rusa”?",
+  "answers": [
+    {
+      "text": "1907",
+      "correct": false
+    },
+    {
+      "text": "1917",
+      "correct": true
+    },
+    {
+      "text": "1927",
+      "correct": false
+    },
+    {
+      "text": "1897",
+      "correct": false
+    }
+  ],
+  "explanation": "La Revolución rusa ocurrió en 1917.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "revolucion-rusa",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

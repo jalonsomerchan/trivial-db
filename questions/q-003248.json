@@ -1,0 +1,44 @@
+{
+  "id": "q-003248",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué código HTTP corresponde a “Too Many Requests””?",
+  "answers": [
+    {
+      "text": "301",
+      "correct": false
+    },
+    {
+      "text": "429",
+      "correct": true
+    },
+    {
+      "text": "409",
+      "correct": false
+    },
+    {
+      "text": "503",
+      "correct": false
+    }
+  ],
+  "explanation": "“Too Many Requests” corresponde al código HTTP 429.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "web",
+    "429",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

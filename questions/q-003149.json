@@ -1,0 +1,42 @@
+{
+  "id": "q-003149",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa habitualmente el formato CSS?",
+  "answers": [
+    {
+      "text": "marcado estructurado",
+      "correct": false
+    },
+    {
+      "text": "archivo comprimido",
+      "correct": false
+    },
+    {
+      "text": "fotografía comprimida",
+      "correct": false
+    },
+    {
+      "text": "estilos de páginas web",
+      "correct": true
+    }
+  ],
+  "explanation": "CSS se utiliza habitualmente para estilos de páginas web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "css"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000121",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "Cuál es el símbolo químico del rodio. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Pd",
+      "correct": false
+    },
+    {
+      "text": "Rh",
+      "correct": true
+    },
+    {
+      "text": "Nb",
+      "correct": false
+    },
+    {
+      "text": "Mo",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del rodio es Rh.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "rodio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

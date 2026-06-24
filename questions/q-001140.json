@@ -1,0 +1,42 @@
+{
+  "id": "q-001140",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue anterior a la bombardeo de Guernica?",
+  "answers": [
+    {
+      "text": "comienzo de la Guerra Civil española",
+      "correct": true
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    },
+    {
+      "text": "creación de la Organización de las Naciones Unidas",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Lisboa en vigor",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió antes de 1937, año de la bombardeo de Guernica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

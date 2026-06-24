@@ -1,0 +1,43 @@
+{
+  "id": "q-004113",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es un sinónimo de “comprar””?",
+  "answers": [
+    {
+      "text": "adquirir",
+      "correct": true
+    },
+    {
+      "text": "trayecto",
+      "correct": false
+    },
+    {
+      "text": "finalizar",
+      "correct": false
+    },
+    {
+      "text": "extraño",
+      "correct": false
+    }
+  ],
+  "explanation": "“adquirir” es un sinónimo de “comprar”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "comprar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

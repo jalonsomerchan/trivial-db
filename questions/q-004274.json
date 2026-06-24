@@ -1,0 +1,42 @@
+{
+  "id": "q-004274",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un sinónimo de “rápido”?",
+  "answers": [
+    {
+      "text": "complicado",
+      "correct": false
+    },
+    {
+      "text": "apenado",
+      "correct": false
+    },
+    {
+      "text": "tiniebla",
+      "correct": false
+    },
+    {
+      "text": "veloz",
+      "correct": true
+    }
+  ],
+  "explanation": "“veloz” es un sinónimo de “rápido”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "rapido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

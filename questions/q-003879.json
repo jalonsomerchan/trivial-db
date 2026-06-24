@@ -1,0 +1,42 @@
+{
+  "id": "q-003879",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado bacalao?",
+  "answers": [
+    {
+      "text": "curry verde",
+      "correct": false
+    },
+    {
+      "text": "pozole",
+      "correct": false
+    },
+    {
+      "text": "naan",
+      "correct": false
+    },
+    {
+      "text": "bacalao al pilpil",
+      "correct": true
+    }
+  ],
+  "explanation": "bacalao al pilpil destaca por el uso de bacalao.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "bacalao"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

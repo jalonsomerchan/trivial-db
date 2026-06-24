@@ -1,0 +1,42 @@
+{
+  "id": "q-002625",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Toby Fox?",
+  "answers": [
+    {
+      "text": "Stardew Valley",
+      "correct": false
+    },
+    {
+      "text": "Undertale",
+      "correct": true
+    },
+    {
+      "text": "World of Warcraft",
+      "correct": false
+    },
+    {
+      "text": "The Sims",
+      "correct": false
+    }
+  ],
+  "explanation": "Toby Fox desarrolló o publicó “Undertale”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "toby-fox"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

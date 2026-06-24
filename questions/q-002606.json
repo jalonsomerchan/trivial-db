@@ -1,0 +1,44 @@
+{
+  "id": "q-002606",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Quién dirigió la película “Roma””. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Martin Scorsese",
+      "correct": false
+    },
+    {
+      "text": "Robert Zemeckis",
+      "correct": false
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": true
+    },
+    {
+      "text": "Jean-Pierre Jeunet",
+      "correct": false
+    }
+  ],
+  "explanation": "“Roma” fue dirigida por Alfonso Cuarón.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "roma",
+    "alfonso-cuaron",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

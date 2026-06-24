@@ -1,0 +1,43 @@
+{
+  "id": "q-001928",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "hard",
+  "question": "En historia del arte, “Ofelia” es una obra de...",
+  "answers": [
+    {
+      "text": "Grant Wood",
+      "correct": false
+    },
+    {
+      "text": "Pierre-Auguste Renoir",
+      "correct": false
+    },
+    {
+      "text": "John Everett Millais",
+      "correct": true
+    },
+    {
+      "text": "Claude Monet",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “Ofelia” corresponde a John Everett Millais.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "historia-del-arte",
+    "john-everett-millais"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000371",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Rb?",
+  "answers": [
+    {
+      "text": "tecnecio",
+      "correct": false
+    },
+    {
+      "text": "rubidio",
+      "correct": true
+    },
+    {
+      "text": "niobio",
+      "correct": false
+    },
+    {
+      "text": "kriptón",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Rb corresponde al rubidio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "rubidio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

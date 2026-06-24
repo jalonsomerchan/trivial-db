@@ -1,0 +1,44 @@
+{
+  "id": "q-001124",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: En qué año ocurrió la Guerra de Sucesión española?",
+  "answers": [
+    {
+      "text": "1701",
+      "correct": true
+    },
+    {
+      "text": "1651",
+      "correct": false
+    },
+    {
+      "text": "1676",
+      "correct": false
+    },
+    {
+      "text": "1726",
+      "correct": false
+    }
+  ],
+  "explanation": "La Guerra de Sucesión española ocurrió en 1701.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerra-de-sucesion-espanola",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000234",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué magnitud física se mide en watt?",
+  "answers": [
+    {
+      "text": "inducción magnética",
+      "correct": false
+    },
+    {
+      "text": "potencia",
+      "correct": true
+    },
+    {
+      "text": "cantidad de sustancia",
+      "correct": false
+    },
+    {
+      "text": "presión",
+      "correct": false
+    }
+  ],
+  "explanation": "El watt es una unidad utilizada para medir potencia.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "unidades",
+    "watt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

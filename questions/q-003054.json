@@ -1,0 +1,44 @@
+{
+  "id": "q-003054",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué puerto usa MQTT por defecto”?",
+  "answers": [
+    {
+      "text": "23",
+      "correct": false
+    },
+    {
+      "text": "143",
+      "correct": false
+    },
+    {
+      "text": "1883",
+      "correct": true
+    },
+    {
+      "text": "3389",
+      "correct": false
+    }
+  ],
+  "explanation": "MQTT suele usar el puerto 1883 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "mqtt",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

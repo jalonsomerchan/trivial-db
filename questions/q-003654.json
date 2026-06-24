@@ -1,0 +1,43 @@
+{
+  "id": "q-003654",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Qué plato de esta lista tiene como ingrediente destacado pan relleno. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "kasha",
+      "correct": false
+    },
+    {
+      "text": "irish stew",
+      "correct": false
+    },
+    {
+      "text": "bunny chow",
+      "correct": true
+    },
+    {
+      "text": "hummus",
+      "correct": false
+    }
+  ],
+  "explanation": "bunny chow destaca por el uso de pan relleno.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pan-relleno",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

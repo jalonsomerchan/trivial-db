@@ -1,0 +1,43 @@
+{
+  "id": "q-000467",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué magnitud física se mide en hertz?",
+  "answers": [
+    {
+      "text": "temperatura termodinámica",
+      "correct": false
+    },
+    {
+      "text": "frecuencia",
+      "correct": true
+    },
+    {
+      "text": "tiempo",
+      "correct": false
+    },
+    {
+      "text": "diferencia de potencial eléctrico",
+      "correct": false
+    }
+  ],
+  "explanation": "El hertz es una unidad utilizada para medir frecuencia.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "unidades",
+    "hertz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

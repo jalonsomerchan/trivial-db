@@ -1,0 +1,42 @@
+{
+  "id": "q-001105",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la fundación de la OTAN?",
+  "answers": [
+    {
+      "text": "comienzo de la Guerra Civil española",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": true
+    },
+    {
+      "text": "fin de la Segunda Guerra Mundial en Europa",
+      "correct": false
+    },
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1949, año de la fundación de la OTAN.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

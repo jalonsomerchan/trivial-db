@@ -1,0 +1,43 @@
+{
+  "id": "q-000562",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Brunei?",
+  "answers": [
+    {
+      "text": ".sz",
+      "correct": false
+    },
+    {
+      "text": ".bn",
+      "correct": true
+    },
+    {
+      "text": ".nc",
+      "correct": false
+    },
+    {
+      "text": ".ec",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Brunei es .bn.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "brunei"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

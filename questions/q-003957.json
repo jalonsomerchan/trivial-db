@@ -1,0 +1,44 @@
+{
+  "id": "q-003957",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué plato se asocia con España y suele llevar arroz”?",
+  "answers": [
+    {
+      "text": "bobó de camarão",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "paella",
+      "correct": true
+    },
+    {
+      "text": "tortilla de patatas",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es paella.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "espana",
+    "arroz",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

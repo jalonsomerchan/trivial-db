@@ -1,0 +1,44 @@
+{
+  "id": "q-002855",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “La forma del agua”?",
+  "answers": [
+    {
+      "text": "Pedro Almodóvar",
+      "correct": false
+    },
+    {
+      "text": "Lee Unkrich",
+      "correct": false
+    },
+    {
+      "text": "Alejandro González Iñárritu",
+      "correct": false
+    },
+    {
+      "text": "Guillermo del Toro",
+      "correct": true
+    }
+  ],
+  "explanation": "“La forma del agua” fue dirigida por Guillermo del Toro.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "la-forma-del-agua",
+    "guillermo-del-toro",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

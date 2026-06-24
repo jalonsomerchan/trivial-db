@@ -1,0 +1,44 @@
+{
+  "id": "q-000113",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento tiene el número atómico 40”?",
+  "answers": [
+    {
+      "text": "rodio",
+      "correct": false
+    },
+    {
+      "text": "tecnecio",
+      "correct": false
+    },
+    {
+      "text": "selenio",
+      "correct": false
+    },
+    {
+      "text": "zirconio",
+      "correct": true
+    }
+  ],
+  "explanation": "El número atómico 40 corresponde al zirconio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "zirconio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

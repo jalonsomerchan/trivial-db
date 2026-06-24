@@ -1,0 +1,42 @@
+{
+  "id": "q-004812",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el cuadrado de 34?",
+  "answers": [
+    {
+      "text": "1122",
+      "correct": false
+    },
+    {
+      "text": "1156",
+      "correct": true
+    },
+    {
+      "text": "1190",
+      "correct": false
+    },
+    {
+      "text": "1225",
+      "correct": false
+    }
+  ],
+  "explanation": "El cuadrado de 34 es 34 × 34 = 1156.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "cuadrados"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

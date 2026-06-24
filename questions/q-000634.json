@@ -1,0 +1,43 @@
+{
+  "id": "q-000634",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Ankara?",
+  "answers": [
+    {
+      "text": "Camboya",
+      "correct": false
+    },
+    {
+      "text": "Turquía",
+      "correct": true
+    },
+    {
+      "text": "Timor Oriental",
+      "correct": false
+    },
+    {
+      "text": "Maldivas",
+      "correct": false
+    }
+  ],
+  "explanation": "Ankara es la capital de Turquía.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "turquia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

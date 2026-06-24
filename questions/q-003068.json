@@ -1,0 +1,44 @@
+{
+  "id": "q-003068",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué puerto usa POP3 por defecto”?",
+  "answers": [
+    {
+      "text": "110",
+      "correct": true
+    },
+    {
+      "text": "443",
+      "correct": false
+    },
+    {
+      "text": "143",
+      "correct": false
+    },
+    {
+      "text": "53",
+      "correct": false
+    }
+  ],
+  "explanation": "POP3 suele usar el puerto 110 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "pop3",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

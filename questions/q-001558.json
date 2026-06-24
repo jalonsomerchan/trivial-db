@@ -1,0 +1,44 @@
+{
+  "id": "q-001558",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: “Como agua para chocolate” pertenece principalmente al ámbito de...?",
+  "answers": [
+    {
+      "text": "literatura",
+      "correct": true
+    },
+    {
+      "text": "teatro",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    },
+    {
+      "text": "épica",
+      "correct": false
+    }
+  ],
+  "explanation": "“Como agua para chocolate” se clasifica dentro de literatura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "literatura",
+    "como-agua-para-chocolate",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

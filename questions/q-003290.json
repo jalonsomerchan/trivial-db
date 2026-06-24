@@ -1,0 +1,44 @@
+{
+  "id": "q-003290",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué sigla corresponde a “localizador uniforme de recursos”?",
+  "answers": [
+    {
+      "text": "GPU",
+      "correct": false
+    },
+    {
+      "text": "CLI",
+      "correct": false
+    },
+    {
+      "text": "URL",
+      "correct": true
+    },
+    {
+      "text": "TCP",
+      "correct": false
+    }
+  ],
+  "explanation": "La sigla correspondiente a “localizador uniforme de recursos” es URL.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "url",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

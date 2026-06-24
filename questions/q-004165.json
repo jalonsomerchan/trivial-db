@@ -1,0 +1,43 @@
+{
+  "id": "q-004165",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "“palabra con varios significados”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "polisémica",
+      "correct": true
+    },
+    {
+      "text": "conjunción",
+      "correct": false
+    },
+    {
+      "text": "lexema",
+      "correct": false
+    },
+    {
+      "text": "verbo",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a “polisémica”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "polisemica",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

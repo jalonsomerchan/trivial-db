@@ -1,0 +1,44 @@
+{
+  "id": "q-003687",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "Con qué país o región se asocia tradicionalmente el plato lamington. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Tailandia",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Magreb",
+      "correct": false
+    },
+    {
+      "text": "Australia",
+      "correct": true
+    }
+  ],
+  "explanation": "lamington se asocia tradicionalmente con Australia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "lamington",
+    "australia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

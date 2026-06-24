@@ -1,0 +1,43 @@
+{
+  "id": "q-001010",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: Qué acontecimiento histórico ocurrió en 313. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Edicto de Milán",
+      "correct": true
+    },
+    {
+      "text": "conquista de Tenochtitlan por Hernán Cortés",
+      "correct": false
+    },
+    {
+      "text": "unificación de Italia",
+      "correct": false
+    },
+    {
+      "text": "Revolución cubana",
+      "correct": false
+    }
+  ],
+  "explanation": "En 313 ocurrió la Edicto de Milán.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "edicto-de-milan",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

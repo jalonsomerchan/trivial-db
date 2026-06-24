@@ -1,0 +1,43 @@
+{
+  "id": "q-003762",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "Qué técnica culinaria consiste en dar consistencia a una salsa. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "escaldar",
+      "correct": false
+    },
+    {
+      "text": "pasteurizar",
+      "correct": false
+    },
+    {
+      "text": "curar",
+      "correct": false
+    },
+    {
+      "text": "ligar",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica descrita es ligar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "ligar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

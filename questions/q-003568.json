@@ -1,0 +1,44 @@
+{
+  "id": "q-003568",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato se asocia con Italia y suele llevar café y mascarpone”?",
+  "answers": [
+    {
+      "text": "pavlova",
+      "correct": false
+    },
+    {
+      "text": "tiramisú",
+      "correct": true
+    },
+    {
+      "text": "moqueca",
+      "correct": false
+    },
+    {
+      "text": "paella",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es tiramisú.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "italia",
+    "cafe-y-mascarpone",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

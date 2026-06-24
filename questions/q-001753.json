@@ -1,0 +1,43 @@
+{
+  "id": "q-001753",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué composición se asocia con Georg Friedrich Händel?",
+  "answers": [
+    {
+      "text": "Carmina Burana",
+      "correct": false
+    },
+    {
+      "text": "El Mesías",
+      "correct": true
+    },
+    {
+      "text": "Aida",
+      "correct": false
+    },
+    {
+      "text": "Sinfonía del Nuevo Mundo",
+      "correct": false
+    }
+  ],
+  "explanation": "Georg Friedrich Händel compuso “El Mesías”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "el-mesias",
+    "georg-friedrich-h-ndel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

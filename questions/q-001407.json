@@ -1,0 +1,43 @@
+{
+  "id": "q-001407",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1947, relacionado con la independencia de la India?",
+  "answers": [
+    {
+      "text": "siglo XV",
+      "correct": false
+    },
+    {
+      "text": "siglo IV",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XXI",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1947 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "independencia-de-la-india"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

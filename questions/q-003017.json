@@ -1,0 +1,43 @@
+{
+  "id": "q-003017",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Quién creó o impulsó originalmente el lenguaje Visual Basic”?",
+  "answers": [
+    {
+      "text": "José Valim",
+      "correct": false
+    },
+    {
+      "text": "Cleve Moler",
+      "correct": false
+    },
+    {
+      "text": "Microsoft",
+      "correct": true
+    },
+    {
+      "text": "James Strachan",
+      "correct": false
+    }
+  ],
+  "explanation": "Visual Basic se asocia históricamente con Microsoft.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "visual-basic",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

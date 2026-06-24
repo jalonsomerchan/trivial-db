@@ -1,0 +1,43 @@
+{
+  "id": "q-001821",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién escribió “El gran Gatsby”?",
+  "answers": [
+    {
+      "text": "Laura Esquivel",
+      "correct": false
+    },
+    {
+      "text": "F. Scott Fitzgerald",
+      "correct": true
+    },
+    {
+      "text": "Luis Martín-Santos",
+      "correct": false
+    },
+    {
+      "text": "Mary Shelley",
+      "correct": false
+    }
+  ],
+  "explanation": "“El gran Gatsby” es una obra de F. Scott Fitzgerald.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "el-gran-gatsby",
+    "f-scott-fitzgerald"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

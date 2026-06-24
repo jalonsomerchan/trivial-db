@@ -1,0 +1,44 @@
+{
+  "id": "q-003461",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué puerto usa SIP por defecto?",
+  "answers": [
+    {
+      "text": "3306",
+      "correct": false
+    },
+    {
+      "text": "27017",
+      "correct": false
+    },
+    {
+      "text": "3389",
+      "correct": false
+    },
+    {
+      "text": "5060",
+      "correct": true
+    }
+  ],
+  "explanation": "SIP suele usar el puerto 5060 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "sip",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

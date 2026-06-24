@@ -1,0 +1,42 @@
+{
+  "id": "q-004907",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el cuadrado de 39?",
+  "answers": [
+    {
+      "text": "1560",
+      "correct": false
+    },
+    {
+      "text": "1482",
+      "correct": false
+    },
+    {
+      "text": "1521",
+      "correct": true
+    },
+    {
+      "text": "1600",
+      "correct": false
+    }
+  ],
+  "explanation": "El cuadrado de 39 es 39 × 39 = 1521.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "cuadrados"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

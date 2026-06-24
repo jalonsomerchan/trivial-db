@@ -1,0 +1,44 @@
+{
+  "id": "q-002608",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "medium",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué artista publicó el álbum “Bocanada”?",
+  "answers": [
+    {
+      "text": "Eagles",
+      "correct": false
+    },
+    {
+      "text": "Fleetwood Mac",
+      "correct": false
+    },
+    {
+      "text": "Gustavo Cerati",
+      "correct": true
+    },
+    {
+      "text": "Nirvana",
+      "correct": false
+    }
+  ],
+  "explanation": "“Bocanada” es un álbum de Gustavo Cerati.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica",
+    "bocanada",
+    "gustavo-cerati",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

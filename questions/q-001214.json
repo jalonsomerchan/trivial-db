@@ -1,0 +1,42 @@
+{
+  "id": "q-001214",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la comienzo de la Primera Cruzada?",
+  "answers": [
+    {
+      "text": "Edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "Hégira de Mahoma a Medina",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1096, año de la comienzo de la Primera Cruzada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

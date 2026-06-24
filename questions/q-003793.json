@@ -1,0 +1,43 @@
+{
+  "id": "q-003793",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: En cocina, ¿qué significa pasteurizar?",
+  "answers": [
+    {
+      "text": "dorar la superficie con calor fuerte",
+      "correct": false
+    },
+    {
+      "text": "calentar para reducir microorganismos",
+      "correct": true
+    },
+    {
+      "text": "cocinar a fuego medio en grasa como base de un guiso",
+      "correct": false
+    },
+    {
+      "text": "cubrir un alimento con salsa",
+      "correct": false
+    }
+  ],
+  "explanation": "pasteurizar significa calentar para reducir microorganismos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "pasteurizar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-002612",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Qué artista publicó el álbum “Born to Run””?",
+  "answers": [
+    {
+      "text": "Enrique Morente y Lagartija Nick",
+      "correct": false
+    },
+    {
+      "text": "Beyoncé",
+      "correct": false
+    },
+    {
+      "text": "Adele",
+      "correct": false
+    },
+    {
+      "text": "Bruce Springsteen",
+      "correct": true
+    }
+  ],
+  "explanation": "“Born to Run” es un álbum de Bruce Springsteen.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica",
+    "born-to-run",
+    "bruce-springsteen",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

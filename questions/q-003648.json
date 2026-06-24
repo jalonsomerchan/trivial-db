@@ -1,0 +1,42 @@
+{
+  "id": "q-003648",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa reducir?",
+  "answers": [
+    {
+      "text": "evaporar líquido para concentrar sabor",
+      "correct": true
+    },
+    {
+      "text": "tomate pelado y picado",
+      "correct": false
+    },
+    {
+      "text": "corte en dados pequeños",
+      "correct": false
+    },
+    {
+      "text": "mezcla cocida de harina y grasa",
+      "correct": false
+    }
+  ],
+  "explanation": "reducir significa evaporar líquido para concentrar sabor.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "reducir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

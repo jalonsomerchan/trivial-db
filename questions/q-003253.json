@@ -1,0 +1,43 @@
+{
+  "id": "q-003253",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "Quién creó o impulsó originalmente el lenguaje C#. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Microsoft",
+      "correct": true
+    },
+    {
+      "text": "JetBrains",
+      "correct": false
+    },
+    {
+      "text": "James Gosling",
+      "correct": false
+    },
+    {
+      "text": "Walter Bright",
+      "correct": false
+    }
+  ],
+  "explanation": "C# se asocia históricamente con Microsoft.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "c",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

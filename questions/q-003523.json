@@ -1,0 +1,42 @@
+{
+  "id": "q-003523",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado miso?",
+  "answers": [
+    {
+      "text": "miso shiru",
+      "correct": true
+    },
+    {
+      "text": "churrasco",
+      "correct": false
+    },
+    {
+      "text": "jambalaya",
+      "correct": false
+    },
+    {
+      "text": "pulpo a la gallega",
+      "correct": false
+    }
+  ],
+  "explanation": "miso shiru destaca por el uso de miso.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "miso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

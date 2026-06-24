@@ -1,0 +1,44 @@
+{
+  "id": "q-000229",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento tiene el número atómico 5”?",
+  "answers": [
+    {
+      "text": "boro",
+      "correct": true
+    },
+    {
+      "text": "carbono",
+      "correct": false
+    },
+    {
+      "text": "sodio",
+      "correct": false
+    },
+    {
+      "text": "berilio",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 5 corresponde al boro.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "boro",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

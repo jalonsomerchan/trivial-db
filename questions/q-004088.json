@@ -1,0 +1,44 @@
+{
+  "id": "q-004088",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Qué palabra tiene un significado parecido a “resplandor”?",
+  "answers": [
+    {
+      "text": "pequeño",
+      "correct": false
+    },
+    {
+      "text": "viaje",
+      "correct": false
+    },
+    {
+      "text": "enemigo",
+      "correct": false
+    },
+    {
+      "text": "brillo",
+      "correct": true
+    }
+  ],
+  "explanation": "“brillo” y “resplandor” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "brillo",
+    "resplandor",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

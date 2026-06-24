@@ -1,0 +1,43 @@
+{
+  "id": "q-000254",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el número atómico del cesio?",
+  "answers": [
+    {
+      "text": "49",
+      "correct": false
+    },
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "50",
+      "correct": false
+    },
+    {
+      "text": "55",
+      "correct": true
+    }
+  ],
+  "explanation": "El cesio tiene número atómico 55.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "cesio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

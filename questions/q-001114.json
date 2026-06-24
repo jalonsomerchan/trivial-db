@@ -1,0 +1,43 @@
+{
+  "id": "q-001114",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Qué acontecimiento histórico ocurrió en 1944”?",
+  "answers": [
+    {
+      "text": "revolución iraní",
+      "correct": false
+    },
+    {
+      "text": "quiebra de Lehman Brothers",
+      "correct": false
+    },
+    {
+      "text": "Edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "desembarco de Normandía",
+      "correct": true
+    }
+  ],
+  "explanation": "En 1944 ocurrió la desembarco de Normandía.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "desembarco-de-normandia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

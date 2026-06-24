@@ -1,0 +1,43 @@
+{
+  "id": "q-001045",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Cuál de estos acontecimientos fue posterior a la caída de Constantinopla”?",
+  "answers": [
+    {
+      "text": "Tratado de Verdún",
+      "correct": false
+    },
+    {
+      "text": "llegada de Cristóbal Colón a América",
+      "correct": true
+    },
+    {
+      "text": "fundación de la Universidad de Salamanca",
+      "correct": false
+    },
+    {
+      "text": "destrucción de Pompeya por la erupción del Vesubio",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1453, año de la caída de Constantinopla.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

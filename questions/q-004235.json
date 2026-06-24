@@ -1,0 +1,42 @@
+{
+  "id": "q-004235",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra lleva tilde correctamente: amor, ámor, amór?",
+  "answers": [
+    {
+      "text": "amór",
+      "correct": false
+    },
+    {
+      "text": "ámor",
+      "correct": false
+    },
+    {
+      "text": "amòr",
+      "correct": false
+    },
+    {
+      "text": "amor",
+      "correct": true
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “amor”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "amor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

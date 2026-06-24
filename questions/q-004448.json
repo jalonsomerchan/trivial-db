@@ -1,0 +1,42 @@
+{
+  "id": "q-004448",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el plural correcto de “luz”?",
+  "answers": [
+    {
+      "text": "países",
+      "correct": false
+    },
+    {
+      "text": "cafés",
+      "correct": false
+    },
+    {
+      "text": "luces",
+      "correct": true
+    },
+    {
+      "text": "ratones",
+      "correct": false
+    }
+  ],
+  "explanation": "El plural correcto de “luz” es “luces”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "luz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

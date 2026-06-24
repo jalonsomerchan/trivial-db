@@ -1,0 +1,42 @@
+{
+  "id": "q-003709",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado bizcocho?",
+  "answers": [
+    {
+      "text": "nasi goreng",
+      "correct": false
+    },
+    {
+      "text": "mole poblano",
+      "correct": false
+    },
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "lamington",
+      "correct": true
+    }
+  ],
+  "explanation": "lamington destaca por el uso de bizcocho.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "bizcocho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

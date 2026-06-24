@@ -1,0 +1,44 @@
+{
+  "id": "q-001902",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Para un trivial de arte y literatura, completa la respuesta correcta: “El amor en los tiempos del cólera” pertenece principalmente al ámbito de...?",
+  "answers": [
+    {
+      "text": "teatro",
+      "correct": false
+    },
+    {
+      "text": "literatura",
+      "correct": true
+    },
+    {
+      "text": "épica",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    }
+  ],
+  "explanation": "“El amor en los tiempos del cólera” se clasifica dentro de literatura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "literatura",
+    "el-amor-en-los-tiempos-del-colera",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

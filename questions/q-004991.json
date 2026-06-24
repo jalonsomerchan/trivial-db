@@ -1,0 +1,42 @@
+{
+  "id": "q-004991",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 21 × 4?",
+  "answers": [
+    {
+      "text": "101",
+      "correct": false
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "105",
+      "correct": false
+    },
+    {
+      "text": "84",
+      "correct": true
+    }
+  ],
+  "explanation": "El producto de 21 por 4 es 84.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

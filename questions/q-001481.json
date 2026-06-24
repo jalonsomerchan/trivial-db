@@ -1,0 +1,43 @@
+{
+  "id": "q-001481",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 1992”?",
+  "answers": [
+    {
+      "text": "Tratado de Maastricht",
+      "correct": true
+    },
+    {
+      "text": "llegada de Cristóbal Colón a América",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "Edicto de Milán",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1992 ocurrió la Tratado de Maastricht.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratado-de-maastricht",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002926",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué compañía o creador desarrolló “Tetris”?",
+  "answers": [
+    {
+      "text": "Sega",
+      "correct": false
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": true
+    },
+    {
+      "text": "Blizzard Entertainment",
+      "correct": false
+    },
+    {
+      "text": "Toby Fox",
+      "correct": false
+    }
+  ],
+  "explanation": "“Tetris” se asocia con Alekséi Pázhitnov.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "tetris",
+    "aleksei-pazhitnov"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001327",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "hard",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: En qué año ocurrió la llegada de Vasco da Gama a la India?",
+  "answers": [
+    {
+      "text": "1523",
+      "correct": false
+    },
+    {
+      "text": "1498",
+      "correct": true
+    },
+    {
+      "text": "1448",
+      "correct": false
+    },
+    {
+      "text": "1473",
+      "correct": false
+    }
+  ],
+  "explanation": "La llegada de Vasco da Gama a la India ocurrió en 1498.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "llegada-de-vasco-da-gama-a-la-india",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

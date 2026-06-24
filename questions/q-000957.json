@@ -1,0 +1,43 @@
+{
+  "id": "q-000957",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Islas Pitcairn?",
+  "answers": [
+    {
+      "text": "+60",
+      "correct": false
+    },
+    {
+      "text": "+82",
+      "correct": false
+    },
+    {
+      "text": "+689",
+      "correct": false
+    },
+    {
+      "text": "+64",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Islas Pitcairn es +64.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "islas-pitcairn"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

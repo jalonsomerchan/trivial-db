@@ -1,0 +1,44 @@
+{
+  "id": "q-000163",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento químico tiene el símbolo Bi”?",
+  "answers": [
+    {
+      "text": "bismuto",
+      "correct": true
+    },
+    {
+      "text": "iridio",
+      "correct": false
+    },
+    {
+      "text": "polonio",
+      "correct": false
+    },
+    {
+      "text": "talio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Bi corresponde al bismuto.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "bismuto",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-003245",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "Qué significa la sigla URL en tecnología. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "seguridad de la capa de transporte",
+      "correct": false
+    },
+    {
+      "text": "localizador uniforme de recursos",
+      "correct": true
+    },
+    {
+      "text": "sistema de nombres de dominio",
+      "correct": false
+    },
+    {
+      "text": "integración continua",
+      "correct": false
+    }
+  ],
+  "explanation": "En tecnología, URL significa localizador uniforme de recursos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "url",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-004033",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término gramatical corresponde a esta definición: “palabra con significado igual o parecido”?",
+  "answers": [
+    {
+      "text": "esdrújula",
+      "correct": false
+    },
+    {
+      "text": "hiato",
+      "correct": false
+    },
+    {
+      "text": "sinónimo",
+      "correct": true
+    },
+    {
+      "text": "morfema",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a “sinónimo”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "sinonimo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-002091",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "futbol"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de deporte: “Qué selección ganó el Mundial de fútbol de 2014”?",
+  "answers": [
+    {
+      "text": "Alemania Federal",
+      "correct": false
+    },
+    {
+      "text": "Argentina",
+      "correct": false
+    },
+    {
+      "text": "Alemania",
+      "correct": true
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    }
+  ],
+  "explanation": "La selección campeona del Mundial de 2014 fue Alemania.",
+  "sources": [
+    {
+      "title": "FIFA World Cup",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "futbol",
+    "alemania",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

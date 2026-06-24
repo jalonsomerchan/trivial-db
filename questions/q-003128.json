@@ -1,0 +1,44 @@
+{
+  "id": "q-003128",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "Qué sigla corresponde a “red de área local”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "LAN",
+      "correct": true
+    },
+    {
+      "text": "CRUD",
+      "correct": false
+    },
+    {
+      "text": "API",
+      "correct": false
+    },
+    {
+      "text": "UDP",
+      "correct": false
+    }
+  ],
+  "explanation": "La sigla correspondiente a “red de área local” es LAN.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "lan",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

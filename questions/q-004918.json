@@ -1,0 +1,43 @@
+{
+  "id": "q-004918",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de matematicas, completa la respuesta correcta: Cuánto es 35 - 33?",
+  "answers": [
+    {
+      "text": "2",
+      "correct": true
+    },
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": false
+    }
+  ],
+  "explanation": "La resta 35 - 33 da 2.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

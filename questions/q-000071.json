@@ -1,0 +1,43 @@
+{
+  "id": "q-000071",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento químico tiene el símbolo Dy?",
+  "answers": [
+    {
+      "text": "terbio",
+      "correct": false
+    },
+    {
+      "text": "erbio",
+      "correct": false
+    },
+    {
+      "text": "europio",
+      "correct": false
+    },
+    {
+      "text": "disprosio",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo Dy corresponde al disprosio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "disprosio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

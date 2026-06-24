@@ -1,0 +1,42 @@
+{
+  "id": "q-003805",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa curar?",
+  "answers": [
+    {
+      "text": "conservar con sal, azúcar, humo o tiempo",
+      "correct": true
+    },
+    {
+      "text": "preparación previa de ingredientes y utensilios",
+      "correct": false
+    },
+    {
+      "text": "conservar o cocinar con vinagre, aceite y especias",
+      "correct": false
+    },
+    {
+      "text": "trabajar una masa con las manos o máquina",
+      "correct": false
+    }
+  ],
+  "explanation": "curar significa conservar con sal, azúcar, humo o tiempo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "curar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

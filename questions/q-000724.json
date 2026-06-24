@@ -1,0 +1,43 @@
+{
+  "id": "q-000724",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO alfa-3 de Hungría?",
+  "answers": [
+    {
+      "text": "LKA",
+      "correct": false
+    },
+    {
+      "text": "TKM",
+      "correct": false
+    },
+    {
+      "text": "COL",
+      "correct": false
+    },
+    {
+      "text": "HUN",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO alfa-3 de Hungría es HUN.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos",
+    "hungria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

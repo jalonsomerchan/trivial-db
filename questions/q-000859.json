@@ -1,0 +1,43 @@
+{
+  "id": "q-000859",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO alfa-3 de Mauricio?",
+  "answers": [
+    {
+      "text": "MUS",
+      "correct": true
+    },
+    {
+      "text": "TUR",
+      "correct": false
+    },
+    {
+      "text": "SHN",
+      "correct": false
+    },
+    {
+      "text": "TJK",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO alfa-3 de Mauricio es MUS.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos",
+    "mauricio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

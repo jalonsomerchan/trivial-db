@@ -1,0 +1,43 @@
+{
+  "id": "q-003537",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato tabulé?",
+  "answers": [
+    {
+      "text": "Corea",
+      "correct": false
+    },
+    {
+      "text": "Filipinas",
+      "correct": false
+    },
+    {
+      "text": "Levante mediterráneo",
+      "correct": true
+    },
+    {
+      "text": "Venezuela y Colombia",
+      "correct": false
+    }
+  ],
+  "explanation": "tabulé se asocia tradicionalmente con Levante mediterráneo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "tabule",
+    "levante-mediterraneo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

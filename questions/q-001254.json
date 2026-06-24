@@ -1,0 +1,43 @@
+{
+  "id": "q-001254",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién fue el canciller asociado a la unificación alemana?",
+  "answers": [
+    {
+      "text": "Klemens von Metternich",
+      "correct": false
+    },
+    {
+      "text": "Otto von Bismarck",
+      "correct": true
+    },
+    {
+      "text": "Giuseppe Garibaldi",
+      "correct": false
+    },
+    {
+      "text": "Napoleón III",
+      "correct": false
+    }
+  ],
+  "explanation": "El canciller asociado a la unificación alemana fue Otto von Bismarck.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "historia",
+    "otto-von-bismarck"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

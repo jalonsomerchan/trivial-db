@@ -1,0 +1,42 @@
+{
+  "id": "q-004637",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 9 × 6?",
+  "answers": [
+    {
+      "text": "63",
+      "correct": false
+    },
+    {
+      "text": "48",
+      "correct": false
+    },
+    {
+      "text": "54",
+      "correct": true
+    },
+    {
+      "text": "57",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto de 9 por 6 es 54.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

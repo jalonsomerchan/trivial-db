@@ -1,0 +1,43 @@
+{
+  "id": "q-001249",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año ocurrió la Tratado de Tordesillas?",
+  "answers": [
+    {
+      "text": "1469",
+      "correct": false
+    },
+    {
+      "text": "1519",
+      "correct": false
+    },
+    {
+      "text": "1444",
+      "correct": false
+    },
+    {
+      "text": "1494",
+      "correct": true
+    }
+  ],
+  "explanation": "La Tratado de Tordesillas ocurrió en 1494.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratado-de-tordesillas",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

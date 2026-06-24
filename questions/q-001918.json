@@ -1,0 +1,44 @@
+{
+  "id": "q-001918",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Quién escribió “Fuenteovejuna””?",
+  "answers": [
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": false
+    },
+    {
+      "text": "Lope de Vega",
+      "correct": true
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    }
+  ],
+  "explanation": "“Fuenteovejuna” es una obra de Lope de Vega.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "fuenteovejuna",
+    "lope-de-vega",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000278",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Qué elemento tiene el número atómico 9?",
+  "answers": [
+    {
+      "text": "magnesio",
+      "correct": false
+    },
+    {
+      "text": "carbono",
+      "correct": false
+    },
+    {
+      "text": "boro",
+      "correct": false
+    },
+    {
+      "text": "flúor",
+      "correct": true
+    }
+  ],
+  "explanation": "El número atómico 9 corresponde al flúor.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "fluor",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

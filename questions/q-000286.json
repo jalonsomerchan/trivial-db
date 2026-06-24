@@ -1,0 +1,44 @@
+{
+  "id": "q-000286",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico tiene el símbolo Fm?",
+  "answers": [
+    {
+      "text": "berkelio",
+      "correct": false
+    },
+    {
+      "text": "curio",
+      "correct": false
+    },
+    {
+      "text": "fermio",
+      "correct": true
+    },
+    {
+      "text": "seaborgio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Fm corresponde al fermio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "fermio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

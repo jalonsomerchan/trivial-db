@@ -1,0 +1,44 @@
+{
+  "id": "q-003179",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Para qué se usa principalmente HTTP”?",
+  "answers": [
+    {
+      "text": "escritorio remoto",
+      "correct": false
+    },
+    {
+      "text": "directorios",
+      "correct": false
+    },
+    {
+      "text": "base de datos",
+      "correct": false
+    },
+    {
+      "text": "web",
+      "correct": true
+    }
+  ],
+  "explanation": "HTTP se usa principalmente para web.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "http",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-004457",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término gramatical corresponde a esta definición: “unión de dos vocales en una misma sílaba”?",
+  "answers": [
+    {
+      "text": "diptongo",
+      "correct": true
+    },
+    {
+      "text": "pronombre",
+      "correct": false
+    },
+    {
+      "text": "homónima",
+      "correct": false
+    },
+    {
+      "text": "lexema",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a “diptongo”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "diptongo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

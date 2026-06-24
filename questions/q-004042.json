@@ -1,0 +1,42 @@
+{
+  "id": "q-004042",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "En gramática, ¿qué es un verbo?",
+  "answers": [
+    {
+      "text": "palabra que acompaña al sustantivo y concreta su referencia",
+      "correct": false
+    },
+    {
+      "text": "palabra que sustituye o representa a un nombre",
+      "correct": false
+    },
+    {
+      "text": "palabra que expresa acciones, procesos o estados",
+      "correct": true
+    },
+    {
+      "text": "palabra que modifica a un verbo, adjetivo u otro adverbio",
+      "correct": false
+    }
+  ],
+  "explanation": "Un verbo es una palabra que expresa acciones, procesos o estados.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "verbo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

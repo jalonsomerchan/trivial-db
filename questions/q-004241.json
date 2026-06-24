@@ -1,0 +1,43 @@
+{
+  "id": "q-004241",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "easy",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál es el plural correcto de “cruz”?",
+  "answers": [
+    {
+      "text": "bisturíes",
+      "correct": false
+    },
+    {
+      "text": "voces",
+      "correct": false
+    },
+    {
+      "text": "tabúes",
+      "correct": false
+    },
+    {
+      "text": "cruces",
+      "correct": true
+    }
+  ],
+  "explanation": "El plural correcto de “cruz” es “cruces”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "cruz",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

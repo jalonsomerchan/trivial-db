@@ -1,0 +1,42 @@
+{
+  "id": "q-002883",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con ConcernedApe?",
+  "answers": [
+    {
+      "text": "Stardew Valley",
+      "correct": true
+    },
+    {
+      "text": "Counter-Strike",
+      "correct": false
+    },
+    {
+      "text": "Silent Hill",
+      "correct": false
+    },
+    {
+      "text": "Hollow Knight",
+      "correct": false
+    }
+  ],
+  "explanation": "ConcernedApe desarrolló o publicó “Stardew Valley”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "concernedape"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

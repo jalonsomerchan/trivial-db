@@ -1,0 +1,43 @@
+{
+  "id": "q-003820",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "Cuál es un ingrediente principal de baklava. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "maíz",
+      "correct": false
+    },
+    {
+      "text": "café y mascarpone",
+      "correct": false
+    },
+    {
+      "text": "huevo y tomate",
+      "correct": false
+    },
+    {
+      "text": "masa filo y frutos secos",
+      "correct": true
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de baklava es masa filo y frutos secos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "baklava",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

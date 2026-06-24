@@ -1,0 +1,43 @@
+{
+  "id": "q-000712",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Costa de Marfil?",
+  "answers": [
+    {
+      "text": ".ni",
+      "correct": false
+    },
+    {
+      "text": ".mg",
+      "correct": false
+    },
+    {
+      "text": ".so",
+      "correct": false
+    },
+    {
+      "text": ".ci",
+      "correct": true
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Costa de Marfil es .ci.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "costa-de-marfil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

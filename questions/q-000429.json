@@ -1,0 +1,44 @@
+{
+  "id": "q-000429",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento químico tiene el símbolo Sg”?",
+  "answers": [
+    {
+      "text": "copernicio",
+      "correct": false
+    },
+    {
+      "text": "seaborgio",
+      "correct": true
+    },
+    {
+      "text": "fermio",
+      "correct": false
+    },
+    {
+      "text": "nobelio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Sg corresponde al seaborgio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "seaborgio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

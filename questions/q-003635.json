@@ -1,0 +1,42 @@
+{
+  "id": "q-003635",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa sofreír?",
+  "answers": [
+    {
+      "text": "retirar espuma de una preparación",
+      "correct": false
+    },
+    {
+      "text": "preparación previa de ingredientes y utensilios",
+      "correct": false
+    },
+    {
+      "text": "cocinar a fuego medio en grasa como base de un guiso",
+      "correct": true
+    },
+    {
+      "text": "mezclar líquidos que normalmente no se unen",
+      "correct": false
+    }
+  ],
+  "explanation": "sofreír significa cocinar a fuego medio en grasa como base de un guiso.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "sofreir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

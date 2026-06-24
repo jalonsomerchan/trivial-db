@@ -1,0 +1,42 @@
+{
+  "id": "q-001373",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1978?",
+  "answers": [
+    {
+      "text": "creación del Estado de Israel",
+      "correct": false
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": false
+    },
+    {
+      "text": "aprobación de la Constitución española",
+      "correct": true
+    },
+    {
+      "text": "toma de la Bastilla",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1978 ocurrió la aprobación de la Constitución española.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "aprobacion-de-la-constitucion-espanola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

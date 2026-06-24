@@ -1,0 +1,42 @@
+{
+  "id": "q-004614",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "geometria"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el perímetro de un rectángulo de lados 14 y 12?",
+  "answers": [
+    {
+      "text": "168",
+      "correct": false
+    },
+    {
+      "text": "66",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": true
+    },
+    {
+      "text": "4",
+      "correct": false
+    }
+  ],
+  "explanation": "El perímetro es 2 × (14 + 12) = 52.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "geometria",
+    "perimetro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

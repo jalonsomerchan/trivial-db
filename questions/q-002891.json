@@ -1,0 +1,43 @@
+{
+  "id": "q-002891",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Alekséi Pázhitnov?",
+  "answers": [
+    {
+      "text": "Halo: Combat Evolved",
+      "correct": false
+    },
+    {
+      "text": "Animal Crossing",
+      "correct": false
+    },
+    {
+      "text": "Quake",
+      "correct": false
+    },
+    {
+      "text": "Tetris",
+      "correct": true
+    }
+  ],
+  "explanation": "Alekséi Pázhitnov desarrolló o publicó “Tetris”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "aleksei-pazhitnov",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

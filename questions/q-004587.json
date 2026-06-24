@@ -1,0 +1,42 @@
+{
+  "id": "q-004587",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 50% de 360?",
+  "answers": [
+    {
+      "text": "180",
+      "correct": true
+    },
+    {
+      "text": "185",
+      "correct": false
+    },
+    {
+      "text": "175",
+      "correct": false
+    },
+    {
+      "text": "190",
+      "correct": false
+    }
+  ],
+  "explanation": "El 50% de 360 es 360 × 50/100 = 180.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

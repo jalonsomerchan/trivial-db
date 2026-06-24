@@ -1,0 +1,42 @@
+{
+  "id": "q-003776",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado carne especiada?",
+  "answers": [
+    {
+      "text": "fish and chips",
+      "correct": false
+    },
+    {
+      "text": "taco",
+      "correct": false
+    },
+    {
+      "text": "rendang",
+      "correct": true
+    },
+    {
+      "text": "boeuf bourguignon",
+      "correct": false
+    }
+  ],
+  "explanation": "rendang destaca por el uso de carne especiada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "carne-especiada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001507",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Quién escribió “Otelo””?",
+  "answers": [
+    {
+      "text": "Carlos Fuentes",
+      "correct": false
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": true
+    },
+    {
+      "text": "George Orwell",
+      "correct": false
+    },
+    {
+      "text": "Benito Pérez Galdós",
+      "correct": false
+    }
+  ],
+  "explanation": "“Otelo” es una obra de William Shakespeare.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "otelo",
+    "william-shakespeare",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

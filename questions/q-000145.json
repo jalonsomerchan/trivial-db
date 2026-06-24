@@ -1,0 +1,43 @@
+{
+  "id": "q-000145",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el número atómico del carbono?",
+  "answers": [
+    {
+      "text": "6",
+      "correct": true
+    },
+    {
+      "text": "8",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    }
+  ],
+  "explanation": "El carbono tiene número atómico 6.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "carbono"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

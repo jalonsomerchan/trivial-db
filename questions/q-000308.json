@@ -1,0 +1,43 @@
+{
+  "id": "q-000308",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento químico tiene el símbolo Lv?",
+  "answers": [
+    {
+      "text": "flerovio",
+      "correct": false
+    },
+    {
+      "text": "roentgenio",
+      "correct": false
+    },
+    {
+      "text": "oganesón",
+      "correct": false
+    },
+    {
+      "text": "livermorio",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo Lv corresponde al livermorio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "livermorio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

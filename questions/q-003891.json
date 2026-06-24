@@ -1,0 +1,43 @@
+{
+  "id": "q-003891",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de gastronomia: “Cuál es un ingrediente principal de tortilla de patatas””?",
+  "answers": [
+    {
+      "text": "masa filo y frutos secos",
+      "correct": false
+    },
+    {
+      "text": "patata",
+      "correct": true
+    },
+    {
+      "text": "frijoles negros",
+      "correct": false
+    },
+    {
+      "text": "arroz",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de tortilla de patatas es patata.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "tortilla-de-patatas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

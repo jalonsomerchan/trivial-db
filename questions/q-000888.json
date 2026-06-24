@@ -1,0 +1,43 @@
+{
+  "id": "q-000888",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Gibraltar?",
+  "answers": [
+    {
+      "text": ".ro",
+      "correct": false
+    },
+    {
+      "text": ".se",
+      "correct": false
+    },
+    {
+      "text": ".gi",
+      "correct": true
+    },
+    {
+      "text": ".im",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Gibraltar es .gi.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "gibraltar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

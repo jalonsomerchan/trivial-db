@@ -1,0 +1,44 @@
+{
+  "id": "q-000433",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Rh?",
+  "answers": [
+    {
+      "text": "rutenio",
+      "correct": false
+    },
+    {
+      "text": "molibdeno",
+      "correct": false
+    },
+    {
+      "text": "rodio",
+      "correct": true
+    },
+    {
+      "text": "cadmio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Rh corresponde al rodio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "rodio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

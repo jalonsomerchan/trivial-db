@@ -1,0 +1,43 @@
+{
+  "id": "q-001439",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién fue el primer presidente de Estados Unidos?",
+  "answers": [
+    {
+      "text": "Thomas Jefferson",
+      "correct": false
+    },
+    {
+      "text": "George Washington",
+      "correct": true
+    },
+    {
+      "text": "John Adams",
+      "correct": false
+    },
+    {
+      "text": "James Madison",
+      "correct": false
+    }
+  ],
+  "explanation": "El primer presidente de Estados Unidos fue George Washington.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "historia",
+    "george-washington"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

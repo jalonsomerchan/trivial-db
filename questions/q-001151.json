@@ -1,0 +1,43 @@
+{
+  "id": "q-001151",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1789, relacionado con la comienzo de la Revolución francesa?",
+  "answers": [
+    {
+      "text": "siglo XVII",
+      "correct": false
+    },
+    {
+      "text": "siglo VIII",
+      "correct": false
+    },
+    {
+      "text": "siglo I",
+      "correct": false
+    },
+    {
+      "text": "siglo XVIII",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1789 pertenece al siglo XVIII.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "comienzo-de-la-revolucion-francesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

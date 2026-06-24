@@ -1,0 +1,43 @@
+{
+  "id": "q-004090",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “Cuál es el plural correcto de “espécimen”. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "especímenes",
+      "correct": true
+    },
+    {
+      "text": "ordenadores",
+      "correct": false
+    },
+    {
+      "text": "fáciles",
+      "correct": false
+    },
+    {
+      "text": "caracteres",
+      "correct": false
+    }
+  ],
+  "explanation": "El plural correcto de “espécimen” es “especímenes”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "especimen",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

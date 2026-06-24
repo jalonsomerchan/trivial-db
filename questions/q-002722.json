@@ -1,0 +1,44 @@
+{
+  "id": "q-002722",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compañía o creador desarrolló “Space Invaders”?",
+  "answers": [
+    {
+      "text": "Bungie",
+      "correct": false
+    },
+    {
+      "text": "Epic Games",
+      "correct": false
+    },
+    {
+      "text": "Riot Games",
+      "correct": false
+    },
+    {
+      "text": "Taito",
+      "correct": true
+    }
+  ],
+  "explanation": "“Space Invaders” se asocia con Taito.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "space-invaders",
+    "taito",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

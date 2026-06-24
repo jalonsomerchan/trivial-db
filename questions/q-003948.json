@@ -1,0 +1,42 @@
+{
+  "id": "q-003948",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado masa rellena?",
+  "answers": [
+    {
+      "text": "tortilla de patatas",
+      "correct": false
+    },
+    {
+      "text": "kasha",
+      "correct": false
+    },
+    {
+      "text": "ratatouille",
+      "correct": false
+    },
+    {
+      "text": "samosa",
+      "correct": true
+    }
+  ],
+  "explanation": "samosa destaca por el uso de masa rellena.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "masa-rellena"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

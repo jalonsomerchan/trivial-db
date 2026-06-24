@@ -1,0 +1,43 @@
+{
+  "id": "q-002604",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué película fue dirigida por Alejandro González Iñárritu en esta selección. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Terminator 2",
+      "correct": false
+    },
+    {
+      "text": "Birdman",
+      "correct": true
+    },
+    {
+      "text": "Tesis",
+      "correct": false
+    },
+    {
+      "text": "La forma del agua",
+      "correct": false
+    }
+  ],
+  "explanation": "Alejandro González Iñárritu dirigió “Birdman”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alejandro-gonzalez-inarritu",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

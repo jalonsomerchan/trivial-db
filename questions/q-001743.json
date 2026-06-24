@@ -1,0 +1,44 @@
+{
+  "id": "q-001743",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué obra fue escrita por autor anónimo”?",
+  "answers": [
+    {
+      "text": "El Lazarillo de Tormes",
+      "correct": true
+    },
+    {
+      "text": "Rayuela",
+      "correct": false
+    },
+    {
+      "text": "La Divina Comedia",
+      "correct": false
+    },
+    {
+      "text": "La peste",
+      "correct": false
+    }
+  ],
+  "explanation": "autor anónimo escribió “El Lazarillo de Tormes”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "el-lazarillo-de-tormes",
+    "autor-anonimo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

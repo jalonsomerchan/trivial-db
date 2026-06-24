@@ -1,0 +1,42 @@
+{
+  "id": "q-004901",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "geometria"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el perímetro de un rectángulo de lados 4 y 17?",
+  "answers": [
+    {
+      "text": "68",
+      "correct": false
+    },
+    {
+      "text": "46",
+      "correct": false
+    },
+    {
+      "text": "26",
+      "correct": false
+    },
+    {
+      "text": "42",
+      "correct": true
+    }
+  ],
+  "explanation": "El perímetro es 2 × (4 + 17) = 42.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "geometria",
+    "perimetro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

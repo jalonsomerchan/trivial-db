@@ -1,0 +1,44 @@
+{
+  "id": "q-003509",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Con qué país o región se asocia tradicionalmente el plato miso shiru?",
+  "answers": [
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Vietnam",
+      "correct": false
+    },
+    {
+      "text": "Levante mediterráneo",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": true
+    }
+  ],
+  "explanation": "miso shiru se asocia tradicionalmente con Japón.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "miso-shiru",
+    "japon",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

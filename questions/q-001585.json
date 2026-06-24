@@ -1,0 +1,44 @@
+{
+  "id": "q-001585",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "Quién escribió “La metamorfosis”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Lope de Vega",
+      "correct": false
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": false
+    },
+    {
+      "text": "Franz Kafka",
+      "correct": true
+    },
+    {
+      "text": "Camilo José Cela",
+      "correct": false
+    }
+  ],
+  "explanation": "“La metamorfosis” es una obra de Franz Kafka.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-metamorfosis",
+    "franz-kafka",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

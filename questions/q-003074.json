@@ -1,0 +1,43 @@
+{
+  "id": "q-003074",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué formato se utiliza habitualmente para documento portable”?",
+  "answers": [
+    {
+      "text": "MP4",
+      "correct": false
+    },
+    {
+      "text": "PDF",
+      "correct": true
+    },
+    {
+      "text": "YAML",
+      "correct": false
+    },
+    {
+      "text": "WebP",
+      "correct": false
+    }
+  ],
+  "explanation": "El formato PDF se utiliza habitualmente para documento portable.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "pdf",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

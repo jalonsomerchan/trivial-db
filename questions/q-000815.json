@@ -1,0 +1,43 @@
+{
+  "id": "q-000815",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Angola?",
+  "answers": [
+    {
+      "text": "+966",
+      "correct": false
+    },
+    {
+      "text": "+244",
+      "correct": true
+    },
+    {
+      "text": "+964",
+      "correct": false
+    },
+    {
+      "text": "+49",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Angola es +244.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "angola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

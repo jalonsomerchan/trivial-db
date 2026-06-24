@@ -1,0 +1,44 @@
+{
+  "id": "q-000104",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál es el número atómico del lantano. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "51",
+      "correct": false
+    },
+    {
+      "text": "57",
+      "correct": true
+    },
+    {
+      "text": "49",
+      "correct": false
+    }
+  ],
+  "explanation": "El lantano tiene número atómico 57.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "lantano",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

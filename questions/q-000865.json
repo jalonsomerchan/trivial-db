@@ -1,0 +1,43 @@
+{
+  "id": "q-000865",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Países Bajos?",
+  "answers": [
+    {
+      "text": "+61",
+      "correct": false
+    },
+    {
+      "text": "+31",
+      "correct": true
+    },
+    {
+      "text": "+1869",
+      "correct": false
+    },
+    {
+      "text": "+964",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Países Bajos es +31.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

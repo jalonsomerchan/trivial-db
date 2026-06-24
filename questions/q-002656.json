@@ -1,0 +1,43 @@
+{
+  "id": "q-002656",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película “Ciudadano Kane”?",
+  "answers": [
+    {
+      "text": "Robert Zemeckis",
+      "correct": false
+    },
+    {
+      "text": "Pete Docter",
+      "correct": false
+    },
+    {
+      "text": "Orson Welles",
+      "correct": true
+    },
+    {
+      "text": "Alfred Hitchcock",
+      "correct": false
+    }
+  ],
+  "explanation": "“Ciudadano Kane” fue dirigida por Orson Welles.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "ciudadano-kane",
+    "orson-welles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

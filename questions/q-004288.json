@@ -1,0 +1,43 @@
+{
+  "id": "q-004288",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "Cuál es un sinónimo de “oscuridad”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "actual",
+      "correct": false
+    },
+    {
+      "text": "contento",
+      "correct": false
+    },
+    {
+      "text": "verdadero",
+      "correct": false
+    },
+    {
+      "text": "tiniebla",
+      "correct": true
+    }
+  ],
+  "explanation": "“tiniebla” es un sinónimo de “oscuridad”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "oscuridad",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

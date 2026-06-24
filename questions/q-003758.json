@@ -1,0 +1,44 @@
+{
+  "id": "q-003758",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Qué plato se asocia con Corea y suele llevar arroz?",
+  "answers": [
+    {
+      "text": "bibimbap",
+      "correct": true
+    },
+    {
+      "text": "tzatziki",
+      "correct": false
+    },
+    {
+      "text": "pizza napolitana",
+      "correct": false
+    },
+    {
+      "text": "nasi goreng",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es bibimbap.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "corea",
+    "arroz",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

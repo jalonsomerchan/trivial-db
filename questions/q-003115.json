@@ -1,0 +1,43 @@
+{
+  "id": "q-003115",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla CRUD en tecnología?",
+  "answers": [
+    {
+      "text": "crear, leer, actualizar y borrar",
+      "correct": true
+    },
+    {
+      "text": "mapeo objeto-relacional",
+      "correct": false
+    },
+    {
+      "text": "unidad de procesamiento gráfico",
+      "correct": false
+    },
+    {
+      "text": "protocolo de control de transmisión",
+      "correct": false
+    }
+  ],
+  "explanation": "En tecnología, CRUD significa crear, leer, actualizar y borrar.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "crud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

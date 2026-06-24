@@ -1,0 +1,43 @@
+{
+  "id": "q-003082",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla WAN en tecnología?",
+  "answers": [
+    {
+      "text": "sistema de nombres de dominio",
+      "correct": false
+    },
+    {
+      "text": "mapeo objeto-relacional",
+      "correct": false
+    },
+    {
+      "text": "protocolo de control de transmisión",
+      "correct": false
+    },
+    {
+      "text": "red de área amplia",
+      "correct": true
+    }
+  ],
+  "explanation": "En tecnología, WAN significa red de área amplia.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "wan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

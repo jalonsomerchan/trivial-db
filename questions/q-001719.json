@@ -1,0 +1,43 @@
+{
+  "id": "q-001719",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué composición se asocia con Piotr Ilich Chaikovski?",
+  "answers": [
+    {
+      "text": "Cuadros de una exposición",
+      "correct": false
+    },
+    {
+      "text": "La flauta mágica",
+      "correct": false
+    },
+    {
+      "text": "La traviata",
+      "correct": false
+    },
+    {
+      "text": "El lago de los cisnes",
+      "correct": true
+    }
+  ],
+  "explanation": "Piotr Ilich Chaikovski compuso “El lago de los cisnes”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "el-lago-de-los-cisnes",
+    "piotr-ilich-chaikovski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

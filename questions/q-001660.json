@@ -1,0 +1,44 @@
+{
+  "id": "q-001660",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Quién escribió “Tirano Banderas”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Luis Martín-Santos",
+      "correct": false
+    },
+    {
+      "text": "George Orwell",
+      "correct": false
+    },
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": true
+    },
+    {
+      "text": "Homero",
+      "correct": false
+    }
+  ],
+  "explanation": "“Tirano Banderas” es una obra de Ramón María del Valle-Inclán.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "tirano-banderas",
+    "ramon-maria-del-valle-inclan",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003557",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Qué plato de esta lista tiene como ingrediente destacado pulpo”?",
+  "answers": [
+    {
+      "text": "hamburguesa",
+      "correct": false
+    },
+    {
+      "text": "pulpo a la gallega",
+      "correct": true
+    },
+    {
+      "text": "baklava",
+      "correct": false
+    },
+    {
+      "text": "jerk chicken",
+      "correct": false
+    }
+  ],
+  "explanation": "pulpo a la gallega destaca por el uso de pulpo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pulpo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

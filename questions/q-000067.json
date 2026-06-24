@@ -1,0 +1,44 @@
+{
+  "id": "q-000067",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué elemento químico tiene el símbolo Nh”?",
+  "answers": [
+    {
+      "text": "flerovio",
+      "correct": false
+    },
+    {
+      "text": "darmstadtio",
+      "correct": false
+    },
+    {
+      "text": "copernicio",
+      "correct": false
+    },
+    {
+      "text": "nihonio",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo Nh corresponde al nihonio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "nihonio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

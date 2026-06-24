@@ -1,0 +1,44 @@
+{
+  "id": "q-002570",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Quién dirigió la película “El silencio de los corderos””?",
+  "answers": [
+    {
+      "text": "John Lasseter",
+      "correct": false
+    },
+    {
+      "text": "Jonathan Demme",
+      "correct": true
+    },
+    {
+      "text": "Gary Trousdale y Kirk Wise",
+      "correct": false
+    },
+    {
+      "text": "Chris Buck y Jennifer Lee",
+      "correct": false
+    }
+  ],
+  "explanation": "“El silencio de los corderos” fue dirigida por Jonathan Demme.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-silencio-de-los-corderos",
+    "jonathan-demme",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004174",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "Según la posición de la sílaba tónica, ¿qué tipo de palabra es “café”?",
+  "answers": [
+    {
+      "text": "esdrújula",
+      "correct": false
+    },
+    {
+      "text": "llana",
+      "correct": false
+    },
+    {
+      "text": "aguda",
+      "correct": true
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    }
+  ],
+  "explanation": "“café” es una palabra aguda.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "cafe",
+    "aguda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

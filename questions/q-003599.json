@@ -1,0 +1,42 @@
+{
+  "id": "q-003599",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado pan plano?",
+  "answers": [
+    {
+      "text": "lomo saltado",
+      "correct": false
+    },
+    {
+      "text": "pozole",
+      "correct": false
+    },
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "naan",
+      "correct": true
+    }
+  ],
+  "explanation": "naan destaca por el uso de pan plano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pan-plano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

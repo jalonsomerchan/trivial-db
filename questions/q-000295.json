@@ -1,0 +1,44 @@
+{
+  "id": "q-000295",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál es el número atómico del samario. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "65",
+      "correct": false
+    },
+    {
+      "text": "57",
+      "correct": false
+    },
+    {
+      "text": "62",
+      "correct": true
+    },
+    {
+      "text": "54",
+      "correct": false
+    }
+  ],
+  "explanation": "El samario tiene número atómico 62.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "samario",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

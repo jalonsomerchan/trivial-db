@@ -1,0 +1,43 @@
+{
+  "id": "q-003732",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Cuál de estos términos es una técnica culinaria relacionada con “retirar””?",
+  "answers": [
+    {
+      "text": "sofreír",
+      "correct": false
+    },
+    {
+      "text": "ligar",
+      "correct": false
+    },
+    {
+      "text": "al dente",
+      "correct": false
+    },
+    {
+      "text": "desespumar",
+      "correct": true
+    }
+  ],
+  "explanation": "La respuesta correcta es desespumar, una técnica culinaria reconocida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "desespumar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

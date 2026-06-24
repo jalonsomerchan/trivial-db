@@ -1,0 +1,43 @@
+{
+  "id": "q-001034",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "Qué acontecimiento histórico ocurrió en 1648. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "aprobación de la Constitución española",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": true
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Nicea",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1648 ocurrió la Paz de Westfalia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "paz-de-westfalia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

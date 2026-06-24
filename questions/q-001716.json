@@ -1,0 +1,44 @@
+{
+  "id": "q-001716",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Quién escribió “El ingenioso hidalgo don Quijote de la Mancha”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Luis Martín-Santos",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Cervantes",
+      "correct": true
+    },
+    {
+      "text": "Mark Twain",
+      "correct": false
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    }
+  ],
+  "explanation": "“El ingenioso hidalgo don Quijote de la Mancha” es una obra de Miguel de Cervantes.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "el-ingenioso-hidalgo-don-quijote-de-la-mancha",
+    "miguel-de-cervantes",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-003416",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué sigla corresponde a “red de área amplia””?",
+  "answers": [
+    {
+      "text": "TCP",
+      "correct": false
+    },
+    {
+      "text": "DOM",
+      "correct": false
+    },
+    {
+      "text": "WAN",
+      "correct": true
+    },
+    {
+      "text": "SSD",
+      "correct": false
+    }
+  ],
+  "explanation": "La sigla correspondiente a “red de área amplia” es WAN.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "wan",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

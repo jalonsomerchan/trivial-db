@@ -1,0 +1,44 @@
+{
+  "id": "q-001436",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “En qué año ocurrió la independencia de Grecia reconocida por el Tratado de Constantinopla”?",
+  "answers": [
+    {
+      "text": "1842",
+      "correct": false
+    },
+    {
+      "text": "1822",
+      "correct": false
+    },
+    {
+      "text": "1832",
+      "correct": true
+    },
+    {
+      "text": "1812",
+      "correct": false
+    }
+  ],
+  "explanation": "La independencia de Grecia reconocida por el Tratado de Constantinopla ocurrió en 1832.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "independencia-de-grecia-reconocida-por-el-tratado-de-constantinopla",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

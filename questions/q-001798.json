@@ -1,0 +1,44 @@
+{
+  "id": "q-001798",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Quién escribió “El extranjero””?",
+  "answers": [
+    {
+      "text": "Luis Martín-Santos",
+      "correct": false
+    },
+    {
+      "text": "Pablo Neruda",
+      "correct": false
+    },
+    {
+      "text": "Albert Camus",
+      "correct": true
+    },
+    {
+      "text": "Miguel de Unamuno",
+      "correct": false
+    }
+  ],
+  "explanation": "“El extranjero” es una obra de Albert Camus.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "el-extranjero",
+    "albert-camus",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

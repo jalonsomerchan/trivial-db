@@ -1,0 +1,44 @@
+{
+  "id": "q-002538",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿En qué año se estrenó “Matrix”?",
+  "answers": [
+    {
+      "text": "1994",
+      "correct": false
+    },
+    {
+      "text": "1999 (3)",
+      "correct": false
+    },
+    {
+      "text": "1953",
+      "correct": false
+    },
+    {
+      "text": "1999",
+      "correct": true
+    }
+  ],
+  "explanation": "“Matrix” se estrenó en 1999.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "matrix",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

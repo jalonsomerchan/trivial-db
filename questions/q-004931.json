@@ -1,0 +1,42 @@
+{
+  "id": "q-004931",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 6 × 8?",
+  "answers": [
+    {
+      "text": "46",
+      "correct": false
+    },
+    {
+      "text": "48",
+      "correct": true
+    },
+    {
+      "text": "54",
+      "correct": false
+    },
+    {
+      "text": "40",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto de 6 por 8 es 48.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

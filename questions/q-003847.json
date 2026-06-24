@@ -1,0 +1,43 @@
+{
+  "id": "q-003847",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué plato de esta lista tiene como ingrediente destacado carne asada”?",
+  "answers": [
+    {
+      "text": "bobó de camarão",
+      "correct": false
+    },
+    {
+      "text": "hamburguesa",
+      "correct": false
+    },
+    {
+      "text": "shawarma",
+      "correct": true
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    }
+  ],
+  "explanation": "shawarma destaca por el uso de carne asada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "carne-asada",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

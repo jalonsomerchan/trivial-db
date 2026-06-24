@@ -1,0 +1,43 @@
+{
+  "id": "q-000933",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código de moneda se usa en Timor Oriental?",
+  "answers": [
+    {
+      "text": "USD",
+      "correct": true
+    },
+    {
+      "text": "SVC",
+      "correct": false
+    },
+    {
+      "text": "BBD",
+      "correct": false
+    },
+    {
+      "text": "PHP",
+      "correct": false
+    }
+  ],
+  "explanation": "El código de moneda asociado a Timor Oriental es USD.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "paises",
+    "timor-oriental"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

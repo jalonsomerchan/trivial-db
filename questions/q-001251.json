@@ -1,0 +1,43 @@
+{
+  "id": "q-001251",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1498, relacionado con la llegada de Vasco da Gama a la India?",
+  "answers": [
+    {
+      "text": "siglo IV",
+      "correct": false
+    },
+    {
+      "text": "siglo IX",
+      "correct": false
+    },
+    {
+      "text": "siglo XI",
+      "correct": false
+    },
+    {
+      "text": "siglo XV",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1498 pertenece al siglo XV.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "llegada-de-vasco-da-gama-a-la-india"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

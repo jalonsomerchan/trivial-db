@@ -1,0 +1,43 @@
+{
+  "id": "q-001367",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál de estos acontecimientos fue posterior a la independencia de la India. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Reforma protestante",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Waterloo",
+      "correct": false
+    },
+    {
+      "text": "creación del Estado de Israel",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1947, año de la independencia de la India.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

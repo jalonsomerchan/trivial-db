@@ -1,0 +1,44 @@
+{
+  "id": "q-000327",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Qué elemento químico tiene el símbolo He?",
+  "answers": [
+    {
+      "text": "berilio",
+      "correct": false
+    },
+    {
+      "text": "nitrógeno",
+      "correct": false
+    },
+    {
+      "text": "helio",
+      "correct": true
+    },
+    {
+      "text": "boro",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo He corresponde al helio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "helio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

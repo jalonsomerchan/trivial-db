@@ -1,0 +1,43 @@
+{
+  "id": "q-003201",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué formato se utiliza habitualmente para audio sin pérdida?",
+  "answers": [
+    {
+      "text": "AVIF",
+      "correct": false
+    },
+    {
+      "text": "MP3",
+      "correct": false
+    },
+    {
+      "text": "FLAC",
+      "correct": true
+    },
+    {
+      "text": "PNG",
+      "correct": false
+    }
+  ],
+  "explanation": "El formato FLAC se utiliza habitualmente para audio sin pérdida.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "flac",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

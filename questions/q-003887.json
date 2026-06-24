@@ -1,0 +1,42 @@
+{
+  "id": "q-003887",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos términos es una técnica culinaria relacionada con “evaporar”?",
+  "answers": [
+    {
+      "text": "reducir",
+      "correct": true
+    },
+    {
+      "text": "pasteurizar",
+      "correct": false
+    },
+    {
+      "text": "escaldar",
+      "correct": false
+    },
+    {
+      "text": "mise en place",
+      "correct": false
+    }
+  ],
+  "explanation": "La respuesta correcta es reducir, una técnica culinaria reconocida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "reducir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

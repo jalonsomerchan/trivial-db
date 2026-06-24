@@ -1,0 +1,42 @@
+{
+  "id": "q-003417",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién creó o impulsó originalmente el lenguaje Perl?",
+  "answers": [
+    {
+      "text": "IBM",
+      "correct": false
+    },
+    {
+      "text": "CODASYL",
+      "correct": false
+    },
+    {
+      "text": "Gavin Wood y Christian Reitwiessner",
+      "correct": false
+    },
+    {
+      "text": "Larry Wall",
+      "correct": true
+    }
+  ],
+  "explanation": "Perl se asocia históricamente con Larry Wall.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "perl"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

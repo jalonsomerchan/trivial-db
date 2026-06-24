@@ -1,0 +1,44 @@
+{
+  "id": "q-003393",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "Para qué se usa principalmente HTTPS. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "web segura",
+      "correct": true
+    },
+    {
+      "text": "base de datos",
+      "correct": false
+    },
+    {
+      "text": "base de datos documental",
+      "correct": false
+    },
+    {
+      "text": "directorios",
+      "correct": false
+    }
+  ],
+  "explanation": "HTTPS se usa principalmente para web segura.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "https",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

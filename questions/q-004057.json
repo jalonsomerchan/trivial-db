@@ -1,0 +1,43 @@
+{
+  "id": "q-004057",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de lengua, completa la respuesta correcta: Para un trivial de lengua, completa la respuesta correcta: Qué singular corresponde al plural “peces”?",
+  "answers": [
+    {
+      "text": "rubí",
+      "correct": false
+    },
+    {
+      "text": "pez",
+      "correct": true
+    },
+    {
+      "text": "bisturí",
+      "correct": false
+    },
+    {
+      "text": "jabalí",
+      "correct": false
+    }
+  ],
+  "explanation": "El singular de “peces” es “pez”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "pez",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001598",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién escribió “Veinte poemas de amor y una canción desesperada”?",
+  "answers": [
+    {
+      "text": "Luis Martín-Santos",
+      "correct": false
+    },
+    {
+      "text": "Mark Twain",
+      "correct": false
+    },
+    {
+      "text": "Pedro Calderón de la Barca",
+      "correct": false
+    },
+    {
+      "text": "Pablo Neruda",
+      "correct": true
+    }
+  ],
+  "explanation": "“Veinte poemas de amor y una canción desesperada” es una obra de Pablo Neruda.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "veinte-poemas-de-amor-y-una-cancion-desesperada",
+    "pablo-neruda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

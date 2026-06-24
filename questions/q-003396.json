@@ -1,0 +1,44 @@
+{
+  "id": "q-003396",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué puerto usa LDAP por defecto”?",
+  "answers": [
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "110",
+      "correct": false
+    },
+    {
+      "text": "389",
+      "correct": true
+    },
+    {
+      "text": "6379",
+      "correct": false
+    }
+  ],
+  "explanation": "LDAP suele usar el puerto 389 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "ldap",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

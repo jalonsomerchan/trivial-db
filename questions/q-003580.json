@@ -1,0 +1,43 @@
+{
+  "id": "q-003580",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Cuál es un ingrediente principal de pretzel?",
+  "answers": [
+    {
+      "text": "carne picada",
+      "correct": false
+    },
+    {
+      "text": "pan salado",
+      "correct": true
+    },
+    {
+      "text": "pescado frito",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de pretzel es pan salado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pretzel",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

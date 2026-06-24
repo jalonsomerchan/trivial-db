@@ -1,0 +1,43 @@
+{
+  "id": "q-000795",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué región continental se encuentra Hungría?",
+  "answers": [
+    {
+      "text": "África",
+      "correct": false
+    },
+    {
+      "text": "Oceanía",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": true
+    },
+    {
+      "text": "Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "Hungría se clasifica geográficamente en Europa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "continentes",
+    "paises",
+    "europa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

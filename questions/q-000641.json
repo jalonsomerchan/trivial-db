@@ -1,0 +1,43 @@
+{
+  "id": "q-000641",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Groenlandia?",
+  "answers": [
+    {
+      "text": "+299",
+      "correct": true
+    },
+    {
+      "text": "+1684",
+      "correct": false
+    },
+    {
+      "text": "+258",
+      "correct": false
+    },
+    {
+      "text": "+974",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Groenlandia es +299.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "groenlandia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

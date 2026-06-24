@@ -1,0 +1,43 @@
+{
+  "id": "q-004108",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es un sinónimo de “regalo””?",
+  "answers": [
+    {
+      "text": "sencillo",
+      "correct": false
+    },
+    {
+      "text": "obsequio",
+      "correct": true
+    },
+    {
+      "text": "docente",
+      "correct": false
+    },
+    {
+      "text": "diminuto",
+      "correct": false
+    }
+  ],
+  "explanation": "“obsequio” es un sinónimo de “regalo”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "regalo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

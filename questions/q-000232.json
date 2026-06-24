@@ -1,0 +1,44 @@
+{
+  "id": "q-000232",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "Cuál es el símbolo químico del estaño. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Rh",
+      "correct": false
+    },
+    {
+      "text": "Sn",
+      "correct": true
+    },
+    {
+      "text": "Cs",
+      "correct": false
+    },
+    {
+      "text": "Ru",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del estaño es Sn.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "estano",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

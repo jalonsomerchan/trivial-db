@@ -1,0 +1,42 @@
+{
+  "id": "q-003511",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa brunoise?",
+  "answers": [
+    {
+      "text": "sumergir brevemente un alimento en agua hirviendo",
+      "correct": false
+    },
+    {
+      "text": "trabajar una masa con las manos o máquina",
+      "correct": false
+    },
+    {
+      "text": "transformar alimentos mediante microorganismos",
+      "correct": false
+    },
+    {
+      "text": "corte en dados pequeños",
+      "correct": true
+    }
+  ],
+  "explanation": "brunoise significa corte en dados pequeños.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "brunoise"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003291",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto usa HTTPS por defecto?",
+  "answers": [
+    {
+      "text": "443",
+      "correct": true
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "1883",
+      "correct": false
+    },
+    {
+      "text": "22",
+      "correct": false
+    }
+  ],
+  "explanation": "HTTPS suele usar el puerto 443 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "https"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003358",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto usa RDP por defecto?",
+  "answers": [
+    {
+      "text": "6379",
+      "correct": false
+    },
+    {
+      "text": "3389",
+      "correct": true
+    },
+    {
+      "text": "1883",
+      "correct": false
+    },
+    {
+      "text": "445",
+      "correct": false
+    }
+  ],
+  "explanation": "RDP suele usar el puerto 3389 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "rdp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

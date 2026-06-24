@@ -1,0 +1,43 @@
+{
+  "id": "q-004458",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “exámenes, examenes, exámenés. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "examenes",
+      "correct": false
+    },
+    {
+      "text": "examénes",
+      "correct": false
+    },
+    {
+      "text": "exámenes",
+      "correct": true
+    },
+    {
+      "text": "exámenés",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “exámenes”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "examenes",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

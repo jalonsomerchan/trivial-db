@@ -1,0 +1,42 @@
+{
+  "id": "q-001259",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos acontecimientos fue posterior a la coronación de Napoleón Bonaparte como emperador?",
+  "answers": [
+    {
+      "text": "comienzo de la Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Trafalgar",
+      "correct": true
+    },
+    {
+      "text": "Tratado de Utrecht",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1804, año de la coronación de Napoleón Bonaparte como emperador.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

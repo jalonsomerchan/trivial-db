@@ -1,0 +1,43 @@
+{
+  "id": "q-001349",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 1957”?",
+  "answers": [
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    },
+    {
+      "text": "firma de los Tratados de Roma",
+      "correct": true
+    },
+    {
+      "text": "creación del Estado de Israel",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1957 ocurrió la firma de los Tratados de Roma.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "firma-de-los-tratados-de-roma",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

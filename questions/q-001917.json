@@ -1,0 +1,44 @@
+{
+  "id": "q-001917",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "easy",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué obra fue escrita por Ramón María del Valle-Inclán”?",
+  "answers": [
+    {
+      "text": "El sí de las niñas",
+      "correct": false
+    },
+    {
+      "text": "Rebelión en la granja",
+      "correct": false
+    },
+    {
+      "text": "Luces de bohemia",
+      "correct": true
+    },
+    {
+      "text": "Aura",
+      "correct": false
+    }
+  ],
+  "explanation": "Ramón María del Valle-Inclán escribió “Luces de bohemia”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "luces-de-bohemia",
+    "ramon-maria-del-valle-inclan",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001116",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1950?",
+  "answers": [
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": true
+    },
+    {
+      "text": "referéndum del Brexit",
+      "correct": false
+    },
+    {
+      "text": "ataque a Pearl Harbor",
+      "correct": false
+    },
+    {
+      "text": "unificación alemana",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1950 ocurrió la inicio de la Guerra de Corea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "inicio-de-la-guerra-de-corea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002564",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película “Hable con ella”?",
+  "answers": [
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Robert Zemeckis",
+      "correct": false
+    },
+    {
+      "text": "Pedro Almodóvar",
+      "correct": true
+    },
+    {
+      "text": "James Cameron",
+      "correct": false
+    }
+  ],
+  "explanation": "“Hable con ella” fue dirigida por Pedro Almodóvar.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "hable-con-ella",
+    "pedro-almodovar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

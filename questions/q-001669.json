@@ -1,0 +1,43 @@
+{
+  "id": "q-001669",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién escribió “Los detectives salvajes”?",
+  "answers": [
+    {
+      "text": "Roberto Bolaño",
+      "correct": true
+    },
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": false
+    },
+    {
+      "text": "Bram Stoker",
+      "correct": false
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": false
+    }
+  ],
+  "explanation": "“Los detectives salvajes” es una obra de Roberto Bolaño.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "los-detectives-salvajes",
+    "roberto-bolano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

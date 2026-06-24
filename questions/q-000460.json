@@ -1,0 +1,43 @@
+{
+  "id": "q-000460",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico tiene el símbolo Na?",
+  "answers": [
+    {
+      "text": "magnesio",
+      "correct": false
+    },
+    {
+      "text": "neón",
+      "correct": false
+    },
+    {
+      "text": "sodio",
+      "correct": true
+    },
+    {
+      "text": "cloro",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Na corresponde al sodio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "sodio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000525",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Brasil?",
+  "answers": [
+    {
+      "text": ".br",
+      "correct": true
+    },
+    {
+      "text": ".gs",
+      "correct": false
+    },
+    {
+      "text": ".fm",
+      "correct": false
+    },
+    {
+      "text": ".th",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Brasil es .br.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "brasil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

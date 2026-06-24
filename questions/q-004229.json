@@ -1,0 +1,43 @@
+{
+  "id": "q-004229",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “Qué palabra lleva tilde correctamente: pared, páred, paréd”?",
+  "answers": [
+    {
+      "text": "pared",
+      "correct": true
+    },
+    {
+      "text": "páred",
+      "correct": false
+    },
+    {
+      "text": "paréd",
+      "correct": false
+    },
+    {
+      "text": "pàred",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “pared”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "pared",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

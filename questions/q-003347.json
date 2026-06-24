@@ -1,0 +1,42 @@
+{
+  "id": "q-003347",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién creó o impulsó originalmente el lenguaje Groovy?",
+  "answers": [
+    {
+      "text": "Bjarne Stroustrup",
+      "correct": false
+    },
+    {
+      "text": "Dennis Ritchie",
+      "correct": false
+    },
+    {
+      "text": "James Strachan",
+      "correct": true
+    },
+    {
+      "text": "Yukihiro Matsumoto",
+      "correct": false
+    }
+  ],
+  "explanation": "Groovy se asocia históricamente con James Strachan.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "groovy"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

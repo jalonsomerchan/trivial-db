@@ -1,0 +1,44 @@
+{
+  "id": "q-004070",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "Según la posición de la sílaba tónica, ¿qué tipo de palabra es “difícil”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "llana",
+      "correct": true
+    },
+    {
+      "text": "esdrújula",
+      "correct": false
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    }
+  ],
+  "explanation": "“difícil” es una palabra llana.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "dificil",
+    "llana",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

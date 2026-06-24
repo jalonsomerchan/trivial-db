@@ -1,0 +1,43 @@
+{
+  "id": "q-001836",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué composición se asocia con Antonio Vivaldi?",
+  "answers": [
+    {
+      "text": "La bohème",
+      "correct": false
+    },
+    {
+      "text": "Aida",
+      "correct": false
+    },
+    {
+      "text": "Boléro",
+      "correct": false
+    },
+    {
+      "text": "Las cuatro estaciones",
+      "correct": true
+    }
+  ],
+  "explanation": "Antonio Vivaldi compuso “Las cuatro estaciones”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "las-cuatro-estaciones",
+    "antonio-vivaldi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

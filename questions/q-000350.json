@@ -1,0 +1,44 @@
+{
+  "id": "q-000350",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento tiene el número atómico 77?",
+  "answers": [
+    {
+      "text": "lutecio",
+      "correct": false
+    },
+    {
+      "text": "osmio",
+      "correct": false
+    },
+    {
+      "text": "mercurio",
+      "correct": false
+    },
+    {
+      "text": "iridio",
+      "correct": true
+    }
+  ],
+  "explanation": "El número atómico 77 corresponde al iridio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "iridio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

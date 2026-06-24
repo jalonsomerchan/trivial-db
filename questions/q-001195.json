@@ -1,0 +1,43 @@
+{
+  "id": "q-001195",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál de estos acontecimientos fue posterior a la referéndum del Brexit. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Constitución de Cádiz",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "salida efectiva del Reino Unido de la Unión Europea",
+      "correct": true
+    },
+    {
+      "text": "entrada en circulación del euro",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 2016, año de la referéndum del Brexit.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000843",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué región continental se encuentra Omán?",
+  "answers": [
+    {
+      "text": "Europa",
+      "correct": false
+    },
+    {
+      "text": "Asia",
+      "correct": true
+    },
+    {
+      "text": "África",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": false
+    }
+  ],
+  "explanation": "Omán se clasifica geográficamente en Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "continentes",
+    "paises",
+    "asia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000514",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Montserrat?",
+  "answers": [
+    {
+      "text": ".zm",
+      "correct": false
+    },
+    {
+      "text": ".nc",
+      "correct": false
+    },
+    {
+      "text": ".ms",
+      "correct": true
+    },
+    {
+      "text": ".no",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Montserrat es .ms.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "montserrat"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

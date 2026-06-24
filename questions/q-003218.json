@@ -1,0 +1,44 @@
+{
+  "id": "q-003218",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué sigla corresponde a “seguridad de la capa de transporte”?",
+  "answers": [
+    {
+      "text": "TLS",
+      "correct": true
+    },
+    {
+      "text": "DNS",
+      "correct": false
+    },
+    {
+      "text": "ORM",
+      "correct": false
+    },
+    {
+      "text": "VPN",
+      "correct": false
+    }
+  ],
+  "explanation": "La sigla correspondiente a “seguridad de la capa de transporte” es TLS.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "tls",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

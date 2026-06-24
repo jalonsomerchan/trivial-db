@@ -1,0 +1,44 @@
+{
+  "id": "q-001090",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "hard",
+  "question": "En historia, ¿qué opción responde correctamente a esta pista: En qué año ocurrió la Batalla de las Navas de Tolosa?",
+  "answers": [
+    {
+      "text": "1212",
+      "correct": true
+    },
+    {
+      "text": "1162",
+      "correct": false
+    },
+    {
+      "text": "1237",
+      "correct": false
+    },
+    {
+      "text": "1187",
+      "correct": false
+    }
+  ],
+  "explanation": "La Batalla de las Navas de Tolosa ocurrió en 1212.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "batalla-de-las-navas-de-tolosa",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

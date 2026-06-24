@@ -1,0 +1,42 @@
+{
+  "id": "q-003958",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado tortita?",
+  "answers": [
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "sarma",
+      "correct": false
+    },
+    {
+      "text": "blini",
+      "correct": true
+    },
+    {
+      "text": "clam chowder",
+      "correct": false
+    }
+  ],
+  "explanation": "blini destaca por el uso de tortita.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "tortita"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000857",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Tanzania?",
+  "answers": [
+    {
+      "text": "+46",
+      "correct": false
+    },
+    {
+      "text": "+993",
+      "correct": false
+    },
+    {
+      "text": "+1869",
+      "correct": false
+    },
+    {
+      "text": "+255",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Tanzania es +255.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "tanzania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-004704",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 40% de 350?",
+  "answers": [
+    {
+      "text": "150",
+      "correct": false
+    },
+    {
+      "text": "145",
+      "correct": false
+    },
+    {
+      "text": "135",
+      "correct": false
+    },
+    {
+      "text": "140",
+      "correct": true
+    }
+  ],
+  "explanation": "El 40% de 350 es 350 × 40/100 = 140.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

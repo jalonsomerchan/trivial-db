@@ -1,0 +1,43 @@
+{
+  "id": "q-001770",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra fue escrita por Benito Pérez Galdós?",
+  "answers": [
+    {
+      "text": "Marianela",
+      "correct": false
+    },
+    {
+      "text": "Luces de bohemia",
+      "correct": false
+    },
+    {
+      "text": "El Aleph",
+      "correct": false
+    },
+    {
+      "text": "Fortunata y Jacinta",
+      "correct": true
+    }
+  ],
+  "explanation": "Benito Pérez Galdós escribió “Fortunata y Jacinta”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "fortunata-y-jacinta",
+    "benito-perez-galdos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

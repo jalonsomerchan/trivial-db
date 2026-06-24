@@ -1,0 +1,43 @@
+{
+  "id": "q-000689",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Islas Caimán?",
+  "answers": [
+    {
+      "text": ".ky",
+      "correct": true
+    },
+    {
+      "text": ".fr",
+      "correct": false
+    },
+    {
+      "text": ".fm",
+      "correct": false
+    },
+    {
+      "text": ".mz",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Islas Caimán es .ky.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "islas-caiman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

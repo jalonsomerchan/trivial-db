@@ -1,0 +1,44 @@
+{
+  "id": "q-002907",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál sería la opción correcta si la pista fuera “Quién dirigió la película “Toy Story”””?",
+  "answers": [
+    {
+      "text": "George Lucas",
+      "correct": false
+    },
+    {
+      "text": "Luis García Berlanga",
+      "correct": false
+    },
+    {
+      "text": "John Lasseter",
+      "correct": true
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    }
+  ],
+  "explanation": "“Toy Story” fue dirigida por John Lasseter.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "toy-story",
+    "john-lasseter",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

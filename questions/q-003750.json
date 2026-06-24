@@ -1,0 +1,43 @@
+{
+  "id": "q-003750",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Qué plato de esta lista tiene como ingrediente destacado pollo?",
+  "answers": [
+    {
+      "text": "doro wat",
+      "correct": true
+    },
+    {
+      "text": "sauerbraten",
+      "correct": false
+    },
+    {
+      "text": "barbecue ribs",
+      "correct": false
+    },
+    {
+      "text": "cevapi",
+      "correct": false
+    }
+  ],
+  "explanation": "doro wat destaca por el uso de pollo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pollo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

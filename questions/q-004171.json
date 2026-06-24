@@ -1,0 +1,43 @@
+{
+  "id": "q-004171",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene un significado parecido a “descender”?",
+  "answers": [
+    {
+      "text": "valiente",
+      "correct": false
+    },
+    {
+      "text": "bajar",
+      "correct": true
+    },
+    {
+      "text": "amigo",
+      "correct": false
+    },
+    {
+      "text": "trabajo",
+      "correct": false
+    }
+  ],
+  "explanation": "“bajar” y “descender” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "bajar",
+    "descender"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

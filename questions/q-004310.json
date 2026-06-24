@@ -1,0 +1,43 @@
+{
+  "id": "q-004310",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "verdad, vérdad, verdád. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "vérdad",
+      "correct": false
+    },
+    {
+      "text": "verdád",
+      "correct": false
+    },
+    {
+      "text": "verdàd",
+      "correct": false
+    },
+    {
+      "text": "verdad",
+      "correct": true
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “verdad”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "verdad",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

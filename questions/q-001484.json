@@ -1,0 +1,42 @@
+{
+  "id": "q-001484",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 2001?",
+  "answers": [
+    {
+      "text": "comienzo de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "Batalla de las Navas de Tolosa",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": false
+    },
+    {
+      "text": "atentados del 11 de septiembre en Estados Unidos",
+      "correct": true
+    }
+  ],
+  "explanation": "En 2001 ocurrió la atentados del 11 de septiembre en Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "atentados-del-11-de-septiembre-en-estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

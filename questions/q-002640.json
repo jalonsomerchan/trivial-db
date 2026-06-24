@@ -1,0 +1,43 @@
+{
+  "id": "q-002640",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué videojuego se asocia con Taito”?",
+  "answers": [
+    {
+      "text": "Dark Souls",
+      "correct": false
+    },
+    {
+      "text": "Halo: Combat Evolved",
+      "correct": false
+    },
+    {
+      "text": "Space Invaders",
+      "correct": true
+    },
+    {
+      "text": "Grand Theft Auto III",
+      "correct": false
+    }
+  ],
+  "explanation": "Taito desarrolló o publicó “Space Invaders”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "taito",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

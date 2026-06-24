@@ -1,0 +1,44 @@
+{
+  "id": "q-000383",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "Qué elemento químico tiene el símbolo H. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "hidrógeno",
+      "correct": true
+    },
+    {
+      "text": "boro",
+      "correct": false
+    },
+    {
+      "text": "helio",
+      "correct": false
+    },
+    {
+      "text": "litio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo H corresponde al hidrógeno.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "hidrogeno",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

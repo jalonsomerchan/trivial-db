@@ -1,0 +1,43 @@
+{
+  "id": "q-003283",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué formato se utiliza habitualmente para binario para web?",
+  "answers": [
+    {
+      "text": "WASM",
+      "correct": true
+    },
+    {
+      "text": "CSV",
+      "correct": false
+    },
+    {
+      "text": "FLAC",
+      "correct": false
+    },
+    {
+      "text": "WebP",
+      "correct": false
+    }
+  ],
+  "explanation": "El formato WASM se utiliza habitualmente para binario para web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "wasm",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

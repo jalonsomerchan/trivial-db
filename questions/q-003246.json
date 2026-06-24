@@ -1,0 +1,42 @@
+{
+  "id": "q-003246",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué formato se utiliza habitualmente para contenedor de vídeo?",
+  "answers": [
+    {
+      "text": "JPEG",
+      "correct": false
+    },
+    {
+      "text": "WebP",
+      "correct": false
+    },
+    {
+      "text": "MP4",
+      "correct": true
+    },
+    {
+      "text": "SQL",
+      "correct": false
+    }
+  ],
+  "explanation": "El formato MP4 se utiliza habitualmente para contenedor de vídeo.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "mp4"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

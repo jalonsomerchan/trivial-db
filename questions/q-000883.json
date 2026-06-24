@@ -1,0 +1,43 @@
+{
+  "id": "q-000883",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Kingstown?",
+  "answers": [
+    {
+      "text": "Trinidad y Tobago",
+      "correct": false
+    },
+    {
+      "text": "San Vicente y Granadinas",
+      "correct": true
+    },
+    {
+      "text": "Antigua y Barbuda",
+      "correct": false
+    },
+    {
+      "text": "Anguilla",
+      "correct": false
+    }
+  ],
+  "explanation": "Kingstown es la capital de San Vicente y Granadinas.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "san-vicente-y-granadinas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

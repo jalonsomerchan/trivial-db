@@ -1,0 +1,43 @@
+{
+  "id": "q-003091",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué protocolo se asocia normalmente al puerto 5060?",
+  "answers": [
+    {
+      "text": "SMB",
+      "correct": false
+    },
+    {
+      "text": "SIP",
+      "correct": true
+    },
+    {
+      "text": "RDP",
+      "correct": false
+    },
+    {
+      "text": "MQTT",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 5060 se asocia habitualmente con SIP.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "sip"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-004579",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 22 × 11?",
+  "answers": [
+    {
+      "text": "231",
+      "correct": false
+    },
+    {
+      "text": "264",
+      "correct": false
+    },
+    {
+      "text": "242",
+      "correct": true
+    },
+    {
+      "text": "253",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto de 22 por 11 es 242.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

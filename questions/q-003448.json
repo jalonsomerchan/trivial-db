@@ -1,0 +1,44 @@
+{
+  "id": "q-003448",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Para qué se usa principalmente RDP”?",
+  "answers": [
+    {
+      "text": "acceso remoto seguro",
+      "correct": false
+    },
+    {
+      "text": "base de datos documental",
+      "correct": false
+    },
+    {
+      "text": "escritorio remoto",
+      "correct": true
+    },
+    {
+      "text": "base de datos",
+      "correct": false
+    }
+  ],
+  "explanation": "RDP se usa principalmente para escritorio remoto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "rdp",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

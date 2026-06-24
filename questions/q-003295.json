@@ -1,0 +1,44 @@
+{
+  "id": "q-003295",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué protocolo se asocia normalmente al puerto 80?",
+  "answers": [
+    {
+      "text": "HTTPS",
+      "correct": false
+    },
+    {
+      "text": "HTTP",
+      "correct": true
+    },
+    {
+      "text": "LDAP",
+      "correct": false
+    },
+    {
+      "text": "DNS",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 80 se asocia habitualmente con HTTP.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "http",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

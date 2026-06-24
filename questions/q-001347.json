@@ -1,0 +1,43 @@
+{
+  "id": "q-001347",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1212, relacionado con la Batalla de las Navas de Tolosa?",
+  "answers": [
+    {
+      "text": "siglo XV",
+      "correct": false
+    },
+    {
+      "text": "siglo XIII",
+      "correct": true
+    },
+    {
+      "text": "siglo XVII",
+      "correct": false
+    },
+    {
+      "text": "siglo V",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1212 pertenece al siglo XIII.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "batalla-de-las-navas-de-tolosa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003797",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “En cocina, ¿qué significa flambear”?",
+  "answers": [
+    {
+      "text": "añadir alcohol y prenderlo brevemente",
+      "correct": true
+    },
+    {
+      "text": "dorar la superficie con calor fuerte",
+      "correct": false
+    },
+    {
+      "text": "preparación previa de ingredientes y utensilios",
+      "correct": false
+    },
+    {
+      "text": "dorar rápidamente la superficie de un alimento",
+      "correct": false
+    }
+  ],
+  "explanation": "flambear significa añadir alcohol y prenderlo brevemente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "flambear",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

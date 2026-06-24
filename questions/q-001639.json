@@ -1,0 +1,43 @@
+{
+  "id": "q-001639",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cuadro se asocia con Claude Monet?",
+  "answers": [
+    {
+      "text": "Composición VIII",
+      "correct": false
+    },
+    {
+      "text": "Ofelia",
+      "correct": false
+    },
+    {
+      "text": "Impresión, sol naciente",
+      "correct": true
+    },
+    {
+      "text": "La escuela de Atenas",
+      "correct": false
+    }
+  ],
+  "explanation": "Claude Monet es el autor de “Impresión, sol naciente”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "impresion-sol-naciente",
+    "claude-monet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

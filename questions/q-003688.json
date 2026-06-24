@@ -1,0 +1,42 @@
+{
+  "id": "q-003688",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado cordero?",
+  "answers": [
+    {
+      "text": "hamburguesa",
+      "correct": false
+    },
+    {
+      "text": "bunny chow",
+      "correct": false
+    },
+    {
+      "text": "irish stew",
+      "correct": true
+    },
+    {
+      "text": "naan",
+      "correct": false
+    }
+  ],
+  "explanation": "irish stew destaca por el uso de cordero.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "cordero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

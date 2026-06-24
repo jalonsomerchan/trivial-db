@@ -1,0 +1,43 @@
+{
+  "id": "q-001681",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cuadro se asocia con Gustav Klimt?",
+  "answers": [
+    {
+      "text": "La rendición de Breda",
+      "correct": false
+    },
+    {
+      "text": "El beso",
+      "correct": true
+    },
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "Guernica",
+      "correct": false
+    }
+  ],
+  "explanation": "Gustav Klimt es el autor de “El beso”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "el-beso",
+    "gustav-klimt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

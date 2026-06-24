@@ -1,0 +1,43 @@
+{
+  "id": "q-001184",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de historia: “Cuál de estos acontecimientos fue posterior a la Revolución Gloriosa inglesa”?",
+  "answers": [
+    {
+      "text": "Guerra de Sucesión española",
+      "correct": true
+    },
+    {
+      "text": "Hégira de Mahoma a Medina",
+      "correct": false
+    },
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Reforma protestante",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 1688, año de la Revolución Gloriosa inglesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

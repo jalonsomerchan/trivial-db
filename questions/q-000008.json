@@ -1,0 +1,43 @@
+{
+  "id": "q-000008",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué posición desde el Sol se encuentra Saturno?",
+  "answers": [
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "6",
+      "correct": true
+    },
+    {
+      "text": "8",
+      "correct": false
+    }
+  ],
+  "explanation": "Saturno ocupa la posición 6 desde el Sol.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "sistema-solar",
+    "planetas",
+    "saturno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

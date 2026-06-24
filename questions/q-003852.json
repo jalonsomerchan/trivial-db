@@ -1,0 +1,43 @@
+{
+  "id": "q-003852",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: Cuál de estos términos es una técnica culinaria relacionada con “sumergir”?",
+  "answers": [
+    {
+      "text": "levar",
+      "correct": false
+    },
+    {
+      "text": "escaldar",
+      "correct": true
+    },
+    {
+      "text": "escabechar",
+      "correct": false
+    },
+    {
+      "text": "curar",
+      "correct": false
+    }
+  ],
+  "explanation": "La respuesta correcta es escaldar, una técnica culinaria reconocida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "escaldar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

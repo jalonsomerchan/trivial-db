@@ -1,0 +1,43 @@
+{
+  "id": "q-002736",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se estrenó “Bienvenido, Mister Marshall”?",
+  "answers": [
+    {
+      "text": "1985",
+      "correct": false
+    },
+    {
+      "text": "1953 (3)",
+      "correct": false
+    },
+    {
+      "text": "1953",
+      "correct": true
+    },
+    {
+      "text": "1993",
+      "correct": false
+    }
+  ],
+  "explanation": "“Bienvenido, Mister Marshall” se estrenó en 1953.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "bienvenido-mister-marshall",
+    "estrenos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

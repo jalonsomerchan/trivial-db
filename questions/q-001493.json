@@ -1,0 +1,43 @@
+{
+  "id": "q-001493",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál de estos acontecimientos fue posterior a la ampliación de la Unión Europea hacia Europa central y oriental. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "quiebra de Lehman Brothers",
+      "correct": true
+    },
+    {
+      "text": "fin de la Primera Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "asesinato de John F. Kennedy",
+      "correct": false
+    },
+    {
+      "text": "unificación alemana",
+      "correct": false
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió después de 2004, año de la ampliación de la Unión Europea hacia Europa central y oriental.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

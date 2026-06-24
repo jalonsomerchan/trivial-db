@@ -1,0 +1,43 @@
+{
+  "id": "q-000945",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Libreville?",
+  "answers": [
+    {
+      "text": "Guinea",
+      "correct": false
+    },
+    {
+      "text": "Malawi",
+      "correct": false
+    },
+    {
+      "text": "Mozambique",
+      "correct": false
+    },
+    {
+      "text": "Gabón",
+      "correct": true
+    }
+  ],
+  "explanation": "Libreville es la capital de Gabón.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "gabon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

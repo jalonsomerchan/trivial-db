@@ -1,0 +1,44 @@
+{
+  "id": "q-000021",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento tiene el número atómico 103”?",
+  "answers": [
+    {
+      "text": "bohrio",
+      "correct": false
+    },
+    {
+      "text": "californio",
+      "correct": false
+    },
+    {
+      "text": "lawrencio",
+      "correct": true
+    },
+    {
+      "text": "einstenio",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 103 corresponde al lawrencio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "lawrencio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

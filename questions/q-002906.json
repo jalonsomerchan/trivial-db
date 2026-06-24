@@ -1,0 +1,43 @@
+{
+  "id": "q-002906",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué película fue dirigida por Alfonso Cuarón en esta selección. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Los otros",
+      "correct": false
+    },
+    {
+      "text": "Birdman",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": true
+    },
+    {
+      "text": "Cinema Paradiso",
+      "correct": false
+    }
+  ],
+  "explanation": "Alfonso Cuarón dirigió “Roma”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfonso-cuaron",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

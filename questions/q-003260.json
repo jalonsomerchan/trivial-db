@@ -1,0 +1,43 @@
+{
+  "id": "q-003260",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Cuál de estas opciones es un lenguaje de programación?",
+  "answers": [
+    {
+      "text": "R",
+      "correct": false
+    },
+    {
+      "text": "Python",
+      "correct": true
+    },
+    {
+      "text": "Prolog",
+      "correct": false
+    },
+    {
+      "text": "COBOL",
+      "correct": false
+    }
+  ],
+  "explanation": "Python es un lenguaje de programación.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "lenguajes",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

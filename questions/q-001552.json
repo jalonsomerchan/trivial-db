@@ -1,0 +1,44 @@
+{
+  "id": "q-001552",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de arte y literatura, completa la respuesta correcta: Qué obra fue escrita por Federico García Lorca?",
+  "answers": [
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    },
+    {
+      "text": "Ulises",
+      "correct": false
+    },
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": true
+    },
+    {
+      "text": "2666",
+      "correct": false
+    }
+  ],
+  "explanation": "Federico García Lorca escribió “La casa de Bernarda Alba”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-casa-de-bernarda-alba",
+    "federico-garcia-lorca",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003679",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Qué plato de esta lista tiene como ingrediente destacado bocados al vapor?",
+  "answers": [
+    {
+      "text": "blini",
+      "correct": false
+    },
+    {
+      "text": "paella",
+      "correct": false
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "dim sum",
+      "correct": true
+    }
+  ],
+  "explanation": "dim sum destaca por el uso de bocados al vapor.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "bocados-al-vapor",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

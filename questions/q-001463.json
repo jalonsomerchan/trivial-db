@@ -1,0 +1,43 @@
+{
+  "id": "q-001463",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año ocurrió la Guerra de Secesión estadounidense?",
+  "answers": [
+    {
+      "text": "1841",
+      "correct": false
+    },
+    {
+      "text": "1871",
+      "correct": false
+    },
+    {
+      "text": "1861",
+      "correct": true
+    },
+    {
+      "text": "1851",
+      "correct": false
+    }
+  ],
+  "explanation": "La Guerra de Secesión estadounidense ocurrió en 1861.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerra-de-secesion-estadounidense",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

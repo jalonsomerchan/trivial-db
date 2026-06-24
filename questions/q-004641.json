@@ -1,0 +1,42 @@
+{
+  "id": "q-004641",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 12 × 11?",
+  "answers": [
+    {
+      "text": "133",
+      "correct": false
+    },
+    {
+      "text": "132",
+      "correct": true
+    },
+    {
+      "text": "144",
+      "correct": false
+    },
+    {
+      "text": "121",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto de 12 por 11 es 132.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

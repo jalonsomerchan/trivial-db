@@ -1,0 +1,44 @@
+{
+  "id": "q-002644",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "En qué año se estrenó “Casablanca”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "1942",
+      "correct": true
+    },
+    {
+      "text": "1990",
+      "correct": false
+    },
+    {
+      "text": "1994",
+      "correct": false
+    },
+    {
+      "text": "1995",
+      "correct": false
+    }
+  ],
+  "explanation": "“Casablanca” se estrenó en 1942.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "casablanca",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

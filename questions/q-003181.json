@@ -1,0 +1,43 @@
+{
+  "id": "q-003181",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se usa principalmente FTP?",
+  "answers": [
+    {
+      "text": "sincronización horaria",
+      "correct": false
+    },
+    {
+      "text": "web segura",
+      "correct": false
+    },
+    {
+      "text": "transferencia de archivos",
+      "correct": true
+    },
+    {
+      "text": "envío de correo",
+      "correct": false
+    }
+  ],
+  "explanation": "FTP se usa principalmente para transferencia de archivos.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "internet",
+    "ftp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

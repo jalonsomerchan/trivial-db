@@ -1,0 +1,44 @@
+{
+  "id": "q-003528",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Qué plato se asocia con Perú y suele llevar ternera?",
+  "answers": [
+    {
+      "text": "mole poblano",
+      "correct": false
+    },
+    {
+      "text": "lomo saltado",
+      "correct": true
+    },
+    {
+      "text": "tabulé",
+      "correct": false
+    },
+    {
+      "text": "blini",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es lomo saltado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "peru",
+    "ternera",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

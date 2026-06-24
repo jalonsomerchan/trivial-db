@@ -1,0 +1,43 @@
+{
+  "id": "q-004464",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "hard",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Cuál es el plural correcto de “raíz””?",
+  "answers": [
+    {
+      "text": "raíces",
+      "correct": true
+    },
+    {
+      "text": "ciudades",
+      "correct": false
+    },
+    {
+      "text": "peces",
+      "correct": false
+    },
+    {
+      "text": "menús",
+      "correct": false
+    }
+  ],
+  "explanation": "El plural correcto de “raíz” es “raíces”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "raiz",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

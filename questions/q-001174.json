@@ -1,0 +1,43 @@
+{
+  "id": "q-001174",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año ocurrió la unificación alemana?",
+  "answers": [
+    {
+      "text": "1881",
+      "correct": false
+    },
+    {
+      "text": "1871",
+      "correct": true
+    },
+    {
+      "text": "1851",
+      "correct": false
+    },
+    {
+      "text": "1861",
+      "correct": false
+    }
+  ],
+  "explanation": "La unificación alemana ocurrió en 1871.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "unificacion-alemana",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

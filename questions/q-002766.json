@@ -1,0 +1,43 @@
+{
+  "id": "q-002766",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compañía o creador desarrolló “God of War”?",
+  "answers": [
+    {
+      "text": "Santa Monica Studio",
+      "correct": true
+    },
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    },
+    {
+      "text": "Toby Fox",
+      "correct": false
+    }
+  ],
+  "explanation": "“God of War” se asocia con Santa Monica Studio.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "god-of-war",
+    "santa-monica-studio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

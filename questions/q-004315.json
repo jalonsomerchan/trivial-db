@@ -1,0 +1,42 @@
+{
+  "id": "q-004315",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un sinónimo de “bonito”?",
+  "answers": [
+    {
+      "text": "incorrecto",
+      "correct": false
+    },
+    {
+      "text": "hermoso",
+      "correct": true
+    },
+    {
+      "text": "capital",
+      "correct": false
+    },
+    {
+      "text": "actual",
+      "correct": false
+    }
+  ],
+  "explanation": "“hermoso” es un sinónimo de “bonito”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "bonito"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000493",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el número atómico del telurio?",
+  "answers": [
+    {
+      "text": "59",
+      "correct": false
+    },
+    {
+      "text": "48",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": true
+    },
+    {
+      "text": "51",
+      "correct": false
+    }
+  ],
+  "explanation": "El telurio tiene número atómico 52.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "telurio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

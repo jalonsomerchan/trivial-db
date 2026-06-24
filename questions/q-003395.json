@@ -1,0 +1,43 @@
+{
+  "id": "q-003395",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Quién creó o impulsó originalmente el lenguaje Fortran?",
+  "answers": [
+    {
+      "text": "IBM",
+      "correct": true
+    },
+    {
+      "text": "Brad Cox y Tom Love",
+      "correct": false
+    },
+    {
+      "text": "José Valim",
+      "correct": false
+    },
+    {
+      "text": "Brendan Eich",
+      "correct": false
+    }
+  ],
+  "explanation": "Fortran se asocia históricamente con IBM.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "fortran",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

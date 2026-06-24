@@ -1,0 +1,44 @@
+{
+  "id": "q-003555",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Con qué país o región se asocia tradicionalmente el plato ramen”?",
+  "answers": [
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": true
+    },
+    {
+      "text": "Oriente Medio",
+      "correct": false
+    }
+  ],
+  "explanation": "ramen se asocia tradicionalmente con Japón.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "ramen",
+    "japon",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

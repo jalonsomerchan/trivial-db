@@ -1,0 +1,44 @@
+{
+  "id": "q-003902",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Con qué país o región se asocia tradicionalmente el plato pad thai”?",
+  "answers": [
+    {
+      "text": "Europa oriental",
+      "correct": false
+    },
+    {
+      "text": "Venezuela y Colombia",
+      "correct": false
+    },
+    {
+      "text": "Tailandia",
+      "correct": true
+    },
+    {
+      "text": "China",
+      "correct": false
+    }
+  ],
+  "explanation": "pad thai se asocia tradicionalmente con Tailandia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "pad-thai",
+    "tailandia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000869",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Nueva Zelanda?",
+  "answers": [
+    {
+      "text": "+64",
+      "correct": true
+    },
+    {
+      "text": "+262",
+      "correct": false
+    },
+    {
+      "text": "+672",
+      "correct": false
+    },
+    {
+      "text": "+593",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Nueva Zelanda es +64.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "nueva-zelanda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

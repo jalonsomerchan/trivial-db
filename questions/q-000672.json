@@ -1,0 +1,43 @@
+{
+  "id": "q-000672",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Ruanda?",
+  "answers": [
+    {
+      "text": "Cairo",
+      "correct": false
+    },
+    {
+      "text": "Juba",
+      "correct": false
+    },
+    {
+      "text": "Bangui",
+      "correct": false
+    },
+    {
+      "text": "Kigali",
+      "correct": true
+    }
+  ],
+  "explanation": "La capital de Ruanda es Kigali.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "ruanda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

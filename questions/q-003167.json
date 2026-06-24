@@ -1,0 +1,43 @@
+{
+  "id": "q-003167",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Para qué se usa habitualmente el formato XML?",
+  "answers": [
+    {
+      "text": "configuración legible",
+      "correct": false
+    },
+    {
+      "text": "páginas web",
+      "correct": false
+    },
+    {
+      "text": "marcado estructurado",
+      "correct": true
+    },
+    {
+      "text": "imagen animada sencilla",
+      "correct": false
+    }
+  ],
+  "explanation": "XML se utiliza habitualmente para marcado estructurado.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "xml",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

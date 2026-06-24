@@ -1,0 +1,43 @@
+{
+  "id": "q-004244",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "feliz, féliz, felíz. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "felíz",
+      "correct": false
+    },
+    {
+      "text": "feliz",
+      "correct": true
+    },
+    {
+      "text": "féliz",
+      "correct": false
+    },
+    {
+      "text": "felìz",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “feliz”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "feliz",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

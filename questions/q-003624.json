@@ -1,0 +1,42 @@
+{
+  "id": "q-003624",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado pan con queso?",
+  "answers": [
+    {
+      "text": "shawarma",
+      "correct": false
+    },
+    {
+      "text": "ratatouille",
+      "correct": false
+    },
+    {
+      "text": "sushi",
+      "correct": false
+    },
+    {
+      "text": "khachapuri",
+      "correct": true
+    }
+  ],
+  "explanation": "khachapuri destaca por el uso de pan con queso.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "pan-con-queso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

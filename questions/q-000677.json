@@ -1,0 +1,43 @@
+{
+  "id": "q-000677",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Baku?",
+  "answers": [
+    {
+      "text": "Sri Lanka",
+      "correct": false
+    },
+    {
+      "text": "Azerbaiyán",
+      "correct": true
+    },
+    {
+      "text": "Catar",
+      "correct": false
+    },
+    {
+      "text": "Corea del Sur",
+      "correct": false
+    }
+  ],
+  "explanation": "Baku es la capital de Azerbaiyán.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "azerbaiyan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

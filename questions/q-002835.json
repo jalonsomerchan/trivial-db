@@ -1,0 +1,44 @@
+{
+  "id": "q-002835",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se lanzó originalmente “Final Fantasy VII”?",
+  "answers": [
+    {
+      "text": "1998",
+      "correct": false
+    },
+    {
+      "text": "1997",
+      "correct": true
+    },
+    {
+      "text": "2022",
+      "correct": false
+    },
+    {
+      "text": "2017",
+      "correct": false
+    }
+  ],
+  "explanation": "“Final Fantasy VII” se lanzó originalmente en 1997.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "final-fantasy-vii",
+    "lanzamientos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

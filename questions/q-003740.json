@@ -1,0 +1,43 @@
+{
+  "id": "q-003740",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Brasil y suele llevar pescado?",
+  "answers": [
+    {
+      "text": "sarma",
+      "correct": false
+    },
+    {
+      "text": "dim sum",
+      "correct": false
+    },
+    {
+      "text": "moqueca",
+      "correct": true
+    },
+    {
+      "text": "meat pie",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es moqueca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "brasil",
+    "pescado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000252",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento químico tiene el símbolo Hf?",
+  "answers": [
+    {
+      "text": "tulio",
+      "correct": false
+    },
+    {
+      "text": "iterbio",
+      "correct": false
+    },
+    {
+      "text": "osmio",
+      "correct": false
+    },
+    {
+      "text": "hafnio",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo Hf corresponde al hafnio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "hafnio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

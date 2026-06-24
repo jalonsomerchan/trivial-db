@@ -1,0 +1,44 @@
+{
+  "id": "q-003071",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "Qué protocolo se asocia normalmente al puerto 22. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Redis",
+      "correct": false
+    },
+    {
+      "text": "Telnet",
+      "correct": false
+    },
+    {
+      "text": "LDAP",
+      "correct": false
+    },
+    {
+      "text": "SSH",
+      "correct": true
+    }
+  ],
+  "explanation": "El puerto 22 se asocia habitualmente con SSH.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "ssh",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

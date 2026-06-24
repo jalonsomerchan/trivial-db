@@ -1,0 +1,43 @@
+{
+  "id": "q-001300",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la crack bursátil de Wall Street?",
+  "answers": [
+    {
+      "text": "1909",
+      "correct": false
+    },
+    {
+      "text": "1919",
+      "correct": false
+    },
+    {
+      "text": "1929",
+      "correct": true
+    },
+    {
+      "text": "1939",
+      "correct": false
+    }
+  ],
+  "explanation": "La crack bursátil de Wall Street ocurrió en 1929.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "crack-bursatil-de-wall-street",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

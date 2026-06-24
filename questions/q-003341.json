@@ -1,0 +1,43 @@
+{
+  "id": "q-003341",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla SSD en tecnología?",
+  "answers": [
+    {
+      "text": "memoria de acceso aleatorio",
+      "correct": false
+    },
+    {
+      "text": "mapeo objeto-relacional",
+      "correct": false
+    },
+    {
+      "text": "modelo de objetos del documento",
+      "correct": false
+    },
+    {
+      "text": "unidad de estado sólido",
+      "correct": true
+    }
+  ],
+  "explanation": "En tecnología, SSD significa unidad de estado sólido.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "ssd"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

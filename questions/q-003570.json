@@ -1,0 +1,44 @@
+{
+  "id": "q-003570",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Con qué país o región se asocia tradicionalmente el plato pulpo a la gallega. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "España",
+      "correct": true
+    },
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Mediterráneo",
+      "correct": false
+    }
+  ],
+  "explanation": "pulpo a la gallega se asocia tradicionalmente con España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "pulpo-a-la-gallega",
+    "espana",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

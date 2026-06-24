@@ -1,0 +1,44 @@
+{
+  "id": "q-000199",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Qué elemento tiene el número atómico 19?",
+  "answers": [
+    {
+      "text": "vanadio",
+      "correct": false
+    },
+    {
+      "text": "potasio",
+      "correct": true
+    },
+    {
+      "text": "escandio",
+      "correct": false
+    },
+    {
+      "text": "aluminio",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 19 corresponde al potasio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "potasio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000244",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Cuál es el número atómico del praseodimio”?",
+  "answers": [
+    {
+      "text": "52",
+      "correct": false
+    },
+    {
+      "text": "66",
+      "correct": false
+    },
+    {
+      "text": "63",
+      "correct": false
+    },
+    {
+      "text": "59",
+      "correct": true
+    }
+  ],
+  "explanation": "El praseodimio tiene número atómico 59.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "praseodimio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002993",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "Qué película fue dirigida por Katsuhiro Otomo en esta selección. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Ocho apellidos vascos",
+      "correct": false
+    },
+    {
+      "text": "Akira",
+      "correct": true
+    },
+    {
+      "text": "Frozen",
+      "correct": false
+    },
+    {
+      "text": "Bienvenido, Mister Marshall",
+      "correct": false
+    }
+  ],
+  "explanation": "Katsuhiro Otomo dirigió “Akira”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "katsuhiro-otomo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

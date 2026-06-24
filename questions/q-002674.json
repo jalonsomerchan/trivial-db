@@ -1,0 +1,42 @@
+{
+  "id": "q-002674",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Pedro Almodóvar en esta selección?",
+  "answers": [
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "El señor de los anillos: La comunidad del anillo",
+      "correct": false
+    },
+    {
+      "text": "Frozen",
+      "correct": false
+    },
+    {
+      "text": "Todo sobre mi madre",
+      "correct": true
+    }
+  ],
+  "explanation": "Pedro Almodóvar dirigió “Todo sobre mi madre”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "pedro-almodovar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

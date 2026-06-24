@@ -1,0 +1,43 @@
+{
+  "id": "q-000777",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de México?",
+  "answers": [
+    {
+      "text": "San Juan",
+      "correct": false
+    },
+    {
+      "text": "Mexico City",
+      "correct": true
+    },
+    {
+      "text": "Brasília",
+      "correct": false
+    },
+    {
+      "text": "Montevideo",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de México es Mexico City.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "mexico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

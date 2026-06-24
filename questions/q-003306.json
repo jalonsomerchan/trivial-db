@@ -1,0 +1,44 @@
+{
+  "id": "q-003306",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Qué protocolo se asocia normalmente al puerto 389?",
+  "answers": [
+    {
+      "text": "SIP",
+      "correct": false
+    },
+    {
+      "text": "POP3",
+      "correct": false
+    },
+    {
+      "text": "LDAP",
+      "correct": true
+    },
+    {
+      "text": "FTP",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 389 se asocia habitualmente con LDAP.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "ldap",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

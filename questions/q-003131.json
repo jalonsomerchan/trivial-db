@@ -1,0 +1,44 @@
+{
+  "id": "q-003131",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué protocolo se asocia normalmente al puerto 23”?",
+  "answers": [
+    {
+      "text": "Telnet",
+      "correct": true
+    },
+    {
+      "text": "SMB",
+      "correct": false
+    },
+    {
+      "text": "MongoDB",
+      "correct": false
+    },
+    {
+      "text": "SMTP",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 23 se asocia habitualmente con Telnet.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "telnet",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

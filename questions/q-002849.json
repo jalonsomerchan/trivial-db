@@ -1,0 +1,44 @@
+{
+  "id": "q-002849",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál sería la opción correcta si la pista fuera “Quién dirigió la película “Braveheart”””?",
+  "answers": [
+    {
+      "text": "Brad Bird",
+      "correct": false
+    },
+    {
+      "text": "Mel Gibson",
+      "correct": true
+    },
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": false
+    },
+    {
+      "text": "Alejandro González Iñárritu",
+      "correct": false
+    }
+  ],
+  "explanation": "“Braveheart” fue dirigida por Mel Gibson.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "braveheart",
+    "mel-gibson",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

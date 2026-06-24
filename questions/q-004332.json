@@ -1,0 +1,42 @@
+{
+  "id": "q-004332",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término gramatical corresponde a esta definición: “palabra que acompaña al sustantivo y concreta su referencia”?",
+  "answers": [
+    {
+      "text": "sinónimo",
+      "correct": false
+    },
+    {
+      "text": "hiato",
+      "correct": false
+    },
+    {
+      "text": "llana",
+      "correct": false
+    },
+    {
+      "text": "determinante",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a “determinante”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "gramatica",
+    "determinante"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

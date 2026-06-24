@@ -1,0 +1,44 @@
+{
+  "id": "q-003045",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué sigla corresponde a “protocolo de datagramas de usuario””?",
+  "answers": [
+    {
+      "text": "UDP",
+      "correct": true
+    },
+    {
+      "text": "GPU",
+      "correct": false
+    },
+    {
+      "text": "DOM",
+      "correct": false
+    },
+    {
+      "text": "LAN",
+      "correct": false
+    }
+  ],
+  "explanation": "La sigla correspondiente a “protocolo de datagramas de usuario” es UDP.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "udp",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

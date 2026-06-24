@@ -1,0 +1,43 @@
+{
+  "id": "q-003386",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Para qué se usa habitualmente el formato JSON?",
+  "answers": [
+    {
+      "text": "gráficos vectoriales",
+      "correct": false
+    },
+    {
+      "text": "consultas a bases de datos",
+      "correct": false
+    },
+    {
+      "text": "intercambio de datos",
+      "correct": true
+    },
+    {
+      "text": "documento portable",
+      "correct": false
+    }
+  ],
+  "explanation": "JSON se utiliza habitualmente para intercambio de datos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "json",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

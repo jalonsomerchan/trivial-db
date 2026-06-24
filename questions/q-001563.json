@@ -1,0 +1,43 @@
+{
+  "id": "q-001563",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra fue escrita por James Joyce?",
+  "answers": [
+    {
+      "text": "Ulises",
+      "correct": true
+    },
+    {
+      "text": "Crónica de una muerte anunciada",
+      "correct": false
+    },
+    {
+      "text": "El extranjero",
+      "correct": false
+    },
+    {
+      "text": "El burlador de Sevilla",
+      "correct": false
+    }
+  ],
+  "explanation": "James Joyce escribió “Ulises”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "ulises",
+    "james-joyce"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

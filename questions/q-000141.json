@@ -1,0 +1,44 @@
+{
+  "id": "q-000141",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Cuál es el símbolo químico del prometio?",
+  "answers": [
+    {
+      "text": "Tb",
+      "correct": false
+    },
+    {
+      "text": "Cs",
+      "correct": false
+    },
+    {
+      "text": "Ba",
+      "correct": false
+    },
+    {
+      "text": "Pm",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico del prometio es Pm.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "prometio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000998",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Nauru?",
+  "answers": [
+    {
+      "text": "Papeetē",
+      "correct": false
+    },
+    {
+      "text": "Alofi",
+      "correct": false
+    },
+    {
+      "text": "Fakaofo",
+      "correct": false
+    },
+    {
+      "text": "Yaren",
+      "correct": true
+    }
+  ],
+  "explanation": "La capital de Nauru es Yaren.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "nauru"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

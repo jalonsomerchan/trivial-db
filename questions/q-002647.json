@@ -1,0 +1,44 @@
+{
+  "id": "q-002647",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año se estrenó “El padrino”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "2000",
+      "correct": false
+    },
+    {
+      "text": "2006",
+      "correct": false
+    },
+    {
+      "text": "1982",
+      "correct": false
+    },
+    {
+      "text": "1972",
+      "correct": true
+    }
+  ],
+  "explanation": "“El padrino” se estrenó en 1972.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-padrino",
+    "estrenos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

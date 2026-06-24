@@ -1,0 +1,43 @@
+{
+  "id": "q-002506",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Valve?",
+  "answers": [
+    {
+      "text": "Tetris",
+      "correct": false
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Quake",
+      "correct": false
+    },
+    {
+      "text": "Half-Life",
+      "correct": true
+    }
+  ],
+  "explanation": "Valve desarrolló o publicó “Half-Life”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "valve",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

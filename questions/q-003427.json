@@ -1,0 +1,44 @@
+{
+  "id": "q-003427",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “En qué año apareció por primera vez Fortran”?",
+  "answers": [
+    {
+      "text": "1957",
+      "correct": true
+    },
+    {
+      "text": "1995",
+      "correct": false
+    },
+    {
+      "text": "2004",
+      "correct": false
+    },
+    {
+      "text": "2014",
+      "correct": false
+    }
+  ],
+  "explanation": "Fortran apareció por primera vez en 1957.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "fortran",
+    "historia-tecnologia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

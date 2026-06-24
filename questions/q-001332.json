@@ -1,0 +1,42 @@
+{
+  "id": "q-001332",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1808?",
+  "answers": [
+    {
+      "text": "entrada en circulación del euro",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de la Independencia española",
+      "correct": true
+    },
+    {
+      "text": "conquista de Tenochtitlan por Hernán Cortés",
+      "correct": false
+    },
+    {
+      "text": "Revolución cubana",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1808 ocurrió la inicio de la Guerra de la Independencia española.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "inicio-de-la-guerra-de-la-independencia-espanola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

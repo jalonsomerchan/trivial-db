@@ -1,0 +1,43 @@
+{
+  "id": "q-003644",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "Para un trivial de gastronomia, completa la respuesta correcta: En cocina, ¿qué significa escabechar?",
+  "answers": [
+    {
+      "text": "cocinar lentamente con poco líquido",
+      "correct": false
+    },
+    {
+      "text": "dejar que una masa fermente y aumente de volumen",
+      "correct": false
+    },
+    {
+      "text": "corte en dados pequeños",
+      "correct": false
+    },
+    {
+      "text": "conservar o cocinar con vinagre, aceite y especias",
+      "correct": true
+    }
+  ],
+  "explanation": "escabechar significa conservar o cocinar con vinagre, aceite y especias.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "escabechar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

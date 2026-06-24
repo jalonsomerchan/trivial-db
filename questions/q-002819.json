@@ -1,0 +1,44 @@
+{
+  "id": "q-002819",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “Seven”?",
+  "answers": [
+    {
+      "text": "David Fincher",
+      "correct": true
+    },
+    {
+      "text": "Roberto Benigni",
+      "correct": false
+    },
+    {
+      "text": "Martin Scorsese",
+      "correct": false
+    },
+    {
+      "text": "Katsuhiro Otomo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Seven” fue dirigida por David Fincher.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "seven",
+    "david-fincher",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

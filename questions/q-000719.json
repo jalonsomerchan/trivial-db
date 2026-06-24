@@ -1,0 +1,43 @@
+{
+  "id": "q-000719",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Chile?",
+  "answers": [
+    {
+      "text": "+357",
+      "correct": false
+    },
+    {
+      "text": "+389",
+      "correct": false
+    },
+    {
+      "text": "+56",
+      "correct": true
+    },
+    {
+      "text": "+252",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Chile es +56.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "chile"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

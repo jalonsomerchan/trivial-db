@@ -1,0 +1,42 @@
+{
+  "id": "q-002994",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Andrew Stanton en esta selección?",
+  "answers": [
+    {
+      "text": "Akira",
+      "correct": false
+    },
+    {
+      "text": "Los increíbles",
+      "correct": false
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": true
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    }
+  ],
+  "explanation": "Andrew Stanton dirigió “Buscando a Nemo”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "andrew-stanton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

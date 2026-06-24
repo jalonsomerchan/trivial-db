@@ -1,0 +1,44 @@
+{
+  "id": "q-003081",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "Qué sigla corresponde a “interfaz gráfica de usuario”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "DNS",
+      "correct": false
+    },
+    {
+      "text": "RAM",
+      "correct": false
+    },
+    {
+      "text": "GUI",
+      "correct": true
+    },
+    {
+      "text": "LAN",
+      "correct": false
+    }
+  ],
+  "explanation": "La sigla correspondiente a “interfaz gráfica de usuario” es GUI.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "gui",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

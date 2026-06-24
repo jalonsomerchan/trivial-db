@@ -1,0 +1,44 @@
+{
+  "id": "q-001739",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de arte y literatura: “Qué obra fue escrita por Mario Benedetti””?",
+  "answers": [
+    {
+      "text": "El camino",
+      "correct": false
+    },
+    {
+      "text": "Frankenstein",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": false
+    },
+    {
+      "text": "La tregua",
+      "correct": true
+    }
+  ],
+  "explanation": "Mario Benedetti escribió “La tregua”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-tregua",
+    "mario-benedetti",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

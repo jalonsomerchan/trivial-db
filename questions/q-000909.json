@@ -1,0 +1,43 @@
+{
+  "id": "q-000909",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código de moneda se usa en Nepal?",
+  "answers": [
+    {
+      "text": "XOF",
+      "correct": false
+    },
+    {
+      "text": "EUR",
+      "correct": false
+    },
+    {
+      "text": "NPR",
+      "correct": true
+    },
+    {
+      "text": "HTG",
+      "correct": false
+    }
+  ],
+  "explanation": "El código de moneda asociado a Nepal es NPR.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "paises",
+    "nepal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

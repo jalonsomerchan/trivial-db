@@ -1,0 +1,43 @@
+{
+  "id": "q-003803",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato khachapuri?",
+  "answers": [
+    {
+      "text": "Grecia",
+      "correct": false
+    },
+    {
+      "text": "Georgia",
+      "correct": true
+    },
+    {
+      "text": "Venezuela y Colombia",
+      "correct": false
+    },
+    {
+      "text": "Argentina",
+      "correct": false
+    }
+  ],
+  "explanation": "khachapuri se asocia tradicionalmente con Georgia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "khachapuri",
+    "georgia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

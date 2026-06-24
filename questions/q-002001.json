@@ -1,0 +1,43 @@
+{
+  "id": "q-002001",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cuadro se asocia con Vincent van Gogh?",
+  "answers": [
+    {
+      "text": "Las meninas",
+      "correct": false
+    },
+    {
+      "text": "El nacimiento de Venus",
+      "correct": false
+    },
+    {
+      "text": "Los fusilamientos del 3 de mayo",
+      "correct": false
+    },
+    {
+      "text": "La noche estrellada",
+      "correct": true
+    }
+  ],
+  "explanation": "Vincent van Gogh es el autor de “La noche estrellada”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "la-noche-estrellada",
+    "vincent-van-gogh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

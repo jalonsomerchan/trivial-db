@@ -1,0 +1,42 @@
+{
+  "id": "q-004530",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 5 × 6?",
+  "answers": [
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "35",
+      "correct": false
+    },
+    {
+      "text": "30",
+      "correct": true
+    },
+    {
+      "text": "24",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto de 5 por 6 es 30.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

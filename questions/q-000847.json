@@ -1,0 +1,43 @@
+{
+  "id": "q-000847",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Liberia?",
+  "answers": [
+    {
+      "text": ".pk",
+      "correct": false
+    },
+    {
+      "text": ".lr",
+      "correct": true
+    },
+    {
+      "text": ".hu",
+      "correct": false
+    },
+    {
+      "text": ".mz",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Liberia es .lr.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "liberia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

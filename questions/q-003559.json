@@ -1,0 +1,44 @@
+{
+  "id": "q-003559",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Con qué país o región se asocia tradicionalmente el plato tortilla de patatas”?",
+  "answers": [
+    {
+      "text": "Grecia",
+      "correct": false
+    },
+    {
+      "text": "Indonesia",
+      "correct": false
+    },
+    {
+      "text": "Australia y Nueva Zelanda",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    }
+  ],
+  "explanation": "tortilla de patatas se asocia tradicionalmente con España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "tortilla-de-patatas",
+    "espana",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

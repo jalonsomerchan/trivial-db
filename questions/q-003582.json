@@ -1,0 +1,42 @@
+{
+  "id": "q-003582",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado carne y patata?",
+  "answers": [
+    {
+      "text": "shepherd’s pie",
+      "correct": true
+    },
+    {
+      "text": "feijoada",
+      "correct": false
+    },
+    {
+      "text": "mapo tofu",
+      "correct": false
+    },
+    {
+      "text": "cuscús",
+      "correct": false
+    }
+  ],
+  "explanation": "shepherd’s pie destaca por el uso de carne y patata.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "carne-y-patata"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001835",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Qué artista pintó “La Gioconda””?",
+  "answers": [
+    {
+      "text": "Leonardo da Vinci",
+      "correct": true
+    },
+    {
+      "text": "Eugène Delacroix",
+      "correct": false
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": false
+    },
+    {
+      "text": "Jan van Eyck",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Gioconda” fue pintada por Leonardo da Vinci.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "la-gioconda",
+    "leonardo-da-vinci",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

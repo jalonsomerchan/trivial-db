@@ -1,0 +1,43 @@
+{
+  "id": "q-001275",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "Qué acontecimiento histórico ocurrió en 1688. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": true
+    },
+    {
+      "text": "salida efectiva del Reino Unido de la Unión Europea",
+      "correct": false
+    },
+    {
+      "text": "referéndum del Brexit",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1688 ocurrió la Revolución Gloriosa inglesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "revolucion-gloriosa-inglesa",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

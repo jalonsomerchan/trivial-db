@@ -1,0 +1,44 @@
+{
+  "id": "q-003089",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué sigla corresponde a “despliegue o entrega continua”?",
+  "answers": [
+    {
+      "text": "SSD",
+      "correct": false
+    },
+    {
+      "text": "RAM",
+      "correct": false
+    },
+    {
+      "text": "CD",
+      "correct": true
+    },
+    {
+      "text": "DOM",
+      "correct": false
+    }
+  ],
+  "explanation": "La sigla correspondiente a “despliegue o entrega continua” es CD.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "cd",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

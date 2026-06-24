@@ -1,0 +1,43 @@
+{
+  "id": "q-000331",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico tiene el símbolo Cl?",
+  "answers": [
+    {
+      "text": "titanio",
+      "correct": false
+    },
+    {
+      "text": "cloro",
+      "correct": true
+    },
+    {
+      "text": "azufre",
+      "correct": false
+    },
+    {
+      "text": "aluminio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Cl corresponde al cloro.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "cloro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

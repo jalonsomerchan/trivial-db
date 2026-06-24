@@ -1,0 +1,43 @@
+{
+  "id": "q-000766",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Kenia?",
+  "answers": [
+    {
+      "text": "+389",
+      "correct": false
+    },
+    {
+      "text": "+254",
+      "correct": true
+    },
+    {
+      "text": "+381",
+      "correct": false
+    },
+    {
+      "text": "+91",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Kenia es +254.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "kenia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

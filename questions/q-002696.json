@@ -1,0 +1,44 @@
+{
+  "id": "q-002696",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Quién dirigió la película “Pulp Fiction””. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Quentin Tarantino",
+      "correct": true
+    },
+    {
+      "text": "Gary Trousdale y Kirk Wise",
+      "correct": false
+    },
+    {
+      "text": "Giuseppe Tornatore",
+      "correct": false
+    },
+    {
+      "text": "Roger Allers y Rob Minkoff",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pulp Fiction” fue dirigida por Quentin Tarantino.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "pulp-fiction",
+    "quentin-tarantino",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

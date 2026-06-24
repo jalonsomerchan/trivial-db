@@ -1,0 +1,44 @@
+{
+  "id": "q-000250",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento tiene el número atómico 90”?",
+  "answers": [
+    {
+      "text": "actinio",
+      "correct": false
+    },
+    {
+      "text": "radio",
+      "correct": false
+    },
+    {
+      "text": "torio",
+      "correct": true
+    },
+    {
+      "text": "astato",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 90 corresponde al torio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "torio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

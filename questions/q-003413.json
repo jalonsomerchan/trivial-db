@@ -1,0 +1,43 @@
+{
+  "id": "q-003413",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto usa NTP por defecto?",
+  "answers": [
+    {
+      "text": "3389",
+      "correct": false
+    },
+    {
+      "text": "123",
+      "correct": true
+    },
+    {
+      "text": "143",
+      "correct": false
+    },
+    {
+      "text": "27017",
+      "correct": false
+    }
+  ],
+  "explanation": "NTP suele usar el puerto 123 por defecto.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "ntp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

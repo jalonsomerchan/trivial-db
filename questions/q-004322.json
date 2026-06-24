@@ -1,0 +1,43 @@
+{
+  "id": "q-004322",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “fácil, facil, fác il. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "fác il",
+      "correct": false
+    },
+    {
+      "text": "facíl",
+      "correct": false
+    },
+    {
+      "text": "facil",
+      "correct": false
+    },
+    {
+      "text": "fácil",
+      "correct": true
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “fácil”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "facil",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

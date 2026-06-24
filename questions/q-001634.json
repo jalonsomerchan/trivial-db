@@ -1,0 +1,43 @@
+{
+  "id": "q-001634",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué composición se asocia con George Gershwin?",
+  "answers": [
+    {
+      "text": "Tocata y fuga en re menor",
+      "correct": false
+    },
+    {
+      "text": "Rapsodia en azul",
+      "correct": true
+    },
+    {
+      "text": "Novena sinfonía",
+      "correct": false
+    },
+    {
+      "text": "La bohème",
+      "correct": false
+    }
+  ],
+  "explanation": "George Gershwin compuso “Rapsodia en azul”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "rapsodia-en-azul",
+    "george-gershwin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

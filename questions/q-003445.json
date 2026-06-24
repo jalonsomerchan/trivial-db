@@ -1,0 +1,43 @@
+{
+  "id": "q-003445",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año apareció por primera vez JavaScript?",
+  "answers": [
+    {
+      "text": "2010",
+      "correct": false
+    },
+    {
+      "text": "2005",
+      "correct": false
+    },
+    {
+      "text": "1995",
+      "correct": true
+    },
+    {
+      "text": "1986",
+      "correct": false
+    }
+  ],
+  "explanation": "JavaScript apareció por primera vez en 1995.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "javascript",
+    "historia-tecnologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

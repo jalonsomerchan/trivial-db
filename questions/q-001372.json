@@ -1,0 +1,44 @@
+{
+  "id": "q-001372",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la reunificación de Alemania?",
+  "answers": [
+    {
+      "text": "1990",
+      "correct": true
+    },
+    {
+      "text": "1980",
+      "correct": false
+    },
+    {
+      "text": "2000",
+      "correct": false
+    },
+    {
+      "text": "1970",
+      "correct": false
+    }
+  ],
+  "explanation": "La reunificación de Alemania ocurrió en 1990.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "reunificacion-de-alemania",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

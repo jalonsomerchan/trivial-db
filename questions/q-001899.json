@@ -1,0 +1,44 @@
+{
+  "id": "q-001899",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de arte y literatura: “Qué obra fue escrita por Carmen Laforet. ¿Cuál es la respuesta”?",
+  "answers": [
+    {
+      "text": "Nada",
+      "correct": true
+    },
+    {
+      "text": "El laberinto de la soledad",
+      "correct": false
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": false
+    },
+    {
+      "text": "El túnel",
+      "correct": false
+    }
+  ],
+  "explanation": "Carmen Laforet escribió “Nada”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "nada",
+    "carmen-laforet",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

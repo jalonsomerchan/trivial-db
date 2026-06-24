@@ -1,0 +1,43 @@
+{
+  "id": "q-003855",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Qué plato de esta lista tiene como ingrediente destacado garbanzos?",
+  "answers": [
+    {
+      "text": "shawarma",
+      "correct": false
+    },
+    {
+      "text": "cevapi",
+      "correct": false
+    },
+    {
+      "text": "cocido madrileño",
+      "correct": true
+    },
+    {
+      "text": "kasha",
+      "correct": false
+    }
+  ],
+  "explanation": "cocido madrileño destaca por el uso de garbanzos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "garbanzos",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000480",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué planeta ocupa la posición 8 desde el Sol?",
+  "answers": [
+    {
+      "text": "Neptuno",
+      "correct": true
+    },
+    {
+      "text": "Urano",
+      "correct": false
+    },
+    {
+      "text": "Saturno",
+      "correct": false
+    },
+    {
+      "text": "Mercurio",
+      "correct": false
+    }
+  ],
+  "explanation": "Neptuno es el planeta número 8 contando desde el Sol.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "sistema-solar",
+    "planetas",
+    "neptuno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000550",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital George Town?",
+  "answers": [
+    {
+      "text": "San Vicente y Granadinas",
+      "correct": false
+    },
+    {
+      "text": "Aruba",
+      "correct": false
+    },
+    {
+      "text": "Islas Malvinas",
+      "correct": false
+    },
+    {
+      "text": "Islas Caimán",
+      "correct": true
+    }
+  ],
+  "explanation": "George Town es la capital de Islas Caimán.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "islas-caiman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

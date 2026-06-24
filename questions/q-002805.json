@@ -1,0 +1,43 @@
+{
+  "id": "q-002805",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película “Casablanca”?",
+  "answers": [
+    {
+      "text": "Alfred Hitchcock",
+      "correct": false
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Orson Welles",
+      "correct": false
+    },
+    {
+      "text": "Michael Curtiz",
+      "correct": true
+    }
+  ],
+  "explanation": "“Casablanca” fue dirigida por Michael Curtiz.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "casablanca",
+    "michael-curtiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000753",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Bosnia y Herzegovina?",
+  "answers": [
+    {
+      "text": "+387",
+      "correct": true
+    },
+    {
+      "text": "+960",
+      "correct": false
+    },
+    {
+      "text": "+1809",
+      "correct": false
+    },
+    {
+      "text": "+996",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Bosnia y Herzegovina es +387.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "bosnia-y-herzegovina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

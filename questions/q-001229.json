@@ -1,0 +1,42 @@
+{
+  "id": "q-001229",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1815?",
+  "answers": [
+    {
+      "text": "Batalla de Waterloo",
+      "correct": true
+    },
+    {
+      "text": "desembarco de Normandía",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": false
+    },
+    {
+      "text": "primavera árabe",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1815 ocurrió la Batalla de Waterloo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "batalla-de-waterloo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

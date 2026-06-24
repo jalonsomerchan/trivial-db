@@ -1,0 +1,44 @@
+{
+  "id": "q-003250",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué protocolo se asocia normalmente al puerto 53?",
+  "answers": [
+    {
+      "text": "DNS",
+      "correct": true
+    },
+    {
+      "text": "NTP",
+      "correct": false
+    },
+    {
+      "text": "SIP",
+      "correct": false
+    },
+    {
+      "text": "LDAP",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 53 se asocia habitualmente con DNS.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "dns",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

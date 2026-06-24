@@ -1,0 +1,42 @@
+{
+  "id": "q-003898",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado rebozado ligero?",
+  "answers": [
+    {
+      "text": "paella",
+      "correct": false
+    },
+    {
+      "text": "tempura",
+      "correct": true
+    },
+    {
+      "text": "tzatziki",
+      "correct": false
+    },
+    {
+      "text": "cevapi",
+      "correct": false
+    }
+  ],
+  "explanation": "tempura destaca por el uso de rebozado ligero.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "rebozado-ligero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

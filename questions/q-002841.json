@@ -1,0 +1,43 @@
+{
+  "id": "q-002841",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué videojuego se asocia con Capcom”?",
+  "answers": [
+    {
+      "text": "Diablo",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": true
+    },
+    {
+      "text": "Grand Theft Auto III",
+      "correct": false
+    },
+    {
+      "text": "Celeste",
+      "correct": false
+    }
+  ],
+  "explanation": "Capcom desarrolló o publicó “Resident Evil”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "capcom",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

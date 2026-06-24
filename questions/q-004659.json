@@ -1,0 +1,42 @@
+{
+  "id": "q-004659",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es 4 × 13?",
+  "answers": [
+    {
+      "text": "56",
+      "correct": false
+    },
+    {
+      "text": "39",
+      "correct": false
+    },
+    {
+      "text": "43",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": true
+    }
+  ],
+  "explanation": "El producto de 4 por 13 es 52.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

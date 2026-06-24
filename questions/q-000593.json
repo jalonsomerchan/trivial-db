@@ -1,0 +1,43 @@
+{
+  "id": "q-000593",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Kazajistán?",
+  "answers": [
+    {
+      "text": "+687",
+      "correct": false
+    },
+    {
+      "text": "+76",
+      "correct": true
+    },
+    {
+      "text": "+968",
+      "correct": false
+    },
+    {
+      "text": "+52",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Kazajistán es +76.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "kazajistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

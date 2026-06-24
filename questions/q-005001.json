@@ -1,0 +1,42 @@
+{
+  "id": "q-005001",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 30% de 170?",
+  "answers": [
+    {
+      "text": "46",
+      "correct": false
+    },
+    {
+      "text": "56",
+      "correct": false
+    },
+    {
+      "text": "51",
+      "correct": true
+    },
+    {
+      "text": "61",
+      "correct": false
+    }
+  ],
+  "explanation": "El 30% de 170 es 170 × 30/100 = 51.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

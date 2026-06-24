@@ -1,0 +1,43 @@
+{
+  "id": "q-003786",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “En cocina, ¿qué significa al dente”?",
+  "answers": [
+    {
+      "text": "cocinar lentamente en grasa o almíbar a baja temperatura",
+      "correct": false
+    },
+    {
+      "text": "punto de cocción firme de la pasta",
+      "correct": true
+    },
+    {
+      "text": "dejar que una masa fermente y aumente de volumen",
+      "correct": false
+    },
+    {
+      "text": "corte en dados pequeños",
+      "correct": false
+    }
+  ],
+  "explanation": "al dente significa punto de cocción firme de la pasta.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "al-dente",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

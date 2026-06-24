@@ -1,0 +1,44 @@
+{
+  "id": "q-004304",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de lengua: “Qué palabra tiene un significado parecido a “reflexionar””?",
+  "answers": [
+    {
+      "text": "pequeño",
+      "correct": false
+    },
+    {
+      "text": "vender",
+      "correct": false
+    },
+    {
+      "text": "historia",
+      "correct": false
+    },
+    {
+      "text": "pensar",
+      "correct": true
+    }
+  ],
+  "explanation": "“pensar” y “reflexionar” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "pensar",
+    "reflexionar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

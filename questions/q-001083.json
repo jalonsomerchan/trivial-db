@@ -1,0 +1,44 @@
+{
+  "id": "q-001083",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la muerte de Franco?",
+  "answers": [
+    {
+      "text": "1985",
+      "correct": false
+    },
+    {
+      "text": "1965",
+      "correct": false
+    },
+    {
+      "text": "1975",
+      "correct": true
+    },
+    {
+      "text": "1955",
+      "correct": false
+    }
+  ],
+  "explanation": "La muerte de Franco ocurrió en 1975.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "muerte-de-franco",
+    "fechas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

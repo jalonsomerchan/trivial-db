@@ -1,0 +1,43 @@
+{
+  "id": "q-002775",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Qué película fue dirigida por Pete Docter en esta selección”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Uno de los nuestros",
+      "correct": false
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": false
+    },
+    {
+      "text": "Up",
+      "correct": true
+    },
+    {
+      "text": "Hable con ella",
+      "correct": false
+    }
+  ],
+  "explanation": "Pete Docter dirigió “Up”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "pete-docter",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

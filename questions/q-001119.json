@@ -1,0 +1,43 @@
+{
+  "id": "q-001119",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "hard",
+  "question": "Qué acontecimiento histórico ocurrió en 1498. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "atentados del 11 de septiembre en Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de la Independencia española",
+      "correct": false
+    },
+    {
+      "text": "llegada de Vasco da Gama a la India",
+      "correct": true
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1498 ocurrió la llegada de Vasco da Gama a la India.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "llegada-de-vasco-da-gama-a-la-india",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000611",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Liechtenstein?",
+  "answers": [
+    {
+      "text": "+1787",
+      "correct": false
+    },
+    {
+      "text": "+423",
+      "correct": true
+    },
+    {
+      "text": "+852",
+      "correct": false
+    },
+    {
+      "text": "+674",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Liechtenstein es +423.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "liechtenstein"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

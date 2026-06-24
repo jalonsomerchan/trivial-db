@@ -1,0 +1,43 @@
+{
+  "id": "q-000796",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Guinea?",
+  "answers": [
+    {
+      "text": "Libreville",
+      "correct": false
+    },
+    {
+      "text": "Dakar",
+      "correct": false
+    },
+    {
+      "text": "Conakry",
+      "correct": true
+    },
+    {
+      "text": "São Tomé",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Guinea es Conakry.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "guinea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-003043",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "Para un trivial de tecnologia, completa la respuesta correcta: Qué sigla corresponde a “red privada virtual”?",
+  "answers": [
+    {
+      "text": "GUI",
+      "correct": false
+    },
+    {
+      "text": "CRUD",
+      "correct": false
+    },
+    {
+      "text": "VPN",
+      "correct": true
+    },
+    {
+      "text": "CD",
+      "correct": false
+    }
+  ],
+  "explanation": "La sigla correspondiente a “red privada virtual” es VPN.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "conceptos",
+    "vpn",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

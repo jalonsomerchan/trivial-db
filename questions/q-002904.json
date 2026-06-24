@@ -1,0 +1,43 @@
+{
+  "id": "q-002904",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “Qué videojuego se asocia con Rockstar Games”?",
+  "answers": [
+    {
+      "text": "Grand Theft Auto III",
+      "correct": true
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    },
+    {
+      "text": "StarCraft",
+      "correct": false
+    },
+    {
+      "text": "Street Fighter II",
+      "correct": false
+    }
+  ],
+  "explanation": "Rockstar Games desarrolló o publicó “Grand Theft Auto III”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "rockstar-games",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

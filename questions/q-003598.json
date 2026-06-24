@@ -1,0 +1,44 @@
+{
+  "id": "q-003598",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Con qué país o región se asocia tradicionalmente el plato bunny chow”?",
+  "answers": [
+    {
+      "text": "Japón",
+      "correct": false
+    },
+    {
+      "text": "Vietnam",
+      "correct": false
+    },
+    {
+      "text": "Sudáfrica",
+      "correct": true
+    },
+    {
+      "text": "Suiza",
+      "correct": false
+    }
+  ],
+  "explanation": "bunny chow se asocia tradicionalmente con Sudáfrica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "bunny-chow",
+    "sudafrica",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

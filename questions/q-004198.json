@@ -1,0 +1,43 @@
+{
+  "id": "q-004198",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "plurales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el plural correcto de “país””?",
+  "answers": [
+    {
+      "text": "países",
+      "correct": true
+    },
+    {
+      "text": "exámenes",
+      "correct": false
+    },
+    {
+      "text": "actrices",
+      "correct": false
+    },
+    {
+      "text": "ciudades",
+      "correct": false
+    }
+  ],
+  "explanation": "El plural correcto de “país” es “países”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "plurales",
+    "pais",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

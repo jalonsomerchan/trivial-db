@@ -1,0 +1,44 @@
+{
+  "id": "q-000022",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Cuál es el número atómico del plutonio”?",
+  "answers": [
+    {
+      "text": "86",
+      "correct": false
+    },
+    {
+      "text": "101",
+      "correct": false
+    },
+    {
+      "text": "102",
+      "correct": false
+    },
+    {
+      "text": "94",
+      "correct": true
+    }
+  ],
+  "explanation": "El plutonio tiene número atómico 94.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "plutonio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001271",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 1969”?",
+  "answers": [
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": true
+    },
+    {
+      "text": "fundación de la OTAN",
+      "correct": false
+    },
+    {
+      "text": "comienzo de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "reunificación de Alemania",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1969 ocurrió la llegada del Apolo 11 a la Luna.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "llegada-del-apolo-11-a-la-luna",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

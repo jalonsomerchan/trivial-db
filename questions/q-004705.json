@@ -1,0 +1,42 @@
+{
+  "id": "q-004705",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el 60% de 280?",
+  "answers": [
+    {
+      "text": "173",
+      "correct": false
+    },
+    {
+      "text": "178",
+      "correct": false
+    },
+    {
+      "text": "163",
+      "correct": false
+    },
+    {
+      "text": "168",
+      "correct": true
+    }
+  ],
+  "explanation": "El 60% de 280 es 280 × 60/100 = 168.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

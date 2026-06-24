@@ -1,0 +1,44 @@
+{
+  "id": "q-003178",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué protocolo se asocia normalmente al puerto 27017”?",
+  "answers": [
+    {
+      "text": "MySQL",
+      "correct": false
+    },
+    {
+      "text": "NTP",
+      "correct": false
+    },
+    {
+      "text": "SSH",
+      "correct": false
+    },
+    {
+      "text": "MongoDB",
+      "correct": true
+    }
+  ],
+  "explanation": "El puerto 27017 se asocia habitualmente con MongoDB.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "mongodb",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

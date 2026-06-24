@@ -1,0 +1,44 @@
+{
+  "id": "q-000201",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento químico tiene el símbolo Rg”?",
+  "answers": [
+    {
+      "text": "roentgenio",
+      "correct": true
+    },
+    {
+      "text": "darmstadtio",
+      "correct": false
+    },
+    {
+      "text": "meitnerio",
+      "correct": false
+    },
+    {
+      "text": "copernicio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Rg corresponde al roentgenio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "roentgenio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001338",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año ocurrió la publicación del Manifiesto Comunista?",
+  "answers": [
+    {
+      "text": "1838",
+      "correct": false
+    },
+    {
+      "text": "1848",
+      "correct": true
+    },
+    {
+      "text": "1828",
+      "correct": false
+    },
+    {
+      "text": "1858",
+      "correct": false
+    }
+  ],
+  "explanation": "La publicación del Manifiesto Comunista ocurrió en 1848.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "publicacion-del-manifiesto-comunista",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000084",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Cuál es el número atómico del darmstadtio?",
+  "answers": [
+    {
+      "text": "117",
+      "correct": false
+    },
+    {
+      "text": "116",
+      "correct": false
+    },
+    {
+      "text": "109",
+      "correct": false
+    },
+    {
+      "text": "110",
+      "correct": true
+    }
+  ],
+  "explanation": "El darmstadtio tiene número atómico 110.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "darmstadtio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

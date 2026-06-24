@@ -1,0 +1,43 @@
+{
+  "id": "q-000949",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Brasil?",
+  "answers": [
+    {
+      "text": "+377",
+      "correct": false
+    },
+    {
+      "text": "+55",
+      "correct": true
+    },
+    {
+      "text": "+593",
+      "correct": false
+    },
+    {
+      "text": "+33",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Brasil es +55.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "brasil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001099",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió la firma de los Tratados de Roma?",
+  "answers": [
+    {
+      "text": "1937",
+      "correct": false
+    },
+    {
+      "text": "1967",
+      "correct": false
+    },
+    {
+      "text": "1947",
+      "correct": false
+    },
+    {
+      "text": "1957",
+      "correct": true
+    }
+  ],
+  "explanation": "La firma de los Tratados de Roma ocurrió en 1957.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "firma-de-los-tratados-de-roma",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

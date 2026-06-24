@@ -1,0 +1,43 @@
+{
+  "id": "q-000151",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el número atómico del estaño?",
+  "answers": [
+    {
+      "text": "50",
+      "correct": true
+    },
+    {
+      "text": "43",
+      "correct": false
+    },
+    {
+      "text": "49",
+      "correct": false
+    },
+    {
+      "text": "57",
+      "correct": false
+    }
+  ],
+  "explanation": "El estaño tiene número atómico 50.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "estano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

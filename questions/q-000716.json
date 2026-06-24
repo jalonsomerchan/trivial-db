@@ -1,0 +1,43 @@
+{
+  "id": "q-000716",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Thimphu?",
+  "answers": [
+    {
+      "text": "Malasia",
+      "correct": false
+    },
+    {
+      "text": "Taiwán",
+      "correct": false
+    },
+    {
+      "text": "Israel",
+      "correct": false
+    },
+    {
+      "text": "Bután",
+      "correct": true
+    }
+  ],
+  "explanation": "Thimphu es la capital de Bután.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises",
+    "butan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

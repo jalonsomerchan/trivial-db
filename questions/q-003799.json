@@ -1,0 +1,42 @@
+{
+  "id": "q-003799",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato de esta lista tiene como ingrediente destacado caldo especiado?",
+  "answers": [
+    {
+      "text": "tom yum",
+      "correct": true
+    },
+    {
+      "text": "feijoada",
+      "correct": false
+    },
+    {
+      "text": "satay",
+      "correct": false
+    },
+    {
+      "text": "tabulé",
+      "correct": false
+    }
+  ],
+  "explanation": "tom yum destaca por el uso de caldo especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "caldo-especiado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

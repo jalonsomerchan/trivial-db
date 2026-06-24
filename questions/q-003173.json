@@ -1,0 +1,43 @@
+{
+  "id": "q-003173",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "En tecnologia, ¿qué opción responde correctamente a esta pista: Quién creó o impulsó originalmente el lenguaje JavaScript?",
+  "answers": [
+    {
+      "text": "Larry Wall",
+      "correct": false
+    },
+    {
+      "text": "Brendan Eich",
+      "correct": true
+    },
+    {
+      "text": "Dennis Ritchie",
+      "correct": false
+    },
+    {
+      "text": "Alan Kay, Dan Ingalls y Adele Goldberg",
+      "correct": false
+    }
+  ],
+  "explanation": "JavaScript se asocia históricamente con Brendan Eich.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "javascript",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

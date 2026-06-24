@@ -1,0 +1,42 @@
+{
+  "id": "q-002622",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Luis García Berlanga en esta selección?",
+  "answers": [
+    {
+      "text": "Up",
+      "correct": false
+    },
+    {
+      "text": "Amélie",
+      "correct": false
+    },
+    {
+      "text": "Bienvenido, Mister Marshall",
+      "correct": true
+    },
+    {
+      "text": "Cinema Paradiso",
+      "correct": false
+    }
+  ],
+  "explanation": "Luis García Berlanga dirigió “Bienvenido, Mister Marshall”.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "luis-garcia-berlanga"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

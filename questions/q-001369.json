@@ -1,0 +1,42 @@
+{
+  "id": "q-001369",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué acontecimiento histórico ocurrió en 800?",
+  "answers": [
+    {
+      "text": "coronación imperial de Carlomagno",
+      "correct": true
+    },
+    {
+      "text": "aprobación de la Constitución española",
+      "correct": false
+    },
+    {
+      "text": "creación del Estado de Israel",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    }
+  ],
+  "explanation": "En 800 ocurrió la coronación imperial de Carlomagno.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "coronacion-imperial-de-carlomagno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

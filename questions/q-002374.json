@@ -1,0 +1,42 @@
+{
+  "id": "q-002374",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué deporte empieza normalmente con 9 jugadores por equipo y anota mediante carrera?",
+  "answers": [
+    {
+      "text": "rugby seven",
+      "correct": false
+    },
+    {
+      "text": "balonmano",
+      "correct": false
+    },
+    {
+      "text": "curling",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": true
+    }
+  ],
+  "explanation": "Esa combinación corresponde a béisbol.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "beisbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002110",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuántos jugadores por equipo comienzan un partido de fútbol americano?",
+  "answers": [
+    {
+      "text": "11",
+      "correct": true
+    },
+    {
+      "text": "6",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": false
+    }
+  ],
+  "explanation": "En fútbol americano, cada equipo comienza con 11 jugadores en el campo o pista.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "futbol-americano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

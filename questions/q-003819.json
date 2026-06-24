@@ -1,0 +1,43 @@
+{
+  "id": "q-003819",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “Cuál es un ingrediente principal de poutine”?",
+  "answers": [
+    {
+      "text": "verduras",
+      "correct": false
+    },
+    {
+      "text": "yogur y pepino",
+      "correct": false
+    },
+    {
+      "text": "frijoles negros",
+      "correct": false
+    },
+    {
+      "text": "patatas fritas",
+      "correct": true
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de poutine es patatas fritas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "poutine",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

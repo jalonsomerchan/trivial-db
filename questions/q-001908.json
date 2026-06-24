@@ -1,0 +1,44 @@
+{
+  "id": "q-001908",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué obra fue escrita por William Shakespeare”?",
+  "answers": [
+    {
+      "text": "Hamlet",
+      "correct": true
+    },
+    {
+      "text": "El Lazarillo de Tormes",
+      "correct": false
+    },
+    {
+      "text": "El ingenioso hidalgo don Quijote de la Mancha",
+      "correct": false
+    },
+    {
+      "text": "Macbeth",
+      "correct": false
+    }
+  ],
+  "explanation": "William Shakespeare escribió “Hamlet”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "hamlet",
+    "william-shakespeare",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

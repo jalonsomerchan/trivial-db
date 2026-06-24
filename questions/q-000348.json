@@ -1,0 +1,43 @@
+{
+  "id": "q-000348",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué magnitud física se mide en ampere?",
+  "answers": [
+    {
+      "text": "corriente eléctrica",
+      "correct": true
+    },
+    {
+      "text": "tiempo",
+      "correct": false
+    },
+    {
+      "text": "longitud",
+      "correct": false
+    },
+    {
+      "text": "diferencia de potencial eléctrico",
+      "correct": false
+    }
+  ],
+  "explanation": "El ampere es una unidad utilizada para medir corriente eléctrica.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "unidades",
+    "ampere"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

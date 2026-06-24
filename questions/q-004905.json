@@ -1,0 +1,42 @@
+{
+  "id": "q-004905",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 3 × 4?",
+  "answers": [
+    {
+      "text": "11",
+      "correct": false
+    },
+    {
+      "text": "12",
+      "correct": true
+    },
+    {
+      "text": "8",
+      "correct": false
+    },
+    {
+      "text": "15",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto de 3 por 4 es 12.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

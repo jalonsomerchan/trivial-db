@@ -1,0 +1,43 @@
+{
+  "id": "q-000770",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio territorial de internet se asocia con Dominica?",
+  "answers": [
+    {
+      "text": ".iq",
+      "correct": false
+    },
+    {
+      "text": ".es",
+      "correct": false
+    },
+    {
+      "text": ".kp",
+      "correct": false
+    },
+    {
+      "text": ".dm",
+      "correct": true
+    }
+  ],
+  "explanation": "El dominio territorial asignado a Dominica es .dm.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "dominios",
+    "internet",
+    "dominica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

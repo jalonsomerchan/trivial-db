@@ -1,0 +1,44 @@
+{
+  "id": "q-002747",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “En entretenimiento, ¿qué opción responde correctamente a esta pista: Quién dirigió la película “Akira””?",
+  "answers": [
+    {
+      "text": "Brad Bird",
+      "correct": false
+    },
+    {
+      "text": "Katsuhiro Otomo",
+      "correct": true
+    },
+    {
+      "text": "Jonathan Demme",
+      "correct": false
+    },
+    {
+      "text": "Hayao Miyazaki",
+      "correct": false
+    }
+  ],
+  "explanation": "“Akira” fue dirigida por Katsuhiro Otomo.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "akira",
+    "katsuhiro-otomo",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

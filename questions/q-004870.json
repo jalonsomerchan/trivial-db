@@ -1,0 +1,43 @@
+{
+  "id": "q-004870",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de matematicas: “Cuánto es 14 + 18”?",
+  "answers": [
+    {
+      "text": "32",
+      "correct": true
+    },
+    {
+      "text": "31",
+      "correct": false
+    },
+    {
+      "text": "33",
+      "correct": false
+    },
+    {
+      "text": "42",
+      "correct": false
+    }
+  ],
+  "explanation": "Al sumar 14 y 18 se obtiene 32.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

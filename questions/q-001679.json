@@ -1,0 +1,43 @@
+{
+  "id": "q-001679",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién escribió “Anna Karénina”?",
+  "answers": [
+    {
+      "text": "Miguel de Unamuno",
+      "correct": false
+    },
+    {
+      "text": "Mary Shelley",
+      "correct": false
+    },
+    {
+      "text": "León Tolstói",
+      "correct": true
+    },
+    {
+      "text": "Miguel de Cervantes",
+      "correct": false
+    }
+  ],
+  "explanation": "“Anna Karénina” es una obra de León Tolstói.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "anna-karenina",
+    "leon-tolstoi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

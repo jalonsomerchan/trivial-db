@@ -1,0 +1,44 @@
+{
+  "id": "q-001790",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "poesia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera ““Rimas” pertenece principalmente al ámbito de...”?",
+  "answers": [
+    {
+      "text": "literatura",
+      "correct": false
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "poesia",
+      "correct": true
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Rimas” se clasifica dentro de poesia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "poesia",
+    "rimas",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

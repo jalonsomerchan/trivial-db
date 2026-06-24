@@ -1,0 +1,44 @@
+{
+  "id": "q-002283",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "futbol"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de deporte: “En qué año ganó Argentina el Mundial de fútbol jugado en México”?",
+  "answers": [
+    {
+      "text": "1982",
+      "correct": false
+    },
+    {
+      "text": "1970",
+      "correct": false
+    },
+    {
+      "text": "1986",
+      "correct": true
+    },
+    {
+      "text": "2014",
+      "correct": false
+    }
+  ],
+  "explanation": "Argentina ganó el Mundial celebrado en México en 1986.",
+  "sources": [
+    {
+      "title": "FIFA World Cup",
+      "url": "https://www.fifa.com/en/tournaments/mens/worldcup"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "futbol",
+    "argentina",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000416",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento químico tiene el símbolo Eu”?",
+  "answers": [
+    {
+      "text": "lantano",
+      "correct": false
+    },
+    {
+      "text": "neodimio",
+      "correct": false
+    },
+    {
+      "text": "europio",
+      "correct": true
+    },
+    {
+      "text": "erbio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Eu corresponde al europio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "europio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001030",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué acontecimiento histórico ocurrió en 1522”?",
+  "answers": [
+    {
+      "text": "primera Exposición Universal de París con la Torre Eiffel",
+      "correct": false
+    },
+    {
+      "text": "final de la primera vuelta al mundo de Magallanes-Elcano",
+      "correct": true
+    },
+    {
+      "text": "toma de la Bastilla",
+      "correct": false
+    },
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1522 ocurrió la final de la primera vuelta al mundo de Magallanes-Elcano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "final-de-la-primera-vuelta-al-mundo-de-magallanes-elcano",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

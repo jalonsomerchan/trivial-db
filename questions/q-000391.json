@@ -1,0 +1,44 @@
+{
+  "id": "q-000391",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Qué elemento tiene el número atómico 33. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "itrio",
+      "correct": false
+    },
+    {
+      "text": "germanio",
+      "correct": false
+    },
+    {
+      "text": "arsénico",
+      "correct": true
+    },
+    {
+      "text": "rubidio",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico 33 corresponde al arsénico.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "arsenico",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

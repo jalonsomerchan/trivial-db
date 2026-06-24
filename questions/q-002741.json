@@ -1,0 +1,43 @@
+{
+  "id": "q-002741",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Maxis?",
+  "answers": [
+    {
+      "text": "Pokémon Rojo y Azul",
+      "correct": false
+    },
+    {
+      "text": "Hollow Knight",
+      "correct": false
+    },
+    {
+      "text": "Celeste",
+      "correct": false
+    },
+    {
+      "text": "The Sims",
+      "correct": true
+    }
+  ],
+  "explanation": "Maxis desarrolló o publicó “The Sims”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play - Video Game History",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "maxis",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

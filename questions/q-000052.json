@@ -1,0 +1,44 @@
+{
+  "id": "q-000052",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "En ciencia, ¿qué opción responde correctamente a esta pista: Cuál es el número atómico del dubnio?",
+  "answers": [
+    {
+      "text": "100",
+      "correct": false
+    },
+    {
+      "text": "106",
+      "correct": false
+    },
+    {
+      "text": "107",
+      "correct": false
+    },
+    {
+      "text": "105",
+      "correct": true
+    }
+  ],
+  "explanation": "El dubnio tiene número atómico 105.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "dubnio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

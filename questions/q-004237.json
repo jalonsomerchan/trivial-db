@@ -1,0 +1,42 @@
+{
+  "id": "q-004237",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra lleva tilde correctamente: ciudad, cíudad, ciudád?",
+  "answers": [
+    {
+      "text": "ciudàd",
+      "correct": false
+    },
+    {
+      "text": "cíudad",
+      "correct": false
+    },
+    {
+      "text": "ciudad",
+      "correct": true
+    },
+    {
+      "text": "ciudád",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “ciudad”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "ciudad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

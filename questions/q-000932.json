@@ -1,0 +1,43 @@
+{
+  "id": "q-000932",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código de moneda se usa en Sri Lanka?",
+  "answers": [
+    {
+      "text": "DKK",
+      "correct": false
+    },
+    {
+      "text": "CHF",
+      "correct": false
+    },
+    {
+      "text": "LKR",
+      "correct": true
+    },
+    {
+      "text": "CRC",
+      "correct": false
+    }
+  ],
+  "explanation": "El código de moneda asociado a Sri Lanka es LKR.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "paises",
+    "sri-lanka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

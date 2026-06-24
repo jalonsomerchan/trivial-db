@@ -1,0 +1,44 @@
+{
+  "id": "q-000496",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "Elige la respuesta correcta para esta pista de ciencia: “Qué elemento químico tiene el símbolo Np”?",
+  "answers": [
+    {
+      "text": "uranio",
+      "correct": false
+    },
+    {
+      "text": "plutonio",
+      "correct": false
+    },
+    {
+      "text": "neptunio",
+      "correct": true
+    },
+    {
+      "text": "californio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo Np corresponde al neptunio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "neptunio",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-004424",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "Qué palabra tiene un significado parecido a “trayecto”. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "mirar",
+      "correct": false
+    },
+    {
+      "text": "viaje",
+      "correct": true
+    },
+    {
+      "text": "oscuridad",
+      "correct": false
+    },
+    {
+      "text": "maestro",
+      "correct": false
+    }
+  ],
+  "explanation": "“viaje” y “trayecto” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "viaje",
+    "trayecto",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

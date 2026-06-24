@@ -1,0 +1,43 @@
+{
+  "id": "q-000925",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código de moneda se usa en Armenia?",
+  "answers": [
+    {
+      "text": "XCD",
+      "correct": false
+    },
+    {
+      "text": "AUD",
+      "correct": false
+    },
+    {
+      "text": "XOF",
+      "correct": false
+    },
+    {
+      "text": "AMD",
+      "correct": true
+    }
+  ],
+  "explanation": "El código de moneda asociado a Armenia es AMD.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "paises",
+    "armenia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

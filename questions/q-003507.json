@@ -1,0 +1,43 @@
+{
+  "id": "q-003507",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato doro wat?",
+  "answers": [
+    {
+      "text": "Canadá",
+      "correct": false
+    },
+    {
+      "text": "China",
+      "correct": false
+    },
+    {
+      "text": "Etiopía",
+      "correct": true
+    },
+    {
+      "text": "Suiza",
+      "correct": false
+    }
+  ],
+  "explanation": "doro wat se asocia tradicionalmente con Etiopía.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "doro-wat",
+    "etiopia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

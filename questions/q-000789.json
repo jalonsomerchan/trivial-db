@@ -1,0 +1,43 @@
+{
+  "id": "q-000789",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Islas Faroe?",
+  "answers": [
+    {
+      "text": "+65",
+      "correct": false
+    },
+    {
+      "text": "+256",
+      "correct": false
+    },
+    {
+      "text": "+298",
+      "correct": true
+    },
+    {
+      "text": "+92",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Islas Faroe es +298.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "islas-faroe"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

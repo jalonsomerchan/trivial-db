@@ -1,0 +1,43 @@
+{
+  "id": "q-002132",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte se usa el término “triple”?",
+  "answers": [
+    {
+      "text": "baloncesto",
+      "correct": true
+    },
+    {
+      "text": "ciclismo",
+      "correct": false
+    },
+    {
+      "text": "tenis",
+      "correct": false
+    },
+    {
+      "text": "esgrima",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “triple” se usa en baloncesto.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "terminologia",
+    "baloncesto",
+    "triple"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

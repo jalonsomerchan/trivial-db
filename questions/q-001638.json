@@ -1,0 +1,44 @@
+{
+  "id": "q-001638",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Quién escribió “La colmena””?",
+  "answers": [
+    {
+      "text": "Albert Camus",
+      "correct": false
+    },
+    {
+      "text": "Camilo José Cela",
+      "correct": true
+    },
+    {
+      "text": "Dante Alighieri",
+      "correct": false
+    },
+    {
+      "text": "Antonio Machado",
+      "correct": false
+    }
+  ],
+  "explanation": "“La colmena” es una obra de Camilo José Cela.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-colmena",
+    "camilo-jose-cela",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

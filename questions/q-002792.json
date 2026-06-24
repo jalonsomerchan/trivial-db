@@ -1,0 +1,44 @@
+{
+  "id": "q-002792",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "En entretenimiento, ¿qué opción responde correctamente a esta pista: ¿Quién dirigió la película “El rey león”?",
+  "answers": [
+    {
+      "text": "George Lucas",
+      "correct": false
+    },
+    {
+      "text": "Roger Allers y Rob Minkoff",
+      "correct": true
+    },
+    {
+      "text": "Chris Buck y Jennifer Lee",
+      "correct": false
+    },
+    {
+      "text": "Jean-Pierre Jeunet",
+      "correct": false
+    }
+  ],
+  "explanation": "“El rey león” fue dirigida por Roger Allers y Rob Minkoff.",
+  "sources": [
+    {
+      "title": "The Academy Awards",
+      "url": "https://www.oscars.org/oscars"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-rey-leon",
+    "roger-allers-y-rob-minkoff",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

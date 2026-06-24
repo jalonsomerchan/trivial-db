@@ -1,0 +1,43 @@
+{
+  "id": "q-001556",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "epica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién escribió “La Eneida”?",
+  "answers": [
+    {
+      "text": "Carlos Fuentes",
+      "correct": false
+    },
+    {
+      "text": "Dante Alighieri",
+      "correct": false
+    },
+    {
+      "text": "Lope de Vega",
+      "correct": false
+    },
+    {
+      "text": "Virgilio",
+      "correct": true
+    }
+  ],
+  "explanation": "“La Eneida” es una obra de Virgilio.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "la-eneida",
+    "virgilio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

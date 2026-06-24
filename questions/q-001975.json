@@ -1,0 +1,43 @@
+{
+  "id": "q-001975",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra fue escrita por Tirso de Molina?",
+  "answers": [
+    {
+      "text": "El proceso",
+      "correct": false
+    },
+    {
+      "text": "Rimas",
+      "correct": false
+    },
+    {
+      "text": "Rebelión en la granja",
+      "correct": false
+    },
+    {
+      "text": "El burlador de Sevilla",
+      "correct": true
+    }
+  ],
+  "explanation": "Tirso de Molina escribió “El burlador de Sevilla”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "el-burlador-de-sevilla",
+    "tirso-de-molina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

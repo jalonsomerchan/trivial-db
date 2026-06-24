@@ -1,0 +1,43 @@
+{
+  "id": "q-001056",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "Cuál de estos acontecimientos fue anterior a la Guerra de Secesión estadounidense. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "quiebra de Lehman Brothers",
+      "correct": false
+    },
+    {
+      "text": "primavera árabe",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": true
+    }
+  ],
+  "explanation": "El acontecimiento indicado ocurrió antes de 1861, año de la Guerra de Secesión estadounidense.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

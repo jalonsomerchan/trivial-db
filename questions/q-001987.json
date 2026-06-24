@@ -1,0 +1,44 @@
+{
+  "id": "q-001987",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "hard",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: “Macbeth” pertenece principalmente al ámbito de...?",
+  "answers": [
+    {
+      "text": "ensayo",
+      "correct": false
+    },
+    {
+      "text": "teatro",
+      "correct": true
+    },
+    {
+      "text": "literatura",
+      "correct": false
+    },
+    {
+      "text": "épica",
+      "correct": false
+    }
+  ],
+  "explanation": "“Macbeth” se clasifica dentro de teatro.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "teatro",
+    "macbeth",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

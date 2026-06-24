@@ -1,0 +1,42 @@
+{
+  "id": "q-001065",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1931?",
+  "answers": [
+    {
+      "text": "proclamación de la Segunda República española",
+      "correct": true
+    },
+    {
+      "text": "comienzo de la Primera Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "coronación imperial de Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1931 ocurrió la proclamación de la Segunda República española.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "proclamacion-de-la-segunda-republica-espanola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001191",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1804?",
+  "answers": [
+    {
+      "text": "llegada de Cristóbal Colón a América",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de la Independencia española",
+      "correct": false
+    },
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": false
+    },
+    {
+      "text": "coronación de Napoleón Bonaparte como emperador",
+      "correct": true
+    }
+  ],
+  "explanation": "En 1804 ocurrió la coronación de Napoleón Bonaparte como emperador.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "coronacion-de-napoleon-bonaparte-como-emperador"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

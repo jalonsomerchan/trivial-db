@@ -1,0 +1,42 @@
+{
+  "id": "q-001270",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1991?",
+  "answers": [
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": true
+    },
+    {
+      "text": "crisis de los misiles de Cuba",
+      "correct": false
+    },
+    {
+      "text": "bombardeo de Guernica",
+      "correct": false
+    },
+    {
+      "text": "aprobación de la Constitución española",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1991 ocurrió la disolución de la Unión Soviética.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "disolucion-de-la-union-sovietica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

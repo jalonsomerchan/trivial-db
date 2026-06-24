@@ -1,0 +1,43 @@
+{
+  "id": "q-000444",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué magnitud física se mide en kelvin?",
+  "answers": [
+    {
+      "text": "intensidad luminosa",
+      "correct": false
+    },
+    {
+      "text": "energía",
+      "correct": false
+    },
+    {
+      "text": "cantidad de sustancia",
+      "correct": false
+    },
+    {
+      "text": "temperatura termodinámica",
+      "correct": true
+    }
+  ],
+  "explanation": "El kelvin es una unidad utilizada para medir temperatura termodinámica.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "unidades",
+    "kelvin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

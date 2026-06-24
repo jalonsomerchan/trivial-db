@@ -1,0 +1,43 @@
+{
+  "id": "q-003066",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "Quién creó o impulsó originalmente el lenguaje Raku. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "Brad Cox y Tom Love",
+      "correct": false
+    },
+    {
+      "text": "Niklaus Wirth",
+      "correct": false
+    },
+    {
+      "text": "Martin Odersky",
+      "correct": false
+    },
+    {
+      "text": "Larry Wall",
+      "correct": true
+    }
+  ],
+  "explanation": "Raku se asocia históricamente con Larry Wall.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "raku",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

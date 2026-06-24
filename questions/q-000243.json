@@ -1,0 +1,44 @@
+{
+  "id": "q-000243",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Cuál es el símbolo químico del platino”?",
+  "answers": [
+    {
+      "text": "Hg",
+      "correct": false
+    },
+    {
+      "text": "Pt",
+      "correct": true
+    },
+    {
+      "text": "Hf",
+      "correct": false
+    },
+    {
+      "text": "Re",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del platino es Pt.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "platino",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

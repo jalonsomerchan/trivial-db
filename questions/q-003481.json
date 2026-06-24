@@ -1,0 +1,44 @@
+{
+  "id": "q-003481",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "Qué protocolo se asocia normalmente al puerto 443. ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "HTTPS",
+      "correct": true
+    },
+    {
+      "text": "HTTP",
+      "correct": false
+    },
+    {
+      "text": "MQTT",
+      "correct": false
+    },
+    {
+      "text": "MySQL",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 443 se asocia habitualmente con HTTPS.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "protocolos",
+    "puertos",
+    "https",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

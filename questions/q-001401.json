@@ -1,0 +1,42 @@
+{
+  "id": "q-001401",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1812?",
+  "answers": [
+    {
+      "text": "ampliación de la Unión Europea hacia Europa central y oriental",
+      "correct": false
+    },
+    {
+      "text": "Constitución de Cádiz",
+      "correct": true
+    },
+    {
+      "text": "conquista de Tenochtitlan por Hernán Cortés",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Trafalgar",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1812 ocurrió la Constitución de Cádiz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "constitucion-de-cadiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

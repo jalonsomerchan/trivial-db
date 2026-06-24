@@ -1,0 +1,43 @@
+{
+  "id": "q-003867",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "Elige la respuesta correcta para esta pista de gastronomia: “En cocina, ¿qué significa fermentar”?",
+  "answers": [
+    {
+      "text": "transformar alimentos mediante microorganismos",
+      "correct": true
+    },
+    {
+      "text": "calentar azúcar hasta que se dore",
+      "correct": false
+    },
+    {
+      "text": "trabajar una masa con las manos o máquina",
+      "correct": false
+    },
+    {
+      "text": "conservar con sal, azúcar, humo o tiempo",
+      "correct": false
+    }
+  ],
+  "explanation": "fermentar significa transformar alimentos mediante microorganismos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "fermentar",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

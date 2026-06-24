@@ -1,0 +1,43 @@
+{
+  "id": "q-003765",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Vietnam y suele llevar pan?",
+  "answers": [
+    {
+      "text": "banh mi",
+      "correct": true
+    },
+    {
+      "text": "lamington",
+      "correct": false
+    },
+    {
+      "text": "adobo",
+      "correct": false
+    },
+    {
+      "text": "churrasco",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es banh mi.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "vietnam",
+    "pan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

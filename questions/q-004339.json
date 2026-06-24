@@ -1,0 +1,42 @@
+{
+  "id": "q-004339",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un sinónimo de “triste”?",
+  "answers": [
+    {
+      "text": "extraño",
+      "correct": false
+    },
+    {
+      "text": "contento",
+      "correct": false
+    },
+    {
+      "text": "apenado",
+      "correct": true
+    },
+    {
+      "text": "adversario",
+      "correct": false
+    }
+  ],
+  "explanation": "“apenado” es un sinónimo de “triste”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "triste"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

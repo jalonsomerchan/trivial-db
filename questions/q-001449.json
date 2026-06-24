@@ -1,0 +1,43 @@
+{
+  "id": "q-001449",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año ocurrió la Declaración de Independencia de Estados Unidos?",
+  "answers": [
+    {
+      "text": "1801",
+      "correct": false
+    },
+    {
+      "text": "1726",
+      "correct": false
+    },
+    {
+      "text": "1751",
+      "correct": false
+    },
+    {
+      "text": "1776",
+      "correct": true
+    }
+  ],
+  "explanation": "La Declaración de Independencia de Estados Unidos ocurrió en 1776.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "declaracion-de-independencia-de-estados-unidos",
+    "fechas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

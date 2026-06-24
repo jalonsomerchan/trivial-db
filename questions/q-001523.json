@@ -1,0 +1,44 @@
+{
+  "id": "q-001523",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "“El ingenioso hidalgo don Quijote de la Mancha” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta?",
+  "answers": [
+    {
+      "text": "épica",
+      "correct": false
+    },
+    {
+      "text": "literatura",
+      "correct": true
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "teatro",
+      "correct": false
+    }
+  ],
+  "explanation": "“El ingenioso hidalgo don Quijote de la Mancha” se clasifica dentro de literatura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "generos",
+    "literatura",
+    "el-ingenioso-hidalgo-don-quijote-de-la-mancha",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

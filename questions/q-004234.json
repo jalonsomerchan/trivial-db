@@ -1,0 +1,43 @@
+{
+  "id": "q-004234",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "hard",
+  "question": "En lengua, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Qué palabra lleva tilde correctamente: bebé, bebe, bébe”?",
+  "answers": [
+    {
+      "text": "bébe",
+      "correct": false
+    },
+    {
+      "text": "bebè",
+      "correct": false
+    },
+    {
+      "text": "bebé",
+      "correct": true
+    },
+    {
+      "text": "bebe",
+      "correct": false
+    }
+  ],
+  "explanation": "La palabra correctamente acentuada es “bebé”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "bebe",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

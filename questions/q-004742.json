@@ -1,0 +1,42 @@
+{
+  "id": "q-004742",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 40 - 16?",
+  "answers": [
+    {
+      "text": "24",
+      "correct": true
+    },
+    {
+      "text": "23",
+      "correct": false
+    },
+    {
+      "text": "25",
+      "correct": false
+    },
+    {
+      "text": "29",
+      "correct": false
+    }
+  ],
+  "explanation": "La resta 40 - 16 da 24.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

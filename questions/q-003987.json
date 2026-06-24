@@ -1,0 +1,42 @@
+{
+  "id": "q-003987",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué significa gratinar?",
+  "answers": [
+    {
+      "text": "pasar por un tamiz o colador fino",
+      "correct": false
+    },
+    {
+      "text": "dejar que una masa fermente y aumente de volumen",
+      "correct": false
+    },
+    {
+      "text": "evaporar líquido para concentrar sabor",
+      "correct": false
+    },
+    {
+      "text": "dorar la superficie con calor fuerte",
+      "correct": true
+    }
+  ],
+  "explanation": "gratinar significa dorar la superficie con calor fuerte.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "gratinar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004287",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene un significado parecido a “temor”?",
+  "answers": [
+    {
+      "text": "oscuridad",
+      "correct": false
+    },
+    {
+      "text": "alegre",
+      "correct": false
+    },
+    {
+      "text": "miedo",
+      "correct": true
+    },
+    {
+      "text": "regalo",
+      "correct": false
+    }
+  ],
+  "explanation": "“miedo” y “temor” tienen significado parecido.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "sinonimos",
+    "miedo",
+    "temor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

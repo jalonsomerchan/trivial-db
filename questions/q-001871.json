@@ -1,0 +1,44 @@
+{
+  "id": "q-001871",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "teatro"
+  ],
+  "difficulty": "easy",
+  "question": "En arte y literatura, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Quién escribió “El perro del hortelano””?",
+  "answers": [
+    {
+      "text": "Roberto Bolaño",
+      "correct": false
+    },
+    {
+      "text": "Lope de Vega",
+      "correct": true
+    },
+    {
+      "text": "Jorge Luis Borges",
+      "correct": false
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    }
+  ],
+  "explanation": "“El perro del hortelano” es una obra de Lope de Vega.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "el-perro-del-hortelano",
+    "lope-de-vega",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003314",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál sería la opción correcta si la pista fuera “Quién creó o impulsó originalmente el lenguaje C++”?",
+  "answers": [
+    {
+      "text": "Ross Ihaka y Robert Gentleman",
+      "correct": false
+    },
+    {
+      "text": "Bjarne Stroustrup",
+      "correct": true
+    },
+    {
+      "text": "James Strachan",
+      "correct": false
+    },
+    {
+      "text": "Walter Bright",
+      "correct": false
+    }
+  ],
+  "explanation": "C++ se asocia históricamente con Bjarne Stroustrup.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "c",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

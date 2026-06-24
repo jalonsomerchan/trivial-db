@@ -1,0 +1,43 @@
+{
+  "id": "q-000302",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del indio?",
+  "answers": [
+    {
+      "text": "Cd",
+      "correct": false
+    },
+    {
+      "text": "Sn",
+      "correct": false
+    },
+    {
+      "text": "In",
+      "correct": true
+    },
+    {
+      "text": "Ru",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico del indio es In.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of the Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "indio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

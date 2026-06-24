@@ -1,0 +1,43 @@
+{
+  "id": "q-003985",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Balcanes y suele llevar hojas rellenas?",
+  "answers": [
+    {
+      "text": "sarma",
+      "correct": true
+    },
+    {
+      "text": "tabulé",
+      "correct": false
+    },
+    {
+      "text": "tortilla de patatas",
+      "correct": false
+    },
+    {
+      "text": "lamington",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que encaja con esa descripción es sarma.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "platos",
+    "balcanes",
+    "hojas-rellenas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

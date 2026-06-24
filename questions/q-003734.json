@@ -1,0 +1,43 @@
+{
+  "id": "q-003734",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "En gastronomia, ¿qué opción responde correctamente a esta pista: Cuál sería la opción correcta si la pista fuera “Cuál es un ingrediente principal de fabada asturiana”?",
+  "answers": [
+    {
+      "text": "lentejas",
+      "correct": false
+    },
+    {
+      "text": "maíz",
+      "correct": false
+    },
+    {
+      "text": "chiles y especias",
+      "correct": false
+    },
+    {
+      "text": "alubias",
+      "correct": true
+    }
+  ],
+  "explanation": "Uno de los ingredientes principales de fabada asturiana es alubias.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "fabada-asturiana",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

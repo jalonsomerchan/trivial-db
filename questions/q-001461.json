@@ -1,0 +1,42 @@
+{
+  "id": "q-001461",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué acontecimiento histórico ocurrió en 2020?",
+  "answers": [
+    {
+      "text": "salida efectiva del Reino Unido de la Unión Europea",
+      "correct": true
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    },
+    {
+      "text": "coronación imperial de Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "asesinato de John F. Kennedy",
+      "correct": false
+    }
+  ],
+  "explanation": "En 2020 ocurrió la salida efectiva del Reino Unido de la Unión Europea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "salida-efectiva-del-reino-unido-de-la-union-europea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

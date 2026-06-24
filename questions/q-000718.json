@@ -1,0 +1,43 @@
+{
+  "id": "q-000718",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "telefonia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el prefijo telefónico internacional de Islas Cocos o Islas Keeling?",
+  "answers": [
+    {
+      "text": "+678",
+      "correct": false
+    },
+    {
+      "text": "+686",
+      "correct": false
+    },
+    {
+      "text": "+371",
+      "correct": false
+    },
+    {
+      "text": "+61",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Islas Cocos o Islas Keeling es +61.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises",
+    "islas-cocos-o-islas-keeling"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

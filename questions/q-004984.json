@@ -1,0 +1,42 @@
+{
+  "id": "q-004984",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "geometria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el área de un rectángulo de base 21 y altura 26?",
+  "answers": [
+    {
+      "text": "94",
+      "correct": false
+    },
+    {
+      "text": "572",
+      "correct": false
+    },
+    {
+      "text": "546",
+      "correct": true
+    },
+    {
+      "text": "567",
+      "correct": false
+    }
+  ],
+  "explanation": "El área de un rectángulo se calcula como base por altura: 21 × 26 = 546.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "geometria",
+    "area"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001796",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra fue escrita por Jorge Luis Borges?",
+  "answers": [
+    {
+      "text": "La ciudad y los perros",
+      "correct": false
+    },
+    {
+      "text": "La colmena",
+      "correct": false
+    },
+    {
+      "text": "Cinco horas con Mario",
+      "correct": false
+    },
+    {
+      "text": "Ficciones",
+      "correct": true
+    }
+  ],
+  "explanation": "Jorge Luis Borges escribió “Ficciones”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Arts and Literature",
+      "url": "https://www.britannica.com/art"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "ficciones",
+    "jorge-luis-borges"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

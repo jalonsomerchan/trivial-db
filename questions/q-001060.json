@@ -1,0 +1,42 @@
+{
+  "id": "q-001060",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento histórico ocurrió en 1861?",
+  "answers": [
+    {
+      "text": "ataque a Pearl Harbor",
+      "correct": false
+    },
+    {
+      "text": "unificación de Italia",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Guerra de la Independencia española",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    }
+  ],
+  "explanation": "En 1861 ocurrió la unificación de Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "unificacion-de-italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

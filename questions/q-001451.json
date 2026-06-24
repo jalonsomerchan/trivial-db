@@ -1,0 +1,44 @@
+{
+  "id": "q-001451",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "Elige la respuesta correcta para esta pista de historia: “A qué siglo pertenece el año 1994, relacionado con la fin del apartheid legal en Sudáfrica con las primeras elecciones multirraciales”?",
+  "answers": [
+    {
+      "text": "siglo IV",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XXI",
+      "correct": false
+    },
+    {
+      "text": "siglo IX",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1994 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "historia",
+    "fin-del-apartheid-legal-en-sudafrica-con-las-primeras-elecciones-multirraciales",
+    "repaso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
