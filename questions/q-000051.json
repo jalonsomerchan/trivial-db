@@ -1,0 +1,25 @@
+{
+  "id": "q-000051",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": ["escultura"],
+  "difficulty": "medium",
+  "question": "¿Quién esculpió el David renacentista que se conserva en Florencia?",
+  "answers": [
+    { "text": "Donatello", "correct": false },
+    { "text": "Miguel Ángel", "correct": true },
+    { "text": "Bernini", "correct": false },
+    { "text": "Cellini", "correct": false }
+  ],
+  "explanation": "El David de mármol de Florencia fue esculpido por Miguel Ángel.",
+  "sources": [
+    {
+      "title": "Galleria dell'Accademia - David",
+      "url": "https://www.galleriaaccademiafirenze.it/en/artworks/david-michelangelo/"
+    }
+  ],
+  "tags": ["miguel-angel", "david", "renacimiento"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
