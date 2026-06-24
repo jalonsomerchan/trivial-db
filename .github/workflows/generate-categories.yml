@@ -1,11 +1,6 @@
 name: Generate categories
 
 on:
-  push:
-    paths:
-      - 'questions/**/*.json'
-      - 'scripts/generate-categories.mjs'
-      - '.github/workflows/generate-categories.yml'
   workflow_dispatch:
 
 permissions:
