@@ -1,0 +1,55 @@
+{
+  "id": "deportes",
+  "name": "Deportes",
+  "questions": [
+    "q-000030",
+    "q-000041",
+    "q-000052",
+    "q-000063",
+    "q-000074"
+  ],
+  "subcategories": [
+    {
+      "id": "baloncesto",
+      "name": "Baloncesto",
+      "questions": [
+        "q-000041"
+      ]
+    },
+    {
+      "id": "ciclismo",
+      "name": "Ciclismo",
+      "questions": [
+        "q-000063"
+      ]
+    },
+    {
+      "id": "formula-1",
+      "name": "Formula 1",
+      "questions": [
+        "q-000074"
+      ]
+    },
+    {
+      "id": "juegos-olimpicos",
+      "name": "Juegos Olimpicos",
+      "questions": [
+        "q-000052"
+      ]
+    },
+    {
+      "id": "tenis",
+      "name": "Tenis",
+      "questions": [
+        "q-000030"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "easy": 5,
+    "medium": 0,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}

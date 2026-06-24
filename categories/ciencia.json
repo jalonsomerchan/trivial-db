@@ -3,28 +3,56 @@
   "name": "Ciencia",
   "questions": [
     "q-000001",
-    "q-000005"
+    "q-000005",
+    "q-000015",
+    "q-000016",
+    "q-000027",
+    "q-000038",
+    "q-000049",
+    "q-000060",
+    "q-000071",
+    "q-000082"
   ],
   "subcategories": [
     {
       "id": "astronomia",
       "name": "Astronomia",
       "questions": [
-        "q-000001"
+        "q-000001",
+        "q-000038",
+        "q-000082"
+      ]
+    },
+    {
+      "id": "biologia",
+      "name": "Biologia",
+      "questions": [
+        "q-000016",
+        "q-000060"
+      ]
+    },
+    {
+      "id": "fisica",
+      "name": "Fisica",
+      "questions": [
+        "q-000015",
+        "q-000049"
       ]
     },
     {
       "id": "quimica",
       "name": "Quimica",
       "questions": [
-        "q-000005"
+        "q-000005",
+        "q-000027",
+        "q-000071"
       ]
     }
   ],
   "stats": {
-    "total": 2,
-    "easy": 2,
-    "medium": 0,
+    "total": 10,
+    "easy": 6,
+    "medium": 4,
     "hard": 0
   },
   "updated_at": "2026-06-24"

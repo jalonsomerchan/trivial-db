@@ -2,21 +2,57 @@
   "id": "literatura",
   "name": "Literatura",
   "questions": [
-    "q-000002"
+    "q-000002",
+    "q-000017",
+    "q-000028",
+    "q-000039",
+    "q-000050",
+    "q-000061",
+    "q-000072"
   ],
   "subcategories": [
     {
       "id": "literatura-espanola",
       "name": "Literatura Espanola",
       "questions": [
-        "q-000002"
+        "q-000002",
+        "q-000028"
+      ]
+    },
+    {
+      "id": "literatura-francesa",
+      "name": "Literatura Francesa",
+      "questions": [
+        "q-000039"
+      ]
+    },
+    {
+      "id": "literatura-infantil",
+      "name": "Literatura Infantil",
+      "questions": [
+        "q-000072"
+      ]
+    },
+    {
+      "id": "literatura-inglesa",
+      "name": "Literatura Inglesa",
+      "questions": [
+        "q-000017",
+        "q-000050"
+      ]
+    },
+    {
+      "id": "literatura-rusa",
+      "name": "Literatura Rusa",
+      "questions": [
+        "q-000061"
       ]
     }
   ],
   "stats": {
-    "total": 1,
-    "easy": 1,
-    "medium": 0,
+    "total": 7,
+    "easy": 3,
+    "medium": 4,
     "hard": 0
   },
   "updated_at": "2026-06-24"

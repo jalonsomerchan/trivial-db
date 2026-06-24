@@ -1,0 +1,23 @@
+{
+  "id": "gastronomia",
+  "name": "Gastronomia",
+  "questions": [
+    "q-000068"
+  ],
+  "subcategories": [
+    {
+      "id": "postres",
+      "name": "Postres",
+      "questions": [
+        "q-000068"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}

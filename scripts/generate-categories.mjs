@@ -4,6 +4,7 @@ import path from 'node:path';
 const rootDir = process.cwd();
 const questionsDir = path.join(rootDir, 'questions');
 const categoriesDir = path.join(rootDir, 'categories');
+const categoriesIndexPath = path.join(rootDir, 'categories.json');
 
 const REQUIRED_DIFFICULTIES = ['easy', 'medium', 'hard'];
 
@@ -185,6 +186,33 @@ function buildCategory(categoryId, questions, existingCategory) {
   return category;
 }
 
+function buildCategoriesIndex(categories) {
+  const sortedCategories = [...categories].sort((a, b) => sortIds(a.id, b.id));
+  const stats = {
+    total_categories: sortedCategories.length,
+    total_questions: 0,
+    total_subcategories: 0,
+    easy: 0,
+    medium: 0,
+    hard: 0,
+  };
+
+  for (const category of sortedCategories) {
+    stats.total_questions += category.stats?.total ?? category.questions?.length ?? 0;
+    stats.total_subcategories += Array.isArray(category.subcategories) ? category.subcategories.length : 0;
+
+    for (const difficulty of REQUIRED_DIFFICULTIES) {
+      stats[difficulty] += category.stats?.[difficulty] ?? 0;
+    }
+  }
+
+  return {
+    categories: sortedCategories,
+    stats,
+    updated_at: new Date().toISOString().slice(0, 10),
+  };
+}
+
 async function removeStaleCategories(generatedCategoryIds) {
   if (!(await exists(categoriesDir))) {
     return;
@@ -217,15 +245,21 @@ async function main() {
   await fs.mkdir(categoriesDir, { recursive: true });
 
   const generatedCategoryIds = new Set(questionsByCategory.keys());
+  const generatedCategories = [];
 
   for (const [categoryId, categoryQuestions] of [...questionsByCategory.entries()].sort(([a], [b]) => sortIds(a, b))) {
     const category = buildCategory(categoryId, categoryQuestions, existingCategories.get(categoryId));
     const filePath = path.join(categoriesDir, `${categoryId}.json`);
     await fs.writeFile(filePath, `${JSON.stringify(category, null, 2)}\n`, 'utf8');
+    generatedCategories.push(category);
     console.log(`Generada categoría: categories/${categoryId}.json`);
   }
 
   await removeStaleCategories(generatedCategoryIds);
+
+  const categoriesIndex = buildCategoriesIndex(generatedCategories);
+  await fs.writeFile(categoriesIndexPath, `${JSON.stringify(categoriesIndex, null, 2)}\n`, 'utf8');
+  console.log(`Generado categories.json con ${generatedCategories.length} categorías.`);
 }
 
 main().catch((error) => {

@@ -1,0 +1,37 @@
+{
+  "id": "cine-tv",
+  "name": "Cine Tv",
+  "questions": [
+    "q-000020",
+    "q-000031",
+    "q-000042",
+    "q-000053",
+    "q-000075"
+  ],
+  "subcategories": [
+    {
+      "id": "cine",
+      "name": "Cine",
+      "questions": [
+        "q-000020",
+        "q-000031",
+        "q-000053",
+        "q-000075"
+      ]
+    },
+    {
+      "id": "television",
+      "name": "Television",
+      "questions": [
+        "q-000042"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "easy": 2,
+    "medium": 3,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}

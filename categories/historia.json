@@ -3,14 +3,45 @@
   "name": "Historia",
   "questions": [
     "q-000004",
-    "q-000013"
+    "q-000013",
+    "q-000014",
+    "q-000026",
+    "q-000037",
+    "q-000048",
+    "q-000059",
+    "q-000070",
+    "q-000081"
   ],
   "subcategories": [
     {
       "id": "edad-antigua",
       "name": "Edad Antigua",
       "questions": [
-        "q-000013"
+        "q-000013",
+        "q-000048",
+        "q-000070"
+      ]
+    },
+    {
+      "id": "edad-contemporanea",
+      "name": "Edad Contemporanea",
+      "questions": [
+        "q-000037",
+        "q-000059"
+      ]
+    },
+    {
+      "id": "edad-media",
+      "name": "Edad Media",
+      "questions": [
+        "q-000026"
+      ]
+    },
+    {
+      "id": "edad-moderna",
+      "name": "Edad Moderna",
+      "questions": [
+        "q-000081"
       ]
     },
     {
@@ -18,6 +49,13 @@
       "name": "Exploracion Espacial",
       "questions": [
         "q-000004"
+      ]
+    },
+    {
+      "id": "siglo-xv",
+      "name": "Siglo Xv",
+      "questions": [
+        "q-000014"
       ]
     },
     {
@@ -29,9 +67,9 @@
     }
   ],
   "stats": {
-    "total": 2,
-    "easy": 2,
-    "medium": 0,
+    "total": 9,
+    "easy": 3,
+    "medium": 6,
     "hard": 0
   },
   "updated_at": "2026-06-24"
