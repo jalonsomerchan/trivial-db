@@ -1,0 +1,1156 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Panel visual de estadísticas y preguntas aleatorias para Trivial DB.">
+  <title>Trivial DB · Estadísticas y preguntas</title>
+  <style>
+    :root {
+      --bg: #f5f7fb;
+      --bg-soft: #eef3ff;
+      --card: rgba(255, 255, 255, 0.9);
+      --card-strong: #ffffff;
+      --text: #102033;
+      --muted: #65758b;
+      --line: rgba(20, 35, 55, 0.1);
+      --primary: #2463eb;
+      --primary-dark: #1742a0;
+      --accent: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+      --shadow: 0 24px 80px rgba(37, 64, 118, 0.14);
+      --radius-xl: 28px;
+      --radius-lg: 22px;
+      --radius-md: 16px;
+      --radius-sm: 12px;
+      color-scheme: light;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 8% 8%, rgba(36, 99, 235, 0.16), transparent 28rem),
+        radial-gradient(circle at 85% 18%, rgba(16, 185, 129, 0.15), transparent 25rem),
+        linear-gradient(135deg, #f8fbff 0%, #eef3ff 44%, #f7fafc 100%);
+    }
+
+    a {
+      color: inherit;
+    }
+
+    button,
+    select {
+      font: inherit;
+    }
+
+    .page {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 32px 0 56px;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      display: grid;
+      grid-template-columns: 1.35fr 0.65fr;
+      gap: 24px;
+      align-items: stretch;
+      min-height: 360px;
+      padding: 32px;
+      border: 1px solid rgba(255, 255, 255, 0.75);
+      border-radius: var(--radius-xl);
+      background:
+        linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(255, 255, 255, 0.68)),
+        linear-gradient(135deg, rgba(36, 99, 235, 0.14), rgba(16, 185, 129, 0.12));
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(24px);
+    }
+
+    .hero::before,
+    .hero::after {
+      content: "";
+      position: absolute;
+      border-radius: 999px;
+      pointer-events: none;
+      opacity: 0.72;
+    }
+
+    .hero::before {
+      width: 320px;
+      height: 320px;
+      right: -120px;
+      top: -130px;
+      background: rgba(36, 99, 235, 0.18);
+    }
+
+    .hero::after {
+      width: 240px;
+      height: 240px;
+      left: 48%;
+      bottom: -150px;
+      background: rgba(16, 185, 129, 0.18);
+    }
+
+    .hero-content,
+    .hero-panel {
+      position: relative;
+      z-index: 1;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin: 0 0 18px;
+      padding: 8px 12px;
+      border: 1px solid rgba(36, 99, 235, 0.16);
+      border-radius: 999px;
+      color: var(--primary-dark);
+      background: rgba(36, 99, 235, 0.08);
+      font-size: 0.86rem;
+      font-weight: 700;
+      letter-spacing: 0.01em;
+    }
+
+    h1 {
+      margin: 0;
+      max-width: 780px;
+      font-size: clamp(2.45rem, 7vw, 5.2rem);
+      line-height: 0.95;
+      letter-spacing: -0.075em;
+    }
+
+    .lead {
+      max-width: 700px;
+      margin: 22px 0 0;
+      color: var(--muted);
+      font-size: clamp(1rem, 2vw, 1.2rem);
+      line-height: 1.7;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 28px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      min-height: 46px;
+      padding: 12px 18px;
+      border: 0;
+      border-radius: 999px;
+      color: #fff;
+      background: linear-gradient(135deg, var(--primary), #1742a0);
+      box-shadow: 0 16px 30px rgba(36, 99, 235, 0.22);
+      cursor: pointer;
+      font-weight: 800;
+      text-decoration: none;
+      transition: transform 0.18s ease, box-shadow 0.18s ease, opacity 0.18s ease;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 20px 40px rgba(36, 99, 235, 0.28);
+    }
+
+    .btn:active {
+      transform: translateY(0);
+    }
+
+    .btn.secondary {
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.8);
+      border: 1px solid var(--line);
+      box-shadow: none;
+    }
+
+    .hero-panel {
+      display: grid;
+      align-content: space-between;
+      gap: 16px;
+      padding: 22px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      background: rgba(255, 255, 255, 0.72);
+      box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    }
+
+    .hero-panel-title {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.88rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
+
+    .hero-number {
+      margin: 0;
+      font-size: clamp(3rem, 8vw, 6.4rem);
+      line-height: 0.9;
+      font-weight: 900;
+      letter-spacing: -0.08em;
+    }
+
+    .hero-note {
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+
+    .status-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      width: fit-content;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(16, 185, 129, 0.1);
+      color: #047857;
+      font-size: 0.88rem;
+      font-weight: 800;
+    }
+
+    .dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: currentColor;
+      box-shadow: 0 0 0 5px rgba(16, 185, 129, 0.12);
+    }
+
+    .section {
+      margin-top: 28px;
+    }
+
+    .section-heading {
+      display: flex;
+      align-items: end;
+      justify-content: space-between;
+      gap: 20px;
+      margin: 0 0 16px;
+    }
+
+    .section-heading h2 {
+      margin: 0;
+      font-size: clamp(1.55rem, 3vw, 2.2rem);
+      letter-spacing: -0.04em;
+    }
+
+    .section-heading p {
+      max-width: 580px;
+      margin: 8px 0 0;
+      color: var(--muted);
+      line-height: 1.6;
+    }
+
+    .grid {
+      display: grid;
+      gap: 16px;
+    }
+
+    .stats-grid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .card {
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      background: var(--card);
+      box-shadow: 0 18px 50px rgba(37, 64, 118, 0.09);
+      backdrop-filter: blur(18px);
+    }
+
+    .stat-card {
+      padding: 22px;
+    }
+
+    .stat-label {
+      margin: 0 0 12px;
+      color: var(--muted);
+      font-size: 0.85rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .stat-value {
+      margin: 0;
+      font-size: clamp(2rem, 4vw, 3.4rem);
+      line-height: 1;
+      font-weight: 900;
+      letter-spacing: -0.06em;
+    }
+
+    .stat-foot {
+      margin: 12px 0 0;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .analytics-grid {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .panel {
+      padding: 24px;
+    }
+
+    .panel h3 {
+      margin: 0 0 18px;
+      font-size: 1.2rem;
+      letter-spacing: -0.03em;
+    }
+
+    .difficulty-bars {
+      display: grid;
+      gap: 14px;
+    }
+
+    .difficulty-row {
+      display: grid;
+      grid-template-columns: 92px 1fr 56px;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .difficulty-name,
+    .difficulty-value {
+      color: var(--muted);
+      font-weight: 800;
+      font-size: 0.92rem;
+    }
+
+    .difficulty-value {
+      text-align: right;
+    }
+
+    .track {
+      position: relative;
+      overflow: hidden;
+      height: 12px;
+      border-radius: 999px;
+      background: rgba(15, 23, 42, 0.08);
+    }
+
+    .bar {
+      height: 100%;
+      min-width: 8px;
+      border-radius: inherit;
+      background: linear-gradient(90deg, var(--primary), #7c3aed);
+    }
+
+    .bar.easy {
+      background: linear-gradient(90deg, var(--accent), #22c55e);
+    }
+
+    .bar.medium {
+      background: linear-gradient(90deg, var(--warning), #f97316);
+    }
+
+    .bar.hard {
+      background: linear-gradient(90deg, var(--danger), #be123c);
+    }
+
+    .category-ranking {
+      display: grid;
+      gap: 12px;
+      max-height: 420px;
+      overflow: auto;
+      padding-right: 6px;
+    }
+
+    .rank-row {
+      display: grid;
+      grid-template-columns: minmax(110px, 170px) 1fr 50px;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .rank-name {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      min-width: 0;
+      color: var(--text);
+      font-weight: 800;
+    }
+
+    .rank-name span:last-child {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .rank-value {
+      color: var(--muted);
+      font-weight: 900;
+      text-align: right;
+    }
+
+    .category-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .category-card {
+      overflow: hidden;
+      padding: 20px;
+      cursor: pointer;
+      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+    }
+
+    .category-card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(36, 99, 235, 0.22);
+      box-shadow: 0 22px 60px rgba(37, 64, 118, 0.14);
+    }
+
+    .category-top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+    }
+
+    .category-icon {
+      display: grid;
+      place-items: center;
+      width: 52px;
+      height: 52px;
+      border-radius: 18px;
+      background: rgba(36, 99, 235, 0.1);
+      font-size: 1.55rem;
+    }
+
+    .category-count {
+      color: var(--muted);
+      font-size: 0.9rem;
+      font-weight: 900;
+    }
+
+    .category-card h3 {
+      margin: 18px 0 8px;
+      font-size: 1.22rem;
+      letter-spacing: -0.03em;
+    }
+
+    .category-card p {
+      margin: 0;
+      min-height: 48px;
+      color: var(--muted);
+      line-height: 1.55;
+      font-size: 0.95rem;
+    }
+
+    .mini-stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 16px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 7px 10px;
+      border-radius: 999px;
+      color: #344255;
+      background: rgba(15, 23, 42, 0.06);
+      font-size: 0.82rem;
+      font-weight: 800;
+    }
+
+    .random-layout {
+      display: grid;
+      grid-template-columns: 0.72fr 1.28fr;
+      gap: 16px;
+      align-items: start;
+    }
+
+    .controls {
+      display: grid;
+      gap: 14px;
+    }
+
+    .field label {
+      display: block;
+      margin: 0 0 8px;
+      color: var(--muted);
+      font-size: 0.82rem;
+      font-weight: 900;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    select {
+      width: 100%;
+      min-height: 46px;
+      padding: 0 14px;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.92);
+      outline: none;
+    }
+
+    select:focus {
+      border-color: rgba(36, 99, 235, 0.48);
+      box-shadow: 0 0 0 4px rgba(36, 99, 235, 0.12);
+    }
+
+    .question-card {
+      min-height: 420px;
+      overflow: hidden;
+      background:
+        linear-gradient(135deg, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.82)),
+        radial-gradient(circle at top right, rgba(36, 99, 235, 0.14), transparent 18rem);
+    }
+
+    .question-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .question-title {
+      margin: 0 0 20px;
+      font-size: clamp(1.5rem, 3vw, 2.35rem);
+      line-height: 1.12;
+      letter-spacing: -0.045em;
+    }
+
+    .answers {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      margin-top: 20px;
+    }
+
+    .answer {
+      position: relative;
+      min-height: 70px;
+      padding: 16px 18px;
+      border: 1px solid rgba(15, 23, 42, 0.1);
+      border-radius: 18px;
+      color: var(--text);
+      background: rgba(255, 255, 255, 0.88);
+      cursor: pointer;
+      text-align: left;
+      font-weight: 800;
+      transition: transform 0.16s ease, border-color 0.16s ease, background 0.16s ease;
+    }
+
+    .answer:hover {
+      transform: translateY(-2px);
+      border-color: rgba(36, 99, 235, 0.3);
+    }
+
+    .answer.correct {
+      border-color: rgba(16, 185, 129, 0.6);
+      background: rgba(16, 185, 129, 0.12);
+    }
+
+    .answer.wrong {
+      border-color: rgba(239, 68, 68, 0.45);
+      background: rgba(239, 68, 68, 0.08);
+    }
+
+    .answer:disabled {
+      cursor: default;
+    }
+
+    .explanation {
+      display: none;
+      margin-top: 18px;
+      padding: 16px;
+      border: 1px solid rgba(16, 185, 129, 0.18);
+      border-radius: 18px;
+      color: #115e45;
+      background: rgba(16, 185, 129, 0.08);
+      line-height: 1.6;
+    }
+
+    .explanation.visible {
+      display: block;
+    }
+
+    .source-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+
+    .source-link {
+      display: inline-flex;
+      padding: 7px 10px;
+      border-radius: 999px;
+      color: var(--primary-dark);
+      background: rgba(36, 99, 235, 0.08);
+      font-size: 0.82rem;
+      font-weight: 800;
+      text-decoration: none;
+    }
+
+    .empty-state {
+      display: grid;
+      place-items: center;
+      min-height: 330px;
+      padding: 32px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    .empty-state strong {
+      display: block;
+      margin-bottom: 10px;
+      color: var(--text);
+      font-size: 1.25rem;
+    }
+
+    .loading {
+      opacity: 0.66;
+      pointer-events: none;
+    }
+
+    .footer {
+      margin-top: 32px;
+      padding: 20px 0 0;
+      color: var(--muted);
+      text-align: center;
+      font-size: 0.92rem;
+    }
+
+    @media (max-width: 980px) {
+      .hero,
+      .analytics-grid,
+      .random-layout {
+        grid-template-columns: 1fr;
+      }
+
+      .stats-grid,
+      .category-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 640px) {
+      .page {
+        width: min(100% - 20px, 1180px);
+        padding-top: 10px;
+      }
+
+      .hero,
+      .panel,
+      .stat-card {
+        padding: 18px;
+      }
+
+      .stats-grid,
+      .category-grid,
+      .answers {
+        grid-template-columns: 1fr;
+      }
+
+      .section-heading {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .rank-row,
+      .difficulty-row {
+        grid-template-columns: 1fr;
+        gap: 7px;
+      }
+
+      .rank-value,
+      .difficulty-value {
+        text-align: left;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <section class="hero" aria-labelledby="page-title">
+      <div class="hero-content">
+        <p class="eyebrow">📚 Base de datos abierta para juegos tipo trivial</p>
+        <h1 id="page-title">Trivial DB</h1>
+        <p class="lead">Explora las estadísticas de la base de preguntas, revisa el peso de cada categoría y prueba un visualizador de preguntas aleatorias con respuestas y explicación.</p>
+        <div class="hero-actions">
+          <a class="btn" href="#pregunta-aleatoria">Probar pregunta aleatoria</a>
+          <a class="btn secondary" href="#categorias">Ver categorías</a>
+        </div>
+      </div>
+      <aside class="hero-panel" aria-label="Resumen principal">
+        <div>
+          <p class="hero-panel-title">Preguntas publicadas</p>
+          <p class="hero-number" id="heroTotal">—</p>
+        </div>
+        <p class="hero-note">Datos cargados desde <strong>categories.json</strong> e <strong>index.json</strong>.</p>
+        <span class="status-pill"><span class="dot"></span><span id="updatedAt">Cargando datos</span></span>
+      </aside>
+    </section>
+
+    <section class="section" aria-labelledby="stats-title">
+      <div class="section-heading">
+        <div>
+          <h2 id="stats-title">Estadísticas generales</h2>
+          <p>Vista rápida del volumen de preguntas, categorías y subcategorías disponibles.</p>
+        </div>
+      </div>
+
+      <div class="grid stats-grid">
+        <article class="card stat-card">
+          <p class="stat-label">Preguntas</p>
+          <p class="stat-value" id="totalQuestions">—</p>
+          <p class="stat-foot">Total disponible para jugar</p>
+        </article>
+        <article class="card stat-card">
+          <p class="stat-label">Categorías</p>
+          <p class="stat-value" id="totalCategories">—</p>
+          <p class="stat-foot">Bloques temáticos principales</p>
+        </article>
+        <article class="card stat-card">
+          <p class="stat-label">Subcategorías</p>
+          <p class="stat-value" id="totalSubcategories">—</p>
+          <p class="stat-foot">Etiquetas temáticas agrupadas</p>
+        </article>
+        <article class="card stat-card">
+          <p class="stat-label">Media</p>
+          <p class="stat-value" id="averageQuestions">—</p>
+          <p class="stat-foot">Preguntas por categoría</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="analytics-title">
+      <div class="section-heading">
+        <div>
+          <h2 id="analytics-title">Distribución</h2>
+          <p>Comparativa por dificultad y ranking de categorías con más preguntas.</p>
+        </div>
+      </div>
+
+      <div class="grid analytics-grid">
+        <article class="card panel">
+          <h3>Dificultad</h3>
+          <div class="difficulty-bars" id="difficultyBars"></div>
+        </article>
+        <article class="card panel">
+          <h3>Preguntas por categoría</h3>
+          <div class="category-ranking" id="categoryRanking"></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="pregunta-aleatoria" aria-labelledby="random-title">
+      <div class="section-heading">
+        <div>
+          <h2 id="random-title">Pregunta aleatoria</h2>
+          <p>Genera una pregunta al azar de toda la base de datos o limita el sorteo a una categoría concreta.</p>
+        </div>
+      </div>
+
+      <div class="random-layout">
+        <aside class="card panel controls">
+          <div class="field">
+            <label for="categoryFilter">Categoría</label>
+            <select id="categoryFilter">
+              <option value="all">Todas las categorías</option>
+            </select>
+          </div>
+          <button class="btn" type="button" id="randomButton">Nueva pregunta</button>
+          <button class="btn secondary" type="button" id="revealButton">Mostrar respuesta</button>
+          <p class="hero-note">El visualizador carga el archivo completo de la pregunta desde <code>questions/{id}.json</code> para mostrar respuestas, explicación, tags y fuentes.</p>
+        </aside>
+
+        <article class="card panel question-card" id="questionCard" aria-live="polite">
+          <div class="empty-state">
+            <div>
+              <strong>Listo para jugar</strong>
+              Pulsa “Nueva pregunta” para cargar una pregunta aleatoria.
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="categorias" aria-labelledby="categories-title">
+      <div class="section-heading">
+        <div>
+          <h2 id="categories-title">Categorías</h2>
+          <p>Ficha de cada categoría con su volumen de preguntas, subcategorías y desglose por dificultad.</p>
+        </div>
+      </div>
+      <div class="grid category-grid" id="categoryGrid"></div>
+    </section>
+
+    <footer class="footer">
+      Trivial DB · Panel generado con datos estáticos del repositorio.
+    </footer>
+  </main>
+
+  <script>
+    const state = {
+      categories: [],
+      index: [],
+      stats: null,
+      currentQuestion: null,
+      answerRevealed: false
+    };
+
+    const $ = (selector) => document.querySelector(selector);
+    const number = new Intl.NumberFormat('es-ES');
+
+    const difficultyLabels = {
+      easy: 'Fácil',
+      medium: 'Media',
+      hard: 'Difícil'
+    };
+
+    const defaultIcons = ['🎨', '🔬', '🏛️', '🌍', '⚽', '🎬', '📚', '🧠', '🎵', '🛰️', '🗺️', '🧩'];
+
+    function escapeHtml(value) {
+      return String(value ?? '')
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#039;');
+    }
+
+    function safeColor(color, fallback = '#2463eb') {
+      return /^#[0-9a-f]{6}$/i.test(color || '') ? color : fallback;
+    }
+
+    function titleFromId(id) {
+      return String(id || '')
+        .split('-')
+        .filter(Boolean)
+        .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+        .join(' ');
+    }
+
+    function getCategoryName(id) {
+      return state.categories.find((category) => category.id === id)?.name || titleFromId(id);
+    }
+
+    function getCategoryIcon(category, index) {
+      return category.icon || defaultIcons[index % defaultIcons.length];
+    }
+
+    function calculateStats(categoriesData, indexData) {
+      const categories = Array.isArray(categoriesData.categories) ? categoriesData.categories : [];
+      const fallbackDifficulty = categories.reduce((acc, category) => {
+        acc.easy += Number(category.stats?.easy || 0);
+        acc.medium += Number(category.stats?.medium || 0);
+        acc.hard += Number(category.stats?.hard || 0);
+        return acc;
+      }, { easy: 0, medium: 0, hard: 0 });
+
+      const uniqueSubcategories = new Set();
+      categories.forEach((category) => {
+        (category.subcategories || []).forEach((subcategory) => uniqueSubcategories.add(subcategory.id));
+      });
+
+      const totalFromCategories = categories.reduce((total, category) => {
+        return total + Number(category.stats?.total || category.questions?.length || 0);
+      }, 0);
+
+      const rawStats = categoriesData.stats || {};
+      const difficulty = rawStats.difficulty || rawStats.difficulties || rawStats.by_difficulty || {};
+
+      return {
+        totalQuestions: Number(rawStats.total_questions || rawStats.questions || rawStats.total || indexData.length || totalFromCategories || 0),
+        totalCategories: Number(rawStats.total_categories || rawStats.categories || categories.length || 0),
+        totalSubcategories: Number(rawStats.total_subcategories || rawStats.subcategories || uniqueSubcategories.size || 0),
+        updatedAt: categoriesData.updated_at || rawStats.updated_at || categories[0]?.updated_at || null,
+        difficulty: {
+          easy: Number(rawStats.easy || difficulty.easy || fallbackDifficulty.easy || 0),
+          medium: Number(rawStats.medium || difficulty.medium || fallbackDifficulty.medium || 0),
+          hard: Number(rawStats.hard || difficulty.hard || fallbackDifficulty.hard || 0)
+        }
+      };
+    }
+
+    function formatDate(dateValue) {
+      if (!dateValue) return 'Datos actualizados';
+      const date = new Date(`${dateValue}T00:00:00`);
+      if (Number.isNaN(date.getTime())) return `Actualizado: ${dateValue}`;
+      return `Actualizado: ${date.toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })}`;
+    }
+
+    function renderStats() {
+      const { totalQuestions, totalCategories, totalSubcategories, updatedAt } = state.stats;
+      const average = totalCategories ? Math.round((totalQuestions / totalCategories) * 10) / 10 : 0;
+
+      $('#heroTotal').textContent = number.format(totalQuestions);
+      $('#totalQuestions').textContent = number.format(totalQuestions);
+      $('#totalCategories').textContent = number.format(totalCategories);
+      $('#totalSubcategories').textContent = number.format(totalSubcategories);
+      $('#averageQuestions').textContent = number.format(average);
+      $('#updatedAt').textContent = formatDate(updatedAt);
+    }
+
+    function renderDifficultyBars() {
+      const values = state.stats.difficulty;
+      const total = Math.max(1, values.easy + values.medium + values.hard);
+      $('#difficultyBars').innerHTML = ['easy', 'medium', 'hard'].map((key) => {
+        const value = values[key] || 0;
+        const percent = Math.round((value / total) * 100);
+        return `
+          <div class="difficulty-row">
+            <span class="difficulty-name">${difficultyLabels[key]}</span>
+            <span class="track" aria-label="${difficultyLabels[key]}: ${value} preguntas">
+              <span class="bar ${key}" style="width: ${percent}%"></span>
+            </span>
+            <span class="difficulty-value">${number.format(value)}</span>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function renderCategoryRanking() {
+      const sorted = [...state.categories].sort((a, b) => {
+        const totalA = Number(a.stats?.total || a.questions?.length || 0);
+        const totalB = Number(b.stats?.total || b.questions?.length || 0);
+        return totalB - totalA;
+      });
+      const max = Math.max(1, ...sorted.map((category) => Number(category.stats?.total || category.questions?.length || 0)));
+
+      $('#categoryRanking').innerHTML = sorted.map((category, index) => {
+        const total = Number(category.stats?.total || category.questions?.length || 0);
+        const percent = Math.max(3, Math.round((total / max) * 100));
+        const color = safeColor(category.color, ['#2463eb', '#10b981', '#f59e0b', '#8b5cf6'][index % 4]);
+        return `
+          <div class="rank-row">
+            <div class="rank-name">
+              <span>${escapeHtml(getCategoryIcon(category, index))}</span>
+              <span>${escapeHtml(category.name || titleFromId(category.id))}</span>
+            </div>
+            <span class="track">
+              <span class="bar" style="width: ${percent}%; background: ${color}"></span>
+            </span>
+            <span class="rank-value">${number.format(total)}</span>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function renderCategorySelect() {
+      const select = $('#categoryFilter');
+      const options = state.categories
+        .slice()
+        .sort((a, b) => (a.name || a.id).localeCompare(b.name || b.id, 'es'))
+        .map((category) => `<option value="${escapeHtml(category.id)}">${escapeHtml(category.name || titleFromId(category.id))}</option>`)
+        .join('');
+
+      select.innerHTML = `<option value="all">Todas las categorías</option>${options}`;
+    }
+
+    function renderCategoryGrid() {
+      $('#categoryGrid').innerHTML = state.categories.map((category, index) => {
+        const total = Number(category.stats?.total || category.questions?.length || 0);
+        const subcategories = category.subcategories?.length || 0;
+        const color = safeColor(category.color);
+        const description = category.description || `Preguntas de ${category.name || titleFromId(category.id)} listas para usar en juegos tipo trivial.`;
+        return `
+          <article class="card category-card" data-category-id="${escapeHtml(category.id)}" style="--category-color: ${color}">
+            <div class="category-top">
+              <div class="category-icon" style="background: ${color}18">${escapeHtml(getCategoryIcon(category, index))}</div>
+              <span class="category-count">${number.format(total)} preguntas</span>
+            </div>
+            <h3>${escapeHtml(category.name || titleFromId(category.id))}</h3>
+            <p>${escapeHtml(description)}</p>
+            <div class="mini-stats">
+              <span class="chip">${number.format(subcategories)} subcategorías</span>
+              <span class="chip">${number.format(category.stats?.easy || 0)} fácil</span>
+              <span class="chip">${number.format(category.stats?.medium || 0)} media</span>
+              <span class="chip">${number.format(category.stats?.hard || 0)} difícil</span>
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    function getQuestionPool() {
+      const selectedCategory = $('#categoryFilter').value;
+      if (selectedCategory === 'all') {
+        return state.index.map((question) => question.id);
+      }
+      const category = state.categories.find((item) => item.id === selectedCategory);
+      return category?.questions || [];
+    }
+
+    function setQuestionLoading(isLoading) {
+      $('#randomButton').classList.toggle('loading', isLoading);
+      $('#questionCard').classList.toggle('loading', isLoading);
+    }
+
+    async function fetchJson(path) {
+      const response = await fetch(path, { cache: 'no-store' });
+      if (!response.ok) {
+        throw new Error(`No se pudo cargar ${path}`);
+      }
+      return response.json();
+    }
+
+    async function loadRandomQuestion() {
+      const pool = getQuestionPool().filter(Boolean);
+      if (!pool.length) {
+        renderQuestionError('No hay preguntas en esta categoría.');
+        return;
+      }
+
+      setQuestionLoading(true);
+      try {
+        const randomId = pool[Math.floor(Math.random() * pool.length)];
+        const question = await fetchJson(`questions/${encodeURIComponent(randomId)}.json`);
+        state.currentQuestion = question;
+        state.answerRevealed = false;
+        renderQuestion(question);
+      } catch (error) {
+        renderQuestionError(error.message);
+      } finally {
+        setQuestionLoading(false);
+      }
+    }
+
+    function renderQuestion(question) {
+      const categoryName = getCategoryName(question.category);
+      const tags = Array.isArray(question.tags) ? question.tags : [];
+      const sources = Array.isArray(question.sources) ? question.sources : [];
+      const answers = Array.isArray(question.answers) ? question.answers : [];
+
+      $('#questionCard').innerHTML = `
+        <div class="question-meta">
+          <span class="chip">${escapeHtml(question.id)}</span>
+          <span class="chip">${escapeHtml(categoryName)}</span>
+          <span class="chip">${escapeHtml(difficultyLabels[question.difficulty] || question.difficulty || 'Sin dificultad')}</span>
+          ${tags.slice(0, 4).map((tag) => `<span class="chip">#${escapeHtml(tag)}</span>`).join('')}
+        </div>
+        <h3 class="question-title">${escapeHtml(question.question)}</h3>
+        <div class="answers" id="answers">
+          ${answers.map((answer, index) => `
+            <button class="answer" type="button" data-answer-index="${index}" data-correct="${answer.correct ? 'true' : 'false'}">
+              ${escapeHtml(answer.text)}
+            </button>
+          `).join('')}
+        </div>
+        <div class="explanation" id="explanation">
+          <strong>Explicación:</strong> ${escapeHtml(question.explanation || 'No hay explicación disponible.')}
+          ${sources.length ? `
+            <div class="source-list">
+              ${sources.map((source, index) => {
+                const url = String(source.url || '');
+                const isSafeUrl = /^https?:\/\//i.test(url);
+                const title = source.title || `Fuente ${index + 1}`;
+                return isSafeUrl ? `<a class="source-link" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(title)}</a>` : '';
+              }).join('')}
+            </div>
+          ` : ''}
+        </div>
+      `;
+    }
+
+    function renderQuestionError(message) {
+      $('#questionCard').innerHTML = `
+        <div class="empty-state">
+          <div>
+            <strong>No se pudo cargar la pregunta</strong>
+            ${escapeHtml(message)}
+          </div>
+        </div>
+      `;
+    }
+
+    function revealAnswer(selectedButton = null) {
+      if (!state.currentQuestion) return;
+      state.answerRevealed = true;
+
+      document.querySelectorAll('.answer').forEach((button) => {
+        const isCorrect = button.dataset.correct === 'true';
+        button.disabled = true;
+        button.classList.toggle('correct', isCorrect);
+        button.classList.toggle('wrong', Boolean(selectedButton && button === selectedButton && !isCorrect));
+      });
+
+      $('#explanation')?.classList.add('visible');
+    }
+
+    function bindEvents() {
+      $('#randomButton').addEventListener('click', loadRandomQuestion);
+      $('#revealButton').addEventListener('click', () => revealAnswer());
+      $('#questionCard').addEventListener('click', (event) => {
+        const button = event.target.closest('.answer');
+        if (button && !state.answerRevealed) {
+          revealAnswer(button);
+        }
+      });
+
+      $('#categoryGrid').addEventListener('click', (event) => {
+        const card = event.target.closest('[data-category-id]');
+        if (!card) return;
+        $('#categoryFilter').value = card.dataset.categoryId;
+        document.querySelector('#pregunta-aleatoria').scrollIntoView({ behavior: 'smooth', block: 'start' });
+        loadRandomQuestion();
+      });
+    }
+
+    async function init() {
+      try {
+        const [categoriesData, indexData] = await Promise.all([
+          fetchJson('categories.json'),
+          fetchJson('index.json')
+        ]);
+
+        state.categories = Array.isArray(categoriesData.categories) ? categoriesData.categories : [];
+        state.index = Array.isArray(indexData) ? indexData : [];
+        state.stats = calculateStats(categoriesData, state.index);
+
+        renderStats();
+        renderDifficultyBars();
+        renderCategoryRanking();
+        renderCategorySelect();
+        renderCategoryGrid();
+      } catch (error) {
+        document.body.innerHTML = `
+          <main class="page">
+            <section class="hero">
+              <div class="hero-content">
+                <p class="eyebrow">⚠️ Error de carga</p>
+                <h1>No se pudieron cargar los datos</h1>
+                <p class="lead">${escapeHtml(error.message)}</p>
+              </div>
+            </section>
+          </main>
+        `;
+      }
+    }
+
+    bindEvents();
+    init();
+  </script>
+</body>
+</html>
