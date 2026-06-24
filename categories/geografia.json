@@ -4,7 +4,8 @@
   "questions": [
     "q-000003",
     "q-000006",
-    "q-000008"
+    "q-000008",
+    "q-000010"
   ],
   "subcategories": [
     {
@@ -15,11 +16,18 @@
         "q-000006",
         "q-000008"
       ]
+    },
+    {
+      "id": "oceanos",
+      "name": "Oceanos",
+      "questions": [
+        "q-000010"
+      ]
     }
   ],
   "stats": {
-    "total": 3,
-    "easy": 3,
+    "total": 4,
+    "easy": 4,
     "medium": 0,
     "hard": 0
   },

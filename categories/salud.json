@@ -1,0 +1,23 @@
+{
+  "id": "salud",
+  "name": "Salud",
+  "questions": [
+    "q-000009"
+  ],
+  "subcategories": [
+    {
+      "id": "cuerpo-humano",
+      "name": "Cuerpo Humano",
+      "questions": [
+        "q-000009"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}
