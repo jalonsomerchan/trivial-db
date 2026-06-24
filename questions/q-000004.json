@@ -1,0 +1,45 @@
+{
+  "id": "q-000004",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglo-xx",
+    "exploracion-espacial"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año llegó el ser humano a la Luna por primera vez?",
+  "answers": [
+    {
+      "text": "1969",
+      "correct": true
+    },
+    {
+      "text": "1957",
+      "correct": false
+    },
+    {
+      "text": "1972",
+      "correct": false
+    },
+    {
+      "text": "1981",
+      "correct": false
+    }
+  ],
+  "explanation": "La misión Apolo 11 llevó por primera vez a seres humanos a la Luna en 1969.",
+  "sources": [
+    {
+      "title": "NASA - Apollo 11",
+      "url": "https://www.nasa.gov/mission/apollo-11/"
+    }
+  ],
+  "tags": [
+    "apolo-11",
+    "luna",
+    "nasa",
+    "siglo-xx"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
