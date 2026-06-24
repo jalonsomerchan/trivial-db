@@ -1,0 +1,25 @@
+{
+  "id": "q-000054",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": ["musica-espanola"],
+  "difficulty": "medium",
+  "question": "¿Qué cantautor español popularizó la canción Mediterráneo?",
+  "answers": [
+    { "text": "Camilo Sesto", "correct": false },
+    { "text": "Joan Manuel Serrat", "correct": true },
+    { "text": "Nino Bravo", "correct": false },
+    { "text": "Luis Eduardo Aute", "correct": false }
+  ],
+  "explanation": "Mediterráneo es una canción emblemática de Joan Manuel Serrat.",
+  "sources": [
+    {
+      "title": "Discogs - Joan Manuel Serrat Mediterráneo",
+      "url": "https://www.discogs.com/master/307998-Joan-Manuel-Serrat-Mediterr%C3%A1neo"
+    }
+  ],
+  "tags": ["serrat", "mediterraneo", "musica-espanola"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
