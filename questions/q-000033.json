@@ -1,0 +1,43 @@
+{
+  "id": "q-000033",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "internet"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué protocolo se usa normalmente para cargar páginas web de forma segura?",
+  "answers": [
+    {
+      "text": "FTP",
+      "correct": false
+    },
+    {
+      "text": "HTTPS",
+      "correct": true
+    },
+    {
+      "text": "SMTP",
+      "correct": false
+    },
+    {
+      "text": "Bluetooth",
+      "correct": false
+    }
+  ],
+  "explanation": "HTTPS es la versión segura de HTTP usada en la web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs - HTTPS",
+      "url": "https://developer.mozilla.org/en-US/docs/Glossary/HTTPS"
+    }
+  ],
+  "tags": [
+    "https",
+    "internet",
+    "web"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
