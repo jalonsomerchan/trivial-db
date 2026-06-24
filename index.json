@@ -150,5 +150,9 @@
   {
     "id": "q-000043",
     "question": "¿Qué artista es conocido como el Rey del Pop?"
+  },
+  {
+    "id": "q-000044",
+    "question": "¿Qué lenguaje de programación se usa principalmente para dar interactividad a páginas web en el navegador?"
   }
 ]
