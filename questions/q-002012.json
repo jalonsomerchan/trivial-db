@@ -1,0 +1,42 @@
+{
+  "id": "q-002012",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué civilización o entidad histórica se asocia principalmente Cnosos?",
+  "answers": [
+    {
+      "text": "civilización minoica",
+      "correct": true
+    },
+    {
+      "text": "nabateos",
+      "correct": false
+    },
+    {
+      "text": "China Shang",
+      "correct": false
+    },
+    {
+      "text": "civilización maya",
+      "correct": false
+    }
+  ],
+  "explanation": "Cnosos se asocia principalmente con civilización minoica.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cnosos",
+      "url": "https://es.wikipedia.org/wiki/Cnosos"
+    }
+  ],
+  "tags": [
+    "civilizaciones",
+    "civilizacion-minoica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

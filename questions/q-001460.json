@@ -1,0 +1,42 @@
+{
+  "id": "q-001460",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "animacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio se asocia con la película de animación Frozen?",
+  "answers": [
+    {
+      "text": "Illumination",
+      "correct": false
+    },
+    {
+      "text": "Blue Sky Studios",
+      "correct": false
+    },
+    {
+      "text": "Warner Animation Group",
+      "correct": false
+    },
+    {
+      "text": "Disney",
+      "correct": true
+    }
+  ],
+  "explanation": "Frozen se asocia con el estudio Disney.",
+  "sources": [
+    {
+      "title": "Wikipedia - Frozen",
+      "url": "https://es.wikipedia.org/wiki/Frozen"
+    }
+  ],
+  "tags": [
+    "animacion",
+    "disney"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

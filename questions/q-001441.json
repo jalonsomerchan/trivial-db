@@ -1,0 +1,42 @@
+{
+  "id": "q-001441",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-de-tv"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué serie de televisión aparece Daenerys Targaryen?",
+  "answers": [
+    {
+      "text": "The Wire",
+      "correct": false
+    },
+    {
+      "text": "The Big Bang Theory",
+      "correct": false
+    },
+    {
+      "text": "Juego de tronos",
+      "correct": true
+    },
+    {
+      "text": "Sexo en Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "Daenerys Targaryen aparece en la serie Juego de tronos.",
+  "sources": [
+    {
+      "title": "Wikipedia - Daenerys Targaryen",
+      "url": "https://es.wikipedia.org/wiki/Daenerys_Targaryen"
+    }
+  ],
+  "tags": [
+    "television",
+    "juego-de-tronos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

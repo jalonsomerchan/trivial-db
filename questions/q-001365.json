@@ -1,0 +1,42 @@
+{
+  "id": "q-001365",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "historia-de-la-tecnologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué persona o equipo se asocia principalmente la arquitectura Von Neumann?",
+  "answers": [
+    {
+      "text": "Dennis Ritchie",
+      "correct": false
+    },
+    {
+      "text": "Donald Knuth",
+      "correct": false
+    },
+    {
+      "text": "Ken Thompson y Dennis Ritchie",
+      "correct": false
+    },
+    {
+      "text": "John von Neumann",
+      "correct": true
+    }
+  ],
+  "explanation": "La arquitectura von neumann se asocia principalmente con John von Neumann.",
+  "sources": [
+    {
+      "title": "Wikipedia - la arquitectura Von Neumann",
+      "url": "https://es.wikipedia.org/wiki/la_arquitectura_Von_Neumann"
+    }
+  ],
+  "tags": [
+    "historia-tecnologia",
+    "la-arquitectura-von-neumann"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

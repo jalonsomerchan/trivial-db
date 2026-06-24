@@ -1,0 +1,42 @@
+{
+  "id": "q-002023",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes-historicos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se recuerda históricamente a Gengis Kan?",
+  "answers": [
+    {
+      "text": "fundador del Imperio mongol",
+      "correct": true
+    },
+    {
+      "text": "heroína francesa de la Guerra de los Cien Años",
+      "correct": false
+    },
+    {
+      "text": "líder independentista sudamericano",
+      "correct": false
+    },
+    {
+      "text": "activista por los derechos civiles",
+      "correct": false
+    }
+  ],
+  "explanation": "Gengis Kan se recuerda históricamente como fundador del Imperio mongol.",
+  "sources": [
+    {
+      "title": "Wikipedia - Gengis Kan",
+      "url": "https://es.wikipedia.org/wiki/Gengis_Kan"
+    }
+  ],
+  "tags": [
+    "personajes-historicos",
+    "gengis-kan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

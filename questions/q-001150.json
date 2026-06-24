@@ -1,0 +1,42 @@
+{
+  "id": "q-001150",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en cocinar rápidamente con poca grasa y calor alto?",
+  "answers": [
+    {
+      "text": "macerar",
+      "correct": false
+    },
+    {
+      "text": "saltear",
+      "correct": true
+    },
+    {
+      "text": "tamizar",
+      "correct": false
+    },
+    {
+      "text": "laminar",
+      "correct": false
+    }
+  ],
+  "explanation": "Saltear consiste en cocinar rápidamente con poca grasa y calor alto.",
+  "sources": [
+    {
+      "title": "Wikipedia - saltear",
+      "url": "https://es.wikipedia.org/wiki/saltear"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "saltear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

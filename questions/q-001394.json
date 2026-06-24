@@ -1,0 +1,42 @@
+{
+  "id": "q-001394",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película Amélie?",
+  "answers": [
+    {
+      "text": "Jean-Pierre Jeunet",
+      "correct": true
+    },
+    {
+      "text": "Hayao Miyazaki",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    },
+    {
+      "text": "Greta Gerwig",
+      "correct": false
+    }
+  ],
+  "explanation": "Amélie fue dirigida por Jean-Pierre Jeunet.",
+  "sources": [
+    {
+      "title": "Wikipedia - Amélie",
+      "url": "https://es.wikipedia.org/wiki/Am%C3%A9lie"
+    }
+  ],
+  "tags": [
+    "cine",
+    "jean-pierre-jeunet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

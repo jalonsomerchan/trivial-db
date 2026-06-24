@@ -1,0 +1,42 @@
+{
+  "id": "q-001180",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-e-ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente o base es característica del salmorejo?",
+  "answers": [
+    {
+      "text": "tomate y pan",
+      "correct": true
+    },
+    {
+      "text": "yogur",
+      "correct": false
+    },
+    {
+      "text": "puerro",
+      "correct": false
+    },
+    {
+      "text": "aguacate",
+      "correct": false
+    }
+  ],
+  "explanation": "El salmorejo se caracteriza por usar tomate y pan como ingrediente o base principal.",
+  "sources": [
+    {
+      "title": "Wikipedia - salmorejo",
+      "url": "https://es.wikipedia.org/wiki/salmorejo"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "salmorejo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

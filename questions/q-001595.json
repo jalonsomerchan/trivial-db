@@ -1,0 +1,42 @@
+{
+  "id": "q-001595",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista pintó American Gothic?",
+  "answers": [
+    {
+      "text": "Caravaggio",
+      "correct": false
+    },
+    {
+      "text": "Kazimir Malévich",
+      "correct": false
+    },
+    {
+      "text": "Grant Wood",
+      "correct": true
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": false
+    }
+  ],
+  "explanation": "American Gothic es una obra de Grant Wood.",
+  "sources": [
+    {
+      "title": "Wikipedia - American Gothic",
+      "url": "https://es.wikipedia.org/wiki/American_Gothic"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "grant-wood"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001632",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el MoMA?",
+  "answers": [
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": true
+    }
+  ],
+  "explanation": "El MoMA se encuentra en Nueva York.",
+  "sources": [
+    {
+      "title": "Wikipedia - MoMA",
+      "url": "https://es.wikipedia.org/wiki/MoMA"
+    }
+  ],
+  "tags": [
+    "museos",
+    "nueva-york"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

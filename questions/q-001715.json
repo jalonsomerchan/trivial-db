@@ -1,0 +1,42 @@
+{
+  "id": "q-001715",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué familia instrumental pertenece principalmente el tuba?",
+  "answers": [
+    {
+      "text": "viento metal",
+      "correct": true
+    },
+    {
+      "text": "voz",
+      "correct": false
+    },
+    {
+      "text": "cuerda frotada",
+      "correct": false
+    },
+    {
+      "text": "cuerda percutida",
+      "correct": false
+    }
+  ],
+  "explanation": "El tuba pertenece principalmente a la familia de viento metal.",
+  "sources": [
+    {
+      "title": "Wikipedia - tuba",
+      "url": "https://es.wikipedia.org/wiki/tuba"
+    }
+  ],
+  "tags": [
+    "instrumentos",
+    "viento-metal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

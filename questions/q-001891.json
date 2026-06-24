@@ -1,0 +1,42 @@
+{
+  "id": "q-001891",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Anna Karénina?",
+  "answers": [
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": false
+    },
+    {
+      "text": "León Tolstói",
+      "correct": true
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": false
+    }
+  ],
+  "explanation": "Anna Karénina fue escrita por León Tolstói.",
+  "sources": [
+    {
+      "title": "Wikipedia - Anna Karénina",
+      "url": "https://es.wikipedia.org/wiki/Anna_Kar%C3%A9nina"
+    }
+  ],
+  "tags": [
+    "autores",
+    "leon-tolstoi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

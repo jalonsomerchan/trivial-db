@@ -1,0 +1,42 @@
+{
+  "id": "q-001391",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película Origen?",
+  "answers": [
+    {
+      "text": "Christopher Nolan",
+      "correct": true
+    },
+    {
+      "text": "Orson Welles",
+      "correct": false
+    },
+    {
+      "text": "David Fincher",
+      "correct": false
+    },
+    {
+      "text": "Martin Scorsese",
+      "correct": false
+    }
+  ],
+  "explanation": "Origen fue dirigida por Christopher Nolan.",
+  "sources": [
+    {
+      "title": "Wikipedia - Origen",
+      "url": "https://es.wikipedia.org/wiki/Origen"
+    }
+  ],
+  "tags": [
+    "cine",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

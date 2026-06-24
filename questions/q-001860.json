@@ -1,0 +1,42 @@
+{
+  "id": "q-001860",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a turbera?",
+  "answers": [
+    {
+      "text": "humedal con acumulación de turba",
+      "correct": true
+    },
+    {
+      "text": "bosque con árboles que pierden la hoja",
+      "correct": false
+    },
+    {
+      "text": "humedal costero",
+      "correct": false
+    },
+    {
+      "text": "pastizal tropical con árboles dispersos",
+      "correct": false
+    }
+  ],
+  "explanation": "Turbera se describe como humedal con acumulación de turba.",
+  "sources": [
+    {
+      "title": "Wikipedia - turbera",
+      "url": "https://es.wikipedia.org/wiki/turbera"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "turbera"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

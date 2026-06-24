@@ -1,0 +1,42 @@
+{
+  "id": "q-001675",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó Las cuatro estaciones?",
+  "answers": [
+    {
+      "text": "Maurice Ravel",
+      "correct": false
+    },
+    {
+      "text": "Antonio Vivaldi",
+      "correct": true
+    },
+    {
+      "text": "Modest Músorgski",
+      "correct": false
+    },
+    {
+      "text": "Wolfgang Amadeus Mozart",
+      "correct": false
+    }
+  ],
+  "explanation": "Las cuatro estaciones fue compuesta por Antonio Vivaldi.",
+  "sources": [
+    {
+      "title": "Wikipedia - Las cuatro estaciones",
+      "url": "https://es.wikipedia.org/wiki/Las_cuatro_estaciones"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "antonio-vivaldi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

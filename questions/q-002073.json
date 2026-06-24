@@ -1,0 +1,42 @@
+{
+  "id": "q-002073",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista pintó El 3 de mayo en Madrid?",
+  "answers": [
+    {
+      "text": "Vincent van Gogh",
+      "correct": false
+    },
+    {
+      "text": "Diego Velázquez",
+      "correct": false
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": true
+    },
+    {
+      "text": "Rembrandt",
+      "correct": false
+    }
+  ],
+  "explanation": "El 3 de mayo en Madrid es una pintura de Francisco de Goya.",
+  "sources": [
+    {
+      "title": "Wikipedia - El 3 de mayo en Madrid",
+      "url": "https://es.wikipedia.org/wiki/El_3_de_mayo_en_Madrid"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "francisco-de-goya"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001950",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género o forma literaria se define como poema de tono elevado o celebrativo?",
+  "answers": [
+    {
+      "text": "ficción criminal de tono crítico",
+      "correct": false
+    },
+    {
+      "text": "relato ordenado de hechos",
+      "correct": false
+    },
+    {
+      "text": "oda",
+      "correct": true
+    },
+    {
+      "text": "ficción basada en especulaciones científicas o tecnológicas",
+      "correct": false
+    }
+  ],
+  "explanation": "Oda se define como poema de tono elevado o celebrativo.",
+  "sources": [
+    {
+      "title": "Wikipedia - oda",
+      "url": "https://es.wikipedia.org/wiki/oda"
+    }
+  ],
+  "tags": [
+    "generos-literarios",
+    "oda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

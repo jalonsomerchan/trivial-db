@@ -1,0 +1,42 @@
+{
+  "id": "q-001733",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "generos-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué lugar se asocia tradicionalmente el género musical country?",
+  "answers": [
+    {
+      "text": "Andalucía",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "Alemania",
+      "correct": false
+    },
+    {
+      "text": "China",
+      "correct": false
+    }
+  ],
+  "explanation": "El country se asocia tradicionalmente con Estados Unidos.",
+  "sources": [
+    {
+      "title": "Wikipedia - country",
+      "url": "https://es.wikipedia.org/wiki/country"
+    }
+  ],
+  "tags": [
+    "generos-musicales",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

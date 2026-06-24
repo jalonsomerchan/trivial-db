@@ -1,0 +1,42 @@
+{
+  "id": "q-001121",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato paella?",
+  "answers": [
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    }
+  ],
+  "explanation": "Paella es un plato asociado tradicionalmente con España.",
+  "sources": [
+    {
+      "title": "Wikipedia - paella",
+      "url": "https://es.wikipedia.org/wiki/paella"
+    }
+  ],
+  "tags": [
+    "platos-del-mundo",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

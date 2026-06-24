@@ -1,0 +1,42 @@
+{
+  "id": "q-001688",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó Tristán e Isolda?",
+  "answers": [
+    {
+      "text": "Richard Wagner",
+      "correct": true
+    },
+    {
+      "text": "Modest Músorgski",
+      "correct": false
+    },
+    {
+      "text": "Frédéric Chopin",
+      "correct": false
+    },
+    {
+      "text": "Maurice Ravel",
+      "correct": false
+    }
+  ],
+  "explanation": "Tristán e Isolda fue compuesta por Richard Wagner.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tristán e Isolda",
+      "url": "https://es.wikipedia.org/wiki/Trist%C3%A1n_e_Isolda"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "richard-wagner"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

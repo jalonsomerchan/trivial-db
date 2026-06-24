@@ -1,0 +1,42 @@
+{
+  "id": "q-001311",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué uso se asocia especialmente el lenguaje o tecnología Kotlin?",
+  "answers": [
+    {
+      "text": "desarrollo moderno en Android",
+      "correct": true
+    },
+    {
+      "text": "aplicaciones .NET y videojuegos con Unity",
+      "correct": false
+    },
+    {
+      "text": "desarrollo web del lado del servidor",
+      "correct": false
+    },
+    {
+      "text": "scripts embebidos en aplicaciones y videojuegos",
+      "correct": false
+    }
+  ],
+  "explanation": "Kotlin se asocia especialmente con desarrollo moderno en Android.",
+  "sources": [
+    {
+      "title": "Wikipedia - Kotlin",
+      "url": "https://es.wikipedia.org/wiki/Kotlin"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "kotlin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

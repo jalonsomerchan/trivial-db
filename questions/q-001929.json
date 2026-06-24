@@ -1,0 +1,42 @@
+{
+  "id": "q-001929",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Leopold Bloom?",
+  "answers": [
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": false
+    },
+    {
+      "text": "La Regenta",
+      "correct": false
+    },
+    {
+      "text": "Ulises",
+      "correct": true
+    },
+    {
+      "text": "Drácula",
+      "correct": false
+    }
+  ],
+  "explanation": "Leopold Bloom aparece en Ulises.",
+  "sources": [
+    {
+      "title": "Wikipedia - Leopold Bloom",
+      "url": "https://es.wikipedia.org/wiki/Leopold_Bloom"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "ulises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

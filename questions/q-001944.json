@@ -1,0 +1,42 @@
+{
+  "id": "q-001944",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Fortunata?",
+  "answers": [
+    {
+      "text": "Los tres mosqueteros",
+      "correct": false
+    },
+    {
+      "text": "Fortunata y Jacinta",
+      "correct": true
+    },
+    {
+      "text": "Cumbres borrascosas",
+      "correct": false
+    },
+    {
+      "text": "El conde de Montecristo",
+      "correct": false
+    }
+  ],
+  "explanation": "Fortunata aparece en Fortunata y Jacinta.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fortunata",
+      "url": "https://es.wikipedia.org/wiki/Fortunata"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "fortunata-y-jacinta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001691",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó Carmina Burana?",
+  "answers": [
+    {
+      "text": "Piotr Ilich Chaikovski",
+      "correct": false
+    },
+    {
+      "text": "Carl Orff",
+      "correct": true
+    },
+    {
+      "text": "Giuseppe Verdi",
+      "correct": false
+    },
+    {
+      "text": "Modest Músorgski",
+      "correct": false
+    }
+  ],
+  "explanation": "Carmina Burana fue compuesta por Carl Orff.",
+  "sources": [
+    {
+      "title": "Wikipedia - Carmina Burana",
+      "url": "https://es.wikipedia.org/wiki/Carmina_Burana"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "carl-orff"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

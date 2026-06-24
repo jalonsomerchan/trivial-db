@@ -1,0 +1,42 @@
+{
+  "id": "q-001215",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué nutriente se asocia especialmente con prevención del raquitismo por déficit nutricional?",
+  "answers": [
+    {
+      "text": "cobre",
+      "correct": false
+    },
+    {
+      "text": "vitamina D",
+      "correct": true
+    },
+    {
+      "text": "flúor",
+      "correct": false
+    },
+    {
+      "text": "calcio",
+      "correct": false
+    }
+  ],
+  "explanation": "vitamina D se asocia con prevención del raquitismo por déficit nutricional.",
+  "sources": [
+    {
+      "title": "Wikipedia - vitamina D",
+      "url": "https://es.wikipedia.org/wiki/vitamina_D"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-d"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

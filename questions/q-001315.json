@@ -1,0 +1,42 @@
+{
+  "id": "q-001315",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué uso se asocia especialmente el lenguaje o tecnología C++?",
+  "answers": [
+    {
+      "text": "aplicaciones empresariales y Android clásico",
+      "correct": false
+    },
+    {
+      "text": "software de alto rendimiento y sistemas complejos",
+      "correct": true
+    },
+    {
+      "text": "servicios de red y herramientas concurrentes",
+      "correct": false
+    },
+    {
+      "text": "aplicaciones .NET y videojuegos con Unity",
+      "correct": false
+    }
+  ],
+  "explanation": "C++ se asocia especialmente con software de alto rendimiento y sistemas complejos.",
+  "sources": [
+    {
+      "title": "Wikipedia - C++",
+      "url": "https://es.wikipedia.org/wiki/C%2B%2B"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "c"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

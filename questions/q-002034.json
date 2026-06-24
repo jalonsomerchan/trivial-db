@@ -1,0 +1,42 @@
+{
+  "id": "q-002034",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes-historicos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se recuerda históricamente a Mahatma Gandhi?",
+  "answers": [
+    {
+      "text": "rey de Macedonia y conquistador",
+      "correct": false
+    },
+    {
+      "text": "presidente de Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "líder del movimiento independentista indio",
+      "correct": true
+    },
+    {
+      "text": "último líder de la Unión Soviética",
+      "correct": false
+    }
+  ],
+  "explanation": "Mahatma Gandhi se recuerda históricamente como líder del movimiento independentista indio.",
+  "sources": [
+    {
+      "title": "Wikipedia - Mahatma Gandhi",
+      "url": "https://es.wikipedia.org/wiki/Mahatma_Gandhi"
+    }
+  ],
+  "tags": [
+    "personajes-historicos",
+    "mahatma-gandhi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001843",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia"
+  ],
+  "difficulty": "medium",
+  "question": "En geología, ¿cómo se clasifica principalmente halita?",
+  "answers": [
+    {
+      "text": "meteorito",
+      "correct": false
+    },
+    {
+      "text": "mineral",
+      "correct": true
+    },
+    {
+      "text": "forma de relieve glaciar",
+      "correct": false
+    },
+    {
+      "text": "forma de relieve eólico",
+      "correct": false
+    }
+  ],
+  "explanation": "Halita se clasifica principalmente como mineral.",
+  "sources": [
+    {
+      "title": "Wikipedia - halita",
+      "url": "https://es.wikipedia.org/wiki/halita"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "mineral"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

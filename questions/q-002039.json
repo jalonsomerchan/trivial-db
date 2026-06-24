@@ -1,0 +1,42 @@
+{
+  "id": "q-002039",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes-historicos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se recuerda históricamente a Martin Luther King Jr.?",
+  "answers": [
+    {
+      "text": "reina de Inglaterra",
+      "correct": false
+    },
+    {
+      "text": "líder por los derechos civiles",
+      "correct": true
+    },
+    {
+      "text": "general y político romano",
+      "correct": false
+    },
+    {
+      "text": "rey babilonio",
+      "correct": false
+    }
+  ],
+  "explanation": "Martin Luther King Jr. se recuerda históricamente como líder por los derechos civiles.",
+  "sources": [
+    {
+      "title": "Wikipedia - Martin Luther King Jr.",
+      "url": "https://es.wikipedia.org/wiki/Martin_Luther_King_Jr."
+    }
+  ],
+  "tags": [
+    "personajes-historicos",
+    "martin-luther-king-jr"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

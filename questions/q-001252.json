@@ -1,0 +1,42 @@
+{
+  "id": "q-001252",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "medium",
+  "question": "En terminología médica, ¿a qué se refiere el prefijo psico-?",
+  "answers": [
+    {
+      "text": "el hígado",
+      "correct": false
+    },
+    {
+      "text": "la sangre",
+      "correct": false
+    },
+    {
+      "text": "los huesos",
+      "correct": false
+    },
+    {
+      "text": "la mente",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo psico- se usa para hacer referencia a la mente.",
+  "sources": [
+    {
+      "title": "Wikipedia - psico-",
+      "url": "https://es.wikipedia.org/wiki/psico-"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "psico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

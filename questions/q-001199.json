@@ -1,0 +1,42 @@
+{
+  "id": "q-001199",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué sistema del cuerpo humano pertenece principalmente nervios periféricos?",
+  "answers": [
+    {
+      "text": "sistema nervioso",
+      "correct": true
+    },
+    {
+      "text": "sistema endocrino",
+      "correct": false
+    },
+    {
+      "text": "sistema cardiovascular",
+      "correct": false
+    },
+    {
+      "text": "sistema urinario",
+      "correct": false
+    }
+  ],
+  "explanation": "Nervios periféricos forma parte principalmente del sistema nervioso.",
+  "sources": [
+    {
+      "title": "Wikipedia - nervios periféricos",
+      "url": "https://es.wikipedia.org/wiki/nervios_perif%C3%A9ricos"
+    }
+  ],
+  "tags": [
+    "cuerpo-humano",
+    "sistema-nervioso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

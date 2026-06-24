@@ -1,0 +1,42 @@
+{
+  "id": "q-001429",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-de-tv"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué serie de televisión aparece Walter White?",
+  "answers": [
+    {
+      "text": "Juego de tronos",
+      "correct": false
+    },
+    {
+      "text": "Breaking Bad",
+      "correct": true
+    },
+    {
+      "text": "The Office",
+      "correct": false
+    },
+    {
+      "text": "The Big Bang Theory",
+      "correct": false
+    }
+  ],
+  "explanation": "Walter White aparece en la serie Breaking Bad.",
+  "sources": [
+    {
+      "title": "Wikipedia - Walter White",
+      "url": "https://es.wikipedia.org/wiki/Walter_White"
+    }
+  ],
+  "tags": [
+    "television",
+    "breaking-bad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

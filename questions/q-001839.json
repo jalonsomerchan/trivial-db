@@ -1,0 +1,42 @@
+{
+  "id": "q-001839",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia"
+  ],
+  "difficulty": "medium",
+  "question": "En geología, ¿cómo se clasifica principalmente cuarzo?",
+  "answers": [
+    {
+      "text": "formación de cueva",
+      "correct": false
+    },
+    {
+      "text": "forma de relieve fluvial",
+      "correct": false
+    },
+    {
+      "text": "roca sedimentaria",
+      "correct": false
+    },
+    {
+      "text": "mineral",
+      "correct": true
+    }
+  ],
+  "explanation": "Cuarzo se clasifica principalmente como mineral.",
+  "sources": [
+    {
+      "title": "Wikipedia - cuarzo",
+      "url": "https://es.wikipedia.org/wiki/cuarzo"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "mineral"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001983",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas-historicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año tuvo lugar el acontecimiento histórico conocido como inicio de la Primera Guerra Mundial?",
+  "answers": [
+    {
+      "text": "1776",
+      "correct": false
+    },
+    {
+      "text": "1789",
+      "correct": false
+    },
+    {
+      "text": "1918",
+      "correct": false
+    },
+    {
+      "text": "1914",
+      "correct": true
+    }
+  ],
+  "explanation": "La inicio de la Primera Guerra Mundial ocurrió en 1914.",
+  "sources": [
+    {
+      "title": "Wikipedia - inicio de la Primera Guerra Mundial",
+      "url": "https://es.wikipedia.org/wiki/inicio_de_la_Primera_Guerra_Mundial"
+    }
+  ],
+  "tags": [
+    "fechas-historicas",
+    "inicio-de-la-primera-guerra-mundial"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

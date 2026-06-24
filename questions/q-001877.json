@@ -1,0 +1,42 @@
+{
+  "id": "q-001877",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Hamlet?",
+  "answers": [
+    {
+      "text": "Juan Rulfo",
+      "correct": false
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": true
+    },
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": false
+    },
+    {
+      "text": "Carmen Laforet",
+      "correct": false
+    }
+  ],
+  "explanation": "Hamlet fue escrita por William Shakespeare.",
+  "sources": [
+    {
+      "title": "Wikipedia - Hamlet",
+      "url": "https://es.wikipedia.org/wiki/Hamlet"
+    }
+  ],
+  "tags": [
+    "autores",
+    "william-shakespeare"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

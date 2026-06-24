@@ -1,0 +1,42 @@
+{
+  "id": "q-001643",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Alte Pinakothek?",
+  "answers": [
+    {
+      "text": "San Petersburgo",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Múnich",
+      "correct": true
+    },
+    {
+      "text": "Ámsterdam",
+      "correct": false
+    }
+  ],
+  "explanation": "El Alte Pinakothek se encuentra en Múnich.",
+  "sources": [
+    {
+      "title": "Wikipedia - Alte Pinakothek",
+      "url": "https://es.wikipedia.org/wiki/Alte_Pinakothek"
+    }
+  ],
+  "tags": [
+    "museos",
+    "munich"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

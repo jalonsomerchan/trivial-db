@@ -1,0 +1,42 @@
+{
+  "id": "q-001178",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-e-ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente o base es característica del churro?",
+  "answers": [
+    {
+      "text": "huevo y aceite",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": false
+    },
+    {
+      "text": "masa frita",
+      "correct": true
+    },
+    {
+      "text": "almendra",
+      "correct": false
+    }
+  ],
+  "explanation": "El churro se caracteriza por usar masa frita como ingrediente o base principal.",
+  "sources": [
+    {
+      "title": "Wikipedia - churro",
+      "url": "https://es.wikipedia.org/wiki/churro"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "churro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

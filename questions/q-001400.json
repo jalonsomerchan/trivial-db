@@ -1,0 +1,42 @@
+{
+  "id": "q-001400",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película La dolce vita?",
+  "answers": [
+    {
+      "text": "Peter Jackson",
+      "correct": false
+    },
+    {
+      "text": "Stanley Kubrick",
+      "correct": false
+    },
+    {
+      "text": "Federico Fellini",
+      "correct": true
+    },
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": false
+    }
+  ],
+  "explanation": "La dolce vita fue dirigida por Federico Fellini.",
+  "sources": [
+    {
+      "title": "Wikipedia - La dolce vita",
+      "url": "https://es.wikipedia.org/wiki/La_dolce_vita"
+    }
+  ],
+  "tags": [
+    "cine",
+    "federico-fellini"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

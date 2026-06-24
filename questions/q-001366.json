@@ -1,0 +1,42 @@
+{
+  "id": "q-001366",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "historia-de-la-tecnologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué persona o equipo se asocia principalmente la máquina analítica?",
+  "answers": [
+    {
+      "text": "John von Neumann",
+      "correct": false
+    },
+    {
+      "text": "Charles Babbage",
+      "correct": true
+    },
+    {
+      "text": "Niklaus Wirth",
+      "correct": false
+    },
+    {
+      "text": "James Gosling",
+      "correct": false
+    }
+  ],
+  "explanation": "La máquina analítica se asocia principalmente con Charles Babbage.",
+  "sources": [
+    {
+      "title": "Wikipedia - la máquina analítica",
+      "url": "https://es.wikipedia.org/wiki/la_m%C3%A1quina_anal%C3%ADtica"
+    }
+  ],
+  "tags": [
+    "historia-tecnologia",
+    "la-maquina-analitica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001126",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato arepa?",
+  "answers": [
+    {
+      "text": "Venezuela",
+      "correct": true
+    },
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Portugal",
+      "correct": false
+    }
+  ],
+  "explanation": "Arepa es un plato asociado tradicionalmente con Venezuela.",
+  "sources": [
+    {
+      "title": "Wikipedia - arepa",
+      "url": "https://es.wikipedia.org/wiki/arepa"
+    }
+  ],
+  "tags": [
+    "platos-del-mundo",
+    "venezuela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

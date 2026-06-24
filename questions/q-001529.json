@@ -1,0 +1,42 @@
+{
+  "id": "q-001529",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona la competición Roland Garros?",
+  "answers": [
+    {
+      "text": "cricket",
+      "correct": false
+    },
+    {
+      "text": "fútbol",
+      "correct": false
+    },
+    {
+      "text": "tenis",
+      "correct": true
+    },
+    {
+      "text": "motociclismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Roland Garros es una competición relacionada con tenis.",
+  "sources": [
+    {
+      "title": "Wikipedia - Roland Garros",
+      "url": "https://es.wikipedia.org/wiki/Roland_Garros"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "tenis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

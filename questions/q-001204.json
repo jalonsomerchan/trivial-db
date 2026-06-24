@@ -1,0 +1,42 @@
+{
+  "id": "q-001204",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué sistema del cuerpo humano pertenece principalmente uréteres?",
+  "answers": [
+    {
+      "text": "sistema muscular",
+      "correct": false
+    },
+    {
+      "text": "sistema cardiovascular",
+      "correct": false
+    },
+    {
+      "text": "sistema digestivo",
+      "correct": false
+    },
+    {
+      "text": "sistema urinario",
+      "correct": true
+    }
+  ],
+  "explanation": "Uréteres forma parte principalmente del sistema urinario.",
+  "sources": [
+    {
+      "title": "Wikipedia - uréteres",
+      "url": "https://es.wikipedia.org/wiki/ur%C3%A9teres"
+    }
+  ],
+  "tags": [
+    "cuerpo-humano",
+    "sistema-urinario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

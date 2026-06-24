@@ -1,0 +1,42 @@
+{
+  "id": "q-001943",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Ana Ozores?",
+  "answers": [
+    {
+      "text": "La Odisea",
+      "correct": false
+    },
+    {
+      "text": "La Regenta",
+      "correct": true
+    },
+    {
+      "text": "Fortunata y Jacinta",
+      "correct": false
+    },
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    }
+  ],
+  "explanation": "Ana Ozores aparece en La Regenta.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ana Ozores",
+      "url": "https://es.wikipedia.org/wiki/Ana_Ozores"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "la-regenta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

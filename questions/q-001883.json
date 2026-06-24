@@ -1,0 +1,42 @@
+{
+  "id": "q-001883",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió El conde de Montecristo?",
+  "answers": [
+    {
+      "text": "León Tolstói",
+      "correct": false
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": false
+    },
+    {
+      "text": "Alexandre Dumas",
+      "correct": true
+    },
+    {
+      "text": "Carmen Laforet",
+      "correct": false
+    }
+  ],
+  "explanation": "El conde de Montecristo fue escrita por Alexandre Dumas.",
+  "sources": [
+    {
+      "title": "Wikipedia - El conde de Montecristo",
+      "url": "https://es.wikipedia.org/wiki/El_conde_de_Montecristo"
+    }
+  ],
+  "tags": [
+    "autores",
+    "alexandre-dumas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

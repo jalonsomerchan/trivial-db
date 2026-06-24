@@ -1,0 +1,42 @@
+{
+  "id": "q-001784",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "animales"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado cocodrilo del Nilo?",
+  "answers": [
+    {
+      "text": "reptil",
+      "correct": true
+    },
+    {
+      "text": "ave",
+      "correct": false
+    },
+    {
+      "text": "insecto",
+      "correct": false
+    },
+    {
+      "text": "pez",
+      "correct": false
+    }
+  ],
+  "explanation": "El cocodrilo del Nilo pertenece al grupo de los reptils o se clasifica como reptil.",
+  "sources": [
+    {
+      "title": "Wikipedia - cocodrilo del Nilo",
+      "url": "https://es.wikipedia.org/wiki/cocodrilo_del_Nilo"
+    }
+  ],
+  "tags": [
+    "animales",
+    "reptil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

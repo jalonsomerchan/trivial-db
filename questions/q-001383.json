@@ -1,0 +1,42 @@
+{
+  "id": "q-001383",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película 2001: Una odisea del espacio?",
+  "answers": [
+    {
+      "text": "Michael Curtiz",
+      "correct": false
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": false
+    },
+    {
+      "text": "Stanley Kubrick",
+      "correct": true
+    }
+  ],
+  "explanation": "2001: Una odisea del espacio fue dirigida por Stanley Kubrick.",
+  "sources": [
+    {
+      "title": "Wikipedia - 2001: Una odisea del espacio",
+      "url": "https://es.wikipedia.org/wiki/2001%3A_Una_odisea_del_espacio"
+    }
+  ],
+  "tags": [
+    "cine",
+    "stanley-kubrick"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

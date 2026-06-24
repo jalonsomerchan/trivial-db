@@ -1,0 +1,42 @@
+{
+  "id": "q-001884",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Los tres mosqueteros?",
+  "answers": [
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "Laura Esquivel",
+      "correct": false
+    },
+    {
+      "text": "León Tolstói",
+      "correct": false
+    },
+    {
+      "text": "Alexandre Dumas",
+      "correct": true
+    }
+  ],
+  "explanation": "Los tres mosqueteros fue escrita por Alexandre Dumas.",
+  "sources": [
+    {
+      "title": "Wikipedia - Los tres mosqueteros",
+      "url": "https://es.wikipedia.org/wiki/Los_tres_mosqueteros"
+    }
+  ],
+  "tags": [
+    "autores",
+    "alexandre-dumas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001162",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-e-ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente o base es característica del tortilla española?",
+  "answers": [
+    {
+      "text": "patata",
+      "correct": true
+    },
+    {
+      "text": "masa frita",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "aguacate",
+      "correct": false
+    }
+  ],
+  "explanation": "El tortilla española se caracteriza por usar patata como ingrediente o base principal.",
+  "sources": [
+    {
+      "title": "Wikipedia - tortilla española",
+      "url": "https://es.wikipedia.org/wiki/tortilla_espa%C3%B1ola"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "tortilla-espanola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

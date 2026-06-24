@@ -1,0 +1,42 @@
+{
+  "id": "q-001491",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte se usa habitualmente el término bunt?",
+  "answers": [
+    {
+      "text": "voleibol",
+      "correct": false
+    },
+    {
+      "text": "tenis",
+      "correct": false
+    },
+    {
+      "text": "cricket",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": true
+    }
+  ],
+  "explanation": "El término bunt se usa habitualmente en béisbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - bunt",
+      "url": "https://es.wikipedia.org/wiki/bunt"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "beisbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

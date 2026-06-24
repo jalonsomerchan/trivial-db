@@ -1,0 +1,42 @@
+{
+  "id": "q-002018",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes-historicos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se recuerda históricamente a Cleopatra VII?",
+  "answers": [
+    {
+      "text": "rey franco y emperador",
+      "correct": false
+    },
+    {
+      "text": "líder contra el apartheid",
+      "correct": false
+    },
+    {
+      "text": "reina ptolemaica de Egipto",
+      "correct": true
+    },
+    {
+      "text": "estadista ateniense",
+      "correct": false
+    }
+  ],
+  "explanation": "Cleopatra VII se recuerda históricamente como reina ptolemaica de Egipto.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cleopatra VII",
+      "url": "https://es.wikipedia.org/wiki/Cleopatra_VII"
+    }
+  ],
+  "tags": [
+    "personajes-historicos",
+    "cleopatra-vii"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001705",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué familia instrumental pertenece principalmente el arpa?",
+  "answers": [
+    {
+      "text": "cuerda pulsada",
+      "correct": true
+    },
+    {
+      "text": "viento metal",
+      "correct": false
+    },
+    {
+      "text": "viento madera",
+      "correct": false
+    },
+    {
+      "text": "percusión",
+      "correct": false
+    }
+  ],
+  "explanation": "El arpa pertenece principalmente a la familia de cuerda pulsada.",
+  "sources": [
+    {
+      "title": "Wikipedia - arpa",
+      "url": "https://es.wikipedia.org/wiki/arpa"
+    }
+  ],
+  "tags": [
+    "instrumentos",
+    "cuerda-pulsada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

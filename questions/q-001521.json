@@ -1,0 +1,42 @@
+{
+  "id": "q-001521",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "material-deportivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué deporte se asocia principalmente el uso de red alta?",
+  "answers": [
+    {
+      "text": "atletismo",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "voleibol",
+      "correct": true
+    },
+    {
+      "text": "ciclismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Red alta se asocia principalmente con voleibol.",
+  "sources": [
+    {
+      "title": "Wikipedia - red alta",
+      "url": "https://es.wikipedia.org/wiki/red_alta"
+    }
+  ],
+  "tags": [
+    "material-deportivo",
+    "voleibol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

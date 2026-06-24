@@ -1,0 +1,42 @@
+{
+  "id": "q-001308",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué uso se asocia especialmente el lenguaje o tecnología HTML?",
+  "answers": [
+    {
+      "text": "estructura de documentos web",
+      "correct": true
+    },
+    {
+      "text": "interactividad web en navegadores",
+      "correct": false
+    },
+    {
+      "text": "JavaScript con tipado estático",
+      "correct": false
+    },
+    {
+      "text": "scripts embebidos en aplicaciones y videojuegos",
+      "correct": false
+    }
+  ],
+  "explanation": "HTML se asocia especialmente con estructura de documentos web.",
+  "sources": [
+    {
+      "title": "Wikipedia - HTML",
+      "url": "https://es.wikipedia.org/wiki/HTML"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "html"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001437",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-de-tv"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué serie de televisión aparece Rachel Green?",
+  "answers": [
+    {
+      "text": "Friends",
+      "correct": true
+    },
+    {
+      "text": "Sexo en Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Juego de tronos",
+      "correct": false
+    },
+    {
+      "text": "The Walking Dead",
+      "correct": false
+    }
+  ],
+  "explanation": "Rachel Green aparece en la serie Friends.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rachel Green",
+      "url": "https://es.wikipedia.org/wiki/Rachel_Green"
+    }
+  ],
+  "tags": [
+    "television",
+    "friends"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

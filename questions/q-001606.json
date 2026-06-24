@@ -1,0 +1,42 @@
+{
+  "id": "q-001606",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué movimiento artístico se asocia principalmente Vincent van Gogh?",
+  "answers": [
+    {
+      "text": "expresionismo abstracto",
+      "correct": false
+    },
+    {
+      "text": "pop art",
+      "correct": false
+    },
+    {
+      "text": "impresionismo",
+      "correct": false
+    },
+    {
+      "text": "postimpresionismo",
+      "correct": true
+    }
+  ],
+  "explanation": "Vincent van Gogh se asocia principalmente con el postimpresionismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Vincent van Gogh",
+      "url": "https://es.wikipedia.org/wiki/Vincent_van_Gogh"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "postimpresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

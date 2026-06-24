@@ -1,0 +1,42 @@
+{
+  "id": "q-001645",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Pergamonmuseum?",
+  "answers": [
+    {
+      "text": "Berlín",
+      "correct": true
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    }
+  ],
+  "explanation": "El Pergamonmuseum se encuentra en Berlín.",
+  "sources": [
+    {
+      "title": "Wikipedia - Pergamonmuseum",
+      "url": "https://es.wikipedia.org/wiki/Pergamonmuseum"
+    }
+  ],
+  "tags": [
+    "museos",
+    "berlin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

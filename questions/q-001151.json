@@ -1,0 +1,42 @@
+{
+  "id": "q-001151",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en cocinar suavemente sin llegar a dorar en exceso?",
+  "answers": [
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "rehogar",
+      "correct": true
+    },
+    {
+      "text": "fermentar",
+      "correct": false
+    },
+    {
+      "text": "brasear",
+      "correct": false
+    }
+  ],
+  "explanation": "Rehogar consiste en cocinar suavemente sin llegar a dorar en exceso.",
+  "sources": [
+    {
+      "title": "Wikipedia - rehogar",
+      "url": "https://es.wikipedia.org/wiki/rehogar"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "rehogar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

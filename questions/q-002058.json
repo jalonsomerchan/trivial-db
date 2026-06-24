@@ -1,0 +1,42 @@
+{
+  "id": "q-002058",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-batallas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año o periodo se sitúa Batalla de Trafalgar?",
+  "answers": [
+    {
+      "text": "1805",
+      "correct": true
+    },
+    {
+      "text": "1494",
+      "correct": false
+    },
+    {
+      "text": "331 a. C.",
+      "correct": false
+    },
+    {
+      "text": "1968",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de Trafalgar se sitúa históricamente en 1805.",
+  "sources": [
+    {
+      "title": "Wikipedia - Batalla de Trafalgar",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Trafalgar"
+    }
+  ],
+  "tags": [
+    "tratados-batallas",
+    "batalla-de-trafalgar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

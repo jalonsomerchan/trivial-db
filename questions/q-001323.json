@@ -1,0 +1,42 @@
+{
+  "id": "q-001323",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué uso se asocia especialmente el lenguaje o tecnología Dart?",
+  "answers": [
+    {
+      "text": "aplicaciones Flutter",
+      "correct": true
+    },
+    {
+      "text": "aplicaciones .NET y videojuegos con Unity",
+      "correct": false
+    },
+    {
+      "text": "aplicaciones empresariales y Android clásico",
+      "correct": false
+    },
+    {
+      "text": "desarrollo web del lado del servidor",
+      "correct": false
+    }
+  ],
+  "explanation": "Dart se asocia especialmente con aplicaciones Flutter.",
+  "sources": [
+    {
+      "title": "Wikipedia - Dart",
+      "url": "https://es.wikipedia.org/wiki/Dart"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "dart"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

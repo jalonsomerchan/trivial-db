@@ -1,0 +1,42 @@
+{
+  "id": "q-001138",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en cocinar lentamente con poco líquido tras dorar el alimento?",
+  "answers": [
+    {
+      "text": "brasear",
+      "correct": true
+    },
+    {
+      "text": "rehogar",
+      "correct": false
+    },
+    {
+      "text": "saltear",
+      "correct": false
+    },
+    {
+      "text": "sellar",
+      "correct": false
+    }
+  ],
+  "explanation": "Brasear consiste en cocinar lentamente con poco líquido tras dorar el alimento.",
+  "sources": [
+    {
+      "title": "Wikipedia - brasear",
+      "url": "https://es.wikipedia.org/wiki/brasear"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "brasear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001971",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género o forma literaria se define como ficción basada en especulaciones científicas o tecnológicas?",
+  "answers": [
+    {
+      "text": "relato de la propia vida",
+      "correct": false
+    },
+    {
+      "text": "relato ordenado de hechos",
+      "correct": false
+    },
+    {
+      "text": "obra teatral de conflicto serio",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    }
+  ],
+  "explanation": "Ciencia ficción se define como ficción basada en especulaciones científicas o tecnológicas.",
+  "sources": [
+    {
+      "title": "Wikipedia - ciencia ficción",
+      "url": "https://es.wikipedia.org/wiki/ciencia_ficci%C3%B3n"
+    }
+  ],
+  "tags": [
+    "generos-literarios",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

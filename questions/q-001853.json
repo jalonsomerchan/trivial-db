@@ -1,0 +1,42 @@
+{
+  "id": "q-001853",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a desierto?",
+  "answers": [
+    {
+      "text": "ecosistema altoandino",
+      "correct": false
+    },
+    {
+      "text": "pastizal semiárido",
+      "correct": false
+    },
+    {
+      "text": "laguna litoral",
+      "correct": false
+    },
+    {
+      "text": "ecosistema árido con escasas precipitaciones",
+      "correct": true
+    }
+  ],
+  "explanation": "Desierto se describe como ecosistema árido con escasas precipitaciones.",
+  "sources": [
+    {
+      "title": "Wikipedia - desierto",
+      "url": "https://es.wikipedia.org/wiki/desierto"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "desierto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

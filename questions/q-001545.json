@@ -1,0 +1,42 @@
+{
+  "id": "q-001545",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona la competición 24 Horas de Le Mans?",
+  "answers": [
+    {
+      "text": "cricket",
+      "correct": false
+    },
+    {
+      "text": "atletismo",
+      "correct": false
+    },
+    {
+      "text": "automovilismo",
+      "correct": true
+    },
+    {
+      "text": "natación",
+      "correct": false
+    }
+  ],
+  "explanation": "24 Horas de Le Mans es una competición relacionada con automovilismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - 24 Horas de Le Mans",
+      "url": "https://es.wikipedia.org/wiki/24_Horas_de_Le_Mans"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "automovilismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

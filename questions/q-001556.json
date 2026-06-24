@@ -1,0 +1,42 @@
+{
+  "id": "q-001556",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "posiciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte existe la posición de pitcher?",
+  "answers": [
+    {
+      "text": "ciclismo",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": true
+    },
+    {
+      "text": "golf",
+      "correct": false
+    },
+    {
+      "text": "voleibol",
+      "correct": false
+    }
+  ],
+  "explanation": "La posición de pitcher existe en béisbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - pitcher",
+      "url": "https://es.wikipedia.org/wiki/pitcher"
+    }
+  ],
+  "tags": [
+    "posiciones",
+    "beisbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

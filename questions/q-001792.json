@@ -1,0 +1,42 @@
+{
+  "id": "q-001792",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "animales"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado sapo partero?",
+  "answers": [
+    {
+      "text": "molusco",
+      "correct": false
+    },
+    {
+      "text": "anfibio",
+      "correct": true
+    },
+    {
+      "text": "insecto",
+      "correct": false
+    },
+    {
+      "text": "pez",
+      "correct": false
+    }
+  ],
+  "explanation": "El sapo partero pertenece al grupo de los anfibios o se clasifica como anfibio.",
+  "sources": [
+    {
+      "title": "Wikipedia - sapo partero",
+      "url": "https://es.wikipedia.org/wiki/sapo_partero"
+    }
+  ],
+  "tags": [
+    "animales",
+    "anfibio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

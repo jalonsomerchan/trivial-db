@@ -1,0 +1,42 @@
+{
+  "id": "q-001163",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-e-ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente o base es característica del tzatziki?",
+  "answers": [
+    {
+      "text": "carne picada",
+      "correct": false
+    },
+    {
+      "text": "yogur",
+      "correct": true
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "rebozado ligero",
+      "correct": false
+    }
+  ],
+  "explanation": "El tzatziki se caracteriza por usar yogur como ingrediente o base principal.",
+  "sources": [
+    {
+      "title": "Wikipedia - tzatziki",
+      "url": "https://es.wikipedia.org/wiki/tzatziki"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "tzatziki"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

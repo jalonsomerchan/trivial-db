@@ -1,0 +1,42 @@
+{
+  "id": "q-001379",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película Pulp Fiction?",
+  "answers": [
+    {
+      "text": "James Cameron",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    },
+    {
+      "text": "Quentin Tarantino",
+      "correct": true
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    }
+  ],
+  "explanation": "Pulp Fiction fue dirigida por Quentin Tarantino.",
+  "sources": [
+    {
+      "title": "Wikipedia - Pulp Fiction",
+      "url": "https://es.wikipedia.org/wiki/Pulp_Fiction"
+    }
+  ],
+  "tags": [
+    "cine",
+    "quentin-tarantino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

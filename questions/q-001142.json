@@ -1,0 +1,42 @@
+{
+  "id": "q-001142",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en pasar un ingrediente por un colador fino?",
+  "answers": [
+    {
+      "text": "laminar",
+      "correct": false
+    },
+    {
+      "text": "marinar",
+      "correct": false
+    },
+    {
+      "text": "tamizar",
+      "correct": true
+    },
+    {
+      "text": "brasear",
+      "correct": false
+    }
+  ],
+  "explanation": "Tamizar consiste en pasar un ingrediente por un colador fino.",
+  "sources": [
+    {
+      "title": "Wikipedia - tamizar",
+      "url": "https://es.wikipedia.org/wiki/tamizar"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "tamizar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

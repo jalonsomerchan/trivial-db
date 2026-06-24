@@ -1,0 +1,42 @@
+{
+  "id": "q-001610",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué movimiento artístico se asocia principalmente Pablo Picasso?",
+  "answers": [
+    {
+      "text": "expresionismo abstracto",
+      "correct": false
+    },
+    {
+      "text": "impresionismo",
+      "correct": false
+    },
+    {
+      "text": "cubismo",
+      "correct": true
+    },
+    {
+      "text": "neoplasticismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Pablo Picasso se asocia principalmente con el cubismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Pablo Picasso",
+      "url": "https://es.wikipedia.org/wiki/Pablo_Picasso"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "cubismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

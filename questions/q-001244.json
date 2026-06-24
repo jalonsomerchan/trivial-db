@@ -1,0 +1,42 @@
+{
+  "id": "q-001244",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "medium",
+  "question": "En terminología médica, ¿a qué se refiere el prefijo odonto-?",
+  "answers": [
+    {
+      "text": "el cabello",
+      "correct": false
+    },
+    {
+      "text": "las articulaciones",
+      "correct": false
+    },
+    {
+      "text": "el intestino",
+      "correct": false
+    },
+    {
+      "text": "los dientes",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo odonto- se usa para hacer referencia a los dientes.",
+  "sources": [
+    {
+      "title": "Wikipedia - odonto-",
+      "url": "https://es.wikipedia.org/wiki/odonto-"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "odonto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

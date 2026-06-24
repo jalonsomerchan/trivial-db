@@ -1,0 +1,42 @@
+{
+  "id": "q-001724",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué familia instrumental pertenece principalmente el banjo?",
+  "answers": [
+    {
+      "text": "percusión",
+      "correct": false
+    },
+    {
+      "text": "cuerda pulsada",
+      "correct": true
+    },
+    {
+      "text": "viento metal",
+      "correct": false
+    },
+    {
+      "text": "voz",
+      "correct": false
+    }
+  ],
+  "explanation": "El banjo pertenece principalmente a la familia de cuerda pulsada.",
+  "sources": [
+    {
+      "title": "Wikipedia - banjo",
+      "url": "https://es.wikipedia.org/wiki/banjo"
+    }
+  ],
+  "tags": [
+    "instrumentos",
+    "cuerda-pulsada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

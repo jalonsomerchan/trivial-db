@@ -1,0 +1,42 @@
+{
+  "id": "q-001203",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué sistema del cuerpo humano pertenece principalmente vejiga?",
+  "answers": [
+    {
+      "text": "sistema linfático",
+      "correct": false
+    },
+    {
+      "text": "sistema tegumentario",
+      "correct": false
+    },
+    {
+      "text": "sistema urinario",
+      "correct": true
+    },
+    {
+      "text": "sistema cardiovascular",
+      "correct": false
+    }
+  ],
+  "explanation": "Vejiga forma parte principalmente del sistema urinario.",
+  "sources": [
+    {
+      "title": "Wikipedia - vejiga",
+      "url": "https://es.wikipedia.org/wiki/vejiga"
+    }
+  ],
+  "tags": [
+    "cuerpo-humano",
+    "sistema-urinario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

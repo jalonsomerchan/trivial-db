@@ -1,0 +1,42 @@
+{
+  "id": "q-001213",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué nutriente se asocia especialmente con coagulación sanguínea?",
+  "answers": [
+    {
+      "text": "vitamina B3",
+      "correct": false
+    },
+    {
+      "text": "vitamina B1",
+      "correct": false
+    },
+    {
+      "text": "vitamina D",
+      "correct": false
+    },
+    {
+      "text": "vitamina K",
+      "correct": true
+    }
+  ],
+  "explanation": "vitamina K se asocia con coagulación sanguínea.",
+  "sources": [
+    {
+      "title": "Wikipedia - vitamina K",
+      "url": "https://es.wikipedia.org/wiki/vitamina_K"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-k"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

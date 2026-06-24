@@ -1,0 +1,42 @@
+{
+  "id": "q-001800",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "plantas"
+  ],
+  "difficulty": "easy",
+  "question": "En botánica básica, ¿qué tipo de planta es encina?",
+  "answers": [
+    {
+      "text": "briofita",
+      "correct": false
+    },
+    {
+      "text": "conífera",
+      "correct": false
+    },
+    {
+      "text": "arbusto aromático",
+      "correct": false
+    },
+    {
+      "text": "árbol",
+      "correct": true
+    }
+  ],
+  "explanation": "Encina se clasifica habitualmente como árbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - encina",
+      "url": "https://es.wikipedia.org/wiki/encina"
+    }
+  ],
+  "tags": [
+    "plantas",
+    "arbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

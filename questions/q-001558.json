@@ -1,0 +1,42 @@
+{
+  "id": "q-001558",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "posiciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte existe la posición de libero?",
+  "answers": [
+    {
+      "text": "hockey sobre hielo",
+      "correct": false
+    },
+    {
+      "text": "fútbol americano",
+      "correct": false
+    },
+    {
+      "text": "natación",
+      "correct": false
+    },
+    {
+      "text": "voleibol",
+      "correct": true
+    }
+  ],
+  "explanation": "La posición de libero existe en voleibol.",
+  "sources": [
+    {
+      "title": "Wikipedia - libero",
+      "url": "https://es.wikipedia.org/wiki/libero"
+    }
+  ],
+  "tags": [
+    "posiciones",
+    "voleibol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

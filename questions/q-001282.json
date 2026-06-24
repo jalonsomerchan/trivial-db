@@ -1,0 +1,42 @@
+{
+  "id": "q-001282",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla CSS?",
+  "answers": [
+    {
+      "text": "Secure Shell",
+      "correct": false
+    },
+    {
+      "text": "Domain Name System",
+      "correct": false
+    },
+    {
+      "text": "Cascading Style Sheets",
+      "correct": true
+    },
+    {
+      "text": "Transport Layer Security",
+      "correct": false
+    }
+  ],
+  "explanation": "CSS significa Cascading Style Sheets.",
+  "sources": [
+    {
+      "title": "Wikipedia - CSS",
+      "url": "https://es.wikipedia.org/wiki/CSS"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "css"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

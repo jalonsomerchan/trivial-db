@@ -1,0 +1,42 @@
+{
+  "id": "q-001810",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "plantas"
+  ],
+  "difficulty": "easy",
+  "question": "En botánica básica, ¿qué tipo de planta es garbanzo?",
+  "answers": [
+    {
+      "text": "pteridofita",
+      "correct": false
+    },
+    {
+      "text": "palmera",
+      "correct": false
+    },
+    {
+      "text": "alga",
+      "correct": false
+    },
+    {
+      "text": "leguminosa",
+      "correct": true
+    }
+  ],
+  "explanation": "Garbanzo se clasifica habitualmente como leguminosa.",
+  "sources": [
+    {
+      "title": "Wikipedia - garbanzo",
+      "url": "https://es.wikipedia.org/wiki/garbanzo"
+    }
+  ],
+  "tags": [
+    "plantas",
+    "leguminosa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

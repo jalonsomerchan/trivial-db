@@ -1,0 +1,42 @@
+{
+  "id": "q-001699",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó Sinfonía del Nuevo Mundo?",
+  "answers": [
+    {
+      "text": "Wolfgang Amadeus Mozart",
+      "correct": false
+    },
+    {
+      "text": "Frédéric Chopin",
+      "correct": false
+    },
+    {
+      "text": "Gioachino Rossini",
+      "correct": false
+    },
+    {
+      "text": "Antonín Dvořák",
+      "correct": true
+    }
+  ],
+  "explanation": "Sinfonía del Nuevo Mundo fue compuesta por Antonín Dvořák.",
+  "sources": [
+    {
+      "title": "Wikipedia - Sinfonía del Nuevo Mundo",
+      "url": "https://es.wikipedia.org/wiki/Sinfon%C3%ADa_del_Nuevo_Mundo"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "antonin-dvorak"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

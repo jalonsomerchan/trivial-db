@@ -1,0 +1,42 @@
+{
+  "id": "q-001614",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué movimiento artístico se asocia principalmente René Magritte?",
+  "answers": [
+    {
+      "text": "fauvismo",
+      "correct": false
+    },
+    {
+      "text": "surrealismo",
+      "correct": true
+    },
+    {
+      "text": "gótico",
+      "correct": false
+    },
+    {
+      "text": "neoclasicismo",
+      "correct": false
+    }
+  ],
+  "explanation": "René Magritte se asocia principalmente con el surrealismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - René Magritte",
+      "url": "https://es.wikipedia.org/wiki/Ren%C3%A9_Magritte"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "surrealismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

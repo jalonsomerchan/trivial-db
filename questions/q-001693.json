@@ -1,0 +1,42 @@
+{
+  "id": "q-001693",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó Rapsodia húngara n.º 2?",
+  "answers": [
+    {
+      "text": "Joaquín Rodrigo",
+      "correct": false
+    },
+    {
+      "text": "Giuseppe Verdi",
+      "correct": false
+    },
+    {
+      "text": "Gustav Mahler",
+      "correct": false
+    },
+    {
+      "text": "Franz Liszt",
+      "correct": true
+    }
+  ],
+  "explanation": "Rapsodia húngara n.º 2 fue compuesta por Franz Liszt.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rapsodia húngara n.º 2",
+      "url": "https://es.wikipedia.org/wiki/Rapsodia_h%C3%BAngara_n.%C2%BA_2"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "franz-liszt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

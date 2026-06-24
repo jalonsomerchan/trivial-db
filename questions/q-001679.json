@@ -1,0 +1,42 @@
+{
+  "id": "q-001679",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó Para Elisa?",
+  "answers": [
+    {
+      "text": "Johannes Brahms",
+      "correct": false
+    },
+    {
+      "text": "Richard Wagner",
+      "correct": false
+    },
+    {
+      "text": "Ludwig van Beethoven",
+      "correct": true
+    },
+    {
+      "text": "Giuseppe Verdi",
+      "correct": false
+    }
+  ],
+  "explanation": "Para Elisa fue compuesta por Ludwig van Beethoven.",
+  "sources": [
+    {
+      "title": "Wikipedia - Para Elisa",
+      "url": "https://es.wikipedia.org/wiki/Para_Elisa"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "ludwig-van-beethoven"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

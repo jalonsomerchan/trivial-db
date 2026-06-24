@@ -1,0 +1,42 @@
+{
+  "id": "q-001769",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "albumes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista o grupo publicó el álbum Random Access Memories?",
+  "answers": [
+    {
+      "text": "Björk",
+      "correct": false
+    },
+    {
+      "text": "The Beach Boys",
+      "correct": false
+    },
+    {
+      "text": "Daft Punk",
+      "correct": true
+    },
+    {
+      "text": "Pink Floyd",
+      "correct": false
+    }
+  ],
+  "explanation": "Random Access Memories es un álbum publicado por Daft Punk.",
+  "sources": [
+    {
+      "title": "Wikipedia - Random Access Memories",
+      "url": "https://es.wikipedia.org/wiki/Random_Access_Memories"
+    }
+  ],
+  "tags": [
+    "albumes",
+    "daft-punk"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

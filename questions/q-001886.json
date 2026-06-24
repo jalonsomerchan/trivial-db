@@ -1,0 +1,42 @@
+{
+  "id": "q-001886",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió La letra escarlata?",
+  "answers": [
+    {
+      "text": "Alexandre Dumas",
+      "correct": false
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": false
+    },
+    {
+      "text": "Charlotte Brontë",
+      "correct": false
+    },
+    {
+      "text": "Nathaniel Hawthorne",
+      "correct": true
+    }
+  ],
+  "explanation": "La letra escarlata fue escrita por Nathaniel Hawthorne.",
+  "sources": [
+    {
+      "title": "Wikipedia - La letra escarlata",
+      "url": "https://es.wikipedia.org/wiki/La_letra_escarlata"
+    }
+  ],
+  "tags": [
+    "autores",
+    "nathaniel-hawthorne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

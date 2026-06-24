@@ -1,0 +1,42 @@
+{
+  "id": "q-001586",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista pintó Los girasoles?",
+  "answers": [
+    {
+      "text": "Kazimir Malévich",
+      "correct": false
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": false
+    },
+    {
+      "text": "Vincent van Gogh",
+      "correct": true
+    },
+    {
+      "text": "Edvard Munch",
+      "correct": false
+    }
+  ],
+  "explanation": "Los girasoles es una obra de Vincent van Gogh.",
+  "sources": [
+    {
+      "title": "Wikipedia - Los girasoles",
+      "url": "https://es.wikipedia.org/wiki/Los_girasoles"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "vincent-van-gogh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001655",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué arquitecto o equipo diseñó Ópera de Sídney?",
+  "answers": [
+    {
+      "text": "Frank Lloyd Wright",
+      "correct": false
+    },
+    {
+      "text": "Oscar Niemeyer",
+      "correct": false
+    },
+    {
+      "text": "Jørn Utzon",
+      "correct": true
+    },
+    {
+      "text": "Antoni Gaudí",
+      "correct": false
+    }
+  ],
+  "explanation": "Ópera de Sídney fue diseñado por Jørn Utzon.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ópera de Sídney",
+      "url": "https://es.wikipedia.org/wiki/%C3%93pera_de_S%C3%ADdney"
+    }
+  ],
+  "tags": [
+    "arquitectura",
+    "j-rn-utzon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

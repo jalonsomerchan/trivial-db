@@ -1,0 +1,42 @@
+{
+  "id": "q-001466",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "animacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio se asocia con la película de animación Cómo entrenar a tu dragón?",
+  "answers": [
+    {
+      "text": "Aardman",
+      "correct": false
+    },
+    {
+      "text": "Pixar",
+      "correct": false
+    },
+    {
+      "text": "Sony Pictures Animation",
+      "correct": false
+    },
+    {
+      "text": "DreamWorks Animation",
+      "correct": true
+    }
+  ],
+  "explanation": "Cómo entrenar a tu dragón se asocia con el estudio DreamWorks Animation.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cómo entrenar a tu dragón",
+      "url": "https://es.wikipedia.org/wiki/C%C3%B3mo_entrenar_a_tu_drag%C3%B3n"
+    }
+  ],
+  "tags": [
+    "animacion",
+    "dreamworks-animation"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

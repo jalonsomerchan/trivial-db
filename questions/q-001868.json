@@ -1,0 +1,42 @@
+{
+  "id": "q-001868",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a laguna salada?",
+  "answers": [
+    {
+      "text": "pastizal tropical con árboles dispersos",
+      "correct": false
+    },
+    {
+      "text": "cuerpo de agua salina interior",
+      "correct": true
+    },
+    {
+      "text": "depresión submarina profunda",
+      "correct": false
+    },
+    {
+      "text": "bosque húmedo de montaña",
+      "correct": false
+    }
+  ],
+  "explanation": "Laguna salada se describe como cuerpo de agua salina interior.",
+  "sources": [
+    {
+      "title": "Wikipedia - laguna salada",
+      "url": "https://es.wikipedia.org/wiki/laguna_salada"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "laguna-salada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

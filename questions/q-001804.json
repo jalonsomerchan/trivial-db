@@ -1,0 +1,42 @@
+{
+  "id": "q-001804",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "plantas"
+  ],
+  "difficulty": "easy",
+  "question": "En botánica básica, ¿qué tipo de planta es trigo?",
+  "answers": [
+    {
+      "text": "hongo",
+      "correct": false
+    },
+    {
+      "text": "árbol",
+      "correct": false
+    },
+    {
+      "text": "leguminosa",
+      "correct": false
+    },
+    {
+      "text": "gramínea",
+      "correct": true
+    }
+  ],
+  "explanation": "Trigo se clasifica habitualmente como gramínea.",
+  "sources": [
+    {
+      "title": "Wikipedia - trigo",
+      "url": "https://es.wikipedia.org/wiki/trigo"
+    }
+  ],
+  "tags": [
+    "plantas",
+    "graminea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001427",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "personajes-de-cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué película o saga aparece el personaje John McClane?",
+  "answers": [
+    {
+      "text": "Jungla de cristal",
+      "correct": true
+    },
+    {
+      "text": "El padrino",
+      "correct": false
+    },
+    {
+      "text": "Harry Potter",
+      "correct": false
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    }
+  ],
+  "explanation": "John McClane es un personaje de Jungla de cristal.",
+  "sources": [
+    {
+      "title": "Wikipedia - John McClane",
+      "url": "https://es.wikipedia.org/wiki/John_McClane"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "jungla-de-cristal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

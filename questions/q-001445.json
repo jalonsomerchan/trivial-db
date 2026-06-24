@@ -1,0 +1,42 @@
+{
+  "id": "q-001445",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-de-tv"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué serie de televisión aparece Dana Scully?",
+  "answers": [
+    {
+      "text": "Stranger Things",
+      "correct": false
+    },
+    {
+      "text": "Expediente X",
+      "correct": true
+    },
+    {
+      "text": "Better Call Saul",
+      "correct": false
+    },
+    {
+      "text": "Star Trek: la nueva generación",
+      "correct": false
+    }
+  ],
+  "explanation": "Dana Scully aparece en la serie Expediente X.",
+  "sources": [
+    {
+      "title": "Wikipedia - Dana Scully",
+      "url": "https://es.wikipedia.org/wiki/Dana_Scully"
+    }
+  ],
+  "tags": [
+    "television",
+    "expediente-x"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

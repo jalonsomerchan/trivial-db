@@ -1,0 +1,42 @@
+{
+  "id": "q-002051",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-batallas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año o periodo se sitúa Batalla de las Termópilas?",
+  "answers": [
+    {
+      "text": "1944",
+      "correct": false
+    },
+    {
+      "text": "1494",
+      "correct": false
+    },
+    {
+      "text": "480 a. C.",
+      "correct": true
+    },
+    {
+      "text": "1942-1943",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de las Termópilas se sitúa históricamente en 480 a. C..",
+  "sources": [
+    {
+      "title": "Wikipedia - Batalla de las Termópilas",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_las_Term%C3%B3pilas"
+    }
+  ],
+  "tags": [
+    "tratados-batallas",
+    "batalla-de-las-termopilas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

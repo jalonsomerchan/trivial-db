@@ -1,0 +1,42 @@
+{
+  "id": "q-001135",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en mezclar líquidos que normalmente no se integran?",
+  "answers": [
+    {
+      "text": "emulsionar",
+      "correct": true
+    },
+    {
+      "text": "clarificar",
+      "correct": false
+    },
+    {
+      "text": "desglasar",
+      "correct": false
+    },
+    {
+      "text": "escaldar",
+      "correct": false
+    }
+  ],
+  "explanation": "Emulsionar consiste en mezclar líquidos que normalmente no se integran.",
+  "sources": [
+    {
+      "title": "Wikipedia - emulsionar",
+      "url": "https://es.wikipedia.org/wiki/emulsionar"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "emulsionar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

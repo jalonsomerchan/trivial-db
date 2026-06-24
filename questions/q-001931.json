@@ -1,0 +1,42 @@
+{
+  "id": "q-001931",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Jean Valjean?",
+  "answers": [
+    {
+      "text": "Cumbres borrascosas",
+      "correct": false
+    },
+    {
+      "text": "Los miserables",
+      "correct": true
+    },
+    {
+      "text": "Platero y yo",
+      "correct": false
+    },
+    {
+      "text": "Rayuela",
+      "correct": false
+    }
+  ],
+  "explanation": "Jean Valjean aparece en Los miserables.",
+  "sources": [
+    {
+      "title": "Wikipedia - Jean Valjean",
+      "url": "https://es.wikipedia.org/wiki/Jean_Valjean"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "los-miserables"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

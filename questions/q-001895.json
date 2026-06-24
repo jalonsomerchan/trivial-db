@@ -1,0 +1,42 @@
+{
+  "id": "q-001895",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Ulises?",
+  "answers": [
+    {
+      "text": "Carmen Laforet",
+      "correct": false
+    },
+    {
+      "text": "Juan Ramón Jiménez",
+      "correct": false
+    },
+    {
+      "text": "Mary Shelley",
+      "correct": false
+    },
+    {
+      "text": "James Joyce",
+      "correct": true
+    }
+  ],
+  "explanation": "Ulises fue escrita por James Joyce.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ulises",
+      "url": "https://es.wikipedia.org/wiki/Ulises"
+    }
+  ],
+  "tags": [
+    "autores",
+    "james-joyce"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

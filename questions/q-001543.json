@@ -1,0 +1,42 @@
+{
+  "id": "q-001543",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona la competición Copa Libertadores?",
+  "answers": [
+    {
+      "text": "judo",
+      "correct": false
+    },
+    {
+      "text": "atletismo",
+      "correct": false
+    },
+    {
+      "text": "fútbol",
+      "correct": true
+    },
+    {
+      "text": "tenis",
+      "correct": false
+    }
+  ],
+  "explanation": "Copa Libertadores es una competición relacionada con fútbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - Copa Libertadores",
+      "url": "https://es.wikipedia.org/wiki/Copa_Libertadores"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "futbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

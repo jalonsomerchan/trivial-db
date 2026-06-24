@@ -1,0 +1,42 @@
+{
+  "id": "q-001139",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en dorar la superficie de una preparación con calor intenso?",
+  "answers": [
+    {
+      "text": "macerar",
+      "correct": false
+    },
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "saltear",
+      "correct": false
+    },
+    {
+      "text": "gratinar",
+      "correct": true
+    }
+  ],
+  "explanation": "Gratinar consiste en dorar la superficie de una preparación con calor intenso.",
+  "sources": [
+    {
+      "title": "Wikipedia - gratinar",
+      "url": "https://es.wikipedia.org/wiki/gratinar"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "gratinar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002038",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes-historicos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se recuerda históricamente a Rosa Parks?",
+  "answers": [
+    {
+      "text": "heroína francesa de la Guerra de los Cien Años",
+      "correct": false
+    },
+    {
+      "text": "activista por los derechos civiles",
+      "correct": true
+    },
+    {
+      "text": "líder independentista sudamericano",
+      "correct": false
+    },
+    {
+      "text": "zar reformador de Rusia",
+      "correct": false
+    }
+  ],
+  "explanation": "Rosa Parks se recuerda históricamente como activista por los derechos civiles.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rosa Parks",
+      "url": "https://es.wikipedia.org/wiki/Rosa_Parks"
+    }
+  ],
+  "tags": [
+    "personajes-historicos",
+    "rosa-parks"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001794",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "animales"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado salmón?",
+  "answers": [
+    {
+      "text": "crustáceo",
+      "correct": false
+    },
+    {
+      "text": "pez",
+      "correct": true
+    },
+    {
+      "text": "pez cartilaginoso",
+      "correct": false
+    },
+    {
+      "text": "ave",
+      "correct": false
+    }
+  ],
+  "explanation": "El salmón pertenece al grupo de los pezs o se clasifica como pez.",
+  "sources": [
+    {
+      "title": "Wikipedia - salmón",
+      "url": "https://es.wikipedia.org/wiki/salm%C3%B3n"
+    }
+  ],
+  "tags": [
+    "animales",
+    "pez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

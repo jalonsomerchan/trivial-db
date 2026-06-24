@@ -1,0 +1,42 @@
+{
+  "id": "q-001316",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué uso se asocia especialmente el lenguaje o tecnología C#?",
+  "answers": [
+    {
+      "text": "JavaScript con tipado estático",
+      "correct": false
+    },
+    {
+      "text": "estructura de documentos web",
+      "correct": false
+    },
+    {
+      "text": "aplicaciones .NET y videojuegos con Unity",
+      "correct": true
+    },
+    {
+      "text": "programación funcional sobre la JVM",
+      "correct": false
+    }
+  ],
+  "explanation": "C# se asocia especialmente con aplicaciones .NET y videojuegos con Unity.",
+  "sources": [
+    {
+      "title": "Wikipedia - C#",
+      "url": "https://es.wikipedia.org/wiki/C%23"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "c"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

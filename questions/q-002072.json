@@ -1,0 +1,42 @@
+{
+  "id": "q-002072",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el Campeonato Mundial de Snooker?",
+  "answers": [
+    {
+      "text": "baloncesto",
+      "correct": false
+    },
+    {
+      "text": "snooker",
+      "correct": true
+    },
+    {
+      "text": "ciclismo",
+      "correct": false
+    },
+    {
+      "text": "boxeo",
+      "correct": false
+    }
+  ],
+  "explanation": "El Campeonato Mundial de Snooker es una de las principales competiciones de snooker.",
+  "sources": [
+    {
+      "title": "Wikipedia - Campeonato Mundial de Snooker",
+      "url": "https://es.wikipedia.org/wiki/Campeonato_Mundial_de_Snooker"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "snooker"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

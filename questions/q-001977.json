@@ -1,0 +1,42 @@
+{
+  "id": "q-001977",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas-historicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año tuvo lugar el acontecimiento histórico conocido como inicio de la Reforma protestante?",
+  "answers": [
+    {
+      "text": "1517",
+      "correct": true
+    },
+    {
+      "text": "1215",
+      "correct": false
+    },
+    {
+      "text": "1929",
+      "correct": false
+    },
+    {
+      "text": "800",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Reforma protestante ocurrió en 1517.",
+  "sources": [
+    {
+      "title": "Wikipedia - inicio de la Reforma protestante",
+      "url": "https://es.wikipedia.org/wiki/inicio_de_la_Reforma_protestante"
+    }
+  ],
+  "tags": [
+    "fechas-historicas",
+    "inicio-de-la-reforma-protestante"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001362",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "historia-de-la-tecnologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué persona o equipo se asocia principalmente Perl?",
+  "answers": [
+    {
+      "text": "Robert Metcalfe",
+      "correct": false
+    },
+    {
+      "text": "John Backus y su equipo",
+      "correct": false
+    },
+    {
+      "text": "Rasmus Lerdorf",
+      "correct": false
+    },
+    {
+      "text": "Larry Wall",
+      "correct": true
+    }
+  ],
+  "explanation": "Perl se asocia principalmente con Larry Wall.",
+  "sources": [
+    {
+      "title": "Wikipedia - Perl",
+      "url": "https://es.wikipedia.org/wiki/Perl"
+    }
+  ],
+  "tags": [
+    "historia-tecnologia",
+    "perl"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

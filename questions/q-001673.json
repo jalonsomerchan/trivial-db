@@ -1,0 +1,42 @@
+{
+  "id": "q-001673",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué arquitecto o equipo diseñó Biblioteca de Seattle?",
+  "answers": [
+    {
+      "text": "Jørn Utzon",
+      "correct": false
+    },
+    {
+      "text": "Antoni Gaudí",
+      "correct": false
+    },
+    {
+      "text": "Rem Koolhaas",
+      "correct": true
+    },
+    {
+      "text": "Eero Saarinen",
+      "correct": false
+    }
+  ],
+  "explanation": "Biblioteca de Seattle fue diseñado por Rem Koolhaas.",
+  "sources": [
+    {
+      "title": "Wikipedia - Biblioteca de Seattle",
+      "url": "https://es.wikipedia.org/wiki/Biblioteca_de_Seattle"
+    }
+  ],
+  "tags": [
+    "arquitectura",
+    "rem-koolhaas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

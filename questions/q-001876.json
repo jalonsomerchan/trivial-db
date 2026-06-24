@@ -1,0 +1,42 @@
+{
+  "id": "q-001876",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió La Divina Comedia?",
+  "answers": [
+    {
+      "text": "Mary Shelley",
+      "correct": false
+    },
+    {
+      "text": "Dante Alighieri",
+      "correct": true
+    },
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    }
+  ],
+  "explanation": "La Divina Comedia fue escrita por Dante Alighieri.",
+  "sources": [
+    {
+      "title": "Wikipedia - La Divina Comedia",
+      "url": "https://es.wikipedia.org/wiki/La_Divina_Comedia"
+    }
+  ],
+  "tags": [
+    "autores",
+    "dante-alighieri"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

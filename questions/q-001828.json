@@ -1,0 +1,42 @@
+{
+  "id": "q-001828",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia"
+  ],
+  "difficulty": "medium",
+  "question": "En geología, ¿cómo se clasifica principalmente gabro?",
+  "answers": [
+    {
+      "text": "roca ígnea",
+      "correct": true
+    },
+    {
+      "text": "fósil",
+      "correct": false
+    },
+    {
+      "text": "roca metamórfica",
+      "correct": false
+    },
+    {
+      "text": "formación de cueva",
+      "correct": false
+    }
+  ],
+  "explanation": "Gabro se clasifica principalmente como roca ígnea.",
+  "sources": [
+    {
+      "title": "Wikipedia - gabro",
+      "url": "https://es.wikipedia.org/wiki/gabro"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "roca-ignea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

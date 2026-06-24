@@ -1,0 +1,42 @@
+{
+  "id": "q-001999",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué civilización o entidad histórica se asocia principalmente Atenas clásica?",
+  "answers": [
+    {
+      "text": "Imperio persa aqueménida",
+      "correct": false
+    },
+    {
+      "text": "hititas",
+      "correct": false
+    },
+    {
+      "text": "civilización púnica",
+      "correct": false
+    },
+    {
+      "text": "Grecia antigua",
+      "correct": true
+    }
+  ],
+  "explanation": "Atenas clásica se asocia principalmente con Grecia antigua.",
+  "sources": [
+    {
+      "title": "Wikipedia - Atenas clásica",
+      "url": "https://es.wikipedia.org/wiki/Atenas_cl%C3%A1sica"
+    }
+  ],
+  "tags": [
+    "civilizaciones",
+    "grecia-antigua"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001302",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla CLI?",
+  "answers": [
+    {
+      "text": "Read-Only Memory",
+      "correct": false
+    },
+    {
+      "text": "Command Line Interface",
+      "correct": true
+    },
+    {
+      "text": "Hypertext Transfer Protocol",
+      "correct": false
+    },
+    {
+      "text": "Central Processing Unit",
+      "correct": false
+    }
+  ],
+  "explanation": "CLI significa Command Line Interface.",
+  "sources": [
+    {
+      "title": "Wikipedia - CLI",
+      "url": "https://es.wikipedia.org/wiki/CLI"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "cli"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

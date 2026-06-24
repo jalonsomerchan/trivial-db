@@ -1,0 +1,42 @@
+{
+  "id": "q-001813",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "plantas"
+  ],
+  "difficulty": "easy",
+  "question": "En botánica básica, ¿qué tipo de planta es alfalfa?",
+  "answers": [
+    {
+      "text": "gramínea",
+      "correct": false
+    },
+    {
+      "text": "arbusto aromático",
+      "correct": false
+    },
+    {
+      "text": "leguminosa",
+      "correct": true
+    },
+    {
+      "text": "hongo",
+      "correct": false
+    }
+  ],
+  "explanation": "Alfalfa se clasifica habitualmente como leguminosa.",
+  "sources": [
+    {
+      "title": "Wikipedia - alfalfa",
+      "url": "https://es.wikipedia.org/wiki/alfalfa"
+    }
+  ],
+  "tags": [
+    "plantas",
+    "leguminosa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

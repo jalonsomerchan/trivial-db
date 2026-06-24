@@ -1,0 +1,42 @@
+{
+  "id": "q-001514",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "material-deportivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué deporte se asocia principalmente el uso de jabalina?",
+  "answers": [
+    {
+      "text": "atletismo",
+      "correct": true
+    },
+    {
+      "text": "esgrima",
+      "correct": false
+    },
+    {
+      "text": "patinaje",
+      "correct": false
+    },
+    {
+      "text": "natación",
+      "correct": false
+    }
+  ],
+  "explanation": "Jabalina se asocia principalmente con atletismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - jabalina",
+      "url": "https://es.wikipedia.org/wiki/jabalina"
+    }
+  ],
+  "tags": [
+    "material-deportivo",
+    "atletismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

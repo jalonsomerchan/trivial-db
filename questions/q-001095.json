@@ -1,0 +1,42 @@
+{
+  "id": "q-001095",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué tipo de ingrediente es principalmente el zanahoria?",
+  "answers": [
+    {
+      "text": "un pescado",
+      "correct": false
+    },
+    {
+      "text": "una hortaliza",
+      "correct": true
+    },
+    {
+      "text": "una grasa vegetal",
+      "correct": false
+    },
+    {
+      "text": "una salsa",
+      "correct": false
+    }
+  ],
+  "explanation": "El zanahoria se clasifica culinariamente como una hortaliza.",
+  "sources": [
+    {
+      "title": "Wikipedia - zanahoria",
+      "url": "https://es.wikipedia.org/wiki/zanahoria"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "zanahoria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

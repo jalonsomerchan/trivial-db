@@ -1,0 +1,42 @@
+{
+  "id": "q-001714",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué familia instrumental pertenece principalmente el trompa?",
+  "answers": [
+    {
+      "text": "cuerda pulsada",
+      "correct": false
+    },
+    {
+      "text": "viento metal",
+      "correct": true
+    },
+    {
+      "text": "cuerda golpeada",
+      "correct": false
+    },
+    {
+      "text": "electrófono",
+      "correct": false
+    }
+  ],
+  "explanation": "El trompa pertenece principalmente a la familia de viento metal.",
+  "sources": [
+    {
+      "title": "Wikipedia - trompa",
+      "url": "https://es.wikipedia.org/wiki/trompa"
+    }
+  ],
+  "tags": [
+    "instrumentos",
+    "viento-metal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001245",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "medium",
+  "question": "En terminología médica, ¿a qué se refiere el prefijo neumo-?",
+  "answers": [
+    {
+      "text": "las venas",
+      "correct": false
+    },
+    {
+      "text": "los huesos",
+      "correct": false
+    },
+    {
+      "text": "los nervios o el sistema nervioso",
+      "correct": false
+    },
+    {
+      "text": "los pulmones",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo neumo- se usa para hacer referencia a los pulmones.",
+  "sources": [
+    {
+      "title": "Wikipedia - neumo-",
+      "url": "https://es.wikipedia.org/wiki/neumo-"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "neumo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

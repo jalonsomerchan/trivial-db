@@ -1,0 +1,42 @@
+{
+  "id": "q-001453",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-de-tv"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué serie de televisión aparece Ted Mosby?",
+  "answers": [
+    {
+      "text": "The Office",
+      "correct": false
+    },
+    {
+      "text": "Cómo conocí a vuestra madre",
+      "correct": true
+    },
+    {
+      "text": "Seinfeld",
+      "correct": false
+    },
+    {
+      "text": "Perdidos",
+      "correct": false
+    }
+  ],
+  "explanation": "Ted Mosby aparece en la serie Cómo conocí a vuestra madre.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ted Mosby",
+      "url": "https://es.wikipedia.org/wiki/Ted_Mosby"
+    }
+  ],
+  "tags": [
+    "television",
+    "como-conoci-a-vuestra-madre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

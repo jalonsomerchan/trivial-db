@@ -1,0 +1,42 @@
+{
+  "id": "q-001887",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Alicia en el país de las maravillas?",
+  "answers": [
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": false
+    },
+    {
+      "text": "Lewis Carroll",
+      "correct": true
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": false
+    }
+  ],
+  "explanation": "Alicia en el país de las maravillas fue escrita por Lewis Carroll.",
+  "sources": [
+    {
+      "title": "Wikipedia - Alicia en el país de las maravillas",
+      "url": "https://es.wikipedia.org/wiki/Alicia_en_el_pa%C3%ADs_de_las_maravillas"
+    }
+  ],
+  "tags": [
+    "autores",
+    "lewis-carroll"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

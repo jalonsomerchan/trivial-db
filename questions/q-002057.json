@@ -1,0 +1,42 @@
+{
+  "id": "q-002057",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-batallas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año o periodo se sitúa Batalla de Lepanto?",
+  "answers": [
+    {
+      "text": "1815",
+      "correct": false
+    },
+    {
+      "text": "1571",
+      "correct": true
+    },
+    {
+      "text": "1942-1943",
+      "correct": false
+    },
+    {
+      "text": "1954",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de Lepanto se sitúa históricamente en 1571.",
+  "sources": [
+    {
+      "title": "Wikipedia - Batalla de Lepanto",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Lepanto"
+    }
+  ],
+  "tags": [
+    "tratados-batallas",
+    "batalla-de-lepanto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

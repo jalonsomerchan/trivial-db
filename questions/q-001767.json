@@ -1,0 +1,42 @@
+{
+  "id": "q-001767",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "albumes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista o grupo publicó el álbum Hounds of Love?",
+  "answers": [
+    {
+      "text": "Kate Bush",
+      "correct": true
+    },
+    {
+      "text": "Miles Davis",
+      "correct": false
+    },
+    {
+      "text": "Bob Dylan",
+      "correct": false
+    },
+    {
+      "text": "The Strokes",
+      "correct": false
+    }
+  ],
+  "explanation": "Hounds of Love es un álbum publicado por Kate Bush.",
+  "sources": [
+    {
+      "title": "Wikipedia - Hounds of Love",
+      "url": "https://es.wikipedia.org/wiki/Hounds_of_Love"
+    }
+  ],
+  "tags": [
+    "albumes",
+    "kate-bush"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

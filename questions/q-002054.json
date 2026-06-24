@@ -1,0 +1,42 @@
+{
+  "id": "q-002054",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-batallas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año o periodo se sitúa Batalla de Poitiers?",
+  "answers": [
+    {
+      "text": "1978",
+      "correct": false
+    },
+    {
+      "text": "732",
+      "correct": true
+    },
+    {
+      "text": "1954",
+      "correct": false
+    },
+    {
+      "text": "1713",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de Poitiers se sitúa históricamente en 732.",
+  "sources": [
+    {
+      "title": "Wikipedia - Batalla de Poitiers",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Poitiers"
+    }
+  ],
+  "tags": [
+    "tratados-batallas",
+    "batalla-de-poitiers"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

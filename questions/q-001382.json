@@ -1,0 +1,42 @@
+{
+  "id": "q-001382",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película Psicosis?",
+  "answers": [
+    {
+      "text": "Martin Scorsese",
+      "correct": false
+    },
+    {
+      "text": "Alfred Hitchcock",
+      "correct": true
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    },
+    {
+      "text": "Jean-Pierre Jeunet",
+      "correct": false
+    }
+  ],
+  "explanation": "Psicosis fue dirigida por Alfred Hitchcock.",
+  "sources": [
+    {
+      "title": "Wikipedia - Psicosis",
+      "url": "https://es.wikipedia.org/wiki/Psicosis"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfred-hitchcock"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001996",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué civilización o entidad histórica se asocia principalmente Cuzco?",
+  "answers": [
+    {
+      "text": "Sumeria",
+      "correct": false
+    },
+    {
+      "text": "civilización inca",
+      "correct": true
+    },
+    {
+      "text": "Imperio otomano",
+      "correct": false
+    },
+    {
+      "text": "civilización minoica",
+      "correct": false
+    }
+  ],
+  "explanation": "Cuzco se asocia principalmente con civilización inca.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cuzco",
+      "url": "https://es.wikipedia.org/wiki/Cuzco"
+    }
+  ],
+  "tags": [
+    "civilizaciones",
+    "civilizacion-inca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

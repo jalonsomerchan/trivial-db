@@ -1,0 +1,42 @@
+{
+  "id": "q-001484",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte se usa habitualmente el término touchdown?",
+  "answers": [
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "hockey sobre hielo",
+      "correct": false
+    },
+    {
+      "text": "voleibol",
+      "correct": false
+    },
+    {
+      "text": "fútbol americano",
+      "correct": true
+    }
+  ],
+  "explanation": "El término touchdown se usa habitualmente en fútbol americano.",
+  "sources": [
+    {
+      "title": "Wikipedia - touchdown",
+      "url": "https://es.wikipedia.org/wiki/touchdown"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "futbol-americano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

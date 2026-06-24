@@ -1,0 +1,42 @@
+{
+  "id": "q-001797",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "animales"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado pez payaso?",
+  "answers": [
+    {
+      "text": "insecto",
+      "correct": false
+    },
+    {
+      "text": "anfibio",
+      "correct": false
+    },
+    {
+      "text": "pez",
+      "correct": true
+    },
+    {
+      "text": "reptil",
+      "correct": false
+    }
+  ],
+  "explanation": "El pez payaso pertenece al grupo de los pezs o se clasifica como pez.",
+  "sources": [
+    {
+      "title": "Wikipedia - pez payaso",
+      "url": "https://es.wikipedia.org/wiki/pez_payaso"
+    }
+  ],
+  "tags": [
+    "animales",
+    "pez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

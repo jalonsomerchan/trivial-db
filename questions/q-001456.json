@@ -1,0 +1,42 @@
+{
+  "id": "q-001456",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "animacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio se asocia con la película de animación Los increíbles?",
+  "answers": [
+    {
+      "text": "Blue Sky Studios",
+      "correct": false
+    },
+    {
+      "text": "Pixar",
+      "correct": true
+    },
+    {
+      "text": "Warner Animation Group",
+      "correct": false
+    },
+    {
+      "text": "Sony Pictures Animation",
+      "correct": false
+    }
+  ],
+  "explanation": "Los increíbles se asocia con el estudio Pixar.",
+  "sources": [
+    {
+      "title": "Wikipedia - Los increíbles",
+      "url": "https://es.wikipedia.org/wiki/Los_incre%C3%ADbles"
+    }
+  ],
+  "tags": [
+    "animacion",
+    "pixar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001728",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "generos-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué lugar se asocia tradicionalmente el género musical tango?",
+  "answers": [
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Ghana",
+      "correct": false
+    },
+    {
+      "text": "Río de la Plata",
+      "correct": true
+    },
+    {
+      "text": "Asia del Sur",
+      "correct": false
+    }
+  ],
+  "explanation": "El tango se asocia tradicionalmente con Río de la Plata.",
+  "sources": [
+    {
+      "title": "Wikipedia - tango",
+      "url": "https://es.wikipedia.org/wiki/tango"
+    }
+  ],
+  "tags": [
+    "generos-musicales",
+    "rio-de-la-plata"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

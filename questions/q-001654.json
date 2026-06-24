@@ -1,0 +1,42 @@
+{
+  "id": "q-001654",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué arquitecto o equipo diseñó Villa Savoye?",
+  "answers": [
+    {
+      "text": "Le Corbusier",
+      "correct": true
+    },
+    {
+      "text": "Norman Foster",
+      "correct": false
+    },
+    {
+      "text": "Gerrit Rietveld",
+      "correct": false
+    },
+    {
+      "text": "Renzo Piano y Richard Rogers",
+      "correct": false
+    }
+  ],
+  "explanation": "Villa Savoye fue diseñado por Le Corbusier.",
+  "sources": [
+    {
+      "title": "Wikipedia - Villa Savoye",
+      "url": "https://es.wikipedia.org/wiki/Villa_Savoye"
+    }
+  ],
+  "tags": [
+    "arquitectura",
+    "le-corbusier"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

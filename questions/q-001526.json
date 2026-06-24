@@ -1,0 +1,42 @@
+{
+  "id": "q-001526",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "material-deportivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué deporte se asocia principalmente el uso de silla de montar?",
+  "answers": [
+    {
+      "text": "equitación",
+      "correct": true
+    },
+    {
+      "text": "fútbol",
+      "correct": false
+    },
+    {
+      "text": "bádminton",
+      "correct": false
+    },
+    {
+      "text": "entrenamiento",
+      "correct": false
+    }
+  ],
+  "explanation": "Silla de montar se asocia principalmente con equitación.",
+  "sources": [
+    {
+      "title": "Wikipedia - silla de montar",
+      "url": "https://es.wikipedia.org/wiki/silla_de_montar"
+    }
+  ],
+  "tags": [
+    "material-deportivo",
+    "equitacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

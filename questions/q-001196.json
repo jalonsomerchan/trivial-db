@@ -1,0 +1,42 @@
+{
+  "id": "q-001196",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué sistema del cuerpo humano pertenece principalmente páncreas?",
+  "answers": [
+    {
+      "text": "sistema cardiovascular",
+      "correct": false
+    },
+    {
+      "text": "sistema tegumentario",
+      "correct": false
+    },
+    {
+      "text": "sistema endocrino",
+      "correct": false
+    },
+    {
+      "text": "sistema digestivo",
+      "correct": true
+    }
+  ],
+  "explanation": "Páncreas forma parte principalmente del sistema digestivo.",
+  "sources": [
+    {
+      "title": "Wikipedia - páncreas",
+      "url": "https://es.wikipedia.org/wiki/p%C3%A1ncreas"
+    }
+  ],
+  "tags": [
+    "cuerpo-humano",
+    "sistema-digestivo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

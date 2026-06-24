@@ -1,0 +1,42 @@
+{
+  "id": "q-001836",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia"
+  ],
+  "difficulty": "medium",
+  "question": "En geología, ¿cómo se clasifica principalmente gneis?",
+  "answers": [
+    {
+      "text": "fósil",
+      "correct": false
+    },
+    {
+      "text": "roca metamórfica",
+      "correct": true
+    },
+    {
+      "text": "mineral",
+      "correct": false
+    },
+    {
+      "text": "roca ígnea",
+      "correct": false
+    }
+  ],
+  "explanation": "Gneis se clasifica principalmente como roca metamórfica.",
+  "sources": [
+    {
+      "title": "Wikipedia - gneis",
+      "url": "https://es.wikipedia.org/wiki/gneis"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "roca-metamorfica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

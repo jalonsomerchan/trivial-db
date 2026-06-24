@@ -1,0 +1,42 @@
+{
+  "id": "q-002046",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-batallas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año o periodo se sitúa Tratado de París que reconoció la independencia de EE. UU.?",
+  "answers": [
+    {
+      "text": "1783",
+      "correct": true
+    },
+    {
+      "text": "490 a. C.",
+      "correct": false
+    },
+    {
+      "text": "1812",
+      "correct": false
+    },
+    {
+      "text": "1948",
+      "correct": false
+    }
+  ],
+  "explanation": "Tratado de París que reconoció la independencia de EE. UU. se sitúa históricamente en 1783.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tratado de París que reconoció la independencia de EE. UU.",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Par%C3%ADs_que_reconoci%C3%B3_la_independencia_de_EE._UU."
+    }
+  ],
+  "tags": [
+    "tratados-batallas",
+    "tratado-de-paris-que-reconocio-la-independencia-de-ee-uu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

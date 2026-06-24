@@ -1,0 +1,42 @@
+{
+  "id": "q-001112",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato ceviche?",
+  "answers": [
+    {
+      "text": "Perú",
+      "correct": true
+    },
+    {
+      "text": "Grecia",
+      "correct": false
+    },
+    {
+      "text": "Etiopía",
+      "correct": false
+    },
+    {
+      "text": "Canadá",
+      "correct": false
+    }
+  ],
+  "explanation": "Ceviche es un plato asociado tradicionalmente con Perú.",
+  "sources": [
+    {
+      "title": "Wikipedia - ceviche",
+      "url": "https://es.wikipedia.org/wiki/ceviche"
+    }
+  ],
+  "tags": [
+    "platos-del-mundo",
+    "peru"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001686",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó El barbero de Sevilla?",
+  "answers": [
+    {
+      "text": "Giuseppe Verdi",
+      "correct": false
+    },
+    {
+      "text": "Frédéric Chopin",
+      "correct": false
+    },
+    {
+      "text": "Gustav Mahler",
+      "correct": false
+    },
+    {
+      "text": "Gioachino Rossini",
+      "correct": true
+    }
+  ],
+  "explanation": "El barbero de Sevilla fue compuesta por Gioachino Rossini.",
+  "sources": [
+    {
+      "title": "Wikipedia - El barbero de Sevilla",
+      "url": "https://es.wikipedia.org/wiki/El_barbero_de_Sevilla"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "gioachino-rossini"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

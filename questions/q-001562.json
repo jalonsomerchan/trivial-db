@@ -1,0 +1,42 @@
+{
+  "id": "q-001562",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "posiciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte existe la posición de guardameta?",
+  "answers": [
+    {
+      "text": "baloncesto",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": false
+    },
+    {
+      "text": "hockey sobre hielo",
+      "correct": false
+    },
+    {
+      "text": "balonmano",
+      "correct": true
+    }
+  ],
+  "explanation": "La posición de guardameta existe en balonmano.",
+  "sources": [
+    {
+      "title": "Wikipedia - guardameta",
+      "url": "https://es.wikipedia.org/wiki/guardameta"
+    }
+  ],
+  "tags": [
+    "posiciones",
+    "balonmano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001907",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Como agua para chocolate?",
+  "answers": [
+    {
+      "text": "Laura Esquivel",
+      "correct": true
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    },
+    {
+      "text": "León Tolstói",
+      "correct": false
+    },
+    {
+      "text": "Lewis Carroll",
+      "correct": false
+    }
+  ],
+  "explanation": "Como agua para chocolate fue escrita por Laura Esquivel.",
+  "sources": [
+    {
+      "title": "Wikipedia - Como agua para chocolate",
+      "url": "https://es.wikipedia.org/wiki/Como_agua_para_chocolate"
+    }
+  ],
+  "tags": [
+    "autores",
+    "laura-esquivel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

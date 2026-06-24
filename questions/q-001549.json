@@ -1,0 +1,42 @@
+{
+  "id": "q-001549",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona la competición Copa América?",
+  "answers": [
+    {
+      "text": "fútbol",
+      "correct": true
+    },
+    {
+      "text": "cricket",
+      "correct": false
+    },
+    {
+      "text": "natación",
+      "correct": false
+    },
+    {
+      "text": "rally raid",
+      "correct": false
+    }
+  ],
+  "explanation": "Copa América es una competición relacionada con fútbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - Copa América",
+      "url": "https://es.wikipedia.org/wiki/Copa_Am%C3%A9rica"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "futbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

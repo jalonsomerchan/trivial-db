@@ -1,0 +1,42 @@
+{
+  "id": "q-001741",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "generos-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué lugar se asocia tradicionalmente el género musical cumbia?",
+  "answers": [
+    {
+      "text": "Andalucía",
+      "correct": false
+    },
+    {
+      "text": "Colombia",
+      "correct": true
+    },
+    {
+      "text": "Cuba",
+      "correct": false
+    },
+    {
+      "text": "Ghana",
+      "correct": false
+    }
+  ],
+  "explanation": "El cumbia se asocia tradicionalmente con Colombia.",
+  "sources": [
+    {
+      "title": "Wikipedia - cumbia",
+      "url": "https://es.wikipedia.org/wiki/cumbia"
+    }
+  ],
+  "tags": [
+    "generos-musicales",
+    "colombia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

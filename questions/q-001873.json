@@ -1,0 +1,42 @@
+{
+  "id": "q-001873",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a karst?",
+  "answers": [
+    {
+      "text": "relieve por disolución de rocas solubles",
+      "correct": true
+    },
+    {
+      "text": "bosque con árboles que pierden la hoja",
+      "correct": false
+    },
+    {
+      "text": "ecosistema altoandino",
+      "correct": false
+    },
+    {
+      "text": "pastizal semiárido",
+      "correct": false
+    }
+  ],
+  "explanation": "Karst se describe como relieve por disolución de rocas solubles.",
+  "sources": [
+    {
+      "title": "Wikipedia - karst",
+      "url": "https://es.wikipedia.org/wiki/karst"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "karst"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

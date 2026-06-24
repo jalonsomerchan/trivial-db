@@ -1,0 +1,42 @@
+{
+  "id": "q-001525",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "material-deportivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué deporte se asocia principalmente el uso de casco integral?",
+  "answers": [
+    {
+      "text": "tiro con arco",
+      "correct": false
+    },
+    {
+      "text": "equitación",
+      "correct": false
+    },
+    {
+      "text": "automovilismo",
+      "correct": true
+    },
+    {
+      "text": "fútbol",
+      "correct": false
+    }
+  ],
+  "explanation": "Casco integral se asocia principalmente con automovilismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - casco integral",
+      "url": "https://es.wikipedia.org/wiki/casco_integral"
+    }
+  ],
+  "tags": [
+    "material-deportivo",
+    "automovilismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

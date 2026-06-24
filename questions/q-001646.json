@@ -1,0 +1,42 @@
+{
+  "id": "q-001646",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Museo Picasso Málaga?",
+  "answers": [
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Bilbao",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Málaga",
+      "correct": true
+    }
+  ],
+  "explanation": "El Museo Picasso Málaga se encuentra en Málaga.",
+  "sources": [
+    {
+      "title": "Wikipedia - Museo Picasso Málaga",
+      "url": "https://es.wikipedia.org/wiki/Museo_Picasso_M%C3%A1laga"
+    }
+  ],
+  "tags": [
+    "museos",
+    "malaga"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

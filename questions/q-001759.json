@@ -1,0 +1,42 @@
+{
+  "id": "q-001759",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "albumes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista o grupo publicó el álbum Hotel California?",
+  "answers": [
+    {
+      "text": "Eagles",
+      "correct": true
+    },
+    {
+      "text": "Madonna",
+      "correct": false
+    },
+    {
+      "text": "Sex Pistols",
+      "correct": false
+    },
+    {
+      "text": "Radiohead",
+      "correct": false
+    }
+  ],
+  "explanation": "Hotel California es un álbum publicado por Eagles.",
+  "sources": [
+    {
+      "title": "Wikipedia - Hotel California",
+      "url": "https://es.wikipedia.org/wiki/Hotel_California"
+    }
+  ],
+  "tags": [
+    "albumes",
+    "eagles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

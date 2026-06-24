@@ -1,0 +1,42 @@
+{
+  "id": "q-001417",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "personajes-de-cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué película o saga aparece el personaje Doc Brown?",
+  "answers": [
+    {
+      "text": "Regreso al futuro",
+      "correct": true
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "El padrino",
+      "correct": false
+    },
+    {
+      "text": "Scarface",
+      "correct": false
+    }
+  ],
+  "explanation": "Doc Brown es un personaje de Regreso al futuro.",
+  "sources": [
+    {
+      "title": "Wikipedia - Doc Brown",
+      "url": "https://es.wikipedia.org/wiki/Doc_Brown"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "regreso-al-futuro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001721",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué familia instrumental pertenece principalmente el órgano?",
+  "answers": [
+    {
+      "text": "aerófono de teclado",
+      "correct": false
+    },
+    {
+      "text": "voz",
+      "correct": false
+    },
+    {
+      "text": "viento madera",
+      "correct": false
+    },
+    {
+      "text": "teclado",
+      "correct": true
+    }
+  ],
+  "explanation": "El órgano pertenece principalmente a la familia de teclado.",
+  "sources": [
+    {
+      "title": "Wikipedia - órgano",
+      "url": "https://es.wikipedia.org/wiki/%C3%B3rgano"
+    }
+  ],
+  "tags": [
+    "instrumentos",
+    "teclado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001392",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película Interstellar?",
+  "answers": [
+    {
+      "text": "Sofia Coppola",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": true
+    },
+    {
+      "text": "Peter Jackson",
+      "correct": false
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    }
+  ],
+  "explanation": "Interstellar fue dirigida por Christopher Nolan.",
+  "sources": [
+    {
+      "title": "Wikipedia - Interstellar",
+      "url": "https://es.wikipedia.org/wiki/Interstellar"
+    }
+  ],
+  "tags": [
+    "cine",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

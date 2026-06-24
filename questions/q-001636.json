@@ -1,0 +1,42 @@
+{
+  "id": "q-001636",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Rijksmuseum?",
+  "answers": [
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Ámsterdam",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "El Rijksmuseum se encuentra en Ámsterdam.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rijksmuseum",
+      "url": "https://es.wikipedia.org/wiki/Rijksmuseum"
+    }
+  ],
+  "tags": [
+    "museos",
+    "amsterdam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

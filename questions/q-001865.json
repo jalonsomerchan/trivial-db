@@ -1,0 +1,42 @@
+{
+  "id": "q-001865",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a chaparral?",
+  "answers": [
+    {
+      "text": "humedal costero",
+      "correct": false
+    },
+    {
+      "text": "bosque húmedo de montaña",
+      "correct": false
+    },
+    {
+      "text": "matorral mediterráneo",
+      "correct": true
+    },
+    {
+      "text": "curso fluvial con curvas pronunciadas",
+      "correct": false
+    }
+  ],
+  "explanation": "Chaparral se describe como matorral mediterráneo.",
+  "sources": [
+    {
+      "title": "Wikipedia - chaparral",
+      "url": "https://es.wikipedia.org/wiki/chaparral"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "chaparral"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

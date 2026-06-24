@@ -1,0 +1,42 @@
+{
+  "id": "q-001155",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en retirar agua de un alimento?",
+  "answers": [
+    {
+      "text": "saltear",
+      "correct": false
+    },
+    {
+      "text": "deshidratar",
+      "correct": true
+    },
+    {
+      "text": "rehogar",
+      "correct": false
+    },
+    {
+      "text": "baño maría",
+      "correct": false
+    }
+  ],
+  "explanation": "Deshidratar consiste en retirar agua de un alimento.",
+  "sources": [
+    {
+      "title": "Wikipedia - deshidratar",
+      "url": "https://es.wikipedia.org/wiki/deshidratar"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "deshidratar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

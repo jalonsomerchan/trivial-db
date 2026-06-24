@@ -1,0 +1,42 @@
+{
+  "id": "q-001546",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona la competición MotoGP?",
+  "answers": [
+    {
+      "text": "rugby",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "motociclismo",
+      "correct": true
+    },
+    {
+      "text": "boxeo",
+      "correct": false
+    }
+  ],
+  "explanation": "MotoGP es una competición relacionada con motociclismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - MotoGP",
+      "url": "https://es.wikipedia.org/wiki/MotoGP"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "motociclismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

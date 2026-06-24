@@ -1,0 +1,42 @@
+{
+  "id": "q-001704",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué familia instrumental pertenece principalmente el guitarra clásica?",
+  "answers": [
+    {
+      "text": "cuerda frotada",
+      "correct": false
+    },
+    {
+      "text": "cuerda pulsada",
+      "correct": true
+    },
+    {
+      "text": "viento madera",
+      "correct": false
+    },
+    {
+      "text": "cuerda golpeada",
+      "correct": false
+    }
+  ],
+  "explanation": "El guitarra clásica pertenece principalmente a la familia de cuerda pulsada.",
+  "sources": [
+    {
+      "title": "Wikipedia - guitarra clásica",
+      "url": "https://es.wikipedia.org/wiki/guitarra_cl%C3%A1sica"
+    }
+  ],
+  "tags": [
+    "instrumentos",
+    "cuerda-pulsada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001855",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a arrecife de coral?",
+  "answers": [
+    {
+      "text": "humedal costero",
+      "correct": false
+    },
+    {
+      "text": "bosque boreal de coníferas",
+      "correct": false
+    },
+    {
+      "text": "ecosistema marino tropical",
+      "correct": true
+    },
+    {
+      "text": "bosque con árboles que pierden la hoja",
+      "correct": false
+    }
+  ],
+  "explanation": "Arrecife de coral se describe como ecosistema marino tropical.",
+  "sources": [
+    {
+      "title": "Wikipedia - arrecife de coral",
+      "url": "https://es.wikipedia.org/wiki/arrecife_de_coral"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "arrecife-de-coral"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

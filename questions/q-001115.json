@@ -1,0 +1,42 @@
+{
+  "id": "q-001115",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato feijoada?",
+  "answers": [
+    {
+      "text": "Venezuela",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": true
+    },
+    {
+      "text": "Corea",
+      "correct": false
+    }
+  ],
+  "explanation": "Feijoada es un plato asociado tradicionalmente con Brasil.",
+  "sources": [
+    {
+      "title": "Wikipedia - feijoada",
+      "url": "https://es.wikipedia.org/wiki/feijoada"
+    }
+  ],
+  "tags": [
+    "platos-del-mundo",
+    "brasil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

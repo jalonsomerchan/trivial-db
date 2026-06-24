@@ -1,0 +1,42 @@
+{
+  "id": "q-001176",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-e-ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente o base es característica del salsa carbonara?",
+  "answers": [
+    {
+      "text": "huevo y queso",
+      "correct": true
+    },
+    {
+      "text": "verduras",
+      "correct": false
+    },
+    {
+      "text": "leche y azúcar",
+      "correct": false
+    },
+    {
+      "text": "yogur",
+      "correct": false
+    }
+  ],
+  "explanation": "El salsa carbonara se caracteriza por usar huevo y queso como ingrediente o base principal.",
+  "sources": [
+    {
+      "title": "Wikipedia - salsa carbonara",
+      "url": "https://es.wikipedia.org/wiki/salsa_carbonara"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "salsa-carbonara"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

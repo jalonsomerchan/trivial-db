@@ -1,0 +1,42 @@
+{
+  "id": "q-001751",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "albumes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista o grupo publicó el álbum Thriller?",
+  "answers": [
+    {
+      "text": "Michael Jackson",
+      "correct": true
+    },
+    {
+      "text": "Björk",
+      "correct": false
+    },
+    {
+      "text": "Bob Dylan",
+      "correct": false
+    },
+    {
+      "text": "Radiohead",
+      "correct": false
+    }
+  ],
+  "explanation": "Thriller es un álbum publicado por Michael Jackson.",
+  "sources": [
+    {
+      "title": "Wikipedia - Thriller",
+      "url": "https://es.wikipedia.org/wiki/Thriller"
+    }
+  ],
+  "tags": [
+    "albumes",
+    "michael-jackson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

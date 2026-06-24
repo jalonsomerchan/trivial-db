@@ -1,0 +1,42 @@
+{
+  "id": "q-002049",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-batallas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año o periodo se sitúa Tratado de Maastricht?",
+  "answers": [
+    {
+      "text": "1919",
+      "correct": false
+    },
+    {
+      "text": "490 a. C.",
+      "correct": false
+    },
+    {
+      "text": "1992",
+      "correct": true
+    },
+    {
+      "text": "1936",
+      "correct": false
+    }
+  ],
+  "explanation": "Tratado de Maastricht se sitúa históricamente en 1992.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tratado de Maastricht",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Maastricht"
+    }
+  ],
+  "tags": [
+    "tratados-batallas",
+    "tratado-de-maastricht"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

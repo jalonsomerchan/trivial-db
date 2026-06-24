@@ -1,0 +1,42 @@
+{
+  "id": "q-001450",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-de-tv"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué serie de televisión aparece Buffy Summers?",
+  "answers": [
+    {
+      "text": "Buffy, cazavampiros",
+      "correct": true
+    },
+    {
+      "text": "The Office",
+      "correct": false
+    },
+    {
+      "text": "Parks and Recreation",
+      "correct": false
+    },
+    {
+      "text": "Friends",
+      "correct": false
+    }
+  ],
+  "explanation": "Buffy Summers aparece en la serie Buffy, cazavampiros.",
+  "sources": [
+    {
+      "title": "Wikipedia - Buffy Summers",
+      "url": "https://es.wikipedia.org/wiki/Buffy_Summers"
+    }
+  ],
+  "tags": [
+    "television",
+    "buffy-cazavampiros"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

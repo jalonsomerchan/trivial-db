@@ -1,0 +1,42 @@
+{
+  "id": "q-001523",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "material-deportivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué deporte se asocia principalmente el uso de patines en línea?",
+  "answers": [
+    {
+      "text": "automovilismo",
+      "correct": false
+    },
+    {
+      "text": "surf",
+      "correct": false
+    },
+    {
+      "text": "esquí",
+      "correct": false
+    },
+    {
+      "text": "patinaje",
+      "correct": true
+    }
+  ],
+  "explanation": "Patines en línea se asocia principalmente con patinaje.",
+  "sources": [
+    {
+      "title": "Wikipedia - patines en línea",
+      "url": "https://es.wikipedia.org/wiki/patines_en_l%C3%ADnea"
+    }
+  ],
+  "tags": [
+    "material-deportivo",
+    "patinaje"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

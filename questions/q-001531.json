@@ -1,0 +1,42 @@
+{
+  "id": "q-001531",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona la competición Giro de Italia?",
+  "answers": [
+    {
+      "text": "boxeo",
+      "correct": false
+    },
+    {
+      "text": "rally raid",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": false
+    },
+    {
+      "text": "ciclismo",
+      "correct": true
+    }
+  ],
+  "explanation": "Giro de Italia es una competición relacionada con ciclismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Giro de Italia",
+      "url": "https://es.wikipedia.org/wiki/Giro_de_Italia"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "ciclismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

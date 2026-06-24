@@ -1,0 +1,42 @@
+{
+  "id": "q-001578",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista pintó La última cena?",
+  "answers": [
+    {
+      "text": "Gustav Klimt",
+      "correct": false
+    },
+    {
+      "text": "Pablo Picasso",
+      "correct": false
+    },
+    {
+      "text": "Kazimir Malévich",
+      "correct": false
+    },
+    {
+      "text": "Leonardo da Vinci",
+      "correct": true
+    }
+  ],
+  "explanation": "La última cena es una obra de Leonardo da Vinci.",
+  "sources": [
+    {
+      "title": "Wikipedia - La última cena",
+      "url": "https://es.wikipedia.org/wiki/La_%C3%BAltima_cena"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "leonardo-da-vinci"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001435",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-de-tv"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué serie de televisión aparece Michael Scott?",
+  "answers": [
+    {
+      "text": "Star Trek: la nueva generación",
+      "correct": false
+    },
+    {
+      "text": "Cómo conocí a vuestra madre",
+      "correct": false
+    },
+    {
+      "text": "The Office",
+      "correct": true
+    },
+    {
+      "text": "The Big Bang Theory",
+      "correct": false
+    }
+  ],
+  "explanation": "Michael Scott aparece en la serie The Office.",
+  "sources": [
+    {
+      "title": "Wikipedia - Michael Scott",
+      "url": "https://es.wikipedia.org/wiki/Michael_Scott"
+    }
+  ],
+  "tags": [
+    "television",
+    "the-office"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

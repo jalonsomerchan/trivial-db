@@ -1,0 +1,42 @@
+{
+  "id": "q-001566",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "posiciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte existe la posición de shortstop?",
+  "answers": [
+    {
+      "text": "natación",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": true
+    },
+    {
+      "text": "fútbol",
+      "correct": false
+    },
+    {
+      "text": "voleibol",
+      "correct": false
+    }
+  ],
+  "explanation": "La posición de shortstop existe en béisbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - shortstop",
+      "url": "https://es.wikipedia.org/wiki/shortstop"
+    }
+  ],
+  "tags": [
+    "posiciones",
+    "beisbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

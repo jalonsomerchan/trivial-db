@@ -1,0 +1,42 @@
+{
+  "id": "q-001276",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué estructura del cuerpo humano se encarga principalmente de regular la temperatura corporal mediante sudor?",
+  "answers": [
+    {
+      "text": "glóbulos blancos",
+      "correct": false
+    },
+    {
+      "text": "alvéolos",
+      "correct": false
+    },
+    {
+      "text": "cerebelo",
+      "correct": false
+    },
+    {
+      "text": "piel",
+      "correct": true
+    }
+  ],
+  "explanation": "Piel se encarga principalmente de regular la temperatura corporal mediante sudor.",
+  "sources": [
+    {
+      "title": "Wikipedia - piel",
+      "url": "https://es.wikipedia.org/wiki/piel"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "piel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

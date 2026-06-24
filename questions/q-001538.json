@@ -1,0 +1,42 @@
+{
+  "id": "q-001538",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona la competición Ryder Cup?",
+  "answers": [
+    {
+      "text": "automovilismo",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": true
+    },
+    {
+      "text": "rally raid",
+      "correct": false
+    },
+    {
+      "text": "rugby",
+      "correct": false
+    }
+  ],
+  "explanation": "Ryder Cup es una competición relacionada con golf.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ryder Cup",
+      "url": "https://es.wikipedia.org/wiki/Ryder_Cup"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "golf"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

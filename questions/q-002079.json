@@ -1,0 +1,42 @@
+{
+  "id": "q-002079",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas-historicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año comenzó la Guerra de los Treinta Años?",
+  "answers": [
+    {
+      "text": "1989",
+      "correct": false
+    },
+    {
+      "text": "800",
+      "correct": false
+    },
+    {
+      "text": "1618",
+      "correct": true
+    },
+    {
+      "text": "1936",
+      "correct": false
+    }
+  ],
+  "explanation": "La Guerra de los Treinta Años comenzó en 1618.",
+  "sources": [
+    {
+      "title": "Wikipedia - Guerra de los Treinta Años",
+      "url": "https://es.wikipedia.org/wiki/Guerra_de_los_Treinta_A%C3%B1os"
+    }
+  ],
+  "tags": [
+    "fechas-historicas",
+    "guerra-de-los-treinta-anos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

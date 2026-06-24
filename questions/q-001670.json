@@ -1,0 +1,42 @@
+{
+  "id": "q-001670",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué arquitecto o equipo diseñó Casa Schröder?",
+  "answers": [
+    {
+      "text": "Renzo Piano y Richard Rogers",
+      "correct": false
+    },
+    {
+      "text": "Ludwig Mies van der Rohe",
+      "correct": false
+    },
+    {
+      "text": "Antoni Gaudí",
+      "correct": false
+    },
+    {
+      "text": "Gerrit Rietveld",
+      "correct": true
+    }
+  ],
+  "explanation": "Casa Schröder fue diseñado por Gerrit Rietveld.",
+  "sources": [
+    {
+      "title": "Wikipedia - Casa Schröder",
+      "url": "https://es.wikipedia.org/wiki/Casa_Schr%C3%B6der"
+    }
+  ],
+  "tags": [
+    "arquitectura",
+    "gerrit-rietveld"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

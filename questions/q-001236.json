@@ -1,0 +1,42 @@
+{
+  "id": "q-001236",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "medium",
+  "question": "En terminología médica, ¿a qué se refiere el prefijo gastro-?",
+  "answers": [
+    {
+      "text": "el riñón",
+      "correct": false
+    },
+    {
+      "text": "las arterias",
+      "correct": false
+    },
+    {
+      "text": "el estómago",
+      "correct": true
+    },
+    {
+      "text": "la mente",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo gastro- se usa para hacer referencia a el estómago.",
+  "sources": [
+    {
+      "title": "Wikipedia - gastro-",
+      "url": "https://es.wikipedia.org/wiki/gastro-"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "gastro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

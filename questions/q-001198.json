@@ -1,0 +1,42 @@
+{
+  "id": "q-001198",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué sistema del cuerpo humano pertenece principalmente médula espinal?",
+  "answers": [
+    {
+      "text": "sistema digestivo",
+      "correct": false
+    },
+    {
+      "text": "sistema nervioso",
+      "correct": true
+    },
+    {
+      "text": "sistema esquelético",
+      "correct": false
+    },
+    {
+      "text": "sistema tegumentario",
+      "correct": false
+    }
+  ],
+  "explanation": "Médula espinal forma parte principalmente del sistema nervioso.",
+  "sources": [
+    {
+      "title": "Wikipedia - médula espinal",
+      "url": "https://es.wikipedia.org/wiki/m%C3%A9dula_espinal"
+    }
+  ],
+  "tags": [
+    "cuerpo-humano",
+    "sistema-nervioso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

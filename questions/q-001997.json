@@ -1,0 +1,42 @@
+{
+  "id": "q-001997",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué civilización o entidad histórica se asocia principalmente Menfis?",
+  "answers": [
+    {
+      "text": "civilización micénica",
+      "correct": false
+    },
+    {
+      "text": "China Shang",
+      "correct": false
+    },
+    {
+      "text": "Imperio otomano",
+      "correct": false
+    },
+    {
+      "text": "Antiguo Egipto",
+      "correct": true
+    }
+  ],
+  "explanation": "Menfis se asocia principalmente con Antiguo Egipto.",
+  "sources": [
+    {
+      "title": "Wikipedia - Menfis",
+      "url": "https://es.wikipedia.org/wiki/Menfis"
+    }
+  ],
+  "tags": [
+    "civilizaciones",
+    "antiguo-egipto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

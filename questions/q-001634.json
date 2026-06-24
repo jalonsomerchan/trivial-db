@@ -1,0 +1,42 @@
+{
+  "id": "q-001634",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Tate Modern?",
+  "answers": [
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": true
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    }
+  ],
+  "explanation": "El Tate Modern se encuentra en Londres.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tate Modern",
+      "url": "https://es.wikipedia.org/wiki/Tate_Modern"
+    }
+  ],
+  "tags": [
+    "museos",
+    "londres"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

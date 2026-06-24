@@ -1,0 +1,42 @@
+{
+  "id": "q-001664",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué arquitecto o equipo diseñó Heydar Aliyev Center?",
+  "answers": [
+    {
+      "text": "Antoni Gaudí",
+      "correct": false
+    },
+    {
+      "text": "Norman Foster",
+      "correct": false
+    },
+    {
+      "text": "Zaha Hadid",
+      "correct": true
+    },
+    {
+      "text": "Frank Gehry",
+      "correct": false
+    }
+  ],
+  "explanation": "Heydar Aliyev Center fue diseñado por Zaha Hadid.",
+  "sources": [
+    {
+      "title": "Wikipedia - Heydar Aliyev Center",
+      "url": "https://es.wikipedia.org/wiki/Heydar_Aliyev_Center"
+    }
+  ],
+  "tags": [
+    "arquitectura",
+    "zaha-hadid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

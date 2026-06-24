@@ -1,0 +1,42 @@
+{
+  "id": "q-002050",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-batallas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año o periodo se sitúa Batalla de Maratón?",
+  "answers": [
+    {
+      "text": "1648",
+      "correct": false
+    },
+    {
+      "text": "490 a. C.",
+      "correct": true
+    },
+    {
+      "text": "1555",
+      "correct": false
+    },
+    {
+      "text": "1942-1943",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de Maratón se sitúa históricamente en 490 a. C..",
+  "sources": [
+    {
+      "title": "Wikipedia - Batalla de Maratón",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Marat%C3%B3n"
+    }
+  ],
+  "tags": [
+    "tratados-batallas",
+    "batalla-de-maraton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

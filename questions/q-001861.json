@@ -1,0 +1,42 @@
+{
+  "id": "q-001861",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a bosque mediterráneo?",
+  "answers": [
+    {
+      "text": "relieve por disolución de rocas solubles",
+      "correct": false
+    },
+    {
+      "text": "ecosistema de veranos secos e inviernos suaves",
+      "correct": true
+    },
+    {
+      "text": "desembocadura influida por mareas",
+      "correct": false
+    },
+    {
+      "text": "cuerpo de agua salina interior",
+      "correct": false
+    }
+  ],
+  "explanation": "Bosque mediterráneo se describe como ecosistema de veranos secos e inviernos suaves.",
+  "sources": [
+    {
+      "title": "Wikipedia - bosque mediterráneo",
+      "url": "https://es.wikipedia.org/wiki/bosque_mediterr%C3%A1neo"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "bosque-mediterraneo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

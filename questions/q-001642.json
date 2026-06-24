@@ -1,0 +1,42 @@
+{
+  "id": "q-001642",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Kunsthistorisches Museum?",
+  "answers": [
+    {
+      "text": "Viena",
+      "correct": true
+    },
+    {
+      "text": "Barcelona",
+      "correct": false
+    },
+    {
+      "text": "Bruselas",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "El Kunsthistorisches Museum se encuentra en Viena.",
+  "sources": [
+    {
+      "title": "Wikipedia - Kunsthistorisches Museum",
+      "url": "https://es.wikipedia.org/wiki/Kunsthistorisches_Museum"
+    }
+  ],
+  "tags": [
+    "museos",
+    "viena"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

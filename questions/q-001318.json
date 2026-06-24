@@ -1,0 +1,42 @@
+{
+  "id": "q-001318",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué uso se asocia especialmente el lenguaje o tecnología Go?",
+  "answers": [
+    {
+      "text": "programación cercana al hardware",
+      "correct": false
+    },
+    {
+      "text": "aplicaciones históricas de Apple",
+      "correct": false
+    },
+    {
+      "text": "desarrollo web y scripting",
+      "correct": false
+    },
+    {
+      "text": "servicios de red y herramientas concurrentes",
+      "correct": true
+    }
+  ],
+  "explanation": "Go se asocia especialmente con servicios de red y herramientas concurrentes.",
+  "sources": [
+    {
+      "title": "Wikipedia - Go",
+      "url": "https://es.wikipedia.org/wiki/Go"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "go"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

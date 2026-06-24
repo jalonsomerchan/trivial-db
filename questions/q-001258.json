@@ -1,0 +1,42 @@
+{
+  "id": "q-001258",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué estructura del cuerpo humano se encarga principalmente de filtrar la sangre para formar orina?",
+  "answers": [
+    {
+      "text": "corazón",
+      "correct": false
+    },
+    {
+      "text": "vejiga",
+      "correct": false
+    },
+    {
+      "text": "retina",
+      "correct": false
+    },
+    {
+      "text": "riñones",
+      "correct": true
+    }
+  ],
+  "explanation": "Riñones se encarga principalmente de filtrar la sangre para formar orina.",
+  "sources": [
+    {
+      "title": "Wikipedia - riñones",
+      "url": "https://es.wikipedia.org/wiki/ri%C3%B1ones"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "rinones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

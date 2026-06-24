@@ -1,0 +1,42 @@
+{
+  "id": "q-001827",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia"
+  ],
+  "difficulty": "medium",
+  "question": "En geología, ¿cómo se clasifica principalmente pumita?",
+  "answers": [
+    {
+      "text": "roca metamórfica",
+      "correct": false
+    },
+    {
+      "text": "forma de relieve glaciar",
+      "correct": false
+    },
+    {
+      "text": "roca ígnea",
+      "correct": true
+    },
+    {
+      "text": "roca sedimentaria",
+      "correct": false
+    }
+  ],
+  "explanation": "Pumita se clasifica principalmente como roca ígnea.",
+  "sources": [
+    {
+      "title": "Wikipedia - pumita",
+      "url": "https://es.wikipedia.org/wiki/pumita"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "roca-ignea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001502",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte se usa habitualmente el término hat-trick?",
+  "answers": [
+    {
+      "text": "voleibol",
+      "correct": false
+    },
+    {
+      "text": "baloncesto",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": false
+    },
+    {
+      "text": "fútbol",
+      "correct": true
+    }
+  ],
+  "explanation": "El término hat-trick se usa habitualmente en fútbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - hat-trick",
+      "url": "https://es.wikipedia.org/wiki/hat-trick"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "futbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

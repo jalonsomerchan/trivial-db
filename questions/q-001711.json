@@ -1,0 +1,42 @@
+{
+  "id": "q-001711",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué familia instrumental pertenece principalmente el saxofón?",
+  "answers": [
+    {
+      "text": "cuerda golpeada",
+      "correct": false
+    },
+    {
+      "text": "viento madera",
+      "correct": true
+    },
+    {
+      "text": "cuerda frotada",
+      "correct": false
+    },
+    {
+      "text": "cuerda pulsada",
+      "correct": false
+    }
+  ],
+  "explanation": "El saxofón pertenece principalmente a la familia de viento madera.",
+  "sources": [
+    {
+      "title": "Wikipedia - saxofón",
+      "url": "https://es.wikipedia.org/wiki/saxof%C3%B3n"
+    }
+  ],
+  "tags": [
+    "instrumentos",
+    "viento-madera"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

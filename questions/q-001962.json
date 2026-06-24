@@ -1,0 +1,42 @@
+{
+  "id": "q-001962",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género o forma literaria se define como relato tradicional con base histórica o fantástica?",
+  "answers": [
+    {
+      "text": "relato extremadamente breve",
+      "correct": false
+    },
+    {
+      "text": "narración protagonizada por un pícaro",
+      "correct": false
+    },
+    {
+      "text": "leyenda",
+      "correct": true
+    },
+    {
+      "text": "ficción criminal de tono crítico",
+      "correct": false
+    }
+  ],
+  "explanation": "Leyenda se define como relato tradicional con base histórica o fantástica.",
+  "sources": [
+    {
+      "title": "Wikipedia - leyenda",
+      "url": "https://es.wikipedia.org/wiki/leyenda"
+    }
+  ],
+  "tags": [
+    "generos-literarios",
+    "leyenda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

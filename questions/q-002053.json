@@ -1,0 +1,42 @@
+{
+  "id": "q-002053",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-batallas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año o periodo se sitúa Batalla de Zama?",
+  "answers": [
+    {
+      "text": "1942-1943",
+      "correct": false
+    },
+    {
+      "text": "1968",
+      "correct": false
+    },
+    {
+      "text": "1494",
+      "correct": false
+    },
+    {
+      "text": "202 a. C.",
+      "correct": true
+    }
+  ],
+  "explanation": "Batalla de Zama se sitúa históricamente en 202 a. C..",
+  "sources": [
+    {
+      "title": "Wikipedia - Batalla de Zama",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Zama"
+    }
+  ],
+  "tags": [
+    "tratados-batallas",
+    "batalla-de-zama"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

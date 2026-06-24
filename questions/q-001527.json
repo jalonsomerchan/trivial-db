@@ -1,0 +1,42 @@
+{
+  "id": "q-001527",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "material-deportivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué deporte se asocia principalmente el uso de guantes de portero?",
+  "answers": [
+    {
+      "text": "automovilismo",
+      "correct": false
+    },
+    {
+      "text": "voleibol",
+      "correct": false
+    },
+    {
+      "text": "surf",
+      "correct": false
+    },
+    {
+      "text": "fútbol",
+      "correct": true
+    }
+  ],
+  "explanation": "Guantes de portero se asocia principalmente con fútbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - guantes de portero",
+      "url": "https://es.wikipedia.org/wiki/guantes_de_portero"
+    }
+  ],
+  "tags": [
+    "material-deportivo",
+    "futbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

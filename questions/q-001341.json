@@ -1,0 +1,42 @@
+{
+  "id": "q-001341",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos-de-archivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de archivo suele indicar la extensión .js?",
+  "answers": [
+    {
+      "text": "script JavaScript",
+      "correct": true
+    },
+    {
+      "text": "audio comprimido",
+      "correct": false
+    },
+    {
+      "text": "imagen fotográfica comprimida",
+      "correct": false
+    },
+    {
+      "text": "documento Markdown",
+      "correct": false
+    }
+  ],
+  "explanation": "La extensión .js suele identificar un archivo de tipo: script JavaScript.",
+  "sources": [
+    {
+      "title": "Wikipedia - .js",
+      "url": "https://es.wikipedia.org/wiki/.js"
+    }
+  ],
+  "tags": [
+    "formatos-de-archivo",
+    "js"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

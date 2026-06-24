@@ -1,0 +1,42 @@
+{
+  "id": "q-001266",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué estructura del cuerpo humano se encarga principalmente de absorber la mayor parte de nutrientes?",
+  "answers": [
+    {
+      "text": "neuronas",
+      "correct": false
+    },
+    {
+      "text": "pulmones",
+      "correct": false
+    },
+    {
+      "text": "vejiga",
+      "correct": false
+    },
+    {
+      "text": "intestino delgado",
+      "correct": true
+    }
+  ],
+  "explanation": "Intestino delgado se encarga principalmente de absorber la mayor parte de nutrientes.",
+  "sources": [
+    {
+      "title": "Wikipedia - intestino delgado",
+      "url": "https://es.wikipedia.org/wiki/intestino_delgado"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "intestino-delgado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

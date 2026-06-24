@@ -1,0 +1,42 @@
+{
+  "id": "q-001399",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película Los siete samuráis?",
+  "answers": [
+    {
+      "text": "Akira Kurosawa",
+      "correct": true
+    },
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": false
+    },
+    {
+      "text": "Francis Ford Coppola",
+      "correct": false
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": false
+    }
+  ],
+  "explanation": "Los siete samuráis fue dirigida por Akira Kurosawa.",
+  "sources": [
+    {
+      "title": "Wikipedia - Los siete samuráis",
+      "url": "https://es.wikipedia.org/wiki/Los_siete_samur%C3%A1is"
+    }
+  ],
+  "tags": [
+    "cine",
+    "akira-kurosawa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

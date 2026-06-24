@@ -1,0 +1,42 @@
+{
+  "id": "q-001395",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película Roma?",
+  "answers": [
+    {
+      "text": "Alfonso Cuarón",
+      "correct": true
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    },
+    {
+      "text": "James Cameron",
+      "correct": false
+    },
+    {
+      "text": "Sofia Coppola",
+      "correct": false
+    }
+  ],
+  "explanation": "Roma fue dirigida por Alfonso Cuarón.",
+  "sources": [
+    {
+      "title": "Wikipedia - Roma",
+      "url": "https://es.wikipedia.org/wiki/Roma"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfonso-cuaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

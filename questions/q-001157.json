@@ -1,0 +1,42 @@
+{
+  "id": "q-001157",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en batir para incorporar aire o dar volumen?",
+  "answers": [
+    {
+      "text": "pochar",
+      "correct": false
+    },
+    {
+      "text": "rehogar",
+      "correct": false
+    },
+    {
+      "text": "montar",
+      "correct": true
+    },
+    {
+      "text": "fermentar",
+      "correct": false
+    }
+  ],
+  "explanation": "Montar consiste en batir para incorporar aire o dar volumen.",
+  "sources": [
+    {
+      "title": "Wikipedia - montar",
+      "url": "https://es.wikipedia.org/wiki/montar"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "montar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

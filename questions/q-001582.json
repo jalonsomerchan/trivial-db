@@ -1,0 +1,42 @@
+{
+  "id": "q-001582",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista pintó La joven de la perla?",
+  "answers": [
+    {
+      "text": "Hieronymus Bosch",
+      "correct": false
+    },
+    {
+      "text": "Johannes Vermeer",
+      "correct": true
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": false
+    },
+    {
+      "text": "Kazimir Malévich",
+      "correct": false
+    }
+  ],
+  "explanation": "La joven de la perla es una obra de Johannes Vermeer.",
+  "sources": [
+    {
+      "title": "Wikipedia - La joven de la perla",
+      "url": "https://es.wikipedia.org/wiki/La_joven_de_la_perla"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "johannes-vermeer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

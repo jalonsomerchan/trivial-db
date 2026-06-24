@@ -1,0 +1,42 @@
+{
+  "id": "q-001246",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "medium",
+  "question": "En terminología médica, ¿a qué se refiere el prefijo entero-?",
+  "answers": [
+    {
+      "text": "el intestino",
+      "correct": true
+    },
+    {
+      "text": "los huesos",
+      "correct": false
+    },
+    {
+      "text": "el estómago",
+      "correct": false
+    },
+    {
+      "text": "el bazo",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo entero- se usa para hacer referencia a el intestino.",
+  "sources": [
+    {
+      "title": "Wikipedia - entero-",
+      "url": "https://es.wikipedia.org/wiki/entero-"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "entero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

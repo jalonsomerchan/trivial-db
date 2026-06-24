@@ -1,0 +1,42 @@
+{
+  "id": "q-001293",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla XML?",
+  "answers": [
+    {
+      "text": "Domain Name System",
+      "correct": false
+    },
+    {
+      "text": "HyperText Markup Language",
+      "correct": false
+    },
+    {
+      "text": "Extensible Markup Language",
+      "correct": true
+    },
+    {
+      "text": "Graphics Processing Unit",
+      "correct": false
+    }
+  ],
+  "explanation": "XML significa Extensible Markup Language.",
+  "sources": [
+    {
+      "title": "Wikipedia - XML",
+      "url": "https://es.wikipedia.org/wiki/XML"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "xml"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

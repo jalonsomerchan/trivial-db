@@ -1,0 +1,42 @@
+{
+  "id": "q-001113",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato pad thai?",
+  "answers": [
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Argentina",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "Tailandia",
+      "correct": true
+    }
+  ],
+  "explanation": "Pad thai es un plato asociado tradicionalmente con Tailandia.",
+  "sources": [
+    {
+      "title": "Wikipedia - pad thai",
+      "url": "https://es.wikipedia.org/wiki/pad_thai"
+    }
+  ],
+  "tags": [
+    "platos-del-mundo",
+    "tailandia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

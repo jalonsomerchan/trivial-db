@@ -1,0 +1,42 @@
+{
+  "id": "q-001412",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "personajes-de-cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué película o saga aparece el personaje Vito Corleone?",
+  "answers": [
+    {
+      "text": "Millennium",
+      "correct": false
+    },
+    {
+      "text": "El padrino",
+      "correct": true
+    },
+    {
+      "text": "El señor de los anillos",
+      "correct": false
+    },
+    {
+      "text": "Piratas del Caribe",
+      "correct": false
+    }
+  ],
+  "explanation": "Vito Corleone es un personaje de El padrino.",
+  "sources": [
+    {
+      "title": "Wikipedia - Vito Corleone",
+      "url": "https://es.wikipedia.org/wiki/Vito_Corleone"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "el-padrino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001288",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla ROM?",
+  "answers": [
+    {
+      "text": "Structured Query Language",
+      "correct": false
+    },
+    {
+      "text": "Uniform Resource Locator",
+      "correct": false
+    },
+    {
+      "text": "Read-Only Memory",
+      "correct": true
+    },
+    {
+      "text": "Integrated Development Environment",
+      "correct": false
+    }
+  ],
+  "explanation": "ROM significa Read-Only Memory.",
+  "sources": [
+    {
+      "title": "Wikipedia - ROM",
+      "url": "https://es.wikipedia.org/wiki/ROM"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "rom"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

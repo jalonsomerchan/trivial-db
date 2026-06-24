@@ -1,0 +1,42 @@
+{
+  "id": "q-001515",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "material-deportivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué deporte se asocia principalmente el uso de martillo?",
+  "answers": [
+    {
+      "text": "equitación",
+      "correct": false
+    },
+    {
+      "text": "balonmano",
+      "correct": false
+    },
+    {
+      "text": "atletismo",
+      "correct": true
+    },
+    {
+      "text": "boxeo",
+      "correct": false
+    }
+  ],
+  "explanation": "Martillo se asocia principalmente con atletismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - martillo",
+      "url": "https://es.wikipedia.org/wiki/martillo"
+    }
+  ],
+  "tags": [
+    "material-deportivo",
+    "atletismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

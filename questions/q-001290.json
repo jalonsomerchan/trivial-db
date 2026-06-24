@@ -1,0 +1,42 @@
+{
+  "id": "q-001290",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla SQL?",
+  "answers": [
+    {
+      "text": "Transport Layer Security",
+      "correct": false
+    },
+    {
+      "text": "Solid-State Drive",
+      "correct": false
+    },
+    {
+      "text": "Extensible Markup Language",
+      "correct": false
+    },
+    {
+      "text": "Structured Query Language",
+      "correct": true
+    }
+  ],
+  "explanation": "SQL significa Structured Query Language.",
+  "sources": [
+    {
+      "title": "Wikipedia - SQL",
+      "url": "https://es.wikipedia.org/wiki/SQL"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "sql"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

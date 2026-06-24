@@ -1,0 +1,42 @@
+{
+  "id": "q-001370",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "historia-de-la-tecnologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué persona o equipo se asocia principalmente el ratón de ordenador?",
+  "answers": [
+    {
+      "text": "John Backus y su equipo",
+      "correct": false
+    },
+    {
+      "text": "Dennis Ritchie",
+      "correct": false
+    },
+    {
+      "text": "Douglas Engelbart",
+      "correct": true
+    },
+    {
+      "text": "Tim Berners-Lee",
+      "correct": false
+    }
+  ],
+  "explanation": "El ratón de ordenador se asocia principalmente con Douglas Engelbart.",
+  "sources": [
+    {
+      "title": "Wikipedia - el ratón de ordenador",
+      "url": "https://es.wikipedia.org/wiki/el_rat%C3%B3n_de_ordenador"
+    }
+  ],
+  "tags": [
+    "historia-tecnologia",
+    "el-raton-de-ordenador"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

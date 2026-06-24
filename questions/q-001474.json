@@ -1,0 +1,42 @@
+{
+  "id": "q-001474",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "animacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio se asocia con la película de animación Ice Age?",
+  "answers": [
+    {
+      "text": "Laika",
+      "correct": false
+    },
+    {
+      "text": "Sony Pictures Animation",
+      "correct": false
+    },
+    {
+      "text": "Illumination",
+      "correct": false
+    },
+    {
+      "text": "Blue Sky Studios",
+      "correct": true
+    }
+  ],
+  "explanation": "Ice Age se asocia con el estudio Blue Sky Studios.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ice Age",
+      "url": "https://es.wikipedia.org/wiki/Ice_Age"
+    }
+  ],
+  "tags": [
+    "animacion",
+    "blue-sky-studios"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

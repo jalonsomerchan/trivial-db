@@ -1,0 +1,42 @@
+{
+  "id": "q-001544",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona la competición Dakar Rally?",
+  "answers": [
+    {
+      "text": "boxeo",
+      "correct": false
+    },
+    {
+      "text": "voleibol",
+      "correct": false
+    },
+    {
+      "text": "automovilismo",
+      "correct": false
+    },
+    {
+      "text": "rally raid",
+      "correct": true
+    }
+  ],
+  "explanation": "Dakar Rally es una competición relacionada con rally raid.",
+  "sources": [
+    {
+      "title": "Wikipedia - Dakar Rally",
+      "url": "https://es.wikipedia.org/wiki/Dakar_Rally"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "rally-raid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

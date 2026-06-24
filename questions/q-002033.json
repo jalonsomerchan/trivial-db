@@ -1,0 +1,42 @@
+{
+  "id": "q-002033",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes-historicos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se recuerda históricamente a Otto von Bismarck?",
+  "answers": [
+    {
+      "text": "reina ptolemaica de Egipto",
+      "correct": false
+    },
+    {
+      "text": "estadista ateniense",
+      "correct": false
+    },
+    {
+      "text": "canciller prusiano y alemán",
+      "correct": true
+    },
+    {
+      "text": "científica pionera en radiactividad",
+      "correct": false
+    }
+  ],
+  "explanation": "Otto von Bismarck se recuerda históricamente como canciller prusiano y alemán.",
+  "sources": [
+    {
+      "title": "Wikipedia - Otto von Bismarck",
+      "url": "https://es.wikipedia.org/wiki/Otto_von_Bismarck"
+    }
+  ],
+  "tags": [
+    "personajes-historicos",
+    "otto-von-bismarck"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001772",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "albumes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista o grupo publicó el álbum Never Mind the Bollocks?",
+  "answers": [
+    {
+      "text": "Nirvana",
+      "correct": false
+    },
+    {
+      "text": "Fleetwood Mac",
+      "correct": false
+    },
+    {
+      "text": "U2",
+      "correct": false
+    },
+    {
+      "text": "Sex Pistols",
+      "correct": true
+    }
+  ],
+  "explanation": "Never Mind the Bollocks es un álbum publicado por Sex Pistols.",
+  "sources": [
+    {
+      "title": "Wikipedia - Never Mind the Bollocks",
+      "url": "https://es.wikipedia.org/wiki/Never_Mind_the_Bollocks"
+    }
+  ],
+  "tags": [
+    "albumes",
+    "sex-pistols"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001957",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género o forma literaria se define como obra dramática de desenlace grave?",
+  "answers": [
+    {
+      "text": "relato tradicional con base histórica o fantástica",
+      "correct": false
+    },
+    {
+      "text": "tragedia",
+      "correct": true
+    },
+    {
+      "text": "obra teatral de conflicto serio",
+      "correct": false
+    },
+    {
+      "text": "relato de la propia vida",
+      "correct": false
+    }
+  ],
+  "explanation": "Tragedia se define como obra dramática de desenlace grave.",
+  "sources": [
+    {
+      "title": "Wikipedia - tragedia",
+      "url": "https://es.wikipedia.org/wiki/tragedia"
+    }
+  ],
+  "tags": [
+    "generos-literarios",
+    "tragedia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

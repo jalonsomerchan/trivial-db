@@ -1,0 +1,42 @@
+{
+  "id": "q-001127",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato empanada salteña?",
+  "answers": [
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Canadá",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Argentina",
+      "correct": true
+    }
+  ],
+  "explanation": "Empanada salteña es un plato asociado tradicionalmente con Argentina.",
+  "sources": [
+    {
+      "title": "Wikipedia - empanada salteña",
+      "url": "https://es.wikipedia.org/wiki/empanada_salte%C3%B1a"
+    }
+  ],
+  "tags": [
+    "platos-del-mundo",
+    "argentina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

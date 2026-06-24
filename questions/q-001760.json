@@ -1,0 +1,42 @@
+{
+  "id": "q-001760",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "albumes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista o grupo publicó el álbum Purple Rain?",
+  "answers": [
+    {
+      "text": "Miles Davis",
+      "correct": false
+    },
+    {
+      "text": "Prince",
+      "correct": true
+    },
+    {
+      "text": "The Beatles",
+      "correct": false
+    },
+    {
+      "text": "The Rolling Stones",
+      "correct": false
+    }
+  ],
+  "explanation": "Purple Rain es un álbum publicado por Prince.",
+  "sources": [
+    {
+      "title": "Wikipedia - Purple Rain",
+      "url": "https://es.wikipedia.org/wiki/Purple_Rain"
+    }
+  ],
+  "tags": [
+    "albumes",
+    "prince"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

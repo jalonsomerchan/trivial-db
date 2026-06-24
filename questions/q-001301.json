@@ -1,0 +1,42 @@
+{
+  "id": "q-001301",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla GUI?",
+  "answers": [
+    {
+      "text": "Graphical User Interface",
+      "correct": true
+    },
+    {
+      "text": "Universal Serial Bus",
+      "correct": false
+    },
+    {
+      "text": "Central Processing Unit",
+      "correct": false
+    },
+    {
+      "text": "Uniform Resource Locator",
+      "correct": false
+    }
+  ],
+  "explanation": "GUI significa Graphical User Interface.",
+  "sources": [
+    {
+      "title": "Wikipedia - GUI",
+      "url": "https://es.wikipedia.org/wiki/GUI"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "gui"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

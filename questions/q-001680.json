@@ -1,0 +1,42 @@
+{
+  "id": "q-001680",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó Claro de luna?",
+  "answers": [
+    {
+      "text": "Georg Friedrich Händel",
+      "correct": false
+    },
+    {
+      "text": "Modest Músorgski",
+      "correct": false
+    },
+    {
+      "text": "Ludwig van Beethoven",
+      "correct": true
+    },
+    {
+      "text": "Wolfgang Amadeus Mozart",
+      "correct": false
+    }
+  ],
+  "explanation": "Claro de luna fue compuesta por Ludwig van Beethoven.",
+  "sources": [
+    {
+      "title": "Wikipedia - Claro de luna",
+      "url": "https://es.wikipedia.org/wiki/Claro_de_luna"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "ludwig-van-beethoven"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

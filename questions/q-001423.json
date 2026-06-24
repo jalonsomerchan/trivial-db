@@ -1,0 +1,42 @@
+{
+  "id": "q-001423",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "personajes-de-cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué película o saga aparece el personaje Katniss Everdeen?",
+  "answers": [
+    {
+      "text": "Los juegos del hambre",
+      "correct": true
+    },
+    {
+      "text": "Regreso al futuro",
+      "correct": false
+    },
+    {
+      "text": "El padrino",
+      "correct": false
+    },
+    {
+      "text": "Alien",
+      "correct": false
+    }
+  ],
+  "explanation": "Katniss Everdeen es un personaje de Los juegos del hambre.",
+  "sources": [
+    {
+      "title": "Wikipedia - Katniss Everdeen",
+      "url": "https://es.wikipedia.org/wiki/Katniss_Everdeen"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "los-juegos-del-hambre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001575",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "posiciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte existe la posición de líbero defensivo?",
+  "answers": [
+    {
+      "text": "voleibol",
+      "correct": true
+    },
+    {
+      "text": "fútbol americano",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": false
+    },
+    {
+      "text": "balonmano",
+      "correct": false
+    }
+  ],
+  "explanation": "La posición de líbero defensivo existe en voleibol.",
+  "sources": [
+    {
+      "title": "Wikipedia - líbero defensivo",
+      "url": "https://es.wikipedia.org/wiki/l%C3%ADbero_defensivo"
+    }
+  ],
+  "tags": [
+    "posiciones",
+    "voleibol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

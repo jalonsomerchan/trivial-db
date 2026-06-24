@@ -1,0 +1,42 @@
+{
+  "id": "q-001554",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "posiciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte existe la posición de pívot?",
+  "answers": [
+    {
+      "text": "baloncesto",
+      "correct": true
+    },
+    {
+      "text": "fútbol americano",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": false
+    }
+  ],
+  "explanation": "La posición de pívot existe en baloncesto.",
+  "sources": [
+    {
+      "title": "Wikipedia - pívot",
+      "url": "https://es.wikipedia.org/wiki/p%C3%ADvot"
+    }
+  ],
+  "tags": [
+    "posiciones",
+    "baloncesto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

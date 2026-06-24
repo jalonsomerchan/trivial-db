@@ -1,0 +1,42 @@
+{
+  "id": "q-001168",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-e-ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente o base es característica del mayonesa?",
+  "answers": [
+    {
+      "text": "puerro",
+      "correct": false
+    },
+    {
+      "text": "huevo y aceite",
+      "correct": true
+    },
+    {
+      "text": "bulgur",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": false
+    }
+  ],
+  "explanation": "El mayonesa se caracteriza por usar huevo y aceite como ingrediente o base principal.",
+  "sources": [
+    {
+      "title": "Wikipedia - mayonesa",
+      "url": "https://es.wikipedia.org/wiki/mayonesa"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "mayonesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

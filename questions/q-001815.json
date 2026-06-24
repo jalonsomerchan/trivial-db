@@ -1,0 +1,42 @@
+{
+  "id": "q-001815",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "plantas"
+  ],
+  "difficulty": "easy",
+  "question": "En botánica básica, ¿qué tipo de planta es helecho?",
+  "answers": [
+    {
+      "text": "angiosperma",
+      "correct": false
+    },
+    {
+      "text": "hongo",
+      "correct": false
+    },
+    {
+      "text": "árbol",
+      "correct": false
+    },
+    {
+      "text": "pteridofita",
+      "correct": true
+    }
+  ],
+  "explanation": "Helecho se clasifica habitualmente como pteridofita.",
+  "sources": [
+    {
+      "title": "Wikipedia - helecho",
+      "url": "https://es.wikipedia.org/wiki/helecho"
+    }
+  ],
+  "tags": [
+    "plantas",
+    "pteridofita"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

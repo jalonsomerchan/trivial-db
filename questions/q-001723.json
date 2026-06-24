@@ -1,0 +1,42 @@
+{
+  "id": "q-001723",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué familia instrumental pertenece principalmente el sitar?",
+  "answers": [
+    {
+      "text": "cuerda frotada",
+      "correct": false
+    },
+    {
+      "text": "aerófono de teclado",
+      "correct": false
+    },
+    {
+      "text": "percusión",
+      "correct": false
+    },
+    {
+      "text": "cuerda pulsada",
+      "correct": true
+    }
+  ],
+  "explanation": "El sitar pertenece principalmente a la familia de cuerda pulsada.",
+  "sources": [
+    {
+      "title": "Wikipedia - sitar",
+      "url": "https://es.wikipedia.org/wiki/sitar"
+    }
+  ],
+  "tags": [
+    "instrumentos",
+    "cuerda-pulsada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

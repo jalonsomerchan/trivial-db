@@ -1,0 +1,42 @@
+{
+  "id": "q-001852",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a selva tropical?",
+  "answers": [
+    {
+      "text": "bosque cálido y muy lluvioso",
+      "correct": true
+    },
+    {
+      "text": "laguna litoral",
+      "correct": false
+    },
+    {
+      "text": "bosque costero de aguas salobres",
+      "correct": false
+    },
+    {
+      "text": "cuerpo de agua salina interior",
+      "correct": false
+    }
+  ],
+  "explanation": "Selva tropical se describe como bosque cálido y muy lluvioso.",
+  "sources": [
+    {
+      "title": "Wikipedia - selva tropical",
+      "url": "https://es.wikipedia.org/wiki/selva_tropical"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "selva-tropical"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

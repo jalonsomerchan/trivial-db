@@ -1,0 +1,42 @@
+{
+  "id": "q-001801",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "plantas"
+  ],
+  "difficulty": "easy",
+  "question": "En botánica básica, ¿qué tipo de planta es pino?",
+  "answers": [
+    {
+      "text": "hongo",
+      "correct": false
+    },
+    {
+      "text": "gramínea",
+      "correct": false
+    },
+    {
+      "text": "árbol",
+      "correct": true
+    },
+    {
+      "text": "leguminosa",
+      "correct": false
+    }
+  ],
+  "explanation": "Pino se clasifica habitualmente como árbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - pino",
+      "url": "https://es.wikipedia.org/wiki/pino"
+    }
+  ],
+  "tags": [
+    "plantas",
+    "arbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

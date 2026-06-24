@@ -1,0 +1,42 @@
+{
+  "id": "q-001230",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué nutriente se asocia especialmente con equilibrio ácido-base?",
+  "answers": [
+    {
+      "text": "bicarbonato",
+      "correct": true
+    },
+    {
+      "text": "vitamina A",
+      "correct": false
+    },
+    {
+      "text": "yodo",
+      "correct": false
+    },
+    {
+      "text": "zinc",
+      "correct": false
+    }
+  ],
+  "explanation": "bicarbonato se asocia con equilibrio ácido-base.",
+  "sources": [
+    {
+      "title": "Wikipedia - bicarbonato",
+      "url": "https://es.wikipedia.org/wiki/bicarbonato"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "bicarbonato"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

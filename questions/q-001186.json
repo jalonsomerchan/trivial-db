@@ -1,0 +1,42 @@
+{
+  "id": "q-001186",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué sistema del cuerpo humano pertenece principalmente sangre?",
+  "answers": [
+    {
+      "text": "sistema endocrino",
+      "correct": false
+    },
+    {
+      "text": "sistema cardiovascular",
+      "correct": true
+    },
+    {
+      "text": "sistema nervioso",
+      "correct": false
+    },
+    {
+      "text": "sistema respiratorio",
+      "correct": false
+    }
+  ],
+  "explanation": "Sangre forma parte principalmente del sistema cardiovascular.",
+  "sources": [
+    {
+      "title": "Wikipedia - sangre",
+      "url": "https://es.wikipedia.org/wiki/sangre"
+    }
+  ],
+  "tags": [
+    "cuerpo-humano",
+    "sistema-cardiovascular"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001955",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género o forma literaria se define como relato extremadamente breve?",
+  "answers": [
+    {
+      "text": "obra dramática de desenlace grave",
+      "correct": false
+    },
+    {
+      "text": "microcuento",
+      "correct": true
+    },
+    {
+      "text": "texto argumentativo o reflexivo",
+      "correct": false
+    },
+    {
+      "text": "poema de tono elevado o celebrativo",
+      "correct": false
+    }
+  ],
+  "explanation": "Microcuento se define como relato extremadamente breve.",
+  "sources": [
+    {
+      "title": "Wikipedia - microcuento",
+      "url": "https://es.wikipedia.org/wiki/microcuento"
+    }
+  ],
+  "tags": [
+    "generos-literarios",
+    "microcuento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

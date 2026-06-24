@@ -1,0 +1,42 @@
+{
+  "id": "q-002082",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas-historicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año comenzó la Revolución rusa?",
+  "answers": [
+    {
+      "text": "1978",
+      "correct": false
+    },
+    {
+      "text": "1648",
+      "correct": false
+    },
+    {
+      "text": "1917",
+      "correct": true
+    },
+    {
+      "text": "1517",
+      "correct": false
+    }
+  ],
+  "explanation": "La Revolución rusa comenzó en 1917.",
+  "sources": [
+    {
+      "title": "Wikipedia - Revolución rusa",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_rusa"
+    }
+  ],
+  "tags": [
+    "fechas-historicas",
+    "revolucion-rusa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

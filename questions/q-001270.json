@@ -1,0 +1,42 @@
+{
+  "id": "q-001270",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué estructura del cuerpo humano se encarga principalmente de transmitir señales nerviosas?",
+  "answers": [
+    {
+      "text": "cerebelo",
+      "correct": false
+    },
+    {
+      "text": "apéndice",
+      "correct": false
+    },
+    {
+      "text": "pulmones",
+      "correct": false
+    },
+    {
+      "text": "neuronas",
+      "correct": true
+    }
+  ],
+  "explanation": "Neuronas se encarga principalmente de transmitir señales nerviosas.",
+  "sources": [
+    {
+      "title": "Wikipedia - neuronas",
+      "url": "https://es.wikipedia.org/wiki/neuronas"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "neuronas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

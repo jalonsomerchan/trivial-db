@@ -1,0 +1,42 @@
+{
+  "id": "q-001603",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué movimiento artístico se asocia principalmente Edgar Degas?",
+  "answers": [
+    {
+      "text": "abstracción",
+      "correct": false
+    },
+    {
+      "text": "neoclasicismo",
+      "correct": false
+    },
+    {
+      "text": "cubismo",
+      "correct": false
+    },
+    {
+      "text": "impresionismo",
+      "correct": true
+    }
+  ],
+  "explanation": "Edgar Degas se asocia principalmente con el impresionismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Edgar Degas",
+      "url": "https://es.wikipedia.org/wiki/Edgar_Degas"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "impresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

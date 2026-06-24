@@ -1,0 +1,42 @@
+{
+  "id": "q-001439",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-de-tv"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué serie de televisión aparece Homer Simpson?",
+  "answers": [
+    {
+      "text": "Mad Men",
+      "correct": false
+    },
+    {
+      "text": "Los Simpson",
+      "correct": true
+    },
+    {
+      "text": "Perdidos",
+      "correct": false
+    },
+    {
+      "text": "Juego de tronos",
+      "correct": false
+    }
+  ],
+  "explanation": "Homer Simpson aparece en la serie Los Simpson.",
+  "sources": [
+    {
+      "title": "Wikipedia - Homer Simpson",
+      "url": "https://es.wikipedia.org/wiki/Homer_Simpson"
+    }
+  ],
+  "tags": [
+    "television",
+    "los-simpson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

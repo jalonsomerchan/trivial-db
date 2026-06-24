@@ -1,0 +1,42 @@
+{
+  "id": "q-001847",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia"
+  ],
+  "difficulty": "medium",
+  "question": "En geología, ¿cómo se clasifica principalmente duna?",
+  "answers": [
+    {
+      "text": "fósil",
+      "correct": false
+    },
+    {
+      "text": "mineral",
+      "correct": false
+    },
+    {
+      "text": "forma de relieve eólico",
+      "correct": true
+    },
+    {
+      "text": "roca sedimentaria",
+      "correct": false
+    }
+  ],
+  "explanation": "Duna se clasifica principalmente como forma de relieve eólico.",
+  "sources": [
+    {
+      "title": "Wikipedia - duna",
+      "url": "https://es.wikipedia.org/wiki/duna"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "forma-de-relieve-eolico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

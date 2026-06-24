@@ -1,0 +1,42 @@
+{
+  "id": "q-001332",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos-de-archivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de archivo suele indicar la extensión .mp3?",
+  "answers": [
+    {
+      "text": "imagen vectorial",
+      "correct": false
+    },
+    {
+      "text": "código fuente Java",
+      "correct": false
+    },
+    {
+      "text": "documento Markdown",
+      "correct": false
+    },
+    {
+      "text": "audio comprimido",
+      "correct": true
+    }
+  ],
+  "explanation": "La extensión .mp3 suele identificar un archivo de tipo: audio comprimido.",
+  "sources": [
+    {
+      "title": "Wikipedia - .mp3",
+      "url": "https://es.wikipedia.org/wiki/.mp3"
+    }
+  ],
+  "tags": [
+    "formatos-de-archivo",
+    "mp3"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

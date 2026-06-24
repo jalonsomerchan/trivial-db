@@ -1,0 +1,42 @@
+{
+  "id": "q-001932",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Edmond Dantès?",
+  "answers": [
+    {
+      "text": "Pedro Páramo",
+      "correct": false
+    },
+    {
+      "text": "El conde de Montecristo",
+      "correct": true
+    },
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    }
+  ],
+  "explanation": "Edmond Dantès aparece en El conde de Montecristo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Edmond Dantès",
+      "url": "https://es.wikipedia.org/wiki/Edmond_Dant%C3%A8s"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "el-conde-de-montecristo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

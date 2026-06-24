@@ -1,0 +1,42 @@
+{
+  "id": "q-001980",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas-historicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año tuvo lugar el acontecimiento histórico conocido como independencia de Estados Unidos declarada?",
+  "answers": [
+    {
+      "text": "1969",
+      "correct": false
+    },
+    {
+      "text": "1776",
+      "correct": true
+    },
+    {
+      "text": "1453",
+      "correct": false
+    },
+    {
+      "text": "800",
+      "correct": false
+    }
+  ],
+  "explanation": "La independencia de Estados Unidos declarada ocurrió en 1776.",
+  "sources": [
+    {
+      "title": "Wikipedia - independencia de Estados Unidos declarada",
+      "url": "https://es.wikipedia.org/wiki/independencia_de_Estados_Unidos_declarada"
+    }
+  ],
+  "tags": [
+    "fechas-historicas",
+    "independencia-de-estados-unidos-declarada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

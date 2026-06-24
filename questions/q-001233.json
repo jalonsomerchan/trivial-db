@@ -1,0 +1,42 @@
+{
+  "id": "q-001233",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "medium",
+  "question": "En terminología médica, ¿a qué se refiere el prefijo neuro-?",
+  "answers": [
+    {
+      "text": "los ojos",
+      "correct": false
+    },
+    {
+      "text": "el riñón",
+      "correct": false
+    },
+    {
+      "text": "el hígado",
+      "correct": false
+    },
+    {
+      "text": "los nervios o el sistema nervioso",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo neuro- se usa para hacer referencia a los nervios o el sistema nervioso.",
+  "sources": [
+    {
+      "title": "Wikipedia - neuro-",
+      "url": "https://es.wikipedia.org/wiki/neuro-"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "neuro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

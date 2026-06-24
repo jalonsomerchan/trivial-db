@@ -1,0 +1,42 @@
+{
+  "id": "q-001914",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió San Manuel Bueno, mártir?",
+  "answers": [
+    {
+      "text": "Herman Melville",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Unamuno",
+      "correct": true
+    },
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": false
+    },
+    {
+      "text": "León Tolstói",
+      "correct": false
+    }
+  ],
+  "explanation": "San Manuel Bueno, mártir fue escrita por Miguel de Unamuno.",
+  "sources": [
+    {
+      "title": "Wikipedia - San Manuel Bueno, mártir",
+      "url": "https://es.wikipedia.org/wiki/San_Manuel_Bueno%2C_m%C3%A1rtir"
+    }
+  ],
+  "tags": [
+    "autores",
+    "miguel-de-unamuno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

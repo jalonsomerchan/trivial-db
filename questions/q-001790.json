@@ -1,0 +1,42 @@
+{
+  "id": "q-001790",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "animales"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado salamandra?",
+  "answers": [
+    {
+      "text": "anfibio",
+      "correct": true
+    },
+    {
+      "text": "crustáceo",
+      "correct": false
+    },
+    {
+      "text": "molusco",
+      "correct": false
+    },
+    {
+      "text": "mamífero",
+      "correct": false
+    }
+  ],
+  "explanation": "El salamandra pertenece al grupo de los anfibios o se clasifica como anfibio.",
+  "sources": [
+    {
+      "title": "Wikipedia - salamandra",
+      "url": "https://es.wikipedia.org/wiki/salamandra"
+    }
+  ],
+  "tags": [
+    "animales",
+    "anfibio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

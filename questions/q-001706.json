@@ -1,0 +1,42 @@
+{
+  "id": "q-001706",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué familia instrumental pertenece principalmente el piano?",
+  "answers": [
+    {
+      "text": "cuerda percutida",
+      "correct": true
+    },
+    {
+      "text": "viento metal",
+      "correct": false
+    },
+    {
+      "text": "percusión",
+      "correct": false
+    },
+    {
+      "text": "electrófono",
+      "correct": false
+    }
+  ],
+  "explanation": "El piano pertenece principalmente a la familia de cuerda percutida.",
+  "sources": [
+    {
+      "title": "Wikipedia - piano",
+      "url": "https://es.wikipedia.org/wiki/piano"
+    }
+  ],
+  "tags": [
+    "instrumentos",
+    "cuerda-percutida"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

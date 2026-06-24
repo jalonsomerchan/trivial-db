@@ -1,0 +1,42 @@
+{
+  "id": "q-001989",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas-historicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año tuvo lugar el acontecimiento histórico conocido como Revolución cubana?",
+  "answers": [
+    {
+      "text": "1959",
+      "correct": true
+    },
+    {
+      "text": "1648",
+      "correct": false
+    },
+    {
+      "text": "1917",
+      "correct": false
+    },
+    {
+      "text": "1517",
+      "correct": false
+    }
+  ],
+  "explanation": "La Revolución cubana ocurrió en 1959.",
+  "sources": [
+    {
+      "title": "Wikipedia - Revolución cubana",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_cubana"
+    }
+  ],
+  "tags": [
+    "fechas-historicas",
+    "revolucion-cubana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

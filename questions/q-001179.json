@@ -1,0 +1,42 @@
+{
+  "id": "q-001179",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-e-ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente o base es característica del gazpacho andaluz?",
+  "answers": [
+    {
+      "text": "verduras",
+      "correct": false
+    },
+    {
+      "text": "tomate",
+      "correct": true
+    },
+    {
+      "text": "almendra",
+      "correct": false
+    },
+    {
+      "text": "masa dulce fermentada",
+      "correct": false
+    }
+  ],
+  "explanation": "El gazpacho andaluz se caracteriza por usar tomate como ingrediente o base principal.",
+  "sources": [
+    {
+      "title": "Wikipedia - gazpacho andaluz",
+      "url": "https://es.wikipedia.org/wiki/gazpacho_andaluz"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "gazpacho-andaluz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

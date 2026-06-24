@@ -1,0 +1,42 @@
+{
+  "id": "q-001747",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "generos-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué lugar se asocia tradicionalmente el género musical gamelán?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Corea del Sur",
+      "correct": false
+    },
+    {
+      "text": "Indonesia",
+      "correct": true
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El gamelán se asocia tradicionalmente con Indonesia.",
+  "sources": [
+    {
+      "title": "Wikipedia - gamelán",
+      "url": "https://es.wikipedia.org/wiki/gamel%C3%A1n"
+    }
+  ],
+  "tags": [
+    "generos-musicales",
+    "indonesia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

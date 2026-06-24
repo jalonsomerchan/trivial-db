@@ -1,0 +1,42 @@
+{
+  "id": "q-001181",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-e-ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente o base es característica del mochi?",
+  "answers": [
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "arroz glutinoso",
+      "correct": true
+    },
+    {
+      "text": "ternera",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": false
+    }
+  ],
+  "explanation": "El mochi se caracteriza por usar arroz glutinoso como ingrediente o base principal.",
+  "sources": [
+    {
+      "title": "Wikipedia - mochi",
+      "url": "https://es.wikipedia.org/wiki/mochi"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "mochi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

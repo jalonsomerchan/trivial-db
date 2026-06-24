@@ -1,0 +1,42 @@
+{
+  "id": "q-001915",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Luces de bohemia?",
+  "answers": [
+    {
+      "text": "J. R. R. Tolkien",
+      "correct": false
+    },
+    {
+      "text": "Lewis Carroll",
+      "correct": false
+    },
+    {
+      "text": "George Orwell",
+      "correct": false
+    },
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": true
+    }
+  ],
+  "explanation": "Luces de bohemia fue escrita por Ramón María del Valle-Inclán.",
+  "sources": [
+    {
+      "title": "Wikipedia - Luces de bohemia",
+      "url": "https://es.wikipedia.org/wiki/Luces_de_bohemia"
+    }
+  ],
+  "tags": [
+    "autores",
+    "ramon-maria-del-valle-inclan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

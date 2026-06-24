@@ -1,0 +1,42 @@
+{
+  "id": "q-001187",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué sistema del cuerpo humano pertenece principalmente pulmones?",
+  "answers": [
+    {
+      "text": "sistema tegumentario",
+      "correct": false
+    },
+    {
+      "text": "sistema respiratorio",
+      "correct": true
+    },
+    {
+      "text": "sistema nervioso",
+      "correct": false
+    },
+    {
+      "text": "sistema urinario",
+      "correct": false
+    }
+  ],
+  "explanation": "Pulmones forma parte principalmente del sistema respiratorio.",
+  "sources": [
+    {
+      "title": "Wikipedia - pulmones",
+      "url": "https://es.wikipedia.org/wiki/pulmones"
+    }
+  ],
+  "tags": [
+    "cuerpo-humano",
+    "sistema-respiratorio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

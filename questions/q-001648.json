@@ -1,0 +1,42 @@
+{
+  "id": "q-001648",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Art Institute of Chicago?",
+  "answers": [
+    {
+      "text": "Chicago",
+      "correct": true
+    },
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    },
+    {
+      "text": "Ámsterdam",
+      "correct": false
+    },
+    {
+      "text": "Múnich",
+      "correct": false
+    }
+  ],
+  "explanation": "El Art Institute of Chicago se encuentra en Chicago.",
+  "sources": [
+    {
+      "title": "Wikipedia - Art Institute of Chicago",
+      "url": "https://es.wikipedia.org/wiki/Art_Institute_of_Chicago"
+    }
+  ],
+  "tags": [
+    "museos",
+    "chicago"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

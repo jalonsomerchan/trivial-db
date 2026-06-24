@@ -1,0 +1,42 @@
+{
+  "id": "q-001882",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Madame Bovary?",
+  "answers": [
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": false
+    },
+    {
+      "text": "Jorge Luis Borges",
+      "correct": false
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": true
+    },
+    {
+      "text": "Jane Austen",
+      "correct": false
+    }
+  ],
+  "explanation": "Madame Bovary fue escrita por Gustave Flaubert.",
+  "sources": [
+    {
+      "title": "Wikipedia - Madame Bovary",
+      "url": "https://es.wikipedia.org/wiki/Madame_Bovary"
+    }
+  ],
+  "tags": [
+    "autores",
+    "gustave-flaubert"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

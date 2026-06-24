@@ -1,0 +1,42 @@
+{
+  "id": "q-001136",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en prender fuego brevemente a una preparación con alcohol?",
+  "answers": [
+    {
+      "text": "sellar",
+      "correct": false
+    },
+    {
+      "text": "flambear",
+      "correct": true
+    },
+    {
+      "text": "desglasar",
+      "correct": false
+    },
+    {
+      "text": "montar",
+      "correct": false
+    }
+  ],
+  "explanation": "Flambear consiste en prender fuego brevemente a una preparación con alcohol.",
+  "sources": [
+    {
+      "title": "Wikipedia - flambear",
+      "url": "https://es.wikipedia.org/wiki/flambear"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "flambear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001234",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "medium",
+  "question": "En terminología médica, ¿a qué se refiere el prefijo hepato-?",
+  "answers": [
+    {
+      "text": "el estómago",
+      "correct": false
+    },
+    {
+      "text": "el hígado",
+      "correct": true
+    },
+    {
+      "text": "los dientes",
+      "correct": false
+    },
+    {
+      "text": "los pulmones",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo hepato- se usa para hacer referencia a el hígado.",
+  "sources": [
+    {
+      "title": "Wikipedia - hepato-",
+      "url": "https://es.wikipedia.org/wiki/hepato-"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "hepato"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

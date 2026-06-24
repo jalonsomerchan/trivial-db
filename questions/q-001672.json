@@ -1,0 +1,42 @@
+{
+  "id": "q-001672",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué arquitecto o equipo diseñó Museo Judío de Berlín?",
+  "answers": [
+    {
+      "text": "Antoni Gaudí",
+      "correct": false
+    },
+    {
+      "text": "Frank Gehry",
+      "correct": false
+    },
+    {
+      "text": "Daniel Libeskind",
+      "correct": true
+    },
+    {
+      "text": "Louis Kahn",
+      "correct": false
+    }
+  ],
+  "explanation": "Museo Judío de Berlín fue diseñado por Daniel Libeskind.",
+  "sources": [
+    {
+      "title": "Wikipedia - Museo Judío de Berlín",
+      "url": "https://es.wikipedia.org/wiki/Museo_Jud%C3%ADo_de_Berl%C3%ADn"
+    }
+  ],
+  "tags": [
+    "arquitectura",
+    "daniel-libeskind"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

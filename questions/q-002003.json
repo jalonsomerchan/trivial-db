@@ -1,0 +1,42 @@
+{
+  "id": "q-002003",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué civilización o entidad histórica se asocia principalmente Pompeya?",
+  "answers": [
+    {
+      "text": "civilización mexica",
+      "correct": false
+    },
+    {
+      "text": "Imperio persa aqueménida",
+      "correct": false
+    },
+    {
+      "text": "civilización púnica",
+      "correct": false
+    },
+    {
+      "text": "civilización romana",
+      "correct": true
+    }
+  ],
+  "explanation": "Pompeya se asocia principalmente con civilización romana.",
+  "sources": [
+    {
+      "title": "Wikipedia - Pompeya",
+      "url": "https://es.wikipedia.org/wiki/Pompeya"
+    }
+  ],
+  "tags": [
+    "civilizaciones",
+    "civilizacion-romana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

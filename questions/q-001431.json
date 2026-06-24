@@ -1,0 +1,42 @@
+{
+  "id": "q-001431",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-de-tv"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué serie de televisión aparece Tony Soprano?",
+  "answers": [
+    {
+      "text": "Juego de tronos",
+      "correct": false
+    },
+    {
+      "text": "Los Soprano",
+      "correct": true
+    },
+    {
+      "text": "Breaking Bad",
+      "correct": false
+    },
+    {
+      "text": "The Big Bang Theory",
+      "correct": false
+    }
+  ],
+  "explanation": "Tony Soprano aparece en la serie Los Soprano.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tony Soprano",
+      "url": "https://es.wikipedia.org/wiki/Tony_Soprano"
+    }
+  ],
+  "tags": [
+    "television",
+    "los-soprano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

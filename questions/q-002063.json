@@ -1,0 +1,42 @@
+{
+  "id": "q-002063",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-batallas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año o periodo se sitúa Batalla de Stalingrado?",
+  "answers": [
+    {
+      "text": "1863",
+      "correct": false
+    },
+    {
+      "text": "1942-1943",
+      "correct": true
+    },
+    {
+      "text": "1936",
+      "correct": false
+    },
+    {
+      "text": "1494",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de Stalingrado se sitúa históricamente en 1942-1943.",
+  "sources": [
+    {
+      "title": "Wikipedia - Batalla de Stalingrado",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Stalingrado"
+    }
+  ],
+  "tags": [
+    "tratados-batallas",
+    "batalla-de-stalingrado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

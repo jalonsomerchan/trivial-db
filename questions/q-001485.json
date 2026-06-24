@@ -1,0 +1,42 @@
+{
+  "id": "q-001485",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte se usa habitualmente el término scrum?",
+  "answers": [
+    {
+      "text": "hockey sobre hielo",
+      "correct": false
+    },
+    {
+      "text": "rugby",
+      "correct": true
+    },
+    {
+      "text": "voleibol",
+      "correct": false
+    },
+    {
+      "text": "cricket",
+      "correct": false
+    }
+  ],
+  "explanation": "El término scrum se usa habitualmente en rugby.",
+  "sources": [
+    {
+      "title": "Wikipedia - scrum",
+      "url": "https://es.wikipedia.org/wiki/scrum"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "rugby"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

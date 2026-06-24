@@ -1,0 +1,42 @@
+{
+  "id": "q-001937",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Aureliano Buendía?",
+  "answers": [
+    {
+      "text": "Cien años de soledad",
+      "correct": true
+    },
+    {
+      "text": "Moby Dick",
+      "correct": false
+    },
+    {
+      "text": "Ulises",
+      "correct": false
+    },
+    {
+      "text": "Pedro Páramo",
+      "correct": false
+    }
+  ],
+  "explanation": "Aureliano Buendía aparece en Cien años de soledad.",
+  "sources": [
+    {
+      "title": "Wikipedia - Aureliano Buendía",
+      "url": "https://es.wikipedia.org/wiki/Aureliano_Buend%C3%ADa"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "cien-anos-de-soledad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001756",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "albumes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista o grupo publicó el álbum Blue Train?",
+  "answers": [
+    {
+      "text": "Pink Floyd",
+      "correct": false
+    },
+    {
+      "text": "The Clash",
+      "correct": false
+    },
+    {
+      "text": "The Strokes",
+      "correct": false
+    },
+    {
+      "text": "John Coltrane",
+      "correct": true
+    }
+  ],
+  "explanation": "Blue Train es un álbum publicado por John Coltrane.",
+  "sources": [
+    {
+      "title": "Wikipedia - Blue Train",
+      "url": "https://es.wikipedia.org/wiki/Blue_Train"
+    }
+  ],
+  "tags": [
+    "albumes",
+    "john-coltrane"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

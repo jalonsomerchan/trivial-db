@@ -1,0 +1,42 @@
+{
+  "id": "q-001372",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "historia-de-la-tecnologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué persona o equipo se asocia principalmente la criptografía RSA?",
+  "answers": [
+    {
+      "text": "Rivest, Shamir y Adleman",
+      "correct": true
+    },
+    {
+      "text": "Ada Lovelace",
+      "correct": false
+    },
+    {
+      "text": "Rasmus Lerdorf",
+      "correct": false
+    },
+    {
+      "text": "Grace Hopper",
+      "correct": false
+    }
+  ],
+  "explanation": "La criptografía rsa se asocia principalmente con Rivest, Shamir y Adleman.",
+  "sources": [
+    {
+      "title": "Wikipedia - la criptografía RSA",
+      "url": "https://es.wikipedia.org/wiki/la_criptograf%C3%ADa_RSA"
+    }
+  ],
+  "tags": [
+    "historia-tecnologia",
+    "la-criptografia-rsa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

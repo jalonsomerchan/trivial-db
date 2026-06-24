@@ -1,0 +1,42 @@
+{
+  "id": "q-001941",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Bernarda Alba?",
+  "answers": [
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": false
+    },
+    {
+      "text": "Hamlet",
+      "correct": false
+    },
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": true
+    },
+    {
+      "text": "El conde de Montecristo",
+      "correct": false
+    }
+  ],
+  "explanation": "Bernarda Alba aparece en La casa de Bernarda Alba.",
+  "sources": [
+    {
+      "title": "Wikipedia - Bernarda Alba",
+      "url": "https://es.wikipedia.org/wiki/Bernarda_Alba"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "la-casa-de-bernarda-alba"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

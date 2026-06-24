@@ -1,0 +1,42 @@
+{
+  "id": "q-001269",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué estructura del cuerpo humano se encarga principalmente de detectar la luz?",
+  "answers": [
+    {
+      "text": "plaquetas",
+      "correct": false
+    },
+    {
+      "text": "vejiga",
+      "correct": false
+    },
+    {
+      "text": "retina",
+      "correct": true
+    },
+    {
+      "text": "hígado",
+      "correct": false
+    }
+  ],
+  "explanation": "Retina se encarga principalmente de detectar la luz.",
+  "sources": [
+    {
+      "title": "Wikipedia - retina",
+      "url": "https://es.wikipedia.org/wiki/retina"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "retina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

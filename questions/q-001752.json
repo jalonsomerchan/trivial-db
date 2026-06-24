@@ -1,0 +1,42 @@
+{
+  "id": "q-001752",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "albumes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista o grupo publicó el álbum Back in Black?",
+  "answers": [
+    {
+      "text": "Miles Davis",
+      "correct": false
+    },
+    {
+      "text": "Michael Jackson",
+      "correct": false
+    },
+    {
+      "text": "AC/DC",
+      "correct": true
+    },
+    {
+      "text": "Queen",
+      "correct": false
+    }
+  ],
+  "explanation": "Back in Black es un álbum publicado por AC/DC.",
+  "sources": [
+    {
+      "title": "Wikipedia - Back in Black",
+      "url": "https://es.wikipedia.org/wiki/Back_in_Black"
+    }
+  ],
+  "tags": [
+    "albumes",
+    "ac-dc"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

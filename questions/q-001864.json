@@ -1,0 +1,42 @@
+{
+  "id": "q-001864",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a páramo?",
+  "answers": [
+    {
+      "text": "bosque húmedo de montaña",
+      "correct": false
+    },
+    {
+      "text": "bosque boreal de coníferas",
+      "correct": false
+    },
+    {
+      "text": "desembocadura influida por mareas",
+      "correct": false
+    },
+    {
+      "text": "ecosistema altoandino",
+      "correct": true
+    }
+  ],
+  "explanation": "Páramo se describe como ecosistema altoandino.",
+  "sources": [
+    {
+      "title": "Wikipedia - páramo",
+      "url": "https://es.wikipedia.org/wiki/p%C3%A1ramo"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "paramo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

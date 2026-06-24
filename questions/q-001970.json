@@ -1,0 +1,42 @@
+{
+  "id": "q-001970",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género o forma literaria se define como ficción criminal de tono crítico?",
+  "answers": [
+    {
+      "text": "obra dramática de intención humorística",
+      "correct": false
+    },
+    {
+      "text": "relato tradicional de carácter sagrado o explicativo",
+      "correct": false
+    },
+    {
+      "text": "relato ordenado de hechos",
+      "correct": false
+    },
+    {
+      "text": "novela negra",
+      "correct": true
+    }
+  ],
+  "explanation": "Novela negra se define como ficción criminal de tono crítico.",
+  "sources": [
+    {
+      "title": "Wikipedia - novela negra",
+      "url": "https://es.wikipedia.org/wiki/novela_negra"
+    }
+  ],
+  "tags": [
+    "generos-literarios",
+    "novela-negra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

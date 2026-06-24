@@ -1,0 +1,42 @@
+{
+  "id": "q-001532",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona la competición Vuelta a España?",
+  "answers": [
+    {
+      "text": "fútbol",
+      "correct": false
+    },
+    {
+      "text": "ciclismo",
+      "correct": true
+    },
+    {
+      "text": "atletismo",
+      "correct": false
+    },
+    {
+      "text": "motociclismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Vuelta a España es una competición relacionada con ciclismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Vuelta a España",
+      "url": "https://es.wikipedia.org/wiki/Vuelta_a_Espa%C3%B1a"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "ciclismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

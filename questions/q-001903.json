@@ -1,0 +1,42 @@
+{
+  "id": "q-001903",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Rayuela?",
+  "answers": [
+    {
+      "text": "Mario Benedetti",
+      "correct": false
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    },
+    {
+      "text": "Julio Cortázar",
+      "correct": true
+    },
+    {
+      "text": "Homero",
+      "correct": false
+    }
+  ],
+  "explanation": "Rayuela fue escrita por Julio Cortázar.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rayuela",
+      "url": "https://es.wikipedia.org/wiki/Rayuela"
+    }
+  ],
+  "tags": [
+    "autores",
+    "julio-cortazar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

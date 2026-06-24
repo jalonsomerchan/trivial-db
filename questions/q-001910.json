@@ -1,0 +1,42 @@
+{
+  "id": "q-001910",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Residencia en la tierra?",
+  "answers": [
+    {
+      "text": "Pablo Neruda",
+      "correct": true
+    },
+    {
+      "text": "Dante Alighieri",
+      "correct": false
+    },
+    {
+      "text": "Alexandre Dumas",
+      "correct": false
+    },
+    {
+      "text": "Jane Austen",
+      "correct": false
+    }
+  ],
+  "explanation": "Residencia en la tierra fue escrita por Pablo Neruda.",
+  "sources": [
+    {
+      "title": "Wikipedia - Residencia en la tierra",
+      "url": "https://es.wikipedia.org/wiki/Residencia_en_la_tierra"
+    }
+  ],
+  "tags": [
+    "autores",
+    "pablo-neruda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

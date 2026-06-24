@@ -1,0 +1,42 @@
+{
+  "id": "q-001823",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "plantas"
+  ],
+  "difficulty": "easy",
+  "question": "En botánica básica, ¿qué tipo de planta es tomillo?",
+  "answers": [
+    {
+      "text": "pteridofita",
+      "correct": false
+    },
+    {
+      "text": "arbusto aromático",
+      "correct": true
+    },
+    {
+      "text": "leguminosa",
+      "correct": false
+    },
+    {
+      "text": "briofita",
+      "correct": false
+    }
+  ],
+  "explanation": "Tomillo se clasifica habitualmente como arbusto aromático.",
+  "sources": [
+    {
+      "title": "Wikipedia - tomillo",
+      "url": "https://es.wikipedia.org/wiki/tomillo"
+    }
+  ],
+  "tags": [
+    "plantas",
+    "arbusto-aromatico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

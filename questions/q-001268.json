@@ -1,0 +1,42 @@
+{
+  "id": "q-001268",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué estructura del cuerpo humano se encarga principalmente de triturar los alimentos?",
+  "answers": [
+    {
+      "text": "pulmones",
+      "correct": false
+    },
+    {
+      "text": "hígado",
+      "correct": false
+    },
+    {
+      "text": "piel",
+      "correct": false
+    },
+    {
+      "text": "dientes",
+      "correct": true
+    }
+  ],
+  "explanation": "Dientes se encarga principalmente de triturar los alimentos.",
+  "sources": [
+    {
+      "title": "Wikipedia - dientes",
+      "url": "https://es.wikipedia.org/wiki/dientes"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "dientes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

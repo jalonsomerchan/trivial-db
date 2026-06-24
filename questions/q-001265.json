@@ -1,0 +1,42 @@
+{
+  "id": "q-001265",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué estructura del cuerpo humano se encarga principalmente de iniciar la coagulación sanguínea?",
+  "answers": [
+    {
+      "text": "páncreas",
+      "correct": false
+    },
+    {
+      "text": "apéndice",
+      "correct": false
+    },
+    {
+      "text": "plaquetas",
+      "correct": true
+    },
+    {
+      "text": "alvéolos",
+      "correct": false
+    }
+  ],
+  "explanation": "Plaquetas se encarga principalmente de iniciar la coagulación sanguínea.",
+  "sources": [
+    {
+      "title": "Wikipedia - plaquetas",
+      "url": "https://es.wikipedia.org/wiki/plaquetas"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "plaquetas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

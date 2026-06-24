@@ -1,0 +1,42 @@
+{
+  "id": "q-001314",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué uso se asocia especialmente el lenguaje o tecnología C?",
+  "answers": [
+    {
+      "text": "aplicaciones empresariales y Android clásico",
+      "correct": false
+    },
+    {
+      "text": "servicios de red y herramientas concurrentes",
+      "correct": false
+    },
+    {
+      "text": "presentación visual de páginas web",
+      "correct": false
+    },
+    {
+      "text": "programación de sistemas de bajo nivel",
+      "correct": true
+    }
+  ],
+  "explanation": "C se asocia especialmente con programación de sistemas de bajo nivel.",
+  "sources": [
+    {
+      "title": "Wikipedia - C",
+      "url": "https://es.wikipedia.org/wiki/C"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "c"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

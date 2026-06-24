@@ -1,0 +1,42 @@
+{
+  "id": "q-001570",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "posiciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte existe la posición de medio scrum?",
+  "answers": [
+    {
+      "text": "rugby",
+      "correct": true
+    },
+    {
+      "text": "baloncesto",
+      "correct": false
+    },
+    {
+      "text": "balonmano",
+      "correct": false
+    },
+    {
+      "text": "ciclismo",
+      "correct": false
+    }
+  ],
+  "explanation": "La posición de medio scrum existe en rugby.",
+  "sources": [
+    {
+      "title": "Wikipedia - medio scrum",
+      "url": "https://es.wikipedia.org/wiki/medio_scrum"
+    }
+  ],
+  "tags": [
+    "posiciones",
+    "rugby"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

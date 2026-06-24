@@ -1,0 +1,42 @@
+{
+  "id": "q-001359",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "historia-de-la-tecnologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué persona o equipo se asocia principalmente Java?",
+  "answers": [
+    {
+      "text": "Rivest, Shamir y Adleman",
+      "correct": false
+    },
+    {
+      "text": "Brendan Eich",
+      "correct": false
+    },
+    {
+      "text": "James Gosling",
+      "correct": true
+    },
+    {
+      "text": "Bjarne Stroustrup",
+      "correct": false
+    }
+  ],
+  "explanation": "Java se asocia principalmente con James Gosling.",
+  "sources": [
+    {
+      "title": "Wikipedia - Java",
+      "url": "https://es.wikipedia.org/wiki/Java"
+    }
+  ],
+  "tags": [
+    "historia-tecnologia",
+    "java"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

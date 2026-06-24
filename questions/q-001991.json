@@ -1,0 +1,42 @@
+{
+  "id": "q-001991",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas-historicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año tuvo lugar el acontecimiento histórico conocido como disolución de la Unión Soviética?",
+  "answers": [
+    {
+      "text": "1215",
+      "correct": false
+    },
+    {
+      "text": "1991",
+      "correct": true
+    },
+    {
+      "text": "476",
+      "correct": false
+    },
+    {
+      "text": "1917",
+      "correct": false
+    }
+  ],
+  "explanation": "La disolución de la Unión Soviética ocurrió en 1991.",
+  "sources": [
+    {
+      "title": "Wikipedia - disolución de la Unión Soviética",
+      "url": "https://es.wikipedia.org/wiki/disoluci%C3%B3n_de_la_Uni%C3%B3n_Sovi%C3%A9tica"
+    }
+  ],
+  "tags": [
+    "fechas-historicas",
+    "disolucion-de-la-union-sovietica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

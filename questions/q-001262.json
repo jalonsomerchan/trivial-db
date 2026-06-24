@@ -1,0 +1,42 @@
+{
+  "id": "q-001262",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué estructura del cuerpo humano se encarga principalmente de coordinar equilibrio y movimientos finos?",
+  "answers": [
+    {
+      "text": "riñones",
+      "correct": false
+    },
+    {
+      "text": "neuronas",
+      "correct": false
+    },
+    {
+      "text": "vesícula biliar",
+      "correct": false
+    },
+    {
+      "text": "cerebelo",
+      "correct": true
+    }
+  ],
+  "explanation": "Cerebelo se encarga principalmente de coordinar equilibrio y movimientos finos.",
+  "sources": [
+    {
+      "title": "Wikipedia - cerebelo",
+      "url": "https://es.wikipedia.org/wiki/cerebelo"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "cerebelo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

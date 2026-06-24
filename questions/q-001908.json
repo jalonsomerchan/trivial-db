@@ -1,0 +1,42 @@
+{
+  "id": "q-001908",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió La tregua?",
+  "answers": [
+    {
+      "text": "Juan Rulfo",
+      "correct": false
+    },
+    {
+      "text": "Laura Esquivel",
+      "correct": false
+    },
+    {
+      "text": "Mario Benedetti",
+      "correct": true
+    },
+    {
+      "text": "Julio Cortázar",
+      "correct": false
+    }
+  ],
+  "explanation": "La tregua fue escrita por Mario Benedetti.",
+  "sources": [
+    {
+      "title": "Wikipedia - La tregua",
+      "url": "https://es.wikipedia.org/wiki/La_tregua"
+    }
+  ],
+  "tags": [
+    "autores",
+    "mario-benedetti"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

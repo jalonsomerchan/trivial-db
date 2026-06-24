@@ -1,0 +1,42 @@
+{
+  "id": "q-001137",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en cocer suavemente un alimento en grasa o líquido?",
+  "answers": [
+    {
+      "text": "flambear",
+      "correct": false
+    },
+    {
+      "text": "sellar",
+      "correct": false
+    },
+    {
+      "text": "saltear",
+      "correct": false
+    },
+    {
+      "text": "pochar",
+      "correct": true
+    }
+  ],
+  "explanation": "Pochar consiste en cocer suavemente un alimento en grasa o líquido.",
+  "sources": [
+    {
+      "title": "Wikipedia - pochar",
+      "url": "https://es.wikipedia.org/wiki/pochar"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "pochar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

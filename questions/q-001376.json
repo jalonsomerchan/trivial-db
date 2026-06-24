@@ -1,0 +1,42 @@
+{
+  "id": "q-001376",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "historia-de-la-tecnologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué persona o equipo se asocia principalmente Smalltalk?",
+  "answers": [
+    {
+      "text": "Alan Kay y colaboradores",
+      "correct": true
+    },
+    {
+      "text": "Charles Babbage",
+      "correct": false
+    },
+    {
+      "text": "Grace Hopper",
+      "correct": false
+    },
+    {
+      "text": "John von Neumann",
+      "correct": false
+    }
+  ],
+  "explanation": "Smalltalk se asocia principalmente con Alan Kay y colaboradores.",
+  "sources": [
+    {
+      "title": "Wikipedia - Smalltalk",
+      "url": "https://es.wikipedia.org/wiki/Smalltalk"
+    }
+  ],
+  "tags": [
+    "historia-tecnologia",
+    "smalltalk"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

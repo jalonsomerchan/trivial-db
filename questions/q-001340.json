@@ -1,0 +1,42 @@
+{
+  "id": "q-001340",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos-de-archivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de archivo suele indicar la extensión .css?",
+  "answers": [
+    {
+      "text": "datos tabulares separados por comas",
+      "correct": false
+    },
+    {
+      "text": "audio sin compresión habitual",
+      "correct": false
+    },
+    {
+      "text": "hoja de estilos",
+      "correct": true
+    },
+    {
+      "text": "imagen de disco",
+      "correct": false
+    }
+  ],
+  "explanation": "La extensión .css suele identificar un archivo de tipo: hoja de estilos.",
+  "sources": [
+    {
+      "title": "Wikipedia - .css",
+      "url": "https://es.wikipedia.org/wiki/.css"
+    }
+  ],
+  "tags": [
+    "formatos-de-archivo",
+    "css"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

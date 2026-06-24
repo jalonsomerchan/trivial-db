@@ -1,0 +1,42 @@
+{
+  "id": "q-001849",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a tundra?",
+  "answers": [
+    {
+      "text": "zona saturada de agua",
+      "correct": false
+    },
+    {
+      "text": "bosque cálido y muy lluvioso",
+      "correct": false
+    },
+    {
+      "text": "matorral mediterráneo",
+      "correct": false
+    },
+    {
+      "text": "clima frío con vegetación baja",
+      "correct": true
+    }
+  ],
+  "explanation": "Tundra se describe como clima frío con vegetación baja.",
+  "sources": [
+    {
+      "title": "Wikipedia - tundra",
+      "url": "https://es.wikipedia.org/wiki/tundra"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "tundra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

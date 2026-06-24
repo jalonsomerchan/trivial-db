@@ -1,0 +1,42 @@
+{
+  "id": "q-001841",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia"
+  ],
+  "difficulty": "medium",
+  "question": "En geología, ¿cómo se clasifica principalmente mica?",
+  "answers": [
+    {
+      "text": "mineral",
+      "correct": true
+    },
+    {
+      "text": "meteorito",
+      "correct": false
+    },
+    {
+      "text": "roca metamórfica",
+      "correct": false
+    },
+    {
+      "text": "fósil",
+      "correct": false
+    }
+  ],
+  "explanation": "Mica se clasifica principalmente como mineral.",
+  "sources": [
+    {
+      "title": "Wikipedia - mica",
+      "url": "https://es.wikipedia.org/wiki/mica"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "mineral"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

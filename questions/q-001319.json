@@ -1,0 +1,42 @@
+{
+  "id": "q-001319",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué uso se asocia especialmente el lenguaje o tecnología Rust?",
+  "answers": [
+    {
+      "text": "aplicaciones históricas de Apple",
+      "correct": false
+    },
+    {
+      "text": "software seguro y de alto rendimiento",
+      "correct": true
+    },
+    {
+      "text": "software de alto rendimiento y sistemas complejos",
+      "correct": false
+    },
+    {
+      "text": "programación cercana al hardware",
+      "correct": false
+    }
+  ],
+  "explanation": "Rust se asocia especialmente con software seguro y de alto rendimiento.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rust",
+      "url": "https://es.wikipedia.org/wiki/Rust"
+    }
+  ],
+  "tags": [
+    "programacion",
+    "rust"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

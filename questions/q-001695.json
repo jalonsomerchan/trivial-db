@@ -1,0 +1,42 @@
+{
+  "id": "q-001695",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó Concierto de Aranjuez?",
+  "answers": [
+    {
+      "text": "Joaquín Rodrigo",
+      "correct": true
+    },
+    {
+      "text": "Ludwig van Beethoven",
+      "correct": false
+    },
+    {
+      "text": "Claude Debussy",
+      "correct": false
+    },
+    {
+      "text": "Gioachino Rossini",
+      "correct": false
+    }
+  ],
+  "explanation": "Concierto de Aranjuez fue compuesta por Joaquín Rodrigo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Concierto de Aranjuez",
+      "url": "https://es.wikipedia.org/wiki/Concierto_de_Aranjuez"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "joaquin-rodrigo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

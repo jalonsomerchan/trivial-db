@@ -1,0 +1,42 @@
+{
+  "id": "q-001145",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en dorar rápidamente la superficie de una pieza?",
+  "answers": [
+    {
+      "text": "desglasar",
+      "correct": false
+    },
+    {
+      "text": "sellar",
+      "correct": true
+    },
+    {
+      "text": "macerar",
+      "correct": false
+    },
+    {
+      "text": "confitar",
+      "correct": false
+    }
+  ],
+  "explanation": "Sellar consiste en dorar rápidamente la superficie de una pieza.",
+  "sources": [
+    {
+      "title": "Wikipedia - sellar",
+      "url": "https://es.wikipedia.org/wiki/sellar"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "sellar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

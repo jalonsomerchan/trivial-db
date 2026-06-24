@@ -1,0 +1,42 @@
+{
+  "id": "q-001662",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué arquitecto o equipo diseñó Pirámide del Louvre?",
+  "answers": [
+    {
+      "text": "Eero Saarinen",
+      "correct": false
+    },
+    {
+      "text": "Frank Lloyd Wright",
+      "correct": false
+    },
+    {
+      "text": "Antoni Gaudí",
+      "correct": false
+    },
+    {
+      "text": "I. M. Pei",
+      "correct": true
+    }
+  ],
+  "explanation": "Pirámide del Louvre fue diseñado por I. M. Pei.",
+  "sources": [
+    {
+      "title": "Wikipedia - Pirámide del Louvre",
+      "url": "https://es.wikipedia.org/wiki/Pir%C3%A1mide_del_Louvre"
+    }
+  ],
+  "tags": [
+    "arquitectura",
+    "i-m-pei"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

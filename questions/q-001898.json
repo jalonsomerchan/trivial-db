@@ -1,0 +1,42 @@
+{
+  "id": "q-001898",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió La peste?",
+  "answers": [
+    {
+      "text": "Leopoldo Alas Clarín",
+      "correct": false
+    },
+    {
+      "text": "Fiódor Dostoyevski",
+      "correct": false
+    },
+    {
+      "text": "Albert Camus",
+      "correct": true
+    },
+    {
+      "text": "Marcel Proust",
+      "correct": false
+    }
+  ],
+  "explanation": "La peste fue escrita por Albert Camus.",
+  "sources": [
+    {
+      "title": "Wikipedia - La peste",
+      "url": "https://es.wikipedia.org/wiki/La_peste"
+    }
+  ],
+  "tags": [
+    "autores",
+    "albert-camus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

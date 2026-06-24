@@ -1,0 +1,42 @@
+{
+  "id": "q-001224",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué nutriente se asocia especialmente con función de numerosas enzimas?",
+  "answers": [
+    {
+      "text": "vitamina A",
+      "correct": false
+    },
+    {
+      "text": "ácido fólico",
+      "correct": false
+    },
+    {
+      "text": "yodo",
+      "correct": false
+    },
+    {
+      "text": "magnesio",
+      "correct": true
+    }
+  ],
+  "explanation": "magnesio se asocia con función de numerosas enzimas.",
+  "sources": [
+    {
+      "title": "Wikipedia - magnesio",
+      "url": "https://es.wikipedia.org/wiki/magnesio"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "magnesio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

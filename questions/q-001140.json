@@ -1,0 +1,42 @@
+{
+  "id": "q-001140",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en recuperar jugos pegados al recipiente añadiendo líquido?",
+  "answers": [
+    {
+      "text": "desglasar",
+      "correct": true
+    },
+    {
+      "text": "saltear",
+      "correct": false
+    },
+    {
+      "text": "escaldar",
+      "correct": false
+    },
+    {
+      "text": "esferificar",
+      "correct": false
+    }
+  ],
+  "explanation": "Desglasar consiste en recuperar jugos pegados al recipiente añadiendo líquido.",
+  "sources": [
+    {
+      "title": "Wikipedia - desglasar",
+      "url": "https://es.wikipedia.org/wiki/desglasar"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "desglasar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

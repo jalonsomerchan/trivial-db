@@ -1,0 +1,42 @@
+{
+  "id": "q-001404",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "personajes-de-cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué película o saga aparece el personaje Indiana Jones?",
+  "answers": [
+    {
+      "text": "Piratas del Caribe",
+      "correct": false
+    },
+    {
+      "text": "Jungla de cristal",
+      "correct": false
+    },
+    {
+      "text": "Gladiator",
+      "correct": false
+    },
+    {
+      "text": "Indiana Jones",
+      "correct": true
+    }
+  ],
+  "explanation": "Indiana Jones es un personaje de Indiana Jones.",
+  "sources": [
+    {
+      "title": "Wikipedia - Indiana Jones",
+      "url": "https://es.wikipedia.org/wiki/Indiana_Jones"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "indiana-jones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

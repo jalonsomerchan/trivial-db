@@ -1,0 +1,42 @@
+{
+  "id": "q-001249",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "medium",
+  "question": "En terminología médica, ¿a qué se refiere el prefijo onco-?",
+  "answers": [
+    {
+      "text": "las uñas",
+      "correct": false
+    },
+    {
+      "text": "los dientes",
+      "correct": false
+    },
+    {
+      "text": "los tumores",
+      "correct": true
+    },
+    {
+      "text": "la sangre",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo onco- se usa para hacer referencia a los tumores.",
+  "sources": [
+    {
+      "title": "Wikipedia - onco-",
+      "url": "https://es.wikipedia.org/wiki/onco-"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "onco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

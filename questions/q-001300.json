@@ -1,0 +1,42 @@
+{
+  "id": "q-001300",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla VPN?",
+  "answers": [
+    {
+      "text": "Cascading Style Sheets",
+      "correct": false
+    },
+    {
+      "text": "Universal Serial Bus",
+      "correct": false
+    },
+    {
+      "text": "Virtual Private Network",
+      "correct": true
+    },
+    {
+      "text": "Graphical User Interface",
+      "correct": false
+    }
+  ],
+  "explanation": "VPN significa Virtual Private Network.",
+  "sources": [
+    {
+      "title": "Wikipedia - VPN",
+      "url": "https://es.wikipedia.org/wiki/VPN"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "vpn"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

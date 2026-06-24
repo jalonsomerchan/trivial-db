@@ -1,0 +1,42 @@
+{
+  "id": "q-001560",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "posiciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte existe la posición de talonador?",
+  "answers": [
+    {
+      "text": "golf",
+      "correct": false
+    },
+    {
+      "text": "rugby",
+      "correct": true
+    },
+    {
+      "text": "voleibol",
+      "correct": false
+    },
+    {
+      "text": "balonmano",
+      "correct": false
+    }
+  ],
+  "explanation": "La posición de talonador existe en rugby.",
+  "sources": [
+    {
+      "title": "Wikipedia - talonador",
+      "url": "https://es.wikipedia.org/wiki/talonador"
+    }
+  ],
+  "tags": [
+    "posiciones",
+    "rugby"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

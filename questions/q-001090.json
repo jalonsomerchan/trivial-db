@@ -1,0 +1,42 @@
+{
+  "id": "q-001090",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "En cocina, ¿qué tipo de ingrediente es principalmente el cordero?",
+  "answers": [
+    {
+      "text": "un condimento ácido",
+      "correct": false
+    },
+    {
+      "text": "una carne",
+      "correct": true
+    },
+    {
+      "text": "un pescado",
+      "correct": false
+    },
+    {
+      "text": "una fruta",
+      "correct": false
+    }
+  ],
+  "explanation": "El cordero se clasifica culinariamente como una carne.",
+  "sources": [
+    {
+      "title": "Wikipedia - cordero",
+      "url": "https://es.wikipedia.org/wiki/cordero"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "cordero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

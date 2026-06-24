@@ -1,0 +1,42 @@
+{
+  "id": "q-001185",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué sistema del cuerpo humano pertenece principalmente capilares?",
+  "answers": [
+    {
+      "text": "sistema tegumentario",
+      "correct": false
+    },
+    {
+      "text": "sistema esquelético",
+      "correct": false
+    },
+    {
+      "text": "sistema cardiovascular",
+      "correct": true
+    },
+    {
+      "text": "sistema nervioso",
+      "correct": false
+    }
+  ],
+  "explanation": "Capilares forma parte principalmente del sistema cardiovascular.",
+  "sources": [
+    {
+      "title": "Wikipedia - capilares",
+      "url": "https://es.wikipedia.org/wiki/capilares"
+    }
+  ],
+  "tags": [
+    "cuerpo-humano",
+    "sistema-cardiovascular"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

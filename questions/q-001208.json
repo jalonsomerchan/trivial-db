@@ -1,0 +1,42 @@
+{
+  "id": "q-001208",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué nutriente se asocia especialmente con metabolismo energético como tiamina?",
+  "answers": [
+    {
+      "text": "sodio",
+      "correct": false
+    },
+    {
+      "text": "vitamina A",
+      "correct": false
+    },
+    {
+      "text": "bicarbonato",
+      "correct": false
+    },
+    {
+      "text": "vitamina B1",
+      "correct": true
+    }
+  ],
+  "explanation": "vitamina B1 se asocia con metabolismo energético como tiamina.",
+  "sources": [
+    {
+      "title": "Wikipedia - vitamina B1",
+      "url": "https://es.wikipedia.org/wiki/vitamina_B1"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-b1"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

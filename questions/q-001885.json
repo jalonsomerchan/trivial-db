@@ -1,0 +1,42 @@
+{
+  "id": "q-001885",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Moby Dick?",
+  "answers": [
+    {
+      "text": "Franz Kafka",
+      "correct": false
+    },
+    {
+      "text": "Virginia Woolf",
+      "correct": false
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": false
+    },
+    {
+      "text": "Herman Melville",
+      "correct": true
+    }
+  ],
+  "explanation": "Moby Dick fue escrita por Herman Melville.",
+  "sources": [
+    {
+      "title": "Wikipedia - Moby Dick",
+      "url": "https://es.wikipedia.org/wiki/Moby_Dick"
+    }
+  ],
+  "tags": [
+    "autores",
+    "herman-melville"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

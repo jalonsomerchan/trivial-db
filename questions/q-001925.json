@@ -1,0 +1,42 @@
+{
+  "id": "q-001925",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Hester Prynne?",
+  "answers": [
+    {
+      "text": "Madame Bovary",
+      "correct": false
+    },
+    {
+      "text": "Moby Dick",
+      "correct": false
+    },
+    {
+      "text": "Hamlet",
+      "correct": false
+    },
+    {
+      "text": "La letra escarlata",
+      "correct": true
+    }
+  ],
+  "explanation": "Hester Prynne aparece en La letra escarlata.",
+  "sources": [
+    {
+      "title": "Wikipedia - Hester Prynne",
+      "url": "https://es.wikipedia.org/wiki/Hester_Prynne"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "la-letra-escarlata"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

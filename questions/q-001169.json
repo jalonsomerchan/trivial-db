@@ -1,0 +1,42 @@
+{
+  "id": "q-001169",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-e-ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente o base es característica del alioli tradicional?",
+  "answers": [
+    {
+      "text": "tomate",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": false
+    },
+    {
+      "text": "ajo y aceite",
+      "correct": true
+    },
+    {
+      "text": "verduras",
+      "correct": false
+    }
+  ],
+  "explanation": "El alioli tradicional se caracteriza por usar ajo y aceite como ingrediente o base principal.",
+  "sources": [
+    {
+      "title": "Wikipedia - alioli tradicional",
+      "url": "https://es.wikipedia.org/wiki/alioli_tradicional"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "alioli-tradicional"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001809",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "plantas"
+  ],
+  "difficulty": "easy",
+  "question": "En botánica básica, ¿qué tipo de planta es lenteja?",
+  "answers": [
+    {
+      "text": "pteridofita",
+      "correct": false
+    },
+    {
+      "text": "leguminosa",
+      "correct": true
+    },
+    {
+      "text": "arbusto aromático",
+      "correct": false
+    },
+    {
+      "text": "briofita",
+      "correct": false
+    }
+  ],
+  "explanation": "Lenteja se clasifica habitualmente como leguminosa.",
+  "sources": [
+    {
+      "title": "Wikipedia - lenteja",
+      "url": "https://es.wikipedia.org/wiki/lenteja"
+    }
+  ],
+  "tags": [
+    "plantas",
+    "leguminosa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

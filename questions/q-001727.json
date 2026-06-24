@@ -1,0 +1,42 @@
+{
+  "id": "q-001727",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "generos-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué lugar se asocia tradicionalmente el género musical reggae?",
+  "answers": [
+    {
+      "text": "Jamaica",
+      "correct": true
+    },
+    {
+      "text": "Corea del Sur",
+      "correct": false
+    },
+    {
+      "text": "China",
+      "correct": false
+    },
+    {
+      "text": "Marruecos",
+      "correct": false
+    }
+  ],
+  "explanation": "El reggae se asocia tradicionalmente con Jamaica.",
+  "sources": [
+    {
+      "title": "Wikipedia - reggae",
+      "url": "https://es.wikipedia.org/wiki/reggae"
+    }
+  ],
+  "tags": [
+    "generos-musicales",
+    "jamaica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

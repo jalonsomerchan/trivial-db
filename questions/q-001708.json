@@ -1,0 +1,42 @@
+{
+  "id": "q-001708",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué familia instrumental pertenece principalmente el clarinete?",
+  "answers": [
+    {
+      "text": "viento metal",
+      "correct": false
+    },
+    {
+      "text": "viento madera",
+      "correct": true
+    },
+    {
+      "text": "aerófono de teclado",
+      "correct": false
+    },
+    {
+      "text": "cuerda percutida",
+      "correct": false
+    }
+  ],
+  "explanation": "El clarinete pertenece principalmente a la familia de viento madera.",
+  "sources": [
+    {
+      "title": "Wikipedia - clarinete",
+      "url": "https://es.wikipedia.org/wiki/clarinete"
+    }
+  ],
+  "tags": [
+    "instrumentos",
+    "viento-madera"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

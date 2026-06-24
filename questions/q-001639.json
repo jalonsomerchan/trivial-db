@@ -1,0 +1,42 @@
+{
+  "id": "q-001639",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Museos Vaticanos?",
+  "answers": [
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": true
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "El Museos Vaticanos se encuentra en Ciudad del Vaticano.",
+  "sources": [
+    {
+      "title": "Wikipedia - Museos Vaticanos",
+      "url": "https://es.wikipedia.org/wiki/Museos_Vaticanos"
+    }
+  ],
+  "tags": [
+    "museos",
+    "ciudad-del-vaticano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002065",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-batallas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año o periodo se sitúa Batalla de Dien Bien Phu?",
+  "answers": [
+    {
+      "text": "1948",
+      "correct": false
+    },
+    {
+      "text": "1942-1943",
+      "correct": false
+    },
+    {
+      "text": "1555",
+      "correct": false
+    },
+    {
+      "text": "1954",
+      "correct": true
+    }
+  ],
+  "explanation": "Batalla de Dien Bien Phu se sitúa históricamente en 1954.",
+  "sources": [
+    {
+      "title": "Wikipedia - Batalla de Dien Bien Phu",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Dien_Bien_Phu"
+    }
+  ],
+  "tags": [
+    "tratados-batallas",
+    "batalla-de-dien-bien-phu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

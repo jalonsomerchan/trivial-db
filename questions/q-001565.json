@@ -1,0 +1,42 @@
+{
+  "id": "q-001565",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "posiciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte existe la posición de running back?",
+  "answers": [
+    {
+      "text": "fútbol americano",
+      "correct": true
+    },
+    {
+      "text": "tenis",
+      "correct": false
+    },
+    {
+      "text": "fútbol",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": false
+    }
+  ],
+  "explanation": "La posición de running back existe en fútbol americano.",
+  "sources": [
+    {
+      "title": "Wikipedia - running back",
+      "url": "https://es.wikipedia.org/wiki/running_back"
+    }
+  ],
+  "tags": [
+    "posiciones",
+    "futbol-americano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

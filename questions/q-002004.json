@@ -1,0 +1,42 @@
+{
+  "id": "q-002004",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué civilización o entidad histórica se asocia principalmente Ur?",
+  "answers": [
+    {
+      "text": "civilización romana",
+      "correct": false
+    },
+    {
+      "text": "Sumeria",
+      "correct": true
+    },
+    {
+      "text": "civilización minoica",
+      "correct": false
+    },
+    {
+      "text": "Imperio de Malí",
+      "correct": false
+    }
+  ],
+  "explanation": "Ur se asocia principalmente con Sumeria.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ur",
+      "url": "https://es.wikipedia.org/wiki/Ur"
+    }
+  ],
+  "tags": [
+    "civilizaciones",
+    "sumeria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

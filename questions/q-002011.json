@@ -1,0 +1,42 @@
+{
+  "id": "q-002011",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué civilización o entidad histórica se asocia principalmente Micenas?",
+  "answers": [
+    {
+      "text": "civilización mexica",
+      "correct": false
+    },
+    {
+      "text": "civilización micénica",
+      "correct": true
+    },
+    {
+      "text": "Imperio de Malí",
+      "correct": false
+    },
+    {
+      "text": "Imperio jemer",
+      "correct": false
+    }
+  ],
+  "explanation": "Micenas se asocia principalmente con civilización micénica.",
+  "sources": [
+    {
+      "title": "Wikipedia - Micenas",
+      "url": "https://es.wikipedia.org/wiki/Micenas"
+    }
+  ],
+  "tags": [
+    "civilizaciones",
+    "civilizacion-micenica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

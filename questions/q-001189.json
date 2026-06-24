@@ -1,0 +1,42 @@
+{
+  "id": "q-001189",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué sistema del cuerpo humano pertenece principalmente tráquea?",
+  "answers": [
+    {
+      "text": "sistema respiratorio",
+      "correct": true
+    },
+    {
+      "text": "sistema linfático",
+      "correct": false
+    },
+    {
+      "text": "sistema endocrino",
+      "correct": false
+    },
+    {
+      "text": "sistema cardiovascular",
+      "correct": false
+    }
+  ],
+  "explanation": "Tráquea forma parte principalmente del sistema respiratorio.",
+  "sources": [
+    {
+      "title": "Wikipedia - tráquea",
+      "url": "https://es.wikipedia.org/wiki/tr%C3%A1quea"
+    }
+  ],
+  "tags": [
+    "cuerpo-humano",
+    "sistema-respiratorio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

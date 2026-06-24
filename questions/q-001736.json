@@ -1,0 +1,42 @@
+{
+  "id": "q-001736",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "generos-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué lugar se asocia tradicionalmente el género musical highlife?",
+  "answers": [
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Colombia",
+      "correct": false
+    },
+    {
+      "text": "Ghana",
+      "correct": true
+    }
+  ],
+  "explanation": "El highlife se asocia tradicionalmente con Ghana.",
+  "sources": [
+    {
+      "title": "Wikipedia - highlife",
+      "url": "https://es.wikipedia.org/wiki/highlife"
+    }
+  ],
+  "tags": [
+    "generos-musicales",
+    "ghana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

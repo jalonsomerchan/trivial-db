@@ -1,0 +1,42 @@
+{
+  "id": "q-001622",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué movimiento artístico se asocia principalmente Caravaggio?",
+  "answers": [
+    {
+      "text": "barroco",
+      "correct": true
+    },
+    {
+      "text": "neoclasicismo",
+      "correct": false
+    },
+    {
+      "text": "renacimiento",
+      "correct": false
+    },
+    {
+      "text": "postimpresionismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Caravaggio se asocia principalmente con el barroco.",
+  "sources": [
+    {
+      "title": "Wikipedia - Caravaggio",
+      "url": "https://es.wikipedia.org/wiki/Caravaggio"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "barroco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

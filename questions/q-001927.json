@@ -1,0 +1,42 @@
+{
+  "id": "q-001927",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Gregor Samsa?",
+  "answers": [
+    {
+      "text": "La metamorfosis",
+      "correct": true
+    },
+    {
+      "text": "Frankenstein",
+      "correct": false
+    },
+    {
+      "text": "Luces de bohemia",
+      "correct": false
+    },
+    {
+      "text": "La letra escarlata",
+      "correct": false
+    }
+  ],
+  "explanation": "Gregor Samsa aparece en La metamorfosis.",
+  "sources": [
+    {
+      "title": "Wikipedia - Gregor Samsa",
+      "url": "https://es.wikipedia.org/wiki/Gregor_Samsa"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "la-metamorfosis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

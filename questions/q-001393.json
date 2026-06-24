@@ -1,0 +1,42 @@
+{
+  "id": "q-001393",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película Parásitos?",
+  "answers": [
+    {
+      "text": "Alfred Hitchcock",
+      "correct": false
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": true
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Greta Gerwig",
+      "correct": false
+    }
+  ],
+  "explanation": "Parásitos fue dirigida por Bong Joon-ho.",
+  "sources": [
+    {
+      "title": "Wikipedia - Parásitos",
+      "url": "https://es.wikipedia.org/wiki/Par%C3%A1sitos"
+    }
+  ],
+  "tags": [
+    "cine",
+    "bong-joon-ho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

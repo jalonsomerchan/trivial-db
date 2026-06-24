@@ -1,0 +1,42 @@
+{
+  "id": "q-001858",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecosistemas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción corresponde mejor a humedal?",
+  "answers": [
+    {
+      "text": "bosque costero de aguas salobres",
+      "correct": false
+    },
+    {
+      "text": "zona saturada de agua",
+      "correct": true
+    },
+    {
+      "text": "pastizal templado",
+      "correct": false
+    },
+    {
+      "text": "depresión submarina profunda",
+      "correct": false
+    }
+  ],
+  "explanation": "Humedal se describe como zona saturada de agua.",
+  "sources": [
+    {
+      "title": "Wikipedia - humedal",
+      "url": "https://es.wikipedia.org/wiki/humedal"
+    }
+  ],
+  "tags": [
+    "ecosistemas",
+    "humedal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

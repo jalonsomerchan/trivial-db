@@ -1,0 +1,42 @@
+{
+  "id": "q-001174",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-e-ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente o base es característica del vichyssoise?",
+  "answers": [
+    {
+      "text": "pescado",
+      "correct": false
+    },
+    {
+      "text": "queso azul",
+      "correct": false
+    },
+    {
+      "text": "puerro",
+      "correct": true
+    },
+    {
+      "text": "tomate",
+      "correct": false
+    }
+  ],
+  "explanation": "El vichyssoise se caracteriza por usar puerro como ingrediente o base principal.",
+  "sources": [
+    {
+      "title": "Wikipedia - vichyssoise",
+      "url": "https://es.wikipedia.org/wiki/vichyssoise"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "vichyssoise"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

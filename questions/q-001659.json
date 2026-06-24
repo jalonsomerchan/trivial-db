@@ -1,0 +1,42 @@
+{
+  "id": "q-001659",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué arquitecto o equipo diseñó Biblioteca de Viipuri?",
+  "answers": [
+    {
+      "text": "Frank Lloyd Wright",
+      "correct": false
+    },
+    {
+      "text": "Alvar Aalto",
+      "correct": true
+    },
+    {
+      "text": "Santiago Calatrava",
+      "correct": false
+    },
+    {
+      "text": "Norman Foster",
+      "correct": false
+    }
+  ],
+  "explanation": "Biblioteca de Viipuri fue diseñado por Alvar Aalto.",
+  "sources": [
+    {
+      "title": "Wikipedia - Biblioteca de Viipuri",
+      "url": "https://es.wikipedia.org/wiki/Biblioteca_de_Viipuri"
+    }
+  ],
+  "tags": [
+    "arquitectura",
+    "alvar-aalto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

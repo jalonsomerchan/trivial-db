@@ -1,0 +1,42 @@
+{
+  "id": "q-001144",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-culinarias"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en dar sabor y conservar con humo?",
+  "answers": [
+    {
+      "text": "desglasar",
+      "correct": false
+    },
+    {
+      "text": "ahumar",
+      "correct": true
+    },
+    {
+      "text": "sellar",
+      "correct": false
+    },
+    {
+      "text": "rehogar",
+      "correct": false
+    }
+  ],
+  "explanation": "Ahumar consiste en dar sabor y conservar con humo.",
+  "sources": [
+    {
+      "title": "Wikipedia - ahumar",
+      "url": "https://es.wikipedia.org/wiki/ahumar"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "ahumar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

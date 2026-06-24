@@ -1,0 +1,42 @@
+{
+  "id": "q-001284",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla URL?",
+  "answers": [
+    {
+      "text": "Internet Protocol",
+      "correct": false
+    },
+    {
+      "text": "Cascading Style Sheets",
+      "correct": false
+    },
+    {
+      "text": "Virtual Private Network",
+      "correct": false
+    },
+    {
+      "text": "Uniform Resource Locator",
+      "correct": true
+    }
+  ],
+  "explanation": "URL significa Uniform Resource Locator.",
+  "sources": [
+    {
+      "title": "Wikipedia - URL",
+      "url": "https://es.wikipedia.org/wiki/URL"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "url"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

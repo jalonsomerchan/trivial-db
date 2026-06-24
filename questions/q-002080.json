@@ -1,0 +1,42 @@
+{
+  "id": "q-002080",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas-historicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año tuvo lugar el Motín del té de Boston?",
+  "answers": [
+    {
+      "text": "1773",
+      "correct": true
+    },
+    {
+      "text": "1936",
+      "correct": false
+    },
+    {
+      "text": "1914",
+      "correct": false
+    },
+    {
+      "text": "1929",
+      "correct": false
+    }
+  ],
+  "explanation": "El Motín del té de Boston tuvo lugar en 1773.",
+  "sources": [
+    {
+      "title": "Wikipedia - Motín del té de Boston",
+      "url": "https://es.wikipedia.org/wiki/Mot%C3%ADn_del_t%C3%A9_de_Boston"
+    }
+  ],
+  "tags": [
+    "fechas-historicas",
+    "motin-del-te"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

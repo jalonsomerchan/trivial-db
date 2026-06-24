@@ -1,0 +1,42 @@
+{
+  "id": "q-001623",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué movimiento artístico se asocia principalmente Peter Paul Rubens?",
+  "answers": [
+    {
+      "text": "barroco",
+      "correct": true
+    },
+    {
+      "text": "románico",
+      "correct": false
+    },
+    {
+      "text": "postimpresionismo",
+      "correct": false
+    },
+    {
+      "text": "neoclasicismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Peter Paul Rubens se asocia principalmente con el barroco.",
+  "sources": [
+    {
+      "title": "Wikipedia - Peter Paul Rubens",
+      "url": "https://es.wikipedia.org/wiki/Peter_Paul_Rubens"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "barroco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

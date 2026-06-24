@@ -1,0 +1,42 @@
+{
+  "id": "q-001237",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "medium",
+  "question": "En terminología médica, ¿a qué se refiere el prefijo dermato-?",
+  "answers": [
+    {
+      "text": "la sangre",
+      "correct": false
+    },
+    {
+      "text": "el hígado",
+      "correct": false
+    },
+    {
+      "text": "la piel",
+      "correct": true
+    },
+    {
+      "text": "los pulmones",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo dermato- se usa para hacer referencia a la piel.",
+  "sources": [
+    {
+      "title": "Wikipedia - dermato-",
+      "url": "https://es.wikipedia.org/wiki/dermato-"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "dermato"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

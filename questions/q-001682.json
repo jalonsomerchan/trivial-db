@@ -1,0 +1,42 @@
+{
+  "id": "q-001682",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó El cascanueces?",
+  "answers": [
+    {
+      "text": "Antonio Vivaldi",
+      "correct": false
+    },
+    {
+      "text": "Antonín Dvořák",
+      "correct": false
+    },
+    {
+      "text": "Piotr Ilich Chaikovski",
+      "correct": true
+    },
+    {
+      "text": "Maurice Ravel",
+      "correct": false
+    }
+  ],
+  "explanation": "El cascanueces fue compuesta por Piotr Ilich Chaikovski.",
+  "sources": [
+    {
+      "title": "Wikipedia - El cascanueces",
+      "url": "https://es.wikipedia.org/wiki/El_cascanueces"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "piotr-ilich-chaikovski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

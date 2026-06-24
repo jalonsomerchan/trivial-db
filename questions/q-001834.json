@@ -1,0 +1,42 @@
+{
+  "id": "q-001834",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia"
+  ],
+  "difficulty": "medium",
+  "question": "En geología, ¿cómo se clasifica principalmente mármol?",
+  "answers": [
+    {
+      "text": "roca ígnea",
+      "correct": false
+    },
+    {
+      "text": "roca metamórfica",
+      "correct": true
+    },
+    {
+      "text": "forma de relieve eólico",
+      "correct": false
+    },
+    {
+      "text": "forma de relieve glaciar",
+      "correct": false
+    }
+  ],
+  "explanation": "Mármol se clasifica principalmente como roca metamórfica.",
+  "sources": [
+    {
+      "title": "Wikipedia - mármol",
+      "url": "https://es.wikipedia.org/wiki/m%C3%A1rmol"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "roca-metamorfica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

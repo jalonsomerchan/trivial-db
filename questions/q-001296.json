@@ -1,0 +1,42 @@
+{
+  "id": "q-001296",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla TCP?",
+  "answers": [
+    {
+      "text": "Command Line Interface",
+      "correct": false
+    },
+    {
+      "text": "Transmission Control Protocol",
+      "correct": true
+    },
+    {
+      "text": "Cascading Style Sheets",
+      "correct": false
+    },
+    {
+      "text": "HyperText Markup Language",
+      "correct": false
+    }
+  ],
+  "explanation": "TCP significa Transmission Control Protocol.",
+  "sources": [
+    {
+      "title": "Wikipedia - TCP",
+      "url": "https://es.wikipedia.org/wiki/TCP"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "tcp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

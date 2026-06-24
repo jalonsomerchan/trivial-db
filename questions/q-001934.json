@@ -1,0 +1,42 @@
+{
+  "id": "q-001934",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Elizabeth Bennet?",
+  "answers": [
+    {
+      "text": "Ulises",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": false
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": true
+    },
+    {
+      "text": "Los miserables",
+      "correct": false
+    }
+  ],
+  "explanation": "Elizabeth Bennet aparece en Orgullo y prejuicio.",
+  "sources": [
+    {
+      "title": "Wikipedia - Elizabeth Bennet",
+      "url": "https://es.wikipedia.org/wiki/Elizabeth_Bennet"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "orgullo-y-prejuicio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001114",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato pho?",
+  "answers": [
+    {
+      "text": "Vietnam",
+      "correct": true
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    },
+    {
+      "text": "Venezuela",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": false
+    }
+  ],
+  "explanation": "Pho es un plato asociado tradicionalmente con Vietnam.",
+  "sources": [
+    {
+      "title": "Wikipedia - pho",
+      "url": "https://es.wikipedia.org/wiki/pho"
+    }
+  ],
+  "tags": [
+    "platos-del-mundo",
+    "vietnam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001698",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compositor creó Cuadros de una exposición?",
+  "answers": [
+    {
+      "text": "Modest Músorgski",
+      "correct": true
+    },
+    {
+      "text": "Jean Sibelius",
+      "correct": false
+    },
+    {
+      "text": "Antonio Vivaldi",
+      "correct": false
+    },
+    {
+      "text": "Giuseppe Verdi",
+      "correct": false
+    }
+  ],
+  "explanation": "Cuadros de una exposición fue compuesta por Modest Músorgski.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cuadros de una exposición",
+      "url": "https://es.wikipedia.org/wiki/Cuadros_de_una_exposici%C3%B3n"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "modest-musorgski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

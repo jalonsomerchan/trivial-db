@@ -1,0 +1,42 @@
+{
+  "id": "q-001478",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "animacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio se asocia con la película de animación La LEGO película?",
+  "answers": [
+    {
+      "text": "Studio Ghibli",
+      "correct": false
+    },
+    {
+      "text": "Blue Sky Studios",
+      "correct": false
+    },
+    {
+      "text": "DreamWorks Animation",
+      "correct": false
+    },
+    {
+      "text": "Warner Animation Group",
+      "correct": true
+    }
+  ],
+  "explanation": "La LEGO película se asocia con el estudio Warner Animation Group.",
+  "sources": [
+    {
+      "title": "Wikipedia - La LEGO película",
+      "url": "https://es.wikipedia.org/wiki/La_LEGO_pel%C3%ADcula"
+    }
+  ],
+  "tags": [
+    "animacion",
+    "warner-animation-group"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

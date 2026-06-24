@@ -1,0 +1,42 @@
+{
+  "id": "q-001918",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-y-obras"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió Campos de Castilla?",
+  "answers": [
+    {
+      "text": "Antonio Machado",
+      "correct": true
+    },
+    {
+      "text": "Lewis Carroll",
+      "correct": false
+    },
+    {
+      "text": "Juan Rulfo",
+      "correct": false
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    }
+  ],
+  "explanation": "Campos de Castilla fue escrita por Antonio Machado.",
+  "sources": [
+    {
+      "title": "Wikipedia - Campos de Castilla",
+      "url": "https://es.wikipedia.org/wiki/Campos_de_Castilla"
+    }
+  ],
+  "tags": [
+    "autores",
+    "antonio-machado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

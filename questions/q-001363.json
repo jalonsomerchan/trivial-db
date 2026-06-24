@@ -1,0 +1,42 @@
+{
+  "id": "q-001363",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "historia-de-la-tecnologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué persona o equipo se asocia principalmente C++?",
+  "answers": [
+    {
+      "text": "James Gosling",
+      "correct": false
+    },
+    {
+      "text": "Edgar F. Codd",
+      "correct": false
+    },
+    {
+      "text": "Guido van Rossum",
+      "correct": false
+    },
+    {
+      "text": "Bjarne Stroustrup",
+      "correct": true
+    }
+  ],
+  "explanation": "C++ se asocia principalmente con Bjarne Stroustrup.",
+  "sources": [
+    {
+      "title": "Wikipedia - C++",
+      "url": "https://es.wikipedia.org/wiki/C%2B%2B"
+    }
+  ],
+  "tags": [
+    "historia-tecnologia",
+    "c"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

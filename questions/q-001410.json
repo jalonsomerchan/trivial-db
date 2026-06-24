@@ -1,0 +1,42 @@
+{
+  "id": "q-001410",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "personajes-de-cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué película o saga aparece el personaje Ellen Ripley?",
+  "answers": [
+    {
+      "text": "Blade Runner",
+      "correct": false
+    },
+    {
+      "text": "Millennium",
+      "correct": false
+    },
+    {
+      "text": "Forrest Gump",
+      "correct": false
+    },
+    {
+      "text": "Alien",
+      "correct": true
+    }
+  ],
+  "explanation": "Ellen Ripley es un personaje de Alien.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ellen Ripley",
+      "url": "https://es.wikipedia.org/wiki/Ellen_Ripley"
+    }
+  ],
+  "tags": [
+    "personajes",
+    "alien"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

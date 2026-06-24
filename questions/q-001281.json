@@ -1,0 +1,42 @@
+{
+  "id": "q-001281",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla HTML?",
+  "answers": [
+    {
+      "text": "Command Line Interface",
+      "correct": false
+    },
+    {
+      "text": "Content Delivery Network",
+      "correct": false
+    },
+    {
+      "text": "Graphical User Interface",
+      "correct": false
+    },
+    {
+      "text": "HyperText Markup Language",
+      "correct": true
+    }
+  ],
+  "explanation": "HTML significa HyperText Markup Language.",
+  "sources": [
+    {
+      "title": "Wikipedia - HTML",
+      "url": "https://es.wikipedia.org/wiki/HTML"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "html"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

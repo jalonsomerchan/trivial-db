@@ -1,0 +1,42 @@
+{
+  "id": "q-001401",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién dirigió la película El viaje de Chihiro?",
+  "answers": [
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    },
+    {
+      "text": "Stanley Kubrick",
+      "correct": false
+    },
+    {
+      "text": "Francis Ford Coppola",
+      "correct": false
+    },
+    {
+      "text": "Hayao Miyazaki",
+      "correct": true
+    }
+  ],
+  "explanation": "El viaje de Chihiro fue dirigida por Hayao Miyazaki.",
+  "sources": [
+    {
+      "title": "Wikipedia - El viaje de Chihiro",
+      "url": "https://es.wikipedia.org/wiki/El_viaje_de_Chihiro"
+    }
+  ],
+  "tags": [
+    "cine",
+    "hayao-miyazaki"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

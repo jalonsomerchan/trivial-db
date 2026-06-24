@@ -1,0 +1,42 @@
+{
+  "id": "q-001536",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "competiciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona la competición Masters de Augusta?",
+  "answers": [
+    {
+      "text": "automovilismo",
+      "correct": false
+    },
+    {
+      "text": "natación",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": true
+    },
+    {
+      "text": "cricket",
+      "correct": false
+    }
+  ],
+  "explanation": "Masters de Augusta es una competición relacionada con golf.",
+  "sources": [
+    {
+      "title": "Wikipedia - Masters de Augusta",
+      "url": "https://es.wikipedia.org/wiki/Masters_de_Augusta"
+    }
+  ],
+  "tags": [
+    "competiciones",
+    "golf"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

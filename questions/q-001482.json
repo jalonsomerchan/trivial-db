@@ -1,0 +1,42 @@
+{
+  "id": "q-001482",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte se usa habitualmente el término Grand Slam?",
+  "answers": [
+    {
+      "text": "baloncesto",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "cricket",
+      "correct": false
+    },
+    {
+      "text": "tenis",
+      "correct": true
+    }
+  ],
+  "explanation": "El término Grand Slam se usa habitualmente en tenis.",
+  "sources": [
+    {
+      "title": "Wikipedia - Grand Slam",
+      "url": "https://es.wikipedia.org/wiki/Grand_Slam"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "tenis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

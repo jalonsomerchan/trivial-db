@@ -1,0 +1,42 @@
+{
+  "id": "q-001368",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "historia-de-la-tecnologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué persona o equipo se asocia principalmente el test de Turing?",
+  "answers": [
+    {
+      "text": "Steve Jobs",
+      "correct": false
+    },
+    {
+      "text": "Yukihiro Matsumoto",
+      "correct": false
+    },
+    {
+      "text": "Alan Turing",
+      "correct": true
+    },
+    {
+      "text": "Douglas Engelbart",
+      "correct": false
+    }
+  ],
+  "explanation": "El test de turing se asocia principalmente con Alan Turing.",
+  "sources": [
+    {
+      "title": "Wikipedia - el test de Turing",
+      "url": "https://es.wikipedia.org/wiki/el_test_de_Turing"
+    }
+  ],
+  "tags": [
+    "historia-tecnologia",
+    "el-test-de-turing"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

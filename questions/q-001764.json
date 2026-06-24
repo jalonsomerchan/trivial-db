@@ -1,0 +1,42 @@
+{
+  "id": "q-001764",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "albumes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista o grupo publicó el álbum London Calling?",
+  "answers": [
+    {
+      "text": "The Clash",
+      "correct": true
+    },
+    {
+      "text": "Pink Floyd",
+      "correct": false
+    },
+    {
+      "text": "Bruce Springsteen",
+      "correct": false
+    },
+    {
+      "text": "David Bowie",
+      "correct": false
+    }
+  ],
+  "explanation": "London Calling es un álbum publicado por The Clash.",
+  "sources": [
+    {
+      "title": "Wikipedia - London Calling",
+      "url": "https://es.wikipedia.org/wiki/London_Calling"
+    }
+  ],
+  "tags": [
+    "albumes",
+    "the-clash"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

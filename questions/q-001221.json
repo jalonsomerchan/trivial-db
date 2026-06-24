@@ -1,0 +1,42 @@
+{
+  "id": "q-001221",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué nutriente se asocia especialmente con equilibrio de líquidos y función nerviosa?",
+  "answers": [
+    {
+      "text": "yodo",
+      "correct": false
+    },
+    {
+      "text": "bicarbonato",
+      "correct": false
+    },
+    {
+      "text": "cobre",
+      "correct": false
+    },
+    {
+      "text": "sodio",
+      "correct": true
+    }
+  ],
+  "explanation": "sodio se asocia con equilibrio de líquidos y función nerviosa.",
+  "sources": [
+    {
+      "title": "Wikipedia - sodio",
+      "url": "https://es.wikipedia.org/wiki/sodio"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "sodio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

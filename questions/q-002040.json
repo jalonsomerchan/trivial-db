@@ -1,0 +1,42 @@
+{
+  "id": "q-002040",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes-historicos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se recuerda históricamente a Emmeline Pankhurst?",
+  "answers": [
+    {
+      "text": "sufragista británica",
+      "correct": true
+    },
+    {
+      "text": "líder contra el apartheid",
+      "correct": false
+    },
+    {
+      "text": "líder por los derechos civiles",
+      "correct": false
+    },
+    {
+      "text": "científica pionera en radiactividad",
+      "correct": false
+    }
+  ],
+  "explanation": "Emmeline Pankhurst se recuerda históricamente como sufragista británica.",
+  "sources": [
+    {
+      "title": "Wikipedia - Emmeline Pankhurst",
+      "url": "https://es.wikipedia.org/wiki/Emmeline_Pankhurst"
+    }
+  ],
+  "tags": [
+    "personajes-historicos",
+    "emmeline-pankhurst"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

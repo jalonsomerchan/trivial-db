@@ -1,0 +1,42 @@
+{
+  "id": "q-001935",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Heathcliff?",
+  "answers": [
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "Cumbres borrascosas",
+      "correct": true
+    },
+    {
+      "text": "Hamlet",
+      "correct": false
+    },
+    {
+      "text": "Rayuela",
+      "correct": false
+    }
+  ],
+  "explanation": "Heathcliff aparece en Cumbres borrascosas.",
+  "sources": [
+    {
+      "title": "Wikipedia - Heathcliff",
+      "url": "https://es.wikipedia.org/wiki/Heathcliff"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "cumbres-borrascosas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

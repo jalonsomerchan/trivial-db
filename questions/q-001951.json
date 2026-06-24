@@ -1,0 +1,42 @@
+{
+  "id": "q-001951",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género o forma literaria se define como poema narrativo heroico?",
+  "answers": [
+    {
+      "text": "relato ordenado de hechos",
+      "correct": false
+    },
+    {
+      "text": "narración mediante cartas",
+      "correct": false
+    },
+    {
+      "text": "epopeya",
+      "correct": true
+    },
+    {
+      "text": "ficción sobre una sociedad opresiva o indeseable",
+      "correct": false
+    }
+  ],
+  "explanation": "Epopeya se define como poema narrativo heroico.",
+  "sources": [
+    {
+      "title": "Wikipedia - epopeya",
+      "url": "https://es.wikipedia.org/wiki/epopeya"
+    }
+  ],
+  "tags": [
+    "generos-literarios",
+    "epopeya"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

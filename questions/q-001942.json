@@ -1,0 +1,42 @@
+{
+  "id": "q-001942",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué obra literaria aparece Max Estrella?",
+  "answers": [
+    {
+      "text": "Madame Bovary",
+      "correct": false
+    },
+    {
+      "text": "Luces de bohemia",
+      "correct": true
+    },
+    {
+      "text": "La Odisea",
+      "correct": false
+    },
+    {
+      "text": "El proceso",
+      "correct": false
+    }
+  ],
+  "explanation": "Max Estrella aparece en Luces de bohemia.",
+  "sources": [
+    {
+      "title": "Wikipedia - Max Estrella",
+      "url": "https://es.wikipedia.org/wiki/Max_Estrella"
+    }
+  ],
+  "tags": [
+    "personajes-literarios",
+    "luces-de-bohemia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

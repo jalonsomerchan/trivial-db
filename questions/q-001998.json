@@ -1,0 +1,42 @@
+{
+  "id": "q-001998",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué civilización o entidad histórica se asocia principalmente Tebas egipcia?",
+  "answers": [
+    {
+      "text": "civilización mexica",
+      "correct": false
+    },
+    {
+      "text": "Antiguo Egipto",
+      "correct": true
+    },
+    {
+      "text": "China Shang",
+      "correct": false
+    },
+    {
+      "text": "civilización púnica",
+      "correct": false
+    }
+  ],
+  "explanation": "Tebas egipcia se asocia principalmente con Antiguo Egipto.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tebas egipcia",
+      "url": "https://es.wikipedia.org/wiki/Tebas_egipcia"
+    }
+  ],
+  "tags": [
+    "civilizaciones",
+    "antiguo-egipto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001475",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "animacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio se asocia con la película de animación Rio?",
+  "answers": [
+    {
+      "text": "Disney",
+      "correct": false
+    },
+    {
+      "text": "Sony Pictures Animation",
+      "correct": false
+    },
+    {
+      "text": "Pixar",
+      "correct": false
+    },
+    {
+      "text": "Blue Sky Studios",
+      "correct": true
+    }
+  ],
+  "explanation": "Rio se asocia con el estudio Blue Sky Studios.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rio",
+      "url": "https://es.wikipedia.org/wiki/Rio"
+    }
+  ],
+  "tags": [
+    "animacion",
+    "blue-sky-studios"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

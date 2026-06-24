@@ -1,0 +1,42 @@
+{
+  "id": "q-001285",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "En tecnología, ¿qué significa la sigla CPU?",
+  "answers": [
+    {
+      "text": "Read-Only Memory",
+      "correct": false
+    },
+    {
+      "text": "Transport Layer Security",
+      "correct": false
+    },
+    {
+      "text": "Central Processing Unit",
+      "correct": true
+    },
+    {
+      "text": "Integrated Development Environment",
+      "correct": false
+    }
+  ],
+  "explanation": "CPU significa Central Processing Unit.",
+  "sources": [
+    {
+      "title": "Wikipedia - CPU",
+      "url": "https://es.wikipedia.org/wiki/CPU"
+    }
+  ],
+  "tags": [
+    "siglas",
+    "cpu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001214",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué nutriente se asocia especialmente con prevención del escorbuto?",
+  "answers": [
+    {
+      "text": "vitamina C",
+      "correct": true
+    },
+    {
+      "text": "hierro",
+      "correct": false
+    },
+    {
+      "text": "potasio",
+      "correct": false
+    },
+    {
+      "text": "vitamina E",
+      "correct": false
+    }
+  ],
+  "explanation": "vitamina C se asocia con prevención del escorbuto.",
+  "sources": [
+    {
+      "title": "Wikipedia - vitamina C",
+      "url": "https://es.wikipedia.org/wiki/vitamina_C"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-c"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

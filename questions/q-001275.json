@@ -1,0 +1,42 @@
+{
+  "id": "q-001275",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué estructura del cuerpo humano se encarga principalmente de percibir sonidos?",
+  "answers": [
+    {
+      "text": "corazón",
+      "correct": false
+    },
+    {
+      "text": "pulmones",
+      "correct": false
+    },
+    {
+      "text": "neuronas",
+      "correct": false
+    },
+    {
+      "text": "oído interno",
+      "correct": true
+    }
+  ],
+  "explanation": "Oído interno se encarga principalmente de percibir sonidos.",
+  "sources": [
+    {
+      "title": "Wikipedia - oído interno",
+      "url": "https://es.wikipedia.org/wiki/o%C3%ADdo_interno"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "oido-interno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-001331",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos-de-archivo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de archivo suele indicar la extensión .png?",
+  "answers": [
+    {
+      "text": "código fuente Java",
+      "correct": false
+    },
+    {
+      "text": "imagen raster con soporte de transparencia",
+      "correct": true
+    },
+    {
+      "text": "imagen fotográfica comprimida",
+      "correct": false
+    },
+    {
+      "text": "imagen de disco",
+      "correct": false
+    }
+  ],
+  "explanation": "La extensión .png suele identificar un archivo de tipo: imagen raster con soporte de transparencia.",
+  "sources": [
+    {
+      "title": "Wikipedia - .png",
+      "url": "https://es.wikipedia.org/wiki/.png"
+    }
+  ],
+  "tags": [
+    "formatos-de-archivo",
+    "png"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

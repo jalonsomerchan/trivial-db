@@ -1,0 +1,42 @@
+{
+  "id": "q-001824",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia"
+  ],
+  "difficulty": "medium",
+  "question": "En geología, ¿cómo se clasifica principalmente granito?",
+  "answers": [
+    {
+      "text": "forma de relieve eólico",
+      "correct": false
+    },
+    {
+      "text": "roca ígnea",
+      "correct": true
+    },
+    {
+      "text": "forma de relieve glaciar",
+      "correct": false
+    },
+    {
+      "text": "meteorito",
+      "correct": false
+    }
+  ],
+  "explanation": "Granito se clasifica principalmente como roca ígnea.",
+  "sources": [
+    {
+      "title": "Wikipedia - granito",
+      "url": "https://es.wikipedia.org/wiki/granito"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "roca-ignea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

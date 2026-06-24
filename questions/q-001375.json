@@ -1,0 +1,42 @@
+{
+  "id": "q-001375",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "historia-de-la-tecnologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué persona o equipo se asocia principalmente la web semántica?",
+  "answers": [
+    {
+      "text": "Larry Wall",
+      "correct": false
+    },
+    {
+      "text": "Dennis Ritchie",
+      "correct": false
+    },
+    {
+      "text": "Tim Berners-Lee",
+      "correct": true
+    },
+    {
+      "text": "Rasmus Lerdorf",
+      "correct": false
+    }
+  ],
+  "explanation": "La web semántica se asocia principalmente con Tim Berners-Lee.",
+  "sources": [
+    {
+      "title": "Wikipedia - la web semántica",
+      "url": "https://es.wikipedia.org/wiki/la_web_sem%C3%A1ntica"
+    }
+  ],
+  "tags": [
+    "historia-tecnologia",
+    "la-web-semantica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
