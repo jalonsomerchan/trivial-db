@@ -2,7 +2,7 @@
 
 Base de datos abierta de preguntas para juegos tipo trivial.
 
-La idea del repositorio es mantener las preguntas como JSON individuales, generar automáticamente los índices por categorías y crear un índice global ligero para poder consultar rápidamente qué preguntas existen.
+La idea del repositorio es mantener las preguntas como JSON individuales, generar automáticamente los índices por categorías, crear un índice global de categorías con estadísticas y crear un índice global ligero para poder consultar rápidamente qué preguntas existen.
 
 ## Estructura del repositorio
 
@@ -19,6 +19,7 @@ categories/
   deportes.json
   cine-tv.json
 
+categories.json
 index.json
 
 scripts/
@@ -193,9 +194,68 @@ El script:
 - Lee todos los archivos `questions/*.json`.
 - Agrupa las preguntas por `category`.
 - Genera un archivo por categoría en `categories/{category}.json`.
+- Genera `categories.json` con todas las categorías y sus estadísticas globales.
 - Calcula `questions`, `subcategories` y `stats`.
 - Conserva metadatos existentes de la categoría: `name`, `description`, `icon` y `color`.
 - Elimina categorías obsoletas que ya no tengan preguntas.
+
+## Índice global de categorías
+
+El archivo `categories.json` se genera automáticamente con toda la información de todas las categorías.
+
+Sirve para cargar en una sola petición el listado completo de categorías, sus preguntas asociadas, subcategorías y estadísticas agregadas, sin tener que pedir cada archivo individual de `categories/`.
+
+Su formato es un objeto con tres campos principales:
+
+```json
+{
+  "categories": [
+    {
+      "id": "historia",
+      "name": "Historia",
+      "questions": ["q-000001", "q-000015", "q-000032"],
+      "subcategories": [
+        {
+          "id": "siglo-xx",
+          "name": "Siglo Xx",
+          "questions": ["q-000001", "q-000015"]
+        }
+      ],
+      "stats": {
+        "total": 3,
+        "easy": 1,
+        "medium": 1,
+        "hard": 1
+      },
+      "updated_at": "2026-06-24"
+    }
+  ],
+  "stats": {
+    "total_categories": 1,
+    "total_questions": 3,
+    "total_subcategories": 1,
+    "easy": 1,
+    "medium": 1,
+    "hard": 1
+  },
+  "updated_at": "2026-06-24"
+}
+```
+
+### Campos de `categories.json`
+
+| Campo | Tipo | Descripción |
+| --- | --- | --- |
+| `categories` | `array<object>` | Lista completa de categorías generadas. Cada elemento usa el mismo formato que los archivos individuales de `categories/`. |
+| `stats.total_categories` | `number` | Número total de categorías generadas. |
+| `stats.total_questions` | `number` | Número total de preguntas incluidas en todas las categorías. |
+| `stats.total_subcategories` | `number` | Número total de subcategorías encontradas. |
+| `stats.easy` | `number` | Número total de preguntas con dificultad `easy`. |
+| `stats.medium` | `number` | Número total de preguntas con dificultad `medium`. |
+| `stats.hard` | `number` | Número total de preguntas con dificultad `hard`. |
+| `updated_at` | `string` | Fecha de última generación en formato `YYYY-MM-DD`. |
+
+`categories.json` es un archivo generado: no debe editarse manualmente. Para actualizarlo, hay que modificar las preguntas de `questions/` y ejecutar `node scripts/generate-categories.mjs` o dejar que lo haga GitHub Actions.
 
 ## Índice global de preguntas
 
@@ -260,7 +320,7 @@ Esta acción ejecuta:
 node scripts/generate-categories.mjs
 ```
 
-Y, si hay cambios, hace commit automático de `categories/`.
+Y, si hay cambios, hace commit automático de `categories/` y `categories.json`.
 
 ### Generate question index
 
@@ -294,6 +354,7 @@ Y, si hay cambios, hace commit automático de `index.json`.
 - Los IDs de categorías deben escribirse en minúsculas, sin espacios y usando guiones cuando sea necesario. Ejemplo: `cine-tv`.
 - Cada pregunta debe indicar su categoría principal en `category`.
 - No se deben actualizar manualmente los arrays `questions` de las categorías: los genera la acción.
+- `categories.json` es un archivo generado: no debe editarse manualmente.
 - `index.json` es un archivo generado: no debe editarse manualmente.
 - Las fechas deben escribirse en formato `YYYY-MM-DD`.
 - Los JSON deben estar formateados con 2 espacios.
