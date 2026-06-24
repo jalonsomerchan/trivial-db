@@ -2,7 +2,7 @@
 
 Base de datos abierta de preguntas para juegos tipo trivial.
 
-La idea del repositorio es mantener las preguntas como JSON individuales y crear índices por categorías para poder cargarlas de forma sencilla desde juegos, webs, apps o scripts.
+La idea del repositorio es mantener las preguntas como JSON individuales, generar automáticamente los índices por categorías y crear un índice global ligero para poder consultar rápidamente qué preguntas existen.
 
 ## Estructura del repositorio
 
@@ -18,6 +18,16 @@ categories/
   ciencia.json
   deportes.json
   cine-tv.json
+
+index.json
+
+scripts/
+  generate-categories.mjs
+  generate-index.mjs
+
+.github/workflows/
+  generate-categories.yml
+  generate-index.yml
 ```
 
 ## Preguntas
@@ -79,8 +89,8 @@ questions/q-000001.json
 | `id` | `string` | Sí | Identificador único de la pregunta. Debe coincidir con el nombre del archivo. Ejemplo: `q-000001`. |
 | `status` | `string` | Sí | Estado editorial de la pregunta. Valores recomendados: `draft`, `reviewed`, `published`, `deprecated`. |
 | `language` | `string` | Sí | Idioma de la pregunta en formato corto. Ejemplo: `es`. |
-| `category` | `string` | Sí | Categoría principal. Debe coincidir con un archivo en `categories/`. |
-| `subcategories` | `array<string>` | No | Subcategorías o agrupaciones más específicas dentro de la categoría principal. |
+| `category` | `string` | Sí | Categoría principal. Se usa para generar automáticamente el archivo correspondiente en `categories/`. |
+| `subcategories` | `array<string>` | No | Subcategorías o agrupaciones más específicas dentro de la categoría principal. Se usan para generar índices secundarios dentro de cada categoría. |
 | `difficulty` | `string` | Sí | Dificultad de la pregunta. Valores recomendados: `easy`, `medium`, `hard`. |
 | `question` | `string` | Sí | Texto de la pregunta. |
 | `answers` | `array<object>` | Sí | Listado de respuestas posibles. Solo una respuesta puede tener `correct: true`. |
@@ -114,13 +124,15 @@ Reglas:
 
 Cada categoría vive en un archivo JSON dentro de `categories/`.
 
-El nombre del archivo debe coincidir con el `id` de la categoría:
+Los archivos de `categories/` se generan automáticamente leyendo todas las preguntas de `questions/`. No hace falta añadir manualmente cada pregunta al índice de su categoría.
+
+El nombre del archivo coincide con el `id` de la categoría:
 
 ```txt
 categories/historia.json
 ```
 
-### Ejemplo de categoría completa
+### Ejemplo de categoría generada
 
 ```json
 {
@@ -137,7 +149,7 @@ categories/historia.json
   "subcategories": [
     {
       "id": "siglo-xx",
-      "name": "Siglo XX",
+      "name": "Siglo Xx",
       "questions": ["q-000001", "q-000015"]
     },
     {
@@ -156,40 +168,133 @@ categories/historia.json
 }
 ```
 
-### Ejemplo de categoría mínima
-
-```json
-{
-  "id": "historia",
-  "name": "Historia",
-  "questions": [
-    "q-000001",
-    "q-000015",
-    "q-000032"
-  ]
-}
-```
-
 ### Campos de una categoría
 
-| Campo | Tipo | Obligatorio | Descripción |
+| Campo | Tipo | Generado | Descripción |
 | --- | --- | --- | --- |
-| `id` | `string` | Sí | Identificador de la categoría. Debe coincidir con el nombre del archivo. |
-| `name` | `string` | Sí | Nombre visible de la categoría. |
-| `description` | `string` | No | Descripción breve de la categoría. |
-| `icon` | `string` | No | Emoji, icono o identificador visual de la categoría. |
-| `color` | `string` | No | Color recomendado para interfaces. Preferiblemente en hexadecimal. |
+| `id` | `string` | Sí | Identificador de la categoría. Sale del campo `category` de las preguntas. |
+| `name` | `string` | Sí | Nombre visible de la categoría. Si el archivo ya existía, se conserva. Si no, se genera desde el `id`. |
+| `description` | `string` | Parcial | Descripción breve de la categoría. Si existe, se conserva al regenerar. |
+| `icon` | `string` | Parcial | Emoji, icono o identificador visual de la categoría. Si existe, se conserva al regenerar. |
+| `color` | `string` | Parcial | Color recomendado para interfaces. Si existe, se conserva al regenerar. |
 | `questions` | `array<string>` | Sí | Lista de IDs de preguntas incluidas en la categoría. |
-| `subcategories` | `array<object>` | No | Índices secundarios dentro de la categoría. |
-| `stats` | `object` | No | Estadísticas precalculadas para uso rápido en frontend. |
-| `updated_at` | `string` | No | Fecha de última actualización en formato `YYYY-MM-DD`. |
+| `subcategories` | `array<object>` | Sí | Índices secundarios calculados desde `subcategories` de las preguntas. |
+| `stats` | `object` | Sí | Estadísticas precalculadas por total y dificultad. |
+| `updated_at` | `string` | Sí | Fecha de última generación en formato `YYYY-MM-DD`. |
+
+### Generar categorías en local
+
+```bash
+node scripts/generate-categories.mjs
+```
+
+El script:
+
+- Lee todos los archivos `questions/*.json`.
+- Agrupa las preguntas por `category`.
+- Genera un archivo por categoría en `categories/{category}.json`.
+- Calcula `questions`, `subcategories` y `stats`.
+- Conserva metadatos existentes de la categoría: `name`, `description`, `icon` y `color`.
+- Elimina categorías obsoletas que ya no tengan preguntas.
+
+## Índice global de preguntas
+
+El archivo `index.json` se genera automáticamente con todas las preguntas disponibles.
+
+Sirve para consultar rápidamente si una pregunta existe sin tener que cargar todos los JSON completos.
+
+Su formato es un array con solo `id` y `question`:
+
+```json
+[
+  {
+    "id": "q-000001",
+    "question": "¿En qué año comenzó la Primera Guerra Mundial?"
+  },
+  {
+    "id": "q-000002",
+    "question": "¿Cuál es la capital de Bélgica?"
+  }
+]
+```
+
+### Generar índice en local
+
+```bash
+node scripts/generate-index.mjs
+```
+
+El script:
+
+- Lee todos los archivos `questions/*.json`.
+- Comprueba que el `id` coincide con el nombre del archivo.
+- Comprueba que no hay IDs duplicados.
+- Crea `index.json` con objetos `{ "id", "question" }`.
+- Si no existe `questions/`, genera un array vacío.
+
+## GitHub Actions
+
+Hay dos acciones automáticas:
+
+### Generate categories
+
+Archivo:
+
+```txt
+.github/workflows/generate-categories.yml
+```
+
+Se ejecuta cuando cambian:
+
+```txt
+questions/**/*.json
+scripts/generate-categories.mjs
+.github/workflows/generate-categories.yml
+```
+
+También puede lanzarse manualmente con `workflow_dispatch`.
+
+Esta acción ejecuta:
+
+```bash
+node scripts/generate-categories.mjs
+```
+
+Y, si hay cambios, hace commit automático de `categories/`.
+
+### Generate question index
+
+Archivo:
+
+```txt
+.github/workflows/generate-index.yml
+```
+
+Se ejecuta cuando cambian:
+
+```txt
+questions/**/*.json
+scripts/generate-index.mjs
+.github/workflows/generate-index.yml
+```
+
+También puede lanzarse manualmente con `workflow_dispatch`.
+
+Esta acción ejecuta:
+
+```bash
+node scripts/generate-index.mjs
+```
+
+Y, si hay cambios, hace commit automático de `index.json`.
 
 ## Convenciones
 
 - Los IDs de preguntas deben seguir el formato `q-000001`, `q-000002`, `q-000003`, etc.
 - Los IDs de categorías deben escribirse en minúsculas, sin espacios y usando guiones cuando sea necesario. Ejemplo: `cine-tv`.
-- Cada pregunta debe aparecer en el índice de su categoría principal.
-- El campo `category` de cada pregunta debe apuntar a una categoría existente.
+- Cada pregunta debe indicar su categoría principal en `category`.
+- No se deben actualizar manualmente los arrays `questions` de las categorías: los genera la acción.
+- `index.json` es un archivo generado: no debe editarse manualmente.
 - Las fechas deben escribirse en formato `YYYY-MM-DD`.
 - Los JSON deben estar formateados con 2 espacios.
 - No se debe añadir un campo `type`: todas las preguntas son de una sola opción correcta.
