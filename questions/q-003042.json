@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "hard",
-  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué protocolo se asocia normalmente al puerto 1883”?",
+  "question": "“Qué protocolo se asocia normalmente al puerto 1883”?",
   "answers": [
     {
       "text": "MQTT",

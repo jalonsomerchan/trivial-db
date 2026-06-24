@@ -7,7 +7,7 @@
     "cine"
   ],
   "difficulty": "easy",
-  "question": "Elige la respuesta correcta para esta pista de entretenimiento: “En entretenimiento, ¿qué opción responde correctamente a esta pista: Qué película fue dirigida por John Lasseter en esta selección”?",
+  "question": "Qué película fue dirigida por John Lasseter en esta selección”?",
   "answers": [
     {
       "text": "El viaje de Chihiro",

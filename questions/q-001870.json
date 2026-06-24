@@ -7,7 +7,7 @@
     "poesia"
   ],
   "difficulty": "hard",
-  "question": "Elige la respuesta correcta para esta pista de arte y literatura: ““La Divina Comedia” pertenece principalmente al ámbito de...”?",
+  "question": "““La Divina Comedia” pertenece principalmente al ámbito de...”?",
   "answers": [
     {
       "text": "épica",

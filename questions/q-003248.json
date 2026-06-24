@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "hard",
-  "question": "Elige la respuesta correcta para esta pista de tecnologia: “Qué código HTTP corresponde a “Too Many Requests””?",
+  "question": "“Qué código HTTP corresponde a “Too Many Requests””?",
   "answers": [
     {
       "text": "301",

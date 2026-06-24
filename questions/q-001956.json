@@ -7,7 +7,7 @@
     "teatro"
   ],
   "difficulty": "easy",
-  "question": "Elige la respuesta correcta para esta pista de arte y literatura: ““El burlador de Sevilla” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta”?",
+  "question": "““El burlador de Sevilla” pertenece principalmente al ámbito de.... ¿Cuál es la respuesta”?",
   "answers": [
     {
       "text": "literatura",
