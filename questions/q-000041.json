@@ -1,0 +1,25 @@
+{
+  "id": "q-000041",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": ["baloncesto"],
+  "difficulty": "easy",
+  "question": "¿Cuántos jugadores de un equipo de baloncesto están en pista durante el juego?",
+  "answers": [
+    { "text": "4", "correct": false },
+    { "text": "5", "correct": true },
+    { "text": "6", "correct": false },
+    { "text": "7", "correct": false }
+  ],
+  "explanation": "En baloncesto, cada equipo juega con cinco jugadores en pista.",
+  "sources": [
+    {
+      "title": "FIBA - Official Basketball Rules",
+      "url": "https://www.fiba.basketball/documents/official-basketball-rules/current.pdf"
+    }
+  ],
+  "tags": ["baloncesto", "reglas", "jugadores"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
