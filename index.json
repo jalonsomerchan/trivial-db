@@ -230,5 +230,13 @@
   {
     "id": "q-000066",
     "question": "¿Qué dispositivo se usa principalmente para introducir texto en un ordenador?"
+  },
+  {
+    "id": "q-000067",
+    "question": "¿Qué animal produce miel?"
+  },
+  {
+    "id": "q-000068",
+    "question": "¿Qué fruto seco es ingrediente principal del mazapán tradicional?"
   }
 ]
