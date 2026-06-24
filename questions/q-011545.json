@@ -1,0 +1,43 @@
+{
+  "id": "q-011545",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con “Mortal Kombat”?",
+  "answers": [
+    {
+      "text": "Nathan Drake",
+      "correct": false
+    },
+    {
+      "text": "Scorpion",
+      "correct": true
+    },
+    {
+      "text": "Jill Valentine",
+      "correct": false
+    },
+    {
+      "text": "Chell",
+      "correct": false
+    }
+  ],
+  "explanation": "Scorpion es un personaje asociado con “Mortal Kombat”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mortal-kombat",
+    "scorpion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

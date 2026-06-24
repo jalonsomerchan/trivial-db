@@ -1,0 +1,43 @@
+{
+  "id": "q-012654",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a Antigua y Barbuda?",
+  "answers": [
+    {
+      "text": "YER",
+      "correct": false
+    },
+    {
+      "text": "PHP",
+      "correct": false
+    },
+    {
+      "text": "IRR",
+      "correct": false
+    },
+    {
+      "text": "XCD",
+      "correct": true
+    }
+  ],
+  "explanation": "El código de moneda registrado para Antigua y Barbuda es XCD.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "antigua-y-barbuda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012360",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con poutine?",
+  "answers": [
+    {
+      "text": "Indonesia",
+      "correct": false
+    },
+    {
+      "text": "Venezuela y Colombia",
+      "correct": false
+    },
+    {
+      "text": "Magreb",
+      "correct": false
+    },
+    {
+      "text": "Canadá",
+      "correct": true
+    }
+  ],
+  "explanation": "poutine se asocia tradicionalmente con Canadá.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "poutine",
+    "canada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

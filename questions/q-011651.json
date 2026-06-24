@@ -1,0 +1,42 @@
+{
+  "id": "q-011651",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “Uncharted”, “The Last of Us”, “Portal” y “Mortal Kombat” relaciona a Nathan Drake con Naughty Dog?",
+  "answers": [
+    {
+      "text": "Uncharted",
+      "correct": true
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": false
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Portal",
+      "correct": false
+    }
+  ],
+  "explanation": "Nathan Drake se asocia con “Uncharted”, vinculado a Naughty Dog.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "uncharted"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

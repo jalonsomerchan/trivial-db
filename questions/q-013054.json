@@ -1,0 +1,42 @@
+{
+  "id": "q-013054",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué hecho ocurrió antes entre batalla de Salamina, firma de la Carta Magna, unificación alemana y batalla de Lepanto?",
+  "answers": [
+    {
+      "text": "firma de la Carta Magna",
+      "correct": false
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "unificación alemana",
+      "correct": false
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, batalla de Salamina es el hecho más antiguo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

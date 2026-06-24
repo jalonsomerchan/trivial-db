@@ -1,0 +1,42 @@
+{
+  "id": "q-012764",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Egipto?",
+  "answers": [
+    {
+      "text": "Western Africa",
+      "correct": false
+    },
+    {
+      "text": "South America",
+      "correct": false
+    },
+    {
+      "text": "Northern Africa",
+      "correct": true
+    },
+    {
+      "text": "Central Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "Egipto pertenece a la subregión Northern Africa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

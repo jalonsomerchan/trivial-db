@@ -1,0 +1,42 @@
+{
+  "id": "q-013814",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Vivo sin vivir en mí” dentro del grupo de ejemplos “Corre como el viento”, “Menos es más”, “Las nieves del tiempo platearon su sien” y “Vivo sin vivir en mí”?",
+  "answers": [
+    {
+      "text": "paradoja",
+      "correct": true
+    },
+    {
+      "text": "personificación",
+      "correct": false
+    },
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “Vivo sin vivir en mí” contiene paradoja.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "paradoja"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

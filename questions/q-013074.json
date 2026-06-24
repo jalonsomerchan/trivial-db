@@ -1,0 +1,42 @@
+{
+  "id": "q-013074",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué hecho ocurrió antes entre construcción del Muro de Berlín, caída del Imperio romano de Occidente, fundación de la ONU y batalla de Waterloo?",
+  "answers": [
+    {
+      "text": "fundación de la ONU",
+      "correct": false
+    },
+    {
+      "text": "batalla de Waterloo",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, caída del Imperio romano de Occidente es el hecho más antiguo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

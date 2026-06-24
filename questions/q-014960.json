@@ -1,0 +1,41 @@
+{
+  "id": "q-014960",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 78 en sistema binario?",
+  "answers": [
+    {
+      "text": "1001110",
+      "correct": true
+    },
+    {
+      "text": "1001101",
+      "correct": false
+    },
+    {
+      "text": "1010000",
+      "correct": false
+    },
+    {
+      "text": "1001111",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 78 es 1001110.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012606",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué continente se ubica principalmente Papúa Nueva Guinea?",
+  "answers": [
+    {
+      "text": "Asia",
+      "correct": false
+    },
+    {
+      "text": "Oceanía",
+      "correct": true
+    },
+    {
+      "text": "África",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": false
+    }
+  ],
+  "explanation": "Papúa Nueva Guinea se ubica principalmente en Oceanía.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "continentes",
+    "oceania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

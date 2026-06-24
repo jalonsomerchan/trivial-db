@@ -1,0 +1,41 @@
+{
+  "id": "q-014466",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 35% de 680?",
+  "answers": [
+    {
+      "text": "243",
+      "correct": false
+    },
+    {
+      "text": "238",
+      "correct": true
+    },
+    {
+      "text": "228",
+      "correct": false
+    },
+    {
+      "text": "248",
+      "correct": false
+    }
+  ],
+  "explanation": "El 35% de 680 se calcula como 680 × 35/100 = 238.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

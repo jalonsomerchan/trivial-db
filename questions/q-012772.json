@@ -1,0 +1,42 @@
+{
+  "id": "q-012772",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Hungría?",
+  "answers": [
+    {
+      "text": "Eastern Europe",
+      "correct": true
+    },
+    {
+      "text": "Middle Africa",
+      "correct": false
+    },
+    {
+      "text": "Melanesia",
+      "correct": false
+    },
+    {
+      "text": "Polynesia",
+      "correct": false
+    }
+  ],
+  "explanation": "Hungría pertenece a la subregión Eastern Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

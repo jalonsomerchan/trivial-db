@@ -1,0 +1,43 @@
+{
+  "id": "q-012678",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a Guinea?",
+  "answers": [
+    {
+      "text": "PGK",
+      "correct": false
+    },
+    {
+      "text": "KWD",
+      "correct": false
+    },
+    {
+      "text": "VND",
+      "correct": false
+    },
+    {
+      "text": "GNF",
+      "correct": true
+    }
+  ],
+  "explanation": "El código de moneda registrado para Guinea es GNF.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "guinea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

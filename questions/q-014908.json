@@ -1,0 +1,41 @@
+{
+  "id": "q-014908",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 386 en sistema binario?",
+  "answers": [
+    {
+      "text": "110000010",
+      "correct": true
+    },
+    {
+      "text": "110000100",
+      "correct": false
+    },
+    {
+      "text": "110000011",
+      "correct": false
+    },
+    {
+      "text": "110000001",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 386 es 110000010.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-013942",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “nacionalizar”, “predecir”, “panadería” y “imposible” contiene prefijo im-?",
+  "answers": [
+    {
+      "text": "predecir",
+      "correct": false
+    },
+    {
+      "text": "nacionalizar",
+      "correct": false
+    },
+    {
+      "text": "imposible",
+      "correct": true
+    },
+    {
+      "text": "panadería",
+      "correct": false
+    }
+  ],
+  "explanation": "“imposible” contiene prefijo im-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

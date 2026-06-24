@@ -1,0 +1,42 @@
+{
+  "id": "q-013333",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece la firma de la Carta Magna?",
+  "answers": [
+    {
+      "text": "siglo XXI d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XIII d. C.",
+      "correct": true
+    },
+    {
+      "text": "siglo I d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XVI d. C.",
+      "correct": false
+    }
+  ],
+  "explanation": "La firma de la Carta Magna se sitúa en el siglo XIII d. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

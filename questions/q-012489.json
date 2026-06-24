@@ -1,0 +1,43 @@
+{
+  "id": "q-012489",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como cocinar por calor seco directo o indirecto?",
+  "answers": [
+    {
+      "text": "asar",
+      "correct": true
+    },
+    {
+      "text": "hervir",
+      "correct": false
+    },
+    {
+      "text": "fermentar",
+      "correct": false
+    },
+    {
+      "text": "freír",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es asar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "asar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

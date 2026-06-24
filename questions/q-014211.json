@@ -1,0 +1,41 @@
+{
+  "id": "q-014211",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 12x + 18 = 378?",
+  "answers": [
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "30",
+      "correct": true
+    },
+    {
+      "text": "33",
+      "correct": false
+    },
+    {
+      "text": "31",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 18 y dividiendo entre 12, se obtiene x = 30.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

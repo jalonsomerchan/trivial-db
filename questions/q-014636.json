@@ -1,0 +1,43 @@
+{
+  "id": "q-014636",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla GPU en informática?",
+  "answers": [
+    {
+      "text": "HyperText Markup Language",
+      "correct": false
+    },
+    {
+      "text": "Central Processing Unit",
+      "correct": false
+    },
+    {
+      "text": "Random Access Memory",
+      "correct": false
+    },
+    {
+      "text": "Graphics Processing Unit",
+      "correct": true
+    }
+  ],
+  "explanation": "En informática, GPU significa Graphics Processing Unit.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "gpu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

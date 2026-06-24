@@ -1,0 +1,42 @@
+{
+  "id": "q-010836",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la función principal del sistema óseo?",
+  "answers": [
+    {
+      "text": "producir movimiento",
+      "correct": false
+    },
+    {
+      "text": "permitir la reproducción",
+      "correct": false
+    },
+    {
+      "text": "coordinar señales y respuestas",
+      "correct": false
+    },
+    {
+      "text": "dar soporte y protección",
+      "correct": true
+    }
+  ],
+  "explanation": "El sistema óseo tiene como función principal dar soporte y protección.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "sistema-oseo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

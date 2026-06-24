@@ -1,0 +1,42 @@
+{
+  "id": "q-013639",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra es antónima de “benévolo”?",
+  "answers": [
+    {
+      "text": "desconocido",
+      "correct": false
+    },
+    {
+      "text": "estéril",
+      "correct": false
+    },
+    {
+      "text": "severo",
+      "correct": true
+    },
+    {
+      "text": "temerario",
+      "correct": false
+    }
+  ],
+  "explanation": "“severo” es antónimo de “benévolo”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "benevolo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

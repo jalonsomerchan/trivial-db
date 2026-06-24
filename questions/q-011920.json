@@ -1,0 +1,42 @@
+{
+  "id": "q-011920",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “El caballero oscuro”, “Alien”, “Roma” y “Casablanca” fue dirigida por Alfonso Cuarón?",
+  "answers": [
+    {
+      "text": "Alien",
+      "correct": false
+    },
+    {
+      "text": "Casablanca",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": true
+    },
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    }
+  ],
+  "explanation": "“Roma” se asocia con Alfonso Cuarón.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfonso-cuaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

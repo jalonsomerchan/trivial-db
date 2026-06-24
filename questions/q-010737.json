@@ -1,0 +1,41 @@
+{
+  "id": "q-010737",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué molaridad tiene una disolución con 48 mol en 4 L?",
+  "answers": [
+    {
+      "text": "12 M",
+      "correct": true
+    },
+    {
+      "text": "11 M",
+      "correct": false
+    },
+    {
+      "text": "52 M",
+      "correct": false
+    },
+    {
+      "text": "13 M",
+      "correct": false
+    }
+  ],
+  "explanation": "La molaridad es moles entre litros: 48/4 = 12 M.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "molaridad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

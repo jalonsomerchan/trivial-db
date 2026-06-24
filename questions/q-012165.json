@@ -1,0 +1,43 @@
+{
+  "id": "q-012165",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué describe mejor la técnica culinaria de laminar?",
+  "answers": [
+    {
+      "text": "concentrar un líquido evaporando parte del agua",
+      "correct": false
+    },
+    {
+      "text": "estirar una masa en capas finas",
+      "correct": true
+    },
+    {
+      "text": "transformar alimentos por acción de microorganismos",
+      "correct": false
+    },
+    {
+      "text": "cocinar en grasa caliente",
+      "correct": false
+    }
+  ],
+  "explanation": "laminar consiste en estirar una masa en capas finas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "laminar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

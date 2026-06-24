@@ -1,0 +1,41 @@
+{
+  "id": "q-014876",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 272 en sistema binario?",
+  "answers": [
+    {
+      "text": "100001111",
+      "correct": false
+    },
+    {
+      "text": "100010010",
+      "correct": false
+    },
+    {
+      "text": "100010001",
+      "correct": false
+    },
+    {
+      "text": "100010000",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 272 es 100010000.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

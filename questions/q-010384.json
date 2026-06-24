@@ -1,0 +1,42 @@
+{
+  "id": "q-010384",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Crimen y castigo”, “La casa de Bernarda Alba”, “La metamorfosis” y “Cien años de soledad” fue escrita por Federico García Lorca?",
+  "answers": [
+    {
+      "text": "Cien años de soledad",
+      "correct": false
+    },
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": true
+    }
+  ],
+  "explanation": "“La casa de Bernarda Alba” fue escrita por Federico García Lorca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "federico-garcia-lorca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

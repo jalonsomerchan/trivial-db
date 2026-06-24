@@ -1,0 +1,42 @@
+{
+  "id": "q-013743",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “El silencio gritaba en la sala” dentro del grupo de ejemplos “Tus dientes son perlas”, “El dulce amargor de la despedida”, “Menos es más” y “El silencio gritaba en la sala”?",
+  "answers": [
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": true
+    }
+  ],
+  "explanation": "La frase “El silencio gritaba en la sala” contiene personificación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "personificacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

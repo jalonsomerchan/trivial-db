@@ -1,0 +1,42 @@
+{
+  "id": "q-013161",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué siglo pertenece la inicio de la Segunda Guerra Púnica?",
+  "answers": [
+    {
+      "text": "siglo I a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo IV a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo III a. C.",
+      "correct": true
+    },
+    {
+      "text": "siglo XIX d. C.",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Segunda Guerra Púnica se sitúa en el siglo III a. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

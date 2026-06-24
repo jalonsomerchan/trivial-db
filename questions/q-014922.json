@@ -1,0 +1,41 @@
+{
+  "id": "q-014922",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 423 en sistema binario?",
+  "answers": [
+    {
+      "text": "110100110",
+      "correct": false
+    },
+    {
+      "text": "110101000",
+      "correct": false
+    },
+    {
+      "text": "110101001",
+      "correct": false
+    },
+    {
+      "text": "110100111",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 423 es 110100111.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

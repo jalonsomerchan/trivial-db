@@ -1,0 +1,42 @@
+{
+  "id": "q-012272",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo pierogi, croissant, satay y tabulé encaja con Francia y con el ingrediente masa hojaldrada?",
+  "answers": [
+    {
+      "text": "tabulé",
+      "correct": false
+    },
+    {
+      "text": "pierogi",
+      "correct": false
+    },
+    {
+      "text": "satay",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": true
+    }
+  ],
+  "explanation": "croissant se asocia con Francia y con masa hojaldrada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "croissant"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014480",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 45% de 180?",
+  "answers": [
+    {
+      "text": "71",
+      "correct": false
+    },
+    {
+      "text": "91",
+      "correct": false
+    },
+    {
+      "text": "81",
+      "correct": true
+    },
+    {
+      "text": "86",
+      "correct": false
+    }
+  ],
+  "explanation": "El 45% de 180 se calcula como 180 × 45/100 = 81.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

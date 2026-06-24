@@ -1,0 +1,42 @@
+{
+  "id": "q-011994",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Wall·E”, “Avatar”, “Casablanca” y “Origen” fue dirigida por Michael Curtiz?",
+  "answers": [
+    {
+      "text": "Avatar",
+      "correct": false
+    },
+    {
+      "text": "Origen",
+      "correct": false
+    },
+    {
+      "text": "Wall·E",
+      "correct": false
+    },
+    {
+      "text": "Casablanca",
+      "correct": true
+    }
+  ],
+  "explanation": "“Casablanca” se asocia con Michael Curtiz.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "michael-curtiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

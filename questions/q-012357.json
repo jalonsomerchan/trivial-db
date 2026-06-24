@@ -1,0 +1,43 @@
+{
+  "id": "q-012357",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con pierogi?",
+  "answers": [
+    {
+      "text": "Polonia",
+      "correct": true
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Vietnam",
+      "correct": false
+    },
+    {
+      "text": "Oriente Medio",
+      "correct": false
+    }
+  ],
+  "explanation": "pierogi se asocia tradicionalmente con Polonia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pierogi",
+    "polonia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

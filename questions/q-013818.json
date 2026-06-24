@@ -1,0 +1,42 @@
+{
+  "id": "q-013818",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Vivo sin vivir en mí” dentro del grupo de ejemplos “El silencio gritaba en la sala”, “Compró pan, leche y fruta”, “La ciudad nunca duerme” y “Vivo sin vivir en mí”?",
+  "answers": [
+    {
+      "text": "oxímoron",
+      "correct": false
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": true
+    }
+  ],
+  "explanation": "La frase “Vivo sin vivir en mí” contiene paradoja.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "paradoja"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

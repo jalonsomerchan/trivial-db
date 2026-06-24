@@ -1,0 +1,41 @@
+{
+  "id": "q-014861",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 196 en sistema binario?",
+  "answers": [
+    {
+      "text": "11000101",
+      "correct": false
+    },
+    {
+      "text": "11000100",
+      "correct": true
+    },
+    {
+      "text": "11000011",
+      "correct": false
+    },
+    {
+      "text": "11000110",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 196 es 11000100.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

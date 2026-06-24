@@ -1,0 +1,43 @@
+{
+  "id": "q-010021",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “Impresión, sol naciente”?",
+  "answers": [
+    {
+      "text": "Leonardo da Vinci",
+      "correct": false
+    },
+    {
+      "text": "Claude Monet",
+      "correct": true
+    },
+    {
+      "text": "Edvard Munch",
+      "correct": false
+    },
+    {
+      "text": "René Magritte",
+      "correct": false
+    }
+  ],
+  "explanation": "“Impresión, sol naciente” es una obra de Claude Monet.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "claude-monet",
+    "impresion-sol-naciente"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

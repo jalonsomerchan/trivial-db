@@ -1,0 +1,42 @@
+{
+  "id": "q-011971",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Psicosis”, “Casablanca”, “Matrix” y “Buscando a Nemo” fue dirigida por Alfred Hitchcock?",
+  "answers": [
+    {
+      "text": "Casablanca",
+      "correct": false
+    },
+    {
+      "text": "Psicosis",
+      "correct": true
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Psicosis” se asocia con Alfred Hitchcock.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfred-hitchcock"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010486",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Romancero gitano”, “La Odisea”, “La ciudad y los perros” y “Rayuela” fue escrita por Federico García Lorca?",
+  "answers": [
+    {
+      "text": "La ciudad y los perros",
+      "correct": false
+    },
+    {
+      "text": "Romancero gitano",
+      "correct": true
+    },
+    {
+      "text": "La Odisea",
+      "correct": false
+    },
+    {
+      "text": "Rayuela",
+      "correct": false
+    }
+  ],
+  "explanation": "“Romancero gitano” fue escrita por Federico García Lorca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "federico-garcia-lorca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

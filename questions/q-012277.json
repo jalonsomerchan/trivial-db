@@ -1,0 +1,42 @@
+{
+  "id": "q-012277",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo poke, ceviche, hummus y moussaka encaja con Hawái y con el ingrediente pescado crudo?",
+  "answers": [
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "ceviche",
+      "correct": false
+    },
+    {
+      "text": "hummus",
+      "correct": false
+    },
+    {
+      "text": "poke",
+      "correct": true
+    }
+  ],
+  "explanation": "poke se asocia con Hawái y con pescado crudo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "poke"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-014964",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como FIFO?",
+  "answers": [
+    {
+      "text": "máquina virtual",
+      "correct": false
+    },
+    {
+      "text": "cola",
+      "correct": true
+    },
+    {
+      "text": "clave foránea",
+      "correct": false
+    },
+    {
+      "text": "índice de base de datos",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a cola.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "cola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010644",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué sistema del cuerpo humano se encarga de defender el organismo frente a patógenos?",
+  "answers": [
+    {
+      "text": "sistema respiratorio",
+      "correct": false
+    },
+    {
+      "text": "sistema muscular",
+      "correct": false
+    },
+    {
+      "text": "sistema inmunitario",
+      "correct": true
+    },
+    {
+      "text": "sistema reproductor",
+      "correct": false
+    }
+  ],
+  "explanation": "La función descrita corresponde al sistema inmunitario.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "sistema-inmunitario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

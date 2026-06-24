@@ -1,0 +1,42 @@
+{
+  "id": "q-010358",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “La Divina Comedia”?",
+  "answers": [
+    {
+      "text": "tragedia",
+      "correct": false
+    },
+    {
+      "text": "poema épico",
+      "correct": true
+    },
+    {
+      "text": "novela",
+      "correct": false
+    },
+    {
+      "text": "epopeya",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Divina Comedia” se clasifica habitualmente como poema épico.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "poema-epico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

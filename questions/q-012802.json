@@ -1,0 +1,42 @@
+{
+  "id": "q-012802",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a República Dominicana?",
+  "answers": [
+    {
+      "text": "Melanesia",
+      "correct": false
+    },
+    {
+      "text": "Southern Africa",
+      "correct": false
+    },
+    {
+      "text": "Caribbean",
+      "correct": true
+    },
+    {
+      "text": "South-Eastern Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "República Dominicana pertenece a la subregión Caribbean.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

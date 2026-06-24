@@ -1,0 +1,42 @@
+{
+  "id": "q-012030",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo calabacín, sardina, avellana y garbanzos es un ejemplo de legumbre?",
+  "answers": [
+    {
+      "text": "calabacín",
+      "correct": false
+    },
+    {
+      "text": "avellana",
+      "correct": false
+    },
+    {
+      "text": "sardina",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": true
+    }
+  ],
+  "explanation": "garbanzos es un ejemplo de legumbre.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "legumbre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

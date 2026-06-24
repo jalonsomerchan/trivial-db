@@ -1,0 +1,42 @@
+{
+  "id": "q-013516",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se clasifica “rápidamente” por la posición de su sílaba tónica?",
+  "answers": [
+    {
+      "text": "esdrújula",
+      "correct": false
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": true
+    },
+    {
+      "text": "llana",
+      "correct": false
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    }
+  ],
+  "explanation": "“rápidamente” se clasifica como palabra sobresdrújula.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "sobresdrujula"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

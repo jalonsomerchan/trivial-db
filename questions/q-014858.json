@@ -1,0 +1,41 @@
+{
+  "id": "q-014858",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 184 en sistema binario?",
+  "answers": [
+    {
+      "text": "10110111",
+      "correct": false
+    },
+    {
+      "text": "10111010",
+      "correct": false
+    },
+    {
+      "text": "10111001",
+      "correct": false
+    },
+    {
+      "text": "10111000",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 184 es 10111000.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014874",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 260 en sistema binario?",
+  "answers": [
+    {
+      "text": "100000110",
+      "correct": false
+    },
+    {
+      "text": "100000100",
+      "correct": true
+    },
+    {
+      "text": "100000011",
+      "correct": false
+    },
+    {
+      "text": "100000101",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 260 es 100000100.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

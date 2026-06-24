@@ -1,0 +1,42 @@
+{
+  "id": "q-010047",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “Don Quijote de la Mancha” frente a la referencia “Madame Bovary”?",
+  "answers": [
+    {
+      "text": "Dante Alighieri",
+      "correct": false
+    },
+    {
+      "text": "Fiódor Dostoievski",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Cervantes",
+      "correct": true
+    },
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “Don Quijote de la Mancha” pertenece a Miguel de Cervantes.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "miguel-de-cervantes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

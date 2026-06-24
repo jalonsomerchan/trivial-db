@@ -1,0 +1,42 @@
+{
+  "id": "q-010337",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué movimiento se vincula la obra “La escuela de Atenas”?",
+  "answers": [
+    {
+      "text": "Impresionismo",
+      "correct": false
+    },
+    {
+      "text": "Expresionismo abstracto",
+      "correct": false
+    },
+    {
+      "text": "Cubismo",
+      "correct": false
+    },
+    {
+      "text": "Renacimiento",
+      "correct": true
+    }
+  ],
+  "explanation": "“La escuela de Atenas” se vincula con Renacimiento.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

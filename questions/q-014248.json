@@ -1,0 +1,41 @@
+{
+  "id": "q-014248",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 3x + 39 = 216?",
+  "answers": [
+    {
+      "text": "62",
+      "correct": false
+    },
+    {
+      "text": "59",
+      "correct": true
+    },
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "60",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 39 y dividiendo entre 3, se obtiene x = 59.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

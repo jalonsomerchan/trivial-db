@@ -1,0 +1,42 @@
+{
+  "id": "q-010716",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud física se mide en voltio?",
+  "answers": [
+    {
+      "text": "tensión eléctrica",
+      "correct": true
+    },
+    {
+      "text": "resistencia eléctrica",
+      "correct": false
+    },
+    {
+      "text": "inducción magnética",
+      "correct": false
+    },
+    {
+      "text": "flujo luminoso",
+      "correct": false
+    }
+  ],
+  "explanation": "El voltio es la unidad del Sistema Internacional para tensión eléctrica.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "voltio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

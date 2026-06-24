@@ -1,0 +1,42 @@
+{
+  "id": "q-012424",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo laksa, fondue, borsch y guacamole se prepara típicamente con queso fundido?",
+  "answers": [
+    {
+      "text": "laksa",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": true
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    }
+  ],
+  "explanation": "fondue se prepara típicamente con queso fundido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fondue"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

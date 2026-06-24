@@ -1,0 +1,43 @@
+{
+  "id": "q-012620",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué continente se ubica principalmente San Cristóbal y Nieves?",
+  "answers": [
+    {
+      "text": "Oceanía",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": true
+    },
+    {
+      "text": "África",
+      "correct": false
+    }
+  ],
+  "explanation": "San Cristóbal y Nieves se ubica principalmente en América.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "continentes",
+    "america"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

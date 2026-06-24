@@ -1,0 +1,43 @@
+{
+  "id": "q-012351",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con kimchi?",
+  "answers": [
+    {
+      "text": "Corea",
+      "correct": true
+    },
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "Turquía y Oriente Medio",
+      "correct": false
+    },
+    {
+      "text": "Hawái",
+      "correct": false
+    }
+  ],
+  "explanation": "kimchi se asocia tradicionalmente con Corea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "kimchi",
+    "corea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

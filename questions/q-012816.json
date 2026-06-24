@@ -1,0 +1,42 @@
+{
+  "id": "q-012816",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Timor Oriental?",
+  "answers": [
+    {
+      "text": "Micronesia",
+      "correct": false
+    },
+    {
+      "text": "Southern Africa",
+      "correct": false
+    },
+    {
+      "text": "South-Eastern Asia",
+      "correct": true
+    },
+    {
+      "text": "Western Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "Timor Oriental pertenece a la subregión South-Eastern Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

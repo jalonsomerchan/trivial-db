@@ -1,0 +1,42 @@
+{
+  "id": "q-012072",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo pera, calabacín, pimiento y salmón es un ejemplo de fruta?",
+  "answers": [
+    {
+      "text": "pera",
+      "correct": true
+    },
+    {
+      "text": "calabacín",
+      "correct": false
+    },
+    {
+      "text": "salmón",
+      "correct": false
+    },
+    {
+      "text": "pimiento",
+      "correct": false
+    }
+  ],
+  "explanation": "pera es un ejemplo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

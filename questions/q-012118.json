@@ -1,0 +1,43 @@
+{
+  "id": "q-012118",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato bibimbap?",
+  "answers": [
+    {
+      "text": "arroz con verduras",
+      "correct": true
+    },
+    {
+      "text": "col fermentada",
+      "correct": false
+    },
+    {
+      "text": "tomate",
+      "correct": false
+    },
+    {
+      "text": "queso fundido",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de bibimbap es arroz con verduras.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bibimbap",
+    "arroz-con-verduras"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-010772",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué presión ejerce una fuerza de 646 N sobre un área de 17 m²?",
+  "answers": [
+    {
+      "text": "21 Pa",
+      "correct": false
+    },
+    {
+      "text": "663 Pa",
+      "correct": false
+    },
+    {
+      "text": "38 Pa",
+      "correct": true
+    },
+    {
+      "text": "55 Pa",
+      "correct": false
+    }
+  ],
+  "explanation": "La presión es fuerza dividida entre área: 646/17 = 38 Pa.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "presion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

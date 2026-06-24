@@ -1,0 +1,43 @@
+{
+  "id": "q-013385",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso se asocia históricamente Augusto?",
+  "answers": [
+    {
+      "text": "primer emperador romano",
+      "correct": true
+    },
+    {
+      "text": "dinastía Qin",
+      "correct": false
+    },
+    {
+      "text": "modernización rusa",
+      "correct": false
+    },
+    {
+      "text": "Casa de Austria",
+      "correct": false
+    }
+  ],
+  "explanation": "Augusto se asocia con primer emperador romano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "augusto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

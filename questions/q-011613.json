@@ -1,0 +1,42 @@
+{
+  "id": "q-011613",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “Sonic the Hedgehog”, “Super Mario Bros.”, “Pac-Man” y “Metal Gear Solid” relaciona a Solid Snake con Konami?",
+  "answers": [
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": true
+    },
+    {
+      "text": "Pac-Man",
+      "correct": false
+    }
+  ],
+  "explanation": "Solid Snake se asocia con “Metal Gear Solid”, vinculado a Konami.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metal-gear-solid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

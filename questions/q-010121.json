@@ -1,0 +1,42 @@
+{
+  "id": "q-010121",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “Orgullo y prejuicio” frente a la referencia “La Divina Comedia”?",
+  "answers": [
+    {
+      "text": "Jane Austen",
+      "correct": true
+    },
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": false
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": false
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “Orgullo y prejuicio” pertenece a Jane Austen.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "jane-austen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

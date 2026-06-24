@@ -1,0 +1,43 @@
+{
+  "id": "q-011527",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Mad Max: Fury Road”?",
+  "answers": [
+    {
+      "text": "George Miller",
+      "correct": true
+    },
+    {
+      "text": "Michael Curtiz",
+      "correct": false
+    },
+    {
+      "text": "Damien Chazelle",
+      "correct": false
+    },
+    {
+      "text": "Orson Welles",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mad Max: Fury Road” está asociada con el director George Miller.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "mad-max-fury-road",
+    "george-miller"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

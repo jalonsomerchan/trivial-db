@@ -1,0 +1,42 @@
+{
+  "id": "q-012754",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Bután?",
+  "answers": [
+    {
+      "text": "Melanesia",
+      "correct": false
+    },
+    {
+      "text": "Southern Asia",
+      "correct": true
+    },
+    {
+      "text": "Southern Europe",
+      "correct": false
+    },
+    {
+      "text": "Eastern Africa",
+      "correct": false
+    }
+  ],
+  "explanation": "Bután pertenece a la subregión Southern Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

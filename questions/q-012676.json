@@ -1,0 +1,43 @@
+{
+  "id": "q-012676",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a Guam?",
+  "answers": [
+    {
+      "text": "SEK",
+      "correct": false
+    },
+    {
+      "text": "BND",
+      "correct": false
+    },
+    {
+      "text": "MOP",
+      "correct": false
+    },
+    {
+      "text": "USD",
+      "correct": true
+    }
+  ],
+  "explanation": "El código de moneda registrado para Guam es USD.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "guam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

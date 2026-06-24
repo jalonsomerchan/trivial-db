@@ -1,0 +1,43 @@
+{
+  "id": "q-010027",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “La persistencia de la memoria”?",
+  "answers": [
+    {
+      "text": "Pablo Picasso",
+      "correct": false
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": true
+    },
+    {
+      "text": "Miguel Ángel",
+      "correct": false
+    },
+    {
+      "text": "Rafael Sanzio",
+      "correct": false
+    }
+  ],
+  "explanation": "“La persistencia de la memoria” es una obra de Salvador Dalí.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "salvador-dali",
+    "la-persistencia-de-la-memoria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

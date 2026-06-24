@@ -1,0 +1,42 @@
+{
+  "id": "q-011899",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Blade Runner”, “El viaje de Chihiro”, “Toy Story” y “La La Land” fue dirigida por Ridley Scott?",
+  "answers": [
+    {
+      "text": "La La Land",
+      "correct": false
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": true
+    }
+  ],
+  "explanation": "“Blade Runner” se asocia con Ridley Scott.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "ridley-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

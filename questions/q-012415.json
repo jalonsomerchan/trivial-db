@@ -1,0 +1,42 @@
+{
+  "id": "q-012415",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo guacamole, borsch, laksa y hummus se prepara típicamente con garbanzos?",
+  "answers": [
+    {
+      "text": "hummus",
+      "correct": true
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "laksa",
+      "correct": false
+    }
+  ],
+  "explanation": "hummus se prepara típicamente con garbanzos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "hummus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

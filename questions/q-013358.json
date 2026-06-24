@@ -1,0 +1,42 @@
+{
+  "id": "q-013358",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la coronación imperial de Carlomagno?",
+  "answers": [
+    {
+      "text": "Antigüedad tardía",
+      "correct": false
+    },
+    {
+      "text": "Gran Depresión",
+      "correct": false
+    },
+    {
+      "text": "Imperio carolingio",
+      "correct": true
+    },
+    {
+      "text": "nacionalismo alemán",
+      "correct": false
+    }
+  ],
+  "explanation": "La coronación imperial de Carlomagno se relaciona con Imperio carolingio.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "imperio-carolingio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

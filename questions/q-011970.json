@@ -1,0 +1,42 @@
+{
+  "id": "q-011970",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Psicosis”, “Casablanca”, “Blade Runner” y “El caballero oscuro” fue dirigida por Ridley Scott?",
+  "answers": [
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": true
+    },
+    {
+      "text": "Casablanca",
+      "correct": false
+    }
+  ],
+  "explanation": "“Blade Runner” se asocia con Ridley Scott.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "ridley-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

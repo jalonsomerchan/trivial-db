@@ -1,0 +1,43 @@
+{
+  "id": "q-010002",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió “Crimen y castigo”?",
+  "answers": [
+    {
+      "text": "Gustave Flaubert",
+      "correct": false
+    },
+    {
+      "text": "Julio Cortázar",
+      "correct": false
+    },
+    {
+      "text": "Fiódor Dostoievski",
+      "correct": true
+    },
+    {
+      "text": "Miguel de Cervantes",
+      "correct": false
+    }
+  ],
+  "explanation": "“Crimen y castigo” fue escrito por Fiódor Dostoievski.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "fiodor-dostoievski",
+    "crimen-y-castigo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

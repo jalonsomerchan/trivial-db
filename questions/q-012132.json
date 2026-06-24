@@ -1,0 +1,43 @@
+{
+  "id": "q-012132",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato kimchi?",
+  "answers": [
+    {
+      "text": "col fermentada",
+      "correct": true
+    },
+    {
+      "text": "aguacate",
+      "correct": false
+    },
+    {
+      "text": "tomate y pan",
+      "correct": false
+    },
+    {
+      "text": "sémola de trigo",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de kimchi es col fermentada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "kimchi",
+    "col-fermentada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

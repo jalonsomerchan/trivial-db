@@ -1,0 +1,42 @@
+{
+  "id": "q-012389",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo borsch, kimchi, tacos y ceviche se prepara típicamente con col fermentada?",
+  "answers": [
+    {
+      "text": "tacos",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": true
+    },
+    {
+      "text": "ceviche",
+      "correct": false
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    }
+  ],
+  "explanation": "kimchi se prepara típicamente con col fermentada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "kimchi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011872",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género describe mejor la película “El padrino”?",
+  "answers": [
+    {
+      "text": "crimen",
+      "correct": true
+    },
+    {
+      "text": "animación",
+      "correct": false
+    },
+    {
+      "text": "drama romántico",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": false
+    }
+  ],
+  "explanation": "“El padrino” se describe habitualmente como crimen.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-padrino",
+    "crimen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

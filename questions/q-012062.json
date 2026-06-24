@@ -1,0 +1,42 @@
+{
+  "id": "q-012062",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo naranja, garbanzos, alubias y leche es un ejemplo de legumbre?",
+  "answers": [
+    {
+      "text": "leche",
+      "correct": false
+    },
+    {
+      "text": "alubias",
+      "correct": false
+    },
+    {
+      "text": "naranja",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": true
+    }
+  ],
+  "explanation": "garbanzos es un ejemplo de legumbre.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "legumbre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

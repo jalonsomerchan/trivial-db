@@ -1,0 +1,42 @@
+{
+  "id": "q-012809",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Santa Lucía?",
+  "answers": [
+    {
+      "text": "Western Europe",
+      "correct": false
+    },
+    {
+      "text": "Northern Europe",
+      "correct": false
+    },
+    {
+      "text": "Northern Africa",
+      "correct": false
+    },
+    {
+      "text": "Caribbean",
+      "correct": true
+    }
+  ],
+  "explanation": "Santa Lucía pertenece a la subregión Caribbean.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

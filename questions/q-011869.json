@@ -1,0 +1,43 @@
+{
+  "id": "q-011869",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género describe mejor la película “Casablanca”?",
+  "answers": [
+    {
+      "text": "drama romántico",
+      "correct": true
+    },
+    {
+      "text": "acción",
+      "correct": false
+    },
+    {
+      "text": "superhéroes",
+      "correct": false
+    },
+    {
+      "text": "musical",
+      "correct": false
+    }
+  ],
+  "explanation": "“Casablanca” se describe habitualmente como drama romántico.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "casablanca",
+    "drama-romantico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

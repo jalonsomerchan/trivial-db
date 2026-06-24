@@ -1,0 +1,42 @@
+{
+  "id": "q-010266",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La joven de la perla”, “La persistencia de la memoria”, “Las señoritas de Avignon” y “La noche estrellada” pertenece al Cubismo?",
+  "answers": [
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "La persistencia de la memoria",
+      "correct": false
+    },
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": true
+    },
+    {
+      "text": "La joven de la perla",
+      "correct": false
+    }
+  ],
+  "explanation": "“Las señoritas de Avignon” se vincula con Cubismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "cubismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

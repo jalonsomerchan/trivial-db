@@ -1,0 +1,43 @@
+{
+  "id": "q-011517",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Blade Runner”?",
+  "answers": [
+    {
+      "text": "Andrew Stanton",
+      "correct": false
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Quentin Tarantino",
+      "correct": false
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": true
+    }
+  ],
+  "explanation": "“Blade Runner” está asociada con el director Ridley Scott.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "blade-runner",
+    "ridley-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

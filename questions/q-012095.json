@@ -1,0 +1,42 @@
+{
+  "id": "q-012095",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo sardina, pera, naranja y avena es un ejemplo de cereal?",
+  "answers": [
+    {
+      "text": "naranja",
+      "correct": false
+    },
+    {
+      "text": "pera",
+      "correct": false
+    },
+    {
+      "text": "sardina",
+      "correct": false
+    },
+    {
+      "text": "avena",
+      "correct": true
+    }
+  ],
+  "explanation": "avena es un ejemplo de cereal.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

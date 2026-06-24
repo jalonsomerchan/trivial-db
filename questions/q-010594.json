@@ -1,0 +1,42 @@
+{
+  "id": "q-010594",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la unidad del Sistema Internacional para medir flujo luminoso?",
+  "answers": [
+    {
+      "text": "pascal",
+      "correct": false
+    },
+    {
+      "text": "lumen",
+      "correct": true
+    },
+    {
+      "text": "culombio",
+      "correct": false
+    },
+    {
+      "text": "becquerel",
+      "correct": false
+    }
+  ],
+  "explanation": "La unidad SI de flujo luminoso es el lumen.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "flujo-luminoso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

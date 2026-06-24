@@ -1,0 +1,43 @@
+{
+  "id": "q-012976",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Pakistán?",
+  "answers": [
+    {
+      "text": ".pm",
+      "correct": false
+    },
+    {
+      "text": ".gh",
+      "correct": false
+    },
+    {
+      "text": ".mp",
+      "correct": false
+    },
+    {
+      "text": ".pk",
+      "correct": true
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Pakistán es .pk.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "pakistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011941",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Jurassic Park”, “El viaje de Chihiro”, “Roma” y “Parásitos” fue dirigida por Hayao Miyazaki?",
+  "answers": [
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Parásitos",
+      "correct": false
+    },
+    {
+      "text": "Jurassic Park",
+      "correct": false
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": true
+    }
+  ],
+  "explanation": "“El viaje de Chihiro” se asocia con Hayao Miyazaki.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "hayao-miyazaki"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

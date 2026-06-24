@@ -1,0 +1,41 @@
+{
+  "id": "q-014551",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el valor decimal del número binario 10111100₂?",
+  "answers": [
+    {
+      "text": "187",
+      "correct": false
+    },
+    {
+      "text": "189",
+      "correct": false
+    },
+    {
+      "text": "188",
+      "correct": true
+    },
+    {
+      "text": "190",
+      "correct": false
+    }
+  ],
+  "explanation": "El número binario 10111100₂ equivale a 188 en decimal.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012767",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Gabón?",
+  "answers": [
+    {
+      "text": "Middle Africa",
+      "correct": true
+    },
+    {
+      "text": "Central America",
+      "correct": false
+    },
+    {
+      "text": "Melanesia",
+      "correct": false
+    },
+    {
+      "text": "Western Africa",
+      "correct": false
+    }
+  ],
+  "explanation": "Gabón pertenece a la subregión Middle Africa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013327",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece la Paz de Westfalia?",
+  "answers": [
+    {
+      "text": "siglo XIX d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo III a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XIII d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XVII d. C.",
+      "correct": true
+    }
+  ],
+  "explanation": "La Paz de Westfalia se sitúa en el siglo XVII d. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

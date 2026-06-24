@@ -1,0 +1,42 @@
+{
+  "id": "q-012196",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia México con tortilla de maíz?",
+  "answers": [
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": true
+    },
+    {
+      "text": "cuscús",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es tacos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tacos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

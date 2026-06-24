@@ -1,0 +1,42 @@
+{
+  "id": "q-012097",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo ternera, almendra, nuez y zanahoria es un ejemplo de carne?",
+  "answers": [
+    {
+      "text": "ternera",
+      "correct": true
+    },
+    {
+      "text": "zanahoria",
+      "correct": false
+    },
+    {
+      "text": "nuez",
+      "correct": false
+    },
+    {
+      "text": "almendra",
+      "correct": false
+    }
+  ],
+  "explanation": "ternera es un ejemplo de carne.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

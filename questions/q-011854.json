@@ -1,0 +1,43 @@
+{
+  "id": "q-011854",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “Pac-Man”?",
+  "answers": [
+    {
+      "text": "Namco",
+      "correct": true
+    },
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Konami",
+      "correct": false
+    },
+    {
+      "text": "Mojang",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pac-Man” se vincula con Namco.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "pac-man",
+    "namco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

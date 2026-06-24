@@ -1,0 +1,42 @@
+{
+  "id": "q-012007",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo almendra, yogur, manzana y salmón es un ejemplo de pescado?",
+  "answers": [
+    {
+      "text": "yogur",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": false
+    },
+    {
+      "text": "almendra",
+      "correct": false
+    },
+    {
+      "text": "salmón",
+      "correct": true
+    }
+  ],
+  "explanation": "salmón es un ejemplo de pescado.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pescado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011763",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Resident Evil”, “God of War”, “Half-Life” y “Super Mario Bros.” encaja con Kratos y el género acción?",
+  "answers": [
+    {
+      "text": "God of War",
+      "correct": true
+    },
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    }
+  ],
+  "explanation": "Kratos se asocia con “God of War”, que se describe como acción.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "god-of-war"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

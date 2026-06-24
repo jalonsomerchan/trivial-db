@@ -1,0 +1,41 @@
+{
+  "id": "q-014190",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 10x + 44 = 344?",
+  "answers": [
+    {
+      "text": "30",
+      "correct": true
+    },
+    {
+      "text": "31",
+      "correct": false
+    },
+    {
+      "text": "33",
+      "correct": false
+    },
+    {
+      "text": "29",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 44 y dividiendo entre 10, se obtiene x = 30.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012039",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo leche, alubias, zanahoria y arroz es un ejemplo de lácteo?",
+  "answers": [
+    {
+      "text": "zanahoria",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": true
+    },
+    {
+      "text": "arroz",
+      "correct": false
+    },
+    {
+      "text": "alubias",
+      "correct": false
+    }
+  ],
+  "explanation": "leche es un ejemplo de lácteo.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "lacteo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

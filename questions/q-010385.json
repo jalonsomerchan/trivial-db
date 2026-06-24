@@ -1,0 +1,42 @@
+{
+  "id": "q-010385",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Crimen y castigo”, “Madame Bovary”, “Don Quijote de la Mancha” y “Rebelión en la granja” fue escrita por George Orwell?",
+  "answers": [
+    {
+      "text": "Rebelión en la granja",
+      "correct": true
+    },
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    },
+    {
+      "text": "Madame Bovary",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": false
+    }
+  ],
+  "explanation": "“Rebelión en la granja” fue escrita por George Orwell.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "george-orwell"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

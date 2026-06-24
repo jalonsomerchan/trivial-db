@@ -1,0 +1,41 @@
+{
+  "id": "q-010813",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué velocidad tiene una onda de longitud 3 m y frecuencia 20 Hz?",
+  "answers": [
+    {
+      "text": "23 m/s",
+      "correct": false
+    },
+    {
+      "text": "80 m/s",
+      "correct": false
+    },
+    {
+      "text": "60 m/s",
+      "correct": true
+    },
+    {
+      "text": "63 m/s",
+      "correct": false
+    }
+  ],
+  "explanation": "La velocidad de una onda es longitud de onda por frecuencia: 3 × 20 = 60 m/s.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "ondas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

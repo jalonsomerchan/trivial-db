@@ -1,0 +1,42 @@
+{
+  "id": "q-013718",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “El dulce amargor de la despedida” dentro del grupo de ejemplos “Corre como el viento”, “El dulce amargor de la despedida”, “Compró pan, leche y fruta” y “Menos es más”?",
+  "answers": [
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": true
+    },
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “El dulce amargor de la despedida” contiene oxímoron.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "oximoron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

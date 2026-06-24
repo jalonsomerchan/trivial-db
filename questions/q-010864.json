@@ -1,0 +1,42 @@
+{
+  "id": "q-010864",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento uranio?",
+  "answers": [
+    {
+      "text": "metal de transición",
+      "correct": false
+    },
+    {
+      "text": "metal alcalinotérreo",
+      "correct": false
+    },
+    {
+      "text": "actínido",
+      "correct": true
+    },
+    {
+      "text": "metal alcalino",
+      "correct": false
+    }
+  ],
+  "explanation": "El uranio se clasifica como actínido.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "actinido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

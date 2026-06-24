@@ -1,0 +1,42 @@
+{
+  "id": "q-013414",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre ampliación de la Unión Europea de 2004, llegada del Apolo 11 a la Luna, publicación de las 95 tesis de Lutero y disolución de la Unión Soviética?",
+  "answers": [
+    {
+      "text": "publicación de las 95 tesis de Lutero",
+      "correct": false
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    },
+    {
+      "text": "ampliación de la Unión Europea de 2004",
+      "correct": true
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, ampliación de la Unión Europea de 2004 es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

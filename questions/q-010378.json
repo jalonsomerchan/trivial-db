@@ -1,0 +1,42 @@
+{
+  "id": "q-010378",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “1984”, “Rayuela”, “Ficciones” y “Romeo y Julieta” fue escrita por William Shakespeare?",
+  "answers": [
+    {
+      "text": "Romeo y Julieta",
+      "correct": true
+    },
+    {
+      "text": "1984",
+      "correct": false
+    },
+    {
+      "text": "Rayuela",
+      "correct": false
+    },
+    {
+      "text": "Ficciones",
+      "correct": false
+    }
+  ],
+  "explanation": "“Romeo y Julieta” fue escrita por William Shakespeare.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "william-shakespeare"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

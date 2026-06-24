@@ -1,0 +1,42 @@
+{
+  "id": "q-011677",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Christopher Nolan encaja con el género superhéroes?",
+  "answers": [
+    {
+      "text": "El caballero oscuro",
+      "correct": true
+    },
+    {
+      "text": "Wall·E",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": false
+    },
+    {
+      "text": "Interstellar",
+      "correct": false
+    }
+  ],
+  "explanation": "“El caballero oscuro” fue dirigida por Christopher Nolan y se asocia con superhéroes.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

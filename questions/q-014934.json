@@ -1,0 +1,41 @@
+{
+  "id": "q-014934",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 447 en sistema binario?",
+  "answers": [
+    {
+      "text": "110111111",
+      "correct": true
+    },
+    {
+      "text": "111000001",
+      "correct": false
+    },
+    {
+      "text": "110111110",
+      "correct": false
+    },
+    {
+      "text": "111000000",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 447 es 110111111.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

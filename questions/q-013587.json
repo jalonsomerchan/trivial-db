@@ -1,0 +1,42 @@
+{
+  "id": "q-013587",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “mágico”, “cántaro”, “brújula” y “jabalí” es aguda?",
+  "answers": [
+    {
+      "text": "cántaro",
+      "correct": false
+    },
+    {
+      "text": "jabalí",
+      "correct": true
+    },
+    {
+      "text": "brújula",
+      "correct": false
+    },
+    {
+      "text": "mágico",
+      "correct": false
+    }
+  ],
+  "explanation": "“jabalí” es una palabra aguda.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "aguda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

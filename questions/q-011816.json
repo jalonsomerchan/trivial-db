@@ -1,0 +1,42 @@
+{
+  "id": "q-011816",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Tomb Raider”, “Portal”, “Super Mario Bros.” y “Resident Evil” encaja con Jill Valentine y el género terror?",
+  "answers": [
+    {
+      "text": "Portal",
+      "correct": false
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": true
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    }
+  ],
+  "explanation": "Jill Valentine se asocia con “Resident Evil”, que se describe como terror.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "resident-evil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

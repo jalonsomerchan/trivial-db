@@ -1,0 +1,42 @@
+{
+  "id": "q-013197",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la concilio de Nicea frente a la referencia histórica de la fundación de la ONU?",
+  "answers": [
+    {
+      "text": "década de 320",
+      "correct": true
+    },
+    {
+      "text": "década de 310",
+      "correct": false
+    },
+    {
+      "text": "década de 330",
+      "correct": false
+    },
+    {
+      "text": "década de 340",
+      "correct": false
+    }
+  ],
+  "explanation": "La concilio de Nicea ocurrió en 325, dentro de la década de 320.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

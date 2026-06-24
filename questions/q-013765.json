@@ -1,0 +1,42 @@
+{
+  "id": "q-013765",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Las nieves del tiempo platearon su sien” dentro del grupo de ejemplos “Las nieves del tiempo platearon su sien”, “Te lo he dicho mil veces”, “Menos es más” y “Compró pan, leche y fruta”?",
+  "answers": [
+    {
+      "text": "paradoja",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": true
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “Las nieves del tiempo platearon su sien” contiene metáfora.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "metafora"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

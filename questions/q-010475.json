@@ -1,0 +1,42 @@
+{
+  "id": "q-010475",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Pedro Páramo”, “Moby Dick”, “La ciudad y los perros” y “Romancero gitano” fue escrita por Mario Vargas Llosa?",
+  "answers": [
+    {
+      "text": "Moby Dick",
+      "correct": false
+    },
+    {
+      "text": "La ciudad y los perros",
+      "correct": true
+    },
+    {
+      "text": "Pedro Páramo",
+      "correct": false
+    },
+    {
+      "text": "Romancero gitano",
+      "correct": false
+    }
+  ],
+  "explanation": "“La ciudad y los perros” fue escrita por Mario Vargas Llosa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "mario-vargas-llosa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

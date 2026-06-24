@@ -1,0 +1,42 @@
+{
+  "id": "q-010139",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “Rebelión en la granja” frente a la referencia “Moby Dick”?",
+  "answers": [
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": false
+    },
+    {
+      "text": "Franz Kafka",
+      "correct": false
+    },
+    {
+      "text": "Fiódor Dostoievski",
+      "correct": false
+    },
+    {
+      "text": "George Orwell",
+      "correct": true
+    }
+  ],
+  "explanation": "La obra “Rebelión en la granja” pertenece a George Orwell.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "george-orwell"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

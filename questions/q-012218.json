@@ -1,0 +1,42 @@
+{
+  "id": "q-012218",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo bibimbap, shakshuka, pizza napolitana y croissant encaja con Italia y con el ingrediente masa de pan?",
+  "answers": [
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "pizza napolitana",
+      "correct": true
+    },
+    {
+      "text": "shakshuka",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    }
+  ],
+  "explanation": "pizza napolitana se asocia con Italia y con masa de pan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pizza-napolitana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

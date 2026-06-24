@@ -1,0 +1,42 @@
+{
+  "id": "q-010158",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué libro se asocia con Gabriel García Márquez y el género realismo mágico?",
+  "answers": [
+    {
+      "text": "Frankenstein",
+      "correct": false
+    },
+    {
+      "text": "Guerra y paz",
+      "correct": false
+    },
+    {
+      "text": "Cien años de soledad",
+      "correct": true
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": false
+    }
+  ],
+  "explanation": "“Cien años de soledad” es una obra de Gabriel García Márquez asociada con realismo mágico.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "gabriel-garcia-marquez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012197",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Norte de África y Oriente Medio con huevos en salsa de tomate?",
+  "answers": [
+    {
+      "text": "gazpacho",
+      "correct": false
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    },
+    {
+      "text": "goulash",
+      "correct": false
+    },
+    {
+      "text": "shakshuka",
+      "correct": true
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es shakshuka.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "shakshuka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

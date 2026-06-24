@@ -1,0 +1,42 @@
+{
+  "id": "q-012433",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo pad thai, pho, tabulé y poke se prepara típicamente con bulgur y perejil?",
+  "answers": [
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "tabulé",
+      "correct": true
+    },
+    {
+      "text": "poke",
+      "correct": false
+    },
+    {
+      "text": "pad thai",
+      "correct": false
+    }
+  ],
+  "explanation": "tabulé se prepara típicamente con bulgur y perejil.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tabule"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013334",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece la independencia de Estados Unidos?",
+  "answers": [
+    {
+      "text": "siglo IV d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XI d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo IV a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XVIII d. C.",
+      "correct": true
+    }
+  ],
+  "explanation": "La independencia de Estados Unidos se sitúa en el siglo XVIII d. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014482",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 45% de 240?",
+  "answers": [
+    {
+      "text": "118",
+      "correct": false
+    },
+    {
+      "text": "108",
+      "correct": true
+    },
+    {
+      "text": "113",
+      "correct": false
+    },
+    {
+      "text": "98",
+      "correct": false
+    }
+  ],
+  "explanation": "El 45% de 240 se calcula como 240 × 45/100 = 108.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

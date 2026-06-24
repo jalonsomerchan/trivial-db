@@ -1,0 +1,42 @@
+{
+  "id": "q-013069",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué hecho ocurrió antes entre concilio de Nicea, independencia de Estados Unidos, asesinato de Julio César y muerte de Alejandro Magno?",
+  "answers": [
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "muerte de Alejandro Magno",
+      "correct": true
+    },
+    {
+      "text": "concilio de Nicea",
+      "correct": false
+    },
+    {
+      "text": "independencia de Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, muerte de Alejandro Magno es el hecho más antiguo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

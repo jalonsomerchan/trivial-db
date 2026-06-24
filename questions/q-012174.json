@@ -1,0 +1,42 @@
+{
+  "id": "q-012174",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Corea con arroz con verduras?",
+  "answers": [
+    {
+      "text": "gazpacho",
+      "correct": false
+    },
+    {
+      "text": "bibimbap",
+      "correct": true
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "satay",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es bibimbap.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bibimbap"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

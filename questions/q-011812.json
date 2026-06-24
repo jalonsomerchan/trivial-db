@@ -1,0 +1,42 @@
+{
+  "id": "q-011812",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Tomb Raider”, “Final Fantasy VII”, “Metal Gear Solid” y “The Witcher 3” encaja con Solid Snake y el género sigilo?",
+  "answers": [
+    {
+      "text": "The Witcher 3",
+      "correct": false
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": true
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    }
+  ],
+  "explanation": "Solid Snake se asocia con “Metal Gear Solid”, que se describe como sigilo.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metal-gear-solid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

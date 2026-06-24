@@ -1,0 +1,42 @@
+{
+  "id": "q-013282",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la concilio de Nicea?",
+  "answers": [
+    {
+      "text": "Bélgica",
+      "correct": false
+    },
+    {
+      "text": "Nicea",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "golfo de Lepanto",
+      "correct": false
+    }
+  ],
+  "explanation": "La concilio de Nicea se asocia directamente con Nicea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "nicea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

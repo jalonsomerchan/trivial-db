@@ -1,0 +1,42 @@
+{
+  "id": "q-010114",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “Madame Bovary” frente a la referencia “Rayuela”?",
+  "answers": [
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "Jane Austen",
+      "correct": false
+    },
+    {
+      "text": "Herman Melville",
+      "correct": false
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": true
+    }
+  ],
+  "explanation": "La obra “Madame Bovary” pertenece a Gustave Flaubert.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "gustave-flaubert"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

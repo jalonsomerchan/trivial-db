@@ -1,0 +1,43 @@
+{
+  "id": "q-012124",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato cuscús?",
+  "answers": [
+    {
+      "text": "arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "arroz",
+      "correct": false
+    },
+    {
+      "text": "fideos",
+      "correct": false
+    },
+    {
+      "text": "sémola de trigo",
+      "correct": true
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de cuscús es sémola de trigo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cuscus",
+    "semola-de-trigo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

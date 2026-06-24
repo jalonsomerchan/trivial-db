@@ -1,0 +1,42 @@
+{
+  "id": "q-011684",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de John Lasseter encaja con el género animación?",
+  "answers": [
+    {
+      "text": "Jurassic Park",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": true
+    },
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "Titanic",
+      "correct": false
+    }
+  ],
+  "explanation": "“Toy Story” fue dirigida por John Lasseter y se asocia con animación.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "john-lasseter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

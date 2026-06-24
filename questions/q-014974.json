@@ -1,0 +1,42 @@
+{
+  "id": "q-014974",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como organización de datos para reducir redundancia?",
+  "answers": [
+    {
+      "text": "normalización",
+      "correct": true
+    },
+    {
+      "text": "clave foránea",
+      "correct": false
+    },
+    {
+      "text": "hash",
+      "correct": false
+    },
+    {
+      "text": "compilador",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a normalización.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "normalizacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

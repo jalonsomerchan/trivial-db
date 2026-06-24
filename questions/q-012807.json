@@ -1,0 +1,42 @@
+{
+  "id": "q-012807",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a San Pedro y Miquelón?",
+  "answers": [
+    {
+      "text": "Polynesia",
+      "correct": false
+    },
+    {
+      "text": "Northern America",
+      "correct": true
+    },
+    {
+      "text": "Caribbean",
+      "correct": false
+    },
+    {
+      "text": "Southern Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "San Pedro y Miquelón pertenece a la subregión Northern America.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

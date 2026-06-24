@@ -1,0 +1,42 @@
+{
+  "id": "q-014984",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función cumple LIMIT en SQL?",
+  "answers": [
+    {
+      "text": "filtrar resultados",
+      "correct": false
+    },
+    {
+      "text": "filtrar grupos",
+      "correct": false
+    },
+    {
+      "text": "limitar la cantidad de resultados",
+      "correct": true
+    },
+    {
+      "text": "combinar tablas",
+      "correct": false
+    }
+  ],
+  "explanation": "LIMIT sirve para limitar la cantidad de resultados en una consulta SQL.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "limit"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

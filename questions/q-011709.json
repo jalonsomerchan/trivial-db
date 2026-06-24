@@ -1,0 +1,42 @@
+{
+  "id": "q-011709",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Half-Life”, “Metroid”, “Mortal Kombat” y “Halo” encaja con Master Chief y el género disparos?",
+  "answers": [
+    {
+      "text": "Halo",
+      "correct": true
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": false
+    },
+    {
+      "text": "Metroid",
+      "correct": false
+    },
+    {
+      "text": "Half-Life",
+      "correct": false
+    }
+  ],
+  "explanation": "Master Chief se asocia con “Halo”, que se describe como disparos.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "halo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

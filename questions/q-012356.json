@@ -1,0 +1,43 @@
+{
+  "id": "q-012356",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con pho?",
+  "answers": [
+    {
+      "text": "Vietnam",
+      "correct": true
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    }
+  ],
+  "explanation": "pho se asocia tradicionalmente con Vietnam.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pho",
+    "vietnam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

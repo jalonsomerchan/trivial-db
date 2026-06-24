@@ -1,0 +1,43 @@
+{
+  "id": "q-010022",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “La Gioconda”?",
+  "answers": [
+    {
+      "text": "Leonardo da Vinci",
+      "correct": true
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    },
+    {
+      "text": "Diego Velázquez",
+      "correct": false
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Gioconda” es una obra de Leonardo da Vinci.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "leonardo-da-vinci",
+    "la-gioconda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

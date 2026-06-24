@@ -1,0 +1,42 @@
+{
+  "id": "q-010362",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “La ciudad y los perros”?",
+  "answers": [
+    {
+      "text": "poema épico",
+      "correct": false
+    },
+    {
+      "text": "novela",
+      "correct": true
+    },
+    {
+      "text": "sátira política",
+      "correct": false
+    },
+    {
+      "text": "cuento",
+      "correct": false
+    }
+  ],
+  "explanation": "“La ciudad y los perros” se clasifica habitualmente como novela.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "novela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

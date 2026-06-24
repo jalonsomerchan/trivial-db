@@ -1,0 +1,43 @@
+{
+  "id": "q-012497",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como estirar una masa en capas finas?",
+  "answers": [
+    {
+      "text": "tostar",
+      "correct": false
+    },
+    {
+      "text": "pochar",
+      "correct": false
+    },
+    {
+      "text": "amasar",
+      "correct": false
+    },
+    {
+      "text": "laminar",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica descrita es laminar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "laminar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

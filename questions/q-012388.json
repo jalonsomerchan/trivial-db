@@ -1,0 +1,42 @@
+{
+  "id": "q-012388",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo biryani, shakshuka, goulash y tabulé se prepara típicamente con arroz especiado?",
+  "answers": [
+    {
+      "text": "biryani",
+      "correct": true
+    },
+    {
+      "text": "tabulé",
+      "correct": false
+    },
+    {
+      "text": "goulash",
+      "correct": false
+    },
+    {
+      "text": "shakshuka",
+      "correct": false
+    }
+  ],
+  "explanation": "biryani se prepara típicamente con arroz especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "biryani"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

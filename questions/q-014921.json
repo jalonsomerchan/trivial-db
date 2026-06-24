@@ -1,0 +1,41 @@
+{
+  "id": "q-014921",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 421 en sistema binario?",
+  "answers": [
+    {
+      "text": "110100100",
+      "correct": false
+    },
+    {
+      "text": "110100110",
+      "correct": false
+    },
+    {
+      "text": "110100101",
+      "correct": true
+    },
+    {
+      "text": "110100111",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 421 es 110100101.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011528",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Matrix”?",
+  "answers": [
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "John Lasseter",
+      "correct": false
+    },
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": true
+    }
+  ],
+  "explanation": "“Matrix” está asociada con el director Lana y Lilly Wachowski.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "matrix",
+    "lana-y-lilly-wachowski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

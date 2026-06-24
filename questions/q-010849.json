@@ -1,0 +1,42 @@
+{
+  "id": "q-010849",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento helio?",
+  "answers": [
+    {
+      "text": "gas noble",
+      "correct": true
+    },
+    {
+      "text": "actínido",
+      "correct": false
+    },
+    {
+      "text": "metal",
+      "correct": false
+    },
+    {
+      "text": "no metal",
+      "correct": false
+    }
+  ],
+  "explanation": "El helio se clasifica como gas noble.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "gas-noble"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

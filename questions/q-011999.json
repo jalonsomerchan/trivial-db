@@ -1,0 +1,42 @@
+{
+  "id": "q-011999",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Wall·E”, “La La Land”, “Psicosis” y “Pulp Fiction” fue dirigida por Quentin Tarantino?",
+  "answers": [
+    {
+      "text": "La La Land",
+      "correct": false
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Pulp Fiction",
+      "correct": true
+    },
+    {
+      "text": "Wall·E",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pulp Fiction” se asocia con Quentin Tarantino.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "quentin-tarantino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

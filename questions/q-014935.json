@@ -1,0 +1,41 @@
+{
+  "id": "q-014935",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 449 en sistema binario?",
+  "answers": [
+    {
+      "text": "111000000",
+      "correct": false
+    },
+    {
+      "text": "111000001",
+      "correct": true
+    },
+    {
+      "text": "111000010",
+      "correct": false
+    },
+    {
+      "text": "111000011",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 449 es 111000001.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

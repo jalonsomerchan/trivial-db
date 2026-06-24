@@ -1,0 +1,42 @@
+{
+  "id": "q-010655",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia-celular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la función principal de la estructura celular llamada membrana plasmática?",
+  "answers": [
+    {
+      "text": "modificar y empaquetar proteínas",
+      "correct": false
+    },
+    {
+      "text": "producir ATP mediante respiración celular",
+      "correct": false
+    },
+    {
+      "text": "sintetizar proteínas",
+      "correct": false
+    },
+    {
+      "text": "regular el paso de sustancias",
+      "correct": true
+    }
+  ],
+  "explanation": "La función principal de membrana plasmática es regular el paso de sustancias.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "celula",
+    "membrana-plasmatica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

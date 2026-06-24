@@ -1,0 +1,42 @@
+{
+  "id": "q-010166",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué libro se asocia con Jorge Luis Borges y el género cuento?",
+  "answers": [
+    {
+      "text": "Fausto",
+      "correct": false
+    },
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": false
+    },
+    {
+      "text": "Ficciones",
+      "correct": true
+    },
+    {
+      "text": "La Ilíada",
+      "correct": false
+    }
+  ],
+  "explanation": "“Ficciones” es una obra de Jorge Luis Borges asociada con cuento.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "jorge-luis-borges"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012873",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código ISO alfa-2 corresponde a Macao?",
+  "answers": [
+    {
+      "text": "CI",
+      "correct": false
+    },
+    {
+      "text": "NO",
+      "correct": false
+    },
+    {
+      "text": "GN",
+      "correct": false
+    },
+    {
+      "text": "MO",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Macao es MO.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "iso",
+    "mo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

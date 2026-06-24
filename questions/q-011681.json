@@ -1,0 +1,42 @@
+{
+  "id": "q-011681",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Hayao Miyazaki encaja con el género animación?",
+  "answers": [
+    {
+      "text": "Titanic",
+      "correct": false
+    },
+    {
+      "text": "Origen",
+      "correct": false
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": true
+    },
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    }
+  ],
+  "explanation": "“El viaje de Chihiro” fue dirigida por Hayao Miyazaki y se asocia con animación.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "hayao-miyazaki"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

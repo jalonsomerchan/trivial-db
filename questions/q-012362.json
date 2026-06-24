@@ -1,0 +1,43 @@
+{
+  "id": "q-012362",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con ratatouille?",
+  "answers": [
+    {
+      "text": "Estados Unidos y México",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": true
+    },
+    {
+      "text": "Polonia",
+      "correct": false
+    }
+  ],
+  "explanation": "ratatouille se asocia tradicionalmente con Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ratatouille",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-014060",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el resultado de sumar 652 y 151?",
+  "answers": [
+    {
+      "text": "804",
+      "correct": false
+    },
+    {
+      "text": "803",
+      "correct": true
+    },
+    {
+      "text": "813",
+      "correct": false
+    },
+    {
+      "text": "793",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma 652 + 151 da 803.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

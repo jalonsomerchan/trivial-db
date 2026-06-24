@@ -1,0 +1,43 @@
+{
+  "id": "q-012541",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué continente se ubica principalmente Emiratos Árabes Unidos?",
+  "answers": [
+    {
+      "text": "Europa",
+      "correct": false
+    },
+    {
+      "text": "Asia",
+      "correct": true
+    },
+    {
+      "text": "América",
+      "correct": false
+    },
+    {
+      "text": "Oceanía",
+      "correct": false
+    }
+  ],
+  "explanation": "Emiratos Árabes Unidos se ubica principalmente en Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "continentes",
+    "asia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

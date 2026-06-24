@@ -1,0 +1,42 @@
+{
+  "id": "q-013420",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre atentados del 11 de septiembre, inicio de la Segunda Guerra Púnica, inicio de la Guerra de Corea y concilio de Nicea?",
+  "answers": [
+    {
+      "text": "inicio de la Segunda Guerra Púnica",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": false
+    },
+    {
+      "text": "concilio de Nicea",
+      "correct": false
+    },
+    {
+      "text": "atentados del 11 de septiembre",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, atentados del 11 de septiembre es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

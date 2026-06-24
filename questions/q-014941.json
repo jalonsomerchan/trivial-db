@@ -1,0 +1,41 @@
+{
+  "id": "q-014941",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 481 en sistema binario?",
+  "answers": [
+    {
+      "text": "111100010",
+      "correct": false
+    },
+    {
+      "text": "111100011",
+      "correct": false
+    },
+    {
+      "text": "111100001",
+      "correct": true
+    },
+    {
+      "text": "111100000",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 481 es 111100001.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

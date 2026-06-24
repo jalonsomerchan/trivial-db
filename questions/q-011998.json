@@ -1,0 +1,42 @@
+{
+  "id": "q-011998",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Wall·E”, “Jurassic Park”, “Avatar” y “Blade Runner” fue dirigida por James Cameron?",
+  "answers": [
+    {
+      "text": "Jurassic Park",
+      "correct": false
+    },
+    {
+      "text": "Avatar",
+      "correct": true
+    },
+    {
+      "text": "Wall·E",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": false
+    }
+  ],
+  "explanation": "“Avatar” se asocia con James Cameron.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "james-cameron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

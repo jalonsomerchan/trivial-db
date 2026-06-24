@@ -1,0 +1,41 @@
+{
+  "id": "q-013945",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “panadería”, “bibliografía”, “lavadora” y “florecer” contiene sufijo -ería?",
+  "answers": [
+    {
+      "text": "florecer",
+      "correct": false
+    },
+    {
+      "text": "bibliografía",
+      "correct": false
+    },
+    {
+      "text": "panadería",
+      "correct": true
+    },
+    {
+      "text": "lavadora",
+      "correct": false
+    }
+  ],
+  "explanation": "“panadería” contiene sufijo -ería.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

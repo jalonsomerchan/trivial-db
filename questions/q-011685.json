@@ -1,0 +1,42 @@
+{
+  "id": "q-011685",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Lana y Lilly Wachowski encaja con el género ciencia ficción?",
+  "answers": [
+    {
+      "text": "Casablanca",
+      "correct": false
+    },
+    {
+      "text": "Interstellar",
+      "correct": false
+    },
+    {
+      "text": "Matrix",
+      "correct": true
+    },
+    {
+      "text": "La La Land",
+      "correct": false
+    }
+  ],
+  "explanation": "“Matrix” fue dirigida por Lana y Lilly Wachowski y se asocia con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lana-y-lilly-wachowski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

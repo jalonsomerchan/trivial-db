@@ -1,0 +1,42 @@
+{
+  "id": "q-012238",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo falafel, goulash, arepa y borsch encaja con Oriente Medio y con el ingrediente garbanzos?",
+  "answers": [
+    {
+      "text": "falafel",
+      "correct": true
+    },
+    {
+      "text": "goulash",
+      "correct": false
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    }
+  ],
+  "explanation": "falafel se asocia con Oriente Medio y con garbanzos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "falafel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

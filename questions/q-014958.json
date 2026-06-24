@@ -1,0 +1,41 @@
+{
+  "id": "q-014958",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 67 en sistema binario?",
+  "answers": [
+    {
+      "text": "1000010",
+      "correct": false
+    },
+    {
+      "text": "1000011",
+      "correct": true
+    },
+    {
+      "text": "1000101",
+      "correct": false
+    },
+    {
+      "text": "1000100",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 67 es 1000011.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-014633",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla CPU en informática?",
+  "answers": [
+    {
+      "text": "Internet Message Access Protocol",
+      "correct": false
+    },
+    {
+      "text": "Simple Mail Transfer Protocol",
+      "correct": false
+    },
+    {
+      "text": "Central Processing Unit",
+      "correct": true
+    },
+    {
+      "text": "Extensible Markup Language",
+      "correct": false
+    }
+  ],
+  "explanation": "En informática, CPU significa Central Processing Unit.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "cpu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012464",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo satay, borsch, risotto y ramen se prepara típicamente con brochetas con salsa de cacahuete?",
+  "answers": [
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "satay",
+      "correct": true
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "ramen",
+      "correct": false
+    }
+  ],
+  "explanation": "satay se prepara típicamente con brochetas con salsa de cacahuete.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "satay"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

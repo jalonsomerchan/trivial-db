@@ -1,0 +1,42 @@
+{
+  "id": "q-010423",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Hamlet”, “El Aleph”, “Cien años de soledad” y “Romancero gitano” fue escrita por Federico García Lorca?",
+  "answers": [
+    {
+      "text": "Cien años de soledad",
+      "correct": false
+    },
+    {
+      "text": "Hamlet",
+      "correct": false
+    },
+    {
+      "text": "Romancero gitano",
+      "correct": true
+    },
+    {
+      "text": "El Aleph",
+      "correct": false
+    }
+  ],
+  "explanation": "“Romancero gitano” fue escrita por Federico García Lorca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "federico-garcia-lorca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

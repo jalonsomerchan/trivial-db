@@ -1,0 +1,42 @@
+{
+  "id": "q-010042",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “Cien años de soledad” frente a la referencia “Romeo y Julieta”?",
+  "answers": [
+    {
+      "text": "Gabriel García Márquez",
+      "correct": true
+    },
+    {
+      "text": "Fiódor Dostoievski",
+      "correct": false
+    },
+    {
+      "text": "Mary Shelley",
+      "correct": false
+    },
+    {
+      "text": "Herman Melville",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “Cien años de soledad” pertenece a Gabriel García Márquez.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "gabriel-garcia-marquez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011919",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Ciudadano Kane”, “Roma”, “Origen” y “Wall·E” fue dirigida por Andrew Stanton?",
+  "answers": [
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Wall·E",
+      "correct": true
+    },
+    {
+      "text": "Origen",
+      "correct": false
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": false
+    }
+  ],
+  "explanation": "“Wall·E” se asocia con Andrew Stanton.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "andrew-stanton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

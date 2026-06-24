@@ -1,0 +1,42 @@
+{
+  "id": "q-011822",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Uncharted”, “Half-Life”, “Pac-Man” y “Mortal Kombat” encaja con Pac-Man y el género arcade?",
+  "answers": [
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": false
+    },
+    {
+      "text": "Pac-Man",
+      "correct": true
+    },
+    {
+      "text": "Uncharted",
+      "correct": false
+    }
+  ],
+  "explanation": "Pac-Man se asocia con “Pac-Man”, que se describe como arcade.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "pac-man"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011628",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “The Last of Us”, “Half-Life”, “Sonic the Hedgehog” y “God of War” relaciona a Kratos con Santa Monica Studio?",
+  "answers": [
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    },
+    {
+      "text": "God of War",
+      "correct": true
+    }
+  ],
+  "explanation": "Kratos se asocia con “God of War”, vinculado a Santa Monica Studio.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "god-of-war"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012201",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Sudeste Asiático con fideos y caldo especiado?",
+  "answers": [
+    {
+      "text": "baklava",
+      "correct": false
+    },
+    {
+      "text": "paella",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "laksa",
+      "correct": true
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es laksa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "laksa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

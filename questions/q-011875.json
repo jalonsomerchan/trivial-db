@@ -1,0 +1,43 @@
+{
+  "id": "q-011875",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género describe mejor la película “Jurassic Park”?",
+  "answers": [
+    {
+      "text": "musical",
+      "correct": false
+    },
+    {
+      "text": "superhéroes",
+      "correct": false
+    },
+    {
+      "text": "animación",
+      "correct": false
+    },
+    {
+      "text": "aventura",
+      "correct": true
+    }
+  ],
+  "explanation": "“Jurassic Park” se describe habitualmente como aventura.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "jurassic-park",
+    "aventura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010846",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento estaño?",
+  "answers": [
+    {
+      "text": "metal",
+      "correct": true
+    },
+    {
+      "text": "gas noble",
+      "correct": false
+    },
+    {
+      "text": "no metal",
+      "correct": false
+    },
+    {
+      "text": "metal de transición",
+      "correct": false
+    }
+  ],
+  "explanation": "El estaño se clasifica como metal.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "metal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

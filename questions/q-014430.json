@@ -1,0 +1,41 @@
+{
+  "id": "q-014430",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 15% de 940?",
+  "answers": [
+    {
+      "text": "131",
+      "correct": false
+    },
+    {
+      "text": "141",
+      "correct": true
+    },
+    {
+      "text": "146",
+      "correct": false
+    },
+    {
+      "text": "151",
+      "correct": false
+    }
+  ],
+  "explanation": "El 15% de 940 se calcula como 940 × 15/100 = 141.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

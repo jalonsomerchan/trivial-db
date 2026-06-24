@@ -1,0 +1,42 @@
+{
+  "id": "q-011560",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “God of War”, “Halo”, “Resident Evil” y “Portal” relaciona a Master Chief con Bungie?",
+  "answers": [
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Portal",
+      "correct": false
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    },
+    {
+      "text": "Halo",
+      "correct": true
+    }
+  ],
+  "explanation": "Master Chief se asocia con “Halo”, vinculado a Bungie.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "halo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010481",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Rayuela”, “Moby Dick”, “La ciudad y los perros” y “Crimen y castigo” fue escrita por Herman Melville?",
+  "answers": [
+    {
+      "text": "Rayuela",
+      "correct": false
+    },
+    {
+      "text": "La ciudad y los perros",
+      "correct": false
+    },
+    {
+      "text": "Moby Dick",
+      "correct": true
+    },
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Moby Dick” fue escrita por Herman Melville.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "herman-melville"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

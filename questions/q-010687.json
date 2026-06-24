@@ -1,0 +1,41 @@
+{
+  "id": "q-010687",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué densidad tiene una muestra de 95 g que ocupa 19 cm³?",
+  "answers": [
+    {
+      "text": "4 g/cm³",
+      "correct": false
+    },
+    {
+      "text": "5 g/cm³",
+      "correct": true
+    },
+    {
+      "text": "6 g/cm³",
+      "correct": false
+    },
+    {
+      "text": "114 g/cm³",
+      "correct": false
+    }
+  ],
+  "explanation": "La densidad es masa dividida entre volumen: 95/19 = 5 g/cm³.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "densidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

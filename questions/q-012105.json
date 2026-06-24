@@ -1,0 +1,42 @@
+{
+  "id": "q-012105",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo trigo, lentejas, avena y pollo es un ejemplo de cereal?",
+  "answers": [
+    {
+      "text": "avena",
+      "correct": true
+    },
+    {
+      "text": "pollo",
+      "correct": false
+    },
+    {
+      "text": "trigo",
+      "correct": false
+    },
+    {
+      "text": "lentejas",
+      "correct": false
+    }
+  ],
+  "explanation": "avena es un ejemplo de cereal.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

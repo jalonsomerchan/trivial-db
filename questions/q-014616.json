@@ -1,0 +1,42 @@
+{
+  "id": "q-014616",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué cláusula o sentencia SQL se usa para agrupar filas?",
+  "answers": [
+    {
+      "text": "GROUP BY",
+      "correct": true
+    },
+    {
+      "text": "SELECT",
+      "correct": false
+    },
+    {
+      "text": "LIMIT",
+      "correct": false
+    },
+    {
+      "text": "JOIN",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, GROUP BY se usa para agrupar filas.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "group-by"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

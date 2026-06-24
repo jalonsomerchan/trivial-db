@@ -1,0 +1,43 @@
+{
+  "id": "q-011877",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género describe mejor la película “Mad Max: Fury Road”?",
+  "answers": [
+    {
+      "text": "suspense",
+      "correct": false
+    },
+    {
+      "text": "acción",
+      "correct": true
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": false
+    },
+    {
+      "text": "musical",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mad Max: Fury Road” se describe habitualmente como acción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "mad-max-fury-road",
+    "accion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

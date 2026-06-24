@@ -1,0 +1,42 @@
+{
+  "id": "q-013370",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la inicio de la Guerra de Corea?",
+  "answers": [
+    {
+      "text": "exploraciones atlánticas",
+      "correct": false
+    },
+    {
+      "text": "Guerra de los Treinta Años",
+      "correct": false
+    },
+    {
+      "text": "Roma antigua",
+      "correct": false
+    },
+    {
+      "text": "Guerra Fría",
+      "correct": true
+    }
+  ],
+  "explanation": "La inicio de la Guerra de Corea se relaciona con Guerra Fría.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerra-fria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

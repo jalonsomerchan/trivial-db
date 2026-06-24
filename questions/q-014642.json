@@ -1,0 +1,43 @@
+{
+  "id": "q-014642",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla SMTP en informática?",
+  "answers": [
+    {
+      "text": "Extensible Markup Language",
+      "correct": false
+    },
+    {
+      "text": "Domain Name System",
+      "correct": false
+    },
+    {
+      "text": "JavaScript Object Notation",
+      "correct": false
+    },
+    {
+      "text": "Simple Mail Transfer Protocol",
+      "correct": true
+    }
+  ],
+  "explanation": "En informática, SMTP significa Simple Mail Transfer Protocol.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "smtp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

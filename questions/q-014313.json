@@ -1,0 +1,41 @@
+{
+  "id": "q-014313",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 9x + 21 = 210?",
+  "answers": [
+    {
+      "text": "21",
+      "correct": true
+    },
+    {
+      "text": "22",
+      "correct": false
+    },
+    {
+      "text": "20",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 21 y dividiendo entre 9, se obtiene x = 21.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

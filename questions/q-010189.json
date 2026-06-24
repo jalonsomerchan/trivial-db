@@ -1,0 +1,42 @@
+{
+  "id": "q-010189",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra de arte se asocia con Salvador Dalí y Surrealismo?",
+  "answers": [
+    {
+      "text": "La persistencia de la memoria",
+      "correct": true
+    },
+    {
+      "text": "Impresión, sol naciente",
+      "correct": false
+    },
+    {
+      "text": "Los girasoles",
+      "correct": false
+    },
+    {
+      "text": "El tres de mayo de 1808",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra asociada con Salvador Dalí y Surrealismo es “La persistencia de la memoria”.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "salvador-dali"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

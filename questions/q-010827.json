@@ -1,0 +1,42 @@
+{
+  "id": "q-010827",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la función principal del sistema circulatorio?",
+  "answers": [
+    {
+      "text": "intercambiar oxígeno y dióxido de carbono",
+      "correct": false
+    },
+    {
+      "text": "descomponer alimentos y absorber nutrientes",
+      "correct": false
+    },
+    {
+      "text": "regular funciones mediante hormonas",
+      "correct": false
+    },
+    {
+      "text": "transportar sangre, gases y nutrientes",
+      "correct": true
+    }
+  ],
+  "explanation": "El sistema circulatorio tiene como función principal transportar sangre, gases y nutrientes.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "sistema-circulatorio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

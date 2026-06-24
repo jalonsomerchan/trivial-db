@@ -1,0 +1,42 @@
+{
+  "id": "q-013299",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la inicio de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "Europa",
+      "correct": true
+    },
+    {
+      "text": "Wittenberg",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Maastricht",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Segunda Guerra Mundial se asocia directamente con Europa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "europa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

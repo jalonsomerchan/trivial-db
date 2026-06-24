@@ -1,0 +1,42 @@
+{
+  "id": "q-010179",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra de arte se asocia con Gustav Klimt y Modernismo?",
+  "answers": [
+    {
+      "text": "El beso",
+      "correct": true
+    },
+    {
+      "text": "La ronda de noche",
+      "correct": false
+    },
+    {
+      "text": "El tres de mayo de 1808",
+      "correct": false
+    },
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra asociada con Gustav Klimt y Modernismo es “El beso”.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "gustav-klimt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

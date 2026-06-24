@@ -1,0 +1,42 @@
+{
+  "id": "q-010709",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud física se mide en hercio?",
+  "answers": [
+    {
+      "text": "carga eléctrica",
+      "correct": false
+    },
+    {
+      "text": "frecuencia",
+      "correct": true
+    },
+    {
+      "text": "actividad radiactiva",
+      "correct": false
+    },
+    {
+      "text": "presión",
+      "correct": false
+    }
+  ],
+  "explanation": "El hercio es la unidad del Sistema Internacional para frecuencia.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "hercio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

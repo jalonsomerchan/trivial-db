@@ -1,0 +1,43 @@
+{
+  "id": "q-011860",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “The Last of Us”?",
+  "answers": [
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Midway",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": true
+    },
+    {
+      "text": "Valve",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Last of Us” se vincula con Naughty Dog.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-last-of-us",
+    "naughty-dog"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

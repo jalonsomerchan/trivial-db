@@ -1,0 +1,42 @@
+{
+  "id": "q-012779",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Jordania?",
+  "answers": [
+    {
+      "text": "Eastern Europe",
+      "correct": false
+    },
+    {
+      "text": "Western Asia",
+      "correct": true
+    },
+    {
+      "text": "Melanesia",
+      "correct": false
+    },
+    {
+      "text": "South America",
+      "correct": false
+    }
+  ],
+  "explanation": "Jordania pertenece a la subregión Western Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

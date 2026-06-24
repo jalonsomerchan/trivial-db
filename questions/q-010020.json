@@ -1,0 +1,43 @@
+{
+  "id": "q-010020",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “Guernica”?",
+  "answers": [
+    {
+      "text": "Johannes Vermeer",
+      "correct": false
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    },
+    {
+      "text": "Edvard Munch",
+      "correct": false
+    },
+    {
+      "text": "Pablo Picasso",
+      "correct": true
+    }
+  ],
+  "explanation": "“Guernica” es una obra de Pablo Picasso.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pablo-picasso",
+    "guernica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

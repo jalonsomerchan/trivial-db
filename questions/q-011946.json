@@ -1,0 +1,42 @@
+{
+  "id": "q-011946",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “La La Land”, “Avatar”, “Buscando a Nemo” y “Psicosis” fue dirigida por Andrew Stanton?",
+  "answers": [
+    {
+      "text": "Buscando a Nemo",
+      "correct": true
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Avatar",
+      "correct": false
+    },
+    {
+      "text": "La La Land",
+      "correct": false
+    }
+  ],
+  "explanation": "“Buscando a Nemo” se asocia con Andrew Stanton.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "andrew-stanton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

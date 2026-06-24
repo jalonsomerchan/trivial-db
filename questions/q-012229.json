@@ -1,0 +1,42 @@
+{
+  "id": "q-012229",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo ceviche, baklava, salmorejo y paella encaja con España y con el ingrediente arroz?",
+  "answers": [
+    {
+      "text": "ceviche",
+      "correct": false
+    },
+    {
+      "text": "salmorejo",
+      "correct": false
+    },
+    {
+      "text": "baklava",
+      "correct": false
+    },
+    {
+      "text": "paella",
+      "correct": true
+    }
+  ],
+  "explanation": "paella se asocia con España y con arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "paella"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

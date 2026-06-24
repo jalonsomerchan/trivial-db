@@ -1,0 +1,43 @@
+{
+  "id": "q-011554",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con “The Witcher 3”?",
+  "answers": [
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Cloud Strife",
+      "correct": false
+    },
+    {
+      "text": "Jill Valentine",
+      "correct": false
+    },
+    {
+      "text": "Geralt de Rivia",
+      "correct": true
+    }
+  ],
+  "explanation": "Geralt de Rivia es un personaje asociado con “The Witcher 3”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-witcher-3",
+    "geralt-de-rivia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

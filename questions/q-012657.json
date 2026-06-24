@@ -1,0 +1,43 @@
+{
+  "id": "q-012657",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a Austria?",
+  "answers": [
+    {
+      "text": "EUR",
+      "correct": true
+    },
+    {
+      "text": "KZT",
+      "correct": false
+    },
+    {
+      "text": "INR",
+      "correct": false
+    },
+    {
+      "text": "THB",
+      "correct": false
+    }
+  ],
+  "explanation": "El código de moneda registrado para Austria es EUR.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "austria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

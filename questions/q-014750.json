@@ -1,0 +1,42 @@
+{
+  "id": "q-014750",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "logica-binaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de 3 OR 7 en lógica bit a bit?",
+  "answers": [
+    {
+      "text": "6",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": true
+    },
+    {
+      "text": "8",
+      "correct": false
+    },
+    {
+      "text": "9",
+      "correct": false
+    }
+  ],
+  "explanation": "La operación bit a bit 3 OR 7 produce 7.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "or"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

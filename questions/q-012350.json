@@ -1,0 +1,43 @@
+{
+  "id": "q-012350",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con hummus?",
+  "answers": [
+    {
+      "text": "Sudeste Asiático",
+      "correct": false
+    },
+    {
+      "text": "Oriente Medio",
+      "correct": true
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Europa del Este",
+      "correct": false
+    }
+  ],
+  "explanation": "hummus se asocia tradicionalmente con Oriente Medio.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "hummus",
+    "oriente-medio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

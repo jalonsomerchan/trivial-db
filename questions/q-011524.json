@@ -1,0 +1,43 @@
+{
+  "id": "q-011524",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Interstellar”?",
+  "answers": [
+    {
+      "text": "George Miller",
+      "correct": false
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": true
+    },
+    {
+      "text": "James Cameron",
+      "correct": false
+    }
+  ],
+  "explanation": "“Interstellar” está asociada con el director Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "interstellar",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

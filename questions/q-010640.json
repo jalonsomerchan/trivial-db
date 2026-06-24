@@ -1,0 +1,42 @@
+{
+  "id": "q-010640",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué posición ocupa Urano desde el Sol?",
+  "answers": [
+    {
+      "text": "2",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": true
+    },
+    {
+      "text": "6",
+      "correct": false
+    }
+  ],
+  "explanation": "Urano es el planeta número 7 contando desde el Sol.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "urano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

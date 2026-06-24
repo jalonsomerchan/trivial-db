@@ -1,0 +1,42 @@
+{
+  "id": "q-013982",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra se opone semánticamente a “inadecuado”?",
+  "answers": [
+    {
+      "text": "apacible",
+      "correct": false
+    },
+    {
+      "text": "preciso",
+      "correct": false
+    },
+    {
+      "text": "idóneo",
+      "correct": true
+    },
+    {
+      "text": "altruista",
+      "correct": false
+    }
+  ],
+  "explanation": "“idóneo” y “inadecuado” son antónimos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "idoneo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

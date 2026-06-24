@@ -1,0 +1,43 @@
+{
+  "id": "q-011003",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué deporte se relaciona el término “birdie”?",
+  "answers": [
+    {
+      "text": "golf",
+      "correct": true
+    },
+    {
+      "text": "baloncesto",
+      "correct": false
+    },
+    {
+      "text": "boxeo",
+      "correct": false
+    },
+    {
+      "text": "esgrima",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “birdie” se relaciona con golf.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "golf",
+    "birdie"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

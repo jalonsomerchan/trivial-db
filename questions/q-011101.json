@@ -1,0 +1,42 @@
+{
+  "id": "q-011101",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué deporte del grupo lacrosse, hockey sobre hielo, voleibol y ajedrez utiliza balón y puntúa con punto?",
+  "answers": [
+    {
+      "text": "lacrosse",
+      "correct": false
+    },
+    {
+      "text": "ajedrez",
+      "correct": false
+    },
+    {
+      "text": "hockey sobre hielo",
+      "correct": false
+    },
+    {
+      "text": "voleibol",
+      "correct": true
+    }
+  ],
+  "explanation": "voleibol utiliza balón y una acción de puntuación habitual es punto.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "voleibol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

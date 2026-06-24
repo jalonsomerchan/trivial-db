@@ -1,0 +1,42 @@
+{
+  "id": "q-013715",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Corre como el viento” dentro del grupo de ejemplos “Te lo he dicho mil veces”, “Vivo sin vivir en mí”, “Compró pan, leche y fruta” y “Corre como el viento”?",
+  "answers": [
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": false
+    },
+    {
+      "text": "símil",
+      "correct": true
+    }
+  ],
+  "explanation": "La frase “Corre como el viento” contiene símil.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "simil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

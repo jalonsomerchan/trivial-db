@@ -1,0 +1,42 @@
+{
+  "id": "q-011432",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué término de esgrima aparece entre half-pipe, maillot amarillo, pit stop y florete?",
+  "answers": [
+    {
+      "text": "florete",
+      "correct": true
+    },
+    {
+      "text": "pit stop",
+      "correct": false
+    },
+    {
+      "text": "half-pipe",
+      "correct": false
+    },
+    {
+      "text": "maillot amarillo",
+      "correct": false
+    }
+  ],
+  "explanation": "“florete” es un término usado en esgrima.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "esgrima"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

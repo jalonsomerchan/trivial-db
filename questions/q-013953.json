@@ -1,0 +1,41 @@
+{
+  "id": "q-013953",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “predecir”, “inmortal”, “lavadora” y “antivirus” contiene prefijo anti-?",
+  "answers": [
+    {
+      "text": "antivirus",
+      "correct": true
+    },
+    {
+      "text": "predecir",
+      "correct": false
+    },
+    {
+      "text": "lavadora",
+      "correct": false
+    },
+    {
+      "text": "inmortal",
+      "correct": false
+    }
+  ],
+  "explanation": "“antivirus” contiene prefijo anti-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

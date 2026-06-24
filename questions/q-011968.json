@@ -1,0 +1,42 @@
+{
+  "id": "q-011968",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Psicosis”, “Avatar”, “Interstellar” y “Toy Story” fue dirigida por Christopher Nolan?",
+  "answers": [
+    {
+      "text": "Interstellar",
+      "correct": true
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Avatar",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    }
+  ],
+  "explanation": "“Interstellar” se asocia con Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

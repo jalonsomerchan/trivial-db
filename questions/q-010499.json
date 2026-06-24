@@ -1,0 +1,42 @@
+{
+  "id": "q-010499",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o concepto artístico consiste en representación de profundidad con puntos de fuga?",
+  "answers": [
+    {
+      "text": "perspectiva lineal",
+      "correct": true
+    },
+    {
+      "text": "puntillismo",
+      "correct": false
+    },
+    {
+      "text": "temple",
+      "correct": false
+    },
+    {
+      "text": "fresco",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a perspectiva lineal.",
+  "sources": [
+    {
+      "title": "MoMA Learning",
+      "url": "https://www.moma.org/learn/moma_learning/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "perspectiva-lineal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

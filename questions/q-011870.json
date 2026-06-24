@@ -1,0 +1,43 @@
+{
+  "id": "q-011870",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género describe mejor la película “Ciudadano Kane”?",
+  "answers": [
+    {
+      "text": "musical",
+      "correct": false
+    },
+    {
+      "text": "acción",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": true
+    },
+    {
+      "text": "suspense",
+      "correct": false
+    }
+  ],
+  "explanation": "“Ciudadano Kane” se describe habitualmente como drama.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "ciudadano-kane",
+    "drama"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010172",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué libro se asocia con Miguel de Cervantes y el género novela?",
+  "answers": [
+    {
+      "text": "Fausto",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": true
+    },
+    {
+      "text": "El extranjero",
+      "correct": false
+    },
+    {
+      "text": "Rebelión en la granja",
+      "correct": false
+    }
+  ],
+  "explanation": "“Don Quijote de la Mancha” es una obra de Miguel de Cervantes asociada con novela.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "miguel-de-cervantes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011960",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Origen”, “Mad Max: Fury Road”, “Toy Story” y “Matrix” fue dirigida por Christopher Nolan?",
+  "answers": [
+    {
+      "text": "Mad Max: Fury Road",
+      "correct": false
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    },
+    {
+      "text": "Origen",
+      "correct": true
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    }
+  ],
+  "explanation": "“Origen” se asocia con Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

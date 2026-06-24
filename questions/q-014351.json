@@ -1,0 +1,42 @@
+{
+  "id": "q-014351",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "geometria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el área de un triángulo de base 20 cm y altura 16 cm?",
+  "answers": [
+    {
+      "text": "180 cm²",
+      "correct": false
+    },
+    {
+      "text": "320 cm²",
+      "correct": false
+    },
+    {
+      "text": "160 cm²",
+      "correct": true
+    },
+    {
+      "text": "144 cm²",
+      "correct": false
+    }
+  ],
+  "explanation": "El área del triángulo es base × altura / 2, es decir, 160 cm².",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "area",
+    "triangulos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

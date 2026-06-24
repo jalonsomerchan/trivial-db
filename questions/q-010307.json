@@ -1,0 +1,42 @@
+{
+  "id": "q-010307",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Las señoritas de Avignon”, “Guernica”, “Campbell’s Soup Cans” y “La Gioconda” pertenece al Renacimiento?",
+  "answers": [
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": false
+    },
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": false
+    },
+    {
+      "text": "Guernica",
+      "correct": false
+    },
+    {
+      "text": "La Gioconda",
+      "correct": true
+    }
+  ],
+  "explanation": "“La Gioconda” se vincula con Renacimiento.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

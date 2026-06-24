@@ -1,0 +1,42 @@
+{
+  "id": "q-011976",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Roma”, “Avatar”, “La La Land” y “Parásitos” fue dirigida por James Cameron?",
+  "answers": [
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "La La Land",
+      "correct": false
+    },
+    {
+      "text": "Avatar",
+      "correct": true
+    },
+    {
+      "text": "Parásitos",
+      "correct": false
+    }
+  ],
+  "explanation": "“Avatar” se asocia con James Cameron.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "james-cameron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

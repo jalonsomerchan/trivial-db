@@ -1,0 +1,42 @@
+{
+  "id": "q-012083",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo queso, alubias, calabacín y merluza es un ejemplo de lácteo?",
+  "answers": [
+    {
+      "text": "alubias",
+      "correct": false
+    },
+    {
+      "text": "queso",
+      "correct": true
+    },
+    {
+      "text": "calabacín",
+      "correct": false
+    },
+    {
+      "text": "merluza",
+      "correct": false
+    }
+  ],
+  "explanation": "queso es un ejemplo de lácteo.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "lacteo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014214",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 12x + 43 = 775?",
+  "answers": [
+    {
+      "text": "60",
+      "correct": false
+    },
+    {
+      "text": "61",
+      "correct": true
+    },
+    {
+      "text": "62",
+      "correct": false
+    },
+    {
+      "text": "64",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 43 y dividiendo entre 12, se obtiene x = 61.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

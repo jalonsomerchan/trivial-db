@@ -1,0 +1,42 @@
+{
+  "id": "q-010851",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento hierro?",
+  "answers": [
+    {
+      "text": "no metal",
+      "correct": false
+    },
+    {
+      "text": "metaloide",
+      "correct": false
+    },
+    {
+      "text": "metal alcalino",
+      "correct": false
+    },
+    {
+      "text": "metal de transición",
+      "correct": true
+    }
+  ],
+  "explanation": "El hierro se clasifica como metal de transición.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "metal-de-transicion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

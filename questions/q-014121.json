@@ -1,0 +1,42 @@
+{
+  "id": "q-014121",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto resulta al restar 487 de 837?",
+  "answers": [
+    {
+      "text": "355",
+      "correct": false
+    },
+    {
+      "text": "350",
+      "correct": true
+    },
+    {
+      "text": "400",
+      "correct": false
+    },
+    {
+      "text": "345",
+      "correct": false
+    }
+  ],
+  "explanation": "Al calcular 837 - 487 se obtiene 350.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

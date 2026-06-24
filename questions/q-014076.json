@@ -1,0 +1,42 @@
+{
+  "id": "q-014076",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el resultado de sumar 903 y 736?",
+  "answers": [
+    {
+      "text": "1649",
+      "correct": false
+    },
+    {
+      "text": "1639",
+      "correct": true
+    },
+    {
+      "text": "1629",
+      "correct": false
+    },
+    {
+      "text": "1640",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma 903 + 736 da 1639.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

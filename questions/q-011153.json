@@ -1,0 +1,42 @@
+{
+  "id": "q-011153",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuántos jugadores por equipo tiene baloncesto en su formato estándar más citado?",
+  "answers": [
+    {
+      "text": "4",
+      "correct": false
+    },
+    {
+      "text": "1 o 2",
+      "correct": false
+    },
+    {
+      "text": "15",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": true
+    }
+  ],
+  "explanation": "El formato estándar más citado de baloncesto usa 5 jugadores por equipo.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "baloncesto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

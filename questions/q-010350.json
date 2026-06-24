@@ -1,0 +1,42 @@
+{
+  "id": "q-010350",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “Don Quijote de la Mancha”?",
+  "answers": [
+    {
+      "text": "novela",
+      "correct": true
+    },
+    {
+      "text": "relato",
+      "correct": false
+    },
+    {
+      "text": "epopeya",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": false
+    }
+  ],
+  "explanation": "“Don Quijote de la Mancha” se clasifica habitualmente como novela.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "novela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

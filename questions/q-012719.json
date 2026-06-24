@@ -1,0 +1,43 @@
+{
+  "id": "q-012719",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a Reino Unido?",
+  "answers": [
+    {
+      "text": "GBP",
+      "correct": true
+    },
+    {
+      "text": "JOD",
+      "correct": false
+    },
+    {
+      "text": "MOP",
+      "correct": false
+    },
+    {
+      "text": "SLL",
+      "correct": false
+    }
+  ],
+  "explanation": "El código de moneda registrado para Reino Unido es GBP.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "reino-unido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

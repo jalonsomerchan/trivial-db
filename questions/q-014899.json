@@ -1,0 +1,41 @@
+{
+  "id": "q-014899",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 35 en sistema binario?",
+  "answers": [
+    {
+      "text": "100101",
+      "correct": false
+    },
+    {
+      "text": "100010",
+      "correct": false
+    },
+    {
+      "text": "100100",
+      "correct": false
+    },
+    {
+      "text": "100011",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 35 es 100011.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

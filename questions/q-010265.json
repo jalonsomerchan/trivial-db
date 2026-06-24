@@ -1,0 +1,42 @@
+{
+  "id": "q-010265",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La joven de la perla”, “La persistencia de la memoria”, “La última cena” y “Campbell’s Soup Cans” pertenece al Renacimiento?",
+  "answers": [
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": false
+    },
+    {
+      "text": "La joven de la perla",
+      "correct": false
+    },
+    {
+      "text": "La última cena",
+      "correct": true
+    },
+    {
+      "text": "La persistencia de la memoria",
+      "correct": false
+    }
+  ],
+  "explanation": "“La última cena” se vincula con Renacimiento.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

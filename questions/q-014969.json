@@ -1,0 +1,42 @@
+{
+  "id": "q-014969",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como emulación de un ordenador completo?",
+  "answers": [
+    {
+      "text": "cola",
+      "correct": false
+    },
+    {
+      "text": "clave primaria",
+      "correct": false
+    },
+    {
+      "text": "ancho de banda",
+      "correct": false
+    },
+    {
+      "text": "máquina virtual",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a máquina virtual.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "maquina-virtual"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

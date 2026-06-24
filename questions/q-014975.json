@@ -1,0 +1,42 @@
+{
+  "id": "q-014975",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como programa que ejecuta código directamente?",
+  "answers": [
+    {
+      "text": "cache",
+      "correct": false
+    },
+    {
+      "text": "intérprete",
+      "correct": true
+    },
+    {
+      "text": "compilador",
+      "correct": false
+    },
+    {
+      "text": "índice de base de datos",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a intérprete.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "interprete"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-010552",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "easy",
+  "question": "¿A cuántos grados Fahrenheit equivalen 41 °C?",
+  "answers": [
+    {
+      "text": "116 °F",
+      "correct": false
+    },
+    {
+      "text": "96 °F",
+      "correct": false
+    },
+    {
+      "text": "73 °F",
+      "correct": false
+    },
+    {
+      "text": "106 °F",
+      "correct": true
+    }
+  ],
+  "explanation": "La conversión es °F = °C × 9/5 + 32, por lo que 41 °C son 106 °F.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "temperatura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

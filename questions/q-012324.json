@@ -1,0 +1,42 @@
+{
+  "id": "q-012324",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo tzatziki, poke, borsch y ceviche encaja con Perú y con el ingrediente pescado marinado?",
+  "answers": [
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "tzatziki",
+      "correct": false
+    },
+    {
+      "text": "poke",
+      "correct": false
+    },
+    {
+      "text": "ceviche",
+      "correct": true
+    }
+  ],
+  "explanation": "ceviche se asocia con Perú y con pescado marinado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ceviche"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

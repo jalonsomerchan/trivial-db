@@ -1,0 +1,42 @@
+{
+  "id": "q-013293",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la fundación tradicional de Roma?",
+  "answers": [
+    {
+      "text": "península itálica",
+      "correct": true
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Grecia",
+      "correct": false
+    },
+    {
+      "text": "Constantinopla",
+      "correct": false
+    }
+  ],
+  "explanation": "La fundación tradicional de Roma se asocia directamente con península itálica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "peninsula-italica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

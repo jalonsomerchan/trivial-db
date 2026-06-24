@@ -1,0 +1,42 @@
+{
+  "id": "q-010835",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la función principal del sistema urinario?",
+  "answers": [
+    {
+      "text": "transportar sangre, gases y nutrientes",
+      "correct": false
+    },
+    {
+      "text": "filtrar sangre y formar orina",
+      "correct": true
+    },
+    {
+      "text": "descomponer alimentos y absorber nutrientes",
+      "correct": false
+    },
+    {
+      "text": "coordinar señales y respuestas",
+      "correct": false
+    }
+  ],
+  "explanation": "El sistema urinario tiene como función principal filtrar sangre y formar orina.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "sistema-urinario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

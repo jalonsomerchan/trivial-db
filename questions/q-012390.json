@@ -1,0 +1,42 @@
+{
+  "id": "q-012390",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo ceviche, guacamole, borsch y salmorejo se prepara típicamente con tomate y pan?",
+  "answers": [
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "ceviche",
+      "correct": false
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "salmorejo",
+      "correct": true
+    }
+  ],
+  "explanation": "salmorejo se prepara típicamente con tomate y pan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "salmorejo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

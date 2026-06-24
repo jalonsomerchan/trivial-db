@@ -1,0 +1,42 @@
+{
+  "id": "q-013287",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la derrota de la Armada Invencible?",
+  "answers": [
+    {
+      "text": "Bélgica",
+      "correct": false
+    },
+    {
+      "text": "Nicea",
+      "correct": false
+    },
+    {
+      "text": "Luna",
+      "correct": false
+    },
+    {
+      "text": "canal de la Mancha",
+      "correct": true
+    }
+  ],
+  "explanation": "La derrota de la Armada Invencible se asocia directamente con canal de la Mancha.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "canal-de-la-mancha"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012548",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué continente se ubica principalmente Fiyi?",
+  "answers": [
+    {
+      "text": "Europa",
+      "correct": false
+    },
+    {
+      "text": "Asia",
+      "correct": false
+    },
+    {
+      "text": "África",
+      "correct": false
+    },
+    {
+      "text": "Oceanía",
+      "correct": true
+    }
+  ],
+  "explanation": "Fiyi se ubica principalmente en Oceanía.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "continentes",
+    "oceania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

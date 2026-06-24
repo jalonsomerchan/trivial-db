@@ -1,0 +1,43 @@
+{
+  "id": "q-010026",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “La noche estrellada”?",
+  "answers": [
+    {
+      "text": "Vincent van Gogh",
+      "correct": true
+    },
+    {
+      "text": "Jackson Pollock",
+      "correct": false
+    },
+    {
+      "text": "Pablo Picasso",
+      "correct": false
+    },
+    {
+      "text": "Edvard Munch",
+      "correct": false
+    }
+  ],
+  "explanation": "“La noche estrellada” es una obra de Vincent van Gogh.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "vincent-van-gogh",
+    "la-noche-estrellada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

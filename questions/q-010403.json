@@ -1,0 +1,42 @@
+{
+  "id": "q-010403",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Fausto”, “Crimen y castigo”, “La metamorfosis” y “Madame Bovary” fue escrita por Johann Wolfgang von Goethe?",
+  "answers": [
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "Fausto",
+      "correct": true
+    },
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    },
+    {
+      "text": "Madame Bovary",
+      "correct": false
+    }
+  ],
+  "explanation": "“Fausto” fue escrita por Johann Wolfgang von Goethe.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "johann-wolfgang-von-goethe"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014451",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 30% de 400?",
+  "answers": [
+    {
+      "text": "130",
+      "correct": false
+    },
+    {
+      "text": "125",
+      "correct": false
+    },
+    {
+      "text": "120",
+      "correct": true
+    },
+    {
+      "text": "110",
+      "correct": false
+    }
+  ],
+  "explanation": "El 30% de 400 se calcula como 400 × 30/100 = 120.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

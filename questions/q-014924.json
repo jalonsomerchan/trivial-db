@@ -1,0 +1,41 @@
+{
+  "id": "q-014924",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 425 en sistema binario?",
+  "answers": [
+    {
+      "text": "110101010",
+      "correct": false
+    },
+    {
+      "text": "110101001",
+      "correct": true
+    },
+    {
+      "text": "110101000",
+      "correct": false
+    },
+    {
+      "text": "110101011",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 425 es 110101001.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

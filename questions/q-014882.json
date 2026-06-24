@@ -1,0 +1,41 @@
+{
+  "id": "q-014882",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 291 en sistema binario?",
+  "answers": [
+    {
+      "text": "100100011",
+      "correct": true
+    },
+    {
+      "text": "100100101",
+      "correct": false
+    },
+    {
+      "text": "100100010",
+      "correct": false
+    },
+    {
+      "text": "100100100",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 291 es 100100011.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

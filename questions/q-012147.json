@@ -1,0 +1,43 @@
+{
+  "id": "q-012147",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato shakshuka?",
+  "answers": [
+    {
+      "text": "frijoles negros",
+      "correct": false
+    },
+    {
+      "text": "yogur y pepino",
+      "correct": false
+    },
+    {
+      "text": "huevos en salsa de tomate",
+      "correct": true
+    },
+    {
+      "text": "verduras",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de shakshuka es huevos en salsa de tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "shakshuka",
+    "huevos-en-salsa-de-tomate"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

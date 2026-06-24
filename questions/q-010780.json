@@ -1,0 +1,41 @@
+{
+  "id": "q-010780",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué presión ejerce una fuerza de 986 N sobre un área de 17 m²?",
+  "answers": [
+    {
+      "text": "41 Pa",
+      "correct": false
+    },
+    {
+      "text": "1003 Pa",
+      "correct": false
+    },
+    {
+      "text": "75 Pa",
+      "correct": false
+    },
+    {
+      "text": "58 Pa",
+      "correct": true
+    }
+  ],
+  "explanation": "La presión es fuerza dividida entre área: 986/17 = 58 Pa.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "presion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

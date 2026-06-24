@@ -1,0 +1,43 @@
+{
+  "id": "q-012156",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué describe mejor la técnica culinaria de confitar?",
+  "answers": [
+    {
+      "text": "trabajar una masa para desarrollar estructura",
+      "correct": false
+    },
+    {
+      "text": "cocinar lentamente en grasa o almíbar",
+      "correct": true
+    },
+    {
+      "text": "transformar alimentos por acción de microorganismos",
+      "correct": false
+    },
+    {
+      "text": "cocinar en grasa caliente",
+      "correct": false
+    }
+  ],
+  "explanation": "confitar consiste en cocinar lentamente en grasa o almíbar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "confitar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

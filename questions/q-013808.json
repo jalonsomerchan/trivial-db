@@ -1,0 +1,42 @@
+{
+  "id": "q-013808",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Tus dientes son perlas” dentro del grupo de ejemplos “La ciudad nunca duerme”, “Corre como el viento”, “Tus dientes son perlas” y “Vivo sin vivir en mí”?",
+  "answers": [
+    {
+      "text": "paradoja",
+      "correct": false
+    },
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": true
+    }
+  ],
+  "explanation": "La frase “Tus dientes son perlas” contiene metáfora.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "metafora"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

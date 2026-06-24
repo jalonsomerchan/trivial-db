@@ -1,0 +1,42 @@
+{
+  "id": "q-014982",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función cumple INSERT en SQL?",
+  "answers": [
+    {
+      "text": "combinar tablas",
+      "correct": false
+    },
+    {
+      "text": "limitar la cantidad de resultados",
+      "correct": false
+    },
+    {
+      "text": "ordenar resultados",
+      "correct": false
+    },
+    {
+      "text": "añadir filas",
+      "correct": true
+    }
+  ],
+  "explanation": "INSERT sirve para añadir filas en una consulta SQL.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "insert"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

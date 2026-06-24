@@ -1,0 +1,42 @@
+{
+  "id": "q-010345",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué movimiento se vincula la obra “Los girasoles”?",
+  "answers": [
+    {
+      "text": "Cubismo",
+      "correct": false
+    },
+    {
+      "text": "Barroco",
+      "correct": false
+    },
+    {
+      "text": "Neoplasticismo",
+      "correct": false
+    },
+    {
+      "text": "Postimpresionismo",
+      "correct": true
+    }
+  ],
+  "explanation": "“Los girasoles” se vincula con Postimpresionismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "postimpresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011512",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista publicó el álbum “Rumours”?",
+  "answers": [
+    {
+      "text": "Fleetwood Mac",
+      "correct": true
+    },
+    {
+      "text": "Daft Punk",
+      "correct": false
+    },
+    {
+      "text": "Madonna",
+      "correct": false
+    },
+    {
+      "text": "Rosalía",
+      "correct": false
+    }
+  ],
+  "explanation": "“Rumours” es un álbum de Fleetwood Mac.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "fleetwood-mac",
+    "rumours"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

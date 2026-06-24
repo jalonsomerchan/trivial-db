@@ -1,0 +1,42 @@
+{
+  "id": "q-013376",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la llegada del Apolo 11 a la Luna?",
+  "answers": [
+    {
+      "text": "Macedonia antigua",
+      "correct": false
+    },
+    {
+      "text": "exploraciones oceánicas",
+      "correct": false
+    },
+    {
+      "text": "carrera espacial",
+      "correct": true
+    },
+    {
+      "text": "rivalidad anglo-española",
+      "correct": false
+    }
+  ],
+  "explanation": "La llegada del Apolo 11 a la Luna se relaciona con carrera espacial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "carrera-espacial"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

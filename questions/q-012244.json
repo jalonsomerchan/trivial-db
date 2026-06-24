@@ -1,0 +1,42 @@
+{
+  "id": "q-012244",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo fondue, tacos, croissant y pho encaja con México y con el ingrediente tortilla de maíz?",
+  "answers": [
+    {
+      "text": "fondue",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": true
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    },
+    {
+      "text": "pho",
+      "correct": false
+    }
+  ],
+  "explanation": "tacos se asocia con México y con tortilla de maíz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tacos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

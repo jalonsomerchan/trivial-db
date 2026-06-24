@@ -1,0 +1,42 @@
+{
+  "id": "q-011949",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “La La Land”, “Origen”, “El viaje de Chihiro” y “El padrino” fue dirigida por Christopher Nolan?",
+  "answers": [
+    {
+      "text": "El padrino",
+      "correct": false
+    },
+    {
+      "text": "La La Land",
+      "correct": false
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "Origen",
+      "correct": true
+    }
+  ],
+  "explanation": "“Origen” se asocia con Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

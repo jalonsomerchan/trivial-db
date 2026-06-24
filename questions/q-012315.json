@@ -1,0 +1,42 @@
+{
+  "id": "q-012315",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo tabulé, feijoada, falafel y borsch encaja con Levante mediterráneo y con el ingrediente bulgur y perejil?",
+  "answers": [
+    {
+      "text": "falafel",
+      "correct": false
+    },
+    {
+      "text": "feijoada",
+      "correct": false
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "tabulé",
+      "correct": true
+    }
+  ],
+  "explanation": "tabulé se asocia con Levante mediterráneo y con bulgur y perejil.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tabule"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010473",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Pedro Páramo”, “La ciudad y los perros”, “La metamorfosis” y “Romancero gitano” fue escrita por Franz Kafka?",
+  "answers": [
+    {
+      "text": "La metamorfosis",
+      "correct": true
+    },
+    {
+      "text": "Pedro Páramo",
+      "correct": false
+    },
+    {
+      "text": "Romancero gitano",
+      "correct": false
+    },
+    {
+      "text": "La ciudad y los perros",
+      "correct": false
+    }
+  ],
+  "explanation": "“La metamorfosis” fue escrita por Franz Kafka.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "franz-kafka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

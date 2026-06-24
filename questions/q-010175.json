@@ -1,0 +1,42 @@
+{
+  "id": "q-010175",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra de arte se asocia con Claude Monet y Impresionismo?",
+  "answers": [
+    {
+      "text": "La última cena",
+      "correct": false
+    },
+    {
+      "text": "Guernica",
+      "correct": false
+    },
+    {
+      "text": "Impresión, sol naciente",
+      "correct": true
+    },
+    {
+      "text": "La Gioconda",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra asociada con Claude Monet y Impresionismo es “Impresión, sol naciente”.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "claude-monet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

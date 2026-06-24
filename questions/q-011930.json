@@ -1,0 +1,42 @@
+{
+  "id": "q-011930",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “El padrino”, “La La Land”, “Ciudadano Kane” y “Pulp Fiction” fue dirigida por Damien Chazelle?",
+  "answers": [
+    {
+      "text": "El padrino",
+      "correct": false
+    },
+    {
+      "text": "La La Land",
+      "correct": true
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": false
+    },
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    }
+  ],
+  "explanation": "“La La Land” se asocia con Damien Chazelle.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "damien-chazelle"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

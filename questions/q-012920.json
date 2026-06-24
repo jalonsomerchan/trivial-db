@@ -1,0 +1,43 @@
+{
+  "id": "q-012920",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Belice?",
+  "answers": [
+    {
+      "text": ".md",
+      "correct": false
+    },
+    {
+      "text": ".gq",
+      "correct": false
+    },
+    {
+      "text": ".bz",
+      "correct": true
+    },
+    {
+      "text": ".dk",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Belice es .bz.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "belice"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

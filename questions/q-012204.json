@@ -1,0 +1,42 @@
+{
+  "id": "q-012204",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Turquía y Oriente Medio con frutos secos y masa filo?",
+  "answers": [
+    {
+      "text": "pierogi",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": false
+    },
+    {
+      "text": "baklava",
+      "correct": true
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es baklava.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "baklava"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

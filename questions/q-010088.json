@@ -1,0 +1,42 @@
+{
+  "id": "q-010088",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “La Odisea” frente a la referencia “Crimen y castigo”?",
+  "answers": [
+    {
+      "text": "Albert Camus",
+      "correct": false
+    },
+    {
+      "text": "George Orwell",
+      "correct": false
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": false
+    },
+    {
+      "text": "Homero",
+      "correct": true
+    }
+  ],
+  "explanation": "La obra “La Odisea” pertenece a Homero.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "homero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

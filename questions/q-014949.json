@@ -1,0 +1,41 @@
+{
+  "id": "q-014949",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 50 en sistema binario?",
+  "answers": [
+    {
+      "text": "110010",
+      "correct": true
+    },
+    {
+      "text": "110011",
+      "correct": false
+    },
+    {
+      "text": "110001",
+      "correct": false
+    },
+    {
+      "text": "110100",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 50 es 110010.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

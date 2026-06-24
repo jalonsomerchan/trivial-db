@@ -1,0 +1,42 @@
+{
+  "id": "q-010343",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué movimiento se vincula la obra “Las meninas”?",
+  "answers": [
+    {
+      "text": "Impresionismo",
+      "correct": false
+    },
+    {
+      "text": "Cubismo",
+      "correct": false
+    },
+    {
+      "text": "Postimpresionismo",
+      "correct": false
+    },
+    {
+      "text": "Barroco",
+      "correct": true
+    }
+  ],
+  "explanation": "“Las meninas” se vincula con Barroco.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "barroco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012183",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Grecia con berenjena?",
+  "answers": [
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "moussaka",
+      "correct": true
+    },
+    {
+      "text": "tabulé",
+      "correct": false
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es moussaka.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "moussaka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

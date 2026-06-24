@@ -1,0 +1,42 @@
+{
+  "id": "q-011790",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “The Last of Us”, “Minecraft”, “Portal” y “Mega Man” encaja con Steve y el género sandbox?",
+  "answers": [
+    {
+      "text": "Minecraft",
+      "correct": true
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Portal",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    }
+  ],
+  "explanation": "Steve se asocia con “Minecraft”, que se describe como sandbox.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "minecraft"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

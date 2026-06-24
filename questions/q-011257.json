@@ -1,0 +1,42 @@
+{
+  "id": "q-011257",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "futbol"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de sede y campeón corresponde al Mundial de fútbol de 1998 y no al de 2002?",
+  "answers": [
+    {
+      "text": "Corea del Sur y Japón y Brasil",
+      "correct": false
+    },
+    {
+      "text": "Sudáfrica y Uruguay",
+      "correct": false
+    },
+    {
+      "text": "Brasil y Italia",
+      "correct": false
+    },
+    {
+      "text": "Francia y Francia",
+      "correct": true
+    }
+  ],
+  "explanation": "El Mundial de 1998 se jugó en Francia y lo ganó Francia.",
+  "sources": [
+    {
+      "title": "FIFA",
+      "url": "https://www.fifa.com/"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "1998"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

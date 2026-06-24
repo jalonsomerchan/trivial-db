@@ -1,0 +1,43 @@
+{
+  "id": "q-012148",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato sushi?",
+  "answers": [
+    {
+      "text": "caldo con fideos",
+      "correct": false
+    },
+    {
+      "text": "arroz avinagrado",
+      "correct": true
+    },
+    {
+      "text": "patatas, queso y salsa",
+      "correct": false
+    },
+    {
+      "text": "frutos secos y masa filo",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de sushi es arroz avinagrado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "sushi",
+    "arroz-avinagrado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

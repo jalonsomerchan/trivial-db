@@ -1,0 +1,41 @@
+{
+  "id": "q-013944",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “nacionalizar”, “subdirector”, “imposible” y “panadería” contiene sufijo -ería?",
+  "answers": [
+    {
+      "text": "subdirector",
+      "correct": false
+    },
+    {
+      "text": "panadería",
+      "correct": true
+    },
+    {
+      "text": "nacionalizar",
+      "correct": false
+    },
+    {
+      "text": "imposible",
+      "correct": false
+    }
+  ],
+  "explanation": "“panadería” contiene sufijo -ería.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

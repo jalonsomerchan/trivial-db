@@ -1,0 +1,42 @@
+{
+  "id": "q-010224",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “El tres de mayo de 1808”, “Impresión, sol naciente”, “Composición con rojo, amarillo y azul” y “La última cena” pertenece al Romanticismo?",
+  "answers": [
+    {
+      "text": "La última cena",
+      "correct": false
+    },
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": false
+    },
+    {
+      "text": "El tres de mayo de 1808",
+      "correct": true
+    },
+    {
+      "text": "Impresión, sol naciente",
+      "correct": false
+    }
+  ],
+  "explanation": "“El tres de mayo de 1808” se vincula con Romanticismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "romanticismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

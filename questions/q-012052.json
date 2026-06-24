@@ -1,0 +1,42 @@
+{
+  "id": "q-012052",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo manzana, calabacín, leche y garbanzos es un ejemplo de hortaliza?",
+  "answers": [
+    {
+      "text": "leche",
+      "correct": false
+    },
+    {
+      "text": "calabacín",
+      "correct": true
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": false
+    }
+  ],
+  "explanation": "calabacín es un ejemplo de hortaliza.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "hortaliza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-013954",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “predecir”, “inmortal”, “subdirector” y “bondadoso” contiene prefijo pre-?",
+  "answers": [
+    {
+      "text": "predecir",
+      "correct": true
+    },
+    {
+      "text": "bondadoso",
+      "correct": false
+    },
+    {
+      "text": "inmortal",
+      "correct": false
+    },
+    {
+      "text": "subdirector",
+      "correct": false
+    }
+  ],
+  "explanation": "“predecir” contiene prefijo pre-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

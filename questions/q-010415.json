@@ -1,0 +1,42 @@
+{
+  "id": "q-010415",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Frankenstein”, “La metamorfosis”, “Cien años de soledad” y “Ficciones” fue escrita por Mary Shelley?",
+  "answers": [
+    {
+      "text": "Frankenstein",
+      "correct": true
+    },
+    {
+      "text": "Cien años de soledad",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "Ficciones",
+      "correct": false
+    }
+  ],
+  "explanation": "“Frankenstein” fue escrita por Mary Shelley.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "mary-shelley"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

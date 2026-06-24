@@ -1,0 +1,41 @@
+{
+  "id": "q-010751",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué presión ejerce una fuerza de 198 N sobre un área de 9 m²?",
+  "answers": [
+    {
+      "text": "207 Pa",
+      "correct": false
+    },
+    {
+      "text": "22 Pa",
+      "correct": true
+    },
+    {
+      "text": "31 Pa",
+      "correct": false
+    },
+    {
+      "text": "13 Pa",
+      "correct": false
+    }
+  ],
+  "explanation": "La presión es fuerza dividida entre área: 198/9 = 22 Pa.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "presion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

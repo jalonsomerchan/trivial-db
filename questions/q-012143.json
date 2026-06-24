@@ -1,0 +1,43 @@
+{
+  "id": "q-012143",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato ratatouille?",
+  "answers": [
+    {
+      "text": "berenjena",
+      "correct": false
+    },
+    {
+      "text": "arroz",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "verduras",
+      "correct": true
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de ratatouille es verduras.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ratatouille",
+    "verduras"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

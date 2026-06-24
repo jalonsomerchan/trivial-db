@@ -1,0 +1,41 @@
+{
+  "id": "q-014004",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el cuadrado de 15?",
+  "answers": [
+    {
+      "text": "240",
+      "correct": false
+    },
+    {
+      "text": "210",
+      "correct": false
+    },
+    {
+      "text": "256",
+      "correct": false
+    },
+    {
+      "text": "225",
+      "correct": true
+    }
+  ],
+  "explanation": "El cuadrado de 15 es 15 × 15 = 225.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "cuadrados"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

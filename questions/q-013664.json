@@ -1,0 +1,42 @@
+{
+  "id": "q-013664",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento morfológico destaca en la palabra “florecer”?",
+  "answers": [
+    {
+      "text": "sufijo -ecer",
+      "correct": true
+    },
+    {
+      "text": "sufijo -oso",
+      "correct": false
+    },
+    {
+      "text": "prefijo re-",
+      "correct": false
+    },
+    {
+      "text": "sufijo -izar",
+      "correct": false
+    }
+  ],
+  "explanation": "En “florecer” destaca sufijo -ecer.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "florecer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

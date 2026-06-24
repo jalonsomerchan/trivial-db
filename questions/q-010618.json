@@ -1,0 +1,42 @@
+{
+  "id": "q-010618",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico representa el símbolo Hg?",
+  "answers": [
+    {
+      "text": "yodo",
+      "correct": false
+    },
+    {
+      "text": "mercurio",
+      "correct": true
+    },
+    {
+      "text": "zinc",
+      "correct": false
+    },
+    {
+      "text": "flúor",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Hg representa al mercurio.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "mercurio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

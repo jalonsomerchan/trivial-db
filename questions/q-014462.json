@@ -1,0 +1,41 @@
+{
+  "id": "q-014462",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 35% de 340?",
+  "answers": [
+    {
+      "text": "129",
+      "correct": false
+    },
+    {
+      "text": "124",
+      "correct": false
+    },
+    {
+      "text": "119",
+      "correct": true
+    },
+    {
+      "text": "109",
+      "correct": false
+    }
+  ],
+  "explanation": "El 35% de 340 se calcula como 340 × 35/100 = 119.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

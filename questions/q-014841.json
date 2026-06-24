@@ -1,0 +1,41 @@
+{
+  "id": "q-014841",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 139 en sistema binario?",
+  "answers": [
+    {
+      "text": "10001010",
+      "correct": false
+    },
+    {
+      "text": "10001100",
+      "correct": false
+    },
+    {
+      "text": "10001101",
+      "correct": false
+    },
+    {
+      "text": "10001011",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 139 es 10001011.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012416",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo guacamole, feijoada, moussaka y sushi se prepara típicamente con berenjena?",
+  "answers": [
+    {
+      "text": "feijoada",
+      "correct": false
+    },
+    {
+      "text": "sushi",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "moussaka",
+      "correct": true
+    }
+  ],
+  "explanation": "moussaka se prepara típicamente con berenjena.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "moussaka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

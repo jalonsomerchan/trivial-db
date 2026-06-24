@@ -1,0 +1,42 @@
+{
+  "id": "q-012018",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo alubias, zanahoria, manzana y avena es un ejemplo de fruta?",
+  "answers": [
+    {
+      "text": "zanahoria",
+      "correct": false
+    },
+    {
+      "text": "alubias",
+      "correct": false
+    },
+    {
+      "text": "avena",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": true
+    }
+  ],
+  "explanation": "manzana es un ejemplo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

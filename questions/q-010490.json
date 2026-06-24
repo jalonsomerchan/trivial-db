@@ -1,0 +1,42 @@
+{
+  "id": "q-010490",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Romeo y Julieta”, “Frankenstein”, “La Odisea” y “Romancero gitano” fue escrita por Federico García Lorca?",
+  "answers": [
+    {
+      "text": "Romeo y Julieta",
+      "correct": false
+    },
+    {
+      "text": "La Odisea",
+      "correct": false
+    },
+    {
+      "text": "Romancero gitano",
+      "correct": true
+    },
+    {
+      "text": "Frankenstein",
+      "correct": false
+    }
+  ],
+  "explanation": "“Romancero gitano” fue escrita por Federico García Lorca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "federico-garcia-lorca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013441",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre construcción del Muro de Berlín, Tratado de Maastricht, batalla de Salamina y batalla de Trafalgar?",
+  "answers": [
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "batalla de Trafalgar",
+      "correct": false
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Maastricht",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, Tratado de Maastricht es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

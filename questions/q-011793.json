@@ -1,0 +1,42 @@
+{
+  "id": "q-011793",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “The Legend of Zelda”, “Final Fantasy VII”, “Mortal Kombat” y “Uncharted” encaja con Scorpion y el género lucha?",
+  "answers": [
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": true
+    },
+    {
+      "text": "Uncharted",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    }
+  ],
+  "explanation": "Scorpion se asocia con “Mortal Kombat”, que se describe como lucha.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mortal-kombat"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013173",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la ampliación de la Unión Europea de 2004 frente a la referencia histórica de la inicio de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "década de 2010",
+      "correct": false
+    },
+    {
+      "text": "década de 2000",
+      "correct": true
+    },
+    {
+      "text": "década de 1990",
+      "correct": false
+    },
+    {
+      "text": "década de 2020",
+      "correct": false
+    }
+  ],
+  "explanation": "La ampliación de la Unión Europea de 2004 ocurrió en 2004, dentro de la década de 2000.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

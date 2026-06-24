@@ -1,0 +1,41 @@
+{
+  "id": "q-014197",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 10x + 85 = 595?",
+  "answers": [
+    {
+      "text": "52",
+      "correct": false
+    },
+    {
+      "text": "51",
+      "correct": true
+    },
+    {
+      "text": "54",
+      "correct": false
+    },
+    {
+      "text": "50",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 85 y dividiendo entre 10, se obtiene x = 51.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012303",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo satay, pizza napolitana, falafel y moussaka encaja con Italia y con el ingrediente masa de pan?",
+  "answers": [
+    {
+      "text": "pizza napolitana",
+      "correct": true
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    },
+    {
+      "text": "satay",
+      "correct": false
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    }
+  ],
+  "explanation": "pizza napolitana se asocia con Italia y con masa de pan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pizza-napolitana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

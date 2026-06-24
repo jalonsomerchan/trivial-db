@@ -1,0 +1,42 @@
+{
+  "id": "q-011676",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Christopher Nolan encaja con el género ciencia ficción?",
+  "answers": [
+    {
+      "text": "Matrix",
+      "correct": false
+    },
+    {
+      "text": "Parásitos",
+      "correct": false
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    },
+    {
+      "text": "Origen",
+      "correct": true
+    }
+  ],
+  "explanation": "“Origen” fue dirigida por Christopher Nolan y se asocia con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

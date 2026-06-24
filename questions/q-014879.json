@@ -1,0 +1,41 @@
+{
+  "id": "q-014879",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 284 en sistema binario?",
+  "answers": [
+    {
+      "text": "100011011",
+      "correct": false
+    },
+    {
+      "text": "100011110",
+      "correct": false
+    },
+    {
+      "text": "100011101",
+      "correct": false
+    },
+    {
+      "text": "100011100",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 284 es 100011100.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011962",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Parásitos”, “Casablanca”, “La La Land” y “El padrino” fue dirigida por Michael Curtiz?",
+  "answers": [
+    {
+      "text": "La La Land",
+      "correct": false
+    },
+    {
+      "text": "Parásitos",
+      "correct": false
+    },
+    {
+      "text": "Casablanca",
+      "correct": true
+    },
+    {
+      "text": "El padrino",
+      "correct": false
+    }
+  ],
+  "explanation": "“Casablanca” se asocia con Michael Curtiz.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "michael-curtiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

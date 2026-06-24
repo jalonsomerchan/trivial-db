@@ -1,0 +1,42 @@
+{
+  "id": "q-013440",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre concilio de Nicea, erupción del Vesubio que sepultó Pompeya, muerte de Alejandro Magno y inicio de la Guerra de Corea?",
+  "answers": [
+    {
+      "text": "muerte de Alejandro Magno",
+      "correct": false
+    },
+    {
+      "text": "concilio de Nicea",
+      "correct": false
+    },
+    {
+      "text": "erupción del Vesubio que sepultó Pompeya",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, inicio de la Guerra de Corea es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

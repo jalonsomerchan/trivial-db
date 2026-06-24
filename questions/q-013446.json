@@ -1,0 +1,42 @@
+{
+  "id": "q-013446",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre crack bursátil de Wall Street, ampliación de la Unión Europea de 2004, toma de la Bastilla y inicio de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "crack bursátil de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "toma de la Bastilla",
+      "correct": false
+    },
+    {
+      "text": "ampliación de la Unión Europea de 2004",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, ampliación de la Unión Europea de 2004 es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

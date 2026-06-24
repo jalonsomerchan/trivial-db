@@ -1,0 +1,42 @@
+{
+  "id": "q-013215",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la firma de la Carta Magna frente a la referencia histórica de la derrota de la Armada Invencible?",
+  "answers": [
+    {
+      "text": "década de 1230",
+      "correct": false
+    },
+    {
+      "text": "década de 1210",
+      "correct": true
+    },
+    {
+      "text": "década de 1220",
+      "correct": false
+    },
+    {
+      "text": "década de 1200",
+      "correct": false
+    }
+  ],
+  "explanation": "La firma de la Carta Magna ocurrió en 1215, dentro de la década de 1210.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

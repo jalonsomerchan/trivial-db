@@ -1,0 +1,43 @@
+{
+  "id": "q-010024",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “La escuela de Atenas”?",
+  "answers": [
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    },
+    {
+      "text": "Pablo Picasso",
+      "correct": false
+    },
+    {
+      "text": "René Magritte",
+      "correct": false
+    },
+    {
+      "text": "Rafael Sanzio",
+      "correct": true
+    }
+  ],
+  "explanation": "“La escuela de Atenas” es una obra de Rafael Sanzio.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "rafael-sanzio",
+    "la-escuela-de-atenas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

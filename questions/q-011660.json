@@ -1,0 +1,43 @@
+{
+  "id": "q-011660",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “Mortal Kombat”?",
+  "answers": [
+    {
+      "text": "sigilo",
+      "correct": false
+    },
+    {
+      "text": "lucha",
+      "correct": true
+    },
+    {
+      "text": "disparos",
+      "correct": false
+    },
+    {
+      "text": "acción",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mortal Kombat” se describe habitualmente como lucha.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mortal-kombat",
+    "lucha"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013998",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué tiempo o construcción verbal aparece en “yo había estudiado”?",
+  "answers": [
+    {
+      "text": "presente de indicativo",
+      "correct": false
+    },
+    {
+      "text": "pretérito perfecto compuesto",
+      "correct": false
+    },
+    {
+      "text": "pretérito pluscuamperfecto",
+      "correct": true
+    },
+    {
+      "text": "futuro simple",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo había estudiado” corresponde a pretérito pluscuamperfecto.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-pluscuamperfecto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

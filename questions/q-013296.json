@@ -1,0 +1,42 @@
+{
+  "id": "q-013296",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la inicio de la Guerra de Corea?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "San Francisco",
+      "correct": false
+    },
+    {
+      "text": "península de Corea",
+      "correct": true
+    },
+    {
+      "text": "Maastricht",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Guerra de Corea se asocia directamente con península de Corea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "peninsula-de-corea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

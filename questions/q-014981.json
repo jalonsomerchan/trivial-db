@@ -1,0 +1,42 @@
+{
+  "id": "q-014981",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función cumple HAVING en SQL?",
+  "answers": [
+    {
+      "text": "filtrar grupos",
+      "correct": true
+    },
+    {
+      "text": "limitar la cantidad de resultados",
+      "correct": false
+    },
+    {
+      "text": "eliminar filas",
+      "correct": false
+    },
+    {
+      "text": "combinar tablas",
+      "correct": false
+    }
+  ],
+  "explanation": "HAVING sirve para filtrar grupos en una consulta SQL.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "having"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

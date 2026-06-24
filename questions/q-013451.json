@@ -1,0 +1,42 @@
+{
+  "id": "q-013451",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre crisis financiera global, derrota de la Armada Invencible, erupción del Vesubio que sepultó Pompeya y unificación de Italia?",
+  "answers": [
+    {
+      "text": "erupción del Vesubio que sepultó Pompeya",
+      "correct": false
+    },
+    {
+      "text": "crisis financiera global",
+      "correct": true
+    },
+    {
+      "text": "unificación de Italia",
+      "correct": false
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, crisis financiera global es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

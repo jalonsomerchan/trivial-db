@@ -1,0 +1,42 @@
+{
+  "id": "q-010125",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “Pedro Páramo” frente a la referencia “El Aleph”?",
+  "answers": [
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": false
+    },
+    {
+      "text": "Juan Rulfo",
+      "correct": true
+    },
+    {
+      "text": "George Orwell",
+      "correct": false
+    },
+    {
+      "text": "León Tolstói",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “Pedro Páramo” pertenece a Juan Rulfo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "juan-rulfo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

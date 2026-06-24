@@ -1,0 +1,41 @@
+{
+  "id": "q-014402",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "estadistica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la media aritmética de 14, 11, 89 y 46?",
+  "answers": [
+    {
+      "text": "38",
+      "correct": false
+    },
+    {
+      "text": "40",
+      "correct": true
+    },
+    {
+      "text": "42",
+      "correct": false
+    },
+    {
+      "text": "45",
+      "correct": false
+    }
+  ],
+  "explanation": "La media es la suma de los cuatro valores dividida entre 4: 160/4 = 40.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "media"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

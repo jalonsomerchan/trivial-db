@@ -1,0 +1,42 @@
+{
+  "id": "q-014104",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto resulta al restar 344 de 828?",
+  "answers": [
+    {
+      "text": "489",
+      "correct": false
+    },
+    {
+      "text": "484",
+      "correct": true
+    },
+    {
+      "text": "479",
+      "correct": false
+    },
+    {
+      "text": "534",
+      "correct": false
+    }
+  ],
+  "explanation": "Al calcular 828 - 344 se obtiene 484.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

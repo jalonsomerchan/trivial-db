@@ -1,0 +1,42 @@
+{
+  "id": "q-012263",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo pad thai, poutine, fondue y shakshuka encaja con Canadá y con el ingrediente patatas, queso y salsa?",
+  "answers": [
+    {
+      "text": "pad thai",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": false
+    },
+    {
+      "text": "poutine",
+      "correct": true
+    },
+    {
+      "text": "shakshuka",
+      "correct": false
+    }
+  ],
+  "explanation": "poutine se asocia con Canadá y con patatas, queso y salsa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "poutine"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

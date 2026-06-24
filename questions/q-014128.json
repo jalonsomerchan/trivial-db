@@ -1,0 +1,41 @@
+{
+  "id": "q-014128",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "easy",
+  "question": "¿Por cuál de estos números es divisible 122?",
+  "answers": [
+    {
+      "text": "4",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": true
+    },
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    }
+  ],
+  "explanation": "122 es divisible por 2 porque la división es exacta.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

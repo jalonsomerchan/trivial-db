@@ -1,0 +1,42 @@
+{
+  "id": "q-014814",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué servicio se asocia normalmente con el puerto 110?",
+  "answers": [
+    {
+      "text": "FTPS",
+      "correct": false
+    },
+    {
+      "text": "POP3",
+      "correct": true
+    },
+    {
+      "text": "SSH",
+      "correct": false
+    },
+    {
+      "text": "PostgreSQL",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 110 se asocia habitualmente con POP3.",
+  "sources": [
+    {
+      "title": "IANA Service Name and Transport Protocol Port Number Registry",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "puertos",
+    "pop3"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

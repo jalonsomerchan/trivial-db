@@ -1,0 +1,43 @@
+{
+  "id": "q-014640",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla JSON en informática?",
+  "answers": [
+    {
+      "text": "Virtual Private Network",
+      "correct": false
+    },
+    {
+      "text": "Structured Query Language",
+      "correct": false
+    },
+    {
+      "text": "JavaScript Object Notation",
+      "correct": true
+    },
+    {
+      "text": "Extensible Markup Language",
+      "correct": false
+    }
+  ],
+  "explanation": "En informática, JSON significa JavaScript Object Notation.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "json"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

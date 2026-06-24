@@ -1,0 +1,41 @@
+{
+  "id": "q-010681",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué densidad tiene una muestra de 600 g que ocupa 30 cm³?",
+  "answers": [
+    {
+      "text": "630 g/cm³",
+      "correct": false
+    },
+    {
+      "text": "20 g/cm³",
+      "correct": true
+    },
+    {
+      "text": "21 g/cm³",
+      "correct": false
+    },
+    {
+      "text": "19 g/cm³",
+      "correct": false
+    }
+  ],
+  "explanation": "La densidad es masa dividida entre volumen: 600/30 = 20 g/cm³.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "densidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

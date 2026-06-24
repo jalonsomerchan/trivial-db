@@ -1,0 +1,42 @@
+{
+  "id": "q-012209",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo arepa, hummus, shakshuka y chili con carne encaja con Estados Unidos y México y con el ingrediente carne y chile?",
+  "answers": [
+    {
+      "text": "hummus",
+      "correct": false
+    },
+    {
+      "text": "shakshuka",
+      "correct": false
+    },
+    {
+      "text": "chili con carne",
+      "correct": true
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    }
+  ],
+  "explanation": "chili con carne se asocia con Estados Unidos y México y con carne y chile.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "chili-con-carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

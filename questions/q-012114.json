@@ -1,0 +1,42 @@
+{
+  "id": "q-012114",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo zanahoria, pimiento, salmón y almendra es un ejemplo de pescado?",
+  "answers": [
+    {
+      "text": "salmón",
+      "correct": true
+    },
+    {
+      "text": "almendra",
+      "correct": false
+    },
+    {
+      "text": "zanahoria",
+      "correct": false
+    },
+    {
+      "text": "pimiento",
+      "correct": false
+    }
+  ],
+  "explanation": "salmón es un ejemplo de pescado.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pescado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

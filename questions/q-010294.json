@@ -1,0 +1,42 @@
+{
+  "id": "q-010294",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La última cena”, “Las señoritas de Avignon”, “La persistencia de la memoria” y “Los girasoles” pertenece al Renacimiento?",
+  "answers": [
+    {
+      "text": "La persistencia de la memoria",
+      "correct": false
+    },
+    {
+      "text": "Los girasoles",
+      "correct": false
+    },
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": false
+    },
+    {
+      "text": "La última cena",
+      "correct": true
+    }
+  ],
+  "explanation": "“La última cena” se vincula con Renacimiento.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

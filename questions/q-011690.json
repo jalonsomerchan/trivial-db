@@ -1,0 +1,42 @@
+{
+  "id": "q-011690",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Ridley Scott encaja con el género terror y ciencia ficción?",
+  "answers": [
+    {
+      "text": "Alien",
+      "correct": true
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "Avatar",
+      "correct": false
+    },
+    {
+      "text": "Mad Max: Fury Road",
+      "correct": false
+    }
+  ],
+  "explanation": "“Alien” fue dirigida por Ridley Scott y se asocia con terror y ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "ridley-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

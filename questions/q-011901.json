@@ -1,0 +1,42 @@
+{
+  "id": "q-011901",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Blade Runner”, “Psicosis”, “Alien” y “Pulp Fiction” fue dirigida por Ridley Scott?",
+  "answers": [
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": true
+    },
+    {
+      "text": "Alien",
+      "correct": false
+    }
+  ],
+  "explanation": "“Blade Runner” se asocia con Ridley Scott.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "ridley-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

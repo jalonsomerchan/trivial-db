@@ -1,0 +1,43 @@
+{
+  "id": "q-012890",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código ISO alfa-2 corresponde a Santa Lucía?",
+  "answers": [
+    {
+      "text": "NZ",
+      "correct": false
+    },
+    {
+      "text": "LC",
+      "correct": true
+    },
+    {
+      "text": "IR",
+      "correct": false
+    },
+    {
+      "text": "CK",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Santa Lucía es LC.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "iso",
+    "lc"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

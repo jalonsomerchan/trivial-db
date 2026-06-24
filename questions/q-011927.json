@@ -1,0 +1,42 @@
+{
+  "id": "q-011927",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “El caballero oscuro”, “Toy Story”, “Pulp Fiction” y “Avatar” fue dirigida por Christopher Nolan?",
+  "answers": [
+    {
+      "text": "Toy Story",
+      "correct": false
+    },
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    },
+    {
+      "text": "El caballero oscuro",
+      "correct": true
+    },
+    {
+      "text": "Avatar",
+      "correct": false
+    }
+  ],
+  "explanation": "“El caballero oscuro” se asocia con Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

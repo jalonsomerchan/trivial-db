@@ -1,0 +1,42 @@
+{
+  "id": "q-014096",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto resulta al restar 287 de 1284?",
+  "answers": [
+    {
+      "text": "1047",
+      "correct": false
+    },
+    {
+      "text": "1002",
+      "correct": false
+    },
+    {
+      "text": "997",
+      "correct": true
+    },
+    {
+      "text": "992",
+      "correct": false
+    }
+  ],
+  "explanation": "Al calcular 1284 - 287 se obtiene 997.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-013324",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué personaje histórico se vincula con monarquía absoluta en Francia?",
+  "answers": [
+    {
+      "text": "Isabel I de Castilla",
+      "correct": false
+    },
+    {
+      "text": "Pedro el Grande",
+      "correct": false
+    },
+    {
+      "text": "Luis XIV",
+      "correct": true
+    },
+    {
+      "text": "Napoleón Bonaparte",
+      "correct": false
+    }
+  ],
+  "explanation": "Luis XIV se vincula con monarquía absoluta en Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "luis-xiv"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012015",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo alubias, lentejas, sardina y salmón es un ejemplo de pescado?",
+  "answers": [
+    {
+      "text": "lentejas",
+      "correct": false
+    },
+    {
+      "text": "salmón",
+      "correct": false
+    },
+    {
+      "text": "alubias",
+      "correct": false
+    },
+    {
+      "text": "sardina",
+      "correct": true
+    }
+  ],
+  "explanation": "sardina es un ejemplo de pescado.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pescado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

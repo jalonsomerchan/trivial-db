@@ -1,0 +1,42 @@
+{
+  "id": "q-010834",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la función principal del sistema respiratorio?",
+  "answers": [
+    {
+      "text": "intercambiar oxígeno y dióxido de carbono",
+      "correct": true
+    },
+    {
+      "text": "defender el organismo frente a patógenos",
+      "correct": false
+    },
+    {
+      "text": "coordinar señales y respuestas",
+      "correct": false
+    },
+    {
+      "text": "regular funciones mediante hormonas",
+      "correct": false
+    }
+  ],
+  "explanation": "El sistema respiratorio tiene como función principal intercambiar oxígeno y dióxido de carbono.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "sistema-respiratorio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

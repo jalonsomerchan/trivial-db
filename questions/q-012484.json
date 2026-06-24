@@ -1,0 +1,43 @@
+{
+  "id": "q-012484",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como cocinar con calor seco en horno?",
+  "answers": [
+    {
+      "text": "hornear",
+      "correct": true
+    },
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "hervir",
+      "correct": false
+    },
+    {
+      "text": "amasar",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es hornear.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "hornear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013548",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “cuéntamelo”, “cántaro”, “césped” y “dígamelo” es llana?",
+  "answers": [
+    {
+      "text": "cuéntamelo",
+      "correct": false
+    },
+    {
+      "text": "dígamelo",
+      "correct": false
+    },
+    {
+      "text": "cántaro",
+      "correct": false
+    },
+    {
+      "text": "césped",
+      "correct": true
+    }
+  ],
+  "explanation": "“césped” es una palabra llana.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "llana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

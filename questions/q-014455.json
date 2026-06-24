@@ -1,0 +1,41 @@
+{
+  "id": "q-014455",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 30% de 600?",
+  "answers": [
+    {
+      "text": "185",
+      "correct": false
+    },
+    {
+      "text": "190",
+      "correct": false
+    },
+    {
+      "text": "170",
+      "correct": false
+    },
+    {
+      "text": "180",
+      "correct": true
+    }
+  ],
+  "explanation": "El 30% de 600 se calcula como 600 × 30/100 = 180.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

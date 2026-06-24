@@ -1,0 +1,42 @@
+{
+  "id": "q-012404",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo feijoada, chili con carne, gazpacho y tzatziki se prepara típicamente con carne y chile?",
+  "answers": [
+    {
+      "text": "tzatziki",
+      "correct": false
+    },
+    {
+      "text": "feijoada",
+      "correct": false
+    },
+    {
+      "text": "chili con carne",
+      "correct": true
+    },
+    {
+      "text": "gazpacho",
+      "correct": false
+    }
+  ],
+  "explanation": "chili con carne se prepara típicamente con carne y chile.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "chili-con-carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

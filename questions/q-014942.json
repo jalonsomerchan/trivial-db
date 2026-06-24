@@ -1,0 +1,41 @@
+{
+  "id": "q-014942",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 486 en sistema binario?",
+  "answers": [
+    {
+      "text": "111100111",
+      "correct": false
+    },
+    {
+      "text": "111100110",
+      "correct": true
+    },
+    {
+      "text": "111100101",
+      "correct": false
+    },
+    {
+      "text": "111101000",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 486 es 111100110.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

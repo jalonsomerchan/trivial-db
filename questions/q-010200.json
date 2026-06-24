@@ -1,0 +1,42 @@
+{
+  "id": "q-010200",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Composición con rojo, amarillo y azul”, “La noche estrellada”, “Las señoritas de Avignon” y “La persistencia de la memoria” pertenece al Neoplasticismo?",
+  "answers": [
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": true
+    },
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": false
+    },
+    {
+      "text": "La persistencia de la memoria",
+      "correct": false
+    }
+  ],
+  "explanation": "“Composición con rojo, amarillo y azul” se vincula con Neoplasticismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "neoplasticismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

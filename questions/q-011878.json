@@ -1,0 +1,43 @@
+{
+  "id": "q-011878",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género describe mejor la película “Matrix”?",
+  "answers": [
+    {
+      "text": "acción",
+      "correct": false
+    },
+    {
+      "text": "aventura",
+      "correct": false
+    },
+    {
+      "text": "musical",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    }
+  ],
+  "explanation": "“Matrix” se describe habitualmente como ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "matrix",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

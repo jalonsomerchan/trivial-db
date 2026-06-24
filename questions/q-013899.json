@@ -1,0 +1,41 @@
+{
+  "id": "q-013899",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “florecer”, “subdirector”, “inmortal” y “imposible” contiene prefijo in-?",
+  "answers": [
+    {
+      "text": "inmortal",
+      "correct": true
+    },
+    {
+      "text": "imposible",
+      "correct": false
+    },
+    {
+      "text": "florecer",
+      "correct": false
+    },
+    {
+      "text": "subdirector",
+      "correct": false
+    }
+  ],
+  "explanation": "“inmortal” contiene prefijo in-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010489",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Romeo y Julieta”, “Ficciones”, “Frankenstein” y “Cien años de soledad” fue escrita por Jorge Luis Borges?",
+  "answers": [
+    {
+      "text": "Romeo y Julieta",
+      "correct": false
+    },
+    {
+      "text": "Frankenstein",
+      "correct": false
+    },
+    {
+      "text": "Ficciones",
+      "correct": true
+    },
+    {
+      "text": "Cien años de soledad",
+      "correct": false
+    }
+  ],
+  "explanation": "“Ficciones” fue escrita por Jorge Luis Borges.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "jorge-luis-borges"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-014983",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función cumple JOIN en SQL?",
+  "answers": [
+    {
+      "text": "limitar la cantidad de resultados",
+      "correct": false
+    },
+    {
+      "text": "eliminar filas",
+      "correct": false
+    },
+    {
+      "text": "combinar tablas",
+      "correct": true
+    },
+    {
+      "text": "filtrar resultados",
+      "correct": false
+    }
+  ],
+  "explanation": "JOIN sirve para combinar tablas en una consulta SQL.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "join"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012175",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Corea con col fermentada?",
+  "answers": [
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": true
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es kimchi.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "kimchi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

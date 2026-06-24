@@ -1,0 +1,42 @@
+{
+  "id": "q-010187",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra de arte se asocia con Rembrandt y Barroco?",
+  "answers": [
+    {
+      "text": "Las meninas",
+      "correct": false
+    },
+    {
+      "text": "La ronda de noche",
+      "correct": true
+    },
+    {
+      "text": "La persistencia de la memoria",
+      "correct": false
+    },
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra asociada con Rembrandt y Barroco es “La ronda de noche”.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "rembrandt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

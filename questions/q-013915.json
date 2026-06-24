@@ -1,0 +1,41 @@
+{
+  "id": "q-013915",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “inmortal”, “antivirus”, “predecir” y “subdirector” contiene prefijo pre-?",
+  "answers": [
+    {
+      "text": "subdirector",
+      "correct": false
+    },
+    {
+      "text": "predecir",
+      "correct": true
+    },
+    {
+      "text": "inmortal",
+      "correct": false
+    },
+    {
+      "text": "antivirus",
+      "correct": false
+    }
+  ],
+  "explanation": "“predecir” contiene prefijo pre-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

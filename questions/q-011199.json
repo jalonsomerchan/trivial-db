@@ -1,0 +1,42 @@
+{
+  "id": "q-011199",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "futbol"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de sede y campeón corresponde al Mundial de fútbol de 1934 y no al de 2018?",
+  "answers": [
+    {
+      "text": "Catar y Inglaterra",
+      "correct": false
+    },
+    {
+      "text": "Catar y España",
+      "correct": false
+    },
+    {
+      "text": "Italia y Italia",
+      "correct": true
+    },
+    {
+      "text": "Rusia y Francia",
+      "correct": false
+    }
+  ],
+  "explanation": "El Mundial de 1934 se jugó en Italia y lo ganó Italia.",
+  "sources": [
+    {
+      "title": "FIFA",
+      "url": "https://www.fifa.com/"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "1934"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

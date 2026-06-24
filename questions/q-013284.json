@@ -1,0 +1,42 @@
+{
+  "id": "q-013284",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la coronación imperial de Carlomagno?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Wittenberg",
+      "correct": false
+    },
+    {
+      "text": "península itálica",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": true
+    }
+  ],
+  "explanation": "La coronación imperial de Carlomagno se asocia directamente con Roma.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "roma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013996",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué tiempo o construcción verbal aparece en “yo estudio”?",
+  "answers": [
+    {
+      "text": "perífrasis de gerundio",
+      "correct": false
+    },
+    {
+      "text": "presente de indicativo",
+      "correct": true
+    },
+    {
+      "text": "pretérito anterior",
+      "correct": false
+    },
+    {
+      "text": "pretérito imperfecto",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo estudio” corresponde a presente de indicativo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "presente-de-indicativo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015001",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto TCP se asocia habitualmente con SSH?",
+  "answers": [
+    {
+      "text": "993",
+      "correct": false
+    },
+    {
+      "text": "22",
+      "correct": true
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "990",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto habitual asociado a SSH es 22.",
+  "sources": [
+    {
+      "title": "IANA Service Name and Transport Protocol Port Number Registry",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "puertos",
+    "ssh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

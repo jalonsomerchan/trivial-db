@@ -1,0 +1,42 @@
+{
+  "id": "q-011815",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Tomb Raider”, “Portal”, “Street Fighter II” y “The Legend of Zelda” encaja con Ryu y el género lucha?",
+  "answers": [
+    {
+      "text": "Street Fighter II",
+      "correct": true
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    },
+    {
+      "text": "Portal",
+      "correct": false
+    }
+  ],
+  "explanation": "Ryu se asocia con “Street Fighter II”, que se describe como lucha.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "street-fighter-ii"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

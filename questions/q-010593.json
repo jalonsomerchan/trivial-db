@@ -1,0 +1,42 @@
+{
+  "id": "q-010593",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la unidad del Sistema Internacional para medir energía?",
+  "answers": [
+    {
+      "text": "julio",
+      "correct": true
+    },
+    {
+      "text": "weber",
+      "correct": false
+    },
+    {
+      "text": "tesla",
+      "correct": false
+    },
+    {
+      "text": "lux",
+      "correct": false
+    }
+  ],
+  "explanation": "La unidad SI de energía es el julio.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "energia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

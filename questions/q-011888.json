@@ -1,0 +1,42 @@
+{
+  "id": "q-011888",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Alien”, “La La Land”, “El caballero oscuro” y “Psicosis” fue dirigida por Damien Chazelle?",
+  "answers": [
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "La La Land",
+      "correct": true
+    },
+    {
+      "text": "Alien",
+      "correct": false
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    }
+  ],
+  "explanation": "“La La Land” se asocia con Damien Chazelle.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "damien-chazelle"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

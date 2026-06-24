@@ -1,0 +1,42 @@
+{
+  "id": "q-013303",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la muerte de Alejandro Magno?",
+  "answers": [
+    {
+      "text": "Babilonia",
+      "correct": true
+    },
+    {
+      "text": "Norteamérica",
+      "correct": false
+    },
+    {
+      "text": "Mediterráneo",
+      "correct": false
+    },
+    {
+      "text": "península itálica",
+      "correct": false
+    }
+  ],
+  "explanation": "La muerte de Alejandro Magno se asocia directamente con Babilonia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "babilonia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

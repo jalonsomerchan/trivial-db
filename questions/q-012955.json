@@ -1,0 +1,43 @@
+{
+  "id": "q-012955",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Islas Caimán?",
+  "answers": [
+    {
+      "text": ".ky",
+      "correct": true
+    },
+    {
+      "text": ".rw",
+      "correct": false
+    },
+    {
+      "text": ".mp",
+      "correct": false
+    },
+    {
+      "text": ".st",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Islas Caimán es .ky.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "islas-caiman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-010014",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “Campbell’s Soup Cans”?",
+  "answers": [
+    {
+      "text": "Miguel Ángel",
+      "correct": false
+    },
+    {
+      "text": "Andy Warhol",
+      "correct": true
+    },
+    {
+      "text": "Piet Mondrian",
+      "correct": false
+    },
+    {
+      "text": "Edvard Munch",
+      "correct": false
+    }
+  ],
+  "explanation": "“Campbell’s Soup Cans” es una obra de Andy Warhol.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "andy-warhol",
+    "campbell-s-soup-cans"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

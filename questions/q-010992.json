@@ -1,0 +1,42 @@
+{
+  "id": "q-010992",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia-celular"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué orgánulo celular se encarga de almacenar sustancias?",
+  "answers": [
+    {
+      "text": "vacuola",
+      "correct": true
+    },
+    {
+      "text": "retículo endoplasmático rugoso",
+      "correct": false
+    },
+    {
+      "text": "núcleo celular",
+      "correct": false
+    },
+    {
+      "text": "cloroplasto",
+      "correct": false
+    }
+  ],
+  "explanation": "El orgánulo asociado con esa función es vacuola.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "celula",
+    "vacuola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

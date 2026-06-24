@@ -1,0 +1,43 @@
+{
+  "id": "q-013393",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso se asocia históricamente José de San Martín?",
+  "answers": [
+    {
+      "text": "coronación imperial del año 800",
+      "correct": false
+    },
+    {
+      "text": "fin del apartheid",
+      "correct": false
+    },
+    {
+      "text": "independencias hispanoamericanas",
+      "correct": true
+    },
+    {
+      "text": "modernización rusa",
+      "correct": false
+    }
+  ],
+  "explanation": "José de San Martín se asocia con independencias hispanoamericanas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "jose-de-san-martin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

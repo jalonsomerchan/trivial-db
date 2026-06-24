@@ -1,0 +1,42 @@
+{
+  "id": "q-011892",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Avatar”, “Casablanca”, “Parásitos” y “Mad Max: Fury Road” fue dirigida por George Miller?",
+  "answers": [
+    {
+      "text": "Mad Max: Fury Road",
+      "correct": true
+    },
+    {
+      "text": "Casablanca",
+      "correct": false
+    },
+    {
+      "text": "Parásitos",
+      "correct": false
+    },
+    {
+      "text": "Avatar",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mad Max: Fury Road” se asocia con George Miller.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "george-miller"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

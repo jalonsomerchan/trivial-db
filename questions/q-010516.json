@@ -1,0 +1,41 @@
+{
+  "id": "q-010516",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "easy",
+  "question": "¿A cuántos grados Fahrenheit equivalen -7 °C?",
+  "answers": [
+    {
+      "text": "29 °F",
+      "correct": false
+    },
+    {
+      "text": "25 °F",
+      "correct": false
+    },
+    {
+      "text": "9 °F",
+      "correct": false
+    },
+    {
+      "text": "19 °F",
+      "correct": true
+    }
+  ],
+  "explanation": "La conversión es °F = °C × 9/5 + 32, por lo que -7 °C son 19 °F.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "temperatura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

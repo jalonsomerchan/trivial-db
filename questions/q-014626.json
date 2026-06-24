@@ -1,0 +1,42 @@
+{
+  "id": "q-014626",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué comando de Git se usa para fusionar una rama con otra?",
+  "answers": [
+    {
+      "text": "git diff",
+      "correct": false
+    },
+    {
+      "text": "git pull",
+      "correct": false
+    },
+    {
+      "text": "git switch",
+      "correct": false
+    },
+    {
+      "text": "git merge",
+      "correct": true
+    }
+  ],
+  "explanation": "El comando git merge se usa para fusionar una rama con otra.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-merge"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

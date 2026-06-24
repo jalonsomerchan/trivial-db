@@ -1,0 +1,43 @@
+{
+  "id": "q-012843",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código ISO alfa-2 corresponde a Chad?",
+  "answers": [
+    {
+      "text": "CR",
+      "correct": false
+    },
+    {
+      "text": "IR",
+      "correct": false
+    },
+    {
+      "text": "GM",
+      "correct": false
+    },
+    {
+      "text": "TD",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Chad es TD.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "iso",
+    "td"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

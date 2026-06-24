@@ -1,0 +1,41 @@
+{
+  "id": "q-014410",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "estadistica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la media aritmética de 40, 14, 19 y 19?",
+  "answers": [
+    {
+      "text": "28",
+      "correct": false
+    },
+    {
+      "text": "23",
+      "correct": true
+    },
+    {
+      "text": "25",
+      "correct": false
+    },
+    {
+      "text": "21",
+      "correct": false
+    }
+  ],
+  "explanation": "La media es la suma de los cuatro valores dividida entre 4: 92/4 = 23.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "media"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

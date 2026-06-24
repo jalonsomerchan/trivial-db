@@ -1,0 +1,42 @@
+{
+  "id": "q-011131",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "baloncesto"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué franquicia de la NBA se asocia con la ciudad de Milwaukee?",
+  "answers": [
+    {
+      "text": "Phoenix Suns",
+      "correct": false
+    },
+    {
+      "text": "Philadelphia 76ers",
+      "correct": false
+    },
+    {
+      "text": "Milwaukee Bucks",
+      "correct": true
+    },
+    {
+      "text": "Los Angeles Lakers",
+      "correct": false
+    }
+  ],
+  "explanation": "Milwaukee Bucks es una franquicia asociada con Milwaukee.",
+  "sources": [
+    {
+      "title": "NBA",
+      "url": "https://www.nba.com/"
+    }
+  ],
+  "tags": [
+    "nba",
+    "milwaukee-bucks"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

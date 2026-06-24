@@ -1,0 +1,42 @@
+{
+  "id": "q-012304",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo shakshuka, biryani, tacos y risotto encaja con India y con el ingrediente arroz especiado?",
+  "answers": [
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "shakshuka",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": false
+    },
+    {
+      "text": "biryani",
+      "correct": true
+    }
+  ],
+  "explanation": "biryani se asocia con India y con arroz especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "biryani"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

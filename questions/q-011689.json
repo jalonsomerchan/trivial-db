@@ -1,0 +1,42 @@
+{
+  "id": "q-011689",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Ridley Scott encaja con el género ciencia ficción?",
+  "answers": [
+    {
+      "text": "El padrino",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": true
+    },
+    {
+      "text": "Interstellar",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    }
+  ],
+  "explanation": "“Blade Runner” fue dirigida por Ridley Scott y se asocia con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "ridley-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

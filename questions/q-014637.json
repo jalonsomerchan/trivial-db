@@ -1,0 +1,43 @@
+{
+  "id": "q-014637",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla HTML en informática?",
+  "answers": [
+    {
+      "text": "Internet Message Access Protocol",
+      "correct": false
+    },
+    {
+      "text": "Uniform Resource Locator",
+      "correct": false
+    },
+    {
+      "text": "Central Processing Unit",
+      "correct": false
+    },
+    {
+      "text": "HyperText Markup Language",
+      "correct": true
+    }
+  ],
+  "explanation": "En informática, HTML significa HyperText Markup Language.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "html"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

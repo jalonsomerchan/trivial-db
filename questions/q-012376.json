@@ -1,0 +1,42 @@
+{
+  "id": "q-012376",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo baklava, laksa, salmorejo y moussaka se prepara típicamente con fideos y caldo especiado?",
+  "answers": [
+    {
+      "text": "salmorejo",
+      "correct": false
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "laksa",
+      "correct": true
+    },
+    {
+      "text": "baklava",
+      "correct": false
+    }
+  ],
+  "explanation": "laksa se prepara típicamente con fideos y caldo especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "laksa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

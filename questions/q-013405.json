@@ -1,0 +1,42 @@
+{
+  "id": "q-013405",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre Revolución Gloriosa inglesa, fundación de la ONU, caída del Muro de Berlín y caída de Constantinopla?",
+  "answers": [
+    {
+      "text": "caída de Constantinopla",
+      "correct": false
+    },
+    {
+      "text": "fundación de la ONU",
+      "correct": false
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": true
+    },
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, caída del Muro de Berlín es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

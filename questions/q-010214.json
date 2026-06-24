@@ -1,0 +1,42 @@
+{
+  "id": "q-010214",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “El grito”, “Las señoritas de Avignon”, “Campbell’s Soup Cans” y “La noche estrellada” pertenece al Pop art?",
+  "answers": [
+    {
+      "text": "El grito",
+      "correct": false
+    },
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": false
+    },
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": true
+    }
+  ],
+  "explanation": "“Campbell’s Soup Cans” se vincula con Pop art.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pop-art"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

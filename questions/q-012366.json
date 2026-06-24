@@ -1,0 +1,43 @@
+{
+  "id": "q-012366",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con shakshuka?",
+  "answers": [
+    {
+      "text": "Indonesia",
+      "correct": false
+    },
+    {
+      "text": "Suiza",
+      "correct": false
+    },
+    {
+      "text": "Sudeste Asiático",
+      "correct": false
+    },
+    {
+      "text": "Norte de África y Oriente Medio",
+      "correct": true
+    }
+  ],
+  "explanation": "shakshuka se asocia tradicionalmente con Norte de África y Oriente Medio.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "shakshuka",
+    "norte-de-africa-y-oriente-medio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

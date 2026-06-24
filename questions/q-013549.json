@@ -1,0 +1,42 @@
+{
+  "id": "q-013549",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “cuéntamelo”, “cántaro”, “tambor” y “compás” es sobresdrújula?",
+  "answers": [
+    {
+      "text": "cántaro",
+      "correct": false
+    },
+    {
+      "text": "compás",
+      "correct": false
+    },
+    {
+      "text": "cuéntamelo",
+      "correct": true
+    },
+    {
+      "text": "tambor",
+      "correct": false
+    }
+  ],
+  "explanation": "“cuéntamelo” es una palabra sobresdrújula.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "sobresdrujula"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

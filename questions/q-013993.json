@@ -1,0 +1,42 @@
+{
+  "id": "q-013993",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué tiempo o construcción verbal aparece en “yo estudiaba”?",
+  "answers": [
+    {
+      "text": "condicional simple",
+      "correct": false
+    },
+    {
+      "text": "pretérito imperfecto",
+      "correct": true
+    },
+    {
+      "text": "presente de indicativo",
+      "correct": false
+    },
+    {
+      "text": "pretérito perfecto compuesto",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo estudiaba” corresponde a pretérito imperfecto.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-imperfecto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

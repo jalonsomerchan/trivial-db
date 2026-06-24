@@ -1,0 +1,43 @@
+{
+  "id": "q-011533",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Roma”?",
+  "answers": [
+    {
+      "text": "John Lasseter",
+      "correct": false
+    },
+    {
+      "text": "George Miller",
+      "correct": false
+    },
+    {
+      "text": "James Cameron",
+      "correct": false
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": true
+    }
+  ],
+  "explanation": "“Roma” está asociada con el director Alfonso Cuarón.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "roma",
+    "alfonso-cuaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

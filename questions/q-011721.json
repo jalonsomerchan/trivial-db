@@ -1,0 +1,42 @@
+{
+  "id": "q-011721",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Halo”, “Uncharted”, “Minecraft” y “Metroid” encaja con Master Chief y el género disparos?",
+  "answers": [
+    {
+      "text": "Halo",
+      "correct": true
+    },
+    {
+      "text": "Minecraft",
+      "correct": false
+    },
+    {
+      "text": "Metroid",
+      "correct": false
+    },
+    {
+      "text": "Uncharted",
+      "correct": false
+    }
+  ],
+  "explanation": "Master Chief se asocia con “Halo”, que se describe como disparos.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "halo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

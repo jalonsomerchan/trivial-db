@@ -1,0 +1,43 @@
+{
+  "id": "q-012869",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código ISO alfa-2 corresponde a Kuwait?",
+  "answers": [
+    {
+      "text": "GH",
+      "correct": false
+    },
+    {
+      "text": "KW",
+      "correct": true
+    },
+    {
+      "text": "CZ",
+      "correct": false
+    },
+    {
+      "text": "CY",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Kuwait es KW.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "iso",
+    "kw"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

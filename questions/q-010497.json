@@ -1,0 +1,42 @@
+{
+  "id": "q-010497",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o concepto artístico consiste en pintura con pigmento mezclado con aglutinante?",
+  "answers": [
+    {
+      "text": "temple",
+      "correct": true
+    },
+    {
+      "text": "litografía",
+      "correct": false
+    },
+    {
+      "text": "tenebrismo",
+      "correct": false
+    },
+    {
+      "text": "puntillismo",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a temple.",
+  "sources": [
+    {
+      "title": "MoMA Learning",
+      "url": "https://www.moma.org/learn/moma_learning/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "temple"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012348",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con goulash?",
+  "answers": [
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Hungría",
+      "correct": true
+    },
+    {
+      "text": "Sudeste Asiático",
+      "correct": false
+    },
+    {
+      "text": "Indonesia",
+      "correct": false
+    }
+  ],
+  "explanation": "goulash se asocia tradicionalmente con Hungría.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "goulash",
+    "hungria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

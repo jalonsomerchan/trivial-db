@@ -1,0 +1,42 @@
+{
+  "id": "q-014120",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto resulta al restar 477 de 1370?",
+  "answers": [
+    {
+      "text": "898",
+      "correct": false
+    },
+    {
+      "text": "943",
+      "correct": false
+    },
+    {
+      "text": "893",
+      "correct": true
+    },
+    {
+      "text": "888",
+      "correct": false
+    }
+  ],
+  "explanation": "Al calcular 1370 - 477 se obtiene 893.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014469",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 35% de 880?",
+  "answers": [
+    {
+      "text": "298",
+      "correct": false
+    },
+    {
+      "text": "313",
+      "correct": false
+    },
+    {
+      "text": "318",
+      "correct": false
+    },
+    {
+      "text": "308",
+      "correct": true
+    }
+  ],
+  "explanation": "El 35% de 880 se calcula como 880 × 35/100 = 308.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012017",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo alubias, trigo, merluza y leche es un ejemplo de legumbre?",
+  "answers": [
+    {
+      "text": "alubias",
+      "correct": true
+    },
+    {
+      "text": "trigo",
+      "correct": false
+    },
+    {
+      "text": "merluza",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": false
+    }
+  ],
+  "explanation": "alubias es un ejemplo de legumbre.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "legumbre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

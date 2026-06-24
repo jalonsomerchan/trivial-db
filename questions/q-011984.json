@@ -1,0 +1,42 @@
+{
+  "id": "q-011984",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Titanic”, “Ciudadano Kane”, “Roma” y “Matrix” fue dirigida por Lana y Lilly Wachowski?",
+  "answers": [
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Matrix",
+      "correct": true
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": false
+    },
+    {
+      "text": "Titanic",
+      "correct": false
+    }
+  ],
+  "explanation": "“Matrix” se asocia con Lana y Lilly Wachowski.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lana-y-lilly-wachowski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

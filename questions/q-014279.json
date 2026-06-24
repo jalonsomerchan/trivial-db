@@ -1,0 +1,41 @@
+{
+  "id": "q-014279",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 5x + 71 = 331?",
+  "answers": [
+    {
+      "text": "52",
+      "correct": true
+    },
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "55",
+      "correct": false
+    },
+    {
+      "text": "51",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 71 y dividiendo entre 5, se obtiene x = 52.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

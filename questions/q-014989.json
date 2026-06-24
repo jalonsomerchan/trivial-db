@@ -1,0 +1,42 @@
+{
+  "id": "q-014989",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto TCP se asocia habitualmente con DNS?",
+  "answers": [
+    {
+      "text": "53",
+      "correct": true
+    },
+    {
+      "text": "5432",
+      "correct": false
+    },
+    {
+      "text": "25",
+      "correct": false
+    },
+    {
+      "text": "80",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto habitual asociado a DNS es 53.",
+  "sources": [
+    {
+      "title": "IANA Service Name and Transport Protocol Port Number Registry",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "puertos",
+    "dns"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

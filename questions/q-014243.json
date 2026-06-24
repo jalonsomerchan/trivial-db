@@ -1,0 +1,41 @@
+{
+  "id": "q-014243",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 14x + 9 = 331?",
+  "answers": [
+    {
+      "text": "26",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": false
+    },
+    {
+      "text": "23",
+      "correct": true
+    },
+    {
+      "text": "22",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 9 y dividiendo entre 14, se obtiene x = 23.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-010786",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué velocidad tiene una onda de longitud 13 m y frecuencia 16 Hz?",
+  "answers": [
+    {
+      "text": "224 m/s",
+      "correct": false
+    },
+    {
+      "text": "208 m/s",
+      "correct": true
+    },
+    {
+      "text": "29 m/s",
+      "correct": false
+    },
+    {
+      "text": "221 m/s",
+      "correct": false
+    }
+  ],
+  "explanation": "La velocidad de una onda es longitud de onda por frecuencia: 13 × 16 = 208 m/s.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "ondas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

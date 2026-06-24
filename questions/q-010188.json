@@ -1,0 +1,42 @@
+{
+  "id": "q-010188",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra de arte se asocia con René Magritte y Surrealismo?",
+  "answers": [
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": false
+    },
+    {
+      "text": "El grito",
+      "correct": false
+    },
+    {
+      "text": "El hijo del hombre",
+      "correct": true
+    },
+    {
+      "text": "El tres de mayo de 1808",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra asociada con René Magritte y Surrealismo es “El hijo del hombre”.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "rene-magritte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

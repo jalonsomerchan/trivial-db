@@ -1,0 +1,42 @@
+{
+  "id": "q-011680",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de George Miller encaja con el género acción?",
+  "answers": [
+    {
+      "text": "Interstellar",
+      "correct": false
+    },
+    {
+      "text": "Mad Max: Fury Road",
+      "correct": true
+    },
+    {
+      "text": "Titanic",
+      "correct": false
+    },
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mad Max: Fury Road” fue dirigida por George Miller y se asocia con acción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "george-miller"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

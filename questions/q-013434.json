@@ -1,0 +1,42 @@
+{
+  "id": "q-013434",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre batalla de Waterloo, unificación de Italia, atentados del 11 de septiembre y asesinato de Julio César?",
+  "answers": [
+    {
+      "text": "atentados del 11 de septiembre",
+      "correct": true
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "unificación de Italia",
+      "correct": false
+    },
+    {
+      "text": "batalla de Waterloo",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, atentados del 11 de septiembre es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

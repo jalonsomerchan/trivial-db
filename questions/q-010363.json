@@ -1,0 +1,42 @@
+{
+  "id": "q-010363",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “La metamorfosis”?",
+  "answers": [
+    {
+      "text": "relato",
+      "correct": true
+    },
+    {
+      "text": "teatro",
+      "correct": false
+    },
+    {
+      "text": "distopía",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": false
+    }
+  ],
+  "explanation": "“La metamorfosis” se clasifica habitualmente como relato.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "relato"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

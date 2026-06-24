@@ -1,0 +1,43 @@
+{
+  "id": "q-012133",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato laksa?",
+  "answers": [
+    {
+      "text": "huevos en salsa de tomate",
+      "correct": false
+    },
+    {
+      "text": "queso fundido",
+      "correct": false
+    },
+    {
+      "text": "maíz",
+      "correct": false
+    },
+    {
+      "text": "fideos y caldo especiado",
+      "correct": true
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de laksa es fideos y caldo especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "laksa",
+    "fideos-y-caldo-especiado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

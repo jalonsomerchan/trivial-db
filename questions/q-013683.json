@@ -1,0 +1,42 @@
+{
+  "id": "q-013683",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué forma verbal ejemplifica pretérito perfecto compuesto?",
+  "answers": [
+    {
+      "text": "yo había estudiado",
+      "correct": false
+    },
+    {
+      "text": "yo he estudiado",
+      "correct": true
+    },
+    {
+      "text": "yo estudiaba",
+      "correct": false
+    },
+    {
+      "text": "que yo estudie",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo he estudiado” ejemplifica pretérito perfecto compuesto.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-perfecto-compuesto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

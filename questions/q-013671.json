@@ -1,0 +1,42 @@
+{
+  "id": "q-013671",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento morfológico destaca en la palabra “predecir”?",
+  "answers": [
+    {
+      "text": "sufijo -ecer",
+      "correct": false
+    },
+    {
+      "text": "prefijo sub-",
+      "correct": false
+    },
+    {
+      "text": "prefijo in-",
+      "correct": false
+    },
+    {
+      "text": "prefijo pre-",
+      "correct": true
+    }
+  ],
+  "explanation": "En “predecir” destaca prefijo pre-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "predecir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

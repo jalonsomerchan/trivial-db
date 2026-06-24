@@ -1,0 +1,42 @@
+{
+  "id": "q-012267",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo pho, ramen, hummus y chili con carne encaja con Vietnam y con el ingrediente caldo con fideos?",
+  "answers": [
+    {
+      "text": "pho",
+      "correct": true
+    },
+    {
+      "text": "hummus",
+      "correct": false
+    },
+    {
+      "text": "chili con carne",
+      "correct": false
+    },
+    {
+      "text": "ramen",
+      "correct": false
+    }
+  ],
+  "explanation": "pho se asocia con Vietnam y con caldo con fideos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

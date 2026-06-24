@@ -1,0 +1,42 @@
+{
+  "id": "q-010248",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La creación de Adán”, “Guernica”, “La noche estrellada” y “La escuela de Atenas” pertenece al Postimpresionismo?",
+  "answers": [
+    {
+      "text": "Guernica",
+      "correct": false
+    },
+    {
+      "text": "La escuela de Atenas",
+      "correct": false
+    },
+    {
+      "text": "La noche estrellada",
+      "correct": true
+    },
+    {
+      "text": "La creación de Adán",
+      "correct": false
+    }
+  ],
+  "explanation": "“La noche estrellada” se vincula con Postimpresionismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "postimpresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

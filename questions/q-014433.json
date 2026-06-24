@@ -1,0 +1,41 @@
+{
+  "id": "q-014433",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 18% de 500?",
+  "answers": [
+    {
+      "text": "95",
+      "correct": false
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "90",
+      "correct": true
+    },
+    {
+      "text": "100",
+      "correct": false
+    }
+  ],
+  "explanation": "El 18% de 500 se calcula como 500 × 18/100 = 90.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

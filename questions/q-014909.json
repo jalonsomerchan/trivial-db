@@ -1,0 +1,41 @@
+{
+  "id": "q-014909",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 388 en sistema binario?",
+  "answers": [
+    {
+      "text": "110000110",
+      "correct": false
+    },
+    {
+      "text": "110000100",
+      "correct": true
+    },
+    {
+      "text": "110000101",
+      "correct": false
+    },
+    {
+      "text": "110000011",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 388 es 110000100.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

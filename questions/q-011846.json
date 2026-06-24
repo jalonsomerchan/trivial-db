@@ -1,0 +1,43 @@
+{
+  "id": "q-011846",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “God of War”?",
+  "answers": [
+    {
+      "text": "Capcom",
+      "correct": false
+    },
+    {
+      "text": "Namco",
+      "correct": false
+    },
+    {
+      "text": "Santa Monica Studio",
+      "correct": true
+    },
+    {
+      "text": "Mojang",
+      "correct": false
+    }
+  ],
+  "explanation": "“God of War” se vincula con Santa Monica Studio.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "god-of-war",
+    "santa-monica-studio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

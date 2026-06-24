@@ -1,0 +1,41 @@
+{
+  "id": "q-014951",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 51 en sistema binario?",
+  "answers": [
+    {
+      "text": "110011",
+      "correct": true
+    },
+    {
+      "text": "110100",
+      "correct": false
+    },
+    {
+      "text": "110101",
+      "correct": false
+    },
+    {
+      "text": "110010",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 51 es 110011.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

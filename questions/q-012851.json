@@ -1,0 +1,43 @@
+{
+  "id": "q-012851",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código ISO alfa-2 corresponde a Etiopía?",
+  "answers": [
+    {
+      "text": "IT",
+      "correct": false
+    },
+    {
+      "text": "ET",
+      "correct": true
+    },
+    {
+      "text": "KH",
+      "correct": false
+    },
+    {
+      "text": "DM",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Etiopía es ET.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "iso",
+    "et"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

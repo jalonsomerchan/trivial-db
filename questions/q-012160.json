@@ -1,0 +1,43 @@
+{
+  "id": "q-012160",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué describe mejor la técnica culinaria de freír?",
+  "answers": [
+    {
+      "text": "dorar por calor seco",
+      "correct": false
+    },
+    {
+      "text": "cubrir con una capa brillante",
+      "correct": false
+    },
+    {
+      "text": "cocinar en grasa caliente",
+      "correct": true
+    },
+    {
+      "text": "cocinar por calor seco directo o indirecto",
+      "correct": false
+    }
+  ],
+  "explanation": "freír consiste en cocinar en grasa caliente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "freir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

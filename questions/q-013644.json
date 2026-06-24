@@ -1,0 +1,42 @@
+{
+  "id": "q-013644",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra es antónima de “explícito”?",
+  "answers": [
+    {
+      "text": "implícito",
+      "correct": true
+    },
+    {
+      "text": "temerario",
+      "correct": false
+    },
+    {
+      "text": "posterior",
+      "correct": false
+    },
+    {
+      "text": "severo",
+      "correct": false
+    }
+  ],
+  "explanation": "“implícito” es antónimo de “explícito”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "explicito"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

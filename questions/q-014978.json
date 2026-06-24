@@ -1,0 +1,42 @@
+{
+  "id": "q-014978",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como tiempo de respuesta?",
+  "answers": [
+    {
+      "text": "intérprete",
+      "correct": false
+    },
+    {
+      "text": "normalización",
+      "correct": false
+    },
+    {
+      "text": "latencia",
+      "correct": true
+    },
+    {
+      "text": "compilador",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a latencia.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "latencia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011707",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “God of War”, “Tomb Raider”, “Half-Life” y “The Last of Us” encaja con Gordon Freeman y el género disparos?",
+  "answers": [
+    {
+      "text": "Half-Life",
+      "correct": true
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    }
+  ],
+  "explanation": "Gordon Freeman se asocia con “Half-Life”, que se describe como disparos.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "half-life"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

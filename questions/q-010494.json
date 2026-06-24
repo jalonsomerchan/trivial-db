@@ -1,0 +1,42 @@
+{
+  "id": "q-010494",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o concepto artístico consiste en impresión desde una piedra o plancha preparada?",
+  "answers": [
+    {
+      "text": "ready-made",
+      "correct": false
+    },
+    {
+      "text": "claroscuro",
+      "correct": false
+    },
+    {
+      "text": "temple",
+      "correct": false
+    },
+    {
+      "text": "litografía",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a litografía.",
+  "sources": [
+    {
+      "title": "MoMA Learning",
+      "url": "https://www.moma.org/learn/moma_learning/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "litografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

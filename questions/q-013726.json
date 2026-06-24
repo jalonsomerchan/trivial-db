@@ -1,0 +1,42 @@
+{
+  "id": "q-013726",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “El dulce amargor de la despedida” dentro del grupo de ejemplos “Menos es más”, “Compró pan, leche y fruta”, “El dulce amargor de la despedida” y “La ciudad nunca duerme”?",
+  "answers": [
+    {
+      "text": "metáfora",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": true
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “El dulce amargor de la despedida” contiene oxímoron.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "oximoron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

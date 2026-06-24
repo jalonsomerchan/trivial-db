@@ -1,0 +1,42 @@
+{
+  "id": "q-011269",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "futbol"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de sede y campeón corresponde al Mundial de fútbol de 2002 y no al de 2010?",
+  "answers": [
+    {
+      "text": "Catar y Francia",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos y Uruguay",
+      "correct": false
+    },
+    {
+      "text": "Corea del Sur y Japón y Brasil",
+      "correct": true
+    },
+    {
+      "text": "Italia y España",
+      "correct": false
+    }
+  ],
+  "explanation": "El Mundial de 2002 se jugó en Corea del Sur y Japón y lo ganó Brasil.",
+  "sources": [
+    {
+      "title": "FIFA",
+      "url": "https://www.fifa.com/"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "2002"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011746",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Minecraft”, “Tomb Raider”, “Resident Evil” y “Sonic the Hedgehog” encaja con Lara Croft y el género aventura?",
+  "answers": [
+    {
+      "text": "Tomb Raider",
+      "correct": true
+    },
+    {
+      "text": "Minecraft",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    }
+  ],
+  "explanation": "Lara Croft se asocia con “Tomb Raider”, que se describe como aventura.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "tomb-raider"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

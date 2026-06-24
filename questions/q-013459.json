@@ -1,0 +1,42 @@
+{
+  "id": "q-013459",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre erupción del Vesubio que sepultó Pompeya, batalla de Trafalgar, revoluciones europeas de 1848 y inicio de la Primera Cruzada?",
+  "answers": [
+    {
+      "text": "revoluciones europeas de 1848",
+      "correct": true
+    },
+    {
+      "text": "erupción del Vesubio que sepultó Pompeya",
+      "correct": false
+    },
+    {
+      "text": "batalla de Trafalgar",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Primera Cruzada",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, revoluciones europeas de 1848 es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

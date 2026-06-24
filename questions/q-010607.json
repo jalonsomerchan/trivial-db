@@ -1,0 +1,42 @@
+{
+  "id": "q-010607",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico representa el símbolo Au?",
+  "answers": [
+    {
+      "text": "oxígeno",
+      "correct": false
+    },
+    {
+      "text": "oro",
+      "correct": true
+    },
+    {
+      "text": "silicio",
+      "correct": false
+    },
+    {
+      "text": "yodo",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Au representa al oro.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "oro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

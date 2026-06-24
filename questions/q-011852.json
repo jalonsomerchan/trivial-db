@@ -1,0 +1,43 @@
+{
+  "id": "q-011852",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “Minecraft”?",
+  "answers": [
+    {
+      "text": "Midway",
+      "correct": false
+    },
+    {
+      "text": "Namco",
+      "correct": false
+    },
+    {
+      "text": "Konami",
+      "correct": false
+    },
+    {
+      "text": "Mojang",
+      "correct": true
+    }
+  ],
+  "explanation": "“Minecraft” se vincula con Mojang.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "minecraft",
+    "mojang"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

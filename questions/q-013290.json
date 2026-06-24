@@ -1,0 +1,42 @@
+{
+  "id": "q-013290",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la erupción del Vesubio que sepultó Pompeya?",
+  "answers": [
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Wittenberg",
+      "correct": false
+    },
+    {
+      "text": "Constantinopla",
+      "correct": false
+    },
+    {
+      "text": "Campania",
+      "correct": true
+    }
+  ],
+  "explanation": "La erupción del Vesubio que sepultó Pompeya se asocia directamente con Campania.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "campania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

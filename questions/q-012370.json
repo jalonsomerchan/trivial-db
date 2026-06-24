@@ -1,0 +1,43 @@
+{
+  "id": "q-012370",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con tzatziki?",
+  "answers": [
+    {
+      "text": "Japón",
+      "correct": false
+    },
+    {
+      "text": "Grecia",
+      "correct": true
+    },
+    {
+      "text": "Europa del Este",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    }
+  ],
+  "explanation": "tzatziki se asocia tradicionalmente con Grecia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tzatziki",
+    "grecia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

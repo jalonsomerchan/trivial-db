@@ -1,0 +1,42 @@
+{
+  "id": "q-012070",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo nuez, trigo, lentejas y avellana es un ejemplo de legumbre?",
+  "answers": [
+    {
+      "text": "lentejas",
+      "correct": true
+    },
+    {
+      "text": "avellana",
+      "correct": false
+    },
+    {
+      "text": "nuez",
+      "correct": false
+    },
+    {
+      "text": "trigo",
+      "correct": false
+    }
+  ],
+  "explanation": "lentejas es un ejemplo de legumbre.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "legumbre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010262",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La joven de la perla”, “La creación de Adán”, “La noche estrellada” y “Number 1A, 1948” pertenece al Postimpresionismo?",
+  "answers": [
+    {
+      "text": "La noche estrellada",
+      "correct": true
+    },
+    {
+      "text": "La joven de la perla",
+      "correct": false
+    },
+    {
+      "text": "La creación de Adán",
+      "correct": false
+    },
+    {
+      "text": "Number 1A, 1948",
+      "correct": false
+    }
+  ],
+  "explanation": "“La noche estrellada” se vincula con Postimpresionismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "postimpresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

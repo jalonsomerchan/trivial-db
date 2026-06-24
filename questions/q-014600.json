@@ -1,0 +1,41 @@
+{
+  "id": "q-014600",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el valor decimal del número binario 111011₂?",
+  "answers": [
+    {
+      "text": "61",
+      "correct": false
+    },
+    {
+      "text": "59",
+      "correct": true
+    },
+    {
+      "text": "60",
+      "correct": false
+    },
+    {
+      "text": "58",
+      "correct": false
+    }
+  ],
+  "explanation": "El número binario 111011₂ equivale a 59 en decimal.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

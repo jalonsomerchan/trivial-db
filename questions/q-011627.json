@@ -1,0 +1,42 @@
+{
+  "id": "q-011627",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “The Last of Us”, “Half-Life”, “Final Fantasy VII” y “Portal” relaciona a Cloud Strife con Square?",
+  "answers": [
+    {
+      "text": "Final Fantasy VII",
+      "correct": true
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Portal",
+      "correct": false
+    },
+    {
+      "text": "Half-Life",
+      "correct": false
+    }
+  ],
+  "explanation": "Cloud Strife se asocia con “Final Fantasy VII”, vinculado a Square.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "final-fantasy-vii"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

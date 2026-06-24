@@ -1,0 +1,43 @@
+{
+  "id": "q-012881",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código ISO alfa-2 corresponde a Pakistán?",
+  "answers": [
+    {
+      "text": "PK",
+      "correct": true
+    },
+    {
+      "text": "SK",
+      "correct": false
+    },
+    {
+      "text": "LB",
+      "correct": false
+    },
+    {
+      "text": "NR",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Pakistán es PK.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "iso",
+    "pk"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

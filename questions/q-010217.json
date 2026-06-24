@@ -1,0 +1,42 @@
+{
+  "id": "q-010217",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “El hijo del hombre”, “Campbell’s Soup Cans”, “La ronda de noche” y “La última cena” pertenece al Pop art?",
+  "answers": [
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": true
+    },
+    {
+      "text": "El hijo del hombre",
+      "correct": false
+    },
+    {
+      "text": "La ronda de noche",
+      "correct": false
+    },
+    {
+      "text": "La última cena",
+      "correct": false
+    }
+  ],
+  "explanation": "“Campbell’s Soup Cans” se vincula con Pop art.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pop-art"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

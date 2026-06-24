@@ -1,0 +1,41 @@
+{
+  "id": "q-010934",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fuerza produce una masa de 33 kg con aceleración de 11 m/s²?",
+  "answers": [
+    {
+      "text": "363 N",
+      "correct": true
+    },
+    {
+      "text": "44 N",
+      "correct": false
+    },
+    {
+      "text": "352 N",
+      "correct": false
+    },
+    {
+      "text": "396 N",
+      "correct": false
+    }
+  ],
+  "explanation": "Según F = m·a, la fuerza es 33 × 11 = 363 N.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "dinamica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

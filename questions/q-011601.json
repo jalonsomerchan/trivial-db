@@ -1,0 +1,42 @@
+{
+  "id": "q-011601",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “Portal”, “Halo”, “Street Fighter II” y “Metroid” relaciona a Chell con Valve?",
+  "answers": [
+    {
+      "text": "Street Fighter II",
+      "correct": false
+    },
+    {
+      "text": "Halo",
+      "correct": false
+    },
+    {
+      "text": "Portal",
+      "correct": true
+    },
+    {
+      "text": "Metroid",
+      "correct": false
+    }
+  ],
+  "explanation": "Chell se asocia con “Portal”, vinculado a Valve.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "portal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

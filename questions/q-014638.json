@@ -1,0 +1,43 @@
+{
+  "id": "q-014638",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla HTTP en informática?",
+  "answers": [
+    {
+      "text": "Graphics Processing Unit",
+      "correct": false
+    },
+    {
+      "text": "Domain Name System",
+      "correct": false
+    },
+    {
+      "text": "Hypertext Transfer Protocol",
+      "correct": true
+    },
+    {
+      "text": "JavaScript Object Notation",
+      "correct": false
+    }
+  ],
+  "explanation": "En informática, HTTP significa Hypertext Transfer Protocol.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "http"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010496",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o concepto artístico consiste en modelado mediante luces y sombras?",
+  "answers": [
+    {
+      "text": "litografía",
+      "correct": false
+    },
+    {
+      "text": "claroscuro",
+      "correct": true
+    },
+    {
+      "text": "temple",
+      "correct": false
+    },
+    {
+      "text": "fresco",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a claroscuro.",
+  "sources": [
+    {
+      "title": "MoMA Learning",
+      "url": "https://www.moma.org/learn/moma_learning/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "claroscuro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

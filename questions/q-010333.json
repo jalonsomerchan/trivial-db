@@ -1,0 +1,42 @@
+{
+  "id": "q-010333",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué movimiento se vincula la obra “Guernica”?",
+  "answers": [
+    {
+      "text": "Expresionismo abstracto",
+      "correct": false
+    },
+    {
+      "text": "Neoplasticismo",
+      "correct": false
+    },
+    {
+      "text": "Renacimiento",
+      "correct": false
+    },
+    {
+      "text": "Cubismo",
+      "correct": true
+    }
+  ],
+  "explanation": "“Guernica” se vincula con Cubismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "cubismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

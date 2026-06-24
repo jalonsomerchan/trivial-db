@@ -1,0 +1,43 @@
+{
+  "id": "q-012123",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato croissant?",
+  "answers": [
+    {
+      "text": "fideos y caldo especiado",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "masa hojaldrada",
+      "correct": true
+    },
+    {
+      "text": "yogur y pepino",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de croissant es masa hojaldrada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "croissant",
+    "masa-hojaldrada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

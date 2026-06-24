@@ -1,0 +1,42 @@
+{
+  "id": "q-011749",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Mortal Kombat”, “Halo”, “Tomb Raider” y “The Legend of Zelda” encaja con Link y el género aventura?",
+  "answers": [
+    {
+      "text": "Halo",
+      "correct": false
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": true
+    }
+  ],
+  "explanation": "Link se asocia con “The Legend of Zelda”, que se describe como aventura.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-legend-of-zelda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

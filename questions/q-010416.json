@@ -1,0 +1,42 @@
+{
+  "id": "q-010416",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Guerra y paz”, “La Ilíada”, “Frankenstein” y “La ciudad y los perros” fue escrita por Mario Vargas Llosa?",
+  "answers": [
+    {
+      "text": "Guerra y paz",
+      "correct": false
+    },
+    {
+      "text": "La ciudad y los perros",
+      "correct": true
+    },
+    {
+      "text": "Frankenstein",
+      "correct": false
+    },
+    {
+      "text": "La Ilíada",
+      "correct": false
+    }
+  ],
+  "explanation": "“La ciudad y los perros” fue escrita por Mario Vargas Llosa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "mario-vargas-llosa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

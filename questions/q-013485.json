@@ -1,0 +1,42 @@
+{
+  "id": "q-013485",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre llegada de Colón a América, Tratado de Maastricht, independencia de Estados Unidos y caída de Constantinopla?",
+  "answers": [
+    {
+      "text": "independencia de Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Maastricht",
+      "correct": true
+    },
+    {
+      "text": "llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "caída de Constantinopla",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Tratado de Maastricht es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

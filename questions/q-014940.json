@@ -1,0 +1,41 @@
+{
+  "id": "q-014940",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 480 en sistema binario?",
+  "answers": [
+    {
+      "text": "111100010",
+      "correct": false
+    },
+    {
+      "text": "111011111",
+      "correct": false
+    },
+    {
+      "text": "111100001",
+      "correct": false
+    },
+    {
+      "text": "111100000",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 480 es 111100000.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

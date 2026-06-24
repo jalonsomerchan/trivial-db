@@ -1,0 +1,42 @@
+{
+  "id": "q-011228",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "futbol"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de sede y campeón corresponde al Mundial de fútbol de 1978 y no al de 2018?",
+  "answers": [
+    {
+      "text": "Argentina y Uruguay",
+      "correct": false
+    },
+    {
+      "text": "Corea del Sur y Japón y Italia",
+      "correct": false
+    },
+    {
+      "text": "Argentina y Argentina",
+      "correct": true
+    },
+    {
+      "text": "Rusia y Brasil",
+      "correct": false
+    }
+  ],
+  "explanation": "El Mundial de 1978 se jugó en Argentina y lo ganó Argentina.",
+  "sources": [
+    {
+      "title": "FIFA",
+      "url": "https://www.fifa.com/"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "1978"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

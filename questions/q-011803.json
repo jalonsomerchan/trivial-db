@@ -1,0 +1,42 @@
+{
+  "id": "q-011803",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “The Witcher 3”, “Minecraft”, “God of War” y “Street Fighter II” encaja con Kratos y el género acción?",
+  "answers": [
+    {
+      "text": "God of War",
+      "correct": true
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": false
+    },
+    {
+      "text": "Street Fighter II",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": false
+    }
+  ],
+  "explanation": "Kratos se asocia con “God of War”, que se describe como acción.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "god-of-war"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

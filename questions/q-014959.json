@@ -1,0 +1,41 @@
+{
+  "id": "q-014959",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 68 en sistema binario?",
+  "answers": [
+    {
+      "text": "1000101",
+      "correct": false
+    },
+    {
+      "text": "1000011",
+      "correct": false
+    },
+    {
+      "text": "1000110",
+      "correct": false
+    },
+    {
+      "text": "1000100",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 68 es 1000100.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

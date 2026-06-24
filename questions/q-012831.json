@@ -1,0 +1,43 @@
+{
+  "id": "q-012831",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código ISO alfa-2 corresponde a Benín?",
+  "answers": [
+    {
+      "text": "YE",
+      "correct": false
+    },
+    {
+      "text": "BJ",
+      "correct": true
+    },
+    {
+      "text": "PM",
+      "correct": false
+    },
+    {
+      "text": "DZ",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Benín es BJ.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "iso",
+    "bj"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

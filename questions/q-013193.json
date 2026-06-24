@@ -1,0 +1,42 @@
+{
+  "id": "q-013193",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la caída del Muro de Berlín frente a la referencia histórica de la caída del Imperio romano de Occidente?",
+  "answers": [
+    {
+      "text": "década de 1970",
+      "correct": false
+    },
+    {
+      "text": "década de 2000",
+      "correct": false
+    },
+    {
+      "text": "década de 1990",
+      "correct": false
+    },
+    {
+      "text": "década de 1980",
+      "correct": true
+    }
+  ],
+  "explanation": "La caída del Muro de Berlín ocurrió en 1989, dentro de la década de 1980.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

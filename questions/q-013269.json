@@ -1,0 +1,42 @@
+{
+  "id": "q-013269",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la Tratado de Maastricht?",
+  "answers": [
+    {
+      "text": "península de Corea",
+      "correct": false
+    },
+    {
+      "text": "Petrogrado",
+      "correct": false
+    },
+    {
+      "text": "Maastricht",
+      "correct": true
+    },
+    {
+      "text": "Constantinopla",
+      "correct": false
+    }
+  ],
+  "explanation": "La Tratado de Maastricht se asocia directamente con Maastricht.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "maastricht"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

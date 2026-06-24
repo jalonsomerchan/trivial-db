@@ -1,0 +1,42 @@
+{
+  "id": "q-010227",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Guernica”, “Campbell’s Soup Cans”, “El tres de mayo de 1808” y “Composición con rojo, amarillo y azul” pertenece al Neoplasticismo?",
+  "answers": [
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": true
+    },
+    {
+      "text": "El tres de mayo de 1808",
+      "correct": false
+    },
+    {
+      "text": "Guernica",
+      "correct": false
+    },
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": false
+    }
+  ],
+  "explanation": "“Composición con rojo, amarillo y azul” se vincula con Neoplasticismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "neoplasticismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

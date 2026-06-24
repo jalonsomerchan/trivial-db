@@ -1,0 +1,43 @@
+{
+  "id": "q-012154",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué describe mejor la técnica culinaria de asar?",
+  "answers": [
+    {
+      "text": "cocinar por calor seco directo o indirecto",
+      "correct": true
+    },
+    {
+      "text": "estirar una masa en capas finas",
+      "correct": false
+    },
+    {
+      "text": "dorar la superficie con calor intenso",
+      "correct": false
+    },
+    {
+      "text": "cocinar suavemente sin hervir fuerte",
+      "correct": false
+    }
+  ],
+  "explanation": "asar consiste en cocinar por calor seco directo o indirecto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "asar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

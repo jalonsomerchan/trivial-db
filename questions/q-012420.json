@@ -1,0 +1,42 @@
+{
+  "id": "q-012420",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo hummus, fondue, ceviche y cuscús se prepara típicamente con queso fundido?",
+  "answers": [
+    {
+      "text": "cuscús",
+      "correct": false
+    },
+    {
+      "text": "ceviche",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": true
+    },
+    {
+      "text": "hummus",
+      "correct": false
+    }
+  ],
+  "explanation": "fondue se prepara típicamente con queso fundido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fondue"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

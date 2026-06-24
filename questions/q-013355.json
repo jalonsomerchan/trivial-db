@@ -1,0 +1,42 @@
+{
+  "id": "q-013355",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la caída del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "Imperio bizantino",
+      "correct": false
+    },
+    {
+      "text": "cristianismo antiguo",
+      "correct": false
+    },
+    {
+      "text": "fin de la Guerra Fría",
+      "correct": true
+    },
+    {
+      "text": "exploraciones atlánticas",
+      "correct": false
+    }
+  ],
+  "explanation": "La caída del Muro de Berlín se relaciona con fin de la Guerra Fría.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fin-de-la-guerra-fria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-010695",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué energía cinética tiene una masa de 2 kg que se mueve a 9 m/s?",
+  "answers": [
+    {
+      "text": "18 J",
+      "correct": false
+    },
+    {
+      "text": "90 J",
+      "correct": false
+    },
+    {
+      "text": "83 J",
+      "correct": false
+    },
+    {
+      "text": "81 J",
+      "correct": true
+    }
+  ],
+  "explanation": "La energía cinética es 1/2·m·v², por lo que vale 81 J.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "energia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

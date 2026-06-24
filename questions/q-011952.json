@@ -1,0 +1,42 @@
+{
+  "id": "q-011952",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “La La Land”, “Titanic”, “Buscando a Nemo” y “Origen” fue dirigida por Damien Chazelle?",
+  "answers": [
+    {
+      "text": "Origen",
+      "correct": false
+    },
+    {
+      "text": "Titanic",
+      "correct": false
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    },
+    {
+      "text": "La La Land",
+      "correct": true
+    }
+  ],
+  "explanation": "“La La Land” se asocia con Damien Chazelle.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "damien-chazelle"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

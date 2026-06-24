@@ -1,0 +1,43 @@
+{
+  "id": "q-011535",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Toy Story”?",
+  "answers": [
+    {
+      "text": "Andrew Stanton",
+      "correct": false
+    },
+    {
+      "text": "Hayao Miyazaki",
+      "correct": false
+    },
+    {
+      "text": "John Lasseter",
+      "correct": true
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    }
+  ],
+  "explanation": "“Toy Story” está asociada con el director John Lasseter.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "toy-story",
+    "john-lasseter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011997",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Wall·E”, “El caballero oscuro”, “Parásitos” y “Buscando a Nemo” fue dirigida por Bong Joon-ho?",
+  "answers": [
+    {
+      "text": "Parásitos",
+      "correct": true
+    },
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "Wall·E",
+      "correct": false
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Parásitos” se asocia con Bong Joon-ho.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "bong-joon-ho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

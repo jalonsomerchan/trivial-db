@@ -1,0 +1,42 @@
+{
+  "id": "q-011918",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Ciudadano Kane”, “Pulp Fiction”, “Alien” y “Matrix” fue dirigida por Orson Welles?",
+  "answers": [
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": true
+    },
+    {
+      "text": "Alien",
+      "correct": false
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    }
+  ],
+  "explanation": "“Ciudadano Kane” se asocia con Orson Welles.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "orson-welles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

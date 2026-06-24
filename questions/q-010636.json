@@ -1,0 +1,42 @@
+{
+  "id": "q-010636",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué posición ocupa Mercurio desde el Sol?",
+  "answers": [
+    {
+      "text": "2",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": true
+    },
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    }
+  ],
+  "explanation": "Mercurio es el planeta número 1 contando desde el Sol.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "mercurio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

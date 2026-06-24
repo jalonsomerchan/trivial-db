@@ -1,0 +1,42 @@
+{
+  "id": "q-012274",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo pizza napolitana, guacamole, gazpacho y kimchi encaja con España y con el ingrediente tomate?",
+  "answers": [
+    {
+      "text": "pizza napolitana",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "gazpacho",
+      "correct": true
+    }
+  ],
+  "explanation": "gazpacho se asocia con España y con tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "gazpacho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

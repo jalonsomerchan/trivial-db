@@ -1,0 +1,43 @@
+{
+  "id": "q-011856",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “Resident Evil”?",
+  "answers": [
+    {
+      "text": "Core Design",
+      "correct": false
+    },
+    {
+      "text": "Square",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": true
+    },
+    {
+      "text": "Sega",
+      "correct": false
+    }
+  ],
+  "explanation": "“Resident Evil” se vincula con Capcom.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "resident-evil",
+    "capcom"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

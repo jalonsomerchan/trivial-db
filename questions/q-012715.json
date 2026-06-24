@@ -1,0 +1,43 @@
+{
+  "id": "q-012715",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a Perú?",
+  "answers": [
+    {
+      "text": "MOP",
+      "correct": false
+    },
+    {
+      "text": "BWP",
+      "correct": false
+    },
+    {
+      "text": "PEN",
+      "correct": true
+    },
+    {
+      "text": "LBP",
+      "correct": false
+    }
+  ],
+  "explanation": "El código de moneda registrado para Perú es PEN.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "peru"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012167",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué describe mejor la técnica culinaria de marinar?",
+  "answers": [
+    {
+      "text": "dorar la superficie con calor intenso",
+      "correct": false
+    },
+    {
+      "text": "cocinar lentamente en grasa o almíbar",
+      "correct": false
+    },
+    {
+      "text": "sumergir brevemente en agua hirviendo",
+      "correct": false
+    },
+    {
+      "text": "dejar un alimento en un líquido aromático",
+      "correct": true
+    }
+  ],
+  "explanation": "marinar consiste en dejar un alimento en un líquido aromático.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "marinar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

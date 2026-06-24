@@ -1,0 +1,41 @@
+{
+  "id": "q-010825",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué velocidad tiene una onda de longitud 8 m y frecuencia 28 Hz?",
+  "answers": [
+    {
+      "text": "36 m/s",
+      "correct": false
+    },
+    {
+      "text": "252 m/s",
+      "correct": false
+    },
+    {
+      "text": "224 m/s",
+      "correct": true
+    },
+    {
+      "text": "232 m/s",
+      "correct": false
+    }
+  ],
+  "explanation": "La velocidad de una onda es longitud de onda por frecuencia: 8 × 28 = 224 m/s.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "ondas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

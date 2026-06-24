@@ -1,0 +1,43 @@
+{
+  "id": "q-012722",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a Ruanda?",
+  "answers": [
+    {
+      "text": "NIO",
+      "correct": false
+    },
+    {
+      "text": "RWF",
+      "correct": true
+    },
+    {
+      "text": "BGN",
+      "correct": false
+    },
+    {
+      "text": "FKP",
+      "correct": false
+    }
+  ],
+  "explanation": "El código de moneda registrado para Ruanda es RWF.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "ruanda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

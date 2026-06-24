@@ -1,0 +1,42 @@
+{
+  "id": "q-014973",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como identificador único de una fila?",
+  "answers": [
+    {
+      "text": "pila",
+      "correct": false
+    },
+    {
+      "text": "contenedor",
+      "correct": false
+    },
+    {
+      "text": "normalización",
+      "correct": false
+    },
+    {
+      "text": "clave primaria",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a clave primaria.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "clave-primaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014833",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 127 en sistema binario?",
+  "answers": [
+    {
+      "text": "1111110",
+      "correct": false
+    },
+    {
+      "text": "1111111",
+      "correct": true
+    },
+    {
+      "text": "10000000",
+      "correct": false
+    },
+    {
+      "text": "10000001",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 127 es 1111111.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

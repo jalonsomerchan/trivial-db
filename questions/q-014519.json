@@ -1,0 +1,41 @@
+{
+  "id": "q-014519",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el valor decimal del número binario 10010101₂?",
+  "answers": [
+    {
+      "text": "151",
+      "correct": false
+    },
+    {
+      "text": "149",
+      "correct": true
+    },
+    {
+      "text": "148",
+      "correct": false
+    },
+    {
+      "text": "150",
+      "correct": false
+    }
+  ],
+  "explanation": "El número binario 10010101₂ equivale a 149 en decimal.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

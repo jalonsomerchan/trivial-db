@@ -1,0 +1,41 @@
+{
+  "id": "q-014887",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 309 en sistema binario?",
+  "answers": [
+    {
+      "text": "100110111",
+      "correct": false
+    },
+    {
+      "text": "100110101",
+      "correct": true
+    },
+    {
+      "text": "100110100",
+      "correct": false
+    },
+    {
+      "text": "100110110",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 309 es 100110101.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

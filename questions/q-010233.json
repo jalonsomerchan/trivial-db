@@ -1,0 +1,42 @@
+{
+  "id": "q-010233",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Impresión, sol naciente”, “La Gioconda”, “La última cena” y “La joven de la perla” pertenece al Impresionismo?",
+  "answers": [
+    {
+      "text": "La última cena",
+      "correct": false
+    },
+    {
+      "text": "La joven de la perla",
+      "correct": false
+    },
+    {
+      "text": "Impresión, sol naciente",
+      "correct": true
+    },
+    {
+      "text": "La Gioconda",
+      "correct": false
+    }
+  ],
+  "explanation": "“Impresión, sol naciente” se vincula con Impresionismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "impresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

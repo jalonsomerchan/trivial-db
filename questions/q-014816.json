@@ -1,0 +1,42 @@
+{
+  "id": "q-014816",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué servicio se asocia normalmente con el puerto 22?",
+  "answers": [
+    {
+      "text": "DNS",
+      "correct": false
+    },
+    {
+      "text": "IMAPS",
+      "correct": false
+    },
+    {
+      "text": "SSH",
+      "correct": true
+    },
+    {
+      "text": "Redis",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 22 se asocia habitualmente con SSH.",
+  "sources": [
+    {
+      "title": "IANA Service Name and Transport Protocol Port Number Registry",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "puertos",
+    "ssh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014486",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 45% de 820?",
+  "answers": [
+    {
+      "text": "359",
+      "correct": false
+    },
+    {
+      "text": "379",
+      "correct": false
+    },
+    {
+      "text": "374",
+      "correct": false
+    },
+    {
+      "text": "369",
+      "correct": true
+    }
+  ],
+  "explanation": "El 45% de 820 se calcula como 820 × 45/100 = 369.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

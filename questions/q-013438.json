@@ -1,0 +1,42 @@
+{
+  "id": "q-013438",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre caída del Muro de Berlín, llegada del Apolo 11 a la Luna, fundación tradicional de Roma y muerte de Alejandro Magno?",
+  "answers": [
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": true
+    },
+    {
+      "text": "muerte de Alejandro Magno",
+      "correct": false
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    },
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, caída del Muro de Berlín es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

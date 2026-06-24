@@ -1,0 +1,43 @@
+{
+  "id": "q-012120",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato borsch?",
+  "answers": [
+    {
+      "text": "paprika",
+      "correct": false
+    },
+    {
+      "text": "remolacha",
+      "correct": true
+    },
+    {
+      "text": "masa rellena",
+      "correct": false
+    },
+    {
+      "text": "fideos de arroz",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de borsch es remolacha.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "borsch",
+    "remolacha"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

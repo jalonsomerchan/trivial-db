@@ -1,0 +1,42 @@
+{
+  "id": "q-012271",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo pierogi, chili con carne, salmorejo y borsch encaja con Estados Unidos y México y con el ingrediente carne y chile?",
+  "answers": [
+    {
+      "text": "chili con carne",
+      "correct": true
+    },
+    {
+      "text": "pierogi",
+      "correct": false
+    },
+    {
+      "text": "salmorejo",
+      "correct": false
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    }
+  ],
+  "explanation": "chili con carne se asocia con Estados Unidos y México y con carne y chile.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "chili-con-carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

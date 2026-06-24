@@ -1,0 +1,42 @@
+{
+  "id": "q-011928",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “El caballero oscuro”, “Wall·E”, “Ciudadano Kane” y “Jurassic Park” fue dirigida por Steven Spielberg?",
+  "answers": [
+    {
+      "text": "Wall·E",
+      "correct": false
+    },
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "Jurassic Park",
+      "correct": true
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": false
+    }
+  ],
+  "explanation": "“Jurassic Park” se asocia con Steven Spielberg.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "steven-spielberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

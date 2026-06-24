@@ -1,0 +1,42 @@
+{
+  "id": "q-014114",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto resulta al restar 418 de 1054?",
+  "answers": [
+    {
+      "text": "636",
+      "correct": true
+    },
+    {
+      "text": "686",
+      "correct": false
+    },
+    {
+      "text": "641",
+      "correct": false
+    },
+    {
+      "text": "631",
+      "correct": false
+    }
+  ],
+  "explanation": "Al calcular 1054 - 418 se obtiene 636.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

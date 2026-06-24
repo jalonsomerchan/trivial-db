@@ -1,0 +1,42 @@
+{
+  "id": "q-012190",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Italia con masa de pan?",
+  "answers": [
+    {
+      "text": "cuscús",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": false
+    },
+    {
+      "text": "pizza napolitana",
+      "correct": true
+    },
+    {
+      "text": "tzatziki",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es pizza napolitana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pizza-napolitana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

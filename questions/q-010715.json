@@ -1,0 +1,42 @@
+{
+  "id": "q-010715",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud física se mide en vatio?",
+  "answers": [
+    {
+      "text": "inducción magnética",
+      "correct": false
+    },
+    {
+      "text": "fuerza",
+      "correct": false
+    },
+    {
+      "text": "potencia",
+      "correct": true
+    },
+    {
+      "text": "resistencia eléctrica",
+      "correct": false
+    }
+  ],
+  "explanation": "El vatio es la unidad del Sistema Internacional para potencia.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "vatio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

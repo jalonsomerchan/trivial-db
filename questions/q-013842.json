@@ -1,0 +1,41 @@
+{
+  "id": "q-013842",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “antivirus”, “imposible”, “subdirector” y “florecer” contiene prefijo sub-?",
+  "answers": [
+    {
+      "text": "florecer",
+      "correct": false
+    },
+    {
+      "text": "antivirus",
+      "correct": false
+    },
+    {
+      "text": "subdirector",
+      "correct": true
+    },
+    {
+      "text": "imposible",
+      "correct": false
+    }
+  ],
+  "explanation": "“subdirector” contiene prefijo sub-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

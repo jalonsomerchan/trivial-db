@@ -1,0 +1,42 @@
+{
+  "id": "q-012434",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo paella, moussaka, feijoada y kimchi se prepara típicamente con arroz?",
+  "answers": [
+    {
+      "text": "paella",
+      "correct": true
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "feijoada",
+      "correct": false
+    }
+  ],
+  "explanation": "paella se prepara típicamente con arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "paella"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

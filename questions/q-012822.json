@@ -1,0 +1,42 @@
+{
+  "id": "q-012822",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Vanuatu?",
+  "answers": [
+    {
+      "text": "Polynesia",
+      "correct": false
+    },
+    {
+      "text": "Australia and New Zealand",
+      "correct": false
+    },
+    {
+      "text": "Melanesia",
+      "correct": true
+    },
+    {
+      "text": "Northern Africa",
+      "correct": false
+    }
+  ],
+  "explanation": "Vanuatu pertenece a la subregión Melanesia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

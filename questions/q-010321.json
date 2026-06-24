@@ -1,0 +1,42 @@
+{
+  "id": "q-010321",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué significa litografía en el contexto artístico?",
+  "answers": [
+    {
+      "text": "impresión desde una piedra o plancha preparada",
+      "correct": true
+    },
+    {
+      "text": "pintura sobre enlucido húmedo",
+      "correct": false
+    },
+    {
+      "text": "pintura con pigmento mezclado con aglutinante",
+      "correct": false
+    },
+    {
+      "text": "uso dramático de contrastes intensos de luz y sombra",
+      "correct": false
+    }
+  ],
+  "explanation": "En arte, litografía se refiere a impresión desde una piedra o plancha preparada.",
+  "sources": [
+    {
+      "title": "MoMA Learning",
+      "url": "https://www.moma.org/learn/moma_learning/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "litografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

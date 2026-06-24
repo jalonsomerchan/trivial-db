@@ -1,0 +1,41 @@
+{
+  "id": "q-014898",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 349 en sistema binario?",
+  "answers": [
+    {
+      "text": "101011101",
+      "correct": true
+    },
+    {
+      "text": "101011100",
+      "correct": false
+    },
+    {
+      "text": "101011110",
+      "correct": false
+    },
+    {
+      "text": "101011111",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 349 es 101011101.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

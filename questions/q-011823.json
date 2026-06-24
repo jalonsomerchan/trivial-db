@@ -1,0 +1,42 @@
+{
+  "id": "q-011823",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Uncharted”, “Halo”, “The Witcher 3” y “Minecraft” encaja con Geralt de Rivia y el género rol?",
+  "answers": [
+    {
+      "text": "The Witcher 3",
+      "correct": true
+    },
+    {
+      "text": "Uncharted",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": false
+    },
+    {
+      "text": "Halo",
+      "correct": false
+    }
+  ],
+  "explanation": "Geralt de Rivia se asocia con “The Witcher 3”, que se describe como rol.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-witcher-3"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

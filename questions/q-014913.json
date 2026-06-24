@@ -1,0 +1,41 @@
+{
+  "id": "q-014913",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 402 en sistema binario?",
+  "answers": [
+    {
+      "text": "110010011",
+      "correct": false
+    },
+    {
+      "text": "110010001",
+      "correct": false
+    },
+    {
+      "text": "110010100",
+      "correct": false
+    },
+    {
+      "text": "110010010",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 402 es 110010010.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

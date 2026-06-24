@@ -1,0 +1,42 @@
+{
+  "id": "q-014985",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función cumple ORDER BY en SQL?",
+  "answers": [
+    {
+      "text": "limitar la cantidad de resultados",
+      "correct": false
+    },
+    {
+      "text": "combinar tablas",
+      "correct": false
+    },
+    {
+      "text": "ordenar resultados",
+      "correct": true
+    },
+    {
+      "text": "filtrar resultados",
+      "correct": false
+    }
+  ],
+  "explanation": "ORDER BY sirve para ordenar resultados en una consulta SQL.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "order-by"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

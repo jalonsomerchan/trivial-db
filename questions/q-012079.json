@@ -1,0 +1,42 @@
+{
+  "id": "q-012079",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo pimiento, salmón, trigo y queso es un ejemplo de pescado?",
+  "answers": [
+    {
+      "text": "salmón",
+      "correct": true
+    },
+    {
+      "text": "pimiento",
+      "correct": false
+    },
+    {
+      "text": "trigo",
+      "correct": false
+    },
+    {
+      "text": "queso",
+      "correct": false
+    }
+  ],
+  "explanation": "salmón es un ejemplo de pescado.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pescado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

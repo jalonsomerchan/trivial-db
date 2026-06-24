@@ -1,0 +1,42 @@
+{
+  "id": "q-011705",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “God of War”, “The Witcher 3”, “Uncharted” y “Half-Life” encaja con Geralt de Rivia y el género rol?",
+  "answers": [
+    {
+      "text": "The Witcher 3",
+      "correct": true
+    },
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    },
+    {
+      "text": "Uncharted",
+      "correct": false
+    }
+  ],
+  "explanation": "Geralt de Rivia se asocia con “The Witcher 3”, que se describe como rol.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-witcher-3"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

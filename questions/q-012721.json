@@ -1,0 +1,43 @@
+{
+  "id": "q-012721",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a República de Sudáfrica?",
+  "answers": [
+    {
+      "text": "KZT",
+      "correct": false
+    },
+    {
+      "text": "GYD",
+      "correct": false
+    },
+    {
+      "text": "ZAR",
+      "correct": true
+    },
+    {
+      "text": "BZD",
+      "correct": false
+    }
+  ],
+  "explanation": "El código de moneda registrado para República de Sudáfrica es ZAR.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "republica-de-sudafrica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

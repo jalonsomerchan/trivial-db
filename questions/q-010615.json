@@ -1,0 +1,42 @@
+{
+  "id": "q-010615",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico representa el símbolo Fe?",
+  "answers": [
+    {
+      "text": "plomo",
+      "correct": false
+    },
+    {
+      "text": "hidrógeno",
+      "correct": false
+    },
+    {
+      "text": "mercurio",
+      "correct": false
+    },
+    {
+      "text": "hierro",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico Fe representa al hierro.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "hierro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011845",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “Final Fantasy VII”?",
+  "answers": [
+    {
+      "text": "Sega",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    },
+    {
+      "text": "Namco",
+      "correct": false
+    },
+    {
+      "text": "Square",
+      "correct": true
+    }
+  ],
+  "explanation": "“Final Fantasy VII” se vincula con Square.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "final-fantasy-vii",
+    "square"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

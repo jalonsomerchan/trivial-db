@@ -1,0 +1,43 @@
+{
+  "id": "q-013321",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué personaje histórico se vincula con independencia india en India?",
+  "answers": [
+    {
+      "text": "Mahatma Gandhi",
+      "correct": true
+    },
+    {
+      "text": "Carlos I de España",
+      "correct": false
+    },
+    {
+      "text": "Pedro el Grande",
+      "correct": false
+    },
+    {
+      "text": "Carlomagno",
+      "correct": false
+    }
+  ],
+  "explanation": "Mahatma Gandhi se vincula con independencia india en India.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "mahatma-gandhi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

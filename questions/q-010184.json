@@ -1,0 +1,42 @@
+{
+  "id": "q-010184",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra de arte se asocia con Pablo Picasso y Cubismo?",
+  "answers": [
+    {
+      "text": "La persistencia de la memoria",
+      "correct": false
+    },
+    {
+      "text": "Guernica",
+      "correct": true
+    },
+    {
+      "text": "Los girasoles",
+      "correct": false
+    },
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra asociada con Pablo Picasso y Cubismo es “Guernica”.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pablo-picasso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

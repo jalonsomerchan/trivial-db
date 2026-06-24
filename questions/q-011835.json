@@ -1,0 +1,42 @@
+{
+  "id": "q-011835",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estilo musical se asocia con “Lemonade”?",
+  "answers": [
+    {
+      "text": "pop soul",
+      "correct": false
+    },
+    {
+      "text": "R&B",
+      "correct": true
+    },
+    {
+      "text": "electrónica",
+      "correct": false
+    },
+    {
+      "text": "pop",
+      "correct": false
+    }
+  ],
+  "explanation": "“Lemonade” se asocia con R&B.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "r-b"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

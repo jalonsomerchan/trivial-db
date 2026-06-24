@@ -1,0 +1,42 @@
+{
+  "id": "q-011704",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “God of War”, “The Legend of Zelda”, “Resident Evil” y “The Witcher 3” encaja con Link y el género aventura?",
+  "answers": [
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": true
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": false
+    }
+  ],
+  "explanation": "Link se asocia con “The Legend of Zelda”, que se describe como aventura.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-legend-of-zelda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

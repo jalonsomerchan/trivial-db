@@ -1,0 +1,42 @@
+{
+  "id": "q-013021",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué siglo pertenece la unificación de Italia?",
+  "answers": [
+    {
+      "text": "siglo VIII a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX d. C.",
+      "correct": true
+    },
+    {
+      "text": "siglo XXI d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XX d. C.",
+      "correct": false
+    }
+  ],
+  "explanation": "La unificación de Italia se sitúa en el siglo XIX d. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

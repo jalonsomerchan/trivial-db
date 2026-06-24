@@ -1,0 +1,42 @@
+{
+  "id": "q-012478",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo tacos, risotto, arepa y poutine se prepara típicamente con patatas, queso y salsa?",
+  "answers": [
+    {
+      "text": "tacos",
+      "correct": false
+    },
+    {
+      "text": "poutine",
+      "correct": true
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    }
+  ],
+  "explanation": "poutine se prepara típicamente con patatas, queso y salsa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "poutine"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010595",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la unidad del Sistema Internacional para medir flujo magnético?",
+  "answers": [
+    {
+      "text": "faradio",
+      "correct": false
+    },
+    {
+      "text": "voltio",
+      "correct": false
+    },
+    {
+      "text": "culombio",
+      "correct": false
+    },
+    {
+      "text": "weber",
+      "correct": true
+    }
+  ],
+  "explanation": "La unidad SI de flujo magnético es el weber.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "flujo-magnetico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

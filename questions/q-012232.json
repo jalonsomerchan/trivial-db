@@ -1,0 +1,42 @@
+{
+  "id": "q-012232",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo chili con carne, kimchi, pizza napolitana y guacamole encaja con Estados Unidos y México y con el ingrediente carne y chile?",
+  "answers": [
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "chili con carne",
+      "correct": true
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "pizza napolitana",
+      "correct": false
+    }
+  ],
+  "explanation": "chili con carne se asocia con Estados Unidos y México y con carne y chile.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "chili-con-carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010169",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué libro se asocia con León Tolstói y el género novela?",
+  "answers": [
+    {
+      "text": "Romancero gitano",
+      "correct": false
+    },
+    {
+      "text": "Guerra y paz",
+      "correct": true
+    },
+    {
+      "text": "La Odisea",
+      "correct": false
+    },
+    {
+      "text": "Ficciones",
+      "correct": false
+    }
+  ],
+  "explanation": "“Guerra y paz” es una obra de León Tolstói asociada con novela.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "leon-tolstoi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

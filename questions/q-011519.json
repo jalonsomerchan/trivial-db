@@ -1,0 +1,43 @@
+{
+  "id": "q-011519",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Casablanca”?",
+  "answers": [
+    {
+      "text": "John Lasseter",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    },
+    {
+      "text": "George Miller",
+      "correct": false
+    },
+    {
+      "text": "Michael Curtiz",
+      "correct": true
+    }
+  ],
+  "explanation": "“Casablanca” está asociada con el director Michael Curtiz.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "casablanca",
+    "michael-curtiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

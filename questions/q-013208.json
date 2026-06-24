@@ -1,0 +1,42 @@
+{
+  "id": "q-013208",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la derrota de la Armada Invencible frente a la referencia histórica de la construcción del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "década de 1600",
+      "correct": false
+    },
+    {
+      "text": "década de 1580",
+      "correct": true
+    },
+    {
+      "text": "década de 1590",
+      "correct": false
+    },
+    {
+      "text": "década de 1570",
+      "correct": false
+    }
+  ],
+  "explanation": "La derrota de la Armada Invencible ocurrió en 1588, dentro de la década de 1580.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

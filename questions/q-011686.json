@@ -1,0 +1,42 @@
+{
+  "id": "q-011686",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Michael Curtiz encaja con el género drama romántico?",
+  "answers": [
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Casablanca",
+      "correct": true
+    },
+    {
+      "text": "Origen",
+      "correct": false
+    },
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    }
+  ],
+  "explanation": "“Casablanca” fue dirigida por Michael Curtiz y se asocia con drama romántico.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "michael-curtiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

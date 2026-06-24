@@ -1,0 +1,42 @@
+{
+  "id": "q-010309",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Los girasoles”, “El grito”, “La ronda de noche” y “La creación de Adán” pertenece al Expresionismo?",
+  "answers": [
+    {
+      "text": "La creación de Adán",
+      "correct": false
+    },
+    {
+      "text": "El grito",
+      "correct": true
+    },
+    {
+      "text": "La ronda de noche",
+      "correct": false
+    },
+    {
+      "text": "Los girasoles",
+      "correct": false
+    }
+  ],
+  "explanation": "“El grito” se vincula con Expresionismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "expresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

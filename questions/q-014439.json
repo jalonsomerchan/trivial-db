@@ -1,0 +1,41 @@
+{
+  "id": "q-014439",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 20% de 840?",
+  "answers": [
+    {
+      "text": "168",
+      "correct": true
+    },
+    {
+      "text": "158",
+      "correct": false
+    },
+    {
+      "text": "173",
+      "correct": false
+    },
+    {
+      "text": "178",
+      "correct": false
+    }
+  ],
+  "explanation": "El 20% de 840 se calcula como 840 × 20/100 = 168.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

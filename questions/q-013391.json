@@ -1,0 +1,43 @@
+{
+  "id": "q-013391",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso se asocia históricamente Guillermo el Conquistador?",
+  "answers": [
+    {
+      "text": "independencia india",
+      "correct": false
+    },
+    {
+      "text": "guerras napoleónicas",
+      "correct": false
+    },
+    {
+      "text": "final de la República romana",
+      "correct": false
+    },
+    {
+      "text": "conquista normanda",
+      "correct": true
+    }
+  ],
+  "explanation": "Guillermo el Conquistador se asocia con conquista normanda.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "guillermo-el-conquistador"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

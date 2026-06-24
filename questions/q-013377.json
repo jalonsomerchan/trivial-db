@@ -1,0 +1,42 @@
+{
+  "id": "q-013377",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la muerte de Alejandro Magno?",
+  "answers": [
+    {
+      "text": "Macedonia antigua",
+      "correct": true
+    },
+    {
+      "text": "Imperio bizantino",
+      "correct": false
+    },
+    {
+      "text": "Guerra Fría",
+      "correct": false
+    },
+    {
+      "text": "Imperio romano",
+      "correct": false
+    }
+  ],
+  "explanation": "La muerte de Alejandro Magno se relaciona con Macedonia antigua.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "macedonia-antigua"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012247",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo goulash, laksa, tzatziki y tabulé encaja con Sudeste Asiático y con el ingrediente fideos y caldo especiado?",
+  "answers": [
+    {
+      "text": "goulash",
+      "correct": false
+    },
+    {
+      "text": "tabulé",
+      "correct": false
+    },
+    {
+      "text": "tzatziki",
+      "correct": false
+    },
+    {
+      "text": "laksa",
+      "correct": true
+    }
+  ],
+  "explanation": "laksa se asocia con Sudeste Asiático y con fideos y caldo especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "laksa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

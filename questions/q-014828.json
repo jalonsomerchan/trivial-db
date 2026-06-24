@@ -1,0 +1,41 @@
+{
+  "id": "q-014828",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 109 en sistema binario?",
+  "answers": [
+    {
+      "text": "1101111",
+      "correct": false
+    },
+    {
+      "text": "1101101",
+      "correct": true
+    },
+    {
+      "text": "1101100",
+      "correct": false
+    },
+    {
+      "text": "1101110",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 109 es 1101101.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

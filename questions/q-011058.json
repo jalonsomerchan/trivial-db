@@ -1,0 +1,42 @@
+{
+  "id": "q-011058",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué deporte del grupo béisbol, fútbol sala, waterpolo y tenis utiliza balón y puntúa con gol?",
+  "answers": [
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "fútbol sala",
+      "correct": false
+    },
+    {
+      "text": "tenis",
+      "correct": false
+    },
+    {
+      "text": "waterpolo",
+      "correct": true
+    }
+  ],
+  "explanation": "waterpolo utiliza balón y una acción de puntuación habitual es gol.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "waterpolo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

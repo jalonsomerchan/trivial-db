@@ -1,0 +1,42 @@
+{
+  "id": "q-013236",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la llegada del Apolo 11 a la Luna frente a la referencia histórica de la disolución de la Unión Soviética?",
+  "answers": [
+    {
+      "text": "década de 1950",
+      "correct": false
+    },
+    {
+      "text": "década de 1960",
+      "correct": true
+    },
+    {
+      "text": "década de 1970",
+      "correct": false
+    },
+    {
+      "text": "década de 1980",
+      "correct": false
+    }
+  ],
+  "explanation": "La llegada del Apolo 11 a la Luna ocurrió en 1969, dentro de la década de 1960.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

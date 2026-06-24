@@ -1,0 +1,41 @@
+{
+  "id": "q-010760",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué presión ejerce una fuerza de 350 N sobre un área de 14 m²?",
+  "answers": [
+    {
+      "text": "364 Pa",
+      "correct": false
+    },
+    {
+      "text": "39 Pa",
+      "correct": false
+    },
+    {
+      "text": "11 Pa",
+      "correct": false
+    },
+    {
+      "text": "25 Pa",
+      "correct": true
+    }
+  ],
+  "explanation": "La presión es fuerza dividida entre área: 350/14 = 25 Pa.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "presion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

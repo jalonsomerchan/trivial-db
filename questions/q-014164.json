@@ -1,0 +1,41 @@
+{
+  "id": "q-014164",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "combinatoria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuántas combinaciones de 3 elementos pueden formarse a partir de 10 elementos distintos?",
+  "answers": [
+    {
+      "text": "360",
+      "correct": false
+    },
+    {
+      "text": "110",
+      "correct": false
+    },
+    {
+      "text": "120",
+      "correct": true
+    },
+    {
+      "text": "130",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de combinaciones es C(10,3) = 120.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "combinaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010305",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Las señoritas de Avignon”, “El grito”, “Composición con rojo, amarillo y azul” y “El beso” pertenece al Cubismo?",
+  "answers": [
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": false
+    },
+    {
+      "text": "El beso",
+      "correct": false
+    },
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": true
+    },
+    {
+      "text": "El grito",
+      "correct": false
+    }
+  ],
+  "explanation": "“Las señoritas de Avignon” se vincula con Cubismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "cubismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

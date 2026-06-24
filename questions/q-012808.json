@@ -1,0 +1,42 @@
+{
+  "id": "q-012808",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a San Vicente y Granadinas?",
+  "answers": [
+    {
+      "text": "Eastern Asia",
+      "correct": false
+    },
+    {
+      "text": "Southern Asia",
+      "correct": false
+    },
+    {
+      "text": "Eastern Europe",
+      "correct": false
+    },
+    {
+      "text": "Caribbean",
+      "correct": true
+    }
+  ],
+  "explanation": "San Vicente y Granadinas pertenece a la subregión Caribbean.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

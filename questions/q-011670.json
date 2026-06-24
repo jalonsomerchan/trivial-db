@@ -1,0 +1,43 @@
+{
+  "id": "q-011670",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “Tomb Raider”?",
+  "answers": [
+    {
+      "text": "aventura",
+      "correct": true
+    },
+    {
+      "text": "acción y exploración",
+      "correct": false
+    },
+    {
+      "text": "disparos",
+      "correct": false
+    },
+    {
+      "text": "acción",
+      "correct": false
+    }
+  ],
+  "explanation": "“Tomb Raider” se describe habitualmente como aventura.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "tomb-raider",
+    "aventura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

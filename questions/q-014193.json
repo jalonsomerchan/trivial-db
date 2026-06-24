@@ -1,0 +1,41 @@
+{
+  "id": "q-014193",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 10x + 54 = 754?",
+  "answers": [
+    {
+      "text": "69",
+      "correct": false
+    },
+    {
+      "text": "73",
+      "correct": false
+    },
+    {
+      "text": "71",
+      "correct": false
+    },
+    {
+      "text": "70",
+      "correct": true
+    }
+  ],
+  "explanation": "Restando 54 y dividiendo entre 10, se obtiene x = 70.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

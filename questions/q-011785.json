@@ -1,0 +1,42 @@
+{
+  "id": "q-011785",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Super Mario Bros.”, “Sonic the Hedgehog”, “Halo” y “Half-Life” encaja con Master Chief y el género disparos?",
+  "answers": [
+    {
+      "text": "Halo",
+      "correct": true
+    },
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    }
+  ],
+  "explanation": "Master Chief se asocia con “Halo”, que se describe como disparos.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "halo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

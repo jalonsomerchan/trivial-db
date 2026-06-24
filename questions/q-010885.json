@@ -1,0 +1,41 @@
+{
+  "id": "q-010885",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fuerza produce una masa de 17 kg con aceleración de 3 m/s²?",
+  "answers": [
+    {
+      "text": "48 N",
+      "correct": false
+    },
+    {
+      "text": "68 N",
+      "correct": false
+    },
+    {
+      "text": "20 N",
+      "correct": false
+    },
+    {
+      "text": "51 N",
+      "correct": true
+    }
+  ],
+  "explanation": "Según F = m·a, la fuerza es 17 × 3 = 51 N.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "dinamica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

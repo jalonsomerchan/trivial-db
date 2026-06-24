@@ -1,0 +1,42 @@
+{
+  "id": "q-011766",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Resident Evil”, “Sonic the Hedgehog”, “Metal Gear Solid” y “Mega Man” encaja con Solid Snake y el género sigilo?",
+  "answers": [
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": true
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    }
+  ],
+  "explanation": "Solid Snake se asocia con “Metal Gear Solid”, que se describe como sigilo.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metal-gear-solid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

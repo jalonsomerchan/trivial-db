@@ -1,0 +1,42 @@
+{
+  "id": "q-010168",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué libro se asocia con Julio Cortázar y el género novela?",
+  "answers": [
+    {
+      "text": "Rayuela",
+      "correct": true
+    },
+    {
+      "text": "Moby Dick",
+      "correct": false
+    },
+    {
+      "text": "Cien años de soledad",
+      "correct": false
+    },
+    {
+      "text": "Rebelión en la granja",
+      "correct": false
+    }
+  ],
+  "explanation": "“Rayuela” es una obra de Julio Cortázar asociada con novela.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "julio-cortazar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

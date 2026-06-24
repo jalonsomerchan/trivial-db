@@ -1,0 +1,41 @@
+{
+  "id": "q-010794",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué velocidad tiene una onda de longitud 15 m y frecuencia 7 Hz?",
+  "answers": [
+    {
+      "text": "105 m/s",
+      "correct": true
+    },
+    {
+      "text": "22 m/s",
+      "correct": false
+    },
+    {
+      "text": "120 m/s",
+      "correct": false
+    },
+    {
+      "text": "112 m/s",
+      "correct": false
+    }
+  ],
+  "explanation": "La velocidad de una onda es longitud de onda por frecuencia: 15 × 7 = 105 m/s.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "ondas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

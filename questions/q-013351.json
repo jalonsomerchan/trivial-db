@@ -1,0 +1,42 @@
+{
+  "id": "q-013351",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la batalla de Trafalgar?",
+  "answers": [
+    {
+      "text": "integración europea",
+      "correct": false
+    },
+    {
+      "text": "guerras napoleónicas",
+      "correct": true
+    },
+    {
+      "text": "final de la República romana",
+      "correct": false
+    },
+    {
+      "text": "Reforma protestante",
+      "correct": false
+    }
+  ],
+  "explanation": "La batalla de Trafalgar se relaciona con guerras napoleónicas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerras-napoleonicas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

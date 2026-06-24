@@ -1,0 +1,42 @@
+{
+  "id": "q-012173",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Canadá con patatas, queso y salsa?",
+  "answers": [
+    {
+      "text": "satay",
+      "correct": false
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    },
+    {
+      "text": "pad thai",
+      "correct": false
+    },
+    {
+      "text": "poutine",
+      "correct": true
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es poutine.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "poutine"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-010008",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió “La metamorfosis”?",
+  "answers": [
+    {
+      "text": "Dante Alighieri",
+      "correct": false
+    },
+    {
+      "text": "Franz Kafka",
+      "correct": true
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": false
+    },
+    {
+      "text": "Julio Cortázar",
+      "correct": false
+    }
+  ],
+  "explanation": "“La metamorfosis” fue escrito por Franz Kafka.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "franz-kafka",
+    "la-metamorfosis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

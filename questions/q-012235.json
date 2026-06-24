@@ -1,0 +1,42 @@
+{
+  "id": "q-012235",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo croissant, tacos, pho y sushi encaja con Japón y con el ingrediente arroz avinagrado?",
+  "answers": [
+    {
+      "text": "croissant",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": false
+    },
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "sushi",
+      "correct": true
+    }
+  ],
+  "explanation": "sushi se asocia con Japón y con arroz avinagrado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "sushi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

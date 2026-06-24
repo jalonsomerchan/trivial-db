@@ -1,0 +1,42 @@
+{
+  "id": "q-010717",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud física se mide en weber?",
+  "answers": [
+    {
+      "text": "flujo magnético",
+      "correct": true
+    },
+    {
+      "text": "resistencia eléctrica",
+      "correct": false
+    },
+    {
+      "text": "presión",
+      "correct": false
+    },
+    {
+      "text": "carga eléctrica",
+      "correct": false
+    }
+  ],
+  "explanation": "El weber es la unidad del Sistema Internacional para flujo magnético.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "weber"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

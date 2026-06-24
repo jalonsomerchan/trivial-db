@@ -1,0 +1,42 @@
+{
+  "id": "q-011780",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Super Mario Bros.”, “Final Fantasy VII”, “Sonic the Hedgehog” y “Mortal Kombat” encaja con Cloud Strife y el género rol?",
+  "answers": [
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": true
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": false
+    }
+  ],
+  "explanation": "Cloud Strife se asocia con “Final Fantasy VII”, que se describe como rol.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "final-fantasy-vii"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

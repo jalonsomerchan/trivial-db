@@ -1,0 +1,41 @@
+{
+  "id": "q-014244",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 14x + 9 = 667?",
+  "answers": [
+    {
+      "text": "47",
+      "correct": true
+    },
+    {
+      "text": "48",
+      "correct": false
+    },
+    {
+      "text": "50",
+      "correct": false
+    },
+    {
+      "text": "46",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 9 y dividiendo entre 14, se obtiene x = 47.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

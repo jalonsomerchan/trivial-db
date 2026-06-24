@@ -1,0 +1,42 @@
+{
+  "id": "q-010828",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la función principal del sistema digestivo?",
+  "answers": [
+    {
+      "text": "descomponer alimentos y absorber nutrientes",
+      "correct": true
+    },
+    {
+      "text": "defender el organismo frente a patógenos",
+      "correct": false
+    },
+    {
+      "text": "filtrar sangre y formar orina",
+      "correct": false
+    },
+    {
+      "text": "coordinar señales y respuestas",
+      "correct": false
+    }
+  ],
+  "explanation": "El sistema digestivo tiene como función principal descomponer alimentos y absorber nutrientes.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "sistema-digestivo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

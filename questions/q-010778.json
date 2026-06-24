@@ -1,0 +1,41 @@
+{
+  "id": "q-010778",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué presión ejerce una fuerza de 936 N sobre un área de 18 m²?",
+  "answers": [
+    {
+      "text": "954 Pa",
+      "correct": false
+    },
+    {
+      "text": "70 Pa",
+      "correct": false
+    },
+    {
+      "text": "34 Pa",
+      "correct": false
+    },
+    {
+      "text": "52 Pa",
+      "correct": true
+    }
+  ],
+  "explanation": "La presión es fuerza dividida entre área: 936/18 = 52 Pa.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "presion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

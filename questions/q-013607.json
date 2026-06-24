@@ -1,0 +1,42 @@
+{
+  "id": "q-013607",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “rápidamente”, “compás”, “difícil” y “colibrí” es aguda?",
+  "answers": [
+    {
+      "text": "compás",
+      "correct": false
+    },
+    {
+      "text": "rápidamente",
+      "correct": false
+    },
+    {
+      "text": "colibrí",
+      "correct": true
+    },
+    {
+      "text": "difícil",
+      "correct": false
+    }
+  ],
+  "explanation": "“colibrí” es una palabra aguda.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "aguda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

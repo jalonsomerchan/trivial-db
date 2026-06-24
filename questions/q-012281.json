@@ -1,0 +1,42 @@
+{
+  "id": "q-012281",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo poke, satay, hummus y feijoada encaja con Brasil y con el ingrediente frijoles negros?",
+  "answers": [
+    {
+      "text": "hummus",
+      "correct": false
+    },
+    {
+      "text": "satay",
+      "correct": false
+    },
+    {
+      "text": "poke",
+      "correct": false
+    },
+    {
+      "text": "feijoada",
+      "correct": true
+    }
+  ],
+  "explanation": "feijoada se asocia con Brasil y con frijoles negros.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "feijoada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

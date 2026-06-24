@@ -1,0 +1,42 @@
+{
+  "id": "q-011747",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Minecraft”, “Uncharted”, “Portal” y “Resident Evil” encaja con Steve y el género sandbox?",
+  "answers": [
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": true
+    },
+    {
+      "text": "Uncharted",
+      "correct": false
+    },
+    {
+      "text": "Portal",
+      "correct": false
+    }
+  ],
+  "explanation": "Steve se asocia con “Minecraft”, que se describe como sandbox.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "minecraft"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

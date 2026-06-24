@@ -1,0 +1,42 @@
+{
+  "id": "q-014671",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "logica-binaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de 1 OR 15 en lógica bit a bit?",
+  "answers": [
+    {
+      "text": "15",
+      "correct": true
+    },
+    {
+      "text": "14",
+      "correct": false
+    },
+    {
+      "text": "16",
+      "correct": false
+    },
+    {
+      "text": "17",
+      "correct": false
+    }
+  ],
+  "explanation": "La operación bit a bit 1 OR 15 produce 15.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "or"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

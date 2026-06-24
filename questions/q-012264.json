@@ -1,0 +1,42 @@
+{
+  "id": "q-012264",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo paella, ramen, laksa y gazpacho encaja con Japón y con el ingrediente fideos?",
+  "answers": [
+    {
+      "text": "laksa",
+      "correct": false
+    },
+    {
+      "text": "gazpacho",
+      "correct": false
+    },
+    {
+      "text": "ramen",
+      "correct": true
+    },
+    {
+      "text": "paella",
+      "correct": false
+    }
+  ],
+  "explanation": "ramen se asocia con Japón y con fideos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ramen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

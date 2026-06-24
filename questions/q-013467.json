@@ -1,0 +1,42 @@
+{
+  "id": "q-013467",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre independencia de Estados Unidos, unificación alemana, batalla de Waterloo y crisis financiera global?",
+  "answers": [
+    {
+      "text": "crisis financiera global",
+      "correct": true
+    },
+    {
+      "text": "unificación alemana",
+      "correct": false
+    },
+    {
+      "text": "batalla de Waterloo",
+      "correct": false
+    },
+    {
+      "text": "independencia de Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, crisis financiera global es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014476",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 40% de 880?",
+  "answers": [
+    {
+      "text": "352",
+      "correct": true
+    },
+    {
+      "text": "342",
+      "correct": false
+    },
+    {
+      "text": "362",
+      "correct": false
+    },
+    {
+      "text": "357",
+      "correct": false
+    }
+  ],
+  "explanation": "El 40% de 880 se calcula como 880 × 40/100 = 352.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

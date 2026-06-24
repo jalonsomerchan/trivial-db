@@ -1,0 +1,41 @@
+{
+  "id": "q-014477",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 40% de 940?",
+  "answers": [
+    {
+      "text": "376",
+      "correct": true
+    },
+    {
+      "text": "386",
+      "correct": false
+    },
+    {
+      "text": "381",
+      "correct": false
+    },
+    {
+      "text": "366",
+      "correct": false
+    }
+  ],
+  "explanation": "El 40% de 940 se calcula como 940 × 40/100 = 376.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

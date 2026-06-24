@@ -1,0 +1,41 @@
+{
+  "id": "q-014432",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 18% de 400?",
+  "answers": [
+    {
+      "text": "77",
+      "correct": false
+    },
+    {
+      "text": "62",
+      "correct": false
+    },
+    {
+      "text": "72",
+      "correct": true
+    },
+    {
+      "text": "82",
+      "correct": false
+    }
+  ],
+  "explanation": "El 18% de 400 se calcula como 400 × 18/100 = 72.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

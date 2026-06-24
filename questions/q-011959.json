@@ -1,0 +1,42 @@
+{
+  "id": "q-011959",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Origen”, “El padrino”, “Avatar” y “Blade Runner” fue dirigida por Francis Ford Coppola?",
+  "answers": [
+    {
+      "text": "Blade Runner",
+      "correct": false
+    },
+    {
+      "text": "Origen",
+      "correct": false
+    },
+    {
+      "text": "Avatar",
+      "correct": false
+    },
+    {
+      "text": "El padrino",
+      "correct": true
+    }
+  ],
+  "explanation": "“El padrino” se asocia con Francis Ford Coppola.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "francis-ford-coppola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-014644",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla SSH en informática?",
+  "answers": [
+    {
+      "text": "Structured Query Language",
+      "correct": false
+    },
+    {
+      "text": "HyperText Markup Language",
+      "correct": false
+    },
+    {
+      "text": "Secure Shell",
+      "correct": true
+    },
+    {
+      "text": "Universal Serial Bus",
+      "correct": false
+    }
+  ],
+  "explanation": "En informática, SSH significa Secure Shell.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "ssh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

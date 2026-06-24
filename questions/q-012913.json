@@ -1,0 +1,43 @@
+{
+  "id": "q-012913",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Argelia?",
+  "answers": [
+    {
+      "text": ".dz",
+      "correct": true
+    },
+    {
+      "text": ".om",
+      "correct": false
+    },
+    {
+      "text": ".to",
+      "correct": false
+    },
+    {
+      "text": ".gh",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Argelia es .dz.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "argelia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

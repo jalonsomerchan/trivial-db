@@ -1,0 +1,41 @@
+{
+  "id": "q-014484",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 45% de 640?",
+  "answers": [
+    {
+      "text": "288",
+      "correct": true
+    },
+    {
+      "text": "293",
+      "correct": false
+    },
+    {
+      "text": "298",
+      "correct": false
+    },
+    {
+      "text": "278",
+      "correct": false
+    }
+  ],
+  "explanation": "El 45% de 640 se calcula como 640 × 45/100 = 288.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

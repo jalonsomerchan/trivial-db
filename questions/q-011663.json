@@ -1,0 +1,43 @@
+{
+  "id": "q-011663",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “Resident Evil”?",
+  "answers": [
+    {
+      "text": "terror",
+      "correct": true
+    },
+    {
+      "text": "sandbox",
+      "correct": false
+    },
+    {
+      "text": "sigilo",
+      "correct": false
+    },
+    {
+      "text": "rol",
+      "correct": false
+    }
+  ],
+  "explanation": "“Resident Evil” se describe habitualmente como terror.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "resident-evil",
+    "terror"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

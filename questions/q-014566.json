@@ -1,0 +1,41 @@
+{
+  "id": "q-014566",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el valor decimal del número binario 11010000₂?",
+  "answers": [
+    {
+      "text": "210",
+      "correct": false
+    },
+    {
+      "text": "207",
+      "correct": false
+    },
+    {
+      "text": "208",
+      "correct": true
+    },
+    {
+      "text": "209",
+      "correct": false
+    }
+  ],
+  "explanation": "El número binario 11010000₂ equivale a 208 en decimal.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

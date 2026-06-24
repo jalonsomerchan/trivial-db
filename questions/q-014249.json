@@ -1,0 +1,41 @@
+{
+  "id": "q-014249",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 3x + 47 = 89?",
+  "answers": [
+    {
+      "text": "15",
+      "correct": false
+    },
+    {
+      "text": "17",
+      "correct": false
+    },
+    {
+      "text": "13",
+      "correct": false
+    },
+    {
+      "text": "14",
+      "correct": true
+    }
+  ],
+  "explanation": "Restando 47 y dividiendo entre 3, se obtiene x = 14.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

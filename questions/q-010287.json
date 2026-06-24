@@ -1,0 +1,42 @@
+{
+  "id": "q-010287",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La ronda de noche”, “Number 1A, 1948”, “El hijo del hombre” y “Campbell’s Soup Cans” pertenece al Expresionismo abstracto?",
+  "answers": [
+    {
+      "text": "El hijo del hombre",
+      "correct": false
+    },
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": false
+    },
+    {
+      "text": "Number 1A, 1948",
+      "correct": true
+    },
+    {
+      "text": "La ronda de noche",
+      "correct": false
+    }
+  ],
+  "explanation": "“Number 1A, 1948” se vincula con Expresionismo abstracto.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "expresionismo-abstracto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

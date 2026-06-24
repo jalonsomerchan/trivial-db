@@ -1,0 +1,41 @@
+{
+  "id": "q-010887",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fuerza produce una masa de 18 kg con aceleración de 12 m/s²?",
+  "answers": [
+    {
+      "text": "216 N",
+      "correct": true
+    },
+    {
+      "text": "30 N",
+      "correct": false
+    },
+    {
+      "text": "204 N",
+      "correct": false
+    },
+    {
+      "text": "234 N",
+      "correct": false
+    }
+  ],
+  "explanation": "Según F = m·a, la fuerza es 18 × 12 = 216 N.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "dinamica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014886",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 302 en sistema binario?",
+  "answers": [
+    {
+      "text": "100101110",
+      "correct": true
+    },
+    {
+      "text": "100110000",
+      "correct": false
+    },
+    {
+      "text": "100101111",
+      "correct": false
+    },
+    {
+      "text": "100101101",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 302 es 100101110.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

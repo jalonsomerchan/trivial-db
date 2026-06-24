@@ -1,0 +1,42 @@
+{
+  "id": "q-012103",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo trigo, garbanzos, yogur y pera es un ejemplo de fruta?",
+  "answers": [
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "trigo",
+      "correct": false
+    },
+    {
+      "text": "pera",
+      "correct": true
+    },
+    {
+      "text": "yogur",
+      "correct": false
+    }
+  ],
+  "explanation": "pera es un ejemplo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

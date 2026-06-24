@@ -1,0 +1,42 @@
+{
+  "id": "q-012377",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo baklava, poutine, shakshuka y feijoada se prepara típicamente con frutos secos y masa filo?",
+  "answers": [
+    {
+      "text": "shakshuka",
+      "correct": false
+    },
+    {
+      "text": "feijoada",
+      "correct": false
+    },
+    {
+      "text": "baklava",
+      "correct": true
+    },
+    {
+      "text": "poutine",
+      "correct": false
+    }
+  ],
+  "explanation": "baklava se prepara típicamente con frutos secos y masa filo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "baklava"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

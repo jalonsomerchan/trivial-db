@@ -1,0 +1,42 @@
+{
+  "id": "q-010653",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia-celular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la función principal de la estructura celular llamada cloroplasto?",
+  "answers": [
+    {
+      "text": "sintetizar lípidos y detoxificar",
+      "correct": false
+    },
+    {
+      "text": "almacenar sustancias",
+      "correct": false
+    },
+    {
+      "text": "participar en la síntesis de proteínas",
+      "correct": false
+    },
+    {
+      "text": "realizar la fotosíntesis",
+      "correct": true
+    }
+  ],
+  "explanation": "La función principal de cloroplasto es realizar la fotosíntesis.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "celula",
+    "cloroplasto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

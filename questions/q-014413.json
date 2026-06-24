@@ -1,0 +1,41 @@
+{
+  "id": "q-014413",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "estadistica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la media aritmética de 53, 56, 64 y 51?",
+  "answers": [
+    {
+      "text": "56",
+      "correct": true
+    },
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "54",
+      "correct": false
+    },
+    {
+      "text": "61",
+      "correct": false
+    }
+  ],
+  "explanation": "La media es la suma de los cuatro valores dividida entre 4: 224/4 = 56.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "media"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

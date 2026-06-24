@@ -1,0 +1,43 @@
+{
+  "id": "q-014639",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla IMAP en informática?",
+  "answers": [
+    {
+      "text": "User Datagram Protocol",
+      "correct": false
+    },
+    {
+      "text": "Application Programming Interface",
+      "correct": false
+    },
+    {
+      "text": "Transmission Control Protocol",
+      "correct": false
+    },
+    {
+      "text": "Internet Message Access Protocol",
+      "correct": true
+    }
+  ],
+  "explanation": "En informática, IMAP significa Internet Message Access Protocol.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "imap"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

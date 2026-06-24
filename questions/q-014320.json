@@ -1,0 +1,41 @@
+{
+  "id": "q-014320",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 9x + 69 = 555?",
+  "answers": [
+    {
+      "text": "54",
+      "correct": true
+    },
+    {
+      "text": "57",
+      "correct": false
+    },
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "55",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 69 y dividiendo entre 9, se obtiene x = 54.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

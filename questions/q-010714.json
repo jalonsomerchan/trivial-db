@@ -1,0 +1,42 @@
+{
+  "id": "q-010714",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud física se mide en tesla?",
+  "answers": [
+    {
+      "text": "flujo magnético",
+      "correct": false
+    },
+    {
+      "text": "inducción magnética",
+      "correct": true
+    },
+    {
+      "text": "dosis absorbida",
+      "correct": false
+    },
+    {
+      "text": "actividad radiactiva",
+      "correct": false
+    }
+  ],
+  "explanation": "El tesla es la unidad del Sistema Internacional para inducción magnética.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "tesla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

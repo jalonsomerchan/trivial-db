@@ -1,0 +1,42 @@
+{
+  "id": "q-013279",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la caída de Constantinopla?",
+  "answers": [
+    {
+      "text": "sistema financiero internacional",
+      "correct": false
+    },
+    {
+      "text": "San Francisco",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Constantinopla",
+      "correct": true
+    }
+  ],
+  "explanation": "La caída de Constantinopla se asocia directamente con Constantinopla.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "constantinopla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

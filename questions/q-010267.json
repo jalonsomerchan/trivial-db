@@ -1,0 +1,42 @@
+{
+  "id": "q-010267",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La joven de la perla”, “La última cena”, “Las meninas” y “La noche estrellada” pertenece al Barroco?",
+  "answers": [
+    {
+      "text": "La joven de la perla",
+      "correct": true
+    },
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "La última cena",
+      "correct": false
+    },
+    {
+      "text": "Las meninas",
+      "correct": false
+    }
+  ],
+  "explanation": "“La joven de la perla” se vincula con Barroco.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "barroco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

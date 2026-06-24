@@ -1,0 +1,42 @@
+{
+  "id": "q-011631",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “The Legend of Zelda”, “Metroid”, “God of War” y “Sonic the Hedgehog” relaciona a Samus Aran con Nintendo?",
+  "answers": [
+    {
+      "text": "Metroid",
+      "correct": true
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    }
+  ],
+  "explanation": "Samus Aran se asocia con “Metroid”, vinculado a Nintendo.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metroid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

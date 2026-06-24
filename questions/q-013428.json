@@ -1,0 +1,42 @@
+{
+  "id": "q-013428",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre batalla de Salamina, Revolución rusa, crisis financiera global y batalla de Maratón?",
+  "answers": [
+    {
+      "text": "crisis financiera global",
+      "correct": true
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": false
+    },
+    {
+      "text": "batalla de Maratón",
+      "correct": false
+    },
+    {
+      "text": "Revolución rusa",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, crisis financiera global es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

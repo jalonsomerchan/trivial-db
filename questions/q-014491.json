@@ -1,0 +1,41 @@
+{
+  "id": "q-014491",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 60% de 420?",
+  "answers": [
+    {
+      "text": "262",
+      "correct": false
+    },
+    {
+      "text": "252",
+      "correct": true
+    },
+    {
+      "text": "257",
+      "correct": false
+    },
+    {
+      "text": "242",
+      "correct": false
+    }
+  ],
+  "explanation": "El 60% de 420 se calcula como 420 × 60/100 = 252.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

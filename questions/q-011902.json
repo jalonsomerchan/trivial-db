@@ -1,0 +1,42 @@
+{
+  "id": "q-011902",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Blade Runner”, “Psicosis”, “El padrino” y “Matrix” fue dirigida por Francis Ford Coppola?",
+  "answers": [
+    {
+      "text": "El padrino",
+      "correct": true
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": false
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    }
+  ],
+  "explanation": "“El padrino” se asocia con Francis Ford Coppola.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "francis-ford-coppola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

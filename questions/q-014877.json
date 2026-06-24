@@ -1,0 +1,41 @@
+{
+  "id": "q-014877",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 273 en sistema binario?",
+  "answers": [
+    {
+      "text": "100010011",
+      "correct": false
+    },
+    {
+      "text": "100010000",
+      "correct": false
+    },
+    {
+      "text": "100010010",
+      "correct": false
+    },
+    {
+      "text": "100010001",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 273 es 100010001.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013373",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la inicio de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "conflictos mediterráneos",
+      "correct": false
+    },
+    {
+      "text": "monarquía inglesa",
+      "correct": false
+    },
+    {
+      "text": "Segunda Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "rivalidad anglo-española",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Segunda Guerra Mundial se relaciona con Segunda Guerra Mundial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "segunda-guerra-mundial"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

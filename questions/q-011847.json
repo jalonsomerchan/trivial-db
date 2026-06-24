@@ -1,0 +1,43 @@
+{
+  "id": "q-011847",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “Half-Life”?",
+  "answers": [
+    {
+      "text": "Core Design",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": true
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": false
+    }
+  ],
+  "explanation": "“Half-Life” se vincula con Valve.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "half-life",
+    "valve"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

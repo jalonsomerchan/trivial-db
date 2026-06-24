@@ -1,0 +1,42 @@
+{
+  "id": "q-013970",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra se opone semánticamente a “agitado”?",
+  "answers": [
+    {
+      "text": "opulento",
+      "correct": false
+    },
+    {
+      "text": "altruista",
+      "correct": false
+    },
+    {
+      "text": "apacible",
+      "correct": true
+    },
+    {
+      "text": "audaz",
+      "correct": false
+    }
+  ],
+  "explanation": "“apacible” y “agitado” son antónimos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "apacible"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

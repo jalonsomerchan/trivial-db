@@ -1,0 +1,42 @@
+{
+  "id": "q-012077",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo pimiento, calabacín, manzana y yogur es un ejemplo de hortaliza?",
+  "answers": [
+    {
+      "text": "manzana",
+      "correct": false
+    },
+    {
+      "text": "yogur",
+      "correct": false
+    },
+    {
+      "text": "pimiento",
+      "correct": true
+    },
+    {
+      "text": "calabacín",
+      "correct": false
+    }
+  ],
+  "explanation": "pimiento es un ejemplo de hortaliza.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "hortaliza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

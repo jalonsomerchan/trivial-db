@@ -1,0 +1,41 @@
+{
+  "id": "q-014872",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 250 en sistema binario?",
+  "answers": [
+    {
+      "text": "11111010",
+      "correct": true
+    },
+    {
+      "text": "11111011",
+      "correct": false
+    },
+    {
+      "text": "11111001",
+      "correct": false
+    },
+    {
+      "text": "11111100",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 250 es 11111010.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

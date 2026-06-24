@@ -1,0 +1,43 @@
+{
+  "id": "q-012344",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con falafel?",
+  "answers": [
+    {
+      "text": "Oriente Medio",
+      "correct": true
+    },
+    {
+      "text": "Indonesia",
+      "correct": false
+    },
+    {
+      "text": "Levante mediterráneo",
+      "correct": false
+    },
+    {
+      "text": "Hungría",
+      "correct": false
+    }
+  ],
+  "explanation": "falafel se asocia tradicionalmente con Oriente Medio.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "falafel",
+    "oriente-medio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

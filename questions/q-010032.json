@@ -1,0 +1,43 @@
+{
+  "id": "q-010032",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “Los girasoles”?",
+  "answers": [
+    {
+      "text": "Diego Velázquez",
+      "correct": false
+    },
+    {
+      "text": "Johannes Vermeer",
+      "correct": false
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    },
+    {
+      "text": "Vincent van Gogh",
+      "correct": true
+    }
+  ],
+  "explanation": "“Los girasoles” es una obra de Vincent van Gogh.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "vincent-van-gogh",
+    "los-girasoles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

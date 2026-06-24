@@ -1,0 +1,42 @@
+{
+  "id": "q-011809",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “The Witcher 3”, “Super Mario Bros.”, “The Legend of Zelda” y “Metal Gear Solid” encaja con Geralt de Rivia y el género rol?",
+  "answers": [
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": false
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": true
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    }
+  ],
+  "explanation": "Geralt de Rivia se asocia con “The Witcher 3”, que se describe como rol.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-witcher-3"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

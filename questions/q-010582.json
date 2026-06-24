@@ -1,0 +1,41 @@
+{
+  "id": "q-010582",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "easy",
+  "question": "¿A cuántos grados Fahrenheit equivalen 73 °C?",
+  "answers": [
+    {
+      "text": "105 °F",
+      "correct": false
+    },
+    {
+      "text": "153 °F",
+      "correct": false
+    },
+    {
+      "text": "173 °F",
+      "correct": false
+    },
+    {
+      "text": "163 °F",
+      "correct": true
+    }
+  ],
+  "explanation": "La conversión es °F = °C × 9/5 + 32, por lo que 73 °C son 163 °F.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "temperatura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

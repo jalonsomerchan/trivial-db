@@ -1,0 +1,42 @@
+{
+  "id": "q-014092",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto resulta al restar 203 de 606?",
+  "answers": [
+    {
+      "text": "403",
+      "correct": true
+    },
+    {
+      "text": "398",
+      "correct": false
+    },
+    {
+      "text": "453",
+      "correct": false
+    },
+    {
+      "text": "408",
+      "correct": false
+    }
+  ],
+  "explanation": "Al calcular 606 - 203 se obtiene 403.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

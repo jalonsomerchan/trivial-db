@@ -1,0 +1,41 @@
+{
+  "id": "q-014495",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 75% de 1040?",
+  "answers": [
+    {
+      "text": "770",
+      "correct": false
+    },
+    {
+      "text": "780",
+      "correct": true
+    },
+    {
+      "text": "790",
+      "correct": false
+    },
+    {
+      "text": "785",
+      "correct": false
+    }
+  ],
+  "explanation": "El 75% de 1040 se calcula como 1040 × 75/100 = 780.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

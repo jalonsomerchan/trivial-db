@@ -1,0 +1,42 @@
+{
+  "id": "q-012394",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo croissant, chili con carne, pierogi y risotto se prepara típicamente con masa hojaldrada?",
+  "answers": [
+    {
+      "text": "pierogi",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": true
+    },
+    {
+      "text": "chili con carne",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    }
+  ],
+  "explanation": "croissant se prepara típicamente con masa hojaldrada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "croissant"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

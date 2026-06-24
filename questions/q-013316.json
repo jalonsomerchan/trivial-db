@@ -1,0 +1,43 @@
+{
+  "id": "q-013316",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué personaje histórico se vincula con dinastía Qin en China?",
+  "answers": [
+    {
+      "text": "Guillermo el Conquistador",
+      "correct": false
+    },
+    {
+      "text": "Augusto",
+      "correct": false
+    },
+    {
+      "text": "Julio César",
+      "correct": false
+    },
+    {
+      "text": "Qin Shi Huang",
+      "correct": true
+    }
+  ],
+  "explanation": "Qin Shi Huang se vincula con dinastía Qin en China.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "qin-shi-huang"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

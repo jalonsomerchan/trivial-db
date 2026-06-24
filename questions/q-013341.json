@@ -1,0 +1,42 @@
+{
+  "id": "q-013341",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la Revolución Gloriosa inglesa?",
+  "answers": [
+    {
+      "text": "Primera Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "revoluciones atlánticas",
+      "correct": false
+    },
+    {
+      "text": "Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "monarquía parlamentaria",
+      "correct": true
+    }
+  ],
+  "explanation": "La Revolución Gloriosa inglesa se relaciona con monarquía parlamentaria.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "monarquia-parlamentaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

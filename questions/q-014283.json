@@ -1,0 +1,41 @@
+{
+  "id": "q-014283",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 6x + 16 = 322?",
+  "answers": [
+    {
+      "text": "51",
+      "correct": true
+    },
+    {
+      "text": "50",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": false
+    },
+    {
+      "text": "54",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 16 y dividiendo entre 6, se obtiene x = 51.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011951",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “La La Land”, “Titanic”, “Alien” y “Wall·E” fue dirigida por Damien Chazelle?",
+  "answers": [
+    {
+      "text": "Titanic",
+      "correct": false
+    },
+    {
+      "text": "Wall·E",
+      "correct": false
+    },
+    {
+      "text": "La La Land",
+      "correct": true
+    },
+    {
+      "text": "Alien",
+      "correct": false
+    }
+  ],
+  "explanation": "“La La Land” se asocia con Damien Chazelle.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "damien-chazelle"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

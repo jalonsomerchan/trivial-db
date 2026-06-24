@@ -1,0 +1,43 @@
+{
+  "id": "q-011668",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “The Legend of Zelda”?",
+  "answers": [
+    {
+      "text": "disparos",
+      "correct": false
+    },
+    {
+      "text": "sandbox",
+      "correct": false
+    },
+    {
+      "text": "acción",
+      "correct": false
+    },
+    {
+      "text": "aventura",
+      "correct": true
+    }
+  ],
+  "explanation": "“The Legend of Zelda” se describe habitualmente como aventura.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-legend-of-zelda",
+    "aventura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

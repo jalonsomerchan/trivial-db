@@ -1,0 +1,41 @@
+{
+  "id": "q-014168",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "combinatoria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuántas combinaciones de 3 elementos pueden formarse a partir de 14 elementos distintos?",
+  "answers": [
+    {
+      "text": "378",
+      "correct": false
+    },
+    {
+      "text": "350",
+      "correct": false
+    },
+    {
+      "text": "1092",
+      "correct": false
+    },
+    {
+      "text": "364",
+      "correct": true
+    }
+  ],
+  "explanation": "El número de combinaciones es C(14,3) = 364.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "combinaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

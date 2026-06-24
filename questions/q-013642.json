@@ -1,0 +1,42 @@
+{
+  "id": "q-013642",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra es antónima de “célebre”?",
+  "answers": [
+    {
+      "text": "sencillo",
+      "correct": false
+    },
+    {
+      "text": "cobarde",
+      "correct": false
+    },
+    {
+      "text": "egoísta",
+      "correct": false
+    },
+    {
+      "text": "desconocido",
+      "correct": true
+    }
+  ],
+  "explanation": "“desconocido” es antónimo de “célebre”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "celebre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

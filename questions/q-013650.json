@@ -1,0 +1,42 @@
+{
+  "id": "q-013650",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra es antónima de “prudente”?",
+  "answers": [
+    {
+      "text": "inadecuado",
+      "correct": false
+    },
+    {
+      "text": "inverosímil",
+      "correct": false
+    },
+    {
+      "text": "rechazar",
+      "correct": false
+    },
+    {
+      "text": "imprudente",
+      "correct": true
+    }
+  ],
+  "explanation": "“imprudente” es antónimo de “prudente”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "prudente"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

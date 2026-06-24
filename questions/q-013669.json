@@ -1,0 +1,42 @@
+{
+  "id": "q-013669",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento morfológico destaca en la palabra “nacionalizar”?",
+  "answers": [
+    {
+      "text": "prefijo im-",
+      "correct": false
+    },
+    {
+      "text": "prefijo in-",
+      "correct": false
+    },
+    {
+      "text": "sufijo -izar",
+      "correct": true
+    },
+    {
+      "text": "prefijo des-",
+      "correct": false
+    }
+  ],
+  "explanation": "En “nacionalizar” destaca sufijo -izar.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "nacionalizar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-014651",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla XML en informática?",
+  "answers": [
+    {
+      "text": "User Datagram Protocol",
+      "correct": false
+    },
+    {
+      "text": "Hypertext Transfer Protocol",
+      "correct": false
+    },
+    {
+      "text": "Uniform Resource Locator",
+      "correct": false
+    },
+    {
+      "text": "Extensible Markup Language",
+      "correct": true
+    }
+  ],
+  "explanation": "En informática, XML significa Extensible Markup Language.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "xml"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

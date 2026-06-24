@@ -1,0 +1,43 @@
+{
+  "id": "q-012882",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código ISO alfa-2 corresponde a Perú?",
+  "answers": [
+    {
+      "text": "PE",
+      "correct": true
+    },
+    {
+      "text": "MS",
+      "correct": false
+    },
+    {
+      "text": "ER",
+      "correct": false
+    },
+    {
+      "text": "MY",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO alfa-2 de Perú es PE.",
+  "sources": [
+    {
+      "title": "ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "iso",
+    "pe"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

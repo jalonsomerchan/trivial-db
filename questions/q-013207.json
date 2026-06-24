@@ -1,0 +1,42 @@
+{
+  "id": "q-013207",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la crisis financiera global frente a la referencia histórica de la muerte de Alejandro Magno?",
+  "answers": [
+    {
+      "text": "década de 2000",
+      "correct": true
+    },
+    {
+      "text": "década de 2010",
+      "correct": false
+    },
+    {
+      "text": "década de 1990",
+      "correct": false
+    },
+    {
+      "text": "década de 2020",
+      "correct": false
+    }
+  ],
+  "explanation": "La crisis financiera global ocurrió en 2008, dentro de la década de 2000.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

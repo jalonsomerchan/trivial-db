@@ -1,0 +1,43 @@
+{
+  "id": "q-011523",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “El viaje de Chihiro”?",
+  "answers": [
+    {
+      "text": "Hayao Miyazaki",
+      "correct": true
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": false
+    },
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": false
+    },
+    {
+      "text": "Orson Welles",
+      "correct": false
+    }
+  ],
+  "explanation": "“El viaje de Chihiro” está asociada con el director Hayao Miyazaki.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-viaje-de-chihiro",
+    "hayao-miyazaki"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

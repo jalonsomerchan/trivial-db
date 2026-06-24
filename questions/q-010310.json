@@ -1,0 +1,42 @@
+{
+  "id": "q-010310",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Los girasoles”, “Las señoritas de Avignon”, “Las meninas” y “La noche estrellada” pertenece al Cubismo?",
+  "answers": [
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": true
+    },
+    {
+      "text": "Las meninas",
+      "correct": false
+    },
+    {
+      "text": "Los girasoles",
+      "correct": false
+    }
+  ],
+  "explanation": "“Las señoritas de Avignon” se vincula con Cubismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "cubismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

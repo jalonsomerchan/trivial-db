@@ -1,0 +1,42 @@
+{
+  "id": "q-012221",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo biryani, goulash, falafel y fondue encaja con India y con el ingrediente arroz especiado?",
+  "answers": [
+    {
+      "text": "fondue",
+      "correct": false
+    },
+    {
+      "text": "biryani",
+      "correct": true
+    },
+    {
+      "text": "goulash",
+      "correct": false
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    }
+  ],
+  "explanation": "biryani se asocia con India y con arroz especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "biryani"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

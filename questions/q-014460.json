@@ -1,0 +1,41 @@
+{
+  "id": "q-014460",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 35% de 240?",
+  "answers": [
+    {
+      "text": "84",
+      "correct": true
+    },
+    {
+      "text": "74",
+      "correct": false
+    },
+    {
+      "text": "89",
+      "correct": false
+    },
+    {
+      "text": "94",
+      "correct": false
+    }
+  ],
+  "explanation": "El 35% de 240 se calcula como 240 × 35/100 = 84.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

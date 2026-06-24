@@ -1,0 +1,41 @@
+{
+  "id": "q-014496",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 75% de 1140?",
+  "answers": [
+    {
+      "text": "855",
+      "correct": true
+    },
+    {
+      "text": "865",
+      "correct": false
+    },
+    {
+      "text": "860",
+      "correct": false
+    },
+    {
+      "text": "845",
+      "correct": false
+    }
+  ],
+  "explanation": "El 75% de 1140 se calcula como 1140 × 75/100 = 855.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

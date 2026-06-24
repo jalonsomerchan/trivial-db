@@ -1,0 +1,43 @@
+{
+  "id": "q-011504",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista publicó el álbum “Blue Train”?",
+  "answers": [
+    {
+      "text": "The Beatles",
+      "correct": false
+    },
+    {
+      "text": "Beyoncé",
+      "correct": false
+    },
+    {
+      "text": "John Coltrane",
+      "correct": true
+    },
+    {
+      "text": "Queen",
+      "correct": false
+    }
+  ],
+  "explanation": "“Blue Train” es un álbum de John Coltrane.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "john-coltrane",
+    "blue-train"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

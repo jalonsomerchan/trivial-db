@@ -1,0 +1,42 @@
+{
+  "id": "q-011922",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “El caballero oscuro”, “Casablanca”, “Toy Story” y “El padrino” fue dirigida por Michael Curtiz?",
+  "answers": [
+    {
+      "text": "Toy Story",
+      "correct": false
+    },
+    {
+      "text": "El padrino",
+      "correct": false
+    },
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "Casablanca",
+      "correct": true
+    }
+  ],
+  "explanation": "“Casablanca” se asocia con Michael Curtiz.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "michael-curtiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011683",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de James Cameron encaja con el género drama romántico?",
+  "answers": [
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "Jurassic Park",
+      "correct": false
+    },
+    {
+      "text": "Titanic",
+      "correct": true
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": false
+    }
+  ],
+  "explanation": "“Titanic” fue dirigida por James Cameron y se asocia con drama romántico.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "james-cameron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

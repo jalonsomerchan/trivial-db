@@ -1,0 +1,41 @@
+{
+  "id": "q-013905",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “grandote”, “florecer”, “antivirus” y “bibliografía” contiene sufijo -ecer?",
+  "answers": [
+    {
+      "text": "florecer",
+      "correct": true
+    },
+    {
+      "text": "bibliografía",
+      "correct": false
+    },
+    {
+      "text": "antivirus",
+      "correct": false
+    },
+    {
+      "text": "grandote",
+      "correct": false
+    }
+  ],
+  "explanation": "“florecer” contiene sufijo -ecer.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

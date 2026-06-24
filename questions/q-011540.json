@@ -1,0 +1,43 @@
+{
+  "id": "q-011540",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con “Halo”?",
+  "answers": [
+    {
+      "text": "Chell",
+      "correct": false
+    },
+    {
+      "text": "Geralt de Rivia",
+      "correct": false
+    },
+    {
+      "text": "Cloud Strife",
+      "correct": false
+    },
+    {
+      "text": "Master Chief",
+      "correct": true
+    }
+  ],
+  "explanation": "Master Chief es un personaje asociado con “Halo”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "halo",
+    "master-chief"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

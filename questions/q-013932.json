@@ -1,0 +1,41 @@
+{
+  "id": "q-013932",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “lavadora”, “reescribir”, “imposible” y “casita” contiene prefijo im-?",
+  "answers": [
+    {
+      "text": "lavadora",
+      "correct": false
+    },
+    {
+      "text": "casita",
+      "correct": false
+    },
+    {
+      "text": "imposible",
+      "correct": true
+    },
+    {
+      "text": "reescribir",
+      "correct": false
+    }
+  ],
+  "explanation": "“imposible” contiene prefijo im-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

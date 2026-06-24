@@ -1,0 +1,43 @@
+{
+  "id": "q-013318",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué personaje histórico se vincula con final de la República romana en Roma?",
+  "answers": [
+    {
+      "text": "Julio César",
+      "correct": true
+    },
+    {
+      "text": "Qin Shi Huang",
+      "correct": false
+    },
+    {
+      "text": "Nelson Mandela",
+      "correct": false
+    },
+    {
+      "text": "Napoleón Bonaparte",
+      "correct": false
+    }
+  ],
+  "explanation": "Julio César se vincula con final de la República romana en Roma.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "julio-cesar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

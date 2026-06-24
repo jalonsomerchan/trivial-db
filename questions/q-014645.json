@@ -1,0 +1,43 @@
+{
+  "id": "q-014645",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla TCP en informática?",
+  "answers": [
+    {
+      "text": "Secure Shell",
+      "correct": false
+    },
+    {
+      "text": "Central Processing Unit",
+      "correct": false
+    },
+    {
+      "text": "Extensible Markup Language",
+      "correct": false
+    },
+    {
+      "text": "Transmission Control Protocol",
+      "correct": true
+    }
+  ],
+  "explanation": "En informática, TCP significa Transmission Control Protocol.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "tcp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

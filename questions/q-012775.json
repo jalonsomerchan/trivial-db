@@ -1,0 +1,42 @@
+{
+  "id": "q-012775",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Islas Pitcairn?",
+  "answers": [
+    {
+      "text": "Australia and New Zealand",
+      "correct": false
+    },
+    {
+      "text": "Caribbean",
+      "correct": false
+    },
+    {
+      "text": "Polynesia",
+      "correct": true
+    },
+    {
+      "text": "Western Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "Islas Pitcairn pertenece a la subregión Polynesia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

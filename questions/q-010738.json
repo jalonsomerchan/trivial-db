@@ -1,0 +1,41 @@
+{
+  "id": "q-010738",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué molaridad tiene una disolución con 5 mol en 5 L?",
+  "answers": [
+    {
+      "text": "1 M",
+      "correct": true
+    },
+    {
+      "text": "otra opción relacionada",
+      "correct": false
+    },
+    {
+      "text": "10 M",
+      "correct": false
+    },
+    {
+      "text": "2 M",
+      "correct": false
+    }
+  ],
+  "explanation": "La molaridad es moles entre litros: 5/5 = 1 M.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "molaridad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

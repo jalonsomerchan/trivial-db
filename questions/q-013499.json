@@ -1,0 +1,42 @@
+{
+  "id": "q-013499",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre toma de la Bastilla, derrota de la Armada Invencible, llegada de Colón a América y crack bursátil de Wall Street?",
+  "answers": [
+    {
+      "text": "crack bursátil de Wall Street",
+      "correct": true
+    },
+    {
+      "text": "toma de la Bastilla",
+      "correct": false
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    },
+    {
+      "text": "llegada de Colón a América",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, crack bursátil de Wall Street es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012352",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con laksa?",
+  "answers": [
+    {
+      "text": "Suiza",
+      "correct": false
+    },
+    {
+      "text": "Sudeste Asiático",
+      "correct": true
+    },
+    {
+      "text": "Norte de África y Oriente Medio",
+      "correct": false
+    },
+    {
+      "text": "Tailandia",
+      "correct": false
+    }
+  ],
+  "explanation": "laksa se asocia tradicionalmente con Sudeste Asiático.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "laksa",
+    "sudeste-asiatico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

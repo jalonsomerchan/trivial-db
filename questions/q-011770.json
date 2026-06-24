@@ -1,0 +1,42 @@
+{
+  "id": "q-011770",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Sonic the Hedgehog”, “Metroid”, “Final Fantasy VII” y “Half-Life” encaja con Samus Aran y el género acción y exploración?",
+  "answers": [
+    {
+      "text": "Metroid",
+      "correct": true
+    },
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    }
+  ],
+  "explanation": "Samus Aran se asocia con “Metroid”, que se describe como acción y exploración.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metroid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

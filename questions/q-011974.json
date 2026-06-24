@@ -1,0 +1,42 @@
+{
+  "id": "q-011974",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Pulp Fiction”, “Blade Runner”, “El padrino” y “Alien” fue dirigida por Quentin Tarantino?",
+  "answers": [
+    {
+      "text": "Blade Runner",
+      "correct": false
+    },
+    {
+      "text": "El padrino",
+      "correct": false
+    },
+    {
+      "text": "Alien",
+      "correct": false
+    },
+    {
+      "text": "Pulp Fiction",
+      "correct": true
+    }
+  ],
+  "explanation": "“Pulp Fiction” se asocia con Quentin Tarantino.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "quentin-tarantino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

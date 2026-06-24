@@ -1,0 +1,42 @@
+{
+  "id": "q-012295",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo risotto, pho, laksa y poutine encaja con Italia y con el ingrediente arroz?",
+  "answers": [
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": true
+    },
+    {
+      "text": "poutine",
+      "correct": false
+    },
+    {
+      "text": "laksa",
+      "correct": false
+    }
+  ],
+  "explanation": "risotto se asocia con Italia y con arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "risotto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

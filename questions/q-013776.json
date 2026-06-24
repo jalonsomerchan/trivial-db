@@ -1,0 +1,42 @@
+{
+  "id": "q-013776",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Menos es más” dentro del grupo de ejemplos “Compró pan, leche y fruta”, “El silencio gritaba en la sala”, “La ciudad nunca duerme” y “Menos es más”?",
+  "answers": [
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": true
+    }
+  ],
+  "explanation": "La frase “Menos es más” contiene paradoja.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "paradoja"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

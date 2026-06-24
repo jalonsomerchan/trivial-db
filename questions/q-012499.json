@@ -1,0 +1,43 @@
+{
+  "id": "q-012499",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como trabajar una masa para desarrollar estructura?",
+  "answers": [
+    {
+      "text": "asar",
+      "correct": false
+    },
+    {
+      "text": "pochar",
+      "correct": false
+    },
+    {
+      "text": "glasear",
+      "correct": false
+    },
+    {
+      "text": "amasar",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica descrita es amasar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "amasar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

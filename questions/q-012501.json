@@ -1,0 +1,43 @@
+{
+  "id": "q-012501",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como unir líquidos que normalmente no se mezclan?",
+  "answers": [
+    {
+      "text": "emulsionar",
+      "correct": true
+    },
+    {
+      "text": "macerar",
+      "correct": false
+    },
+    {
+      "text": "marinar",
+      "correct": false
+    },
+    {
+      "text": "glasear",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es emulsionar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "emulsionar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

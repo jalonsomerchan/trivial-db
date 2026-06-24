@@ -1,0 +1,43 @@
+{
+  "id": "q-012684",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a Islas Cook?",
+  "answers": [
+    {
+      "text": "FJD",
+      "correct": false
+    },
+    {
+      "text": "NZD",
+      "correct": true
+    },
+    {
+      "text": "YER",
+      "correct": false
+    },
+    {
+      "text": "LYD",
+      "correct": false
+    }
+  ],
+  "explanation": "El código de moneda registrado para Islas Cook es NZD.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "islas-cook"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

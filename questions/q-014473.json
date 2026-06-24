@@ -1,0 +1,41 @@
+{
+  "id": "q-014473",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 40% de 540?",
+  "answers": [
+    {
+      "text": "221",
+      "correct": false
+    },
+    {
+      "text": "206",
+      "correct": false
+    },
+    {
+      "text": "226",
+      "correct": false
+    },
+    {
+      "text": "216",
+      "correct": true
+    }
+  ],
+  "explanation": "El 40% de 540 se calcula como 540 × 40/100 = 216.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

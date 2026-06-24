@@ -1,0 +1,41 @@
+{
+  "id": "q-013913",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “imposible”, “panadería”, “subdirector” y “predecir” contiene sufijo -ería?",
+  "answers": [
+    {
+      "text": "imposible",
+      "correct": false
+    },
+    {
+      "text": "subdirector",
+      "correct": false
+    },
+    {
+      "text": "predecir",
+      "correct": false
+    },
+    {
+      "text": "panadería",
+      "correct": true
+    }
+  ],
+  "explanation": "“panadería” contiene sufijo -ería.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

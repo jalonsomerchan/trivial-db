@@ -1,0 +1,42 @@
+{
+  "id": "q-011788",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Super Mario Bros.”, “Uncharted”, “Mortal Kombat” y “Metroid” encaja con Mario y el género plataformas?",
+  "answers": [
+    {
+      "text": "Uncharted",
+      "correct": false
+    },
+    {
+      "text": "Metroid",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": true
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": false
+    }
+  ],
+  "explanation": "Mario se asocia con “Super Mario Bros.”, que se describe como plataformas.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "super-mario-bros"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

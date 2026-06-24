@@ -1,0 +1,42 @@
+{
+  "id": "q-010708",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud física se mide en gray?",
+  "answers": [
+    {
+      "text": "resistencia eléctrica",
+      "correct": false
+    },
+    {
+      "text": "tensión eléctrica",
+      "correct": false
+    },
+    {
+      "text": "iluminancia",
+      "correct": false
+    },
+    {
+      "text": "dosis absorbida",
+      "correct": true
+    }
+  ],
+  "explanation": "El gray es la unidad del Sistema Internacional para dosis absorbida.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "gray"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012938",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Emiratos Árabes Unidos?",
+  "answers": [
+    {
+      "text": ".pt",
+      "correct": false
+    },
+    {
+      "text": ".se",
+      "correct": false
+    },
+    {
+      "text": ".ae",
+      "correct": true
+    },
+    {
+      "text": ".gh",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Emiratos Árabes Unidos es .ae.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "emiratos-arabes-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

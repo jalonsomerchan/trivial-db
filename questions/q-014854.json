@@ -1,0 +1,41 @@
+{
+  "id": "q-014854",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 177 en sistema binario?",
+  "answers": [
+    {
+      "text": "10110000",
+      "correct": false
+    },
+    {
+      "text": "10110001",
+      "correct": true
+    },
+    {
+      "text": "10110011",
+      "correct": false
+    },
+    {
+      "text": "10110010",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 177 es 10110001.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

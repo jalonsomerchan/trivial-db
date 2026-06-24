@@ -1,0 +1,42 @@
+{
+  "id": "q-013827",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué figura retórica aparece en “Compró pan, leche y fruta”?",
+  "answers": [
+    {
+      "text": "metáfora",
+      "correct": false
+    },
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": true
+    }
+  ],
+  "explanation": "La expresión “Compró pan, leche y fruta” ejemplifica enumeración.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "enumeracion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

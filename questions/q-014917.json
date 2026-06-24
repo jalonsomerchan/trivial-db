@@ -1,0 +1,41 @@
+{
+  "id": "q-014917",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 41 en sistema binario?",
+  "answers": [
+    {
+      "text": "101000",
+      "correct": false
+    },
+    {
+      "text": "101010",
+      "correct": false
+    },
+    {
+      "text": "101011",
+      "correct": false
+    },
+    {
+      "text": "101001",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 41 es 101001.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

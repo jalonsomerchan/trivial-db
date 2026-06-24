@@ -1,0 +1,42 @@
+{
+  "id": "q-013649",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra es antónima de “preciso”?",
+  "answers": [
+    {
+      "text": "impreciso",
+      "correct": true
+    },
+    {
+      "text": "borroso",
+      "correct": false
+    },
+    {
+      "text": "cobarde",
+      "correct": false
+    },
+    {
+      "text": "temerario",
+      "correct": false
+    }
+  ],
+  "explanation": "“impreciso” es antónimo de “preciso”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "preciso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

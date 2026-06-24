@@ -1,0 +1,41 @@
+{
+  "id": "q-014457",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 30% de 860?",
+  "answers": [
+    {
+      "text": "258",
+      "correct": true
+    },
+    {
+      "text": "248",
+      "correct": false
+    },
+    {
+      "text": "268",
+      "correct": false
+    },
+    {
+      "text": "263",
+      "correct": false
+    }
+  ],
+  "explanation": "El 30% de 860 se calcula como 860 × 30/100 = 258.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

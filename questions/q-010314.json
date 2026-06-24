@@ -1,0 +1,42 @@
+{
+  "id": "q-010314",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Number 1A, 1948”, “La noche estrellada”, “La joven de la perla” y “Los girasoles” pertenece al Expresionismo abstracto?",
+  "answers": [
+    {
+      "text": "La joven de la perla",
+      "correct": false
+    },
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "Number 1A, 1948",
+      "correct": true
+    },
+    {
+      "text": "Los girasoles",
+      "correct": false
+    }
+  ],
+  "explanation": "“Number 1A, 1948” se vincula con Expresionismo abstracto.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "expresionismo-abstracto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

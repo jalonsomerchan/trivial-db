@@ -1,0 +1,43 @@
+{
+  "id": "q-012150",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato tacos?",
+  "answers": [
+    {
+      "text": "aguacate",
+      "correct": false
+    },
+    {
+      "text": "pescado marinado",
+      "correct": false
+    },
+    {
+      "text": "tortilla de maíz",
+      "correct": true
+    },
+    {
+      "text": "brochetas con salsa de cacahuete",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de tacos es tortilla de maíz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tacos",
+    "tortilla-de-maiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

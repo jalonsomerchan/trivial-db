@@ -1,0 +1,42 @@
+{
+  "id": "q-014817",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué servicio se asocia normalmente con el puerto 25?",
+  "answers": [
+    {
+      "text": "SMTP",
+      "correct": true
+    },
+    {
+      "text": "IMAP",
+      "correct": false
+    },
+    {
+      "text": "DNS",
+      "correct": false
+    },
+    {
+      "text": "Redis",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 25 se asocia habitualmente con SMTP.",
+  "sources": [
+    {
+      "title": "IANA Service Name and Transport Protocol Port Number Registry",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "puertos",
+    "smtp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014183",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "combinatoria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuántas combinaciones de 4 elementos pueden formarse a partir de 9 elementos distintos?",
+  "answers": [
+    {
+      "text": "135",
+      "correct": false
+    },
+    {
+      "text": "126",
+      "correct": true
+    },
+    {
+      "text": "117",
+      "correct": false
+    },
+    {
+      "text": "3024",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de combinaciones es C(9,4) = 126.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "combinaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

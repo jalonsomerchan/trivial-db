@@ -1,0 +1,42 @@
+{
+  "id": "q-011714",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Half-Life”, “Street Fighter II”, “Resident Evil” y “Tomb Raider” encaja con Gordon Freeman y el género disparos?",
+  "answers": [
+    {
+      "text": "Street Fighter II",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    },
+    {
+      "text": "Half-Life",
+      "correct": true
+    }
+  ],
+  "explanation": "Gordon Freeman se asocia con “Half-Life”, que se describe como disparos.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "half-life"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010353",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “Fausto”?",
+  "answers": [
+    {
+      "text": "tragedia",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": true
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "distopía",
+      "correct": false
+    }
+  ],
+  "explanation": "“Fausto” se clasifica habitualmente como drama.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "drama"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

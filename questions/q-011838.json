@@ -1,0 +1,42 @@
+{
+  "id": "q-011838",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estilo musical se asocia con “OK Computer”?",
+  "answers": [
+    {
+      "text": "rock alternativo",
+      "correct": true
+    },
+    {
+      "text": "reggae",
+      "correct": false
+    },
+    {
+      "text": "pop",
+      "correct": false
+    },
+    {
+      "text": "jazz",
+      "correct": false
+    }
+  ],
+  "explanation": "“OK Computer” se asocia con rock alternativo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "rock-alternativo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

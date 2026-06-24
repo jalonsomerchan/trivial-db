@@ -1,0 +1,41 @@
+{
+  "id": "q-010750",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué presión ejerce una fuerza de 180 N sobre un área de 15 m²?",
+  "answers": [
+    {
+      "text": "27 Pa",
+      "correct": false
+    },
+    {
+      "text": "1 Pa",
+      "correct": false
+    },
+    {
+      "text": "195 Pa",
+      "correct": false
+    },
+    {
+      "text": "12 Pa",
+      "correct": true
+    }
+  ],
+  "explanation": "La presión es fuerza dividida entre área: 180/15 = 12 Pa.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "presion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

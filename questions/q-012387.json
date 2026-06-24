@@ -1,0 +1,42 @@
+{
+  "id": "q-012387",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo biryani, bibimbap, shakshuka y hummus se prepara típicamente con arroz con verduras?",
+  "answers": [
+    {
+      "text": "shakshuka",
+      "correct": false
+    },
+    {
+      "text": "bibimbap",
+      "correct": true
+    },
+    {
+      "text": "hummus",
+      "correct": false
+    },
+    {
+      "text": "biryani",
+      "correct": false
+    }
+  ],
+  "explanation": "bibimbap se prepara típicamente con arroz con verduras.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bibimbap"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

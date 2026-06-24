@@ -1,0 +1,42 @@
+{
+  "id": "q-011912",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Casablanca”, “El viaje de Chihiro”, “Psicosis” y “Buscando a Nemo” fue dirigida por Hayao Miyazaki?",
+  "answers": [
+    {
+      "text": "El viaje de Chihiro",
+      "correct": true
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Casablanca",
+      "correct": false
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    }
+  ],
+  "explanation": "“El viaje de Chihiro” se asocia con Hayao Miyazaki.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "hayao-miyazaki"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

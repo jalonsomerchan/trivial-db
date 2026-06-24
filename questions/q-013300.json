@@ -1,0 +1,42 @@
+{
+  "id": "q-013300",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la inicio de la Segunda Guerra Púnica?",
+  "answers": [
+    {
+      "text": "Babilonia",
+      "correct": false
+    },
+    {
+      "text": "Mediterráneo",
+      "correct": true
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Milán",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Segunda Guerra Púnica se asocia directamente con Mediterráneo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "mediterraneo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

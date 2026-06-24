@@ -1,0 +1,42 @@
+{
+  "id": "q-010857",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento oro?",
+  "answers": [
+    {
+      "text": "halógeno",
+      "correct": false
+    },
+    {
+      "text": "metal",
+      "correct": false
+    },
+    {
+      "text": "metal de transición",
+      "correct": true
+    },
+    {
+      "text": "metaloide",
+      "correct": false
+    }
+  ],
+  "explanation": "El oro se clasifica como metal de transición.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "metal-de-transicion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

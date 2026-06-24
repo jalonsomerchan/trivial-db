@@ -1,0 +1,42 @@
+{
+  "id": "q-011590",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “Mortal Kombat”, “Mega Man”, “The Legend of Zelda” y “Sonic the Hedgehog” relaciona a Sonic con Sega?",
+  "answers": [
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": true
+    }
+  ],
+  "explanation": "Sonic se asocia con “Sonic the Hedgehog”, vinculado a Sega.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "sonic-the-hedgehog"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

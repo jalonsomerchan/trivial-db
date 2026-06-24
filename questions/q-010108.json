@@ -1,0 +1,42 @@
+{
+  "id": "q-010108",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “La metamorfosis” frente a la referencia “La Divina Comedia”?",
+  "answers": [
+    {
+      "text": "Johann Wolfgang von Goethe",
+      "correct": false
+    },
+    {
+      "text": "Franz Kafka",
+      "correct": true
+    },
+    {
+      "text": "Fiódor Dostoievski",
+      "correct": false
+    },
+    {
+      "text": "Juan Rulfo",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “La metamorfosis” pertenece a Franz Kafka.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "franz-kafka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013359",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la crack bursátil de Wall Street?",
+  "answers": [
+    {
+      "text": "Imperio carolingio",
+      "correct": false
+    },
+    {
+      "text": "Gran Depresión",
+      "correct": true
+    },
+    {
+      "text": "Macedonia antigua",
+      "correct": false
+    },
+    {
+      "text": "Revolución francesa",
+      "correct": false
+    }
+  ],
+  "explanation": "La crack bursátil de Wall Street se relaciona con Gran Depresión.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "gran-depresion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

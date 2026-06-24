@@ -1,0 +1,41 @@
+{
+  "id": "q-014271",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 5x + 10 = 60?",
+  "answers": [
+    {
+      "text": "11",
+      "correct": false
+    },
+    {
+      "text": "10",
+      "correct": true
+    },
+    {
+      "text": "9",
+      "correct": false
+    },
+    {
+      "text": "13",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 10 y dividiendo entre 5, se obtiene x = 10.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

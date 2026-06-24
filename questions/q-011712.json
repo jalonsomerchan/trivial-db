@@ -1,0 +1,42 @@
+{
+  "id": "q-011712",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Half-Life”, “Resident Evil”, “Metroid” y “Uncharted” encaja con Gordon Freeman y el género disparos?",
+  "answers": [
+    {
+      "text": "Uncharted",
+      "correct": false
+    },
+    {
+      "text": "Metroid",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Half-Life",
+      "correct": true
+    }
+  ],
+  "explanation": "Gordon Freeman se asocia con “Half-Life”, que se describe como disparos.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "half-life"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

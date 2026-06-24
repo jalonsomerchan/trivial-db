@@ -1,0 +1,42 @@
+{
+  "id": "q-013455",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre disolución de la Unión Soviética, llegada de Colón a América, caída del Imperio romano de Occidente y publicación de las 95 tesis de Lutero?",
+  "answers": [
+    {
+      "text": "publicación de las 95 tesis de Lutero",
+      "correct": false
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": true
+    },
+    {
+      "text": "llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, disolución de la Unión Soviética es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

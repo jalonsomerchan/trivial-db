@@ -1,0 +1,41 @@
+{
+  "id": "q-010877",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fuerza produce una masa de 13 kg con aceleración de 7 m/s²?",
+  "answers": [
+    {
+      "text": "104 N",
+      "correct": false
+    },
+    {
+      "text": "91 N",
+      "correct": true
+    },
+    {
+      "text": "20 N",
+      "correct": false
+    },
+    {
+      "text": "84 N",
+      "correct": false
+    }
+  ],
+  "explanation": "Según F = m·a, la fuerza es 13 × 7 = 91 N.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "dinamica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

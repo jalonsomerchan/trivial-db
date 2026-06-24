@@ -1,0 +1,42 @@
+{
+  "id": "q-012279",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo poke, pho, croissant y moussaka encaja con Hawái y con el ingrediente pescado crudo?",
+  "answers": [
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "poke",
+      "correct": true
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    }
+  ],
+  "explanation": "poke se asocia con Hawái y con pescado crudo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "poke"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

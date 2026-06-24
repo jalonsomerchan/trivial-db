@@ -1,0 +1,42 @@
+{
+  "id": "q-010359",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “La Ilíada”?",
+  "answers": [
+    {
+      "text": "poema épico",
+      "correct": false
+    },
+    {
+      "text": "novela existencialista",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": false
+    },
+    {
+      "text": "epopeya",
+      "correct": true
+    }
+  ],
+  "explanation": "“La Ilíada” se clasifica habitualmente como epopeya.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "epopeya"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

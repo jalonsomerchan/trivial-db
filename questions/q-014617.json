@@ -1,0 +1,42 @@
+{
+  "id": "q-014617",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué cláusula o sentencia SQL se usa para añadir filas?",
+  "answers": [
+    {
+      "text": "UPDATE",
+      "correct": false
+    },
+    {
+      "text": "GROUP BY",
+      "correct": false
+    },
+    {
+      "text": "INSERT",
+      "correct": true
+    },
+    {
+      "text": "SELECT",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, INSERT se usa para añadir filas.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "insert"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011850",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “Metal Gear Solid”?",
+  "answers": [
+    {
+      "text": "Sega",
+      "correct": false
+    },
+    {
+      "text": "Konami",
+      "correct": true
+    },
+    {
+      "text": "Midway",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": false
+    }
+  ],
+  "explanation": "“Metal Gear Solid” se vincula con Konami.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metal-gear-solid",
+    "konami"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

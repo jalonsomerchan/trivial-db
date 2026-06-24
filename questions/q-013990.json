@@ -1,0 +1,42 @@
+{
+  "id": "q-013990",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué tiempo o construcción verbal aparece en “que yo estudiara”?",
+  "answers": [
+    {
+      "text": "perífrasis de futuro",
+      "correct": false
+    },
+    {
+      "text": "pretérito imperfecto de subjuntivo",
+      "correct": true
+    },
+    {
+      "text": "perífrasis de gerundio",
+      "correct": false
+    },
+    {
+      "text": "pretérito perfecto simple",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “que yo estudiara” corresponde a pretérito imperfecto de subjuntivo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-imperfecto-de-subjuntivo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

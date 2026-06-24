@@ -1,0 +1,42 @@
+{
+  "id": "q-013367",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la fundación tradicional de Roma?",
+  "answers": [
+    {
+      "text": "terrorismo internacional",
+      "correct": false
+    },
+    {
+      "text": "Roma antigua",
+      "correct": true
+    },
+    {
+      "text": "exploraciones oceánicas",
+      "correct": false
+    },
+    {
+      "text": "revoluciones atlánticas",
+      "correct": false
+    }
+  ],
+  "explanation": "La fundación tradicional de Roma se relaciona con Roma antigua.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "roma-antigua"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

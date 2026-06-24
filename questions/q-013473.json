@@ -1,0 +1,42 @@
+{
+  "id": "q-013473",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre inicio de la Primera Cruzada, inicio de la Segunda Guerra Mundial, crack bursátil de Wall Street y batalla de Trafalgar?",
+  "answers": [
+    {
+      "text": "batalla de Trafalgar",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Primera Cruzada",
+      "correct": false
+    },
+    {
+      "text": "crack bursátil de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, inicio de la Segunda Guerra Mundial es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

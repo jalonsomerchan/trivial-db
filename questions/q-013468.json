@@ -1,0 +1,42 @@
+{
+  "id": "q-013468",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre independencia de México, fundación tradicional de Roma, inicio de la Primera Guerra Mundial y batalla de Maratón?",
+  "answers": [
+    {
+      "text": "inicio de la Primera Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "independencia de México",
+      "correct": false
+    },
+    {
+      "text": "batalla de Maratón",
+      "correct": false
+    },
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, inicio de la Primera Guerra Mundial es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

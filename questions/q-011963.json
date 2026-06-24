@@ -1,0 +1,42 @@
+{
+  "id": "q-011963",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Parásitos”, “Ciudadano Kane”, “Jurassic Park” y “Casablanca” fue dirigida por Steven Spielberg?",
+  "answers": [
+    {
+      "text": "Ciudadano Kane",
+      "correct": false
+    },
+    {
+      "text": "Parásitos",
+      "correct": false
+    },
+    {
+      "text": "Jurassic Park",
+      "correct": true
+    },
+    {
+      "text": "Casablanca",
+      "correct": false
+    }
+  ],
+  "explanation": "“Jurassic Park” se asocia con Steven Spielberg.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "steven-spielberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

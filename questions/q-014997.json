@@ -1,0 +1,42 @@
+{
+  "id": "q-014997",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto TCP se asocia habitualmente con POP3?",
+  "answers": [
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "110",
+      "correct": true
+    },
+    {
+      "text": "993",
+      "correct": false
+    },
+    {
+      "text": "22",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto habitual asociado a POP3 es 110.",
+  "sources": [
+    {
+      "title": "IANA Service Name and Transport Protocol Port Number Registry",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "puertos",
+    "pop3"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

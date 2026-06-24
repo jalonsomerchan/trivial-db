@@ -1,0 +1,42 @@
+{
+  "id": "q-011751",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Mortal Kombat”, “Metal Gear Solid”, “Half-Life” y “The Legend of Zelda” encaja con Scorpion y el género lucha?",
+  "answers": [
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": false
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": true
+    }
+  ],
+  "explanation": "Scorpion se asocia con “Mortal Kombat”, que se describe como lucha.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mortal-kombat"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

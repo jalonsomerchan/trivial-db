@@ -1,0 +1,43 @@
+{
+  "id": "q-013384",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso se asocia históricamente Abraham Lincoln?",
+  "answers": [
+    {
+      "text": "Guerra de Secesión",
+      "correct": true
+    },
+    {
+      "text": "coronación imperial del año 800",
+      "correct": false
+    },
+    {
+      "text": "conquista normanda",
+      "correct": false
+    },
+    {
+      "text": "primer emperador romano",
+      "correct": false
+    }
+  ],
+  "explanation": "Abraham Lincoln se asocia con Guerra de Secesión.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "abraham-lincoln"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

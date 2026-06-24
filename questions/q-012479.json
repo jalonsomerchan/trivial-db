@@ -1,0 +1,42 @@
+{
+  "id": "q-012479",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo tacos, shakshuka, croissant y pad thai se prepara típicamente con huevos en salsa de tomate?",
+  "answers": [
+    {
+      "text": "tacos",
+      "correct": false
+    },
+    {
+      "text": "pad thai",
+      "correct": false
+    },
+    {
+      "text": "shakshuka",
+      "correct": true
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    }
+  ],
+  "explanation": "shakshuka se prepara típicamente con huevos en salsa de tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "shakshuka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

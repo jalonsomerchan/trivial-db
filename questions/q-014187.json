@@ -1,0 +1,41 @@
+{
+  "id": "q-014187",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 10x + 34 = 554?",
+  "answers": [
+    {
+      "text": "55",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": true
+    },
+    {
+      "text": "51",
+      "correct": false
+    },
+    {
+      "text": "53",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 34 y dividiendo entre 10, se obtiene x = 52.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

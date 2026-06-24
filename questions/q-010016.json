@@ -1,0 +1,43 @@
+{
+  "id": "q-010016",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “El beso”?",
+  "answers": [
+    {
+      "text": "Gustav Klimt",
+      "correct": true
+    },
+    {
+      "text": "Claude Monet",
+      "correct": false
+    },
+    {
+      "text": "Rafael Sanzio",
+      "correct": false
+    },
+    {
+      "text": "Edvard Munch",
+      "correct": false
+    }
+  ],
+  "explanation": "“El beso” es una obra de Gustav Klimt.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "gustav-klimt",
+    "el-beso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

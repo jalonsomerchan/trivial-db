@@ -1,0 +1,41 @@
+{
+  "id": "q-010912",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fuerza produce una masa de 27 kg con aceleración de 14 m/s²?",
+  "answers": [
+    {
+      "text": "41 N",
+      "correct": false
+    },
+    {
+      "text": "405 N",
+      "correct": false
+    },
+    {
+      "text": "364 N",
+      "correct": false
+    },
+    {
+      "text": "378 N",
+      "correct": true
+    }
+  ],
+  "explanation": "Según F = m·a, la fuerza es 27 × 14 = 378 N.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "dinamica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

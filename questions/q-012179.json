@@ -1,0 +1,42 @@
+{
+  "id": "q-012179",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Estados Unidos y México con carne y chile?",
+  "answers": [
+    {
+      "text": "cuscús",
+      "correct": false
+    },
+    {
+      "text": "chili con carne",
+      "correct": true
+    },
+    {
+      "text": "ramen",
+      "correct": false
+    },
+    {
+      "text": "hummus",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es chili con carne.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "chili-con-carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

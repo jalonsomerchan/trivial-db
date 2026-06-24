@@ -1,0 +1,41 @@
+{
+  "id": "q-014307",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 8x + 44 = 332?",
+  "answers": [
+    {
+      "text": "36",
+      "correct": true
+    },
+    {
+      "text": "35",
+      "correct": false
+    },
+    {
+      "text": "39",
+      "correct": false
+    },
+    {
+      "text": "37",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 44 y dividiendo entre 8, se obtiene x = 36.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

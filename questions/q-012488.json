@@ -1,0 +1,43 @@
+{
+  "id": "q-012488",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como cocinar lentamente en grasa o almíbar?",
+  "answers": [
+    {
+      "text": "confitar",
+      "correct": true
+    },
+    {
+      "text": "pochar",
+      "correct": false
+    },
+    {
+      "text": "reducir",
+      "correct": false
+    },
+    {
+      "text": "ahumar",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es confitar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "confitar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

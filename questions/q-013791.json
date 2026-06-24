@@ -1,0 +1,42 @@
+{
+  "id": "q-013791",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Te lo he dicho mil veces” dentro del grupo de ejemplos “El dulce amargor de la despedida”, “Compró pan, leche y fruta”, “Las nieves del tiempo platearon su sien” y “Te lo he dicho mil veces”?",
+  "answers": [
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": false
+    },
+    {
+      "text": "hipérbole",
+      "correct": true
+    }
+  ],
+  "explanation": "La frase “Te lo he dicho mil veces” contiene hipérbole.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "hiperbole"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

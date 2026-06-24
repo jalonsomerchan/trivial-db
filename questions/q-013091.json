@@ -1,0 +1,42 @@
+{
+  "id": "q-013091",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué hecho ocurrió antes entre disolución de la Unión Soviética, concilio de Nicea, inicio de la Segunda Guerra Mundial y construcción del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "concilio de Nicea",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, concilio de Nicea es el hecho más antiguo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014878",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 282 en sistema binario?",
+  "answers": [
+    {
+      "text": "100011001",
+      "correct": false
+    },
+    {
+      "text": "100011011",
+      "correct": false
+    },
+    {
+      "text": "100011100",
+      "correct": false
+    },
+    {
+      "text": "100011010",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 282 es 100011010.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

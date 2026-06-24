@@ -1,0 +1,42 @@
+{
+  "id": "q-011961",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Origen”, “Roma”, “Pulp Fiction” y “Buscando a Nemo” fue dirigida por Alfonso Cuarón?",
+  "answers": [
+    {
+      "text": "Roma",
+      "correct": true
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    },
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    },
+    {
+      "text": "Origen",
+      "correct": false
+    }
+  ],
+  "explanation": "“Roma” se asocia con Alfonso Cuarón.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfonso-cuaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011536",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Wall·E”?",
+  "answers": [
+    {
+      "text": "Andrew Stanton",
+      "correct": true
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Damien Chazelle",
+      "correct": false
+    },
+    {
+      "text": "Michael Curtiz",
+      "correct": false
+    }
+  ],
+  "explanation": "“Wall·E” está asociada con el director Andrew Stanton.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "wall-e",
+    "andrew-stanton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011954",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Mad Max: Fury Road”, “Pulp Fiction”, “Casablanca” y “Blade Runner” fue dirigida por Quentin Tarantino?",
+  "answers": [
+    {
+      "text": "Casablanca",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": false
+    },
+    {
+      "text": "Pulp Fiction",
+      "correct": true
+    },
+    {
+      "text": "Mad Max: Fury Road",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pulp Fiction” se asocia con Quentin Tarantino.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "quentin-tarantino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

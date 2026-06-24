@@ -1,0 +1,42 @@
+{
+  "id": "q-010164",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué libro se asocia con Jane Austen y el género novela?",
+  "answers": [
+    {
+      "text": "Ficciones",
+      "correct": false
+    },
+    {
+      "text": "Rayuela",
+      "correct": false
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": true
+    },
+    {
+      "text": "Rebelión en la granja",
+      "correct": false
+    }
+  ],
+  "explanation": "“Orgullo y prejuicio” es una obra de Jane Austen asociada con novela.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "jane-austen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

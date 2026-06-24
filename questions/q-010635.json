@@ -1,0 +1,42 @@
+{
+  "id": "q-010635",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué posición ocupa Marte desde el Sol?",
+  "answers": [
+    {
+      "text": "7",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": true
+    },
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    }
+  ],
+  "explanation": "Marte es el planeta número 4 contando desde el Sol.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "marte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

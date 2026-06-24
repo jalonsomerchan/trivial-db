@@ -1,0 +1,42 @@
+{
+  "id": "q-013142",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué hecho ocurrió antes entre revoluciones europeas de 1848, batalla de Trafalgar, batalla de Lepanto y caída del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "batalla de Lepanto",
+      "correct": true
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "revoluciones europeas de 1848",
+      "correct": false
+    },
+    {
+      "text": "batalla de Trafalgar",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, batalla de Lepanto es el hecho más antiguo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

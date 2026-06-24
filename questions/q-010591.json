@@ -1,0 +1,42 @@
+{
+  "id": "q-010591",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la unidad del Sistema Internacional para medir dosis absorbida?",
+  "answers": [
+    {
+      "text": "lux",
+      "correct": false
+    },
+    {
+      "text": "culombio",
+      "correct": false
+    },
+    {
+      "text": "gray",
+      "correct": true
+    },
+    {
+      "text": "voltio",
+      "correct": false
+    }
+  ],
+  "explanation": "La unidad SI de dosis absorbida es el gray.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "dosis-absorbida"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

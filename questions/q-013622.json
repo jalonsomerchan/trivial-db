@@ -1,0 +1,42 @@
+{
+  "id": "q-013622",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “tambor”, “difícil”, “cántaro” y “volumen” es llana?",
+  "answers": [
+    {
+      "text": "tambor",
+      "correct": false
+    },
+    {
+      "text": "difícil",
+      "correct": true
+    },
+    {
+      "text": "volumen",
+      "correct": false
+    },
+    {
+      "text": "cántaro",
+      "correct": false
+    }
+  ],
+  "explanation": "“difícil” es una palabra llana.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "llana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

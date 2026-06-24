@@ -1,0 +1,42 @@
+{
+  "id": "q-010212",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “El grito”, “La ronda de noche”, “Campbell’s Soup Cans” y “La última cena” pertenece al Renacimiento?",
+  "answers": [
+    {
+      "text": "La ronda de noche",
+      "correct": false
+    },
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": false
+    },
+    {
+      "text": "La última cena",
+      "correct": true
+    },
+    {
+      "text": "El grito",
+      "correct": false
+    }
+  ],
+  "explanation": "“La última cena” se vincula con Renacimiento.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

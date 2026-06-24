@@ -1,0 +1,42 @@
+{
+  "id": "q-011109",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué deporte del grupo rugby union, hockey sobre hielo, fútbol sala y baloncesto utiliza puck y puntúa con gol?",
+  "answers": [
+    {
+      "text": "fútbol sala",
+      "correct": false
+    },
+    {
+      "text": "baloncesto",
+      "correct": false
+    },
+    {
+      "text": "rugby union",
+      "correct": false
+    },
+    {
+      "text": "hockey sobre hielo",
+      "correct": true
+    }
+  ],
+  "explanation": "hockey sobre hielo utiliza puck y una acción de puntuación habitual es gol.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "hockey-sobre-hielo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

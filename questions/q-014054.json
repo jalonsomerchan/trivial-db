@@ -1,0 +1,42 @@
+{
+  "id": "q-014054",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el resultado de sumar 491 y 362?",
+  "answers": [
+    {
+      "text": "863",
+      "correct": false
+    },
+    {
+      "text": "853",
+      "correct": true
+    },
+    {
+      "text": "843",
+      "correct": false
+    },
+    {
+      "text": "854",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma 491 + 362 da 853.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

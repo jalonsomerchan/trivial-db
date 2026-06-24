@@ -1,0 +1,42 @@
+{
+  "id": "q-012234",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo croissant, hummus, fondue y biryani encaja con Suiza y con el ingrediente queso fundido?",
+  "answers": [
+    {
+      "text": "croissant",
+      "correct": false
+    },
+    {
+      "text": "hummus",
+      "correct": false
+    },
+    {
+      "text": "biryani",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": true
+    }
+  ],
+  "explanation": "fondue se asocia con Suiza y con queso fundido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fondue"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

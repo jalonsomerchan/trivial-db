@@ -1,0 +1,42 @@
+{
+  "id": "q-010157",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué libro se asocia con Franz Kafka y el género relato?",
+  "answers": [
+    {
+      "text": "La ciudad y los perros",
+      "correct": false
+    },
+    {
+      "text": "La Odisea",
+      "correct": false
+    },
+    {
+      "text": "Fausto",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": true
+    }
+  ],
+  "explanation": "“La metamorfosis” es una obra de Franz Kafka asociada con relato.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "franz-kafka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

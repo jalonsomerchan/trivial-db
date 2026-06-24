@@ -1,0 +1,43 @@
+{
+  "id": "q-010010",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió “Moby Dick”?",
+  "answers": [
+    {
+      "text": "Miguel de Cervantes",
+      "correct": false
+    },
+    {
+      "text": "Juan Rulfo",
+      "correct": false
+    },
+    {
+      "text": "Herman Melville",
+      "correct": true
+    },
+    {
+      "text": "Homero",
+      "correct": false
+    }
+  ],
+  "explanation": "“Moby Dick” fue escrito por Herman Melville.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "herman-melville",
+    "moby-dick"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

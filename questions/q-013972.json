@@ -1,0 +1,42 @@
+{
+  "id": "q-013972",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra se opone semánticamente a “cobarde”?",
+  "answers": [
+    {
+      "text": "benévolo",
+      "correct": false
+    },
+    {
+      "text": "apacible",
+      "correct": false
+    },
+    {
+      "text": "idóneo",
+      "correct": false
+    },
+    {
+      "text": "audaz",
+      "correct": true
+    }
+  ],
+  "explanation": "“audaz” y “cobarde” son antónimos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "audaz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010400",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “El extranjero”, “La ciudad y los perros”, “Moby Dick” y “Crimen y castigo” fue escrita por Albert Camus?",
+  "answers": [
+    {
+      "text": "La ciudad y los perros",
+      "correct": false
+    },
+    {
+      "text": "El extranjero",
+      "correct": true
+    },
+    {
+      "text": "Moby Dick",
+      "correct": false
+    },
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    }
+  ],
+  "explanation": "“El extranjero” fue escrita por Albert Camus.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "albert-camus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

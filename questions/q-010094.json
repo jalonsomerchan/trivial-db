@@ -1,0 +1,42 @@
+{
+  "id": "q-010094",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “La casa de Bernarda Alba” frente a la referencia “Frankenstein”?",
+  "answers": [
+    {
+      "text": "Mary Shelley",
+      "correct": false
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": false
+    },
+    {
+      "text": "León Tolstói",
+      "correct": false
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": true
+    }
+  ],
+  "explanation": "La obra “La casa de Bernarda Alba” pertenece a Federico García Lorca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "federico-garcia-lorca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014920",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 418 en sistema binario?",
+  "answers": [
+    {
+      "text": "110100100",
+      "correct": false
+    },
+    {
+      "text": "110100011",
+      "correct": false
+    },
+    {
+      "text": "110100010",
+      "correct": true
+    },
+    {
+      "text": "110100001",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 418 es 110100010.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

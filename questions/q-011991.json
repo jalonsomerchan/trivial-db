@@ -1,0 +1,42 @@
+{
+  "id": "q-011991",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Toy Story”, “Jurassic Park”, “Blade Runner” y “El viaje de Chihiro” fue dirigida por Steven Spielberg?",
+  "answers": [
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": false
+    },
+    {
+      "text": "Jurassic Park",
+      "correct": true
+    }
+  ],
+  "explanation": "“Jurassic Park” se asocia con Steven Spielberg.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "steven-spielberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

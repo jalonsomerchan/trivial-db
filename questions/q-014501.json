@@ -1,0 +1,41 @@
+{
+  "id": "q-014501",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 75% de 960?",
+  "answers": [
+    {
+      "text": "710",
+      "correct": false
+    },
+    {
+      "text": "720",
+      "correct": true
+    },
+    {
+      "text": "730",
+      "correct": false
+    },
+    {
+      "text": "725",
+      "correct": false
+    }
+  ],
+  "explanation": "El 75% de 960 se calcula como 960 × 75/100 = 720.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

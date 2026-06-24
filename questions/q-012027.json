@@ -1,0 +1,42 @@
+{
+  "id": "q-012027",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo calabacín, naranja, pera y pimiento es un ejemplo de fruta?",
+  "answers": [
+    {
+      "text": "naranja",
+      "correct": true
+    },
+    {
+      "text": "calabacín",
+      "correct": false
+    },
+    {
+      "text": "pera",
+      "correct": false
+    },
+    {
+      "text": "pimiento",
+      "correct": false
+    }
+  ],
+  "explanation": "naranja es un ejemplo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

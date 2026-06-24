@@ -1,0 +1,42 @@
+{
+  "id": "q-010464",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Orgullo y prejuicio”, “El Aleph”, “Cien años de soledad” y “Crimen y castigo” fue escrita por Gabriel García Márquez?",
+  "answers": [
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    },
+    {
+      "text": "El Aleph",
+      "correct": false
+    },
+    {
+      "text": "Cien años de soledad",
+      "correct": true
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": false
+    }
+  ],
+  "explanation": "“Cien años de soledad” fue escrita por Gabriel García Márquez.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "gabriel-garcia-marquez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

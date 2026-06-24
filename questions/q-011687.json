@@ -1,0 +1,42 @@
+{
+  "id": "q-011687",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Orson Welles encaja con el género drama?",
+  "answers": [
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": true
+    },
+    {
+      "text": "Titanic",
+      "correct": false
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    }
+  ],
+  "explanation": "“Ciudadano Kane” fue dirigida por Orson Welles y se asocia con drama.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "orson-welles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

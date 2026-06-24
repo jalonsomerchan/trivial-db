@@ -1,0 +1,42 @@
+{
+  "id": "q-010627",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico representa el símbolo P?",
+  "answers": [
+    {
+      "text": "uranio",
+      "correct": false
+    },
+    {
+      "text": "silicio",
+      "correct": false
+    },
+    {
+      "text": "fósforo",
+      "correct": true
+    },
+    {
+      "text": "neón",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico P representa al fósforo.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "fosforo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

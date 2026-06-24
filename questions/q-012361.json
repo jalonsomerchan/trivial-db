@@ -1,0 +1,43 @@
+{
+  "id": "q-012361",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con ramen?",
+  "answers": [
+    {
+      "text": "Vietnam",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": true
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "Suiza",
+      "correct": false
+    }
+  ],
+  "explanation": "ramen se asocia tradicionalmente con Japón.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ramen",
+    "japon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

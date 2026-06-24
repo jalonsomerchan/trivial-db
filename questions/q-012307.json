@@ -1,0 +1,42 @@
+{
+  "id": "q-012307",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo sushi, fondue, tacos y pho encaja con Suiza y con el ingrediente queso fundido?",
+  "answers": [
+    {
+      "text": "fondue",
+      "correct": true
+    },
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": false
+    },
+    {
+      "text": "sushi",
+      "correct": false
+    }
+  ],
+  "explanation": "fondue se asocia con Suiza y con queso fundido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fondue"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

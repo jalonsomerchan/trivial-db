@@ -1,0 +1,43 @@
+{
+  "id": "q-012331",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué alimento pertenece al grupo hortaliza?",
+  "answers": [
+    {
+      "text": "manzana",
+      "correct": false
+    },
+    {
+      "text": "almendra",
+      "correct": false
+    },
+    {
+      "text": "zanahoria",
+      "correct": true
+    },
+    {
+      "text": "sardina",
+      "correct": false
+    }
+  ],
+  "explanation": "zanahoria pertenece al grupo hortaliza.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "hortaliza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

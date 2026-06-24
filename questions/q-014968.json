@@ -1,0 +1,42 @@
+{
+  "id": "q-014968",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como capacidad de transferencia?",
+  "answers": [
+    {
+      "text": "clave foránea",
+      "correct": false
+    },
+    {
+      "text": "normalización",
+      "correct": false
+    },
+    {
+      "text": "ancho de banda",
+      "correct": true
+    },
+    {
+      "text": "cache",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a ancho de banda.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "ancho-de-banda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

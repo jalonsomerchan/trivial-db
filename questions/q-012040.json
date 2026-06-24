@@ -1,0 +1,42 @@
+{
+  "id": "q-012040",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo leche, avellana, naranja y lentejas es un ejemplo de fruta?",
+  "answers": [
+    {
+      "text": "avellana",
+      "correct": false
+    },
+    {
+      "text": "naranja",
+      "correct": true
+    },
+    {
+      "text": "lentejas",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": false
+    }
+  ],
+  "explanation": "naranja es un ejemplo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

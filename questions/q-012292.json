@@ -1,0 +1,42 @@
+{
+  "id": "q-012292",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo ratatouille, poke, tzatziki y ceviche encaja con Francia y con el ingrediente verduras?",
+  "answers": [
+    {
+      "text": "ceviche",
+      "correct": false
+    },
+    {
+      "text": "ratatouille",
+      "correct": true
+    },
+    {
+      "text": "poke",
+      "correct": false
+    },
+    {
+      "text": "tzatziki",
+      "correct": false
+    }
+  ],
+  "explanation": "ratatouille se asocia con Francia y con verduras.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ratatouille"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

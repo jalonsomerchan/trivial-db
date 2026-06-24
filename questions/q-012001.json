@@ -1,0 +1,42 @@
+{
+  "id": "q-012001",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Wall·E”, “Toy Story”, “Psicosis” y “Buscando a Nemo” fue dirigida por Andrew Stanton?",
+  "answers": [
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    },
+    {
+      "text": "Wall·E",
+      "correct": true
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    }
+  ],
+  "explanation": "“Wall·E” se asocia con Andrew Stanton.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "andrew-stanton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

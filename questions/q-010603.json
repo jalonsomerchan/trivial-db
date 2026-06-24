@@ -1,0 +1,42 @@
+{
+  "id": "q-010603",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la unidad del Sistema Internacional para medir tensión eléctrica?",
+  "answers": [
+    {
+      "text": "lux",
+      "correct": false
+    },
+    {
+      "text": "gray",
+      "correct": false
+    },
+    {
+      "text": "voltio",
+      "correct": true
+    },
+    {
+      "text": "sievert",
+      "correct": false
+    }
+  ],
+  "explanation": "La unidad SI de tensión eléctrica es el voltio.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "tension-electrica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

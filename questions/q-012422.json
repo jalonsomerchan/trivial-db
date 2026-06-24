@@ -1,0 +1,42 @@
+{
+  "id": "q-012422",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo kimchi, baklava, pho y pad thai se prepara típicamente con frutos secos y masa filo?",
+  "answers": [
+    {
+      "text": "pad thai",
+      "correct": false
+    },
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "baklava",
+      "correct": true
+    }
+  ],
+  "explanation": "baklava se prepara típicamente con frutos secos y masa filo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "baklava"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

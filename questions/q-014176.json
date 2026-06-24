@@ -1,0 +1,41 @@
+{
+  "id": "q-014176",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "combinatoria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuántas combinaciones de 4 elementos pueden formarse a partir de 12 elementos distintos?",
+  "answers": [
+    {
+      "text": "507",
+      "correct": false
+    },
+    {
+      "text": "483",
+      "correct": false
+    },
+    {
+      "text": "495",
+      "correct": true
+    },
+    {
+      "text": "1980",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de combinaciones es C(12,4) = 495.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "combinaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

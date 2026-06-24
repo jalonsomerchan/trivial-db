@@ -1,0 +1,42 @@
+{
+  "id": "q-010838",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento argón?",
+  "answers": [
+    {
+      "text": "metal alcalinotérreo",
+      "correct": false
+    },
+    {
+      "text": "actínido",
+      "correct": false
+    },
+    {
+      "text": "metal",
+      "correct": false
+    },
+    {
+      "text": "gas noble",
+      "correct": true
+    }
+  ],
+  "explanation": "El argón se clasifica como gas noble.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "gas-noble"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

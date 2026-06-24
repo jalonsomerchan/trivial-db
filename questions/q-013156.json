@@ -1,0 +1,42 @@
+{
+  "id": "q-013156",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué siglo pertenece la concilio de Nicea?",
+  "answers": [
+    {
+      "text": "siglo XVII d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo IV d. C.",
+      "correct": true
+    },
+    {
+      "text": "siglo XX d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo V a. C.",
+      "correct": false
+    }
+  ],
+  "explanation": "La concilio de Nicea se sitúa en el siglo IV d. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

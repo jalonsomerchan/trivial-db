@@ -1,0 +1,42 @@
+{
+  "id": "q-014358",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "geometria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el área de un triángulo de base 24 cm y altura 14 cm?",
+  "answers": [
+    {
+      "text": "154 cm²",
+      "correct": false
+    },
+    {
+      "text": "192 cm²",
+      "correct": false
+    },
+    {
+      "text": "168 cm²",
+      "correct": true
+    },
+    {
+      "text": "336 cm²",
+      "correct": false
+    }
+  ],
+  "explanation": "El área del triángulo es base × altura / 2, es decir, 168 cm².",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "area",
+    "triangulos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

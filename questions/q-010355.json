@@ -1,0 +1,42 @@
+{
+  "id": "q-010355",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “Frankenstein”?",
+  "answers": [
+    {
+      "text": "novela existencialista",
+      "correct": false
+    },
+    {
+      "text": "epopeya",
+      "correct": false
+    },
+    {
+      "text": "relato",
+      "correct": false
+    },
+    {
+      "text": "novela gótica",
+      "correct": true
+    }
+  ],
+  "explanation": "“Frankenstein” se clasifica habitualmente como novela gótica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "novela-gotica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012319",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo tacos, moussaka, pizza napolitana y arepa encaja con México y con el ingrediente tortilla de maíz?",
+  "answers": [
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    },
+    {
+      "text": "pizza napolitana",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": true
+    }
+  ],
+  "explanation": "tacos se asocia con México y con tortilla de maíz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tacos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

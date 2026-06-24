@@ -1,0 +1,41 @@
+{
+  "id": "q-010575",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "easy",
+  "question": "¿A cuántos grados Fahrenheit equivalen 65 °C?",
+  "answers": [
+    {
+      "text": "149 °F",
+      "correct": true
+    },
+    {
+      "text": "139 °F",
+      "correct": false
+    },
+    {
+      "text": "159 °F",
+      "correct": false
+    },
+    {
+      "text": "97 °F",
+      "correct": false
+    }
+  ],
+  "explanation": "La conversión es °F = °C × 9/5 + 32, por lo que 65 °C son 149 °F.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "temperatura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012144",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato risotto?",
+  "answers": [
+    {
+      "text": "arroz",
+      "correct": true
+    },
+    {
+      "text": "carne y chile",
+      "correct": false
+    },
+    {
+      "text": "arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "frutos secos y masa filo",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de risotto es arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "risotto",
+    "arroz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

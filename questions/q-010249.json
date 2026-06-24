@@ -1,0 +1,42 @@
+{
+  "id": "q-010249",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La creación de Adán”, “La escuela de Atenas”, “La ronda de noche” y “El tres de mayo de 1808” pertenece al Renacimiento?",
+  "answers": [
+    {
+      "text": "El tres de mayo de 1808",
+      "correct": false
+    },
+    {
+      "text": "La creación de Adán",
+      "correct": true
+    },
+    {
+      "text": "La ronda de noche",
+      "correct": false
+    },
+    {
+      "text": "La escuela de Atenas",
+      "correct": false
+    }
+  ],
+  "explanation": "“La creación de Adán” se vincula con Renacimiento.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

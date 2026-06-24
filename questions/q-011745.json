@@ -1,0 +1,42 @@
+{
+  "id": "q-011745",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Minecraft”, “Metal Gear Solid”, “Tomb Raider” y “The Last of Us” encaja con Steve y el género sandbox?",
+  "answers": [
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": true
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": false
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    }
+  ],
+  "explanation": "Steve se asocia con “Minecraft”, que se describe como sandbox.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "minecraft"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

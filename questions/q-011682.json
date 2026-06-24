@@ -1,0 +1,42 @@
+{
+  "id": "q-011682",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de James Cameron encaja con el género ciencia ficción?",
+  "answers": [
+    {
+      "text": "Toy Story",
+      "correct": false
+    },
+    {
+      "text": "Parásitos",
+      "correct": false
+    },
+    {
+      "text": "Avatar",
+      "correct": true
+    },
+    {
+      "text": "Origen",
+      "correct": false
+    }
+  ],
+  "explanation": "“Avatar” fue dirigida por James Cameron y se asocia con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "james-cameron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-010025",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “La joven de la perla”?",
+  "answers": [
+    {
+      "text": "Gustav Klimt",
+      "correct": false
+    },
+    {
+      "text": "Johannes Vermeer",
+      "correct": true
+    },
+    {
+      "text": "Diego Velázquez",
+      "correct": false
+    },
+    {
+      "text": "Pablo Picasso",
+      "correct": false
+    }
+  ],
+  "explanation": "“La joven de la perla” es una obra de Johannes Vermeer.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "johannes-vermeer",
+    "la-joven-de-la-perla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

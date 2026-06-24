@@ -1,0 +1,42 @@
+{
+  "id": "q-012195",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia México con aguacate?",
+  "answers": [
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "salmorejo",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": true
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es guacamole.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "guacamole"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

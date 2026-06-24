@@ -1,0 +1,42 @@
+{
+  "id": "q-011744",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Minecraft”, “Halo”, “Metroid” y “Final Fantasy VII” encaja con Samus Aran y el género acción y exploración?",
+  "answers": [
+    {
+      "text": "Halo",
+      "correct": false
+    },
+    {
+      "text": "Metroid",
+      "correct": true
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": false
+    }
+  ],
+  "explanation": "Samus Aran se asocia con “Metroid”, que se describe como acción y exploración.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metroid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

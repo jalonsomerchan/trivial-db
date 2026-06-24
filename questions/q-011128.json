@@ -1,0 +1,42 @@
+{
+  "id": "q-011128",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "baloncesto"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué franquicia de la NBA se asocia con la ciudad de Filadelfia?",
+  "answers": [
+    {
+      "text": "Philadelphia 76ers",
+      "correct": true
+    },
+    {
+      "text": "Chicago Bulls",
+      "correct": false
+    },
+    {
+      "text": "Dallas Mavericks",
+      "correct": false
+    },
+    {
+      "text": "Denver Nuggets",
+      "correct": false
+    }
+  ],
+  "explanation": "Philadelphia 76ers es una franquicia asociada con Filadelfia.",
+  "sources": [
+    {
+      "title": "NBA",
+      "url": "https://www.nba.com/"
+    }
+  ],
+  "tags": [
+    "nba",
+    "philadelphia-76ers"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

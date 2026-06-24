@@ -1,0 +1,42 @@
+{
+  "id": "q-010303",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Las meninas”, “La persistencia de la memoria”, “La noche estrellada” y “La creación de Adán” pertenece al Surrealismo?",
+  "answers": [
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "La persistencia de la memoria",
+      "correct": true
+    },
+    {
+      "text": "La creación de Adán",
+      "correct": false
+    },
+    {
+      "text": "Las meninas",
+      "correct": false
+    }
+  ],
+  "explanation": "“La persistencia de la memoria” se vincula con Surrealismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "surrealismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

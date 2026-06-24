@@ -1,0 +1,42 @@
+{
+  "id": "q-012410",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo fondue, pierogi, gazpacho y falafel se prepara típicamente con garbanzos?",
+  "answers": [
+    {
+      "text": "pierogi",
+      "correct": false
+    },
+    {
+      "text": "gazpacho",
+      "correct": false
+    },
+    {
+      "text": "falafel",
+      "correct": true
+    },
+    {
+      "text": "fondue",
+      "correct": false
+    }
+  ],
+  "explanation": "falafel se prepara típicamente con garbanzos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "falafel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

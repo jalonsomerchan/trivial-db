@@ -1,0 +1,42 @@
+{
+  "id": "q-012257",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo kimchi, poke, satay y poutine encaja con Indonesia y con el ingrediente brochetas con salsa de cacahuete?",
+  "answers": [
+    {
+      "text": "poke",
+      "correct": false
+    },
+    {
+      "text": "satay",
+      "correct": true
+    },
+    {
+      "text": "poutine",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    }
+  ],
+  "explanation": "satay se asocia con Indonesia y con brochetas con salsa de cacahuete.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "satay"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

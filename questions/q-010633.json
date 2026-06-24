@@ -1,0 +1,42 @@
+{
+  "id": "q-010633",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico representa el símbolo Zn?",
+  "answers": [
+    {
+      "text": "plata",
+      "correct": false
+    },
+    {
+      "text": "cloro",
+      "correct": false
+    },
+    {
+      "text": "nitrógeno",
+      "correct": false
+    },
+    {
+      "text": "zinc",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico Zn representa al zinc.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "zinc"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

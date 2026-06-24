@@ -1,0 +1,42 @@
+{
+  "id": "q-010711",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud física se mide en lumen?",
+  "answers": [
+    {
+      "text": "flujo luminoso",
+      "correct": true
+    },
+    {
+      "text": "carga eléctrica",
+      "correct": false
+    },
+    {
+      "text": "resistencia eléctrica",
+      "correct": false
+    },
+    {
+      "text": "tensión eléctrica",
+      "correct": false
+    }
+  ],
+  "explanation": "El lumen es la unidad del Sistema Internacional para flujo luminoso.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "lumen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010351",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “El Aleph”?",
+  "answers": [
+    {
+      "text": "novela existencialista",
+      "correct": false
+    },
+    {
+      "text": "tragedia",
+      "correct": false
+    },
+    {
+      "text": "sátira política",
+      "correct": false
+    },
+    {
+      "text": "cuento",
+      "correct": true
+    }
+  ],
+  "explanation": "“El Aleph” se clasifica habitualmente como cuento.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "cuento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-014643",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla SQL en informática?",
+  "answers": [
+    {
+      "text": "Central Processing Unit",
+      "correct": false
+    },
+    {
+      "text": "Transport Layer Security",
+      "correct": false
+    },
+    {
+      "text": "Cascading Style Sheets",
+      "correct": false
+    },
+    {
+      "text": "Structured Query Language",
+      "correct": true
+    }
+  ],
+  "explanation": "En informática, SQL significa Structured Query Language.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "sql"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010229",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Guernica”, “La escuela de Atenas”, “La última cena” y “Number 1A, 1948” pertenece al Cubismo?",
+  "answers": [
+    {
+      "text": "La última cena",
+      "correct": false
+    },
+    {
+      "text": "Guernica",
+      "correct": true
+    },
+    {
+      "text": "La escuela de Atenas",
+      "correct": false
+    },
+    {
+      "text": "Number 1A, 1948",
+      "correct": false
+    }
+  ],
+  "explanation": "“Guernica” se vincula con Cubismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "cubismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

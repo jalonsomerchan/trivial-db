@@ -1,0 +1,42 @@
+{
+  "id": "q-013555",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “cántaro”, “página”, “colibrí” y “dígamelo” es sobresdrújula?",
+  "answers": [
+    {
+      "text": "colibrí",
+      "correct": false
+    },
+    {
+      "text": "cántaro",
+      "correct": false
+    },
+    {
+      "text": "página",
+      "correct": false
+    },
+    {
+      "text": "dígamelo",
+      "correct": true
+    }
+  ],
+  "explanation": "“dígamelo” es una palabra sobresdrújula.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "sobresdrujula"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

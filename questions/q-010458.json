@@ -1,0 +1,42 @@
+{
+  "id": "q-010458",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Madame Bovary”, “Rebelión en la granja”, “Ficciones” y “La metamorfosis” fue escrita por Jorge Luis Borges?",
+  "answers": [
+    {
+      "text": "Madame Bovary",
+      "correct": false
+    },
+    {
+      "text": "Rebelión en la granja",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "Ficciones",
+      "correct": true
+    }
+  ],
+  "explanation": "“Ficciones” fue escrita por Jorge Luis Borges.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "jorge-luis-borges"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

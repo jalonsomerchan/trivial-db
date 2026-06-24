@@ -1,0 +1,41 @@
+{
+  "id": "q-014177",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "combinatoria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuántas combinaciones de 4 elementos pueden formarse a partir de 13 elementos distintos?",
+  "answers": [
+    {
+      "text": "2860",
+      "correct": false
+    },
+    {
+      "text": "728",
+      "correct": false
+    },
+    {
+      "text": "702",
+      "correct": false
+    },
+    {
+      "text": "715",
+      "correct": true
+    }
+  ],
+  "explanation": "El número de combinaciones es C(13,4) = 715.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "combinaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

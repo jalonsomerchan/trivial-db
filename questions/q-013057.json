@@ -1,0 +1,42 @@
+{
+  "id": "q-013057",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué hecho ocurrió antes entre batalla de Salamina, unificación de Italia, disolución de la Unión Soviética y crack bursátil de Wall Street?",
+  "answers": [
+    {
+      "text": "unificación de Italia",
+      "correct": false
+    },
+    {
+      "text": "crack bursátil de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, batalla de Salamina es el hecho más antiguo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

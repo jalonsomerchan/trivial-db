@@ -1,0 +1,42 @@
+{
+  "id": "q-012398",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo croissant, risotto, borsch y guacamole se prepara típicamente con arroz?",
+  "answers": [
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": true
+    }
+  ],
+  "explanation": "risotto se prepara típicamente con arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "risotto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

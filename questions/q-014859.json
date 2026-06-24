@@ -1,0 +1,41 @@
+{
+  "id": "q-014859",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 188 en sistema binario?",
+  "answers": [
+    {
+      "text": "10111100",
+      "correct": true
+    },
+    {
+      "text": "10111110",
+      "correct": false
+    },
+    {
+      "text": "10111101",
+      "correct": false
+    },
+    {
+      "text": "10111011",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 188 es 10111100.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

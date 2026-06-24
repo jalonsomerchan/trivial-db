@@ -1,0 +1,41 @@
+{
+  "id": "q-010574",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "easy",
+  "question": "¿A cuántos grados Fahrenheit equivalen 64 °C?",
+  "answers": [
+    {
+      "text": "147 °F",
+      "correct": true
+    },
+    {
+      "text": "137 °F",
+      "correct": false
+    },
+    {
+      "text": "157 °F",
+      "correct": false
+    },
+    {
+      "text": "96 °F",
+      "correct": false
+    }
+  ],
+  "explanation": "La conversión es °F = °C × 9/5 + 32, por lo que 64 °C son 147 °F.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "temperatura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

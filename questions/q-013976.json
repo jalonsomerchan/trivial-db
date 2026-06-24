@@ -1,0 +1,42 @@
+{
+  "id": "q-013976",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra se opone semánticamente a “escaso”?",
+  "answers": [
+    {
+      "text": "altruista",
+      "correct": false
+    },
+    {
+      "text": "benévolo",
+      "correct": false
+    },
+    {
+      "text": "audaz",
+      "correct": false
+    },
+    {
+      "text": "abundante",
+      "correct": true
+    }
+  ],
+  "explanation": "“abundante” y “escaso” son antónimos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "abundante"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012393",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo chili con carne, pierogi, gazpacho y shakshuka se prepara típicamente con masa rellena?",
+  "answers": [
+    {
+      "text": "gazpacho",
+      "correct": false
+    },
+    {
+      "text": "chili con carne",
+      "correct": false
+    },
+    {
+      "text": "shakshuka",
+      "correct": false
+    },
+    {
+      "text": "pierogi",
+      "correct": true
+    }
+  ],
+  "explanation": "pierogi se prepara típicamente con masa rellena.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pierogi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

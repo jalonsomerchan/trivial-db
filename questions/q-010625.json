@@ -1,0 +1,42 @@
+{
+  "id": "q-010625",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico representa el símbolo Ne?",
+  "answers": [
+    {
+      "text": "carbono",
+      "correct": false
+    },
+    {
+      "text": "neón",
+      "correct": true
+    },
+    {
+      "text": "hierro",
+      "correct": false
+    },
+    {
+      "text": "calcio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Ne representa al neón.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "neon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

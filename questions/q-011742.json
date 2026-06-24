@@ -1,0 +1,42 @@
+{
+  "id": "q-011742",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Metroid”, “The Legend of Zelda”, “Minecraft” y “Mega Man” encaja con Steve y el género sandbox?",
+  "answers": [
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    },
+    {
+      "text": "Metroid",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": true
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    }
+  ],
+  "explanation": "Steve se asocia con “Minecraft”, que se describe como sandbox.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "minecraft"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-010809",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué velocidad tiene una onda de longitud 2 m y frecuencia 30 Hz?",
+  "answers": [
+    {
+      "text": "32 m/s",
+      "correct": false
+    },
+    {
+      "text": "62 m/s",
+      "correct": false
+    },
+    {
+      "text": "90 m/s",
+      "correct": false
+    },
+    {
+      "text": "60 m/s",
+      "correct": true
+    }
+  ],
+  "explanation": "La velocidad de una onda es longitud de onda por frecuencia: 2 × 30 = 60 m/s.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "ondas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

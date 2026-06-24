@@ -1,0 +1,42 @@
+{
+  "id": "q-013672",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento morfológico destaca en la palabra “reescribir”?",
+  "answers": [
+    {
+      "text": "sufijo diminutivo -ita",
+      "correct": false
+    },
+    {
+      "text": "prefijo re-",
+      "correct": true
+    },
+    {
+      "text": "sufijo aumentativo -ote",
+      "correct": false
+    },
+    {
+      "text": "prefijo anti-",
+      "correct": false
+    }
+  ],
+  "explanation": "En “reescribir” destaca prefijo re-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "reescribir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

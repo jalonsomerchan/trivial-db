@@ -1,0 +1,42 @@
+{
+  "id": "q-010198",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Campbell’s Soup Cans”, “Los girasoles”, “El tres de mayo de 1808” y “La noche estrellada” pertenece al Pop art?",
+  "answers": [
+    {
+      "text": "El tres de mayo de 1808",
+      "correct": false
+    },
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": true
+    },
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "Los girasoles",
+      "correct": false
+    }
+  ],
+  "explanation": "“Campbell’s Soup Cans” se vincula con Pop art.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pop-art"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

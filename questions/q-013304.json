@@ -1,0 +1,42 @@
+{
+  "id": "q-013304",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la primera vuelta al mundo completada por Elcano?",
+  "answers": [
+    {
+      "text": "Milán",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Babilonia",
+      "correct": false
+    },
+    {
+      "text": "Sanlúcar de Barrameda",
+      "correct": true
+    }
+  ],
+  "explanation": "La primera vuelta al mundo completada por Elcano se asocia directamente con Sanlúcar de Barrameda.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "sanlucar-de-barrameda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011969",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Psicosis”, “Buscando a Nemo”, “Toy Story” y “Jurassic Park” fue dirigida por John Lasseter?",
+  "answers": [
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": true
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    },
+    {
+      "text": "Jurassic Park",
+      "correct": false
+    }
+  ],
+  "explanation": "“Toy Story” se asocia con John Lasseter.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "john-lasseter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

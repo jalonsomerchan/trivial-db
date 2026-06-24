@@ -1,0 +1,42 @@
+{
+  "id": "q-013523",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “azul”, “compás”, “página” y “césped” es esdrújula?",
+  "answers": [
+    {
+      "text": "página",
+      "correct": true
+    },
+    {
+      "text": "azul",
+      "correct": false
+    },
+    {
+      "text": "césped",
+      "correct": false
+    },
+    {
+      "text": "compás",
+      "correct": false
+    }
+  ],
+  "explanation": "“página” es una palabra esdrújula.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "esdrujula"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

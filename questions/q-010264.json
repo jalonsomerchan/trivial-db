@@ -1,0 +1,42 @@
+{
+  "id": "q-010264",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La joven de la perla”, “La escuela de Atenas”, “La persistencia de la memoria” y “La creación de Adán” pertenece al Renacimiento?",
+  "answers": [
+    {
+      "text": "La escuela de Atenas",
+      "correct": true
+    },
+    {
+      "text": "La joven de la perla",
+      "correct": false
+    },
+    {
+      "text": "La creación de Adán",
+      "correct": false
+    },
+    {
+      "text": "La persistencia de la memoria",
+      "correct": false
+    }
+  ],
+  "explanation": "“La escuela de Atenas” se vincula con Renacimiento.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

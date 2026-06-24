@@ -1,0 +1,41 @@
+{
+  "id": "q-014497",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 75% de 200?",
+  "answers": [
+    {
+      "text": "160",
+      "correct": false
+    },
+    {
+      "text": "140",
+      "correct": false
+    },
+    {
+      "text": "155",
+      "correct": false
+    },
+    {
+      "text": "150",
+      "correct": true
+    }
+  ],
+  "explanation": "El 75% de 200 se calcula como 200 × 75/100 = 150.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

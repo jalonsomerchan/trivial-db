@@ -1,0 +1,41 @@
+{
+  "id": "q-013858",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “bondadoso”, “antivirus”, “grandote” y “casita” contiene sufijo -oso?",
+  "answers": [
+    {
+      "text": "bondadoso",
+      "correct": true
+    },
+    {
+      "text": "casita",
+      "correct": false
+    },
+    {
+      "text": "grandote",
+      "correct": false
+    },
+    {
+      "text": "antivirus",
+      "correct": false
+    }
+  ],
+  "explanation": "“bondadoso” contiene sufijo -oso.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

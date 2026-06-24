@@ -1,0 +1,41 @@
+{
+  "id": "q-010719",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué molaridad tiene una disolución con 10 mol en 1 L?",
+  "answers": [
+    {
+      "text": "11 M",
+      "correct": false
+    },
+    {
+      "text": "otra opción relacionada",
+      "correct": false
+    },
+    {
+      "text": "9 M",
+      "correct": false
+    },
+    {
+      "text": "10 M",
+      "correct": true
+    }
+  ],
+  "explanation": "La molaridad es moles entre litros: 10/1 = 10 M.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "molaridad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

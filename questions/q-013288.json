@@ -1,0 +1,42 @@
+{
+  "id": "q-013288",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la disolución de la Unión Soviética?",
+  "answers": [
+    {
+      "text": "Grecia",
+      "correct": false
+    },
+    {
+      "text": "Nicea",
+      "correct": false
+    },
+    {
+      "text": "Eurasia",
+      "correct": true
+    },
+    {
+      "text": "costa de Cádiz",
+      "correct": false
+    }
+  ],
+  "explanation": "La disolución de la Unión Soviética se asocia directamente con Eurasia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "eurasia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

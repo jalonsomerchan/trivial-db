@@ -1,0 +1,42 @@
+{
+  "id": "q-013787",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Menos es más” dentro del grupo de ejemplos “Las nieves del tiempo platearon su sien”, “Menos es más”, “Te lo he dicho mil veces” y “Vivo sin vivir en mí”?",
+  "answers": [
+    {
+      "text": "paradoja",
+      "correct": true
+    },
+    {
+      "text": "personificación",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “Menos es más” contiene paradoja.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "paradoja"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

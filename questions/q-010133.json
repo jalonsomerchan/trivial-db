@@ -1,0 +1,42 @@
+{
+  "id": "q-010133",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “Rayuela” frente a la referencia “La Divina Comedia”?",
+  "answers": [
+    {
+      "text": "Franz Kafka",
+      "correct": false
+    },
+    {
+      "text": "Julio Cortázar",
+      "correct": true
+    },
+    {
+      "text": "León Tolstói",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Cervantes",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “Rayuela” pertenece a Julio Cortázar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "julio-cortazar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

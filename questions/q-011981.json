@@ -1,0 +1,42 @@
+{
+  "id": "q-011981",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Roma”, “Parásitos”, “Avatar” y “Alien” fue dirigida por Alfonso Cuarón?",
+  "answers": [
+    {
+      "text": "Parásitos",
+      "correct": false
+    },
+    {
+      "text": "Alien",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": true
+    },
+    {
+      "text": "Avatar",
+      "correct": false
+    }
+  ],
+  "explanation": "“Roma” se asocia con Alfonso Cuarón.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfonso-cuaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

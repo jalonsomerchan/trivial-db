@@ -1,0 +1,42 @@
+{
+  "id": "q-013060",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué hecho ocurrió antes entre batalla de Trafalgar, revoluciones europeas de 1848, independencia de Estados Unidos y ampliación de la Unión Europea de 2004?",
+  "answers": [
+    {
+      "text": "ampliación de la Unión Europea de 2004",
+      "correct": false
+    },
+    {
+      "text": "batalla de Trafalgar",
+      "correct": false
+    },
+    {
+      "text": "independencia de Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "revoluciones europeas de 1848",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, independencia de Estados Unidos es el hecho más antiguo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

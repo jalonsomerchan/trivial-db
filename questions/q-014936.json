@@ -1,0 +1,41 @@
+{
+  "id": "q-014936",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 454 en sistema binario?",
+  "answers": [
+    {
+      "text": "111000110",
+      "correct": true
+    },
+    {
+      "text": "111000101",
+      "correct": false
+    },
+    {
+      "text": "111001000",
+      "correct": false
+    },
+    {
+      "text": "111000111",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 454 es 111000110.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

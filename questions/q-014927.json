@@ -1,0 +1,41 @@
+{
+  "id": "q-014927",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 432 en sistema binario?",
+  "answers": [
+    {
+      "text": "110110010",
+      "correct": false
+    },
+    {
+      "text": "110101111",
+      "correct": false
+    },
+    {
+      "text": "110110001",
+      "correct": false
+    },
+    {
+      "text": "110110000",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 432 es 110110000.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

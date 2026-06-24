@@ -1,0 +1,41 @@
+{
+  "id": "q-014847",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 155 en sistema binario?",
+  "answers": [
+    {
+      "text": "10011100",
+      "correct": false
+    },
+    {
+      "text": "10011010",
+      "correct": false
+    },
+    {
+      "text": "10011011",
+      "correct": true
+    },
+    {
+      "text": "10011101",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 155 es 10011011.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014256",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 3x + 85 = 193?",
+  "answers": [
+    {
+      "text": "37",
+      "correct": false
+    },
+    {
+      "text": "39",
+      "correct": false
+    },
+    {
+      "text": "35",
+      "correct": false
+    },
+    {
+      "text": "36",
+      "correct": true
+    }
+  ],
+  "explanation": "Restando 85 y dividiendo entre 3, se obtiene x = 36.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

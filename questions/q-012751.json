@@ -1,0 +1,42 @@
+{
+  "id": "q-012751",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Bielorrusia?",
+  "answers": [
+    {
+      "text": "Eastern Europe",
+      "correct": true
+    },
+    {
+      "text": "Northern Europe",
+      "correct": false
+    },
+    {
+      "text": "Western Europe",
+      "correct": false
+    },
+    {
+      "text": "Eastern Africa",
+      "correct": false
+    }
+  ],
+  "explanation": "Bielorrusia pertenece a la subregión Eastern Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

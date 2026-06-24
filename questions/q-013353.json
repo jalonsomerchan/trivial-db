@@ -1,0 +1,42 @@
+{
+  "id": "q-013353",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la caída de Constantinopla?",
+  "answers": [
+    {
+      "text": "Gran Depresión",
+      "correct": false
+    },
+    {
+      "text": "Imperio bizantino",
+      "correct": true
+    },
+    {
+      "text": "monarquía parlamentaria",
+      "correct": false
+    },
+    {
+      "text": "conflictos mediterráneos",
+      "correct": false
+    }
+  ],
+  "explanation": "La caída de Constantinopla se relaciona con Imperio bizantino.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "imperio-bizantino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

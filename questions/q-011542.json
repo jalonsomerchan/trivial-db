@@ -1,0 +1,43 @@
+{
+  "id": "q-011542",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con “Metal Gear Solid”?",
+  "answers": [
+    {
+      "text": "Master Chief",
+      "correct": false
+    },
+    {
+      "text": "Jill Valentine",
+      "correct": false
+    },
+    {
+      "text": "Solid Snake",
+      "correct": true
+    },
+    {
+      "text": "Gordon Freeman",
+      "correct": false
+    }
+  ],
+  "explanation": "Solid Snake es un personaje asociado con “Metal Gear Solid”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metal-gear-solid",
+    "solid-snake"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

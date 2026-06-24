@@ -1,0 +1,41 @@
+{
+  "id": "q-014195",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 10x + 61 = 501?",
+  "answers": [
+    {
+      "text": "43",
+      "correct": false
+    },
+    {
+      "text": "45",
+      "correct": false
+    },
+    {
+      "text": "44",
+      "correct": true
+    },
+    {
+      "text": "47",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 61 y dividiendo entre 10, se obtiene x = 44.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

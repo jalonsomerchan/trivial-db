@@ -1,0 +1,41 @@
+{
+  "id": "q-010505",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "easy",
+  "question": "¿A cuántos grados Fahrenheit equivalen -12 °C?",
+  "answers": [
+    {
+      "text": "10 °F",
+      "correct": true
+    },
+    {
+      "text": "20 °F",
+      "correct": false
+    },
+    {
+      "text": "0 °F",
+      "correct": false
+    },
+    {
+      "text": "otra opción relacionada",
+      "correct": false
+    }
+  ],
+  "explanation": "La conversión es °F = °C × 9/5 + 32, por lo que -12 °C son 10 °F.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "temperatura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

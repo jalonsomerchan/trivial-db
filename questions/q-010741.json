@@ -1,0 +1,41 @@
+{
+  "id": "q-010741",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué molaridad tiene una disolución con 60 mol en 5 L?",
+  "answers": [
+    {
+      "text": "11 M",
+      "correct": false
+    },
+    {
+      "text": "12 M",
+      "correct": true
+    },
+    {
+      "text": "13 M",
+      "correct": false
+    },
+    {
+      "text": "65 M",
+      "correct": false
+    }
+  ],
+  "explanation": "La molaridad es moles entre litros: 60/5 = 12 M.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "molaridad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

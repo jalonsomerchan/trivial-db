@@ -1,0 +1,42 @@
+{
+  "id": "q-012306",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo shakshuka, pad thai, ceviche y falafel encaja con Norte de África y Oriente Medio y con el ingrediente huevos en salsa de tomate?",
+  "answers": [
+    {
+      "text": "ceviche",
+      "correct": false
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    },
+    {
+      "text": "shakshuka",
+      "correct": true
+    },
+    {
+      "text": "pad thai",
+      "correct": false
+    }
+  ],
+  "explanation": "shakshuka se asocia con Norte de África y Oriente Medio y con huevos en salsa de tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "shakshuka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

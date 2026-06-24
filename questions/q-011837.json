@@ -1,0 +1,42 @@
+{
+  "id": "q-011837",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estilo musical se asocia con “Nevermind”?",
+  "answers": [
+    {
+      "text": "flamenco pop",
+      "correct": false
+    },
+    {
+      "text": "jazz",
+      "correct": false
+    },
+    {
+      "text": "rock progresivo",
+      "correct": false
+    },
+    {
+      "text": "grunge",
+      "correct": true
+    }
+  ],
+  "explanation": "“Nevermind” se asocia con grunge.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "grunge"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

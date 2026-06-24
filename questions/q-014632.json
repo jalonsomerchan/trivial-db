@@ -1,0 +1,43 @@
+{
+  "id": "q-014632",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla API en informática?",
+  "answers": [
+    {
+      "text": "Application Programming Interface",
+      "correct": true
+    },
+    {
+      "text": "Random Access Memory",
+      "correct": false
+    },
+    {
+      "text": "Internet Message Access Protocol",
+      "correct": false
+    },
+    {
+      "text": "Virtual Private Network",
+      "correct": false
+    }
+  ],
+  "explanation": "En informática, API significa Application Programming Interface.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "api"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

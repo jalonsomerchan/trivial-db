@@ -1,0 +1,42 @@
+{
+  "id": "q-013645",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra es antónima de “fructífero”?",
+  "answers": [
+    {
+      "text": "pobre",
+      "correct": false
+    },
+    {
+      "text": "sencillo",
+      "correct": false
+    },
+    {
+      "text": "estéril",
+      "correct": true
+    },
+    {
+      "text": "implícito",
+      "correct": false
+    }
+  ],
+  "explanation": "“estéril” es antónimo de “fructífero”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "fructifero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

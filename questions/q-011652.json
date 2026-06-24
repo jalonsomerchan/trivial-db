@@ -1,0 +1,43 @@
+{
+  "id": "q-011652",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “Final Fantasy VII”?",
+  "answers": [
+    {
+      "text": "sigilo",
+      "correct": false
+    },
+    {
+      "text": "plataformas",
+      "correct": false
+    },
+    {
+      "text": "rol",
+      "correct": true
+    },
+    {
+      "text": "arcade",
+      "correct": false
+    }
+  ],
+  "explanation": "“Final Fantasy VII” se describe habitualmente como rol.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "final-fantasy-vii",
+    "rol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

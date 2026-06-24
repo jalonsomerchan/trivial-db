@@ -1,0 +1,43 @@
+{
+  "id": "q-012983",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Sahara Occidental?",
+  "answers": [
+    {
+      "text": ".si",
+      "correct": false
+    },
+    {
+      "text": ".gu",
+      "correct": false
+    },
+    {
+      "text": ".in",
+      "correct": false
+    },
+    {
+      "text": ".eh",
+      "correct": true
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Sahara Occidental es .eh.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "sahara-occidental"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013550",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “cuéntamelo”, “dígamelo”, “página” y “volumen” es sobresdrújula?",
+  "answers": [
+    {
+      "text": "dígamelo",
+      "correct": true
+    },
+    {
+      "text": "volumen",
+      "correct": false
+    },
+    {
+      "text": "cuéntamelo",
+      "correct": false
+    },
+    {
+      "text": "página",
+      "correct": false
+    }
+  ],
+  "explanation": "“dígamelo” es una palabra sobresdrújula.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "sobresdrujula"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

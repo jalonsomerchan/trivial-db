@@ -1,0 +1,42 @@
+{
+  "id": "q-013265",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la unificación de Italia frente a la referencia histórica de la fundación de la ONU?",
+  "answers": [
+    {
+      "text": "década de 1880",
+      "correct": false
+    },
+    {
+      "text": "década de 1870",
+      "correct": false
+    },
+    {
+      "text": "década de 1860",
+      "correct": true
+    },
+    {
+      "text": "década de 1850",
+      "correct": false
+    }
+  ],
+  "explanation": "La unificación de Italia ocurrió en 1861, dentro de la década de 1860.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

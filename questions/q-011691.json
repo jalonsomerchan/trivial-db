@@ -1,0 +1,42 @@
+{
+  "id": "q-011691",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Steven Spielberg encaja con el género aventura?",
+  "answers": [
+    {
+      "text": "Jurassic Park",
+      "correct": true
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    }
+  ],
+  "explanation": "“Jurassic Park” fue dirigida por Steven Spielberg y se asocia con aventura.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "steven-spielberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

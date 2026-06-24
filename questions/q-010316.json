@@ -1,0 +1,42 @@
+{
+  "id": "q-010316",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Number 1A, 1948”, “Las señoritas de Avignon”, “Impresión, sol naciente” y “Los girasoles” pertenece al Postimpresionismo?",
+  "answers": [
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": false
+    },
+    {
+      "text": "Number 1A, 1948",
+      "correct": false
+    },
+    {
+      "text": "Los girasoles",
+      "correct": true
+    },
+    {
+      "text": "Impresión, sol naciente",
+      "correct": false
+    }
+  ],
+  "explanation": "“Los girasoles” se vincula con Postimpresionismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "postimpresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

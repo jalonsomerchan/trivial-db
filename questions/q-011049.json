@@ -1,0 +1,42 @@
+{
+  "id": "q-011049",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué deporte del grupo balonmano, béisbol, fútbol sala y voleibol utiliza balón y puntúa con punto?",
+  "answers": [
+    {
+      "text": "fútbol sala",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "balonmano",
+      "correct": false
+    },
+    {
+      "text": "voleibol",
+      "correct": true
+    }
+  ],
+  "explanation": "voleibol utiliza balón y una acción de puntuación habitual es punto.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "voleibol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

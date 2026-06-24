@@ -1,0 +1,42 @@
+{
+  "id": "q-014966",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como aislamiento de una aplicación y sus dependencias?",
+  "answers": [
+    {
+      "text": "máquina virtual",
+      "correct": false
+    },
+    {
+      "text": "contenedor",
+      "correct": true
+    },
+    {
+      "text": "latencia",
+      "correct": false
+    },
+    {
+      "text": "cache",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a contenedor.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "contenedor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

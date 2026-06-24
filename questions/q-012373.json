@@ -1,0 +1,42 @@
+{
+  "id": "q-012373",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo arepa, risotto, pad thai y laksa se prepara típicamente con fideos y caldo especiado?",
+  "answers": [
+    {
+      "text": "laksa",
+      "correct": true
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "pad thai",
+      "correct": false
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    }
+  ],
+  "explanation": "laksa se prepara típicamente con fideos y caldo especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "laksa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

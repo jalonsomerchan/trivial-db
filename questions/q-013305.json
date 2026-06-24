@@ -1,0 +1,42 @@
+{
+  "id": "q-013305",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la publicación de las 95 tesis de Lutero?",
+  "answers": [
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Sanlúcar de Barrameda",
+      "correct": false
+    },
+    {
+      "text": "Wittenberg",
+      "correct": true
+    },
+    {
+      "text": "península itálica",
+      "correct": false
+    }
+  ],
+  "explanation": "La publicación de las 95 tesis de Lutero se asocia directamente con Wittenberg.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "wittenberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

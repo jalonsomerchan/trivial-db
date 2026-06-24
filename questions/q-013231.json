@@ -1,0 +1,42 @@
+{
+  "id": "q-013231",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la inicio de la Segunda Guerra Púnica frente a la referencia histórica de la revoluciones europeas de 1848?",
+  "answers": [
+    {
+      "text": "década de -210",
+      "correct": true
+    },
+    {
+      "text": "década de -220",
+      "correct": false
+    },
+    {
+      "text": "década de -200",
+      "correct": false
+    },
+    {
+      "text": "década de -190",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Segunda Guerra Púnica ocurrió en -218, dentro de la década de -210.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

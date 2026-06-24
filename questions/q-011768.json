@@ -1,0 +1,42 @@
+{
+  "id": "q-011768",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Resident Evil”, “The Witcher 3”, “Sonic the Hedgehog” y “Mortal Kombat” encaja con Scorpion y el género lucha?",
+  "answers": [
+    {
+      "text": "The Witcher 3",
+      "correct": false
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": true
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    }
+  ],
+  "explanation": "Scorpion se asocia con “Mortal Kombat”, que se describe como lucha.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mortal-kombat"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

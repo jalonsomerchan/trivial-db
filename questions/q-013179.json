@@ -1,0 +1,42 @@
+{
+  "id": "q-013179",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la batalla de Hastings frente a la referencia histórica de la batalla de Trafalgar?",
+  "answers": [
+    {
+      "text": "década de 1070",
+      "correct": false
+    },
+    {
+      "text": "década de 1050",
+      "correct": false
+    },
+    {
+      "text": "década de 1060",
+      "correct": true
+    },
+    {
+      "text": "década de 1080",
+      "correct": false
+    }
+  ],
+  "explanation": "La batalla de Hastings ocurrió en 1066, dentro de la década de 1060.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

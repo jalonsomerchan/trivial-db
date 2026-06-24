@@ -1,0 +1,42 @@
+{
+  "id": "q-011431",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué término de esgrima aparece entre eagle, icing, florete y fuera de juego?",
+  "answers": [
+    {
+      "text": "eagle",
+      "correct": false
+    },
+    {
+      "text": "fuera de juego",
+      "correct": false
+    },
+    {
+      "text": "florete",
+      "correct": true
+    },
+    {
+      "text": "icing",
+      "correct": false
+    }
+  ],
+  "explanation": "“florete” es un término usado en esgrima.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "esgrima"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013382",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la unificación alemana?",
+  "answers": [
+    {
+      "text": "rivalidad anglo-española",
+      "correct": false
+    },
+    {
+      "text": "nacionalismo alemán",
+      "correct": true
+    },
+    {
+      "text": "economía contemporánea",
+      "correct": false
+    },
+    {
+      "text": "Imperio carolingio",
+      "correct": false
+    }
+  ],
+  "explanation": "La unificación alemana se relaciona con nacionalismo alemán.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "nacionalismo-aleman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

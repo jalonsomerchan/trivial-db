@@ -1,0 +1,41 @@
+{
+  "id": "q-014201",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 11x + 26 = 411?",
+  "answers": [
+    {
+      "text": "38",
+      "correct": false
+    },
+    {
+      "text": "36",
+      "correct": false
+    },
+    {
+      "text": "35",
+      "correct": true
+    },
+    {
+      "text": "34",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 26 y dividiendo entre 11, se obtiene x = 35.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

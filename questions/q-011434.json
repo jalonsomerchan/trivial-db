@@ -1,0 +1,42 @@
+{
+  "id": "q-011434",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué término de esgrima aparece entre pick and roll, sable, icing y pit stop?",
+  "answers": [
+    {
+      "text": "sable",
+      "correct": true
+    },
+    {
+      "text": "pit stop",
+      "correct": false
+    },
+    {
+      "text": "icing",
+      "correct": false
+    },
+    {
+      "text": "pick and roll",
+      "correct": false
+    }
+  ],
+  "explanation": "“sable” es un término usado en esgrima.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "esgrima"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

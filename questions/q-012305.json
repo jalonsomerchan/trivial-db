@@ -1,0 +1,42 @@
+{
+  "id": "q-012305",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo shakshuka, kimchi, sushi y laksa encaja con Norte de África y Oriente Medio y con el ingrediente huevos en salsa de tomate?",
+  "answers": [
+    {
+      "text": "laksa",
+      "correct": false
+    },
+    {
+      "text": "shakshuka",
+      "correct": true
+    },
+    {
+      "text": "sushi",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    }
+  ],
+  "explanation": "shakshuka se asocia con Norte de África y Oriente Medio y con huevos en salsa de tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "shakshuka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

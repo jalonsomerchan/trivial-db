@@ -1,0 +1,43 @@
+{
+  "id": "q-011671",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “Uncharted”?",
+  "answers": [
+    {
+      "text": "plataformas",
+      "correct": false
+    },
+    {
+      "text": "puzles",
+      "correct": false
+    },
+    {
+      "text": "lucha",
+      "correct": false
+    },
+    {
+      "text": "aventura",
+      "correct": true
+    }
+  ],
+  "explanation": "“Uncharted” se describe habitualmente como aventura.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "uncharted",
+    "aventura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

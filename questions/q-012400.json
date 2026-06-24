@@ -1,0 +1,42 @@
+{
+  "id": "q-012400",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo cuscús, bibimbap, hummus y pierogi se prepara típicamente con masa rellena?",
+  "answers": [
+    {
+      "text": "pierogi",
+      "correct": true
+    },
+    {
+      "text": "cuscús",
+      "correct": false
+    },
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "hummus",
+      "correct": false
+    }
+  ],
+  "explanation": "pierogi se prepara típicamente con masa rellena.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pierogi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

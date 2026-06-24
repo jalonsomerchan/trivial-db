@@ -1,0 +1,42 @@
+{
+  "id": "q-010221",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “El tres de mayo de 1808”, “Composición con rojo, amarillo y azul”, “Guernica” y “Las meninas” pertenece al Romanticismo?",
+  "answers": [
+    {
+      "text": "Las meninas",
+      "correct": false
+    },
+    {
+      "text": "Guernica",
+      "correct": false
+    },
+    {
+      "text": "El tres de mayo de 1808",
+      "correct": true
+    },
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": false
+    }
+  ],
+  "explanation": "“El tres de mayo de 1808” se vincula con Romanticismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "romanticismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010084",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “La Divina Comedia” frente a la referencia “Pedro Páramo”?",
+  "answers": [
+    {
+      "text": "Dante Alighieri",
+      "correct": true
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    },
+    {
+      "text": "León Tolstói",
+      "correct": false
+    },
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “La Divina Comedia” pertenece a Dante Alighieri.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "dante-alighieri"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

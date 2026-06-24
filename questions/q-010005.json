@@ -1,0 +1,43 @@
+{
+  "id": "q-010005",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió “Guerra y paz”?",
+  "answers": [
+    {
+      "text": "León Tolstói",
+      "correct": true
+    },
+    {
+      "text": "Jorge Luis Borges",
+      "correct": false
+    },
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Cervantes",
+      "correct": false
+    }
+  ],
+  "explanation": "“Guerra y paz” fue escrito por León Tolstói.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "leon-tolstoi",
+    "guerra-y-paz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

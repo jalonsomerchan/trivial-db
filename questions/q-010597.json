@@ -1,0 +1,42 @@
+{
+  "id": "q-010597",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la unidad del Sistema Internacional para medir fuerza?",
+  "answers": [
+    {
+      "text": "hercio",
+      "correct": false
+    },
+    {
+      "text": "tesla",
+      "correct": false
+    },
+    {
+      "text": "becquerel",
+      "correct": false
+    },
+    {
+      "text": "newton",
+      "correct": true
+    }
+  ],
+  "explanation": "La unidad SI de fuerza es el newton.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "fuerza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

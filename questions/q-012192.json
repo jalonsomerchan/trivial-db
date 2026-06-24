@@ -1,0 +1,42 @@
+{
+  "id": "q-012192",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Japón con fideos?",
+  "answers": [
+    {
+      "text": "poutine",
+      "correct": false
+    },
+    {
+      "text": "ramen",
+      "correct": true
+    },
+    {
+      "text": "pierogi",
+      "correct": false
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es ramen.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ramen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

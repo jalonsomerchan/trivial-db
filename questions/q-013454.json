@@ -1,0 +1,42 @@
+{
+  "id": "q-013454",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre disolución de la Unión Soviética, edicto de Milán, batalla de Hastings y batalla de Maratón?",
+  "answers": [
+    {
+      "text": "batalla de Maratón",
+      "correct": false
+    },
+    {
+      "text": "batalla de Hastings",
+      "correct": false
+    },
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, disolución de la Unión Soviética es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-014980",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función cumple GROUP BY en SQL?",
+  "answers": [
+    {
+      "text": "agrupar filas",
+      "correct": true
+    },
+    {
+      "text": "añadir filas",
+      "correct": false
+    },
+    {
+      "text": "consultar datos",
+      "correct": false
+    },
+    {
+      "text": "eliminar filas",
+      "correct": false
+    }
+  ],
+  "explanation": "GROUP BY sirve para agrupar filas en una consulta SQL.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "group-by"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

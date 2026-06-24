@@ -1,0 +1,42 @@
+{
+  "id": "q-012081",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo pimiento, yogur, merluza y leche es un ejemplo de hortaliza?",
+  "answers": [
+    {
+      "text": "merluza",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": false
+    },
+    {
+      "text": "yogur",
+      "correct": false
+    },
+    {
+      "text": "pimiento",
+      "correct": true
+    }
+  ],
+  "explanation": "pimiento es un ejemplo de hortaliza.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "hortaliza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

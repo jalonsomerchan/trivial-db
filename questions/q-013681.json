@@ -1,0 +1,42 @@
+{
+  "id": "q-013681",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué forma verbal ejemplifica pretérito imperfecto de subjuntivo?",
+  "answers": [
+    {
+      "text": "yo estudio",
+      "correct": false
+    },
+    {
+      "text": "yo he estudiado",
+      "correct": false
+    },
+    {
+      "text": "yo hube estudiado",
+      "correct": false
+    },
+    {
+      "text": "que yo estudiara",
+      "correct": true
+    }
+  ],
+  "explanation": "La forma “que yo estudiara” ejemplifica pretérito imperfecto de subjuntivo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-imperfecto-de-subjuntivo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012977",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Perú?",
+  "answers": [
+    {
+      "text": ".ae",
+      "correct": false
+    },
+    {
+      "text": ".pe",
+      "correct": true
+    },
+    {
+      "text": ".cv",
+      "correct": false
+    },
+    {
+      "text": ".io",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Perú es .pe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "peru"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

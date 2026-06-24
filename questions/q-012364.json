@@ -1,0 +1,43 @@
+{
+  "id": "q-012364",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con salmorejo?",
+  "answers": [
+    {
+      "text": "Perú",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    },
+    {
+      "text": "Canadá",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": false
+    }
+  ],
+  "explanation": "salmorejo se asocia tradicionalmente con España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "salmorejo",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012480",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo tzatziki, gazpacho, goulash y borsch se prepara típicamente con tomate?",
+  "answers": [
+    {
+      "text": "gazpacho",
+      "correct": true
+    },
+    {
+      "text": "goulash",
+      "correct": false
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "tzatziki",
+      "correct": false
+    }
+  ],
+  "explanation": "gazpacho se prepara típicamente con tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "gazpacho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

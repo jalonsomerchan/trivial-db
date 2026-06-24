@@ -1,0 +1,43 @@
+{
+  "id": "q-012611",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué continente se ubica principalmente Reino Unido?",
+  "answers": [
+    {
+      "text": "África",
+      "correct": false
+    },
+    {
+      "text": "Asia",
+      "correct": false
+    },
+    {
+      "text": "Oceanía",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": true
+    }
+  ],
+  "explanation": "Reino Unido se ubica principalmente en Europa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "continentes",
+    "europa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

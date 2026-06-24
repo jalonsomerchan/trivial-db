@@ -1,0 +1,42 @@
+{
+  "id": "q-013659",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento morfológico destaca en la palabra “antivirus”?",
+  "answers": [
+    {
+      "text": "sufijo -ecer",
+      "correct": false
+    },
+    {
+      "text": "sufijo -oso",
+      "correct": false
+    },
+    {
+      "text": "prefijo anti-",
+      "correct": true
+    },
+    {
+      "text": "sufijo aumentativo -ote",
+      "correct": false
+    }
+  ],
+  "explanation": "En “antivirus” destaca prefijo anti-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "antivirus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

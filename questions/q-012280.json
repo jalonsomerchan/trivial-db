@@ -1,0 +1,42 @@
+{
+  "id": "q-012280",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo poke, risotto, gazpacho y sushi encaja con Japón y con el ingrediente arroz avinagrado?",
+  "answers": [
+    {
+      "text": "sushi",
+      "correct": true
+    },
+    {
+      "text": "gazpacho",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "poke",
+      "correct": false
+    }
+  ],
+  "explanation": "sushi se asocia con Japón y con arroz avinagrado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "sushi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

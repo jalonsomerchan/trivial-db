@@ -1,0 +1,42 @@
+{
+  "id": "q-012770",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Guinea-Bisáu?",
+  "answers": [
+    {
+      "text": "Northern Africa",
+      "correct": false
+    },
+    {
+      "text": "Western Africa",
+      "correct": true
+    },
+    {
+      "text": "Micronesia",
+      "correct": false
+    },
+    {
+      "text": "Southern Europe",
+      "correct": false
+    }
+  ],
+  "explanation": "Guinea-Bisáu pertenece a la subregión Western Africa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

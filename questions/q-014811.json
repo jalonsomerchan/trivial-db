@@ -1,0 +1,42 @@
+{
+  "id": "q-014811",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "logica-binaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de 9 XOR 7 en lógica bit a bit?",
+  "answers": [
+    {
+      "text": "16",
+      "correct": false
+    },
+    {
+      "text": "15",
+      "correct": false
+    },
+    {
+      "text": "14",
+      "correct": true
+    },
+    {
+      "text": "13",
+      "correct": false
+    }
+  ],
+  "explanation": "La operación bit a bit 9 XOR 7 produce 14.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "xor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

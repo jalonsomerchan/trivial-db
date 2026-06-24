@@ -1,0 +1,42 @@
+{
+  "id": "q-010712",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud física se mide en lux?",
+  "answers": [
+    {
+      "text": "inducción magnética",
+      "correct": false
+    },
+    {
+      "text": "presión",
+      "correct": false
+    },
+    {
+      "text": "dosis equivalente",
+      "correct": false
+    },
+    {
+      "text": "iluminancia",
+      "correct": true
+    }
+  ],
+  "explanation": "El lux es la unidad del Sistema Internacional para iluminancia.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "lux"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

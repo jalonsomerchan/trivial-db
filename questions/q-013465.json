@@ -1,0 +1,42 @@
+{
+  "id": "q-013465",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre fundación tradicional de Roma, unificación de Italia, derrota de la Armada Invencible y inicio de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": false
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "unificación de Italia",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, inicio de la Segunda Guerra Mundial es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-014087",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto resulta al restar 145 de 1421?",
+  "answers": [
+    {
+      "text": "1326",
+      "correct": false
+    },
+    {
+      "text": "1276",
+      "correct": true
+    },
+    {
+      "text": "1271",
+      "correct": false
+    },
+    {
+      "text": "1281",
+      "correct": false
+    }
+  ],
+  "explanation": "Al calcular 1421 - 145 se obtiene 1276.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

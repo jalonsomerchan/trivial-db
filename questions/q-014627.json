@@ -1,0 +1,42 @@
+{
+  "id": "q-014627",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué comando de Git se usa para guardar cambios en el historial local?",
+  "answers": [
+    {
+      "text": "git commit",
+      "correct": true
+    },
+    {
+      "text": "git stash",
+      "correct": false
+    },
+    {
+      "text": "git add",
+      "correct": false
+    },
+    {
+      "text": "git merge",
+      "correct": false
+    }
+  ],
+  "explanation": "El comando git commit se usa para guardar cambios en el historial local.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-commit"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

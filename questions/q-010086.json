@@ -1,0 +1,42 @@
+{
+  "id": "q-010086",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “La Ilíada” frente a la referencia “La metamorfosis”?",
+  "answers": [
+    {
+      "text": "Homero",
+      "correct": true
+    },
+    {
+      "text": "Johann Wolfgang von Goethe",
+      "correct": false
+    },
+    {
+      "text": "Dante Alighieri",
+      "correct": false
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “La Ilíada” pertenece a Homero.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "homero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011124",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "baloncesto"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué franquicia de la NBA se asocia con la ciudad de Chicago?",
+  "answers": [
+    {
+      "text": "Boston Celtics",
+      "correct": false
+    },
+    {
+      "text": "Phoenix Suns",
+      "correct": false
+    },
+    {
+      "text": "Chicago Bulls",
+      "correct": true
+    },
+    {
+      "text": "Cleveland Cavaliers",
+      "correct": false
+    }
+  ],
+  "explanation": "Chicago Bulls es una franquicia asociada con Chicago.",
+  "sources": [
+    {
+      "title": "NBA",
+      "url": "https://www.nba.com/"
+    }
+  ],
+  "tags": [
+    "nba",
+    "chicago-bulls"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

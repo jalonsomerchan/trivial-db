@@ -1,0 +1,41 @@
+{
+  "id": "q-013901",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “grandote”, “bondadoso”, “florecer” y “casita” contiene sufijo aumentativo -ote?",
+  "answers": [
+    {
+      "text": "florecer",
+      "correct": false
+    },
+    {
+      "text": "grandote",
+      "correct": true
+    },
+    {
+      "text": "casita",
+      "correct": false
+    },
+    {
+      "text": "bondadoso",
+      "correct": false
+    }
+  ],
+  "explanation": "“grandote” contiene sufijo aumentativo -ote.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

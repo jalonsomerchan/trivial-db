@@ -1,0 +1,43 @@
+{
+  "id": "q-011659",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “Minecraft”?",
+  "answers": [
+    {
+      "text": "arcade",
+      "correct": false
+    },
+    {
+      "text": "aventura",
+      "correct": false
+    },
+    {
+      "text": "sandbox",
+      "correct": true
+    },
+    {
+      "text": "disparos",
+      "correct": false
+    }
+  ],
+  "explanation": "“Minecraft” se describe habitualmente como sandbox.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "minecraft",
+    "sandbox"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011805",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “The Witcher 3”, “Minecraft”, “Sonic the Hedgehog” y “The Legend of Zelda” encaja con Steve y el género sandbox?",
+  "answers": [
+    {
+      "text": "The Witcher 3",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": true
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    }
+  ],
+  "explanation": "Steve se asocia con “Minecraft”, que se describe como sandbox.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "minecraft"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

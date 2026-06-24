@@ -1,0 +1,42 @@
+{
+  "id": "q-010474",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Pedro Páramo”, “Madame Bovary”, “La casa de Bernarda Alba” y “Cien años de soledad” fue escrita por Gabriel García Márquez?",
+  "answers": [
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": false
+    },
+    {
+      "text": "Cien años de soledad",
+      "correct": true
+    },
+    {
+      "text": "Madame Bovary",
+      "correct": false
+    },
+    {
+      "text": "Pedro Páramo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Cien años de soledad” fue escrita por Gabriel García Márquez.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "gabriel-garcia-marquez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

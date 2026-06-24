@@ -1,0 +1,42 @@
+{
+  "id": "q-013675",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué forma verbal ejemplifica futuro simple?",
+  "answers": [
+    {
+      "text": "que yo estudiara",
+      "correct": false
+    },
+    {
+      "text": "yo estudiaré",
+      "correct": true
+    },
+    {
+      "text": "yo he estudiado",
+      "correct": false
+    },
+    {
+      "text": "yo estudiaría",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo estudiaré” ejemplifica futuro simple.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "futuro-simple"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

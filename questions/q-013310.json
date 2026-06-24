@@ -1,0 +1,43 @@
+{
+  "id": "q-013310",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué personaje histórico se vincula con Casa de Austria en España?",
+  "answers": [
+    {
+      "text": "Carlos I de España",
+      "correct": true
+    },
+    {
+      "text": "Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "Augusto",
+      "correct": false
+    },
+    {
+      "text": "Luis XIV",
+      "correct": false
+    }
+  ],
+  "explanation": "Carlos I de España se vincula con Casa de Austria en España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "carlos-i-de-espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010463",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Moby Dick”, “Romancero gitano”, “El extranjero” y “El Aleph” fue escrita por Jorge Luis Borges?",
+  "answers": [
+    {
+      "text": "Romancero gitano",
+      "correct": false
+    },
+    {
+      "text": "Moby Dick",
+      "correct": false
+    },
+    {
+      "text": "El Aleph",
+      "correct": true
+    },
+    {
+      "text": "El extranjero",
+      "correct": false
+    }
+  ],
+  "explanation": "“El Aleph” fue escrita por Jorge Luis Borges.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "jorge-luis-borges"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

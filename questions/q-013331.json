@@ -1,0 +1,42 @@
+{
+  "id": "q-013331",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece la caída de Constantinopla?",
+  "answers": [
+    {
+      "text": "siglo V a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo IV a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XV d. C.",
+      "correct": true
+    },
+    {
+      "text": "siglo V d. C.",
+      "correct": false
+    }
+  ],
+  "explanation": "La caída de Constantinopla se sitúa en el siglo XV d. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

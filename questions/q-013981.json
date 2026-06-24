@@ -1,0 +1,42 @@
+{
+  "id": "q-013981",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra se opone semánticamente a “imprudente”?",
+  "answers": [
+    {
+      "text": "arduo",
+      "correct": false
+    },
+    {
+      "text": "prudente",
+      "correct": true
+    },
+    {
+      "text": "benévolo",
+      "correct": false
+    },
+    {
+      "text": "célebre",
+      "correct": false
+    }
+  ],
+  "explanation": "“prudente” y “imprudente” son antónimos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "prudente"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014487",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 45% de 860?",
+  "answers": [
+    {
+      "text": "392",
+      "correct": false
+    },
+    {
+      "text": "377",
+      "correct": false
+    },
+    {
+      "text": "397",
+      "correct": false
+    },
+    {
+      "text": "387",
+      "correct": true
+    }
+  ],
+  "explanation": "El 45% de 860 se calcula como 860 × 45/100 = 387.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

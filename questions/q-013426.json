@@ -1,0 +1,42 @@
+{
+  "id": "q-013426",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre batalla de Lepanto, fundación de la ONU, inicio de la Segunda Guerra Mundial y erupción del Vesubio que sepultó Pompeya?",
+  "answers": [
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "erupción del Vesubio que sepultó Pompeya",
+      "correct": false
+    },
+    {
+      "text": "fundación de la ONU",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, fundación de la ONU es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

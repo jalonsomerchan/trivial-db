@@ -1,0 +1,41 @@
+{
+  "id": "q-014962",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 87 en sistema binario?",
+  "answers": [
+    {
+      "text": "1011001",
+      "correct": false
+    },
+    {
+      "text": "1010110",
+      "correct": false
+    },
+    {
+      "text": "1010111",
+      "correct": true
+    },
+    {
+      "text": "1011000",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 87 es 1010111.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

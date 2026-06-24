@@ -1,0 +1,43 @@
+{
+  "id": "q-010009",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién escribió “Madame Bovary”?",
+  "answers": [
+    {
+      "text": "William Shakespeare",
+      "correct": false
+    },
+    {
+      "text": "Juan Rulfo",
+      "correct": false
+    },
+    {
+      "text": "Julio Cortázar",
+      "correct": false
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": true
+    }
+  ],
+  "explanation": "“Madame Bovary” fue escrito por Gustave Flaubert.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "gustave-flaubert",
+    "madame-bovary"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

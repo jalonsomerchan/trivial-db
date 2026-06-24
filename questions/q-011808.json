@@ -1,0 +1,42 @@
+{
+  "id": "q-011808",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “The Witcher 3”, “Resident Evil”, “Uncharted” y “Metroid” encaja con Geralt de Rivia y el género rol?",
+  "answers": [
+    {
+      "text": "Metroid",
+      "correct": false
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": true
+    },
+    {
+      "text": "Uncharted",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    }
+  ],
+  "explanation": "Geralt de Rivia se asocia con “The Witcher 3”, que se describe como rol.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-witcher-3"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

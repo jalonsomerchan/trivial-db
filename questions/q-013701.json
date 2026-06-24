@@ -1,0 +1,42 @@
+{
+  "id": "q-013701",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Compró pan, leche y fruta” dentro del grupo de ejemplos “Vivo sin vivir en mí”, “La ciudad nunca duerme”, “Menos es más” y “Compró pan, leche y fruta”?",
+  "answers": [
+    {
+      "text": "enumeración",
+      "correct": true
+    },
+    {
+      "text": "oxímoron",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": false
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “Compró pan, leche y fruta” contiene enumeración.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "enumeracion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

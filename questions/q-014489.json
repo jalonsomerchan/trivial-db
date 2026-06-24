@@ -1,0 +1,41 @@
+{
+  "id": "q-014489",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 60% de 180?",
+  "answers": [
+    {
+      "text": "98",
+      "correct": false
+    },
+    {
+      "text": "113",
+      "correct": false
+    },
+    {
+      "text": "118",
+      "correct": false
+    },
+    {
+      "text": "108",
+      "correct": true
+    }
+  ],
+  "explanation": "El 60% de 180 se calcula como 180 × 60/100 = 108.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

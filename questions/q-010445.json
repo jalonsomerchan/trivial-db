@@ -1,0 +1,42 @@
+{
+  "id": "q-010445",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “La ciudad y los perros”, “Frankenstein”, “Rebelión en la granja” y “La Divina Comedia” fue escrita por Mario Vargas Llosa?",
+  "answers": [
+    {
+      "text": "Rebelión en la granja",
+      "correct": false
+    },
+    {
+      "text": "Frankenstein",
+      "correct": false
+    },
+    {
+      "text": "La ciudad y los perros",
+      "correct": true
+    },
+    {
+      "text": "La Divina Comedia",
+      "correct": false
+    }
+  ],
+  "explanation": "“La ciudad y los perros” fue escrita por Mario Vargas Llosa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "mario-vargas-llosa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

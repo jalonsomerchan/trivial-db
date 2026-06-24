@@ -1,0 +1,42 @@
+{
+  "id": "q-013160",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué siglo pertenece la fundación tradicional de Roma?",
+  "answers": [
+    {
+      "text": "siglo I d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo VIII a. C.",
+      "correct": true
+    },
+    {
+      "text": "siglo XV d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo V a. C.",
+      "correct": false
+    }
+  ],
+  "explanation": "La fundación tradicional de Roma se sitúa en el siglo VIII a. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

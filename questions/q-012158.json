@@ -1,0 +1,43 @@
+{
+  "id": "q-012158",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué describe mejor la técnica culinaria de escaldar?",
+  "answers": [
+    {
+      "text": "unir líquidos que normalmente no se mezclan",
+      "correct": false
+    },
+    {
+      "text": "ablandar o aromatizar en líquido",
+      "correct": false
+    },
+    {
+      "text": "sumergir brevemente en agua hirviendo",
+      "correct": true
+    },
+    {
+      "text": "trabajar una masa para desarrollar estructura",
+      "correct": false
+    }
+  ],
+  "explanation": "escaldar consiste en sumergir brevemente en agua hirviendo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "escaldar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

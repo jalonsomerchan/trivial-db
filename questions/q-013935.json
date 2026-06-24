@@ -1,0 +1,41 @@
+{
+  "id": "q-013935",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “nacionalizar”, “bondadoso”, “inmortal” y “grandote” contiene sufijo aumentativo -ote?",
+  "answers": [
+    {
+      "text": "bondadoso",
+      "correct": false
+    },
+    {
+      "text": "grandote",
+      "correct": true
+    },
+    {
+      "text": "inmortal",
+      "correct": false
+    },
+    {
+      "text": "nacionalizar",
+      "correct": false
+    }
+  ],
+  "explanation": "“grandote” contiene sufijo aumentativo -ote.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

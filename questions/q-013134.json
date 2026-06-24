@@ -1,0 +1,42 @@
+{
+  "id": "q-013134",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué hecho ocurrió antes entre llegada de Colón a América, batalla de Hastings, inicio de la Primera Guerra Mundial y batalla de Waterloo?",
+  "answers": [
+    {
+      "text": "batalla de Hastings",
+      "correct": true
+    },
+    {
+      "text": "llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "batalla de Waterloo",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Primera Guerra Mundial",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, batalla de Hastings es el hecho más antiguo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

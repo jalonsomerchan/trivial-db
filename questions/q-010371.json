@@ -1,0 +1,42 @@
+{
+  "id": "q-010371",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “Romeo y Julieta”?",
+  "answers": [
+    {
+      "text": "novela gótica",
+      "correct": false
+    },
+    {
+      "text": "tragedia",
+      "correct": true
+    },
+    {
+      "text": "novela",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": false
+    }
+  ],
+  "explanation": "“Romeo y Julieta” se clasifica habitualmente como tragedia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "tragedia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

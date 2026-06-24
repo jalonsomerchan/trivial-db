@@ -1,0 +1,42 @@
+{
+  "id": "q-013362",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la disolución de la Unión Soviética?",
+  "answers": [
+    {
+      "text": "monarquía parlamentaria",
+      "correct": false
+    },
+    {
+      "text": "Reforma protestante",
+      "correct": false
+    },
+    {
+      "text": "terrorismo internacional",
+      "correct": false
+    },
+    {
+      "text": "final de la Guerra Fría",
+      "correct": true
+    }
+  ],
+  "explanation": "La disolución de la Unión Soviética se relaciona con final de la Guerra Fría.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "final-de-la-guerra-fria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

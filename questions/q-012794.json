@@ -1,0 +1,42 @@
+{
+  "id": "q-012794",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Noruega?",
+  "answers": [
+    {
+      "text": "Northern Europe",
+      "correct": true
+    },
+    {
+      "text": "Eastern Africa",
+      "correct": false
+    },
+    {
+      "text": "Southern Africa",
+      "correct": false
+    },
+    {
+      "text": "Western Africa",
+      "correct": false
+    }
+  ],
+  "explanation": "Noruega pertenece a la subregión Northern Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

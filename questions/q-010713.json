@@ -1,0 +1,42 @@
+{
+  "id": "q-010713",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud física se mide en sievert?",
+  "answers": [
+    {
+      "text": "dosis equivalente",
+      "correct": true
+    },
+    {
+      "text": "frecuencia",
+      "correct": false
+    },
+    {
+      "text": "potencia",
+      "correct": false
+    },
+    {
+      "text": "capacitancia",
+      "correct": false
+    }
+  ],
+  "explanation": "El sievert es la unidad del Sistema Internacional para dosis equivalente.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "sievert"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

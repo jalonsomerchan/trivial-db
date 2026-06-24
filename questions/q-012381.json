@@ -1,0 +1,42 @@
+{
+  "id": "q-012381",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo bibimbap, laksa, goulash y arepa se prepara típicamente con maíz?",
+  "answers": [
+    {
+      "text": "goulash",
+      "correct": false
+    },
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "laksa",
+      "correct": false
+    },
+    {
+      "text": "arepa",
+      "correct": true
+    }
+  ],
+  "explanation": "arepa se prepara típicamente con maíz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "arepa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

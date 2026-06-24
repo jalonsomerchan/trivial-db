@@ -1,0 +1,42 @@
+{
+  "id": "q-012005",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo almendra, salmón, cerdo y zanahoria es un ejemplo de fruto seco?",
+  "answers": [
+    {
+      "text": "cerdo",
+      "correct": false
+    },
+    {
+      "text": "salmón",
+      "correct": false
+    },
+    {
+      "text": "almendra",
+      "correct": true
+    },
+    {
+      "text": "zanahoria",
+      "correct": false
+    }
+  ],
+  "explanation": "almendra es un ejemplo de fruto seco.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fruto-seco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013512",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se clasifica “imagen” por la posición de su sílaba tónica?",
+  "answers": [
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    },
+    {
+      "text": "llana",
+      "correct": true
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    },
+    {
+      "text": "esdrújula",
+      "correct": false
+    }
+  ],
+  "explanation": "“imagen” se clasifica como palabra llana.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "llana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

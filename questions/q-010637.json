@@ -1,0 +1,42 @@
+{
+  "id": "q-010637",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué posición ocupa Neptuno desde el Sol?",
+  "answers": [
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": false
+    },
+    {
+      "text": "6",
+      "correct": false
+    },
+    {
+      "text": "8",
+      "correct": true
+    }
+  ],
+  "explanation": "Neptuno es el planeta número 8 contando desde el Sol.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "neptuno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

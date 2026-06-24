@@ -1,0 +1,41 @@
+{
+  "id": "q-010902",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fuerza produce una masa de 23 kg con aceleración de 13 m/s²?",
+  "answers": [
+    {
+      "text": "36 N",
+      "correct": false
+    },
+    {
+      "text": "299 N",
+      "correct": true
+    },
+    {
+      "text": "286 N",
+      "correct": false
+    },
+    {
+      "text": "322 N",
+      "correct": false
+    }
+  ],
+  "explanation": "Según F = m·a, la fuerza es 23 × 13 = 299 N.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "dinamica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

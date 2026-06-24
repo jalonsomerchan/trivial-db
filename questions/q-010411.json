@@ -1,0 +1,42 @@
+{
+  "id": "q-010411",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Ficciones”, “Rebelión en la granja”, “La casa de Bernarda Alba” y “Don Quijote de la Mancha” fue escrita por George Orwell?",
+  "answers": [
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": false
+    },
+    {
+      "text": "Rebelión en la granja",
+      "correct": true
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": false
+    },
+    {
+      "text": "Ficciones",
+      "correct": false
+    }
+  ],
+  "explanation": "“Rebelión en la granja” fue escrita por George Orwell.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "george-orwell"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011667",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “The Last of Us”?",
+  "answers": [
+    {
+      "text": "aventura",
+      "correct": true
+    },
+    {
+      "text": "rol",
+      "correct": false
+    },
+    {
+      "text": "sigilo",
+      "correct": false
+    },
+    {
+      "text": "arcade",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Last of Us” se describe habitualmente como aventura.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-last-of-us",
+    "aventura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013112",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué hecho ocurrió antes entre fundación tradicional de Roma, inicio de la Primera Cruzada, Revolución rusa y batalla de Trafalgar?",
+  "answers": [
+    {
+      "text": "batalla de Trafalgar",
+      "correct": false
+    },
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Primera Cruzada",
+      "correct": false
+    },
+    {
+      "text": "Revolución rusa",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, fundación tradicional de Roma es el hecho más antiguo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

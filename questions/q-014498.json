@@ -1,0 +1,41 @@
+{
+  "id": "q-014498",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 75% de 280?",
+  "answers": [
+    {
+      "text": "200",
+      "correct": false
+    },
+    {
+      "text": "220",
+      "correct": false
+    },
+    {
+      "text": "215",
+      "correct": false
+    },
+    {
+      "text": "210",
+      "correct": true
+    }
+  ],
+  "explanation": "El 75% de 280 se calcula como 280 × 75/100 = 210.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

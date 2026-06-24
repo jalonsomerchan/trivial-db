@@ -1,0 +1,41 @@
+{
+  "id": "q-014863",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 201 en sistema binario?",
+  "answers": [
+    {
+      "text": "11001000",
+      "correct": false
+    },
+    {
+      "text": "11001011",
+      "correct": false
+    },
+    {
+      "text": "11001001",
+      "correct": true
+    },
+    {
+      "text": "11001010",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 201 es 11001001.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

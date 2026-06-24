@@ -1,0 +1,42 @@
+{
+  "id": "q-010159",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué libro se asocia con George Orwell y el género distopía?",
+  "answers": [
+    {
+      "text": "1984",
+      "correct": true
+    },
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": false
+    },
+    {
+      "text": "Rebelión en la granja",
+      "correct": false
+    },
+    {
+      "text": "Guerra y paz",
+      "correct": false
+    }
+  ],
+  "explanation": "“1984” es una obra de George Orwell asociada con distopía.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "george-orwell"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

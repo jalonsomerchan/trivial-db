@@ -1,0 +1,43 @@
+{
+  "id": "q-014650",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla VPN en informática?",
+  "answers": [
+    {
+      "text": "Universal Serial Bus",
+      "correct": false
+    },
+    {
+      "text": "Extensible Markup Language",
+      "correct": false
+    },
+    {
+      "text": "Virtual Private Network",
+      "correct": true
+    },
+    {
+      "text": "Domain Name System",
+      "correct": false
+    }
+  ],
+  "explanation": "En informática, VPN significa Virtual Private Network.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "vpn"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

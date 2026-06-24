@@ -1,0 +1,42 @@
+{
+  "id": "q-012459",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo risotto, shakshuka, borsch y poutine se prepara típicamente con arroz?",
+  "answers": [
+    {
+      "text": "shakshuka",
+      "correct": false
+    },
+    {
+      "text": "poutine",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": true
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    }
+  ],
+  "explanation": "risotto se prepara típicamente con arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "risotto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013444",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre coronación imperial de Carlomagno, llegada del Apolo 11 a la Luna, batalla de Lepanto y ampliación de la Unión Europea de 2004?",
+  "answers": [
+    {
+      "text": "ampliación de la Unión Europea de 2004",
+      "correct": true
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    },
+    {
+      "text": "coronación imperial de Carlomagno",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, ampliación de la Unión Europea de 2004 es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

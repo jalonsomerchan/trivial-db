@@ -1,0 +1,43 @@
+{
+  "id": "q-011531",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Psicosis”?",
+  "answers": [
+    {
+      "text": "Alfred Hitchcock",
+      "correct": true
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": false
+    }
+  ],
+  "explanation": "“Psicosis” está asociada con el director Alfred Hitchcock.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "psicosis",
+    "alfred-hitchcock"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

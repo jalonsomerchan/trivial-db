@@ -1,0 +1,42 @@
+{
+  "id": "q-012014",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo alubias, cerdo, almendra y zanahoria es un ejemplo de legumbre?",
+  "answers": [
+    {
+      "text": "alubias",
+      "correct": true
+    },
+    {
+      "text": "zanahoria",
+      "correct": false
+    },
+    {
+      "text": "cerdo",
+      "correct": false
+    },
+    {
+      "text": "almendra",
+      "correct": false
+    }
+  ],
+  "explanation": "alubias es un ejemplo de legumbre.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "legumbre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

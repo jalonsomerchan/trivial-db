@@ -1,0 +1,43 @@
+{
+  "id": "q-011654",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “Half-Life”?",
+  "answers": [
+    {
+      "text": "aventura",
+      "correct": false
+    },
+    {
+      "text": "puzles",
+      "correct": false
+    },
+    {
+      "text": "terror",
+      "correct": false
+    },
+    {
+      "text": "disparos",
+      "correct": true
+    }
+  ],
+  "explanation": "“Half-Life” se describe habitualmente como disparos.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "half-life",
+    "disparos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

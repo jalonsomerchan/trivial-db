@@ -1,0 +1,41 @@
+{
+  "id": "q-014875",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 262 en sistema binario?",
+  "answers": [
+    {
+      "text": "100001000",
+      "correct": false
+    },
+    {
+      "text": "100000110",
+      "correct": true
+    },
+    {
+      "text": "100000101",
+      "correct": false
+    },
+    {
+      "text": "100000111",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 262 es 100000110.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

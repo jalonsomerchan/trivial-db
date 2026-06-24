@@ -1,0 +1,41 @@
+{
+  "id": "q-014468",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 35% de 740?",
+  "answers": [
+    {
+      "text": "249",
+      "correct": false
+    },
+    {
+      "text": "259",
+      "correct": true
+    },
+    {
+      "text": "264",
+      "correct": false
+    },
+    {
+      "text": "269",
+      "correct": false
+    }
+  ],
+  "explanation": "El 35% de 740 se calcula como 740 × 35/100 = 259.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

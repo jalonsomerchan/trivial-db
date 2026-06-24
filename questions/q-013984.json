@@ -1,0 +1,42 @@
+{
+  "id": "q-013984",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra se opone semánticamente a “pobre”?",
+  "answers": [
+    {
+      "text": "audaz",
+      "correct": false
+    },
+    {
+      "text": "opulento",
+      "correct": true
+    },
+    {
+      "text": "benévolo",
+      "correct": false
+    },
+    {
+      "text": "nítido",
+      "correct": false
+    }
+  ],
+  "explanation": "“opulento” y “pobre” son antónimos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "opulento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

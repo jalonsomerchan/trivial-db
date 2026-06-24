@@ -1,0 +1,42 @@
+{
+  "id": "q-013356",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la concilio de Nicea?",
+  "answers": [
+    {
+      "text": "Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "terrorismo internacional",
+      "correct": false
+    },
+    {
+      "text": "cristianismo antiguo",
+      "correct": true
+    },
+    {
+      "text": "Guerra Fría",
+      "correct": false
+    }
+  ],
+  "explanation": "La concilio de Nicea se relaciona con cristianismo antiguo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cristianismo-antiguo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

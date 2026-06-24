@@ -1,0 +1,42 @@
+{
+  "id": "q-013213",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la disolución de la Unión Soviética frente a la referencia histórica de la batalla de Waterloo?",
+  "answers": [
+    {
+      "text": "década de 2010",
+      "correct": false
+    },
+    {
+      "text": "década de 1980",
+      "correct": false
+    },
+    {
+      "text": "década de 2000",
+      "correct": false
+    },
+    {
+      "text": "década de 1990",
+      "correct": true
+    }
+  ],
+  "explanation": "La disolución de la Unión Soviética ocurrió en 1991, dentro de la década de 1990.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

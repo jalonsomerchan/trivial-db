@@ -1,0 +1,43 @@
+{
+  "id": "q-011868",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género describe mejor la película “Buscando a Nemo”?",
+  "answers": [
+    {
+      "text": "animación",
+      "correct": true
+    },
+    {
+      "text": "acción",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": false
+    }
+  ],
+  "explanation": "“Buscando a Nemo” se describe habitualmente como animación.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "buscando-a-nemo",
+    "animacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

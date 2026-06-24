@@ -1,0 +1,42 @@
+{
+  "id": "q-011727",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Mega Man”, “Portal”, “Half-Life” y “Minecraft” encaja con Chell y el género puzles?",
+  "answers": [
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": false
+    },
+    {
+      "text": "Portal",
+      "correct": true
+    }
+  ],
+  "explanation": "Chell se asocia con “Portal”, que se describe como puzles.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "portal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

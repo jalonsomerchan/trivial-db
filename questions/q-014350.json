@@ -1,0 +1,42 @@
+{
+  "id": "q-014350",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "geometria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el área de un triángulo de base 18 cm y altura 29 cm?",
+  "answers": [
+    {
+      "text": "522 cm²",
+      "correct": false
+    },
+    {
+      "text": "261 cm²",
+      "correct": true
+    },
+    {
+      "text": "279 cm²",
+      "correct": false
+    },
+    {
+      "text": "232 cm²",
+      "correct": false
+    }
+  ],
+  "explanation": "El área del triángulo es base × altura / 2, es decir, 261 cm².",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "area",
+    "triangulos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

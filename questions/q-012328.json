@@ -1,0 +1,43 @@
+{
+  "id": "q-012328",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué alimento pertenece al grupo cereal?",
+  "answers": [
+    {
+      "text": "zanahoria",
+      "correct": false
+    },
+    {
+      "text": "nuez",
+      "correct": false
+    },
+    {
+      "text": "avellana",
+      "correct": false
+    },
+    {
+      "text": "arroz",
+      "correct": true
+    }
+  ],
+  "explanation": "arroz pertenece al grupo cereal.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "cereal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

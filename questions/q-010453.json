@@ -1,0 +1,42 @@
+{
+  "id": "q-010453",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Madame Bovary”, “1984”, “Pedro Páramo” y “La Divina Comedia” fue escrita por Dante Alighieri?",
+  "answers": [
+    {
+      "text": "La Divina Comedia",
+      "correct": true
+    },
+    {
+      "text": "Madame Bovary",
+      "correct": false
+    },
+    {
+      "text": "1984",
+      "correct": false
+    },
+    {
+      "text": "Pedro Páramo",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Divina Comedia” fue escrita por Dante Alighieri.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "dante-alighieri"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

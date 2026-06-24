@@ -1,0 +1,42 @@
+{
+  "id": "q-012383",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo bibimbap, poutine, feijoada y falafel se prepara típicamente con frijoles negros?",
+  "answers": [
+    {
+      "text": "falafel",
+      "correct": false
+    },
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "feijoada",
+      "correct": true
+    },
+    {
+      "text": "poutine",
+      "correct": false
+    }
+  ],
+  "explanation": "feijoada se prepara típicamente con frijoles negros.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "feijoada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

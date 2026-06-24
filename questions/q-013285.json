@@ -1,0 +1,42 @@
+{
+  "id": "q-013285",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la crack bursátil de Wall Street?",
+  "answers": [
+    {
+      "text": "Nueva York",
+      "correct": true
+    },
+    {
+      "text": "Milán",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": false
+    },
+    {
+      "text": "Caribe",
+      "correct": false
+    }
+  ],
+  "explanation": "La crack bursátil de Wall Street se asocia directamente con Nueva York.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "nueva-york"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

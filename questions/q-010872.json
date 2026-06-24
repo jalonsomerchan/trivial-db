@@ -1,0 +1,41 @@
+{
+  "id": "q-010872",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fuerza produce una masa de 11 kg con aceleración de 10 m/s²?",
+  "answers": [
+    {
+      "text": "21 N",
+      "correct": false
+    },
+    {
+      "text": "100 N",
+      "correct": false
+    },
+    {
+      "text": "121 N",
+      "correct": false
+    },
+    {
+      "text": "110 N",
+      "correct": true
+    }
+  ],
+  "explanation": "Según F = m·a, la fuerza es 11 × 10 = 110 N.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "dinamica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013378",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la primera vuelta al mundo completada por Elcano?",
+  "answers": [
+    {
+      "text": "exploraciones oceánicas",
+      "correct": true
+    },
+    {
+      "text": "Macedonia antigua",
+      "correct": false
+    },
+    {
+      "text": "cruzadas",
+      "correct": false
+    },
+    {
+      "text": "Primera Guerra Mundial",
+      "correct": false
+    }
+  ],
+  "explanation": "La primera vuelta al mundo completada por Elcano se relaciona con exploraciones oceánicas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "exploraciones-oceanicas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

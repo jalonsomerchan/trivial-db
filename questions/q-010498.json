@@ -1,0 +1,42 @@
+{
+  "id": "q-010498",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o concepto artístico consiste en pintura sobre enlucido húmedo?",
+  "answers": [
+    {
+      "text": "perspectiva lineal",
+      "correct": false
+    },
+    {
+      "text": "ready-made",
+      "correct": false
+    },
+    {
+      "text": "fresco",
+      "correct": true
+    },
+    {
+      "text": "temple",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a fresco.",
+  "sources": [
+    {
+      "title": "MoMA Learning",
+      "url": "https://www.moma.org/learn/moma_learning/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "fresco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

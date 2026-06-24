@@ -1,0 +1,42 @@
+{
+  "id": "q-010331",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué movimiento se vincula la obra “El hijo del hombre”?",
+  "answers": [
+    {
+      "text": "Renacimiento",
+      "correct": false
+    },
+    {
+      "text": "Surrealismo",
+      "correct": true
+    },
+    {
+      "text": "Cubismo",
+      "correct": false
+    },
+    {
+      "text": "Impresionismo",
+      "correct": false
+    }
+  ],
+  "explanation": "“El hijo del hombre” se vincula con Surrealismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "surrealismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

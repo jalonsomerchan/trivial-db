@@ -1,0 +1,43 @@
+{
+  "id": "q-011862",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “The Witcher 3”?",
+  "answers": [
+    {
+      "text": "CD Projekt Red",
+      "correct": true
+    },
+    {
+      "text": "Square",
+      "correct": false
+    },
+    {
+      "text": "Santa Monica Studio",
+      "correct": false
+    },
+    {
+      "text": "Konami",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Witcher 3” se vincula con CD Projekt Red.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-witcher-3",
+    "cd-projekt-red"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

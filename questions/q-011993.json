@@ -1,0 +1,42 @@
+{
+  "id": "q-011993",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Toy Story”, “Titanic”, “Roma” y “Mad Max: Fury Road” fue dirigida por Alfonso Cuarón?",
+  "answers": [
+    {
+      "text": "Titanic",
+      "correct": false
+    },
+    {
+      "text": "Mad Max: Fury Road",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": true
+    }
+  ],
+  "explanation": "“Roma” se asocia con Alfonso Cuarón.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfonso-cuaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

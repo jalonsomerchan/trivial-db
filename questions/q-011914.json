@@ -1,0 +1,42 @@
+{
+  "id": "q-011914",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Casablanca”, “Origen”, “El viaje de Chihiro” y “Roma” fue dirigida por Alfonso Cuarón?",
+  "answers": [
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": true
+    },
+    {
+      "text": "Casablanca",
+      "correct": false
+    },
+    {
+      "text": "Origen",
+      "correct": false
+    }
+  ],
+  "explanation": "“Roma” se asocia con Alfonso Cuarón.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfonso-cuaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

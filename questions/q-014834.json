@@ -1,0 +1,41 @@
+{
+  "id": "q-014834",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 130 en sistema binario?",
+  "answers": [
+    {
+      "text": "10000100",
+      "correct": false
+    },
+    {
+      "text": "10000001",
+      "correct": false
+    },
+    {
+      "text": "10000010",
+      "correct": true
+    },
+    {
+      "text": "10000011",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 130 es 10000010.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

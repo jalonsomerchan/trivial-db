@@ -1,0 +1,43 @@
+{
+  "id": "q-014635",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla DNS en informática?",
+  "answers": [
+    {
+      "text": "Structured Query Language",
+      "correct": false
+    },
+    {
+      "text": "Domain Name System",
+      "correct": true
+    },
+    {
+      "text": "HyperText Markup Language",
+      "correct": false
+    },
+    {
+      "text": "Transmission Control Protocol",
+      "correct": false
+    }
+  ],
+  "explanation": "En informática, DNS significa Domain Name System.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "dns"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

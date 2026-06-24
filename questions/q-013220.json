@@ -1,0 +1,42 @@
+{
+  "id": "q-013220",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la independencia de Estados Unidos frente a la referencia histórica de la batalla de Waterloo?",
+  "answers": [
+    {
+      "text": "década de 1770",
+      "correct": true
+    },
+    {
+      "text": "década de 1760",
+      "correct": false
+    },
+    {
+      "text": "década de 1790",
+      "correct": false
+    },
+    {
+      "text": "década de 1780",
+      "correct": false
+    }
+  ],
+  "explanation": "La independencia de Estados Unidos ocurrió en 1776, dentro de la década de 1770.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

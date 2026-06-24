@@ -1,0 +1,42 @@
+{
+  "id": "q-013152",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué siglo pertenece la asesinato de Julio César?",
+  "answers": [
+    {
+      "text": "siglo I a. C.",
+      "correct": true
+    },
+    {
+      "text": "siglo XXI d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XVII d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo IV d. C.",
+      "correct": false
+    }
+  ],
+  "explanation": "La asesinato de Julio César se sitúa en el siglo I a. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

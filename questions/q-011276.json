@@ -1,0 +1,42 @@
+{
+  "id": "q-011276",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "futbol"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de sede y campeón corresponde al Mundial de fútbol de 2010 y no al de 1994?",
+  "answers": [
+    {
+      "text": "Sudáfrica y España",
+      "correct": true
+    },
+    {
+      "text": "Uruguay y Brasil",
+      "correct": false
+    },
+    {
+      "text": "Rusia y Italia",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos y Uruguay",
+      "correct": false
+    }
+  ],
+  "explanation": "El Mundial de 2010 se jugó en Sudáfrica y lo ganó España.",
+  "sources": [
+    {
+      "title": "FIFA",
+      "url": "https://www.fifa.com/"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "2010"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

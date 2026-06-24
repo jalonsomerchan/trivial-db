@@ -1,0 +1,42 @@
+{
+  "id": "q-012456",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo risotto, falafel, cuscús y kimchi se prepara típicamente con col fermentada?",
+  "answers": [
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": true
+    },
+    {
+      "text": "cuscús",
+      "correct": false
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    }
+  ],
+  "explanation": "kimchi se prepara típicamente con col fermentada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "kimchi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

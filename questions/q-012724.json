@@ -1,0 +1,43 @@
+{
+  "id": "q-012724",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a Sahara Occidental?",
+  "answers": [
+    {
+      "text": "AOA",
+      "correct": false
+    },
+    {
+      "text": "PGK",
+      "correct": false
+    },
+    {
+      "text": "NZD",
+      "correct": false
+    },
+    {
+      "text": "MAD",
+      "correct": true
+    }
+  ],
+  "explanation": "El código de moneda registrado para Sahara Occidental es MAD.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "sahara-occidental"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

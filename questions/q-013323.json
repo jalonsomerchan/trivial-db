@@ -1,0 +1,43 @@
+{
+  "id": "q-013323",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué personaje histórico se vincula con modernización rusa en Rusia?",
+  "answers": [
+    {
+      "text": "Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "Abraham Lincoln",
+      "correct": false
+    },
+    {
+      "text": "Pedro el Grande",
+      "correct": true
+    },
+    {
+      "text": "Catalina la Grande",
+      "correct": false
+    }
+  ],
+  "explanation": "Pedro el Grande se vincula con modernización rusa en Rusia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "pedro-el-grande"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010215",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “El grito”, “Las señoritas de Avignon”, “La joven de la perla” y “Composición con rojo, amarillo y azul” pertenece al Barroco?",
+  "answers": [
+    {
+      "text": "La joven de la perla",
+      "correct": true
+    },
+    {
+      "text": "El grito",
+      "correct": false
+    },
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": false
+    },
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": false
+    }
+  ],
+  "explanation": "“La joven de la perla” se vincula con Barroco.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "barroco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

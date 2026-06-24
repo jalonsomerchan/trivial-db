@@ -1,0 +1,41 @@
+{
+  "id": "q-010823",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué velocidad tiene una onda de longitud 7 m y frecuencia 19 Hz?",
+  "answers": [
+    {
+      "text": "152 m/s",
+      "correct": false
+    },
+    {
+      "text": "26 m/s",
+      "correct": false
+    },
+    {
+      "text": "133 m/s",
+      "correct": true
+    },
+    {
+      "text": "140 m/s",
+      "correct": false
+    }
+  ],
+  "explanation": "La velocidad de una onda es longitud de onda por frecuencia: 7 × 19 = 133 m/s.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "ondas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

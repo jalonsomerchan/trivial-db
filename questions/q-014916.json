@@ -1,0 +1,41 @@
+{
+  "id": "q-014916",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 408 en sistema binario?",
+  "answers": [
+    {
+      "text": "110010111",
+      "correct": false
+    },
+    {
+      "text": "110011001",
+      "correct": false
+    },
+    {
+      "text": "110011010",
+      "correct": false
+    },
+    {
+      "text": "110011000",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 408 es 110011000.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

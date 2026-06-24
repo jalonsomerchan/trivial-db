@@ -1,0 +1,43 @@
+{
+  "id": "q-012338",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con biryani?",
+  "answers": [
+    {
+      "text": "Canadá",
+      "correct": false
+    },
+    {
+      "text": "Indonesia",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": true
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    }
+  ],
+  "explanation": "biryani se asocia tradicionalmente con India.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "biryani",
+    "india"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

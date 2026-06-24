@@ -1,0 +1,42 @@
+{
+  "id": "q-012184",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia Grecia con yogur y pepino?",
+  "answers": [
+    {
+      "text": "tzatziki",
+      "correct": true
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "chili con carne",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": false
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es tzatziki.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tzatziki"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-014094",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto resulta al restar 266 de 1122?",
+  "answers": [
+    {
+      "text": "906",
+      "correct": false
+    },
+    {
+      "text": "861",
+      "correct": false
+    },
+    {
+      "text": "851",
+      "correct": false
+    },
+    {
+      "text": "856",
+      "correct": true
+    }
+  ],
+  "explanation": "Al calcular 1122 - 266 se obtiene 856.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

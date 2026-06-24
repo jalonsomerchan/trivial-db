@@ -1,0 +1,42 @@
+{
+  "id": "q-013411",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre Tratado de Maastricht, concilio de Nicea, asesinato de Julio César y batalla de Lepanto?",
+  "answers": [
+    {
+      "text": "Tratado de Maastricht",
+      "correct": true
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "concilio de Nicea",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Tratado de Maastricht es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

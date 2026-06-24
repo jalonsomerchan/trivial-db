@@ -1,0 +1,42 @@
+{
+  "id": "q-012050",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo manzana, avellana, leche y cerdo es un ejemplo de carne?",
+  "answers": [
+    {
+      "text": "avellana",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": false
+    },
+    {
+      "text": "cerdo",
+      "correct": true
+    },
+    {
+      "text": "manzana",
+      "correct": false
+    }
+  ],
+  "explanation": "cerdo es un ejemplo de carne.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

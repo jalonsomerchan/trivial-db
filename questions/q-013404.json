@@ -1,0 +1,42 @@
+{
+  "id": "q-013404",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre Paz de Westfalia, publicación de las 95 tesis de Lutero, independencia de Estados Unidos y caída del Imperio romano de Occidente?",
+  "answers": [
+    {
+      "text": "publicación de las 95 tesis de Lutero",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "independencia de Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, independencia de Estados Unidos es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

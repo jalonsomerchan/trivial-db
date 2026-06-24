@@ -1,0 +1,42 @@
+{
+  "id": "q-013995",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué tiempo o construcción verbal aparece en “yo estudiaría”?",
+  "answers": [
+    {
+      "text": "pretérito perfecto compuesto",
+      "correct": false
+    },
+    {
+      "text": "pretérito imperfecto de subjuntivo",
+      "correct": false
+    },
+    {
+      "text": "condicional simple",
+      "correct": true
+    },
+    {
+      "text": "perífrasis de futuro",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo estudiaría” corresponde a condicional simple.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "condicional-simple"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

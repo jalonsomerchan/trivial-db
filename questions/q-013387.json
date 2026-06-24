@@ -1,0 +1,43 @@
+{
+  "id": "q-013387",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso se asocia históricamente Carlos I de España?",
+  "answers": [
+    {
+      "text": "independencia india",
+      "correct": false
+    },
+    {
+      "text": "conquista normanda",
+      "correct": false
+    },
+    {
+      "text": "Casa de Austria",
+      "correct": true
+    },
+    {
+      "text": "monarquía hispánica",
+      "correct": false
+    }
+  ],
+  "explanation": "Carlos I de España se asocia con Casa de Austria.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "carlos-i-de-espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

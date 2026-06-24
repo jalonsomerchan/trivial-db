@@ -1,0 +1,42 @@
+{
+  "id": "q-012747",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Austria?",
+  "answers": [
+    {
+      "text": "Western Europe",
+      "correct": true
+    },
+    {
+      "text": "Caribbean",
+      "correct": false
+    },
+    {
+      "text": "South America",
+      "correct": false
+    },
+    {
+      "text": "Central Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "Austria pertenece a la subregión Western Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

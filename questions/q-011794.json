@@ -1,0 +1,42 @@
+{
+  "id": "q-011794",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “The Legend of Zelda”, “Half-Life”, “Uncharted” y “Metal Gear Solid” encaja con Nathan Drake y el género aventura?",
+  "answers": [
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    },
+    {
+      "text": "Uncharted",
+      "correct": true
+    },
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": false
+    }
+  ],
+  "explanation": "Nathan Drake se asocia con “Uncharted”, que se describe como aventura.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "uncharted"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

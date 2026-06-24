@@ -1,0 +1,42 @@
+{
+  "id": "q-013658",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ejemplo corresponde a una símil?",
+  "answers": [
+    {
+      "text": "Corre como el viento",
+      "correct": true
+    },
+    {
+      "text": "Te lo he dicho mil veces",
+      "correct": false
+    },
+    {
+      "text": "Tus dientes son perlas",
+      "correct": false
+    },
+    {
+      "text": "Menos es más",
+      "correct": false
+    }
+  ],
+  "explanation": "“Corre como el viento” es un ejemplo de símil.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "simil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

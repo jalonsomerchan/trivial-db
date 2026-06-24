@@ -1,0 +1,42 @@
+{
+  "id": "q-012012",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo alubias, avellana, zanahoria y ternera es un ejemplo de hortaliza?",
+  "answers": [
+    {
+      "text": "zanahoria",
+      "correct": true
+    },
+    {
+      "text": "ternera",
+      "correct": false
+    },
+    {
+      "text": "avellana",
+      "correct": false
+    },
+    {
+      "text": "alubias",
+      "correct": false
+    }
+  ],
+  "explanation": "zanahoria es un ejemplo de hortaliza.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "hortaliza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

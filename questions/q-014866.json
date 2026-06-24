@@ -1,0 +1,41 @@
+{
+  "id": "q-014866",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 215 en sistema binario?",
+  "answers": [
+    {
+      "text": "11011000",
+      "correct": false
+    },
+    {
+      "text": "11010111",
+      "correct": true
+    },
+    {
+      "text": "11010110",
+      "correct": false
+    },
+    {
+      "text": "11011001",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 215 es 11010111.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

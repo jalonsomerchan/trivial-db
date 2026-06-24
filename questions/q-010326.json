@@ -1,0 +1,42 @@
+{
+  "id": "q-010326",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué significa tenebrismo en el contexto artístico?",
+  "answers": [
+    {
+      "text": "uso dramático de contrastes intensos de luz y sombra",
+      "correct": true
+    },
+    {
+      "text": "incorporación de materiales pegados a la obra",
+      "correct": false
+    },
+    {
+      "text": "uso de objetos cotidianos como obra artística",
+      "correct": false
+    },
+    {
+      "text": "impresión desde una piedra o plancha preparada",
+      "correct": false
+    }
+  ],
+  "explanation": "En arte, tenebrismo se refiere a uso dramático de contrastes intensos de luz y sombra.",
+  "sources": [
+    {
+      "title": "MoMA Learning",
+      "url": "https://www.moma.org/learn/moma_learning/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tenebrismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

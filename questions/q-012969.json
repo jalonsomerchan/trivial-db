@@ -1,0 +1,43 @@
+{
+  "id": "q-012969",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Madagascar?",
+  "answers": [
+    {
+      "text": ".al",
+      "correct": false
+    },
+    {
+      "text": ".mx",
+      "correct": false
+    },
+    {
+      "text": ".mg",
+      "correct": true
+    },
+    {
+      "text": ".as",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Madagascar es .mg.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "madagascar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

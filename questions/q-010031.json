@@ -1,0 +1,43 @@
+{
+  "id": "q-010031",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista creó “Las señoritas de Avignon”?",
+  "answers": [
+    {
+      "text": "René Magritte",
+      "correct": false
+    },
+    {
+      "text": "Johannes Vermeer",
+      "correct": false
+    },
+    {
+      "text": "Pablo Picasso",
+      "correct": true
+    },
+    {
+      "text": "Miguel Ángel",
+      "correct": false
+    }
+  ],
+  "explanation": "“Las señoritas de Avignon” es una obra de Pablo Picasso.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pablo-picasso",
+    "las-senoritas-de-avignon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

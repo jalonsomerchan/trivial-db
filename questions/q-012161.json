@@ -1,0 +1,43 @@
+{
+  "id": "q-012161",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué describe mejor la técnica culinaria de glasear?",
+  "answers": [
+    {
+      "text": "cocinar rápido con poca grasa y fuego alto",
+      "correct": false
+    },
+    {
+      "text": "cocinar por calor seco directo o indirecto",
+      "correct": false
+    },
+    {
+      "text": "cubrir con una capa brillante",
+      "correct": true
+    },
+    {
+      "text": "cocinar lentamente en grasa o almíbar",
+      "correct": false
+    }
+  ],
+  "explanation": "glasear consiste en cubrir con una capa brillante.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "glasear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013676",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué forma verbal ejemplifica perífrasis de futuro?",
+  "answers": [
+    {
+      "text": "yo he estudiado",
+      "correct": false
+    },
+    {
+      "text": "yo estudiaría",
+      "correct": false
+    },
+    {
+      "text": "que yo estudiara",
+      "correct": false
+    },
+    {
+      "text": "yo voy a estudiar",
+      "correct": true
+    }
+  ],
+  "explanation": "La forma “yo voy a estudiar” ejemplifica perífrasis de futuro.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "perifrasis-de-futuro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

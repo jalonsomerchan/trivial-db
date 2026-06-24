@@ -1,0 +1,41 @@
+{
+  "id": "q-010764",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué presión ejerce una fuerza de 413 N sobre un área de 7 m²?",
+  "answers": [
+    {
+      "text": "59 Pa",
+      "correct": true
+    },
+    {
+      "text": "66 Pa",
+      "correct": false
+    },
+    {
+      "text": "420 Pa",
+      "correct": false
+    },
+    {
+      "text": "52 Pa",
+      "correct": false
+    }
+  ],
+  "explanation": "La presión es fuerza dividida entre área: 413/7 = 59 Pa.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "presion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013249",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la revoluciones europeas de 1848 frente a la referencia histórica de la batalla de Hastings?",
+  "answers": [
+    {
+      "text": "década de 1860",
+      "correct": false
+    },
+    {
+      "text": "década de 1850",
+      "correct": false
+    },
+    {
+      "text": "década de 1830",
+      "correct": false
+    },
+    {
+      "text": "década de 1840",
+      "correct": true
+    }
+  ],
+  "explanation": "La revoluciones europeas de 1848 ocurrió en 1848, dentro de la década de 1840.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

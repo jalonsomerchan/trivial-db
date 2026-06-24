@@ -1,0 +1,42 @@
+{
+  "id": "q-011832",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estilo musical se asocia con “El mal querer”?",
+  "answers": [
+    {
+      "text": "pop rock",
+      "correct": false
+    },
+    {
+      "text": "R&B",
+      "correct": false
+    },
+    {
+      "text": "electrónica",
+      "correct": false
+    },
+    {
+      "text": "flamenco pop",
+      "correct": true
+    }
+  ],
+  "explanation": "“El mal querer” se asocia con flamenco pop.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "flamenco-pop"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

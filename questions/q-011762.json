@@ -1,0 +1,42 @@
+{
+  "id": "q-011762",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Portal”, “The Last of Us”, “Minecraft” y “Uncharted” encaja con Nathan Drake y el género aventura?",
+  "answers": [
+    {
+      "text": "Portal",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": false
+    },
+    {
+      "text": "Uncharted",
+      "correct": true
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    }
+  ],
+  "explanation": "Nathan Drake se asocia con “Uncharted”, que se describe como aventura.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "uncharted"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

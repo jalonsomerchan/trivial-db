@@ -1,0 +1,42 @@
+{
+  "id": "q-013678",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué forma verbal ejemplifica presente de indicativo?",
+  "answers": [
+    {
+      "text": "yo estudio",
+      "correct": true
+    },
+    {
+      "text": "yo voy a estudiar",
+      "correct": false
+    },
+    {
+      "text": "yo hube estudiado",
+      "correct": false
+    },
+    {
+      "text": "que yo estudiara",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo estudio” ejemplifica presente de indicativo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "presente-de-indicativo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013520",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “azul”, “brújula”, “carácter” y “jabalí” es llana?",
+  "answers": [
+    {
+      "text": "jabalí",
+      "correct": false
+    },
+    {
+      "text": "azul",
+      "correct": false
+    },
+    {
+      "text": "brújula",
+      "correct": false
+    },
+    {
+      "text": "carácter",
+      "correct": true
+    }
+  ],
+  "explanation": "“carácter” es una palabra llana.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "llana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

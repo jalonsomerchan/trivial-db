@@ -1,0 +1,42 @@
+{
+  "id": "q-013369",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la independencia de México?",
+  "answers": [
+    {
+      "text": "Guerra Fría",
+      "correct": false
+    },
+    {
+      "text": "final de la Guerra Fría",
+      "correct": false
+    },
+    {
+      "text": "final de la República romana",
+      "correct": false
+    },
+    {
+      "text": "independencias americanas",
+      "correct": true
+    }
+  ],
+  "explanation": "La independencia de México se relaciona con independencias americanas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "independencias-americanas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

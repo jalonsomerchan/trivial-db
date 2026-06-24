@@ -1,0 +1,42 @@
+{
+  "id": "q-013710",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Corre como el viento” dentro del grupo de ejemplos “La ciudad nunca duerme”, “Corre como el viento”, “El dulce amargor de la despedida” y “Vivo sin vivir en mí”?",
+  "answers": [
+    {
+      "text": "símil",
+      "correct": true
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “Corre como el viento” contiene símil.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "simil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

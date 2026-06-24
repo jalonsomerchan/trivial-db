@@ -1,0 +1,42 @@
+{
+  "id": "q-011703",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “God of War”, “Super Mario Bros.”, “Mega Man” y “Street Fighter II” encaja con Mario y el género plataformas?",
+  "answers": [
+    {
+      "text": "God of War",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Street Fighter II",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": true
+    }
+  ],
+  "explanation": "Mario se asocia con “Super Mario Bros.”, que se describe como plataformas.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "super-mario-bros"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

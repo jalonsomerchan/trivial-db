@@ -1,0 +1,43 @@
+{
+  "id": "q-011516",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Avatar”?",
+  "answers": [
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    },
+    {
+      "text": "James Cameron",
+      "correct": true
+    },
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": false
+    }
+  ],
+  "explanation": "“Avatar” está asociada con el director James Cameron.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "avatar",
+    "james-cameron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

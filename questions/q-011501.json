@@ -1,0 +1,42 @@
+{
+  "id": "q-011501",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué término de voleibol aparece entre slalom, triple salto, líbero y home run?",
+  "answers": [
+    {
+      "text": "triple salto",
+      "correct": false
+    },
+    {
+      "text": "líbero",
+      "correct": true
+    },
+    {
+      "text": "slalom",
+      "correct": false
+    },
+    {
+      "text": "home run",
+      "correct": false
+    }
+  ],
+  "explanation": "“líbero” es un término usado en voleibol.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "voleibol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

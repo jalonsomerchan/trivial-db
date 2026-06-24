@@ -1,0 +1,42 @@
+{
+  "id": "q-013979",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra se opone semánticamente a “implícito”?",
+  "answers": [
+    {
+      "text": "cauto",
+      "correct": false
+    },
+    {
+      "text": "admitir",
+      "correct": false
+    },
+    {
+      "text": "explícito",
+      "correct": true
+    },
+    {
+      "text": "altruista",
+      "correct": false
+    }
+  ],
+  "explanation": "“explícito” y “implícito” son antónimos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "explicito"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012806",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a San Cristóbal y Nieves?",
+  "answers": [
+    {
+      "text": "South-Eastern Asia",
+      "correct": false
+    },
+    {
+      "text": "Australia and New Zealand",
+      "correct": false
+    },
+    {
+      "text": "Caribbean",
+      "correct": true
+    },
+    {
+      "text": "Eastern Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "San Cristóbal y Nieves pertenece a la subregión Caribbean.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

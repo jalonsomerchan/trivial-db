@@ -1,0 +1,42 @@
+{
+  "id": "q-010599",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la unidad del Sistema Internacional para medir inducción magnética?",
+  "answers": [
+    {
+      "text": "tesla",
+      "correct": true
+    },
+    {
+      "text": "weber",
+      "correct": false
+    },
+    {
+      "text": "lumen",
+      "correct": false
+    },
+    {
+      "text": "julio",
+      "correct": false
+    }
+  ],
+  "explanation": "La unidad SI de inducción magnética es el tesla.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "induccion-magnetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

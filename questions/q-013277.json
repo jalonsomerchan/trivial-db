@@ -1,0 +1,42 @@
+{
+  "id": "q-013277",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la batalla de Trafalgar?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Inglaterra",
+      "correct": false
+    },
+    {
+      "text": "costa de Cádiz",
+      "correct": true
+    }
+  ],
+  "explanation": "La batalla de Trafalgar se asocia directamente con costa de Cádiz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "costa-de-cadiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

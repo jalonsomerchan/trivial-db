@@ -1,0 +1,41 @@
+{
+  "id": "q-014499",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 75% de 500?",
+  "answers": [
+    {
+      "text": "365",
+      "correct": false
+    },
+    {
+      "text": "385",
+      "correct": false
+    },
+    {
+      "text": "380",
+      "correct": false
+    },
+    {
+      "text": "375",
+      "correct": true
+    }
+  ],
+  "explanation": "El 75% de 500 se calcula como 500 × 75/100 = 375.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

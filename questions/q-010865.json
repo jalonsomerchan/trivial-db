@@ -1,0 +1,42 @@
+{
+  "id": "q-010865",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento yodo?",
+  "answers": [
+    {
+      "text": "halógeno",
+      "correct": true
+    },
+    {
+      "text": "no metal",
+      "correct": false
+    },
+    {
+      "text": "actínido",
+      "correct": false
+    },
+    {
+      "text": "metaloide",
+      "correct": false
+    }
+  ],
+  "explanation": "El yodo se clasifica como halógeno.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "halogeno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

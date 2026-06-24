@@ -1,0 +1,42 @@
+{
+  "id": "q-014826",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué servicio se asocia normalmente con el puerto 993?",
+  "answers": [
+    {
+      "text": "IMAPS",
+      "correct": true
+    },
+    {
+      "text": "HTTP",
+      "correct": false
+    },
+    {
+      "text": "IMAP",
+      "correct": false
+    },
+    {
+      "text": "POP3",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 993 se asocia habitualmente con IMAPS.",
+  "sources": [
+    {
+      "title": "IANA Service Name and Transport Protocol Port Number Registry",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "puertos",
+    "imaps"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

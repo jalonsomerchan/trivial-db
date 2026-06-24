@@ -1,0 +1,42 @@
+{
+  "id": "q-010646",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué sistema del cuerpo humano se encarga de filtrar sangre y formar orina?",
+  "answers": [
+    {
+      "text": "sistema urinario",
+      "correct": true
+    },
+    {
+      "text": "sistema muscular",
+      "correct": false
+    },
+    {
+      "text": "sistema óseo",
+      "correct": false
+    },
+    {
+      "text": "sistema endocrino",
+      "correct": false
+    }
+  ],
+  "explanation": "La función descrita corresponde al sistema urinario.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "sistema-urinario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012395",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo croissant, cuscús, moussaka y tacos se prepara típicamente con sémola de trigo?",
+  "answers": [
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    },
+    {
+      "text": "cuscús",
+      "correct": true
+    }
+  ],
+  "explanation": "cuscús se prepara típicamente con sémola de trigo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cuscus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

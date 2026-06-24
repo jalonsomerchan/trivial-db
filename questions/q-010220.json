@@ -1,0 +1,42 @@
+{
+  "id": "q-010220",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “El hijo del hombre”, “Number 1A, 1948”, “El grito” y “La última cena” pertenece al Expresionismo abstracto?",
+  "answers": [
+    {
+      "text": "El hijo del hombre",
+      "correct": false
+    },
+    {
+      "text": "La última cena",
+      "correct": false
+    },
+    {
+      "text": "Number 1A, 1948",
+      "correct": true
+    },
+    {
+      "text": "El grito",
+      "correct": false
+    }
+  ],
+  "explanation": "“Number 1A, 1948” se vincula con Expresionismo abstracto.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "expresionismo-abstracto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

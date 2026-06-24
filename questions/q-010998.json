@@ -1,0 +1,42 @@
+{
+  "id": "q-010998",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia-celular"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué orgánulo celular se encarga de realizar la fotosíntesis?",
+  "answers": [
+    {
+      "text": "mitocondria",
+      "correct": false
+    },
+    {
+      "text": "aparato de Golgi",
+      "correct": false
+    },
+    {
+      "text": "vacuola",
+      "correct": false
+    },
+    {
+      "text": "cloroplasto",
+      "correct": true
+    }
+  ],
+  "explanation": "El orgánulo asociado con esa función es cloroplasto.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "celula",
+    "cloroplasto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

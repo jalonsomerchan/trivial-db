@@ -1,0 +1,42 @@
+{
+  "id": "q-011672",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Alfonso Cuarón encaja con el género drama?",
+  "answers": [
+    {
+      "text": "Jurassic Park",
+      "correct": false
+    },
+    {
+      "text": "Avatar",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": true
+    },
+    {
+      "text": "Blade Runner",
+      "correct": false
+    }
+  ],
+  "explanation": "“Roma” fue dirigida por Alfonso Cuarón y se asocia con drama.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfonso-cuaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

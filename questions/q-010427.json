@@ -1,0 +1,42 @@
+{
+  "id": "q-010427",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Hamlet”, “Pedro Páramo”, “La metamorfosis” y “Frankenstein” fue escrita por Juan Rulfo?",
+  "answers": [
+    {
+      "text": "Hamlet",
+      "correct": false
+    },
+    {
+      "text": "Pedro Páramo",
+      "correct": true
+    },
+    {
+      "text": "Frankenstein",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pedro Páramo” fue escrita por Juan Rulfo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "juan-rulfo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

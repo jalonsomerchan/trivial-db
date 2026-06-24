@@ -1,0 +1,42 @@
+{
+  "id": "q-012187",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato combina la referencia India con arroz especiado?",
+  "answers": [
+    {
+      "text": "pizza napolitana",
+      "correct": false
+    },
+    {
+      "text": "hummus",
+      "correct": false
+    },
+    {
+      "text": "shakshuka",
+      "correct": false
+    },
+    {
+      "text": "biryani",
+      "correct": true
+    }
+  ],
+  "explanation": "El plato que combina esa referencia culinaria es biryani.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "biryani"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

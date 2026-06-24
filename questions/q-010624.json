@@ -1,0 +1,42 @@
+{
+  "id": "q-010624",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico representa el símbolo Na?",
+  "answers": [
+    {
+      "text": "potasio",
+      "correct": false
+    },
+    {
+      "text": "flúor",
+      "correct": false
+    },
+    {
+      "text": "uranio",
+      "correct": false
+    },
+    {
+      "text": "sodio",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico Na representa al sodio.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "sodio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

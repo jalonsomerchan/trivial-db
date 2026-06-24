@@ -1,0 +1,42 @@
+{
+  "id": "q-013738",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “El silencio gritaba en la sala” dentro del grupo de ejemplos “El silencio gritaba en la sala”, “El dulce amargor de la despedida”, “Menos es más” y “Compró pan, leche y fruta”?",
+  "answers": [
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": true
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “El silencio gritaba en la sala” contiene personificación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "personificacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

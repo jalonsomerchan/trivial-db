@@ -1,0 +1,42 @@
+{
+  "id": "q-010418",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Guerra y paz”, “La Odisea”, “El extranjero” y “Frankenstein” fue escrita por Homero?",
+  "answers": [
+    {
+      "text": "Frankenstein",
+      "correct": false
+    },
+    {
+      "text": "La Odisea",
+      "correct": true
+    },
+    {
+      "text": "Guerra y paz",
+      "correct": false
+    },
+    {
+      "text": "El extranjero",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Odisea” fue escrita por Homero.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "homero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

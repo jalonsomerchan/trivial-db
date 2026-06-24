@@ -1,0 +1,41 @@
+{
+  "id": "q-014946",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 492 en sistema binario?",
+  "answers": [
+    {
+      "text": "111101110",
+      "correct": false
+    },
+    {
+      "text": "111101100",
+      "correct": true
+    },
+    {
+      "text": "111101011",
+      "correct": false
+    },
+    {
+      "text": "111101101",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 492 es 111101100.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

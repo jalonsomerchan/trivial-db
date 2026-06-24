@@ -1,0 +1,42 @@
+{
+  "id": "q-012444",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo poke, poutine, bibimbap y chili con carne se prepara típicamente con carne y chile?",
+  "answers": [
+    {
+      "text": "chili con carne",
+      "correct": true
+    },
+    {
+      "text": "poutine",
+      "correct": false
+    },
+    {
+      "text": "poke",
+      "correct": false
+    },
+    {
+      "text": "bibimbap",
+      "correct": false
+    }
+  ],
+  "explanation": "chili con carne se prepara típicamente con carne y chile.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "chili-con-carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

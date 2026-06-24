@@ -1,0 +1,42 @@
+{
+  "id": "q-013371",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la inicio de la Primera Cruzada?",
+  "answers": [
+    {
+      "text": "cristianismo antiguo",
+      "correct": false
+    },
+    {
+      "text": "cruzadas",
+      "correct": true
+    },
+    {
+      "text": "integración europea",
+      "correct": false
+    },
+    {
+      "text": "independencias americanas",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Primera Cruzada se relaciona con cruzadas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cruzadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013793",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Te lo he dicho mil veces” dentro del grupo de ejemplos “El silencio gritaba en la sala”, “Menos es más”, “El dulce amargor de la despedida” y “Te lo he dicho mil veces”?",
+  "answers": [
+    {
+      "text": "metáfora",
+      "correct": false
+    },
+    {
+      "text": "hipérbole",
+      "correct": true
+    },
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “Te lo he dicho mil veces” contiene hipérbole.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "hiperbole"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

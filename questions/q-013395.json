@@ -1,0 +1,43 @@
+{
+  "id": "q-013395",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso se asocia históricamente Luis XIV?",
+  "answers": [
+    {
+      "text": "independencia india",
+      "correct": false
+    },
+    {
+      "text": "monarquía absoluta",
+      "correct": true
+    },
+    {
+      "text": "Guerra de Secesión",
+      "correct": false
+    },
+    {
+      "text": "fin del apartheid",
+      "correct": false
+    }
+  ],
+  "explanation": "Luis XIV se asocia con monarquía absoluta.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "luis-xiv"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

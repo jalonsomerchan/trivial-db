@@ -1,0 +1,43 @@
+{
+  "id": "q-012157",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué describe mejor la técnica culinaria de emulsionar?",
+  "answers": [
+    {
+      "text": "cubrir con una capa brillante",
+      "correct": false
+    },
+    {
+      "text": "unir líquidos que normalmente no se mezclan",
+      "correct": true
+    },
+    {
+      "text": "dorar la superficie con calor intenso",
+      "correct": false
+    },
+    {
+      "text": "cocinar rápido con poca grasa y fuego alto",
+      "correct": false
+    }
+  ],
+  "explanation": "emulsionar consiste en unir líquidos que normalmente no se mezclan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "emulsionar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

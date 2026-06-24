@@ -1,0 +1,42 @@
+{
+  "id": "q-014971",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como estructura para acelerar búsquedas?",
+  "answers": [
+    {
+      "text": "cache",
+      "correct": false
+    },
+    {
+      "text": "compilador",
+      "correct": false
+    },
+    {
+      "text": "latencia",
+      "correct": false
+    },
+    {
+      "text": "índice de base de datos",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a índice de base de datos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "indice-de-base-de-datos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

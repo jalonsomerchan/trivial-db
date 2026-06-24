@@ -1,0 +1,42 @@
+{
+  "id": "q-014818",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué servicio se asocia normalmente con el puerto 27017?",
+  "answers": [
+    {
+      "text": "Redis",
+      "correct": false
+    },
+    {
+      "text": "HTTP",
+      "correct": false
+    },
+    {
+      "text": "MongoDB",
+      "correct": true
+    },
+    {
+      "text": "POP3",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 27017 se asocia habitualmente con MongoDB.",
+  "sources": [
+    {
+      "title": "IANA Service Name and Transport Protocol Port Number Registry",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "puertos",
+    "mongodb"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

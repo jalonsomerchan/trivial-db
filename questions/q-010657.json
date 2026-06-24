@@ -1,0 +1,42 @@
+{
+  "id": "q-010657",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia-celular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la función principal de la estructura celular llamada núcleo celular?",
+  "answers": [
+    {
+      "text": "realizar la fotosíntesis",
+      "correct": false
+    },
+    {
+      "text": "sintetizar proteínas",
+      "correct": false
+    },
+    {
+      "text": "contener el material genético",
+      "correct": true
+    },
+    {
+      "text": "almacenar sustancias",
+      "correct": false
+    }
+  ],
+  "explanation": "La función principal de núcleo celular es contener el material genético.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "celula",
+    "nucleo-celular"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

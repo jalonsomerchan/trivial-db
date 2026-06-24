@@ -1,0 +1,42 @@
+{
+  "id": "q-010409",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Fausto”, “Romancero gitano”, “1984” y “Romeo y Julieta” fue escrita por George Orwell?",
+  "answers": [
+    {
+      "text": "Fausto",
+      "correct": false
+    },
+    {
+      "text": "Romeo y Julieta",
+      "correct": false
+    },
+    {
+      "text": "1984",
+      "correct": true
+    },
+    {
+      "text": "Romancero gitano",
+      "correct": false
+    }
+  ],
+  "explanation": "“1984” fue escrita por George Orwell.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "george-orwell"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011543",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con “Metroid”?",
+  "answers": [
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Nathan Drake",
+      "correct": false
+    },
+    {
+      "text": "Samus Aran",
+      "correct": true
+    },
+    {
+      "text": "Lara Croft",
+      "correct": false
+    }
+  ],
+  "explanation": "Samus Aran es un personaje asociado con “Metroid”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metroid",
+    "samus-aran"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

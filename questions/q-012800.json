@@ -1,0 +1,42 @@
+{
+  "id": "q-012800",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Polonia?",
+  "answers": [
+    {
+      "text": "Melanesia",
+      "correct": false
+    },
+    {
+      "text": "Middle Africa",
+      "correct": false
+    },
+    {
+      "text": "Central Asia",
+      "correct": false
+    },
+    {
+      "text": "Eastern Europe",
+      "correct": true
+    }
+  ],
+  "explanation": "Polonia pertenece a la subregión Eastern Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

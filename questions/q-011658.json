@@ -1,0 +1,43 @@
+{
+  "id": "q-011658",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “Metroid”?",
+  "answers": [
+    {
+      "text": "aventura",
+      "correct": false
+    },
+    {
+      "text": "sandbox",
+      "correct": false
+    },
+    {
+      "text": "terror",
+      "correct": false
+    },
+    {
+      "text": "acción y exploración",
+      "correct": true
+    }
+  ],
+  "explanation": "“Metroid” se describe habitualmente como acción y exploración.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metroid",
+    "accion-y-exploracion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

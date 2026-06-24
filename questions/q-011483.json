@@ -1,0 +1,42 @@
+{
+  "id": "q-011483",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué término de rugby aparece entre sable, ensayo, ippon y power play?",
+  "answers": [
+    {
+      "text": "sable",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": true
+    },
+    {
+      "text": "ippon",
+      "correct": false
+    },
+    {
+      "text": "power play",
+      "correct": false
+    }
+  ],
+  "explanation": "“ensayo” es un término usado en rugby.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "rugby"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

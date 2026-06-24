@@ -1,0 +1,43 @@
+{
+  "id": "q-011550",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con “Street Fighter II”?",
+  "answers": [
+    {
+      "text": "Nathan Drake",
+      "correct": false
+    },
+    {
+      "text": "Ryu",
+      "correct": true
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Geralt de Rivia",
+      "correct": false
+    }
+  ],
+  "explanation": "Ryu es un personaje asociado con “Street Fighter II”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "street-fighter-ii",
+    "ryu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

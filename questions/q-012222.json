@@ -1,0 +1,42 @@
+{
+  "id": "q-012222",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo biryani, kimchi, feijoada y paella encaja con India y con el ingrediente arroz especiado?",
+  "answers": [
+    {
+      "text": "biryani",
+      "correct": true
+    },
+    {
+      "text": "feijoada",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "paella",
+      "correct": false
+    }
+  ],
+  "explanation": "biryani se asocia con India y con arroz especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "biryani"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

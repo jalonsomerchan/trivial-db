@@ -1,0 +1,42 @@
+{
+  "id": "q-010115",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “Moby Dick” frente a la referencia “Cien años de soledad”?",
+  "answers": [
+    {
+      "text": "Herman Melville",
+      "correct": true
+    },
+    {
+      "text": "George Orwell",
+      "correct": false
+    },
+    {
+      "text": "Johann Wolfgang von Goethe",
+      "correct": false
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “Moby Dick” pertenece a Herman Melville.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "herman-melville"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013463",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre firma de la Carta Magna, fundación tradicional de Roma, caída del Muro de Berlín y ampliación de la Unión Europea de 2004?",
+  "answers": [
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": false
+    },
+    {
+      "text": "ampliación de la Unión Europea de 2004",
+      "correct": true
+    },
+    {
+      "text": "firma de la Carta Magna",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, ampliación de la Unión Europea de 2004 es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011688",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película de Quentin Tarantino encaja con el género crimen?",
+  "answers": [
+    {
+      "text": "Pulp Fiction",
+      "correct": true
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "Origen",
+      "correct": false
+    },
+    {
+      "text": "Wall·E",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pulp Fiction” fue dirigida por Quentin Tarantino y se asocia con crimen.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "quentin-tarantino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

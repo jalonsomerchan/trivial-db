@@ -1,0 +1,42 @@
+{
+  "id": "q-010370",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “Romancero gitano”?",
+  "answers": [
+    {
+      "text": "novela gótica",
+      "correct": false
+    },
+    {
+      "text": "novela existencialista",
+      "correct": false
+    },
+    {
+      "text": "poesía",
+      "correct": true
+    },
+    {
+      "text": "sátira política",
+      "correct": false
+    }
+  ],
+  "explanation": "“Romancero gitano” se clasifica habitualmente como poesía.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "poesia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

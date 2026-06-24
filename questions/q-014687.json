@@ -1,0 +1,42 @@
+{
+  "id": "q-014687",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "logica-binaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de 11 OR 2 en lógica bit a bit?",
+  "answers": [
+    {
+      "text": "10",
+      "correct": false
+    },
+    {
+      "text": "11",
+      "correct": true
+    },
+    {
+      "text": "13",
+      "correct": false
+    },
+    {
+      "text": "12",
+      "correct": false
+    }
+  ],
+  "explanation": "La operación bit a bit 11 OR 2 produce 11.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "or"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

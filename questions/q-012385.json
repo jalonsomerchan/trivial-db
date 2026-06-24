@@ -1,0 +1,42 @@
+{
+  "id": "q-012385",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo bibimbap, tzatziki, ceviche y fondue se prepara típicamente con arroz con verduras?",
+  "answers": [
+    {
+      "text": "tzatziki",
+      "correct": false
+    },
+    {
+      "text": "ceviche",
+      "correct": false
+    },
+    {
+      "text": "bibimbap",
+      "correct": true
+    },
+    {
+      "text": "fondue",
+      "correct": false
+    }
+  ],
+  "explanation": "bibimbap se prepara típicamente con arroz con verduras.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bibimbap"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

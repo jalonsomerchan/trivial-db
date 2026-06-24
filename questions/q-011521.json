@@ -1,0 +1,43 @@
+{
+  "id": "q-011521",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “El caballero oscuro”?",
+  "answers": [
+    {
+      "text": "Ridley Scott",
+      "correct": false
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Andrew Stanton",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": true
+    }
+  ],
+  "explanation": "“El caballero oscuro” está asociada con el director Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-caballero-oscuro",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

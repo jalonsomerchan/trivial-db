@@ -1,0 +1,42 @@
+{
+  "id": "q-010862",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento silicio?",
+  "answers": [
+    {
+      "text": "metaloide",
+      "correct": true
+    },
+    {
+      "text": "halógeno",
+      "correct": false
+    },
+    {
+      "text": "no metal",
+      "correct": false
+    },
+    {
+      "text": "metal",
+      "correct": false
+    }
+  ],
+  "explanation": "El silicio se clasifica como metaloide.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "metaloide"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

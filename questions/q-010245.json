@@ -1,0 +1,42 @@
+{
+  "id": "q-010245",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La creación de Adán”, “Composición con rojo, amarillo y azul”, “Los girasoles” y “Impresión, sol naciente” pertenece al Neoplasticismo?",
+  "answers": [
+    {
+      "text": "Los girasoles",
+      "correct": false
+    },
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": true
+    },
+    {
+      "text": "Impresión, sol naciente",
+      "correct": false
+    },
+    {
+      "text": "La creación de Adán",
+      "correct": false
+    }
+  ],
+  "explanation": "“Composición con rojo, amarillo y azul” se vincula con Neoplasticismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "neoplasticismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

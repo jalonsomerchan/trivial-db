@@ -1,0 +1,41 @@
+{
+  "id": "q-014159",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "combinatoria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuántas combinaciones de 2 elementos pueden formarse a partir de 15 elementos distintos?",
+  "answers": [
+    {
+      "text": "90",
+      "correct": false
+    },
+    {
+      "text": "105",
+      "correct": true
+    },
+    {
+      "text": "120",
+      "correct": false
+    },
+    {
+      "text": "210",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de combinaciones es C(15,2) = 105.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "combinaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

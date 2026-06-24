@@ -1,0 +1,43 @@
+{
+  "id": "q-012491",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como cocinar suavemente sin hervir fuerte?",
+  "answers": [
+    {
+      "text": "saltear",
+      "correct": false
+    },
+    {
+      "text": "escaldar",
+      "correct": false
+    },
+    {
+      "text": "pochar",
+      "correct": true
+    },
+    {
+      "text": "marinar",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es pochar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "pochar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

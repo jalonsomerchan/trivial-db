@@ -1,0 +1,43 @@
+{
+  "id": "q-011534",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Titanic”?",
+  "answers": [
+    {
+      "text": "Quentin Tarantino",
+      "correct": false
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "James Cameron",
+      "correct": true
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    }
+  ],
+  "explanation": "“Titanic” está asociada con el director James Cameron.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "titanic",
+    "james-cameron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

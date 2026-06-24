@@ -1,0 +1,42 @@
+{
+  "id": "q-013340",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la Paz de Westfalia?",
+  "answers": [
+    {
+      "text": "Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "exploraciones atlánticas",
+      "correct": false
+    },
+    {
+      "text": "Guerra de los Treinta Años",
+      "correct": true
+    },
+    {
+      "text": "terrorismo internacional",
+      "correct": false
+    }
+  ],
+  "explanation": "La Paz de Westfalia se relaciona con Guerra de los Treinta Años.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerra-de-los-treinta-anos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011885",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género describe mejor la película “Toy Story”?",
+  "answers": [
+    {
+      "text": "animación",
+      "correct": true
+    },
+    {
+      "text": "suspense",
+      "correct": false
+    },
+    {
+      "text": "crimen",
+      "correct": false
+    },
+    {
+      "text": "aventura",
+      "correct": false
+    }
+  ],
+  "explanation": "“Toy Story” se describe habitualmente como animación.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "toy-story",
+    "animacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

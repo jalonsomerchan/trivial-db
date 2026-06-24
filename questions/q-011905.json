@@ -1,0 +1,42 @@
+{
+  "id": "q-011905",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Buscando a Nemo”, “Pulp Fiction”, “Wall·E” y “El caballero oscuro” fue dirigida por Quentin Tarantino?",
+  "answers": [
+    {
+      "text": "Pulp Fiction",
+      "correct": true
+    },
+    {
+      "text": "Wall·E",
+      "correct": false
+    },
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pulp Fiction” se asocia con Quentin Tarantino.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "quentin-tarantino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011829",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estilo musical se asocia con “Abbey Road”?",
+  "answers": [
+    {
+      "text": "rock progresivo",
+      "correct": false
+    },
+    {
+      "text": "pop soul",
+      "correct": false
+    },
+    {
+      "text": "rock",
+      "correct": true
+    },
+    {
+      "text": "pop rock",
+      "correct": false
+    }
+  ],
+  "explanation": "“Abbey Road” se asocia con rock.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "rock"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

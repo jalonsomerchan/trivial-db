@@ -1,0 +1,42 @@
+{
+  "id": "q-010325",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué significa temple en el contexto artístico?",
+  "answers": [
+    {
+      "text": "grabado realizado con ácido sobre metal",
+      "correct": false
+    },
+    {
+      "text": "pintura sobre enlucido húmedo",
+      "correct": false
+    },
+    {
+      "text": "pintura con pigmento mezclado con aglutinante",
+      "correct": true
+    },
+    {
+      "text": "composición mediante pequeños puntos de color",
+      "correct": false
+    }
+  ],
+  "explanation": "En arte, temple se refiere a pintura con pigmento mezclado con aglutinante.",
+  "sources": [
+    {
+      "title": "MoMA Learning",
+      "url": "https://www.moma.org/learn/moma_learning/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "temple"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

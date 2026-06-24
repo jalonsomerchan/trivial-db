@@ -1,0 +1,41 @@
+{
+  "id": "q-010666",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué densidad tiene una muestra de 210 g que ocupa 15 cm³?",
+  "answers": [
+    {
+      "text": "15 g/cm³",
+      "correct": false
+    },
+    {
+      "text": "13 g/cm³",
+      "correct": false
+    },
+    {
+      "text": "225 g/cm³",
+      "correct": false
+    },
+    {
+      "text": "14 g/cm³",
+      "correct": true
+    }
+  ],
+  "explanation": "La densidad es masa dividida entre volumen: 210/15 = 14 g/cm³.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "densidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010190",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra de arte se asocia con Vincent van Gogh y Postimpresionismo?",
+  "answers": [
+    {
+      "text": "Los girasoles",
+      "correct": true
+    },
+    {
+      "text": "La Gioconda",
+      "correct": false
+    },
+    {
+      "text": "Las señoritas de Avignon",
+      "correct": false
+    },
+    {
+      "text": "La persistencia de la memoria",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra asociada con Vincent van Gogh y Postimpresionismo es “Los girasoles”.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "vincent-van-gogh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

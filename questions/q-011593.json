@@ -1,0 +1,42 @@
+{
+  "id": "q-011593",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “Mortal Kombat”, “Uncharted”, “Half-Life” y “Resident Evil” relaciona a Gordon Freeman con Valve?",
+  "answers": [
+    {
+      "text": "Uncharted",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Half-Life",
+      "correct": true
+    },
+    {
+      "text": "Mortal Kombat",
+      "correct": false
+    }
+  ],
+  "explanation": "Gordon Freeman se asocia con “Half-Life”, vinculado a Valve.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "half-life"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

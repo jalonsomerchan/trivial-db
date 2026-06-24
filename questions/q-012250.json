@@ -1,0 +1,42 @@
+{
+  "id": "q-012250",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo guacamole, bibimbap, arepa y tzatziki encaja con México y con el ingrediente aguacate?",
+  "answers": [
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    },
+    {
+      "text": "tzatziki",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": true
+    }
+  ],
+  "explanation": "guacamole se asocia con México y con aguacate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "guacamole"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

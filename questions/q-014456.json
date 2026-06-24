@@ -1,0 +1,41 @@
+{
+  "id": "q-014456",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 30% de 660?",
+  "answers": [
+    {
+      "text": "188",
+      "correct": false
+    },
+    {
+      "text": "208",
+      "correct": false
+    },
+    {
+      "text": "198",
+      "correct": true
+    },
+    {
+      "text": "203",
+      "correct": false
+    }
+  ],
+  "explanation": "El 30% de 660 se calcula como 660 × 30/100 = 198.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

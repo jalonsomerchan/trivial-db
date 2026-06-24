@@ -1,0 +1,42 @@
+{
+  "id": "q-010495",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o concepto artístico consiste en incorporación de materiales pegados a la obra?",
+  "answers": [
+    {
+      "text": "tenebrismo",
+      "correct": false
+    },
+    {
+      "text": "puntillismo",
+      "correct": false
+    },
+    {
+      "text": "collage",
+      "correct": true
+    },
+    {
+      "text": "temple",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a collage.",
+  "sources": [
+    {
+      "title": "MoMA Learning",
+      "url": "https://www.moma.org/learn/moma_learning/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "collage"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

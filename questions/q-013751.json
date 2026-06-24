@@ -1,0 +1,42 @@
+{
+  "id": "q-013751",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “La ciudad nunca duerme” dentro del grupo de ejemplos “El silencio gritaba en la sala”, “El dulce amargor de la despedida”, “La ciudad nunca duerme” y “Te lo he dicho mil veces”?",
+  "answers": [
+    {
+      "text": "metáfora",
+      "correct": false
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": true
+    },
+    {
+      "text": "símil",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “La ciudad nunca duerme” contiene personificación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "personificacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

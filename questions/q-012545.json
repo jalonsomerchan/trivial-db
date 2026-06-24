@@ -1,0 +1,43 @@
+{
+  "id": "q-012545",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué continente se ubica principalmente Etiopía?",
+  "answers": [
+    {
+      "text": "África",
+      "correct": true
+    },
+    {
+      "text": "América",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": false
+    },
+    {
+      "text": "Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "Etiopía se ubica principalmente en África.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "continentes",
+    "africa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

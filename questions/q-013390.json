@@ -1,0 +1,43 @@
+{
+  "id": "q-013390",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso se asocia históricamente Fernando II de Aragón?",
+  "answers": [
+    {
+      "text": "independencia india",
+      "correct": false
+    },
+    {
+      "text": "modernización rusa",
+      "correct": false
+    },
+    {
+      "text": "final de la República romana",
+      "correct": false
+    },
+    {
+      "text": "Reyes Católicos",
+      "correct": true
+    }
+  ],
+  "explanation": "Fernando II de Aragón se asocia con Reyes Católicos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "fernando-ii-de-aragon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

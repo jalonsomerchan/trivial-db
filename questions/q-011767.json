@@ -1,0 +1,42 @@
+{
+  "id": "q-011767",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Resident Evil”, “The Last of Us”, “Pac-Man” y “God of War” encaja con Jill Valentine y el género terror?",
+  "answers": [
+    {
+      "text": "God of War",
+      "correct": false
+    },
+    {
+      "text": "Pac-Man",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": true
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    }
+  ],
+  "explanation": "Jill Valentine se asocia con “Resident Evil”, que se describe como terror.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "resident-evil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

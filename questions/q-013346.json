@@ -1,0 +1,42 @@
+{
+  "id": "q-013346",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la atentados del 11 de septiembre?",
+  "answers": [
+    {
+      "text": "guerras napoleónicas",
+      "correct": false
+    },
+    {
+      "text": "terrorismo internacional",
+      "correct": true
+    },
+    {
+      "text": "Roma antigua",
+      "correct": false
+    },
+    {
+      "text": "economía contemporánea",
+      "correct": false
+    }
+  ],
+  "explanation": "La atentados del 11 de septiembre se relaciona con terrorismo internacional.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "terrorismo-internacional"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

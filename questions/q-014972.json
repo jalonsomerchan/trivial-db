@@ -1,0 +1,42 @@
+{
+  "id": "q-014972",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como función que transforma datos en una huella?",
+  "answers": [
+    {
+      "text": "árbol binario",
+      "correct": false
+    },
+    {
+      "text": "compilador",
+      "correct": false
+    },
+    {
+      "text": "latencia",
+      "correct": false
+    },
+    {
+      "text": "hash",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a hash.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "hash"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

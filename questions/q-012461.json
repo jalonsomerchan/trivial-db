@@ -1,0 +1,42 @@
+{
+  "id": "q-012461",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo salmorejo, kimchi, borsch y guacamole se prepara típicamente con tomate y pan?",
+  "answers": [
+    {
+      "text": "salmorejo",
+      "correct": true
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    }
+  ],
+  "explanation": "salmorejo se prepara típicamente con tomate y pan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "salmorejo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

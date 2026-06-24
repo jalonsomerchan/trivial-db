@@ -1,0 +1,43 @@
+{
+  "id": "q-012653",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código de moneda aparece asociado a Anguilla?",
+  "answers": [
+    {
+      "text": "CVE",
+      "correct": false
+    },
+    {
+      "text": "MGA",
+      "correct": false
+    },
+    {
+      "text": "XCD",
+      "correct": true
+    },
+    {
+      "text": "IRR",
+      "correct": false
+    }
+  ],
+  "explanation": "El código de moneda registrado para Anguilla es XCD.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "monedas",
+    "anguilla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

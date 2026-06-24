@@ -1,0 +1,42 @@
+{
+  "id": "q-012379",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo bibimbap, baklava, ramen y gazpacho se prepara típicamente con tomate?",
+  "answers": [
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "gazpacho",
+      "correct": true
+    },
+    {
+      "text": "ramen",
+      "correct": false
+    },
+    {
+      "text": "baklava",
+      "correct": false
+    }
+  ],
+  "explanation": "gazpacho se prepara típicamente con tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "gazpacho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

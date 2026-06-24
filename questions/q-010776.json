@@ -1,0 +1,41 @@
+{
+  "id": "q-010776",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué presión ejerce una fuerza de 84 N sobre un área de 4 m²?",
+  "answers": [
+    {
+      "text": "17 Pa",
+      "correct": false
+    },
+    {
+      "text": "88 Pa",
+      "correct": false
+    },
+    {
+      "text": "21 Pa",
+      "correct": true
+    },
+    {
+      "text": "25 Pa",
+      "correct": false
+    }
+  ],
+  "explanation": "La presión es fuerza dividida entre área: 84/4 = 21 Pa.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "presion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-010688",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué energía cinética tiene una masa de 10 kg que se mueve a 11 m/s?",
+  "answers": [
+    {
+      "text": "616 J",
+      "correct": false
+    },
+    {
+      "text": "615 J",
+      "correct": false
+    },
+    {
+      "text": "110 J",
+      "correct": false
+    },
+    {
+      "text": "605 J",
+      "correct": true
+    }
+  ],
+  "explanation": "La energía cinética es 1/2·m·v², por lo que vale 605 J.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "energia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

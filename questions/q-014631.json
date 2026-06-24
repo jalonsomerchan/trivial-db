@@ -1,0 +1,42 @@
+{
+  "id": "q-014631",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué comando de Git se usa para traer cambios remotos e integrarlos?",
+  "answers": [
+    {
+      "text": "git log",
+      "correct": false
+    },
+    {
+      "text": "git pull",
+      "correct": true
+    },
+    {
+      "text": "git stash",
+      "correct": false
+    },
+    {
+      "text": "git checkout",
+      "correct": false
+    }
+  ],
+  "explanation": "El comando git pull se usa para traer cambios remotos e integrarlos.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-pull"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

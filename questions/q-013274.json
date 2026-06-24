@@ -1,0 +1,42 @@
+{
+  "id": "q-013274",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la batalla de Lepanto?",
+  "answers": [
+    {
+      "text": "Milán",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Caribe",
+      "correct": false
+    },
+    {
+      "text": "golfo de Lepanto",
+      "correct": true
+    }
+  ],
+  "explanation": "La batalla de Lepanto se asocia directamente con golfo de Lepanto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "golfo-de-lepanto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

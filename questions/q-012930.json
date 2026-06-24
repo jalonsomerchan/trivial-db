@@ -1,0 +1,43 @@
+{
+  "id": "q-012930",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Chipre?",
+  "answers": [
+    {
+      "text": ".lu",
+      "correct": false
+    },
+    {
+      "text": ".az",
+      "correct": false
+    },
+    {
+      "text": ".cy",
+      "correct": true
+    },
+    {
+      "text": ".nf",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Chipre es .cy.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "chipre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

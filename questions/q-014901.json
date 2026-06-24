@@ -1,0 +1,41 @@
+{
+  "id": "q-014901",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 356 en sistema binario?",
+  "answers": [
+    {
+      "text": "101100100",
+      "correct": true
+    },
+    {
+      "text": "101100101",
+      "correct": false
+    },
+    {
+      "text": "101100110",
+      "correct": false
+    },
+    {
+      "text": "101100011",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 356 es 101100100.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

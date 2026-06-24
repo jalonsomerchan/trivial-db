@@ -1,0 +1,42 @@
+{
+  "id": "q-010241",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La Gioconda”, “La escuela de Atenas”, “La noche estrellada” y “La ronda de noche” pertenece al Barroco?",
+  "answers": [
+    {
+      "text": "La ronda de noche",
+      "correct": true
+    },
+    {
+      "text": "La Gioconda",
+      "correct": false
+    },
+    {
+      "text": "La escuela de Atenas",
+      "correct": false
+    },
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    }
+  ],
+  "explanation": "“La ronda de noche” se vincula con Barroco.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "barroco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

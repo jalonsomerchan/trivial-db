@@ -1,0 +1,41 @@
+{
+  "id": "q-014884",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 294 en sistema binario?",
+  "answers": [
+    {
+      "text": "100100101",
+      "correct": false
+    },
+    {
+      "text": "100100111",
+      "correct": false
+    },
+    {
+      "text": "100100110",
+      "correct": true
+    },
+    {
+      "text": "100101000",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 294 es 100100110.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

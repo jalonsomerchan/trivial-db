@@ -1,0 +1,42 @@
+{
+  "id": "q-014977",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como referencia a una clave de otra tabla?",
+  "answers": [
+    {
+      "text": "ancho de banda",
+      "correct": false
+    },
+    {
+      "text": "contenedor",
+      "correct": false
+    },
+    {
+      "text": "árbol binario",
+      "correct": false
+    },
+    {
+      "text": "clave foránea",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a clave foránea.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "clave-foranea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

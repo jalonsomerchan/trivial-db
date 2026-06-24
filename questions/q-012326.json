@@ -1,0 +1,42 @@
+{
+  "id": "q-012326",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo tzatziki, ramen, salmorejo y fondue encaja con Suiza y con el ingrediente queso fundido?",
+  "answers": [
+    {
+      "text": "ramen",
+      "correct": false
+    },
+    {
+      "text": "tzatziki",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": true
+    },
+    {
+      "text": "salmorejo",
+      "correct": false
+    }
+  ],
+  "explanation": "fondue se asocia con Suiza y con queso fundido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fondue"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

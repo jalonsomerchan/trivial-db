@@ -1,0 +1,42 @@
+{
+  "id": "q-011692",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Final Fantasy VII”, “Half-Life”, “God of War” y “The Witcher 3” encaja con Geralt de Rivia y el género rol?",
+  "answers": [
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": true
+    },
+    {
+      "text": "Half-Life",
+      "correct": false
+    }
+  ],
+  "explanation": "Geralt de Rivia se asocia con “The Witcher 3”, que se describe como rol.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-witcher-3"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

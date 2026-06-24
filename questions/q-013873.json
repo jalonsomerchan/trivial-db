@@ -1,0 +1,41 @@
+{
+  "id": "q-013873",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra del grupo “desorden”, “casita”, “panadería” y “reescribir” contiene prefijo re-?",
+  "answers": [
+    {
+      "text": "reescribir",
+      "correct": true
+    },
+    {
+      "text": "casita",
+      "correct": false
+    },
+    {
+      "text": "panadería",
+      "correct": false
+    },
+    {
+      "text": "desorden",
+      "correct": false
+    }
+  ],
+  "explanation": "“reescribir” contiene prefijo re-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014937",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 461 en sistema binario?",
+  "answers": [
+    {
+      "text": "111001111",
+      "correct": false
+    },
+    {
+      "text": "111001110",
+      "correct": false
+    },
+    {
+      "text": "111001101",
+      "correct": true
+    },
+    {
+      "text": "111001100",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 461 es 111001101.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

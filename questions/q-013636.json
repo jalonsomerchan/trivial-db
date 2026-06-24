@@ -1,0 +1,42 @@
+{
+  "id": "q-013636",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra es antónima de “apacible”?",
+  "answers": [
+    {
+      "text": "inadecuado",
+      "correct": false
+    },
+    {
+      "text": "implícito",
+      "correct": false
+    },
+    {
+      "text": "estéril",
+      "correct": false
+    },
+    {
+      "text": "agitado",
+      "correct": true
+    }
+  ],
+  "explanation": "“agitado” es antónimo de “apacible”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "apacible"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

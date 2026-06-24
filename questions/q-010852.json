@@ -1,0 +1,42 @@
+{
+  "id": "q-010852",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento litio?",
+  "answers": [
+    {
+      "text": "actínido",
+      "correct": false
+    },
+    {
+      "text": "metal alcalinotérreo",
+      "correct": false
+    },
+    {
+      "text": "metal alcalino",
+      "correct": true
+    },
+    {
+      "text": "metal",
+      "correct": false
+    }
+  ],
+  "explanation": "El litio se clasifica como metal alcalino.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "metal-alcalino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

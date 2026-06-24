@@ -1,0 +1,42 @@
+{
+  "id": "q-013614",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “sílaba”, “compás”, “mágico” y “tambor” es aguda?",
+  "answers": [
+    {
+      "text": "mágico",
+      "correct": false
+    },
+    {
+      "text": "tambor",
+      "correct": false
+    },
+    {
+      "text": "compás",
+      "correct": true
+    },
+    {
+      "text": "sílaba",
+      "correct": false
+    }
+  ],
+  "explanation": "“compás” es una palabra aguda.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "aguda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

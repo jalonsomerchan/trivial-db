@@ -1,0 +1,42 @@
+{
+  "id": "q-013592",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué palabra del grupo “mágico”, “jabalí”, “página” y “brújula” es esdrújula?",
+  "answers": [
+    {
+      "text": "mágico",
+      "correct": true
+    },
+    {
+      "text": "página",
+      "correct": false
+    },
+    {
+      "text": "brújula",
+      "correct": false
+    },
+    {
+      "text": "jabalí",
+      "correct": false
+    }
+  ],
+  "explanation": "“mágico” es una palabra esdrújula.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "esdrujula"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

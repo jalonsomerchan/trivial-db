@@ -1,0 +1,42 @@
+{
+  "id": "q-010274",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “La noche estrellada”, “La ronda de noche”, “La última cena” y “Los girasoles” pertenece al Barroco?",
+  "answers": [
+    {
+      "text": "La noche estrellada",
+      "correct": false
+    },
+    {
+      "text": "Los girasoles",
+      "correct": false
+    },
+    {
+      "text": "La última cena",
+      "correct": false
+    },
+    {
+      "text": "La ronda de noche",
+      "correct": true
+    }
+  ],
+  "explanation": "“La ronda de noche” se vincula con Barroco.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "barroco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

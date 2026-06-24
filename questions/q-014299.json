@@ -1,0 +1,41 @@
+{
+  "id": "q-014299",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 7x + 87 = 360?",
+  "answers": [
+    {
+      "text": "38",
+      "correct": false
+    },
+    {
+      "text": "39",
+      "correct": true
+    },
+    {
+      "text": "42",
+      "correct": false
+    },
+    {
+      "text": "40",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 87 y dividiendo entre 7, se obtiene x = 39.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

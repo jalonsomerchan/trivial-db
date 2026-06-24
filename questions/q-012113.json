@@ -1,0 +1,42 @@
+{
+  "id": "q-012113",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo yogur, ternera, nuez y leche es un ejemplo de carne?",
+  "answers": [
+    {
+      "text": "ternera",
+      "correct": true
+    },
+    {
+      "text": "nuez",
+      "correct": false
+    },
+    {
+      "text": "yogur",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": false
+    }
+  ],
+  "explanation": "ternera es un ejemplo de carne.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-011907",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Buscando a Nemo”, “Toy Story”, “El caballero oscuro” y “Psicosis” fue dirigida por Christopher Nolan?",
+  "answers": [
+    {
+      "text": "El caballero oscuro",
+      "correct": true
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    }
+  ],
+  "explanation": "“El caballero oscuro” se asocia con Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

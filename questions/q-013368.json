@@ -1,0 +1,42 @@
+{
+  "id": "q-013368",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la independencia de Estados Unidos?",
+  "answers": [
+    {
+      "text": "guerras napoleónicas",
+      "correct": false
+    },
+    {
+      "text": "revoluciones atlánticas",
+      "correct": true
+    },
+    {
+      "text": "cristianismo antiguo",
+      "correct": false
+    },
+    {
+      "text": "Antigüedad tardía",
+      "correct": false
+    }
+  ],
+  "explanation": "La independencia de Estados Unidos se relaciona con revoluciones atlánticas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "revoluciones-atlanticas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

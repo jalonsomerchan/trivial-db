@@ -1,0 +1,42 @@
+{
+  "id": "q-010381",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Cien años de soledad”, “Orgullo y prejuicio”, “El extranjero” y “Romancero gitano” fue escrita por Jane Austen?",
+  "answers": [
+    {
+      "text": "El extranjero",
+      "correct": false
+    },
+    {
+      "text": "Romancero gitano",
+      "correct": false
+    },
+    {
+      "text": "Cien años de soledad",
+      "correct": false
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": true
+    }
+  ],
+  "explanation": "“Orgullo y prejuicio” fue escrita por Jane Austen.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "jane-austen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

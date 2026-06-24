@@ -1,0 +1,42 @@
+{
+  "id": "q-012473",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo tabulé, arepa, borsch y risotto se prepara típicamente con arroz?",
+  "answers": [
+    {
+      "text": "tabulé",
+      "correct": false
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": true
+    }
+  ],
+  "explanation": "risotto se prepara típicamente con arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "risotto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

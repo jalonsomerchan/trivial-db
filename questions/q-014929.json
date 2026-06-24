@@ -1,0 +1,41 @@
+{
+  "id": "q-014929",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 439 en sistema binario?",
+  "answers": [
+    {
+      "text": "110111001",
+      "correct": false
+    },
+    {
+      "text": "110110111",
+      "correct": true
+    },
+    {
+      "text": "110110110",
+      "correct": false
+    },
+    {
+      "text": "110111000",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 439 es 110110111.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

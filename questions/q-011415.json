@@ -1,0 +1,42 @@
+{
+  "id": "q-011415",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué término de boxeo aparece entre power play, pick and roll, líbero y knockout?",
+  "answers": [
+    {
+      "text": "pick and roll",
+      "correct": false
+    },
+    {
+      "text": "líbero",
+      "correct": false
+    },
+    {
+      "text": "power play",
+      "correct": false
+    },
+    {
+      "text": "knockout",
+      "correct": true
+    }
+  ],
+  "explanation": "“knockout” es un término usado en boxeo.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "boxeo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

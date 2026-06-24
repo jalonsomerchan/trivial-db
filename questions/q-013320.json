@@ -1,0 +1,43 @@
+{
+  "id": "q-013320",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué personaje histórico se vincula con imperio ruso en Rusia?",
+  "answers": [
+    {
+      "text": "Catalina la Grande",
+      "correct": true
+    },
+    {
+      "text": "Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "Mahatma Gandhi",
+      "correct": false
+    },
+    {
+      "text": "Abraham Lincoln",
+      "correct": false
+    }
+  ],
+  "explanation": "Catalina la Grande se vincula con imperio ruso en Rusia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "catalina-la-grande"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

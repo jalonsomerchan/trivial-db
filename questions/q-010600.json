@@ -1,0 +1,42 @@
+{
+  "id": "q-010600",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la unidad del Sistema Internacional para medir potencia?",
+  "answers": [
+    {
+      "text": "faradio",
+      "correct": false
+    },
+    {
+      "text": "weber",
+      "correct": false
+    },
+    {
+      "text": "julio",
+      "correct": false
+    },
+    {
+      "text": "vatio",
+      "correct": true
+    }
+  ],
+  "explanation": "La unidad SI de potencia es el vatio.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "potencia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

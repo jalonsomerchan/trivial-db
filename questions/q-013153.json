@@ -1,0 +1,42 @@
+{
+  "id": "q-013153",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué siglo pertenece la batalla de Maratón?",
+  "answers": [
+    {
+      "text": "siglo V a. C.",
+      "correct": true
+    },
+    {
+      "text": "siglo XIII d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XVII d. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XX d. C.",
+      "correct": false
+    }
+  ],
+  "explanation": "La batalla de Maratón se sitúa en el siglo V a. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

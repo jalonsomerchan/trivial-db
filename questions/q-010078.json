@@ -1,0 +1,42 @@
+{
+  "id": "q-010078",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “Hamlet” frente a la referencia “Fausto”?",
+  "answers": [
+    {
+      "text": "William Shakespeare",
+      "correct": true
+    },
+    {
+      "text": "Mary Shelley",
+      "correct": false
+    },
+    {
+      "text": "Johann Wolfgang von Goethe",
+      "correct": false
+    },
+    {
+      "text": "George Orwell",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “Hamlet” pertenece a William Shakespeare.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "william-shakespeare"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011513",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué artista publicó el álbum “The Dark Side of the Moon”?",
+  "answers": [
+    {
+      "text": "Pink Floyd",
+      "correct": true
+    },
+    {
+      "text": "U2",
+      "correct": false
+    },
+    {
+      "text": "Madonna",
+      "correct": false
+    },
+    {
+      "text": "Miles Davis",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Dark Side of the Moon” es un álbum de Pink Floyd.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "pink-floyd",
+    "the-dark-side-of-the-moon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

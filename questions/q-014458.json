@@ -1,0 +1,41 @@
+{
+  "id": "q-014458",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 30% de 900?",
+  "answers": [
+    {
+      "text": "280",
+      "correct": false
+    },
+    {
+      "text": "275",
+      "correct": false
+    },
+    {
+      "text": "260",
+      "correct": false
+    },
+    {
+      "text": "270",
+      "correct": true
+    }
+  ],
+  "explanation": "El 30% de 900 se calcula como 900 × 30/100 = 270.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

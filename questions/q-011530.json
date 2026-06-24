@@ -1,0 +1,43 @@
+{
+  "id": "q-011530",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Parásitos”?",
+  "answers": [
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Francis Ford Coppola",
+      "correct": false
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": true
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": false
+    }
+  ],
+  "explanation": "“Parásitos” está asociada con el director Bong Joon-ho.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "parasitos",
+    "bong-joon-ho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

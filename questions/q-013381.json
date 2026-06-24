@@ -1,0 +1,42 @@
+{
+  "id": "q-013381",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la toma de la Bastilla?",
+  "answers": [
+    {
+      "text": "final de la Guerra Fría",
+      "correct": false
+    },
+    {
+      "text": "conflictos mediterráneos",
+      "correct": false
+    },
+    {
+      "text": "economía contemporánea",
+      "correct": false
+    },
+    {
+      "text": "Revolución francesa",
+      "correct": true
+    }
+  ],
+  "explanation": "La toma de la Bastilla se relaciona con Revolución francesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "revolucion-francesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

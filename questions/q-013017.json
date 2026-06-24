@@ -1,0 +1,42 @@
+{
+  "id": "q-013017",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué siglo pertenece la inicio de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "siglo IV a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XX d. C.",
+      "correct": true
+    },
+    {
+      "text": "siglo VIII a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XVI d. C.",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Segunda Guerra Mundial se sitúa en el siglo XX d. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012075",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo pera, merluza, naranja y trigo es un ejemplo de fruta?",
+  "answers": [
+    {
+      "text": "pera",
+      "correct": true
+    },
+    {
+      "text": "merluza",
+      "correct": false
+    },
+    {
+      "text": "trigo",
+      "correct": false
+    },
+    {
+      "text": "naranja",
+      "correct": false
+    }
+  ],
+  "explanation": "pera es un ejemplo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

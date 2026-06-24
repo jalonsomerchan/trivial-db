@@ -1,0 +1,43 @@
+{
+  "id": "q-011525",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Jurassic Park”?",
+  "answers": [
+    {
+      "text": "Steven Spielberg",
+      "correct": true
+    },
+    {
+      "text": "George Miller",
+      "correct": false
+    },
+    {
+      "text": "Alfred Hitchcock",
+      "correct": false
+    },
+    {
+      "text": "Hayao Miyazaki",
+      "correct": false
+    }
+  ],
+  "explanation": "“Jurassic Park” está asociada con el director Steven Spielberg.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "jurassic-park",
+    "steven-spielberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013832",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué figura retórica aparece en “Las nieves del tiempo platearon su sien”?",
+  "answers": [
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": true
+    },
+    {
+      "text": "oxímoron",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    }
+  ],
+  "explanation": "La expresión “Las nieves del tiempo platearon su sien” ejemplifica metáfora.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "metafora"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

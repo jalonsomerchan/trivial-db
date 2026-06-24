@@ -1,0 +1,42 @@
+{
+  "id": "q-013988",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra se opone semánticamente a “severo”?",
+  "answers": [
+    {
+      "text": "explícito",
+      "correct": false
+    },
+    {
+      "text": "audaz",
+      "correct": false
+    },
+    {
+      "text": "anterior",
+      "correct": false
+    },
+    {
+      "text": "benévolo",
+      "correct": true
+    }
+  ],
+  "explanation": "“benévolo” y “severo” son antónimos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "benevolo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

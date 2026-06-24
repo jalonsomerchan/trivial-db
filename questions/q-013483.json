@@ -1,0 +1,42 @@
+{
+  "id": "q-013483",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho ocurrió más tarde entre inicio de la Segunda Guerra Púnica, publicación de las 95 tesis de Lutero, inicio de la Segunda Guerra Mundial y revoluciones europeas de 1848?",
+  "answers": [
+    {
+      "text": "revoluciones europeas de 1848",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Segunda Guerra Púnica",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "publicación de las 95 tesis de Lutero",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, inicio de la Segunda Guerra Mundial es el hecho más reciente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

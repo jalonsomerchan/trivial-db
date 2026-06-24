@@ -1,0 +1,43 @@
+{
+  "id": "q-012368",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con tabulé?",
+  "answers": [
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Tailandia",
+      "correct": false
+    },
+    {
+      "text": "Levante mediterráneo",
+      "correct": true
+    }
+  ],
+  "explanation": "tabulé se asocia tradicionalmente con Levante mediterráneo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tabule",
+    "levante-mediterraneo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

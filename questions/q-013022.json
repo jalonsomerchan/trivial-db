@@ -1,0 +1,43 @@
+{
+  "id": "q-013022",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se relaciona principalmente Augusto?",
+  "answers": [
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": true
+    },
+    {
+      "text": "Castilla",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    }
+  ],
+  "explanation": "Augusto se relaciona principalmente con Roma.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "augusto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

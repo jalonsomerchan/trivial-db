@@ -1,0 +1,42 @@
+{
+  "id": "q-014976",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como programa que traduce código fuente?",
+  "answers": [
+    {
+      "text": "cola",
+      "correct": false
+    },
+    {
+      "text": "intérprete",
+      "correct": false
+    },
+    {
+      "text": "hash",
+      "correct": false
+    },
+    {
+      "text": "compilador",
+      "correct": true
+    }
+  ],
+  "explanation": "La definición corresponde a compilador.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "compilador"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

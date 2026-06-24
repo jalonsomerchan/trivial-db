@@ -1,0 +1,43 @@
+{
+  "id": "q-011656",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “Mega Man”?",
+  "answers": [
+    {
+      "text": "arcade",
+      "correct": false
+    },
+    {
+      "text": "acción",
+      "correct": true
+    },
+    {
+      "text": "terror",
+      "correct": false
+    },
+    {
+      "text": "plataformas",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mega Man” se describe habitualmente como acción.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mega-man",
+    "accion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

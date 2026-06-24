@@ -1,0 +1,42 @@
+{
+  "id": "q-010845",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento cobre?",
+  "answers": [
+    {
+      "text": "metal de transición",
+      "correct": true
+    },
+    {
+      "text": "gas noble",
+      "correct": false
+    },
+    {
+      "text": "metal alcalinotérreo",
+      "correct": false
+    },
+    {
+      "text": "metal alcalino",
+      "correct": false
+    }
+  ],
+  "explanation": "El cobre se clasifica como metal de transición.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "metal-de-transicion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

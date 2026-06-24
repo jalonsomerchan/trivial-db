@@ -1,0 +1,43 @@
+{
+  "id": "q-011855",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “Portal”?",
+  "answers": [
+    {
+      "text": "Nintendo",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": false
+    },
+    {
+      "text": "Midway",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": true
+    }
+  ],
+  "explanation": "“Portal” se vincula con Valve.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "portal",
+    "valve"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

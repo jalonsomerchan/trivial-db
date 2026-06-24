@@ -1,0 +1,42 @@
+{
+  "id": "q-012061",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo naranja, cerdo, ternera y lentejas es un ejemplo de carne?",
+  "answers": [
+    {
+      "text": "ternera",
+      "correct": false
+    },
+    {
+      "text": "naranja",
+      "correct": false
+    },
+    {
+      "text": "lentejas",
+      "correct": false
+    },
+    {
+      "text": "cerdo",
+      "correct": true
+    }
+  ],
+  "explanation": "cerdo es un ejemplo de carne.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

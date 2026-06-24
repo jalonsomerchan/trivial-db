@@ -1,0 +1,42 @@
+{
+  "id": "q-014965",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como LIFO?",
+  "answers": [
+    {
+      "text": "pila",
+      "correct": true
+    },
+    {
+      "text": "clave foránea",
+      "correct": false
+    },
+    {
+      "text": "índice de base de datos",
+      "correct": false
+    },
+    {
+      "text": "intérprete",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a pila.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "pila"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

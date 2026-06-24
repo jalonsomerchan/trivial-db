@@ -1,0 +1,42 @@
+{
+  "id": "q-012029",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo calabacín, salmón, zanahoria y garbanzos es un ejemplo de hortaliza?",
+  "answers": [
+    {
+      "text": "salmón",
+      "correct": false
+    },
+    {
+      "text": "zanahoria",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "calabacín",
+      "correct": true
+    }
+  ],
+  "explanation": "calabacín es un ejemplo de hortaliza.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "hortaliza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

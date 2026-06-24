@@ -1,0 +1,43 @@
+{
+  "id": "q-012129",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato goulash?",
+  "answers": [
+    {
+      "text": "frijoles negros",
+      "correct": false
+    },
+    {
+      "text": "sémola de trigo",
+      "correct": false
+    },
+    {
+      "text": "tomate y pan",
+      "correct": false
+    },
+    {
+      "text": "paprika",
+      "correct": true
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de goulash es paprika.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "goulash",
+    "paprika"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

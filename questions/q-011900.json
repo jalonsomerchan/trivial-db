@@ -1,0 +1,42 @@
+{
+  "id": "q-011900",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Blade Runner”, “La La Land”, “El caballero oscuro” y “Toy Story” fue dirigida por John Lasseter?",
+  "answers": [
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": true
+    },
+    {
+      "text": "Blade Runner",
+      "correct": false
+    },
+    {
+      "text": "La La Land",
+      "correct": false
+    }
+  ],
+  "explanation": "“Toy Story” se asocia con John Lasseter.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "john-lasseter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

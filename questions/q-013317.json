@@ -1,0 +1,43 @@
+{
+  "id": "q-013317",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué personaje histórico se vincula con fin del apartheid en Sudáfrica?",
+  "answers": [
+    {
+      "text": "Carlos I de España",
+      "correct": false
+    },
+    {
+      "text": "Isabel I de Castilla",
+      "correct": false
+    },
+    {
+      "text": "Nelson Mandela",
+      "correct": true
+    },
+    {
+      "text": "Augusto",
+      "correct": false
+    }
+  ],
+  "explanation": "Nelson Mandela se vincula con fin del apartheid en Sudáfrica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "nelson-mandela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

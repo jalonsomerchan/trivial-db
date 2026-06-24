@@ -1,0 +1,42 @@
+{
+  "id": "q-013790",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “Menos es más” dentro del grupo de ejemplos “Vivo sin vivir en mí”, “El silencio gritaba en la sala”, “Menos es más” y “Compró pan, leche y fruta”?",
+  "answers": [
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": true
+    },
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “Menos es más” contiene paradoja.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "paradoja"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

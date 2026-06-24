@@ -1,0 +1,43 @@
+{
+  "id": "q-012596",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué continente se ubica principalmente Moldavia?",
+  "answers": [
+    {
+      "text": "África",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": true
+    },
+    {
+      "text": "Oceanía",
+      "correct": false
+    }
+  ],
+  "explanation": "Moldavia se ubica principalmente en Europa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "continentes",
+    "europa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

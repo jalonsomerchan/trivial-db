@@ -1,0 +1,41 @@
+{
+  "id": "q-014860",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 192 en sistema binario?",
+  "answers": [
+    {
+      "text": "11000000",
+      "correct": true
+    },
+    {
+      "text": "11000001",
+      "correct": false
+    },
+    {
+      "text": "11000010",
+      "correct": false
+    },
+    {
+      "text": "10111111",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 192 es 11000000.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

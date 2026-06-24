@@ -1,0 +1,42 @@
+{
+  "id": "q-012246",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo goulash, laksa, croissant y sushi encaja con Francia y con el ingrediente masa hojaldrada?",
+  "answers": [
+    {
+      "text": "sushi",
+      "correct": false
+    },
+    {
+      "text": "goulash",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": true
+    },
+    {
+      "text": "laksa",
+      "correct": false
+    }
+  ],
+  "explanation": "croissant se asocia con Francia y con masa hojaldrada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "croissant"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

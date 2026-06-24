@@ -1,0 +1,43 @@
+{
+  "id": "q-011866",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género describe mejor la película “Avatar”?",
+  "answers": [
+    {
+      "text": "drama",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    },
+    {
+      "text": "musical",
+      "correct": false
+    },
+    {
+      "text": "crimen",
+      "correct": false
+    }
+  ],
+  "explanation": "“Avatar” se describe habitualmente como ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "avatar",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

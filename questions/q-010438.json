@@ -1,0 +1,42 @@
+{
+  "id": "q-010438",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “La casa de Bernarda Alba”, “El extranjero”, “Cien años de soledad” y “La ciudad y los perros” fue escrita por Gabriel García Márquez?",
+  "answers": [
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": false
+    },
+    {
+      "text": "Cien años de soledad",
+      "correct": true
+    },
+    {
+      "text": "El extranjero",
+      "correct": false
+    },
+    {
+      "text": "La ciudad y los perros",
+      "correct": false
+    }
+  ],
+  "explanation": "“Cien años de soledad” fue escrita por Gabriel García Márquez.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "gabriel-garcia-marquez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

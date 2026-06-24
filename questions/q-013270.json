@@ -1,0 +1,42 @@
+{
+  "id": "q-013270",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la ampliación de la Unión Europea de 2004?",
+  "answers": [
+    {
+      "text": "sistema financiero internacional",
+      "correct": false
+    },
+    {
+      "text": "Norteamérica",
+      "correct": false
+    },
+    {
+      "text": "Inglaterra",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": true
+    }
+  ],
+  "explanation": "La ampliación de la Unión Europea de 2004 se asocia directamente con Europa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "europa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

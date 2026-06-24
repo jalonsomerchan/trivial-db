@@ -1,0 +1,42 @@
+{
+  "id": "q-012396",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo croissant, falafel, satay y kimchi se prepara típicamente con brochetas con salsa de cacahuete?",
+  "answers": [
+    {
+      "text": "satay",
+      "correct": true
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    }
+  ],
+  "explanation": "satay se prepara típicamente con brochetas con salsa de cacahuete.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "satay"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

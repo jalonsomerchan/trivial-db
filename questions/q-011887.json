@@ -1,0 +1,42 @@
+{
+  "id": "q-011887",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Alien”, “Jurassic Park”, “El viaje de Chihiro” y “Buscando a Nemo” fue dirigida por Ridley Scott?",
+  "answers": [
+    {
+      "text": "Alien",
+      "correct": true
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    },
+    {
+      "text": "Jurassic Park",
+      "correct": false
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    }
+  ],
+  "explanation": "“Alien” se asocia con Ridley Scott.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "ridley-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

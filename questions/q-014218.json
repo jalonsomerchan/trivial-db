@@ -1,0 +1,41 @@
+{
+  "id": "q-014218",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 12x + 66 = 882?",
+  "answers": [
+    {
+      "text": "67",
+      "correct": false
+    },
+    {
+      "text": "71",
+      "correct": false
+    },
+    {
+      "text": "68",
+      "correct": true
+    },
+    {
+      "text": "69",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 66 y dividiendo entre 12, se obtiene x = 68.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

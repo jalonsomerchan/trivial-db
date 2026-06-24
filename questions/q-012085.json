@@ -1,0 +1,42 @@
+{
+  "id": "q-012085",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo queso, garbanzos, nuez y merluza es un ejemplo de legumbre?",
+  "answers": [
+    {
+      "text": "nuez",
+      "correct": false
+    },
+    {
+      "text": "queso",
+      "correct": false
+    },
+    {
+      "text": "merluza",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": true
+    }
+  ],
+  "explanation": "garbanzos es un ejemplo de legumbre.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "legumbre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

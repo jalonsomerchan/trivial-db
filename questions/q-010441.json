@@ -1,0 +1,42 @@
+{
+  "id": "q-010441",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “La ciudad y los perros”, “Cien años de soledad”, “Don Quijote de la Mancha” y “La metamorfosis” fue escrita por Franz Kafka?",
+  "answers": [
+    {
+      "text": "Cien años de soledad",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": true
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": false
+    },
+    {
+      "text": "La ciudad y los perros",
+      "correct": false
+    }
+  ],
+  "explanation": "“La metamorfosis” fue escrita por Franz Kafka.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "franz-kafka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012323",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo tzatziki, falafel, paella y ramen encaja con Grecia y con el ingrediente yogur y pepino?",
+  "answers": [
+    {
+      "text": "paella",
+      "correct": false
+    },
+    {
+      "text": "ramen",
+      "correct": false
+    },
+    {
+      "text": "tzatziki",
+      "correct": true
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    }
+  ],
+  "explanation": "tzatziki se asocia con Grecia y con yogur y pepino.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tzatziki"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

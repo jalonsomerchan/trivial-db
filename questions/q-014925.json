@@ -1,0 +1,41 @@
+{
+  "id": "q-014925",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 427 en sistema binario?",
+  "answers": [
+    {
+      "text": "110101011",
+      "correct": true
+    },
+    {
+      "text": "110101101",
+      "correct": false
+    },
+    {
+      "text": "110101100",
+      "correct": false
+    },
+    {
+      "text": "110101010",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 427 es 110101011.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

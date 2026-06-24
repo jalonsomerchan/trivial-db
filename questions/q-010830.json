@@ -1,0 +1,42 @@
+{
+  "id": "q-010830",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la función principal del sistema inmunitario?",
+  "answers": [
+    {
+      "text": "defender el organismo frente a patógenos",
+      "correct": true
+    },
+    {
+      "text": "transportar sangre, gases y nutrientes",
+      "correct": false
+    },
+    {
+      "text": "descomponer alimentos y absorber nutrientes",
+      "correct": false
+    },
+    {
+      "text": "dar soporte y protección",
+      "correct": false
+    }
+  ],
+  "explanation": "El sistema inmunitario tiene como función principal defender el organismo frente a patógenos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "sistema-inmunitario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

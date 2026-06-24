@@ -1,0 +1,42 @@
+{
+  "id": "q-010147",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor escribió “Romeo y Julieta” frente a la referencia “Ficciones”?",
+  "answers": [
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "Albert Camus",
+      "correct": false
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": true
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra “Romeo y Julieta” pertenece a William Shakespeare.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "william-shakespeare"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

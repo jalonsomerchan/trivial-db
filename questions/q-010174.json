@@ -1,0 +1,42 @@
+{
+  "id": "q-010174",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra de arte se asocia con Andy Warhol y Pop art?",
+  "answers": [
+    {
+      "text": "La joven de la perla",
+      "correct": false
+    },
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": false
+    },
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": true
+    },
+    {
+      "text": "Las meninas",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra asociada con Andy Warhol y Pop art es “Campbell’s Soup Cans”.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "andy-warhol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013657",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ejemplo corresponde a una personificación?",
+  "answers": [
+    {
+      "text": "Tus dientes son perlas",
+      "correct": false
+    },
+    {
+      "text": "Te lo he dicho mil veces",
+      "correct": false
+    },
+    {
+      "text": "Vivo sin vivir en mí",
+      "correct": false
+    },
+    {
+      "text": "El silencio gritaba en la sala",
+      "correct": true
+    }
+  ],
+  "explanation": "“El silencio gritaba en la sala” es un ejemplo de personificación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "personificacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012498",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como sumergir brevemente en agua hirviendo?",
+  "answers": [
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "freír",
+      "correct": false
+    },
+    {
+      "text": "glasear",
+      "correct": false
+    },
+    {
+      "text": "escaldar",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica descrita es escaldar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "escaldar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

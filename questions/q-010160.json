@@ -1,0 +1,42 @@
+{
+  "id": "q-010160",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué libro se asocia con George Orwell y el género sátira política?",
+  "answers": [
+    {
+      "text": "La Ilíada",
+      "correct": false
+    },
+    {
+      "text": "Romancero gitano",
+      "correct": false
+    },
+    {
+      "text": "Hamlet",
+      "correct": false
+    },
+    {
+      "text": "Rebelión en la granja",
+      "correct": true
+    }
+  ],
+  "explanation": "“Rebelión en la granja” es una obra de George Orwell asociada con sátira política.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "george-orwell"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

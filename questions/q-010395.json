@@ -1,0 +1,42 @@
+{
+  "id": "q-010395",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “El Aleph”, “Ficciones”, “Rebelión en la granja” y “La Divina Comedia” fue escrita por Dante Alighieri?",
+  "answers": [
+    {
+      "text": "Rebelión en la granja",
+      "correct": false
+    },
+    {
+      "text": "El Aleph",
+      "correct": false
+    },
+    {
+      "text": "Ficciones",
+      "correct": false
+    },
+    {
+      "text": "La Divina Comedia",
+      "correct": true
+    }
+  ],
+  "explanation": "“La Divina Comedia” fue escrita por Dante Alighieri.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "dante-alighieri"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010344",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué movimiento se vincula la obra “Las señoritas de Avignon”?",
+  "answers": [
+    {
+      "text": "Modernismo",
+      "correct": false
+    },
+    {
+      "text": "Impresionismo",
+      "correct": false
+    },
+    {
+      "text": "Cubismo",
+      "correct": true
+    },
+    {
+      "text": "Neoplasticismo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Las señoritas de Avignon” se vincula con Cubismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "cubismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

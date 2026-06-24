@@ -1,0 +1,42 @@
+{
+  "id": "q-012068",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo nuez, manzana, garbanzos y ternera es un ejemplo de fruta?",
+  "answers": [
+    {
+      "text": "ternera",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": true
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "nuez",
+      "correct": false
+    }
+  ],
+  "explanation": "manzana es un ejemplo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

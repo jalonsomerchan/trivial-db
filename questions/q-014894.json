@@ -1,0 +1,41 @@
+{
+  "id": "q-014894",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 331 en sistema binario?",
+  "answers": [
+    {
+      "text": "101001100",
+      "correct": false
+    },
+    {
+      "text": "101001011",
+      "correct": true
+    },
+    {
+      "text": "101001010",
+      "correct": false
+    },
+    {
+      "text": "101001101",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 331 es 101001011.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

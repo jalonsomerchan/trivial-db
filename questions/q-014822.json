@@ -1,0 +1,42 @@
+{
+  "id": "q-014822",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué servicio se asocia normalmente con el puerto 5432?",
+  "answers": [
+    {
+      "text": "MySQL",
+      "correct": false
+    },
+    {
+      "text": "SMTP",
+      "correct": false
+    },
+    {
+      "text": "PostgreSQL",
+      "correct": true
+    },
+    {
+      "text": "SSH",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto 5432 se asocia habitualmente con PostgreSQL.",
+  "sources": [
+    {
+      "title": "IANA Service Name and Transport Protocol Port Number Registry",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "puertos",
+    "postgresql"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

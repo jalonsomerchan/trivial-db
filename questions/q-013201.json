@@ -1,0 +1,42 @@
+{
+  "id": "q-013201",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la coronación imperial de Carlomagno frente a la referencia histórica de la Revolución rusa?",
+  "answers": [
+    {
+      "text": "década de 820",
+      "correct": false
+    },
+    {
+      "text": "década de 790",
+      "correct": false
+    },
+    {
+      "text": "década de 810",
+      "correct": false
+    },
+    {
+      "text": "década de 800",
+      "correct": true
+    }
+  ],
+  "explanation": "La coronación imperial de Carlomagno ocurrió en 800, dentro de la década de 800.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010619",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué elemento químico representa el símbolo I?",
+  "answers": [
+    {
+      "text": "helio",
+      "correct": false
+    },
+    {
+      "text": "oxígeno",
+      "correct": false
+    },
+    {
+      "text": "yodo",
+      "correct": true
+    },
+    {
+      "text": "hierro",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico I representa al yodo.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "yodo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

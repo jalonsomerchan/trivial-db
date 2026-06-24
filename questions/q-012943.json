@@ -1,0 +1,43 @@
+{
+  "id": "q-012943",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Georgia?",
+  "answers": [
+    {
+      "text": ".ge",
+      "correct": true
+    },
+    {
+      "text": ".ec",
+      "correct": false
+    },
+    {
+      "text": ".sy",
+      "correct": false
+    },
+    {
+      "text": ".pn",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Georgia es .ge.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "georgia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012106",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo trigo, manzana, lentejas y garbanzos es un ejemplo de fruta?",
+  "answers": [
+    {
+      "text": "trigo",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "lentejas",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": true
+    }
+  ],
+  "explanation": "manzana es un ejemplo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-011549",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con “Sonic the Hedgehog”?",
+  "answers": [
+    {
+      "text": "Sonic",
+      "correct": true
+    },
+    {
+      "text": "Nathan Drake",
+      "correct": false
+    },
+    {
+      "text": "Kratos",
+      "correct": false
+    },
+    {
+      "text": "Lara Croft",
+      "correct": false
+    }
+  ],
+  "explanation": "Sonic es un personaje asociado con “Sonic the Hedgehog”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "sonic-the-hedgehog",
+    "sonic"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

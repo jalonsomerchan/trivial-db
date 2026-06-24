@@ -1,0 +1,43 @@
+{
+  "id": "q-011882",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género describe mejor la película “Pulp Fiction”?",
+  "answers": [
+    {
+      "text": "acción",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": false
+    },
+    {
+      "text": "crimen",
+      "correct": true
+    },
+    {
+      "text": "aventura",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pulp Fiction” se describe habitualmente como crimen.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "pulp-fiction",
+    "crimen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

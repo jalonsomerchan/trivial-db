@@ -1,0 +1,42 @@
+{
+  "id": "q-010707",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "unidades"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud física se mide en faradio?",
+  "answers": [
+    {
+      "text": "resistencia eléctrica",
+      "correct": false
+    },
+    {
+      "text": "inducción magnética",
+      "correct": false
+    },
+    {
+      "text": "flujo magnético",
+      "correct": false
+    },
+    {
+      "text": "capacitancia",
+      "correct": true
+    }
+  ],
+  "explanation": "El faradio es la unidad del Sistema Internacional para capacitancia.",
+  "sources": [
+    {
+      "title": "NIST SI Units",
+      "url": "https://www.nist.gov/pml/owm/metric-si/si-units"
+    }
+  ],
+  "tags": [
+    "si",
+    "faradio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

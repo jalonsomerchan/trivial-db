@@ -1,0 +1,41 @@
+{
+  "id": "q-014027",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el producto de 23 por 16?",
+  "answers": [
+    {
+      "text": "378",
+      "correct": false
+    },
+    {
+      "text": "391",
+      "correct": false
+    },
+    {
+      "text": "368",
+      "correct": true
+    },
+    {
+      "text": "352",
+      "correct": false
+    }
+  ],
+  "explanation": "El producto 23 × 16 es 368.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "multiplicacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

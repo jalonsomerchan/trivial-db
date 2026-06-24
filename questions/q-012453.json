@@ -1,0 +1,42 @@
+{
+  "id": "q-012453",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo ratatouille, goulash, pizza napolitana y baklava se prepara típicamente con frutos secos y masa filo?",
+  "answers": [
+    {
+      "text": "pizza napolitana",
+      "correct": false
+    },
+    {
+      "text": "goulash",
+      "correct": false
+    },
+    {
+      "text": "baklava",
+      "correct": true
+    },
+    {
+      "text": "ratatouille",
+      "correct": false
+    }
+  ],
+  "explanation": "baklava se prepara típicamente con frutos secos y masa filo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "baklava"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

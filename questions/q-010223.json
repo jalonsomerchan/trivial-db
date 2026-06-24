@@ -1,0 +1,42 @@
+{
+  "id": "q-010223",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “El tres de mayo de 1808”, “Guernica”, “Campbell’s Soup Cans” y “El beso” pertenece al Romanticismo?",
+  "answers": [
+    {
+      "text": "El tres de mayo de 1808",
+      "correct": true
+    },
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": false
+    },
+    {
+      "text": "Guernica",
+      "correct": false
+    },
+    {
+      "text": "El beso",
+      "correct": false
+    }
+  ],
+  "explanation": "“El tres de mayo de 1808” se vincula con Romanticismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "romanticismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

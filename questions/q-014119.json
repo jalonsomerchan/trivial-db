@@ -1,0 +1,42 @@
+{
+  "id": "q-014119",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto resulta al restar 475 de 630?",
+  "answers": [
+    {
+      "text": "160",
+      "correct": false
+    },
+    {
+      "text": "205",
+      "correct": false
+    },
+    {
+      "text": "155",
+      "correct": true
+    },
+    {
+      "text": "150",
+      "correct": false
+    }
+  ],
+  "explanation": "Al calcular 630 - 475 se obtiene 155.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

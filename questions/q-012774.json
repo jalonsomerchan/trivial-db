@@ -1,0 +1,42 @@
+{
+  "id": "q-012774",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Islas Cook?",
+  "answers": [
+    {
+      "text": "Northern Europe",
+      "correct": false
+    },
+    {
+      "text": "South America",
+      "correct": false
+    },
+    {
+      "text": "Polynesia",
+      "correct": true
+    },
+    {
+      "text": "Northern Africa",
+      "correct": false
+    }
+  ],
+  "explanation": "Islas Cook pertenece a la subregión Polynesia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

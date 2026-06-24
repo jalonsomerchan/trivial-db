@@ -1,0 +1,42 @@
+{
+  "id": "q-011787",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Super Mario Bros.”, “The Witcher 3”, “Minecraft” y “God of War” encaja con Mario y el género plataformas?",
+  "answers": [
+    {
+      "text": "The Witcher 3",
+      "correct": false
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": true
+    },
+    {
+      "text": "Minecraft",
+      "correct": false
+    }
+  ],
+  "explanation": "Mario se asocia con “Super Mario Bros.”, que se describe como plataformas.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "super-mario-bros"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

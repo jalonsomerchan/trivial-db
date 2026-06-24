@@ -1,0 +1,42 @@
+{
+  "id": "q-012756",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Camboya?",
+  "answers": [
+    {
+      "text": "South-Eastern Asia",
+      "correct": true
+    },
+    {
+      "text": "Southern Europe",
+      "correct": false
+    },
+    {
+      "text": "Central Asia",
+      "correct": false
+    },
+    {
+      "text": "Western Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "Camboya pertenece a la subregión South-Eastern Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

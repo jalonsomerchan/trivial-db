@@ -1,0 +1,43 @@
+{
+  "id": "q-011848",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “Halo”?",
+  "answers": [
+    {
+      "text": "Square",
+      "correct": false
+    },
+    {
+      "text": "Mojang",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": true
+    }
+  ],
+  "explanation": "“Halo” se vincula con Bungie.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "halo",
+    "bungie"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

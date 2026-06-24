@@ -1,0 +1,42 @@
+{
+  "id": "q-011637",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “The Witcher 3”, “Pac-Man”, “Tomb Raider” y “Metroid” relaciona a Pac-Man con Namco?",
+  "answers": [
+    {
+      "text": "Metroid",
+      "correct": false
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": false
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    },
+    {
+      "text": "Pac-Man",
+      "correct": true
+    }
+  ],
+  "explanation": "Pac-Man se asocia con “Pac-Man”, vinculado a Namco.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "pac-man"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

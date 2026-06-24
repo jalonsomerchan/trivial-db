@@ -1,0 +1,42 @@
+{
+  "id": "q-012746",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Argelia?",
+  "answers": [
+    {
+      "text": "Northern Europe",
+      "correct": false
+    },
+    {
+      "text": "Caribbean",
+      "correct": false
+    },
+    {
+      "text": "Southern Europe",
+      "correct": false
+    },
+    {
+      "text": "Northern Africa",
+      "correct": true
+    }
+  ],
+  "explanation": "Argelia pertenece a la subregión Northern Africa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012236",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo cuscús, risotto, tabulé y pizza napolitana encaja con Magreb y con el ingrediente sémola de trigo?",
+  "answers": [
+    {
+      "text": "pizza napolitana",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "tabulé",
+      "correct": false
+    },
+    {
+      "text": "cuscús",
+      "correct": true
+    }
+  ],
+  "explanation": "cuscús se asocia con Magreb y con sémola de trigo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cuscus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

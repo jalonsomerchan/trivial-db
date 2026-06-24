@@ -1,0 +1,42 @@
+{
+  "id": "q-012469",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo shakshuka, tzatziki, bibimbap y pho se prepara típicamente con caldo con fideos?",
+  "answers": [
+    {
+      "text": "tzatziki",
+      "correct": false
+    },
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "pho",
+      "correct": true
+    },
+    {
+      "text": "shakshuka",
+      "correct": false
+    }
+  ],
+  "explanation": "pho se prepara típicamente con caldo con fideos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

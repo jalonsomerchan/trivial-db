@@ -1,0 +1,42 @@
+{
+  "id": "q-014970",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "conceptos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué concepto tecnológico se define como estructura jerárquica con hasta dos hijos por nodo?",
+  "answers": [
+    {
+      "text": "clave foránea",
+      "correct": false
+    },
+    {
+      "text": "árbol binario",
+      "correct": true
+    },
+    {
+      "text": "cola",
+      "correct": false
+    },
+    {
+      "text": "hash",
+      "correct": false
+    }
+  ],
+  "explanation": "La definición corresponde a árbol binario.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "arbol-binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

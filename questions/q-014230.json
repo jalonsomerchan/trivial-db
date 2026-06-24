@@ -1,0 +1,41 @@
+{
+  "id": "q-014230",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué valor de x satisface la ecuación 14x + 26 = 446?",
+  "answers": [
+    {
+      "text": "31",
+      "correct": false
+    },
+    {
+      "text": "33",
+      "correct": false
+    },
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "30",
+      "correct": true
+    }
+  ],
+  "explanation": "Restando 26 y dividiendo entre 14, se obtiene x = 30.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

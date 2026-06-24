@@ -1,0 +1,43 @@
+{
+  "id": "q-012947",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Guernsey?",
+  "answers": [
+    {
+      "text": ".ci",
+      "correct": false
+    },
+    {
+      "text": ".us",
+      "correct": false
+    },
+    {
+      "text": ".es",
+      "correct": false
+    },
+    {
+      "text": ".gg",
+      "correct": true
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Guernsey es .gg.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "guernsey"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-014999",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué puerto TCP se asocia habitualmente con Redis?",
+  "answers": [
+    {
+      "text": "990",
+      "correct": false
+    },
+    {
+      "text": "6379",
+      "correct": true
+    },
+    {
+      "text": "22",
+      "correct": false
+    },
+    {
+      "text": "143",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto habitual asociado a Redis es 6379.",
+  "sources": [
+    {
+      "title": "IANA Service Name and Transport Protocol Port Number Registry",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "puertos",
+    "redis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

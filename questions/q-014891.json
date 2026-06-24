@@ -1,0 +1,41 @@
+{
+  "id": "q-014891",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 321 en sistema binario?",
+  "answers": [
+    {
+      "text": "101000000",
+      "correct": false
+    },
+    {
+      "text": "101000010",
+      "correct": false
+    },
+    {
+      "text": "101000011",
+      "correct": false
+    },
+    {
+      "text": "101000001",
+      "correct": true
+    }
+  ],
+  "explanation": "La representación binaria de 321 es 101000001.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

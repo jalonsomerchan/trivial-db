@@ -1,0 +1,42 @@
+{
+  "id": "q-010842",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se clasifica habitualmente el elemento calcio?",
+  "answers": [
+    {
+      "text": "actínido",
+      "correct": false
+    },
+    {
+      "text": "metal alcalino",
+      "correct": false
+    },
+    {
+      "text": "no metal",
+      "correct": false
+    },
+    {
+      "text": "metal alcalinotérreo",
+      "correct": true
+    }
+  ],
+  "explanation": "El calcio se clasifica como metal alcalinotérreo.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "metal-alcalinoterreo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010643",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué sistema del cuerpo humano se encarga de dar soporte y protección?",
+  "answers": [
+    {
+      "text": "sistema respiratorio",
+      "correct": false
+    },
+    {
+      "text": "sistema endocrino",
+      "correct": false
+    },
+    {
+      "text": "sistema muscular",
+      "correct": false
+    },
+    {
+      "text": "sistema óseo",
+      "correct": true
+    }
+  ],
+  "explanation": "La función descrita corresponde al sistema óseo.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "sistema-oseo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-014918",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 410 en sistema binario?",
+  "answers": [
+    {
+      "text": "110011010",
+      "correct": true
+    },
+    {
+      "text": "110011011",
+      "correct": false
+    },
+    {
+      "text": "110011001",
+      "correct": false
+    },
+    {
+      "text": "110011100",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 410 es 110011010.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

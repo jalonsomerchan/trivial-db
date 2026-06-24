@@ -1,0 +1,42 @@
+{
+  "id": "q-012768",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Georgia?",
+  "answers": [
+    {
+      "text": "Western Asia",
+      "correct": true
+    },
+    {
+      "text": "Northern Europe",
+      "correct": false
+    },
+    {
+      "text": "Western Europe",
+      "correct": false
+    },
+    {
+      "text": "Central America",
+      "correct": false
+    }
+  ],
+  "explanation": "Georgia pertenece a la subregión Western Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

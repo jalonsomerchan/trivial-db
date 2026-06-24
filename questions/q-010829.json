@@ -1,0 +1,42 @@
+{
+  "id": "q-010829",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "cuerpo-humano"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la función principal del sistema endocrino?",
+  "answers": [
+    {
+      "text": "descomponer alimentos y absorber nutrientes",
+      "correct": false
+    },
+    {
+      "text": "regular funciones mediante hormonas",
+      "correct": true
+    },
+    {
+      "text": "defender el organismo frente a patógenos",
+      "correct": false
+    },
+    {
+      "text": "permitir la reproducción",
+      "correct": false
+    }
+  ],
+  "explanation": "El sistema endocrino tiene como función principal regular funciones mediante hormonas.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "sistema-endocrino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-013325",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué personaje histórico se vincula con monarquía hispánica en España?",
+  "answers": [
+    {
+      "text": "Augusto",
+      "correct": false
+    },
+    {
+      "text": "Carlos I de España",
+      "correct": false
+    },
+    {
+      "text": "Felipe II",
+      "correct": true
+    },
+    {
+      "text": "Simón Bolívar",
+      "correct": false
+    }
+  ],
+  "explanation": "Felipe II se vincula con monarquía hispánica en España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "felipe-ii"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

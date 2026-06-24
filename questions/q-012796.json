@@ -1,0 +1,42 @@
+{
+  "id": "q-012796",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué subregión geográfica corresponde a Pakistán?",
+  "answers": [
+    {
+      "text": "Northern Europe",
+      "correct": false
+    },
+    {
+      "text": "Southern Asia",
+      "correct": true
+    },
+    {
+      "text": "Australia and New Zealand",
+      "correct": false
+    },
+    {
+      "text": "Central Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "Pakistán pertenece a la subregión Southern Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

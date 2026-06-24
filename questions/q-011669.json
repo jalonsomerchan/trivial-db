@@ -1,0 +1,43 @@
+{
+  "id": "q-011669",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué género describe mejor el videojuego “The Witcher 3”?",
+  "answers": [
+    {
+      "text": "plataformas",
+      "correct": false
+    },
+    {
+      "text": "rol",
+      "correct": true
+    },
+    {
+      "text": "acción",
+      "correct": false
+    },
+    {
+      "text": "sigilo",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Witcher 3” se describe habitualmente como rol.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-witcher-3",
+    "rol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

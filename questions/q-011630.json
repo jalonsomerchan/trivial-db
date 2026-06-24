@@ -1,0 +1,42 @@
+{
+  "id": "q-011630",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga del grupo “The Last of Us”, “Super Mario Bros.”, “Tomb Raider” y “Sonic the Hedgehog” relaciona a Sonic con Sega?",
+  "answers": [
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": true
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    }
+  ],
+  "explanation": "Sonic se asocia con “Sonic the Hedgehog”, vinculado a Sega.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "sonic-the-hedgehog"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

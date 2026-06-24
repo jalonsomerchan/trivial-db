@@ -1,0 +1,43 @@
+{
+  "id": "q-013398",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso se asocia históricamente Nelson Mandela?",
+  "answers": [
+    {
+      "text": "primer emperador romano",
+      "correct": false
+    },
+    {
+      "text": "coronación imperial del año 800",
+      "correct": false
+    },
+    {
+      "text": "imperio ruso",
+      "correct": false
+    },
+    {
+      "text": "fin del apartheid",
+      "correct": true
+    }
+  ],
+  "explanation": "Nelson Mandela se asocia con fin del apartheid.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "nelson-mandela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

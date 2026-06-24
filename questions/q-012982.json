@@ -1,0 +1,43 @@
+{
+  "id": "q-012982",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "dominios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dominio nacional de internet corresponde a Rusia?",
+  "answers": [
+    {
+      "text": ".ug",
+      "correct": false
+    },
+    {
+      "text": ".ph",
+      "correct": false
+    },
+    {
+      "text": ".ru",
+      "correct": true
+    },
+    {
+      "text": ".bf",
+      "correct": false
+    }
+  ],
+  "explanation": "El dominio nacional asociado a Rusia es .ru.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "dominios",
+    "rusia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

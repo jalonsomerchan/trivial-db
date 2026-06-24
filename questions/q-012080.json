@@ -1,0 +1,42 @@
+{
+  "id": "q-012080",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo pimiento, sardina, almendra y garbanzos es un ejemplo de pescado?",
+  "answers": [
+    {
+      "text": "sardina",
+      "correct": true
+    },
+    {
+      "text": "almendra",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "pimiento",
+      "correct": false
+    }
+  ],
+  "explanation": "sardina es un ejemplo de pescado.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pescado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012496",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como dorar por calor seco?",
+  "answers": [
+    {
+      "text": "pochar",
+      "correct": false
+    },
+    {
+      "text": "reducir",
+      "correct": false
+    },
+    {
+      "text": "asar",
+      "correct": false
+    },
+    {
+      "text": "tostar",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica descrita es tostar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "tostar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

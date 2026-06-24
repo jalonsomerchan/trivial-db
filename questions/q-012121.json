@@ -1,0 +1,43 @@
+{
+  "id": "q-012121",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente protagoniza habitualmente el plato ceviche?",
+  "answers": [
+    {
+      "text": "pescado marinado",
+      "correct": true
+    },
+    {
+      "text": "masa de pan",
+      "correct": false
+    },
+    {
+      "text": "huevos en salsa de tomate",
+      "correct": false
+    },
+    {
+      "text": "berenjena",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente protagonista de ceviche es pescado marinado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ceviche",
+    "pescado-marinado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

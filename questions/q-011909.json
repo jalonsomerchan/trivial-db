@@ -1,0 +1,42 @@
+{
+  "id": "q-011909",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Casablanca”, “El viaje de Chihiro”, “La La Land” y “Mad Max: Fury Road” fue dirigida por George Miller?",
+  "answers": [
+    {
+      "text": "Casablanca",
+      "correct": false
+    },
+    {
+      "text": "Mad Max: Fury Road",
+      "correct": true
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "La La Land",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mad Max: Fury Road” se asocia con George Miller.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "george-miller"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

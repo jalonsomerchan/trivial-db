@@ -1,0 +1,42 @@
+{
+  "id": "q-010186",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra de arte se asocia con Rafael Sanzio y Renacimiento?",
+  "answers": [
+    {
+      "text": "Campbell’s Soup Cans",
+      "correct": false
+    },
+    {
+      "text": "La escuela de Atenas",
+      "correct": true
+    },
+    {
+      "text": "La creación de Adán",
+      "correct": false
+    },
+    {
+      "text": "Los girasoles",
+      "correct": false
+    }
+  ],
+  "explanation": "La obra asociada con Rafael Sanzio y Renacimiento es “La escuela de Atenas”.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "rafael-sanzio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

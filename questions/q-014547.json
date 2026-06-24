@@ -1,0 +1,41 @@
+{
+  "id": "q-014547",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el valor decimal del número binario 10110100₂?",
+  "answers": [
+    {
+      "text": "181",
+      "correct": false
+    },
+    {
+      "text": "182",
+      "correct": false
+    },
+    {
+      "text": "179",
+      "correct": false
+    },
+    {
+      "text": "180",
+      "correct": true
+    }
+  ],
+  "explanation": "El número binario 10110100₂ equivale a 180 en decimal.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-012447",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo poke, tabulé, paella y chili con carne se prepara típicamente con bulgur y perejil?",
+  "answers": [
+    {
+      "text": "paella",
+      "correct": false
+    },
+    {
+      "text": "tabulé",
+      "correct": true
+    },
+    {
+      "text": "chili con carne",
+      "correct": false
+    },
+    {
+      "text": "poke",
+      "correct": false
+    }
+  ],
+  "explanation": "tabulé se prepara típicamente con bulgur y perejil.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tabule"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

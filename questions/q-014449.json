@@ -1,0 +1,41 @@
+{
+  "id": "q-014449",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 25% de 800?",
+  "answers": [
+    {
+      "text": "205",
+      "correct": false
+    },
+    {
+      "text": "190",
+      "correct": false
+    },
+    {
+      "text": "210",
+      "correct": false
+    },
+    {
+      "text": "200",
+      "correct": true
+    }
+  ],
+  "explanation": "El 25% de 800 se calcula como 800 × 25/100 = 200.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-013342",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la Revolución rusa?",
+  "answers": [
+    {
+      "text": "Rusia revolucionaria",
+      "correct": true
+    },
+    {
+      "text": "Macedonia antigua",
+      "correct": false
+    },
+    {
+      "text": "Imperio carolingio",
+      "correct": false
+    },
+    {
+      "text": "orden internacional de posguerra",
+      "correct": false
+    }
+  ],
+  "explanation": "La Revolución rusa se relaciona con Rusia revolucionaria.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "rusia-revolucionaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

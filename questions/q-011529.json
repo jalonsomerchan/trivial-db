@@ -1,0 +1,43 @@
+{
+  "id": "q-011529",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director está asociado con “Origen”?",
+  "answers": [
+    {
+      "text": "Hayao Miyazaki",
+      "correct": false
+    },
+    {
+      "text": "Alfred Hitchcock",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": true
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    }
+  ],
+  "explanation": "“Origen” está asociada con el director Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "origen",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

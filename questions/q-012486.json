@@ -1,0 +1,43 @@
+{
+  "id": "q-012486",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como cocinar en líquido en ebullición?",
+  "answers": [
+    {
+      "text": "amasar",
+      "correct": false
+    },
+    {
+      "text": "asar",
+      "correct": false
+    },
+    {
+      "text": "hervir",
+      "correct": true
+    },
+    {
+      "text": "glasear",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica descrita es hervir.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "hervir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

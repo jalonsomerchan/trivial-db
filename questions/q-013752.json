@@ -1,0 +1,42 @@
+{
+  "id": "q-013752",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso literario se identifica en “La ciudad nunca duerme” dentro del grupo de ejemplos “La ciudad nunca duerme”, “Compró pan, leche y fruta”, “Te lo he dicho mil veces” y “Las nieves del tiempo platearon su sien”?",
+  "answers": [
+    {
+      "text": "metáfora",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": true
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "símil",
+      "correct": false
+    }
+  ],
+  "explanation": "La frase “La ciudad nunca duerme” contiene personificación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "personificacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-014648",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla URL en informática?",
+  "answers": [
+    {
+      "text": "Transport Layer Security",
+      "correct": false
+    },
+    {
+      "text": "Secure Shell",
+      "correct": false
+    },
+    {
+      "text": "HyperText Markup Language",
+      "correct": false
+    },
+    {
+      "text": "Uniform Resource Locator",
+      "correct": true
+    }
+  ],
+  "explanation": "En informática, URL significa Uniform Resource Locator.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "url"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

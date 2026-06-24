@@ -1,0 +1,43 @@
+{
+  "id": "q-012487",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria se define como cocinar lentamente con algo de líquido?",
+  "answers": [
+    {
+      "text": "pochar",
+      "correct": false
+    },
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "reducir",
+      "correct": false
+    },
+    {
+      "text": "brasear",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica descrita es brasear.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "brasear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

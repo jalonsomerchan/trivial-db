@@ -1,0 +1,42 @@
+{
+  "id": "q-010348",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “Cien años de soledad”?",
+  "answers": [
+    {
+      "text": "realismo mágico",
+      "correct": true
+    },
+    {
+      "text": "drama",
+      "correct": false
+    },
+    {
+      "text": "poesía",
+      "correct": false
+    },
+    {
+      "text": "sátira política",
+      "correct": false
+    }
+  ],
+  "explanation": "“Cien años de soledad” se clasifica habitualmente como realismo mágico.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "realismo-magico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

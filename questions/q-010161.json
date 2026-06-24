@@ -1,0 +1,42 @@
+{
+  "id": "q-010161",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué libro se asocia con Gustave Flaubert y el género novela realista?",
+  "answers": [
+    {
+      "text": "La Odisea",
+      "correct": false
+    },
+    {
+      "text": "El extranjero",
+      "correct": false
+    },
+    {
+      "text": "Moby Dick",
+      "correct": false
+    },
+    {
+      "text": "Madame Bovary",
+      "correct": true
+    }
+  ],
+  "explanation": "“Madame Bovary” es una obra de Gustave Flaubert asociada con novela realista.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "gustave-flaubert"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-010658",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia-celular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la función principal de la estructura celular llamada retículo endoplasmático liso?",
+  "answers": [
+    {
+      "text": "participar en la síntesis de proteínas",
+      "correct": false
+    },
+    {
+      "text": "sintetizar lípidos y detoxificar",
+      "correct": true
+    },
+    {
+      "text": "regular el paso de sustancias",
+      "correct": false
+    },
+    {
+      "text": "modificar y empaquetar proteínas",
+      "correct": false
+    }
+  ],
+  "explanation": "La función principal de retículo endoplasmático liso es sintetizar lípidos y detoxificar.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "celula",
+    "reticulo-endoplasmatico-liso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

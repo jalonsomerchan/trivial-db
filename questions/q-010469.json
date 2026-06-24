@@ -1,0 +1,42 @@
+{
+  "id": "q-010469",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “Orgullo y prejuicio”, “Moby Dick”, “Romancero gitano” y “La Ilíada” fue escrita por Jane Austen?",
+  "answers": [
+    {
+      "text": "La Ilíada",
+      "correct": false
+    },
+    {
+      "text": "Romancero gitano",
+      "correct": false
+    },
+    {
+      "text": "Moby Dick",
+      "correct": false
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": true
+    }
+  ],
+  "explanation": "“Orgullo y prejuicio” fue escrita por Jane Austen.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "jane-austen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "q-010679",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué densidad tiene una muestra de 546 g que ocupa 26 cm³?",
+  "answers": [
+    {
+      "text": "21 g/cm³",
+      "correct": true
+    },
+    {
+      "text": "20 g/cm³",
+      "correct": false
+    },
+    {
+      "text": "22 g/cm³",
+      "correct": false
+    },
+    {
+      "text": "572 g/cm³",
+      "correct": false
+    }
+  ],
+  "explanation": "La densidad es masa dividida entre volumen: 546/26 = 21 g/cm³.",
+  "sources": [
+    {
+      "title": "OpenStax Chemistry 2e",
+      "url": "https://openstax.org/details/books/chemistry-2e"
+    }
+  ],
+  "tags": [
+    "densidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

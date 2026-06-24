@@ -1,0 +1,42 @@
+{
+  "id": "q-013372",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué proceso histórico se relaciona la inicio de la Primera Guerra Mundial?",
+  "answers": [
+    {
+      "text": "Primera Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "terrorismo internacional",
+      "correct": false
+    },
+    {
+      "text": "monarquía inglesa",
+      "correct": false
+    },
+    {
+      "text": "Revolución francesa",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Primera Guerra Mundial se relaciona con Primera Guerra Mundial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "primera-guerra-mundial"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

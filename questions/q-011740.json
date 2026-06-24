@@ -1,0 +1,42 @@
+{
+  "id": "q-011740",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego del grupo “Metroid”, “Street Fighter II”, “Metal Gear Solid” y “God of War” encaja con Kratos y el género acción?",
+  "answers": [
+    {
+      "text": "Metroid",
+      "correct": false
+    },
+    {
+      "text": "God of War",
+      "correct": true
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": false
+    },
+    {
+      "text": "Street Fighter II",
+      "correct": false
+    }
+  ],
+  "explanation": "Kratos se asocia con “God of War”, que se describe como acción.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "god-of-war"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

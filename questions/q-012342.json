@@ -1,0 +1,43 @@
+{
+  "id": "q-012342",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con croissant?",
+  "answers": [
+    {
+      "text": "Hungría",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": true
+    },
+    {
+      "text": "Hawái",
+      "correct": false
+    },
+    {
+      "text": "Tailandia",
+      "correct": false
+    }
+  ],
+  "explanation": "croissant se asocia tradicionalmente con Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "croissant",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

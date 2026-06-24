@@ -1,0 +1,43 @@
+{
+  "id": "q-012345",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con feijoada?",
+  "answers": [
+    {
+      "text": "Brasil",
+      "correct": true
+    },
+    {
+      "text": "Europa del Este",
+      "correct": false
+    },
+    {
+      "text": "Hawái",
+      "correct": false
+    },
+    {
+      "text": "Polonia",
+      "correct": false
+    }
+  ],
+  "explanation": "feijoada se asocia tradicionalmente con Brasil.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "feijoada",
+    "brasil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

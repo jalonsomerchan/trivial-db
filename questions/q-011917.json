@@ -1,0 +1,42 @@
+{
+  "id": "q-011917",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué película del grupo “Ciudadano Kane”, “Buscando a Nemo”, “Matrix” y “Toy Story” fue dirigida por Orson Welles?",
+  "answers": [
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": true
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": false
+    }
+  ],
+  "explanation": "“Ciudadano Kane” se asocia con Orson Welles.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "orson-welles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

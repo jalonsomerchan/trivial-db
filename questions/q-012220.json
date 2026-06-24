@@ -1,0 +1,42 @@
+{
+  "id": "q-012220",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué plato del grupo biryani, gazpacho, satay y sushi encaja con España y con el ingrediente tomate?",
+  "answers": [
+    {
+      "text": "satay",
+      "correct": false
+    },
+    {
+      "text": "gazpacho",
+      "correct": true
+    },
+    {
+      "text": "sushi",
+      "correct": false
+    },
+    {
+      "text": "biryani",
+      "correct": false
+    }
+  ],
+  "explanation": "gazpacho se asocia con España y con tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "gazpacho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

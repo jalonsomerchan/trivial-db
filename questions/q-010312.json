@@ -1,0 +1,42 @@
+{
+  "id": "q-010312",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "arte"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué obra del grupo “Number 1A, 1948”, “El hijo del hombre”, “Composición con rojo, amarillo y azul” y “La ronda de noche” pertenece al Surrealismo?",
+  "answers": [
+    {
+      "text": "Composición con rojo, amarillo y azul",
+      "correct": false
+    },
+    {
+      "text": "La ronda de noche",
+      "correct": false
+    },
+    {
+      "text": "Number 1A, 1948",
+      "correct": false
+    },
+    {
+      "text": "El hijo del hombre",
+      "correct": true
+    }
+  ],
+  "explanation": "“El hijo del hombre” se vincula con Surrealismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "surrealismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

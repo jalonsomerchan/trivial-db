@@ -1,0 +1,41 @@
+{
+  "id": "q-014465",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 35% de 640?",
+  "answers": [
+    {
+      "text": "224",
+      "correct": true
+    },
+    {
+      "text": "214",
+      "correct": false
+    },
+    {
+      "text": "234",
+      "correct": false
+    },
+    {
+      "text": "229",
+      "correct": false
+    }
+  ],
+  "explanation": "El 35% de 640 se calcula como 640 × 35/100 = 224.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

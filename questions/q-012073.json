@@ -1,0 +1,42 @@
+{
+  "id": "q-012073",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué alimento del grupo pera, garbanzos, ternera y nuez es un ejemplo de fruta?",
+  "answers": [
+    {
+      "text": "pera",
+      "correct": true
+    },
+    {
+      "text": "nuez",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "ternera",
+      "correct": false
+    }
+  ],
+  "explanation": "pera es un ejemplo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

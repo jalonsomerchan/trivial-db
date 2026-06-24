@@ -1,0 +1,42 @@
+{
+  "id": "q-010634",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué posición ocupa Júpiter desde el Sol?",
+  "answers": [
+    {
+      "text": "5",
+      "correct": true
+    },
+    {
+      "text": "8",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": false
+    }
+  ],
+  "explanation": "Júpiter es el planeta número 5 contando desde el Sol.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "jupiter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

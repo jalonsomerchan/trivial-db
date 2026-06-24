@@ -1,0 +1,41 @@
+{
+  "id": "q-014475",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto es el 40% de 780?",
+  "answers": [
+    {
+      "text": "302",
+      "correct": false
+    },
+    {
+      "text": "322",
+      "correct": false
+    },
+    {
+      "text": "317",
+      "correct": false
+    },
+    {
+      "text": "312",
+      "correct": true
+    }
+  ],
+  "explanation": "El 40% de 780 se calcula como 780 × 40/100 = 312.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

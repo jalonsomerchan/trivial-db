@@ -1,0 +1,42 @@
+{
+  "id": "q-013240",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué década se sitúa la primera vuelta al mundo completada por Elcano frente a la referencia histórica de la asesinato de Julio César?",
+  "answers": [
+    {
+      "text": "década de 1530",
+      "correct": false
+    },
+    {
+      "text": "década de 1510",
+      "correct": false
+    },
+    {
+      "text": "década de 1540",
+      "correct": false
+    },
+    {
+      "text": "década de 1520",
+      "correct": true
+    }
+  ],
+  "explanation": "La primera vuelta al mundo completada por Elcano ocurrió en 1522, dentro de la década de 1520.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "decadas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-012335",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué cocina se asocia tradicionalmente con arepa?",
+  "answers": [
+    {
+      "text": "Turquía y Oriente Medio",
+      "correct": false
+    },
+    {
+      "text": "Suiza",
+      "correct": false
+    },
+    {
+      "text": "Venezuela y Colombia",
+      "correct": true
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    }
+  ],
+  "explanation": "arepa se asocia tradicionalmente con Venezuela y Colombia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "arepa",
+    "venezuela-y-colombia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

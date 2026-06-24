@@ -1,0 +1,41 @@
+{
+  "id": "q-014838",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "numeracion-binaria"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se escribe 136 en sistema binario?",
+  "answers": [
+    {
+      "text": "10000111",
+      "correct": false
+    },
+    {
+      "text": "10001000",
+      "correct": true
+    },
+    {
+      "text": "10001001",
+      "correct": false
+    },
+    {
+      "text": "10001010",
+      "correct": false
+    }
+  ],
+  "explanation": "La representación binaria de 136 es 10001000.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "binario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

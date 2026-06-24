@@ -1,0 +1,42 @@
+{
+  "id": "q-013307",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "lugares-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué lugar se asocia directamente con la toma de la Bastilla?",
+  "answers": [
+    {
+      "text": "Eurasia",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": true
+    },
+    {
+      "text": "península de Corea",
+      "correct": false
+    }
+  ],
+  "explanation": "La toma de la Bastilla se asocia directamente con París.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "paris"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

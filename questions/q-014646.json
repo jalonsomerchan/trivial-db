@@ -1,0 +1,43 @@
+{
+  "id": "q-014646",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la sigla TLS en informática?",
+  "answers": [
+    {
+      "text": "JavaScript Object Notation",
+      "correct": false
+    },
+    {
+      "text": "User Datagram Protocol",
+      "correct": false
+    },
+    {
+      "text": "Transport Layer Security",
+      "correct": true
+    },
+    {
+      "text": "Domain Name System",
+      "correct": false
+    }
+  ],
+  "explanation": "En informática, TLS significa Transport Layer Security.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "tls"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

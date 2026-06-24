@@ -1,0 +1,42 @@
+{
+  "id": "q-012430",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo pad thai, cuscús, borsch y ceviche se prepara típicamente con fideos de arroz?",
+  "answers": [
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "pad thai",
+      "correct": true
+    },
+    {
+      "text": "cuscús",
+      "correct": false
+    },
+    {
+      "text": "ceviche",
+      "correct": false
+    }
+  ],
+  "explanation": "pad thai se prepara típicamente con fideos de arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pad-thai"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

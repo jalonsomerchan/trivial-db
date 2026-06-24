@@ -1,0 +1,42 @@
+{
+  "id": "q-012380",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo bibimbap, kimchi, croissant y ramen se prepara típicamente con fideos?",
+  "answers": [
+    {
+      "text": "ramen",
+      "correct": true
+    },
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    }
+  ],
+  "explanation": "ramen se prepara típicamente con fideos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ramen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

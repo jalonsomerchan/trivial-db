@@ -1,0 +1,43 @@
+{
+  "id": "q-012155",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué describe mejor la técnica culinaria de brasear?",
+  "answers": [
+    {
+      "text": "cubrir con una capa brillante",
+      "correct": false
+    },
+    {
+      "text": "concentrar un líquido evaporando parte del agua",
+      "correct": false
+    },
+    {
+      "text": "transformar alimentos por acción de microorganismos",
+      "correct": false
+    },
+    {
+      "text": "cocinar lentamente con algo de líquido",
+      "correct": true
+    }
+  ],
+  "explanation": "brasear consiste en cocinar lentamente con algo de líquido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "brasear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

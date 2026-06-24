@@ -1,0 +1,43 @@
+{
+  "id": "q-011864",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o compañía se vincula con “Uncharted”?",
+  "answers": [
+    {
+      "text": "Sega",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": true
+    },
+    {
+      "text": "Capcom",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": false
+    }
+  ],
+  "explanation": "“Uncharted” se vincula con Naughty Dog.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "uncharted",
+    "naughty-dog"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

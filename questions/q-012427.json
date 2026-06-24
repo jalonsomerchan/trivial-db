@@ -1,0 +1,42 @@
+{
+  "id": "q-012427",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo moussaka, falafel, salmorejo y pad thai se prepara típicamente con tomate y pan?",
+  "answers": [
+    {
+      "text": "pad thai",
+      "correct": false
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    },
+    {
+      "text": "salmorejo",
+      "correct": true
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    }
+  ],
+  "explanation": "salmorejo se prepara típicamente con tomate y pan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "salmorejo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

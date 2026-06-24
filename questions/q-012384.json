@@ -1,0 +1,42 @@
+{
+  "id": "q-012384",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato del grupo bibimbap, sushi, guacamole y moussaka se prepara típicamente con aguacate?",
+  "answers": [
+    {
+      "text": "bibimbap",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": true
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "sushi",
+      "correct": false
+    }
+  ],
+  "explanation": "guacamole se prepara típicamente con aguacate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "guacamole"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

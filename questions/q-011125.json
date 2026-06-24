@@ -1,0 +1,42 @@
+{
+  "id": "q-011125",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "baloncesto"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué franquicia de la NBA se asocia con la ciudad de Cleveland?",
+  "answers": [
+    {
+      "text": "Los Angeles Lakers",
+      "correct": false
+    },
+    {
+      "text": "Dallas Mavericks",
+      "correct": false
+    },
+    {
+      "text": "Toronto Raptors",
+      "correct": false
+    },
+    {
+      "text": "Cleveland Cavaliers",
+      "correct": true
+    }
+  ],
+  "explanation": "Cleveland Cavaliers es una franquicia asociada con Cleveland.",
+  "sources": [
+    {
+      "title": "NBA",
+      "url": "https://www.nba.com/"
+    }
+  ],
+  "tags": [
+    "nba",
+    "cleveland-cavaliers"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

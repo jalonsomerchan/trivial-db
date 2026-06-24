@@ -1,0 +1,42 @@
+{
+  "id": "q-011001",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia-celular"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué orgánulo celular se encarga de sintetizar proteínas?",
+  "answers": [
+    {
+      "text": "ribosoma",
+      "correct": true
+    },
+    {
+      "text": "membrana plasmática",
+      "correct": false
+    },
+    {
+      "text": "aparato de Golgi",
+      "correct": false
+    },
+    {
+      "text": "núcleo celular",
+      "correct": false
+    }
+  ],
+  "explanation": "El orgánulo asociado con esa función es ribosoma.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "celula",
+    "ribosoma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

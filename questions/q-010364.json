@@ -1,0 +1,42 @@
+{
+  "id": "q-010364",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género literario describe mejor “Madame Bovary”?",
+  "answers": [
+    {
+      "text": "cuento",
+      "correct": false
+    },
+    {
+      "text": "novela realista",
+      "correct": true
+    },
+    {
+      "text": "sátira política",
+      "correct": false
+    },
+    {
+      "text": "novela existencialista",
+      "correct": false
+    }
+  ],
+  "explanation": "“Madame Bovary” se clasifica habitualmente como novela realista.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "novela-realista"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

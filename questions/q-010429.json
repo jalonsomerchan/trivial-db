@@ -1,0 +1,42 @@
+{
+  "id": "q-010429",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué obra del grupo “La Divina Comedia”, “Hamlet”, “Don Quijote de la Mancha” y “Pedro Páramo” fue escrita por Miguel de Cervantes?",
+  "answers": [
+    {
+      "text": "Hamlet",
+      "correct": false
+    },
+    {
+      "text": "Pedro Páramo",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": true
+    },
+    {
+      "text": "La Divina Comedia",
+      "correct": false
+    }
+  ],
+  "explanation": "“Don Quijote de la Mancha” fue escrita por Miguel de Cervantes.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "miguel-de-cervantes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
