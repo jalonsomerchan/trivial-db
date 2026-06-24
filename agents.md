@@ -300,15 +300,6 @@ Formato obligatorio de cada pregunta:
   "updated_at": "YYYY-MM-DD"
 }
 
-Después de añadir o modificar preguntas:
-1. Ejecuta `node scripts/generate-categories.mjs`.
-2. Ejecuta `node scripts/generate-index.mjs`.
-3. Comprueba que `categories/` se ha generado a partir de las preguntas.
-4. Comprueba que `index.json` solo contiene `id` y `question`.
-5. Comprueba que no hay IDs duplicados.
-6. Comprueba que cada pregunta tiene exactamente una respuesta con `"correct": true`.
-7. Comprueba que ninguna respuesta tiene campo `id`.
-8. Comprueba que ninguna pregunta tiene campo `type`.
 ```
 
 ## Validaciones recomendadas
