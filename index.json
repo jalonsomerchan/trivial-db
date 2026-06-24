@@ -2,5 +2,13 @@
   {
     "id": "q-000001",
     "question": "¿Cuál es el planeta más grande del Sistema Solar?"
+  },
+  {
+    "id": "q-000002",
+    "question": "¿Quién escribió Don Quijote de la Mancha?"
+  },
+  {
+    "id": "q-000003",
+    "question": "¿Cuál es la capital de Australia?"
   }
 ]
