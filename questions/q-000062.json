@@ -1,0 +1,25 @@
+{
+  "id": "q-000062",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": ["pintura"],
+  "difficulty": "easy",
+  "question": "¿Qué pintor neerlandés es famoso por La noche estrellada?",
+  "answers": [
+    { "text": "Rembrandt", "correct": false },
+    { "text": "Vincent van Gogh", "correct": true },
+    { "text": "Johannes Vermeer", "correct": false },
+    { "text": "Piet Mondrian", "correct": false }
+  ],
+  "explanation": "La noche estrellada es una obra de Vincent van Gogh.",
+  "sources": [
+    {
+      "title": "MoMA - The Starry Night",
+      "url": "https://www.moma.org/collection/works/79802"
+    }
+  ],
+  "tags": ["van-gogh", "noche-estrellada", "pintura"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
