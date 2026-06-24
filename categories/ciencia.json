@@ -1,0 +1,23 @@
+{
+  "id": "ciencia",
+  "name": "Ciencia",
+  "questions": [
+    "q-000001"
+  ],
+  "subcategories": [
+    {
+      "id": "astronomia",
+      "name": "Astronomia",
+      "questions": [
+        "q-000001"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}
