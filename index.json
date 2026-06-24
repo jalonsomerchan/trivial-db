@@ -82,5 +82,9 @@
   {
     "id": "q-000025",
     "question": "¿Cuál es la montaña más alta del mundo sobre el nivel del mar?"
+  },
+  {
+    "id": "q-000026",
+    "question": "¿En qué península se originó el islam en el siglo VII?"
   }
 ]
