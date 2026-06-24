@@ -1,0 +1,25 @@
+{
+  "id": "q-000066",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": ["informatica"],
+  "difficulty": "easy",
+  "question": "¿Qué dispositivo se usa principalmente para introducir texto en un ordenador?",
+  "answers": [
+    { "text": "Monitor", "correct": false },
+    { "text": "Teclado", "correct": true },
+    { "text": "Altavoz", "correct": false },
+    { "text": "Impresora", "correct": false }
+  ],
+  "explanation": "El teclado se utiliza principalmente para introducir texto y comandos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Computer keyboard",
+      "url": "https://www.britannica.com/technology/computer-keyboard"
+    }
+  ],
+  "tags": ["teclado", "hardware", "informatica"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
