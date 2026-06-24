@@ -1,0 +1,25 @@
+{
+  "id": "q-000076",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": ["flamenco"],
+  "difficulty": "medium",
+  "question": "¿Qué artista es conocido por el álbum La leyenda del tiempo?",
+  "answers": [
+    { "text": "Paco de Lucía", "correct": false },
+    { "text": "Camarón de la Isla", "correct": true },
+    { "text": "Enrique Morente", "correct": false },
+    { "text": "Tomatito", "correct": false }
+  ],
+  "explanation": "La leyenda del tiempo es uno de los discos más conocidos de Camarón de la Isla.",
+  "sources": [
+    {
+      "title": "Discogs - La Leyenda del Tiempo",
+      "url": "https://www.discogs.com/master/208174-Camar%C3%B3n-La-Leyenda-Del-Tiempo"
+    }
+  ],
+  "tags": ["camaron", "flamenco", "musica-espanola"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
