@@ -90,5 +90,13 @@
   {
     "id": "q-000027",
     "question": "¿Cuál es la fórmula química del agua?"
+  },
+  {
+    "id": "q-000028",
+    "question": "¿Qué poeta español escribió Romancero gitano?"
+  },
+  {
+    "id": "q-000029",
+    "question": "¿Qué arquitecto diseñó principalmente la Sagrada Familia de Barcelona?"
   }
 ]
