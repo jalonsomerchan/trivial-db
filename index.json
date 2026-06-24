@@ -12286,5 +12286,4005 @@
   {
     "id": "q-003082",
     "question": "¿En qué año se firmó el Acuerdo Sykes-Picot?"
+  },
+  {
+    "id": "q-003083",
+    "question": "En redes, ¿qué puerto se asocia por defecto con DNS sobre UDP?"
+  },
+  {
+    "id": "q-003084",
+    "question": "En redes, ¿qué puerto se asocia por defecto con DNS sobre TCP?"
+  },
+  {
+    "id": "q-003085",
+    "question": "En redes, ¿qué puerto se asocia por defecto con HTTP?"
+  },
+  {
+    "id": "q-003086",
+    "question": "En redes, ¿qué puerto se asocia por defecto con HTTPS?"
+  },
+  {
+    "id": "q-003087",
+    "question": "En redes, ¿qué puerto se asocia por defecto con SSH?"
+  },
+  {
+    "id": "q-003088",
+    "question": "En redes, ¿qué puerto se asocia por defecto con Telnet?"
+  },
+  {
+    "id": "q-003089",
+    "question": "En redes, ¿qué puerto se asocia por defecto con SMTP?"
+  },
+  {
+    "id": "q-003090",
+    "question": "En redes, ¿qué puerto se asocia por defecto con Submission de correo?"
+  },
+  {
+    "id": "q-003091",
+    "question": "En redes, ¿qué puerto se asocia por defecto con IMAP?"
+  },
+  {
+    "id": "q-003092",
+    "question": "En redes, ¿qué puerto se asocia por defecto con IMAPS?"
+  },
+  {
+    "id": "q-003093",
+    "question": "En redes, ¿qué puerto se asocia por defecto con POP3?"
+  },
+  {
+    "id": "q-003094",
+    "question": "En redes, ¿qué puerto se asocia por defecto con POP3S?"
+  },
+  {
+    "id": "q-003095",
+    "question": "En redes, ¿qué puerto se asocia por defecto con NTP?"
+  },
+  {
+    "id": "q-003096",
+    "question": "En redes, ¿qué puerto se asocia por defecto con SNMP?"
+  },
+  {
+    "id": "q-003097",
+    "question": "En redes, ¿qué puerto se asocia por defecto con LDAP?"
+  },
+  {
+    "id": "q-003098",
+    "question": "En redes, ¿qué puerto se asocia por defecto con LDAPS?"
+  },
+  {
+    "id": "q-003099",
+    "question": "En redes, ¿qué puerto se asocia por defecto con RDP?"
+  },
+  {
+    "id": "q-003100",
+    "question": "En redes, ¿qué puerto se asocia por defecto con MySQL?"
+  },
+  {
+    "id": "q-003101",
+    "question": "En redes, ¿qué puerto se asocia por defecto con PostgreSQL?"
+  },
+  {
+    "id": "q-003102",
+    "question": "En redes, ¿qué puerto se asocia por defecto con Redis?"
+  },
+  {
+    "id": "q-003103",
+    "question": "En redes, ¿qué puerto se asocia por defecto con MongoDB?"
+  },
+  {
+    "id": "q-003104",
+    "question": "En redes, ¿qué puerto se asocia por defecto con MQTT?"
+  },
+  {
+    "id": "q-003105",
+    "question": "En redes, ¿qué puerto se asocia por defecto con MQTTS?"
+  },
+  {
+    "id": "q-003106",
+    "question": "En redes, ¿qué puerto se asocia por defecto con SIP?"
+  },
+  {
+    "id": "q-003107",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de búsqueda binaria en un array ordenado?"
+  },
+  {
+    "id": "q-003108",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de búsqueda lineal?"
+  },
+  {
+    "id": "q-003109",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de inserción al principio de una lista enlazada?"
+  },
+  {
+    "id": "q-003110",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de acceso por índice en un array?"
+  },
+  {
+    "id": "q-003111",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de ordenación rápida en promedio?"
+  },
+  {
+    "id": "q-003112",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de ordenación rápida en el peor caso?"
+  },
+  {
+    "id": "q-003113",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de ordenación por mezcla?"
+  },
+  {
+    "id": "q-003114",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de ordenación burbuja?"
+  },
+  {
+    "id": "q-003115",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de heapsort?"
+  },
+  {
+    "id": "q-003116",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de inserción en tabla hash en promedio?"
+  },
+  {
+    "id": "q-003117",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de búsqueda en tabla hash en peor caso?"
+  },
+  {
+    "id": "q-003118",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de recorrido DFS de un grafo?"
+  },
+  {
+    "id": "q-003119",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de recorrido BFS de un grafo?"
+  },
+  {
+    "id": "q-003120",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de Dijkstra con cola de prioridad binaria?"
+  },
+  {
+    "id": "q-003121",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de Floyd-Warshall?"
+  },
+  {
+    "id": "q-003122",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de multiplicación clásica de matrices cuadradas?"
+  },
+  {
+    "id": "q-003123",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de búsqueda en árbol binario balanceado?"
+  },
+  {
+    "id": "q-003124",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de inserción en árbol AVL?"
+  },
+  {
+    "id": "q-003125",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de consulta de mínimo en heap binario?"
+  },
+  {
+    "id": "q-003126",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de extracción del mínimo en heap binario?"
+  },
+  {
+    "id": "q-003127",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de construcción de un heap binario?"
+  },
+  {
+    "id": "q-003128",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de ordenación por inserción en el peor caso?"
+  },
+  {
+    "id": "q-003129",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de ordenación por selección?"
+  },
+  {
+    "id": "q-003130",
+    "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de counting sort con rango k?"
+  },
+  {
+    "id": "q-003131",
+    "question": "¿Qué patrón de diseño se describe como “crear familias de objetos relacionados sin concretar sus clases”?"
+  },
+  {
+    "id": "q-003132",
+    "question": "¿Qué patrón de diseño se describe como “separar la construcción compleja de un objeto de su representación”?"
+  },
+  {
+    "id": "q-003133",
+    "question": "¿Qué patrón de diseño se describe como “garantizar una única instancia global controlada”?"
+  },
+  {
+    "id": "q-003134",
+    "question": "¿Qué patrón de diseño se describe como “adaptar la interfaz de una clase a otra esperada”?"
+  },
+  {
+    "id": "q-003135",
+    "question": "¿Qué patrón de diseño se describe como “proporcionar una interfaz simplificada a un subsistema complejo”?"
+  },
+  {
+    "id": "q-003136",
+    "question": "¿Qué patrón de diseño se describe como “añadir responsabilidades a un objeto de forma dinámica”?"
+  },
+  {
+    "id": "q-003137",
+    "question": "¿Qué patrón de diseño se describe como “representar una operación aplicable a elementos de una estructura”?"
+  },
+  {
+    "id": "q-003138",
+    "question": "¿Qué patrón de diseño se describe como “encapsular una petición como objeto”?"
+  },
+  {
+    "id": "q-003139",
+    "question": "¿Qué patrón de diseño se describe como “definir una familia de algoritmos intercambiables”?"
+  },
+  {
+    "id": "q-003140",
+    "question": "¿Qué patrón de diseño se describe como “notificar cambios de estado a objetos dependientes”?"
+  },
+  {
+    "id": "q-003141",
+    "question": "¿Qué patrón de diseño se describe como “permitir que un objeto cambie su comportamiento según su estado interno”?"
+  },
+  {
+    "id": "q-003142",
+    "question": "¿Qué patrón de diseño se describe como “centralizar la comunicación entre objetos acoplados”?"
+  },
+  {
+    "id": "q-003143",
+    "question": "¿Qué patrón de diseño se describe como “recorrer elementos sin exponer su representación interna”?"
+  },
+  {
+    "id": "q-003144",
+    "question": "¿Qué patrón de diseño se describe como “definir el esqueleto de un algoritmo y delegar pasos”?"
+  },
+  {
+    "id": "q-003145",
+    "question": "¿Qué patrón de diseño se describe como “controlar el acceso a otro objeto”?"
+  },
+  {
+    "id": "q-003146",
+    "question": "¿Qué patrón de diseño se describe como “compartir objetos finos para reducir memoria”?"
+  },
+  {
+    "id": "q-003147",
+    "question": "¿Qué patrón de diseño se describe como “componer objetos en estructuras de árbol parte-todo”?"
+  },
+  {
+    "id": "q-003148",
+    "question": "¿Qué patrón de diseño se describe como “separar abstracción e implementación para variar ambas”?"
+  },
+  {
+    "id": "q-003149",
+    "question": "¿Qué patrón de diseño se describe como “crear objetos clonando un prototipo existente”?"
+  },
+  {
+    "id": "q-003150",
+    "question": "¿Qué patrón de diseño se describe como “definir una interfaz para crear objetos dejando decidir a subclases”?"
+  },
+  {
+    "id": "q-003151",
+    "question": "En informática, ¿qué significa o describe la sigla ACID?"
+  },
+  {
+    "id": "q-003152",
+    "question": "En informática, ¿qué significa o describe la sigla CAP?"
+  },
+  {
+    "id": "q-003153",
+    "question": "En informática, ¿qué significa o describe la sigla CRUD?"
+  },
+  {
+    "id": "q-003154",
+    "question": "En informática, ¿qué significa o describe la sigla SOLID?"
+  },
+  {
+    "id": "q-003155",
+    "question": "En informática, ¿qué significa o describe la sigla RAID?"
+  },
+  {
+    "id": "q-003156",
+    "question": "En informática, ¿qué significa o describe la sigla CIDR?"
+  },
+  {
+    "id": "q-003157",
+    "question": "En informática, ¿qué significa o describe la sigla CORS?"
+  },
+  {
+    "id": "q-003158",
+    "question": "En informática, ¿qué significa o describe la sigla JWT?"
+  },
+  {
+    "id": "q-003159",
+    "question": "En informática, ¿qué significa o describe la sigla OAuth?"
+  },
+  {
+    "id": "q-003160",
+    "question": "En informática, ¿qué significa o describe la sigla SAML?"
+  },
+  {
+    "id": "q-003161",
+    "question": "En informática, ¿qué significa o describe la sigla XSS?"
+  },
+  {
+    "id": "q-003162",
+    "question": "En informática, ¿qué significa o describe la sigla CSRF?"
+  },
+  {
+    "id": "q-003163",
+    "question": "En informática, ¿qué significa o describe la sigla ORM?"
+  },
+  {
+    "id": "q-003164",
+    "question": "En informática, ¿qué significa o describe la sigla REST?"
+  },
+  {
+    "id": "q-003165",
+    "question": "En informática, ¿qué significa o describe la sigla RPC?"
+  },
+  {
+    "id": "q-003166",
+    "question": "En informática, ¿qué significa o describe la sigla CDN?"
+  },
+  {
+    "id": "q-003167",
+    "question": "En informática, ¿qué significa o describe la sigla CI/CD?"
+  },
+  {
+    "id": "q-003168",
+    "question": "En informática, ¿qué significa o describe la sigla TLS?"
+  },
+  {
+    "id": "q-003169",
+    "question": "En informática, ¿qué significa o describe la sigla DNSSEC?"
+  },
+  {
+    "id": "q-003170",
+    "question": "En informática, ¿qué significa o describe la sigla BGP?"
+  },
+  {
+    "id": "q-003171",
+    "question": "En informática, ¿qué significa o describe la sigla NAT?"
+  },
+  {
+    "id": "q-003172",
+    "question": "En informática, ¿qué significa o describe la sigla UUID?"
+  },
+  {
+    "id": "q-003173",
+    "question": "En informática, ¿qué significa o describe la sigla YAML?"
+  },
+  {
+    "id": "q-003174",
+    "question": "En informática, ¿qué significa o describe la sigla WASM?"
+  },
+  {
+    "id": "q-003175",
+    "question": "En informática, ¿qué significa o describe la sigla BOM?"
+  },
+  {
+    "id": "q-003176",
+    "question": "En informática, ¿qué significa o describe la sigla CRDT?"
+  },
+  {
+    "id": "q-003177",
+    "question": "En informática, ¿qué significa o describe la sigla MVCC?"
+  },
+  {
+    "id": "q-003178",
+    "question": "En informática, ¿qué significa o describe la sigla OLTP?"
+  },
+  {
+    "id": "q-003179",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con beriberi?"
+  },
+  {
+    "id": "q-003180",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con pelagra?"
+  },
+  {
+    "id": "q-003181",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con escorbuto?"
+  },
+  {
+    "id": "q-003182",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con raquitismo?"
+  },
+  {
+    "id": "q-003183",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con xeroftalmia?"
+  },
+  {
+    "id": "q-003184",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con anemia megaloblástica?"
+  },
+  {
+    "id": "q-003185",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con neuropatía por déficit de piridoxina?"
+  },
+  {
+    "id": "q-003186",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con alteración de la coagulación por déficit vitamínico?"
+  },
+  {
+    "id": "q-003187",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con dermatitis seborreica y alopecia por déficit?"
+  },
+  {
+    "id": "q-003188",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con glositis y queilosis por déficit?"
+  },
+  {
+    "id": "q-003189",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con defecto del tubo neural asociado a déficit materno?"
+  },
+  {
+    "id": "q-003190",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con hemólisis por déficit antioxidante poco común?"
+  },
+  {
+    "id": "q-003191",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con osteomalacia?"
+  },
+  {
+    "id": "q-003192",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con sangrado gingival por mala síntesis de colágeno?"
+  },
+  {
+    "id": "q-003193",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con ceguera nocturna?"
+  },
+  {
+    "id": "q-003194",
+    "question": "¿Qué déficit nutricional se asocia clásicamente con anemia perniciosa?"
+  },
+  {
+    "id": "q-003195",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano I?"
+  },
+  {
+    "id": "q-003196",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano II?"
+  },
+  {
+    "id": "q-003197",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano III?"
+  },
+  {
+    "id": "q-003198",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano IV?"
+  },
+  {
+    "id": "q-003199",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano V?"
+  },
+  {
+    "id": "q-003200",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano VI?"
+  },
+  {
+    "id": "q-003201",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano VII?"
+  },
+  {
+    "id": "q-003202",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano VIII?"
+  },
+  {
+    "id": "q-003203",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano IX?"
+  },
+  {
+    "id": "q-003204",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano X?"
+  },
+  {
+    "id": "q-003205",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano XI?"
+  },
+  {
+    "id": "q-003206",
+    "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano XII?"
+  },
+  {
+    "id": "q-003207",
+    "question": "¿Qué enzima participa directamente en la degradación inicial de almidón en la boca?"
+  },
+  {
+    "id": "q-003208",
+    "question": "¿Qué enzima participa directamente en la digestión de proteínas en el estómago?"
+  },
+  {
+    "id": "q-003209",
+    "question": "¿Qué enzima participa directamente en la digestión de triglicéridos en el intestino delgado?"
+  },
+  {
+    "id": "q-003210",
+    "question": "¿Qué enzima participa directamente en la conversión de lactosa en glucosa y galactosa?"
+  },
+  {
+    "id": "q-003211",
+    "question": "¿Qué enzima participa directamente en la conversión de sacarosa en glucosa y fructosa?"
+  },
+  {
+    "id": "q-003212",
+    "question": "¿Qué enzima participa directamente en la conversión de maltosa en glucosa?"
+  },
+  {
+    "id": "q-003213",
+    "question": "¿Qué enzima participa directamente en la coagulación de fibrinógeno en fibrina?"
+  },
+  {
+    "id": "q-003214",
+    "question": "¿Qué enzima participa directamente en la degradación de coágulos de fibrina?"
+  },
+  {
+    "id": "q-003215",
+    "question": "¿Qué enzima participa directamente en la conversión de angiotensina I en angiotensina II?"
+  },
+  {
+    "id": "q-003216",
+    "question": "¿Qué enzima participa directamente en la síntesis de ADN a partir de ARN en retrovirus?"
+  },
+  {
+    "id": "q-003217",
+    "question": "¿Qué enzima participa directamente en la síntesis de ADN durante replicación?"
+  },
+  {
+    "id": "q-003218",
+    "question": "¿Qué enzima participa directamente en la transcripción de ADN a ARN?"
+  },
+  {
+    "id": "q-003219",
+    "question": "¿Qué enzima participa directamente en la relajación del superenrollamiento del ADN?"
+  },
+  {
+    "id": "q-003220",
+    "question": "¿Qué enzima participa directamente en la unión de fragmentos de ADN?"
+  },
+  {
+    "id": "q-003221",
+    "question": "¿Qué enzima participa directamente en la descomposición del peróxido de hidrógeno?"
+  },
+  {
+    "id": "q-003222",
+    "question": "¿Qué enzima participa directamente en la conversión reversible de CO₂ y agua en bicarbonato?"
+  },
+  {
+    "id": "q-003223",
+    "question": "¿Qué enzima participa directamente en la fosforilación de sustratos?"
+  },
+  {
+    "id": "q-003224",
+    "question": "¿Qué enzima participa directamente en la retirada de grupos fosfato?"
+  },
+  {
+    "id": "q-003225",
+    "question": "¿Qué enzima participa directamente en la hidrolizar acetilcolina en la sinapsis?"
+  },
+  {
+    "id": "q-003226",
+    "question": "¿Qué enzima participa directamente en la cortar enlaces peptídicos tras lisina o arginina?"
+  },
+  {
+    "id": "q-003227",
+    "question": "¿Qué enzima participa directamente en la cortar enlaces peptídicos tras aminoácidos aromáticos?"
+  },
+  {
+    "id": "q-003228",
+    "question": "¿Qué enzima participa directamente en la degradar proteínas en el lisosoma?"
+  },
+  {
+    "id": "q-003229",
+    "question": "¿Qué enzima participa directamente en la convertir piruvato en lactato?"
+  },
+  {
+    "id": "q-003230",
+    "question": "¿Qué enzima participa directamente en la producir óxido nítrico desde arginina?"
+  },
+  {
+    "id": "q-003231",
+    "question": "En histología, ¿cómo se llaman las células que producen mielina en el sistema nervioso central?"
+  },
+  {
+    "id": "q-003232",
+    "question": "En histología, ¿cómo se llaman las células que producen mielina en el sistema nervioso periférico?"
+  },
+  {
+    "id": "q-003233",
+    "question": "En histología, ¿cómo se llaman las macrófagos residentes del sistema nervioso central?"
+  },
+  {
+    "id": "q-003234",
+    "question": "En histología, ¿cómo se llaman las células epiteliales que recubren ventrículos cerebrales?"
+  },
+  {
+    "id": "q-003235",
+    "question": "En histología, ¿cómo se llaman las células óseas que degradan matriz mineralizada?"
+  },
+  {
+    "id": "q-003236",
+    "question": "En histología, ¿cómo se llaman las células óseas que forman matriz ósea?"
+  },
+  {
+    "id": "q-003237",
+    "question": "En histología, ¿cómo se llaman las células maduras atrapadas en lagunas óseas?"
+  },
+  {
+    "id": "q-003238",
+    "question": "En histología, ¿cómo se llaman las células del cartílago maduro?"
+  },
+  {
+    "id": "q-003239",
+    "question": "En histología, ¿cómo se llaman las células que sintetizan colágeno en tejido conectivo?"
+  },
+  {
+    "id": "q-003240",
+    "question": "En histología, ¿cómo se llaman las células presentadoras de antígeno en epidermis?"
+  },
+  {
+    "id": "q-003241",
+    "question": "En histología, ¿cómo se llaman las células pigmentarias de la epidermis?"
+  },
+  {
+    "id": "q-003242",
+    "question": "En histología, ¿cómo se llaman las células secretoras de insulina pancreática?"
+  },
+  {
+    "id": "q-003243",
+    "question": "En histología, ¿cómo se llaman las células secretoras de glucagón pancreático?"
+  },
+  {
+    "id": "q-003244",
+    "question": "En histología, ¿cómo se llaman las células gástricas que secretan ácido clorhídrico?"
+  },
+  {
+    "id": "q-003245",
+    "question": "En histología, ¿cómo se llaman las células gástricas que secretan pepsinógeno?"
+  },
+  {
+    "id": "q-003246",
+    "question": "En histología, ¿cómo se llaman las células renales especializadas que rodean capilares glomerulares?"
+  },
+  {
+    "id": "q-003247",
+    "question": "En histología, ¿cómo se llaman las células hepáticas principales?"
+  },
+  {
+    "id": "q-003248",
+    "question": "En histología, ¿cómo se llaman las macrófagos residentes del hígado?"
+  },
+  {
+    "id": "q-003249",
+    "question": "En histología, ¿cómo se llaman las células responsables de reabsorción ósea?"
+  },
+  {
+    "id": "q-003250",
+    "question": "En histología, ¿cómo se llaman las células ciliadas sensoriales del oído interno?"
+  },
+  {
+    "id": "q-003251",
+    "question": "¿Qué receptor se asocia principalmente con adrenalina sobre aumento de frecuencia cardiaca?"
+  },
+  {
+    "id": "q-003252",
+    "question": "¿Qué receptor se asocia principalmente con broncodilatación por agonistas simpáticos?"
+  },
+  {
+    "id": "q-003253",
+    "question": "¿Qué receptor se asocia principalmente con vasoconstricción periférica simpática?"
+  },
+  {
+    "id": "q-003254",
+    "question": "¿Qué receptor se asocia principalmente con efecto parasimpático sobre el corazón?"
+  },
+  {
+    "id": "q-003255",
+    "question": "¿Qué receptor se asocia principalmente con contracción de músculo liso bronquial por acetilcolina?"
+  },
+  {
+    "id": "q-003256",
+    "question": "¿Qué receptor se asocia principalmente con placa neuromuscular esquelética?"
+  },
+  {
+    "id": "q-003257",
+    "question": "¿Qué receptor se asocia principalmente con acción analgésica principal de la morfina?"
+  },
+  {
+    "id": "q-003258",
+    "question": "¿Qué receptor se asocia principalmente con efecto de benzodiacepinas?"
+  },
+  {
+    "id": "q-003259",
+    "question": "¿Qué receptor se asocia principalmente con respuesta al glutamato en receptores NMDA?"
+  },
+  {
+    "id": "q-003260",
+    "question": "¿Qué receptor se asocia principalmente con respuesta rápida excitadora por glutamato?"
+  },
+  {
+    "id": "q-003261",
+    "question": "¿Qué receptor se asocia principalmente con acción de muchos antihistamínicos contra alergia?"
+  },
+  {
+    "id": "q-003262",
+    "question": "¿Qué receptor se asocia principalmente con secreción ácida gástrica estimulada por histamina?"
+  },
+  {
+    "id": "q-003263",
+    "question": "¿Qué receptor se asocia principalmente con acción de los triptanes en migraña?"
+  },
+  {
+    "id": "q-003264",
+    "question": "¿Qué receptor se asocia principalmente con acción de antagonistas D2 clásicos?"
+  },
+  {
+    "id": "q-003265",
+    "question": "¿Qué receptor se asocia principalmente con efecto de glucocorticoides?"
+  },
+  {
+    "id": "q-003266",
+    "question": "¿Qué receptor se asocia principalmente con efecto de hormonas tiroideas?"
+  },
+  {
+    "id": "q-003267",
+    "question": "¿Qué receptor se asocia principalmente con acción de estradiol?"
+  },
+  {
+    "id": "q-003268",
+    "question": "¿Qué receptor se asocia principalmente con acción de testosterona?"
+  },
+  {
+    "id": "q-003269",
+    "question": "¿Qué receptor se asocia principalmente con acción de aldosterona?"
+  },
+  {
+    "id": "q-003270",
+    "question": "¿Qué receptor se asocia principalmente con acción de insulina?"
+  },
+  {
+    "id": "q-003271",
+    "question": "¿Qué compuesto aromático se asocia especialmente con azafrán?"
+  },
+  {
+    "id": "q-003272",
+    "question": "¿Qué compuesto aromático se asocia especialmente con vainilla?"
+  },
+  {
+    "id": "q-003273",
+    "question": "¿Qué compuesto aromático se asocia especialmente con canela?"
+  },
+  {
+    "id": "q-003274",
+    "question": "¿Qué compuesto aromático se asocia especialmente con clavo?"
+  },
+  {
+    "id": "q-003275",
+    "question": "¿Qué compuesto aromático se asocia especialmente con pimienta negra?"
+  },
+  {
+    "id": "q-003276",
+    "question": "¿Qué compuesto aromático se asocia especialmente con chile?"
+  },
+  {
+    "id": "q-003277",
+    "question": "¿Qué compuesto aromático se asocia especialmente con jengibre?"
+  },
+  {
+    "id": "q-003278",
+    "question": "¿Qué compuesto aromático se asocia especialmente con cúrcuma?"
+  },
+  {
+    "id": "q-003279",
+    "question": "¿Qué compuesto aromático se asocia especialmente con mostaza?"
+  },
+  {
+    "id": "q-003280",
+    "question": "¿Qué compuesto aromático se asocia especialmente con ajo?"
+  },
+  {
+    "id": "q-003281",
+    "question": "¿Qué compuesto aromático se asocia especialmente con cebolla?"
+  },
+  {
+    "id": "q-003282",
+    "question": "¿Qué compuesto aromático se asocia especialmente con anís estrellado?"
+  },
+  {
+    "id": "q-003283",
+    "question": "¿Qué compuesto aromático se asocia especialmente con hinojo?"
+  },
+  {
+    "id": "q-003284",
+    "question": "¿Qué compuesto aromático se asocia especialmente con menta?"
+  },
+  {
+    "id": "q-003285",
+    "question": "¿Qué compuesto aromático se asocia especialmente con tomillo?"
+  },
+  {
+    "id": "q-003286",
+    "question": "¿Qué compuesto aromático se asocia especialmente con orégano?"
+  },
+  {
+    "id": "q-003287",
+    "question": "¿Qué compuesto aromático se asocia especialmente con romero?"
+  },
+  {
+    "id": "q-003288",
+    "question": "¿Qué compuesto aromático se asocia especialmente con cilantro?"
+  },
+  {
+    "id": "q-003289",
+    "question": "¿Qué compuesto aromático se asocia especialmente con cardamomo?"
+  },
+  {
+    "id": "q-003290",
+    "question": "¿Qué compuesto aromático se asocia especialmente con nuez moscada?"
+  },
+  {
+    "id": "q-003291",
+    "question": "¿Qué compuesto aromático se asocia especialmente con laurel?"
+  },
+  {
+    "id": "q-003292",
+    "question": "¿Qué compuesto aromático se asocia especialmente con alcaravea?"
+  },
+  {
+    "id": "q-003293",
+    "question": "¿Qué compuesto aromático se asocia especialmente con eneldo?"
+  },
+  {
+    "id": "q-003294",
+    "question": "¿Qué compuesto aromático se asocia especialmente con comino?"
+  },
+  {
+    "id": "q-003295",
+    "question": "¿Cuál es la materia prima característica de calvados?"
+  },
+  {
+    "id": "q-003296",
+    "question": "¿Cuál es la materia prima característica de kirsch?"
+  },
+  {
+    "id": "q-003297",
+    "question": "¿Cuál es la materia prima característica de slivovitz?"
+  },
+  {
+    "id": "q-003298",
+    "question": "¿Cuál es la materia prima característica de cachaça?"
+  },
+  {
+    "id": "q-003299",
+    "question": "¿Cuál es la materia prima característica de ron agrícola?"
+  },
+  {
+    "id": "q-003300",
+    "question": "¿Cuál es la materia prima característica de ron tradicional?"
+  },
+  {
+    "id": "q-003301",
+    "question": "¿Cuál es la materia prima característica de tequila?"
+  },
+  {
+    "id": "q-003302",
+    "question": "¿Cuál es la materia prima característica de mezcal?"
+  },
+  {
+    "id": "q-003303",
+    "question": "¿Cuál es la materia prima característica de pisco?"
+  },
+  {
+    "id": "q-003304",
+    "question": "¿Cuál es la materia prima característica de grappa?"
+  },
+  {
+    "id": "q-003305",
+    "question": "¿Cuál es la materia prima característica de orujo gallego?"
+  },
+  {
+    "id": "q-003306",
+    "question": "¿Cuál es la materia prima característica de cognac?"
+  },
+  {
+    "id": "q-003307",
+    "question": "¿Cuál es la materia prima característica de armagnac?"
+  },
+  {
+    "id": "q-003308",
+    "question": "¿Cuál es la materia prima característica de whisky escocés de malta?"
+  },
+  {
+    "id": "q-003309",
+    "question": "¿Cuál es la materia prima característica de bourbon?"
+  },
+  {
+    "id": "q-003310",
+    "question": "¿Cuál es la materia prima característica de vodka tradicional eslavo?"
+  },
+  {
+    "id": "q-003311",
+    "question": "¿Cuál es la materia prima característica de sake?"
+  },
+  {
+    "id": "q-003312",
+    "question": "¿Cuál es la materia prima característica de shōchū de imo?"
+  },
+  {
+    "id": "q-003313",
+    "question": "¿Cuál es la materia prima característica de baijiu?"
+  },
+  {
+    "id": "q-003314",
+    "question": "¿Cuál es la materia prima característica de aquavit?"
+  },
+  {
+    "id": "q-003315",
+    "question": "¿Cuál es la materia prima característica de poitín irlandés?"
+  },
+  {
+    "id": "q-003316",
+    "question": "¿Cuál es la materia prima característica de arak levantino?"
+  },
+  {
+    "id": "q-003317",
+    "question": "¿Cuál es la materia prima característica de ouzo?"
+  },
+  {
+    "id": "q-003318",
+    "question": "¿Cuál es la materia prima característica de absenta?"
+  },
+  {
+    "id": "q-003319",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en yogur tradicional?"
+  },
+  {
+    "id": "q-003320",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en kéfir?"
+  },
+  {
+    "id": "q-003321",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en kombucha?"
+  },
+  {
+    "id": "q-003322",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en chucrut?"
+  },
+  {
+    "id": "q-003323",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en kimchi?"
+  },
+  {
+    "id": "q-003324",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en miso?"
+  },
+  {
+    "id": "q-003325",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en salsa de soja tradicional?"
+  },
+  {
+    "id": "q-003326",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en tempeh?"
+  },
+  {
+    "id": "q-003327",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en natto?"
+  },
+  {
+    "id": "q-003328",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en pan de masa madre?"
+  },
+  {
+    "id": "q-003329",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en cerveza ale?"
+  },
+  {
+    "id": "q-003330",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en cerveza lager?"
+  },
+  {
+    "id": "q-003331",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en vino?"
+  },
+  {
+    "id": "q-003332",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en vinagre?"
+  },
+  {
+    "id": "q-003333",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en quesos azules?"
+  },
+  {
+    "id": "q-003334",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en camembert?"
+  },
+  {
+    "id": "q-003335",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en salami curado?"
+  },
+  {
+    "id": "q-003336",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en idli?"
+  },
+  {
+    "id": "q-003337",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en injera?"
+  },
+  {
+    "id": "q-003338",
+    "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en poi hawaiano?"
+  },
+  {
+    "id": "q-003339",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con risotto?"
+  },
+  {
+    "id": "q-003340",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con paella valenciana?"
+  },
+  {
+    "id": "q-003341",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con sushi?"
+  },
+  {
+    "id": "q-003342",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con biryani?"
+  },
+  {
+    "id": "q-003343",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con pilaf persa?"
+  },
+  {
+    "id": "q-003344",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con arroz glutinoso tailandés?"
+  },
+  {
+    "id": "q-003345",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con horchata valenciana?"
+  },
+  {
+    "id": "q-003346",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con polenta?"
+  },
+  {
+    "id": "q-003347",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con cuscús?"
+  },
+  {
+    "id": "q-003348",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con bulgur?"
+  },
+  {
+    "id": "q-003349",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con freekeh?"
+  },
+  {
+    "id": "q-003350",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con tabulé levantino?"
+  },
+  {
+    "id": "q-003351",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con arepa?"
+  },
+  {
+    "id": "q-003352",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con masa de tamal?"
+  },
+  {
+    "id": "q-003353",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con soba?"
+  },
+  {
+    "id": "q-003354",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con udon?"
+  },
+  {
+    "id": "q-003355",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con ramen?"
+  },
+  {
+    "id": "q-003356",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con somen?"
+  },
+  {
+    "id": "q-003357",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con gnocchi tradicionales?"
+  },
+  {
+    "id": "q-003358",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con spaetzle?"
+  },
+  {
+    "id": "q-003359",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con pierogi?"
+  },
+  {
+    "id": "q-003360",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con vareniki?"
+  },
+  {
+    "id": "q-003361",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con dolma?"
+  },
+  {
+    "id": "q-003362",
+    "question": "¿Qué base farinácea o cereal se asocia de forma característica con kibbeh?"
+  },
+  {
+    "id": "q-003363",
+    "question": "¿Qué tipo o estilo describe mejor al queso Comté?"
+  },
+  {
+    "id": "q-003364",
+    "question": "¿Qué tipo o estilo describe mejor al queso Brie de Meaux?"
+  },
+  {
+    "id": "q-003365",
+    "question": "¿Qué tipo o estilo describe mejor al queso Camembert?"
+  },
+  {
+    "id": "q-003366",
+    "question": "¿Qué tipo o estilo describe mejor al queso Roquefort?"
+  },
+  {
+    "id": "q-003367",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la Guerra de Sucesión Española?"
+  },
+  {
+    "id": "q-003368",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la guerra franco-prusiana?"
+  },
+  {
+    "id": "q-003369",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la Primera Guerra Mundial con Alemania?"
+  },
+  {
+    "id": "q-003370",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la guerra ruso-japonesa?"
+  },
+  {
+    "id": "q-003371",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la guerra de Crimea?"
+  },
+  {
+    "id": "q-003372",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la Guerra de los Treinta Años?"
+  },
+  {
+    "id": "q-003373",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la independencia de Estados Unidos?"
+  },
+  {
+    "id": "q-003374",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la venta de Luisiana a Estados Unidos?"
+  },
+  {
+    "id": "q-003375",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la partición de África en reglas coloniales europeas?"
+  },
+  {
+    "id": "q-003376",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con las guerras napoleónicas en Europa?"
+  },
+  {
+    "id": "q-003377",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la división de Oriente Próximo entre Francia y Reino Unido?"
+  },
+  {
+    "id": "q-003378",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la renuncia española sobre Cuba y cesiones de 1898?"
+  },
+  {
+    "id": "q-003379",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la frontera entre España y Portugal en Sudamérica colonial?"
+  },
+  {
+    "id": "q-003380",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la frontera amazónica hispano-portuguesa de 1750?"
+  },
+  {
+    "id": "q-003381",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con el final de la guerra entre México y Estados Unidos?"
+  },
+  {
+    "id": "q-003382",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con el reconocimiento de la independencia de Bélgica?"
+  },
+  {
+    "id": "q-003383",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con el fin de la guerra de la Triple Alianza?"
+  },
+  {
+    "id": "q-003384",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la neutralidad de Laos en la Guerra Fría?"
+  },
+  {
+    "id": "q-003385",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la partición de la India británica?"
+  },
+  {
+    "id": "q-003386",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la creación de la Comunidad Europea del Carbón y del Acero?"
+  },
+  {
+    "id": "q-003387",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la fundación de la Comunidad Económica Europea?"
+  },
+  {
+    "id": "q-003388",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la creación formal de la Unión Europea?"
+  },
+  {
+    "id": "q-003389",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la reforma institucional europea de 2007?"
+  },
+  {
+    "id": "q-003390",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la prohibición internacional de armas químicas?"
+  },
+  {
+    "id": "q-003391",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la creación de Naciones Unidas?"
+  },
+  {
+    "id": "q-003392",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la creación de la OTAN?"
+  },
+  {
+    "id": "q-003393",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la desmilitarización antártica?"
+  },
+  {
+    "id": "q-003394",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la no proliferación nuclear?"
+  },
+  {
+    "id": "q-003395",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la reducción de misiles de alcance intermedio?"
+  },
+  {
+    "id": "q-003396",
+    "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la limitación naval de entreguerras?"
+  },
+  {
+    "id": "q-003397",
+    "question": "¿A qué dinastía pertenece históricamente Carlomagno?"
+  },
+  {
+    "id": "q-003398",
+    "question": "¿A qué dinastía pertenece históricamente Hugo Capeto?"
+  },
+  {
+    "id": "q-003399",
+    "question": "¿A qué dinastía pertenece históricamente Guillermo el Conquistador?"
+  },
+  {
+    "id": "q-003400",
+    "question": "¿A qué dinastía pertenece históricamente Enrique II de Inglaterra?"
+  },
+  {
+    "id": "q-003401",
+    "question": "¿A qué dinastía pertenece históricamente Ricardo Corazón de León?"
+  },
+  {
+    "id": "q-003402",
+    "question": "¿A qué dinastía pertenece históricamente Eduardo III de Inglaterra?"
+  },
+  {
+    "id": "q-003403",
+    "question": "¿A qué dinastía pertenece históricamente Isabel I de Inglaterra?"
+  },
+  {
+    "id": "q-003404",
+    "question": "¿A qué dinastía pertenece históricamente Jacobo I de Inglaterra?"
+  },
+  {
+    "id": "q-003405",
+    "question": "¿A qué dinastía pertenece históricamente Luis XIV de Francia?"
+  },
+  {
+    "id": "q-003406",
+    "question": "¿A qué dinastía pertenece históricamente Felipe V de España?"
+  },
+  {
+    "id": "q-003407",
+    "question": "¿A qué dinastía pertenece históricamente Carlos V del Sacro Imperio?"
+  },
+  {
+    "id": "q-003408",
+    "question": "¿A qué dinastía pertenece históricamente María Teresa de Austria?"
+  },
+  {
+    "id": "q-003409",
+    "question": "¿A qué dinastía pertenece históricamente Pedro I el Grande?"
+  },
+  {
+    "id": "q-003410",
+    "question": "¿A qué dinastía pertenece históricamente Catalina II de Rusia?"
+  },
+  {
+    "id": "q-003411",
+    "question": "¿A qué dinastía pertenece históricamente Mehmed II?"
+  },
+  {
+    "id": "q-003412",
+    "question": "¿A qué dinastía pertenece históricamente Solimán el Magnífico?"
+  },
+  {
+    "id": "q-003413",
+    "question": "¿A qué dinastía pertenece históricamente Akbar?"
+  },
+  {
+    "id": "q-003414",
+    "question": "¿A qué dinastía pertenece históricamente Shah Jahan?"
+  },
+  {
+    "id": "q-003415",
+    "question": "¿A qué dinastía pertenece históricamente Qin Shi Huang?"
+  },
+  {
+    "id": "q-003416",
+    "question": "¿A qué dinastía pertenece históricamente Han Wudi?"
+  },
+  {
+    "id": "q-003417",
+    "question": "¿A qué dinastía pertenece históricamente Taizong?"
+  },
+  {
+    "id": "q-003418",
+    "question": "¿A qué dinastía pertenece históricamente Kublai Kan?"
+  },
+  {
+    "id": "q-003419",
+    "question": "¿A qué dinastía pertenece históricamente Hongwu?"
+  },
+  {
+    "id": "q-003420",
+    "question": "¿A qué dinastía pertenece históricamente Kangxi?"
+  },
+  {
+    "id": "q-003421",
+    "question": "¿A qué dinastía pertenece históricamente Ashoka?"
+  },
+  {
+    "id": "q-003422",
+    "question": "¿A qué dinastía pertenece históricamente Chandragupta I?"
+  },
+  {
+    "id": "q-003423",
+    "question": "¿A qué dinastía pertenece históricamente Ciro II el Grande?"
+  },
+  {
+    "id": "q-003424",
+    "question": "¿A qué dinastía pertenece históricamente Darío I?"
+  },
+  {
+    "id": "q-003425",
+    "question": "¿A qué dinastía pertenece históricamente Cosroes I?"
+  },
+  {
+    "id": "q-003426",
+    "question": "¿A qué dinastía pertenece históricamente Harún al-Rashid?"
+  },
+  {
+    "id": "q-003427",
+    "question": "¿Qué término histórico se define como “mecanismo ateniense de exilio temporal por votación”?"
+  },
+  {
+    "id": "q-003428",
+    "question": "¿Qué término histórico se define como “ciudadano rico que financiaba una trirreme en Atenas”?"
+  },
+  {
+    "id": "q-003429",
+    "question": "¿Qué término histórico se define como “soldado de infantería pesada griego”?"
+  },
+  {
+    "id": "q-003430",
+    "question": "¿Qué término histórico se define como “formación cerrada de lanceros”?"
+  },
+  {
+    "id": "q-003431",
+    "question": "¿Qué término histórico se define como “gobernador provincial persa”?"
+  },
+  {
+    "id": "q-003432",
+    "question": "¿Qué término histórico se define como “templo escalonado mesopotámico”?"
+  },
+  {
+    "id": "q-003433",
+    "question": "¿Qué término histórico se define como “escritura mesopotámica con signos en forma de cuña”?"
+  },
+  {
+    "id": "q-003434",
+    "question": "¿Qué término histórico se define como “óvalo que encerraba nombres reales”?"
+  },
+  {
+    "id": "q-003435",
+    "question": "¿Qué término histórico se define como “gobernador de un nomo egipcio”?"
+  },
+  {
+    "id": "q-003436",
+    "question": "¿Qué término histórico se define como “magistrado romano con funciones judiciales”?"
+  },
+  {
+    "id": "q-003437",
+    "question": "¿Qué término histórico se define como “magistrado encargado del censo y moral pública”?"
+  },
+  {
+    "id": "q-003438",
+    "question": "¿Qué término histórico se define como “magistrado defensor de la plebe romana”?"
+  },
+  {
+    "id": "q-003439",
+    "question": "¿Qué término histórico se define como “frontera fortificada romana”?"
+  },
+  {
+    "id": "q-003440",
+    "question": "¿Qué término histórico se define como “pueblos aliados incorporados al sistema militar romano”?"
+  },
+  {
+    "id": "q-003441",
+    "question": "¿Qué término histórico se define como “sistema de gobierno de cuatro emperadores”?"
+  },
+  {
+    "id": "q-003442",
+    "question": "¿Qué término histórico se define como “controversia sobre imágenes religiosas”?"
+  },
+  {
+    "id": "q-003443",
+    "question": "¿Qué término histórico se define como “distritos militares y administrativos bizantinos”?"
+  },
+  {
+    "id": "q-003444",
+    "question": "¿Qué término histórico se define como “no musulmán protegido bajo dominio islámico clásico”?"
+  },
+  {
+    "id": "q-003445",
+    "question": "¿Qué término histórico se define como “impuesto histórico aplicado a dhimmíes”?"
+  },
+  {
+    "id": "q-003446",
+    "question": "¿Qué término histórico se define como “sistema de trabajo rotativo andino”?"
+  },
+  {
+    "id": "q-003447",
+    "question": "¿Qué término histórico se define como “sistema andino de registro con cuerdas y nudos”?"
+  },
+  {
+    "id": "q-003448",
+    "question": "¿Qué término histórico se define como “unidad social básica mexica”?"
+  },
+  {
+    "id": "q-003449",
+    "question": "¿Qué término histórico se define como “sistema agrícola mesoamericano en zonas lacustres”?"
+  },
+  {
+    "id": "q-003450",
+    "question": "¿Qué término histórico se define como “institución colonial de trabajo y tributo indígena”?"
+  },
+  {
+    "id": "q-003451",
+    "question": "¿Qué término histórico se define como “sistema de vinculación hereditaria de bienes”?"
+  },
+  {
+    "id": "q-003452",
+    "question": "¿Qué término histórico se define como “prestación laboral obligatoria”?"
+  },
+  {
+    "id": "q-003453",
+    "question": "¿Qué término histórico se define como “garantía contra detenciones arbitrarias”?"
+  },
+  {
+    "id": "q-003454",
+    "question": "¿Qué término histórico se define como “noble de territorios eslavos orientales”?"
+  },
+  {
+    "id": "q-003455",
+    "question": "¿Qué término histórico se define como “séquito militar de príncipes eslavos”?"
+  },
+  {
+    "id": "q-003456",
+    "question": "¿Qué término histórico se define como “liga comercial de ciudades del norte europeo”?"
+  },
+  {
+    "id": "q-003457",
+    "question": "¿Qué término histórico se define como “revuelta campesina francesa medieval”?"
+  },
+  {
+    "id": "q-003458",
+    "question": "¿Qué término histórico se define como “acto político de arrojar a alguien por una ventana”?"
+  },
+  {
+    "id": "q-003459",
+    "question": "¿Con qué país o zona se asocia principalmente Rebelión de los Bóxers?"
+  },
+  {
+    "id": "q-003460",
+    "question": "¿Con qué país o zona se asocia principalmente Revolución de los Claveles?"
+  },
+  {
+    "id": "q-003461",
+    "question": "¿Con qué país o zona se asocia principalmente Primavera de Praga?"
+  },
+  {
+    "id": "q-003462",
+    "question": "¿Con qué país o zona se asocia principalmente Revolución de los Jóvenes Turcos?"
+  },
+  {
+    "id": "q-003463",
+    "question": "¿Con qué país o zona se asocia principalmente Gran Salto Adelante?"
+  },
+  {
+    "id": "q-003464",
+    "question": "¿En qué obra literaria aparece el personaje Leopold Bloom?"
+  },
+  {
+    "id": "q-003465",
+    "question": "¿En qué obra literaria aparece el personaje Stephen Dedalus?"
+  },
+  {
+    "id": "q-003466",
+    "question": "¿En qué obra literaria aparece el personaje Molly Bloom?"
+  },
+  {
+    "id": "q-003467",
+    "question": "¿En qué obra literaria aparece el personaje Raskólnikov?"
+  },
+  {
+    "id": "q-003468",
+    "question": "¿En qué obra literaria aparece el personaje Sonia Marmeládova?"
+  },
+  {
+    "id": "q-003469",
+    "question": "¿En qué obra literaria aparece el personaje Iván Karamázov?"
+  },
+  {
+    "id": "q-003470",
+    "question": "¿En qué obra literaria aparece el personaje Aliosha Karamázov?"
+  },
+  {
+    "id": "q-003471",
+    "question": "¿En qué obra literaria aparece el personaje Anna Arkádievna?"
+  },
+  {
+    "id": "q-003472",
+    "question": "¿En qué obra literaria aparece el personaje Konstantín Levin?"
+  },
+  {
+    "id": "q-003473",
+    "question": "¿En qué obra literaria aparece el personaje Pierre Bezújov?"
+  },
+  {
+    "id": "q-003474",
+    "question": "¿En qué obra literaria aparece el personaje Andréi Bolkonski?"
+  },
+  {
+    "id": "q-003475",
+    "question": "¿En qué obra literaria aparece el personaje Emma Bovary?"
+  },
+  {
+    "id": "q-003476",
+    "question": "¿En qué obra literaria aparece el personaje Frédéric Moreau?"
+  },
+  {
+    "id": "q-003477",
+    "question": "¿En qué obra literaria aparece el personaje Julien Sorel?"
+  },
+  {
+    "id": "q-003478",
+    "question": "¿En qué obra literaria aparece el personaje Fabrizio del Dongo?"
+  },
+  {
+    "id": "q-003479",
+    "question": "¿En qué obra literaria aparece el personaje Jean Valjean?"
+  },
+  {
+    "id": "q-003480",
+    "question": "¿En qué obra literaria aparece el personaje Javert?"
+  },
+  {
+    "id": "q-003481",
+    "question": "¿En qué obra literaria aparece el personaje Vautrin?"
+  },
+  {
+    "id": "q-003482",
+    "question": "¿En qué obra literaria aparece el personaje Rastignac?"
+  },
+  {
+    "id": "q-003483",
+    "question": "¿En qué obra literaria aparece el personaje Gregor Samsa?"
+  },
+  {
+    "id": "q-003484",
+    "question": "¿En qué obra literaria aparece el personaje Josef K.?"
+  },
+  {
+    "id": "q-003485",
+    "question": "¿En qué obra literaria aparece el personaje K.?"
+  },
+  {
+    "id": "q-003486",
+    "question": "¿En qué obra literaria aparece el personaje Hans Castorp?"
+  },
+  {
+    "id": "q-003487",
+    "question": "¿En qué obra literaria aparece el personaje Adrian Leverkühn?"
+  },
+  {
+    "id": "q-003488",
+    "question": "¿En qué obra literaria aparece el personaje Joseph Knecht?"
+  },
+  {
+    "id": "q-003489",
+    "question": "¿En qué obra literaria aparece el personaje Aureliano Buendía?"
+  },
+  {
+    "id": "q-003490",
+    "question": "¿En qué obra literaria aparece el personaje Úrsula Iguarán?"
+  },
+  {
+    "id": "q-003491",
+    "question": "¿En qué obra literaria aparece el personaje Florentino Ariza?"
+  },
+  {
+    "id": "q-003492",
+    "question": "¿En qué obra literaria aparece el personaje Artemio Cruz?"
+  },
+  {
+    "id": "q-003493",
+    "question": "¿En qué obra literaria aparece el personaje Pedro Páramo?"
+  },
+  {
+    "id": "q-003494",
+    "question": "¿En qué obra literaria aparece el personaje Juan Preciado?"
+  },
+  {
+    "id": "q-003495",
+    "question": "¿En qué obra literaria aparece el personaje Rayuela Oliveira?"
+  },
+  {
+    "id": "q-003496",
+    "question": "¿En qué obra literaria aparece el personaje La Maga?"
+  },
+  {
+    "id": "q-003497",
+    "question": "¿En qué obra literaria aparece el personaje Funes?"
+  },
+  {
+    "id": "q-003498",
+    "question": "¿En qué obra literaria aparece el personaje Pierre Menard?"
+  },
+  {
+    "id": "q-003499",
+    "question": "¿En qué obra literaria aparece el personaje Zeno Cosini?"
+  },
+  {
+    "id": "q-003500",
+    "question": "¿En qué obra literaria aparece el personaje Clarissa Dalloway?"
+  },
+  {
+    "id": "q-003501",
+    "question": "¿En qué obra literaria aparece el personaje Septimus Warren Smith?"
+  },
+  {
+    "id": "q-003502",
+    "question": "¿En qué obra literaria aparece el personaje Orlando?"
+  },
+  {
+    "id": "q-003503",
+    "question": "¿En qué obra literaria aparece el personaje Jay Gatsby?"
+  },
+  {
+    "id": "q-003504",
+    "question": "¿En qué obra literaria aparece el personaje Nick Carraway?"
+  },
+  {
+    "id": "q-003505",
+    "question": "¿En qué obra literaria aparece el personaje Holden Caulfield?"
+  },
+  {
+    "id": "q-003506",
+    "question": "¿En qué obra literaria aparece el personaje Atticus Finch?"
+  },
+  {
+    "id": "q-003507",
+    "question": "¿En qué obra literaria aparece el personaje Humbert Humbert?"
+  },
+  {
+    "id": "q-003508",
+    "question": "¿En qué obra literaria aparece el personaje Meursault?"
+  },
+  {
+    "id": "q-003509",
+    "question": "¿En qué obra literaria aparece el personaje Tarrou?"
+  },
+  {
+    "id": "q-003510",
+    "question": "¿En qué obra literaria aparece el personaje Bernarda Alba?"
+  },
+  {
+    "id": "q-003511",
+    "question": "¿En qué obra literaria aparece el personaje Max Estrella?"
+  },
+  {
+    "id": "q-003512",
+    "question": "¿En qué obra literaria aparece el personaje Pascual Duarte?"
+  },
+  {
+    "id": "q-003513",
+    "question": "¿Qué concepto literario se define como “técnica que reproduce el flujo de pensamientos de un personaje”?"
+  },
+  {
+    "id": "q-003514",
+    "question": "¿Qué concepto literario se define como “representación asociativa de la vida mental”?"
+  },
+  {
+    "id": "q-003515",
+    "question": "¿Qué concepto literario se define como “relato episódico protagonizado por un antihéroe de baja condición”?"
+  },
+  {
+    "id": "q-003516",
+    "question": "¿Qué concepto literario se define como “integración de elementos extraordinarios en un mundo narrativo cotidiano”?"
+  },
+  {
+    "id": "q-003517",
+    "question": "¿Qué concepto literario se define como “deformación grotesca de la realidad asociada a Valle-Inclán”?"
+  },
+  {
+    "id": "q-003518",
+    "question": "¿Qué concepto literario se define como “relato construido mediante cartas”?"
+  },
+  {
+    "id": "q-003519",
+    "question": "¿Qué concepto literario se define como “novela de formación o aprendizaje”?"
+  },
+  {
+    "id": "q-003520",
+    "question": "¿Qué concepto literario se define como “ficción que llama la atención sobre su propia condición de ficción”?"
+  },
+  {
+    "id": "q-003521",
+    "question": "¿Qué concepto literario se define como “relación explícita o implícita entre textos”?"
+  },
+  {
+    "id": "q-003522",
+    "question": "¿Qué concepto literario se define como “relato con significado simbólico sostenido”?"
+  },
+  {
+    "id": "q-003523",
+    "question": "¿Qué concepto literario se define como “género híbrido burlesco de ideas y estilos”?"
+  },
+  {
+    "id": "q-003524",
+    "question": "¿Qué concepto literario se define como “reconocimiento decisivo en una trama”?"
+  },
+  {
+    "id": "q-003525",
+    "question": "¿Qué concepto literario se define como “giro de fortuna en una acción dramática”?"
+  },
+  {
+    "id": "q-003526",
+    "question": "¿Qué concepto literario se define como “purificación emocional asociada a la tragedia”?"
+  },
+  {
+    "id": "q-003527",
+    "question": "¿Qué concepto literario se define como “atribución desplazada de un adjetivo”?"
+  },
+  {
+    "id": "q-003528",
+    "question": "¿Qué concepto literario se define como “figura que toma la parte por el todo o el todo por la parte”?"
+  },
+  {
+    "id": "q-003529",
+    "question": "¿Qué concepto literario se define como “uso de un término para varios elementos de forma elíptica”?"
+  },
+  {
+    "id": "q-003530",
+    "question": "¿Qué concepto literario se define como “estructura cruzada de elementos”?"
+  },
+  {
+    "id": "q-003531",
+    "question": "¿Qué concepto literario se define como “repetición de palabras con la misma raíz y formas distintas”?"
+  },
+  {
+    "id": "q-003532",
+    "question": "¿Qué concepto literario se define como “repetición al inicio de una frase de la última palabra anterior”?"
+  },
+  {
+    "id": "q-003533",
+    "question": "¿Qué concepto literario se define como “repetición de una palabra al inicio y final de un enunciado”?"
+  },
+  {
+    "id": "q-003534",
+    "question": "¿Qué concepto literario se define como “atribución de cualidades humanas a seres no humanos”?"
+  },
+  {
+    "id": "q-003535",
+    "question": "¿Qué concepto literario se define como “alteración del orden sintáctico habitual”?"
+  },
+  {
+    "id": "q-003536",
+    "question": "¿Qué concepto literario se define como “inclusión de una obra dentro de otra de forma especular”?"
+  },
+  {
+    "id": "q-003537",
+    "question": "¿Qué concepto literario se define como “texto que conserva huellas de escrituras anteriores”?"
+  },
+  {
+    "id": "q-003538",
+    "question": "¿Qué autor escribió la novela El tambor de hojalata?"
+  },
+  {
+    "id": "q-003539",
+    "question": "¿Qué autor escribió la novela La insoportable levedad del ser?"
+  },
+  {
+    "id": "q-003540",
+    "question": "¿Qué autor escribió la novela El nombre de la rosa?"
+  },
+  {
+    "id": "q-003541",
+    "question": "¿Qué autor escribió la novela Si una noche de invierno un viajero?"
+  },
+  {
+    "id": "q-003542",
+    "question": "¿Qué autor escribió la novela Los detectives salvajes?"
+  },
+  {
+    "id": "q-003543",
+    "question": "¿Qué autor escribió la novela 2666?"
+  },
+  {
+    "id": "q-003544",
+    "question": "¿Qué autor escribió la novela El hombre sin atributos?"
+  },
+  {
+    "id": "q-003545",
+    "question": "¿Qué autor escribió la novela El arco iris de gravedad?"
+  },
+  {
+    "id": "q-003546",
+    "question": "¿Qué autor escribió la novela El ruido y la furia?"
+  },
+  {
+    "id": "q-003547",
+    "question": "¿Qué autor escribió la novela Mientras agonizo?"
+  },
+  {
+    "id": "q-003548",
+    "question": "¿Qué autor escribió la novela Absalón, Absalón!?"
+  },
+  {
+    "id": "q-003549",
+    "question": "¿Qué autor escribió la novela Beloved?"
+  },
+  {
+    "id": "q-003550",
+    "question": "¿Qué autor escribió la novela Canto de Salomón?"
+  },
+  {
+    "id": "q-003551",
+    "question": "¿Qué autor escribió la novela Hijos de la medianoche?"
+  },
+  {
+    "id": "q-003552",
+    "question": "¿Qué autor escribió la novela Vergüenza?"
+  },
+  {
+    "id": "q-003553",
+    "question": "¿Qué autor escribió la novela El dios de las pequeñas cosas?"
+  },
+  {
+    "id": "q-003554",
+    "question": "¿Qué autor escribió la novela Desgracia?"
+  },
+  {
+    "id": "q-003555",
+    "question": "¿Qué autor escribió la novela Esperando a los bárbaros?"
+  },
+  {
+    "id": "q-003556",
+    "question": "¿Qué autor escribió la novela El año de la muerte de Ricardo Reis?"
+  },
+  {
+    "id": "q-003557",
+    "question": "¿Qué autor escribió la novela Ensayo sobre la ceguera?"
+  },
+  {
+    "id": "q-003558",
+    "question": "¿Qué autor escribió la novela La broma?"
+  },
+  {
+    "id": "q-003559",
+    "question": "¿Qué autor escribió la novela El astillero?"
+  },
+  {
+    "id": "q-003560",
+    "question": "¿En qué museo o institución se conserva habitualmente El matrimonio Arnolfini?"
+  },
+  {
+    "id": "q-003561",
+    "question": "¿En qué museo o institución se conserva habitualmente La primavera?"
+  },
+  {
+    "id": "q-003562",
+    "question": "¿En qué museo o institución se conserva habitualmente El nacimiento de Venus?"
+  },
+  {
+    "id": "q-003563",
+    "question": "¿En qué museo o institución se conserva habitualmente La escuela de Atenas?"
+  },
+  {
+    "id": "q-003564",
+    "question": "¿En qué museo o institución se conserva habitualmente La Gioconda?"
+  },
+  {
+    "id": "q-003565",
+    "question": "¿En qué museo o institución se conserva habitualmente La libertad guiando al pueblo?"
+  },
+  {
+    "id": "q-003566",
+    "question": "¿En qué museo o institución se conserva habitualmente La balsa de la Medusa?"
+  },
+  {
+    "id": "q-003567",
+    "question": "¿En qué museo o institución se conserva habitualmente La joven de la perla?"
+  },
+  {
+    "id": "q-003568",
+    "question": "¿En qué museo o institución se conserva habitualmente La ronda de noche?"
+  },
+  {
+    "id": "q-003569",
+    "question": "¿En qué museo o institución se conserva habitualmente El jardín de las delicias?"
+  },
+  {
+    "id": "q-003570",
+    "question": "¿En qué museo o institución se conserva habitualmente Las hilanderas?"
+  },
+  {
+    "id": "q-003571",
+    "question": "¿En qué museo o institución se conserva habitualmente El caballero de la mano en el pecho?"
+  },
+  {
+    "id": "q-003572",
+    "question": "¿En qué museo o institución se conserva habitualmente Guernica?"
+  },
+  {
+    "id": "q-003573",
+    "question": "¿En qué museo o institución se conserva habitualmente Las señoritas de Aviñón?"
+  },
+  {
+    "id": "q-003574",
+    "question": "¿En qué museo o institución se conserva habitualmente La persistencia de la memoria?"
+  },
+  {
+    "id": "q-003575",
+    "question": "¿En qué museo o institución se conserva habitualmente Nighthawks?"
+  },
+  {
+    "id": "q-003576",
+    "question": "¿En qué museo o institución se conserva habitualmente American Gothic?"
+  },
+  {
+    "id": "q-003577",
+    "question": "¿En qué museo o institución se conserva habitualmente Un domingo por la tarde en la isla de La Grande Jatte?"
+  },
+  {
+    "id": "q-003578",
+    "question": "¿En qué museo o institución se conserva habitualmente El beso de Klimt?"
+  },
+  {
+    "id": "q-003579",
+    "question": "¿En qué museo o institución se conserva habitualmente La noche estrellada?"
+  },
+  {
+    "id": "q-003580",
+    "question": "¿En qué museo o institución se conserva habitualmente Los girasoles de Londres?"
+  },
+  {
+    "id": "q-003581",
+    "question": "¿En qué museo o institución se conserva habitualmente Impresión, sol naciente?"
+  },
+  {
+    "id": "q-003582",
+    "question": "¿En qué museo o institución se conserva habitualmente Olympia?"
+  },
+  {
+    "id": "q-003583",
+    "question": "¿En qué museo o institución se conserva habitualmente Almuerzo sobre la hierba?"
+  },
+  {
+    "id": "q-003584",
+    "question": "¿En qué museo o institución se conserva habitualmente Los jugadores de cartas?"
+  },
+  {
+    "id": "q-003585",
+    "question": "¿En qué museo o institución se conserva habitualmente La clase de danza?"
+  },
+  {
+    "id": "q-003586",
+    "question": "¿En qué museo o institución se conserva habitualmente Composición con rojo, azul y amarillo?"
+  },
+  {
+    "id": "q-003587",
+    "question": "¿En qué museo o institución se conserva habitualmente El grito?"
+  },
+  {
+    "id": "q-003588",
+    "question": "¿En qué museo o institución se conserva habitualmente El caminante sobre el mar de nubes?"
+  },
+  {
+    "id": "q-003589",
+    "question": "¿En qué museo o institución se conserva habitualmente La torre de Babel de Bruegel?"
+  },
+  {
+    "id": "q-003590",
+    "question": "¿En qué museo o institución se conserva habitualmente La rendición de Breda?"
+  },
+  {
+    "id": "q-003591",
+    "question": "¿En qué museo o institución se conserva habitualmente Los fusilamientos del 3 de mayo?"
+  },
+  {
+    "id": "q-003592",
+    "question": "¿En qué museo o institución se conserva habitualmente Saturno devorando a su hijo?"
+  },
+  {
+    "id": "q-003593",
+    "question": "¿En qué museo o institución se conserva habitualmente La maja desnuda?"
+  },
+  {
+    "id": "q-003594",
+    "question": "¿En qué museo o institución se conserva habitualmente El entierro del conde de Orgaz?"
+  },
+  {
+    "id": "q-003595",
+    "question": "¿En qué museo o institución se conserva habitualmente La vocación de San Mateo?"
+  },
+  {
+    "id": "q-003596",
+    "question": "¿En qué museo o institución se conserva habitualmente Judith decapitando a Holofernes?"
+  },
+  {
+    "id": "q-003597",
+    "question": "¿En qué museo o institución se conserva habitualmente La lechera?"
+  },
+  {
+    "id": "q-003598",
+    "question": "¿En qué museo o institución se conserva habitualmente La tempestad de Giorgione?"
+  },
+  {
+    "id": "q-003599",
+    "question": "¿En qué museo o institución se conserva habitualmente Las tres gracias de Rubens?"
+  },
+  {
+    "id": "q-003600",
+    "question": "¿Qué técnica artística se define como “transición suave y difuminada entre tonos”?"
+  },
+  {
+    "id": "q-003601",
+    "question": "¿Qué técnica artística se define como “contraste acusado entre luces y sombras”?"
+  },
+  {
+    "id": "q-003602",
+    "question": "¿Qué técnica artística se define como “uso dramático de sombras profundas y focos de luz”?"
+  },
+  {
+    "id": "q-003603",
+    "question": "¿Qué técnica artística se define como “aplicación espesa de pintura con relieve”?"
+  },
+  {
+    "id": "q-003604",
+    "question": "¿Qué técnica artística se define como “pintura sobre enlucido húmedo”?"
+  },
+  {
+    "id": "q-003605",
+    "question": "¿Qué técnica artística se define como “pintura con pigmento ligado con yema”?"
+  },
+  {
+    "id": "q-003606",
+    "question": "¿Qué técnica artística se define como “pintura con cera caliente como aglutinante”?"
+  },
+  {
+    "id": "q-003607",
+    "question": "¿Qué técnica artística se define como “ilusión pictórica que engaña al ojo”?"
+  },
+  {
+    "id": "q-003608",
+    "question": "¿Qué técnica artística se define como “pintura en gama de grises que imita relieve”?"
+  },
+  {
+    "id": "q-003609",
+    "question": "¿Qué técnica artística se define como “imagen construida mediante pequeños puntos de color”?"
+  },
+  {
+    "id": "q-003610",
+    "question": "¿Qué técnica artística se define como “composición con materiales pegados”?"
+  },
+  {
+    "id": "q-003611",
+    "question": "¿Qué técnica artística se define como “ensamblaje tridimensional de objetos”?"
+  },
+  {
+    "id": "q-003612",
+    "question": "¿Qué técnica artística se define como “obtención de texturas frotando sobre una superficie”?"
+  },
+  {
+    "id": "q-003613",
+    "question": "¿Qué técnica artística se define como “raspado de capas pictóricas para revelar texturas”?"
+  },
+  {
+    "id": "q-003614",
+    "question": "¿Qué técnica artística se define como “goteo o salpicadura controlada de pintura”?"
+  },
+  {
+    "id": "q-003615",
+    "question": "¿Qué técnica artística se define como “pintura gestual centrada en el acto físico”?"
+  },
+  {
+    "id": "q-003616",
+    "question": "¿Qué técnica artística se define como “objeto cotidiano presentado como obra de arte”?"
+  },
+  {
+    "id": "q-003617",
+    "question": "¿Qué técnica artística se define como “relieve con poca proyección respecto al fondo”?"
+  },
+  {
+    "id": "q-003618",
+    "question": "¿Qué técnica artística se define como “relieve con gran proyección respecto al fondo”?"
+  },
+  {
+    "id": "q-003619",
+    "question": "¿Qué técnica artística se define como “postura con peso desplazado sobre una pierna”?"
+  },
+  {
+    "id": "q-003620",
+    "question": "¿Qué técnica artística se define como “representación abreviada de una figura en profundidad”?"
+  },
+  {
+    "id": "q-003621",
+    "question": "¿Qué técnica artística se define como “imagen deformada que se corrige desde un punto de vista”?"
+  },
+  {
+    "id": "q-003622",
+    "question": "¿Qué técnica artística se define como “imagen formada por teselas”?"
+  },
+  {
+    "id": "q-003623",
+    "question": "¿Qué técnica artística se define como “composición con piezas de vidrio coloreado”?"
+  },
+  {
+    "id": "q-003624",
+    "question": "¿Qué técnica artística se define como “grabado en madera”?"
+  },
+  {
+    "id": "q-003625",
+    "question": "¿Qué técnica artística se define como “grabado químico con ácido sobre metal”?"
+  },
+  {
+    "id": "q-003626",
+    "question": "¿Qué técnica artística se define como “impresión basada en repulsión entre agua y grasa”?"
+  },
+  {
+    "id": "q-003627",
+    "question": "¿Qué técnica artística se define como “impresión mediante pantalla de seda o malla”?"
+  },
+  {
+    "id": "q-003628",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Santa Sofía de Constantinopla?"
+  },
+  {
+    "id": "q-003629",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Catedral de Chartres?"
+  },
+  {
+    "id": "q-003630",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Catedral de Santiago de Compostela?"
+  },
+  {
+    "id": "q-003631",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Palacio de Versalles?"
+  },
+  {
+    "id": "q-003632",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Villa Rotonda?"
+  },
+  {
+    "id": "q-003633",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Casa Batlló?"
+  },
+  {
+    "id": "q-003634",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Pabellón de Barcelona?"
+  },
+  {
+    "id": "q-003635",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Villa Savoye?"
+  },
+  {
+    "id": "q-003636",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Casa de la Cascada?"
+  },
+  {
+    "id": "q-003637",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Ópera de Sídney?"
+  },
+  {
+    "id": "q-003638",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Centro Pompidou?"
+  },
+  {
+    "id": "q-003639",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Museo Guggenheim Bilbao?"
+  },
+  {
+    "id": "q-003640",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Seagram Building?"
+  },
+  {
+    "id": "q-003641",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Taj Mahal?"
+  },
+  {
+    "id": "q-003642",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Alhambra de Granada?"
+  },
+  {
+    "id": "q-003643",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Mezquita de Córdoba?"
+  },
+  {
+    "id": "q-003644",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Partenón?"
+  },
+  {
+    "id": "q-003645",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Panteón de Roma?"
+  },
+  {
+    "id": "q-003646",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Templo de Borobudur?"
+  },
+  {
+    "id": "q-003647",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Angkor Wat?"
+  },
+  {
+    "id": "q-003648",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Pagoda Hōryū-ji?"
+  },
+  {
+    "id": "q-003649",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Torre Eiffel?"
+  },
+  {
+    "id": "q-003650",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Palacio de Cristal de Londres?"
+  },
+  {
+    "id": "q-003651",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Biblioteca de Sainte-Geneviève?"
+  },
+  {
+    "id": "q-003652",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Casa Schröder?"
+  },
+  {
+    "id": "q-003653",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Unité d’Habitation?"
+  },
+  {
+    "id": "q-003654",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Habitat 67?"
+  },
+  {
+    "id": "q-003655",
+    "question": "¿Qué estilo o corriente arquitectónica se asocia con Biblioteca de Exeter?"
+  },
+  {
+    "id": "q-003656",
+    "question": "¿Qué cineasta dirigió la película Parásitos?"
+  },
+  {
+    "id": "q-003657",
+    "question": "¿Qué cineasta dirigió la película Memories of Murder?"
+  },
+  {
+    "id": "q-003658",
+    "question": "¿Qué cineasta dirigió la película Burning?"
+  },
+  {
+    "id": "q-003659",
+    "question": "¿Qué cineasta dirigió la película Poesía?"
+  },
+  {
+    "id": "q-003660",
+    "question": "¿Qué cineasta dirigió la película Oldboy?"
+  },
+  {
+    "id": "q-003661",
+    "question": "¿Qué cineasta dirigió la película La doncella?"
+  },
+  {
+    "id": "q-003662",
+    "question": "¿Qué cineasta dirigió la película Roma?"
+  },
+  {
+    "id": "q-003663",
+    "question": "¿Qué cineasta dirigió la película Y tu mamá también?"
+  },
+  {
+    "id": "q-003664",
+    "question": "¿Qué cineasta dirigió la película Hijos de los hombres?"
+  },
+  {
+    "id": "q-003665",
+    "question": "¿Qué cineasta dirigió la película Todo sobre mi madre?"
+  },
+  {
+    "id": "q-003666",
+    "question": "¿Qué cineasta dirigió la película Hable con ella?"
+  },
+  {
+    "id": "q-003667",
+    "question": "¿Qué cineasta dirigió la película Volver?"
+  },
+  {
+    "id": "q-003668",
+    "question": "¿Qué cineasta dirigió la película Dolor y gloria?"
+  },
+  {
+    "id": "q-003669",
+    "question": "¿Qué cineasta dirigió la película El laberinto del fauno?"
+  },
+  {
+    "id": "q-003670",
+    "question": "¿Qué cineasta dirigió la película La forma del agua?"
+  },
+  {
+    "id": "q-003671",
+    "question": "¿Qué cineasta dirigió la película El espinazo del diablo?"
+  },
+  {
+    "id": "q-003672",
+    "question": "¿Qué cineasta dirigió la película Ciudad de Dios?"
+  },
+  {
+    "id": "q-003673",
+    "question": "¿Qué cineasta dirigió la película Estación Central de Brasil?"
+  },
+  {
+    "id": "q-003674",
+    "question": "¿Qué cineasta dirigió la película Diarios de motocicleta?"
+  },
+  {
+    "id": "q-003675",
+    "question": "¿Qué cineasta dirigió la película Una separación?"
+  },
+  {
+    "id": "q-003676",
+    "question": "¿Qué cineasta dirigió la película El viajante?"
+  },
+  {
+    "id": "q-003677",
+    "question": "¿Qué cineasta dirigió la película La vida de los otros?"
+  },
+  {
+    "id": "q-003678",
+    "question": "¿Qué cineasta dirigió la película Ida?"
+  },
+  {
+    "id": "q-003679",
+    "question": "¿Qué cineasta dirigió la película Cold War?"
+  },
+  {
+    "id": "q-003680",
+    "question": "¿Qué cineasta dirigió la película Retrato de una mujer en llamas?"
+  },
+  {
+    "id": "q-003681",
+    "question": "¿Qué cineasta dirigió la película Tomboy?"
+  },
+  {
+    "id": "q-003682",
+    "question": "¿Qué cineasta dirigió la película La pianista?"
+  },
+  {
+    "id": "q-003683",
+    "question": "¿Qué cineasta dirigió la película Caché?"
+  },
+  {
+    "id": "q-003684",
+    "question": "¿Qué cineasta dirigió la película Dogville?"
+  },
+  {
+    "id": "q-003685",
+    "question": "¿Qué cineasta dirigió la película Bailar en la oscuridad?"
+  },
+  {
+    "id": "q-003686",
+    "question": "¿Qué cineasta dirigió la película Melancolía?"
+  },
+  {
+    "id": "q-003687",
+    "question": "¿Qué cineasta dirigió la película La gran belleza?"
+  },
+  {
+    "id": "q-003688",
+    "question": "¿Qué cineasta dirigió la película La juventud?"
+  },
+  {
+    "id": "q-003689",
+    "question": "¿Qué cineasta dirigió la película Gomorra?"
+  },
+  {
+    "id": "q-003690",
+    "question": "¿Qué cineasta dirigió la película Reality?"
+  },
+  {
+    "id": "q-003691",
+    "question": "¿Qué cineasta dirigió la película El abrazo de la serpiente?"
+  },
+  {
+    "id": "q-003692",
+    "question": "¿Qué cineasta dirigió la película Zama?"
+  },
+  {
+    "id": "q-003693",
+    "question": "¿Qué cineasta dirigió la película La ciénaga?"
+  },
+  {
+    "id": "q-003694",
+    "question": "¿Qué cineasta dirigió la película Relatos salvajes?"
+  },
+  {
+    "id": "q-003695",
+    "question": "¿Qué cineasta dirigió la película El secreto de sus ojos?"
+  },
+  {
+    "id": "q-003696",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “toma larga sin cortes aparentes”?"
+  },
+  {
+    "id": "q-003697",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “alternancia de acciones simultáneas o relacionadas”?"
+  },
+  {
+    "id": "q-003698",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “corte que enlaza dos planos por similitud visual o sonora”?"
+  },
+  {
+    "id": "q-003699",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “corte abrupto que rompe continuidad temporal”?"
+  },
+  {
+    "id": "q-003700",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “continuidad entre planos”?"
+  },
+  {
+    "id": "q-003701",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “elemento de trama que impulsa la acción aunque su naturaleza importe poco”?"
+  },
+  {
+    "id": "q-003702",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “recreación sonora sincronizada en posproducción”?"
+  },
+  {
+    "id": "q-003703",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “universo narrativo de la obra”?"
+  },
+  {
+    "id": "q-003704",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “sonido que no pertenece al mundo narrativo”?"
+  },
+  {
+    "id": "q-003705",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “movimiento físico de cámara por desplazamiento”?"
+  },
+  {
+    "id": "q-003706",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “giro horizontal de cámara sobre su eje”?"
+  },
+  {
+    "id": "q-003707",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “giro vertical de cámara sobre su eje”?"
+  },
+  {
+    "id": "q-003708",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “efecto de cambio de focal combinado con movimiento de cámara”?"
+  },
+  {
+    "id": "q-003709",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “luz principal de una escena”?"
+  },
+  {
+    "id": "q-003710",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “luz de relleno que suaviza sombras”?"
+  },
+  {
+    "id": "q-003711",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “luz trasera que separa al sujeto del fondo”?"
+  },
+  {
+    "id": "q-003712",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “sustitución de un color por otra imagen”?"
+  },
+  {
+    "id": "q-003713",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “guion gráfico con viñetas de planos”?"
+  },
+  {
+    "id": "q-003714",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “organización de elementos visibles en el encuadre”?"
+  },
+  {
+    "id": "q-003715",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “montaje orientado a la continuidad narrativa”?"
+  },
+  {
+    "id": "q-003716",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “teoría que enfatiza choque y asociación entre planos”?"
+  },
+  {
+    "id": "q-003717",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “corriente con rodajes en exteriores y temas sociales”?"
+  },
+  {
+    "id": "q-003718",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “cine documental de observación con intervención mínima”?"
+  },
+  {
+    "id": "q-003719",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “movimiento con reglas de austeridad formal”?"
+  },
+  {
+    "id": "q-003720",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “estilo asociado a crimen, fatalismo y claroscuros”?"
+  },
+  {
+    "id": "q-003721",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “comedia física basada en golpes y persecuciones”?"
+  },
+  {
+    "id": "q-003722",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “comedia de enredo ágil con diálogos rápidos”?"
+  },
+  {
+    "id": "q-003723",
+    "question": "En lenguaje audiovisual, ¿qué término se define como “thriller italiano estilizado con misterio y violencia”?"
+  },
+  {
+    "id": "q-003724",
+    "question": "¿Quién creó o cocreó la serie The Wire?"
+  },
+  {
+    "id": "q-003725",
+    "question": "¿Quién creó o cocreó la serie The Sopranos?"
+  },
+  {
+    "id": "q-003726",
+    "question": "¿Quién creó o cocreó la serie Mad Men?"
+  },
+  {
+    "id": "q-003727",
+    "question": "¿Quién creó o cocreó la serie Breaking Bad?"
+  },
+  {
+    "id": "q-003728",
+    "question": "¿Quién creó o cocreó la serie Better Call Saul?"
+  },
+  {
+    "id": "q-003729",
+    "question": "¿Quién creó o cocreó la serie Twin Peaks?"
+  },
+  {
+    "id": "q-003730",
+    "question": "¿Quién creó o cocreó la serie The X-Files?"
+  },
+  {
+    "id": "q-003731",
+    "question": "¿Quién creó o cocreó la serie Buffy the Vampire Slayer?"
+  },
+  {
+    "id": "q-003732",
+    "question": "¿Quién creó o cocreó la serie Fleabag?"
+  },
+  {
+    "id": "q-003733",
+    "question": "¿Quién creó o cocreó la serie The Office UK?"
+  },
+  {
+    "id": "q-003734",
+    "question": "¿Quién creó o cocreó la serie Seinfeld?"
+  },
+  {
+    "id": "q-003735",
+    "question": "¿Quién creó o cocreó la serie Curb Your Enthusiasm?"
+  },
+  {
+    "id": "q-003736",
+    "question": "¿Quién creó o cocreó la serie Community?"
+  },
+  {
+    "id": "q-003737",
+    "question": "¿Quién creó o cocreó la serie The Good Place?"
+  },
+  {
+    "id": "q-003738",
+    "question": "¿Quién creó o cocreó la serie Parks and Recreation?"
+  },
+  {
+    "id": "q-003739",
+    "question": "¿Quién creó o cocreó la serie Arrested Development?"
+  },
+  {
+    "id": "q-003740",
+    "question": "¿Quién creó o cocreó la serie The West Wing?"
+  },
+  {
+    "id": "q-003741",
+    "question": "¿Quién creó o cocreó la serie Deadwood?"
+  },
+  {
+    "id": "q-003742",
+    "question": "¿Quién creó o cocreó la serie Six Feet Under?"
+  },
+  {
+    "id": "q-003743",
+    "question": "¿Quién creó o cocreó la serie True Detective?"
+  },
+  {
+    "id": "q-003744",
+    "question": "¿Quién creó o cocreó la serie Lost?"
+  },
+  {
+    "id": "q-003745",
+    "question": "¿Quién creó o cocreó la serie Fargo?"
+  },
+  {
+    "id": "q-003746",
+    "question": "¿Quién creó o cocreó la serie Black Mirror?"
+  },
+  {
+    "id": "q-003747",
+    "question": "¿Quién creó o cocreó la serie BoJack Horseman?"
+  },
+  {
+    "id": "q-003748",
+    "question": "¿Quién creó o cocreó la serie Succession?"
+  },
+  {
+    "id": "q-003749",
+    "question": "¿Quién creó o cocreó la serie Peaky Blinders?"
+  },
+  {
+    "id": "q-003750",
+    "question": "¿Quién creó o cocreó la serie Sherlock?"
+  },
+  {
+    "id": "q-003751",
+    "question": "¿Quién creó o cocreó la serie Doctor Who moderno?"
+  },
+  {
+    "id": "q-003752",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Copa Davis?"
+  },
+  {
+    "id": "q-003753",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Copa Billie Jean King?"
+  },
+  {
+    "id": "q-003754",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Ryder Cup?"
+  },
+  {
+    "id": "q-003755",
+    "question": "¿Con qué deporte o competición se asocia el trofeo America’s Cup?"
+  },
+  {
+    "id": "q-003756",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Stanley Cup?"
+  },
+  {
+    "id": "q-003757",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Vince Lombardi Trophy?"
+  },
+  {
+    "id": "q-003758",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Larry O’Brien Trophy?"
+  },
+  {
+    "id": "q-003759",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Claret Jug?"
+  },
+  {
+    "id": "q-003760",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Borg-Warner Trophy?"
+  },
+  {
+    "id": "q-003761",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Bledisloe Cup?"
+  },
+  {
+    "id": "q-003762",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Calcutta Cup?"
+  },
+  {
+    "id": "q-003763",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Ashes urn?"
+  },
+  {
+    "id": "q-003764",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Webb Ellis Cup?"
+  },
+  {
+    "id": "q-003765",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Jules Rimet Trophy?"
+  },
+  {
+    "id": "q-003766",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Henri Delaunay Trophy?"
+  },
+  {
+    "id": "q-003767",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Copa Libertadores?"
+  },
+  {
+    "id": "q-003768",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Heisman Trophy?"
+  },
+  {
+    "id": "q-003769",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Balón de Oro?"
+  },
+  {
+    "id": "q-003770",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Trofeo Pichichi?"
+  },
+  {
+    "id": "q-003771",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Trofeo Zamora?"
+  },
+  {
+    "id": "q-003772",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Maillot arcoíris?"
+  },
+  {
+    "id": "q-003773",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Maillot rosa?"
+  },
+  {
+    "id": "q-003774",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Maillot rojo?"
+  },
+  {
+    "id": "q-003775",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Maillot amarillo?"
+  },
+  {
+    "id": "q-003776",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Collar verde?"
+  },
+  {
+    "id": "q-003777",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Bola de Cristal?"
+  },
+  {
+    "id": "q-003778",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Trofeo Maurice Richard?"
+  },
+  {
+    "id": "q-003779",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Cy Young Award?"
+  },
+  {
+    "id": "q-003780",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Commissioner’s Trophy?"
+  },
+  {
+    "id": "q-003781",
+    "question": "¿Con qué deporte o competición se asocia el trofeo Grey Cup?"
+  },
+  {
+    "id": "q-003782",
+    "question": "¿En qué deporte se usa especialmente el término alley-oop?"
+  },
+  {
+    "id": "q-003783",
+    "question": "¿En qué deporte se usa especialmente el término pick and roll?"
+  },
+  {
+    "id": "q-003784",
+    "question": "¿En qué deporte se usa especialmente el término triple-doble?"
+  },
+  {
+    "id": "q-003785",
+    "question": "¿En qué deporte se usa especialmente el término hat-trick?"
+  },
+  {
+    "id": "q-003786",
+    "question": "¿En qué deporte se usa especialmente el término offside trap?"
+  },
+  {
+    "id": "q-003787",
+    "question": "¿En qué deporte se usa especialmente el término panenka?"
+  },
+  {
+    "id": "q-003788",
+    "question": "¿En qué deporte se usa especialmente el término touchdown?"
+  },
+  {
+    "id": "q-003789",
+    "question": "¿En qué deporte se usa especialmente el término safety?"
+  },
+  {
+    "id": "q-003790",
+    "question": "¿En qué deporte se usa especialmente el término scrum?"
+  },
+  {
+    "id": "q-003791",
+    "question": "¿En qué deporte se usa especialmente el término maul?"
+  },
+  {
+    "id": "q-003792",
+    "question": "¿En qué deporte se usa especialmente el término line-out?"
+  },
+  {
+    "id": "q-003793",
+    "question": "¿En qué deporte se usa especialmente el término googly?"
+  },
+  {
+    "id": "q-003794",
+    "question": "¿En qué deporte se usa especialmente el término lbw?"
+  },
+  {
+    "id": "q-003795",
+    "question": "¿En qué deporte se usa especialmente el término silly point?"
+  },
+  {
+    "id": "q-003796",
+    "question": "¿En qué deporte se usa especialmente el término birdie?"
+  },
+  {
+    "id": "q-003797",
+    "question": "¿En qué deporte se usa especialmente el término eagle?"
+  },
+  {
+    "id": "q-003798",
+    "question": "¿En qué deporte se usa especialmente el término bogey?"
+  },
+  {
+    "id": "q-003799",
+    "question": "¿En qué deporte se usa especialmente el término break point?"
+  },
+  {
+    "id": "q-003800",
+    "question": "¿En qué deporte se usa especialmente el término tie-break?"
+  },
+  {
+    "id": "q-003801",
+    "question": "¿En qué deporte se usa especialmente el término let?"
+  },
+  {
+    "id": "q-003802",
+    "question": "¿En qué deporte se usa especialmente el término ippon?"
+  },
+  {
+    "id": "q-003803",
+    "question": "¿En qué deporte se usa especialmente el término waza-ari?"
+  },
+  {
+    "id": "q-003804",
+    "question": "¿En qué deporte se usa especialmente el término yuko?"
+  },
+  {
+    "id": "q-003805",
+    "question": "¿En qué deporte se usa especialmente el término randori?"
+  },
+  {
+    "id": "q-003806",
+    "question": "¿En qué deporte se usa especialmente el término en garde?"
+  },
+  {
+    "id": "q-003807",
+    "question": "¿En qué deporte se usa especialmente el término flecha?"
+  },
+  {
+    "id": "q-003808",
+    "question": "¿En qué deporte se usa especialmente el término touché?"
+  },
+  {
+    "id": "q-003809",
+    "question": "¿En qué deporte se usa especialmente el término split?"
+  },
+  {
+    "id": "q-003810",
+    "question": "¿En qué deporte se usa especialmente el término spare?"
+  },
+  {
+    "id": "q-003811",
+    "question": "¿En qué deporte se usa especialmente el término strike?"
+  },
+  {
+    "id": "q-003812",
+    "question": "¿En qué deporte se usa especialmente el término double axel?"
+  },
+  {
+    "id": "q-003813",
+    "question": "¿En qué deporte se usa especialmente el término clean and jerk?"
+  },
+  {
+    "id": "q-003814",
+    "question": "¿En qué deporte se usa especialmente el término snatch?"
+  },
+  {
+    "id": "q-003815",
+    "question": "¿En qué deporte se usa especialmente el término keirin?"
+  },
+  {
+    "id": "q-003816",
+    "question": "¿Dónde se celebraron los primeros Juegos Olímpicos modernos?"
+  },
+  {
+    "id": "q-003817",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1900?"
+  },
+  {
+    "id": "q-003818",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1904?"
+  },
+  {
+    "id": "q-003819",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1912?"
+  },
+  {
+    "id": "q-003820",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1920?"
+  },
+  {
+    "id": "q-003821",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1924?"
+  },
+  {
+    "id": "q-003822",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1932?"
+  },
+  {
+    "id": "q-003823",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1936?"
+  },
+  {
+    "id": "q-003824",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1952?"
+  },
+  {
+    "id": "q-003825",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1964?"
+  },
+  {
+    "id": "q-003826",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1968?"
+  },
+  {
+    "id": "q-003827",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1972?"
+  },
+  {
+    "id": "q-003828",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1976?"
+  },
+  {
+    "id": "q-003829",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1988?"
+  },
+  {
+    "id": "q-003830",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1992?"
+  },
+  {
+    "id": "q-003831",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1996?"
+  },
+  {
+    "id": "q-003832",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 2000?"
+  },
+  {
+    "id": "q-003833",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 2004?"
+  },
+  {
+    "id": "q-003834",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 2008?"
+  },
+  {
+    "id": "q-003835",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 2012?"
+  },
+  {
+    "id": "q-003836",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 2016?"
+  },
+  {
+    "id": "q-003837",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 2020?"
+  },
+  {
+    "id": "q-003838",
+    "question": "¿Dónde se celebraron los primeros Juegos Paralímpicos oficiales?"
+  },
+  {
+    "id": "q-003839",
+    "question": "¿Dónde se celebraron los primeros Juegos Olímpicos de Invierno?"
+  },
+  {
+    "id": "q-003840",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno de 1994?"
+  },
+  {
+    "id": "q-003841",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno de 1998?"
+  },
+  {
+    "id": "q-003842",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno de 2002?"
+  },
+  {
+    "id": "q-003843",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno de 2006?"
+  },
+  {
+    "id": "q-003844",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno de 2010?"
+  },
+  {
+    "id": "q-003845",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno de 2014?"
+  },
+  {
+    "id": "q-003846",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno de 2018?"
+  },
+  {
+    "id": "q-003847",
+    "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno de 2022?"
+  },
+  {
+    "id": "q-003848",
+    "question": "¿En qué ópera aparece el personaje Violetta Valéry?"
+  },
+  {
+    "id": "q-003849",
+    "question": "¿En qué ópera aparece el personaje Alfredo Germont?"
+  },
+  {
+    "id": "q-003850",
+    "question": "¿En qué ópera aparece el personaje Rigoletto?"
+  },
+  {
+    "id": "q-003851",
+    "question": "¿En qué ópera aparece el personaje Gilda?"
+  },
+  {
+    "id": "q-003852",
+    "question": "¿En qué ópera aparece el personaje Aida?"
+  },
+  {
+    "id": "q-003853",
+    "question": "¿En qué ópera aparece el personaje Radamés?"
+  },
+  {
+    "id": "q-003854",
+    "question": "¿En qué ópera aparece el personaje Otello?"
+  },
+  {
+    "id": "q-003855",
+    "question": "¿En qué ópera aparece el personaje Desdémona?"
+  },
+  {
+    "id": "q-003856",
+    "question": "¿En qué ópera aparece el personaje Figaro?"
+  },
+  {
+    "id": "q-003857",
+    "question": "¿En qué ópera aparece el personaje Susanna?"
+  },
+  {
+    "id": "q-003858",
+    "question": "¿En qué ópera aparece el personaje Don Giovanni?"
+  },
+  {
+    "id": "q-003859",
+    "question": "¿En qué ópera aparece el personaje Leporello?"
+  },
+  {
+    "id": "q-003860",
+    "question": "¿En qué ópera aparece el personaje Papageno?"
+  },
+  {
+    "id": "q-003861",
+    "question": "¿En qué ópera aparece el personaje Tamino?"
+  },
+  {
+    "id": "q-003862",
+    "question": "¿En qué ópera aparece el personaje Pamina?"
+  },
+  {
+    "id": "q-003863",
+    "question": "¿En qué ópera aparece el personaje Carmen?"
+  },
+  {
+    "id": "q-003864",
+    "question": "¿En qué ópera aparece el personaje Don José?"
+  },
+  {
+    "id": "q-003865",
+    "question": "¿En qué ópera aparece el personaje Escamillo?"
+  },
+  {
+    "id": "q-003866",
+    "question": "¿En qué ópera aparece el personaje Mimì?"
+  },
+  {
+    "id": "q-003867",
+    "question": "¿En qué ópera aparece el personaje Rodolfo?"
+  },
+  {
+    "id": "q-003868",
+    "question": "¿En qué ópera aparece el personaje Tosca?"
+  },
+  {
+    "id": "q-003869",
+    "question": "¿En qué ópera aparece el personaje Scarpia?"
+  },
+  {
+    "id": "q-003870",
+    "question": "¿En qué ópera aparece el personaje Cio-Cio-San?"
+  },
+  {
+    "id": "q-003871",
+    "question": "¿En qué ópera aparece el personaje Pinkerton?"
+  },
+  {
+    "id": "q-003872",
+    "question": "¿En qué ópera aparece el personaje Turandot?"
+  },
+  {
+    "id": "q-003873",
+    "question": "¿En qué ópera aparece el personaje Calaf?"
+  },
+  {
+    "id": "q-003874",
+    "question": "¿En qué ópera aparece el personaje Isolda?"
+  },
+  {
+    "id": "q-003875",
+    "question": "¿En qué ópera aparece el personaje Tristán?"
+  },
+  {
+    "id": "q-003876",
+    "question": "¿En qué ópera aparece el personaje Wotan?"
+  },
+  {
+    "id": "q-003877",
+    "question": "¿En qué ópera aparece el personaje Brünnhilde?"
+  },
+  {
+    "id": "q-003878",
+    "question": "¿En qué ópera aparece el personaje Siegfried?"
+  },
+  {
+    "id": "q-003879",
+    "question": "¿En qué ópera aparece el personaje Lohengrin?"
+  },
+  {
+    "id": "q-003880",
+    "question": "¿En qué ópera aparece el personaje Tannhäuser?"
+  },
+  {
+    "id": "q-003881",
+    "question": "¿En qué ópera aparece el personaje Elektra?"
+  },
+  {
+    "id": "q-003882",
+    "question": "¿En qué ópera aparece el personaje Salome?"
+  },
+  {
+    "id": "q-003883",
+    "question": "¿En qué ópera aparece el personaje Octavian?"
+  },
+  {
+    "id": "q-003884",
+    "question": "¿En qué ópera aparece el personaje Peter Grimes?"
+  },
+  {
+    "id": "q-003885",
+    "question": "¿En qué ópera aparece el personaje Billy Budd?"
+  },
+  {
+    "id": "q-003886",
+    "question": "¿En qué ópera aparece el personaje Boris Godunov?"
+  },
+  {
+    "id": "q-003887",
+    "question": "¿En qué ópera aparece el personaje Eugene Onegin?"
+  },
+  {
+    "id": "q-003888",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Kind of Blue?"
+  },
+  {
+    "id": "q-003889",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz A Love Supreme?"
+  },
+  {
+    "id": "q-003890",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Mingus Ah Um?"
+  },
+  {
+    "id": "q-003891",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Time Out?"
+  },
+  {
+    "id": "q-003892",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz The Black Saint and the Sinner Lady?"
+  },
+  {
+    "id": "q-003893",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Bitches Brew?"
+  },
+  {
+    "id": "q-003894",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Head Hunters?"
+  },
+  {
+    "id": "q-003895",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz The Köln Concert?"
+  },
+  {
+    "id": "q-003896",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Giant Steps?"
+  },
+  {
+    "id": "q-003897",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Saxophone Colossus?"
+  },
+  {
+    "id": "q-003898",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz The Shape of Jazz to Come?"
+  },
+  {
+    "id": "q-003899",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Ella and Louis?"
+  },
+  {
+    "id": "q-003900",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Blue Train?"
+  },
+  {
+    "id": "q-003901",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Moanin’?"
+  },
+  {
+    "id": "q-003902",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Sunday at the Village Vanguard?"
+  },
+  {
+    "id": "q-003903",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Getz/Gilberto?"
+  },
+  {
+    "id": "q-003904",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Birth of the Cool?"
+  },
+  {
+    "id": "q-003905",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Somethin’ Else?"
+  },
+  {
+    "id": "q-003906",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Out to Lunch!?"
+  },
+  {
+    "id": "q-003907",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Maiden Voyage?"
+  },
+  {
+    "id": "q-003908",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Speak No Evil?"
+  },
+  {
+    "id": "q-003909",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Idle Moments?"
+  },
+  {
+    "id": "q-003910",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Straight, No Chaser?"
+  },
+  {
+    "id": "q-003911",
+    "question": "¿Qué artista o grupo grabó el álbum de jazz Brilliant Corners?"
+  },
+  {
+    "id": "q-003912",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el oboe?"
+  },
+  {
+    "id": "q-003913",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el fagot?"
+  },
+  {
+    "id": "q-003914",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el corno inglés?"
+  },
+  {
+    "id": "q-003915",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el clarinete?"
+  },
+  {
+    "id": "q-003916",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el saxofón?"
+  },
+  {
+    "id": "q-003917",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el flauta travesera?"
+  },
+  {
+    "id": "q-003918",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el piccolo?"
+  },
+  {
+    "id": "q-003919",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el trompa?"
+  },
+  {
+    "id": "q-003920",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el trompeta?"
+  },
+  {
+    "id": "q-003921",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el trombón?"
+  },
+  {
+    "id": "q-003922",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el tuba?"
+  },
+  {
+    "id": "q-003923",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el violín?"
+  },
+  {
+    "id": "q-003924",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el viola?"
+  },
+  {
+    "id": "q-003925",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el violonchelo?"
+  },
+  {
+    "id": "q-003926",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el contrabajo?"
+  },
+  {
+    "id": "q-003927",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el arpa?"
+  },
+  {
+    "id": "q-003928",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el clave?"
+  },
+  {
+    "id": "q-003929",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el piano?"
+  },
+  {
+    "id": "q-003930",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el timbal sinfónico?"
+  },
+  {
+    "id": "q-003931",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el xilófono?"
+  },
+  {
+    "id": "q-003932",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el marimba?"
+  },
+  {
+    "id": "q-003933",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el celesta?"
+  },
+  {
+    "id": "q-003934",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el glockenspiel?"
+  },
+  {
+    "id": "q-003935",
+    "question": "En organología orquestal, ¿cómo se clasifica normalmente el gong?"
+  },
+  {
+    "id": "q-003936",
+    "question": "¿Cuál es la afinación estándar más habitual de violín, de grave a agudo?"
+  },
+  {
+    "id": "q-003937",
+    "question": "¿Cuál es la afinación estándar más habitual de viola, de grave a agudo?"
+  },
+  {
+    "id": "q-003938",
+    "question": "¿Cuál es la afinación estándar más habitual de violonchelo, de grave a agudo?"
+  },
+  {
+    "id": "q-003939",
+    "question": "¿Cuál es la afinación estándar más habitual de contrabajo, de grave a agudo?"
+  },
+  {
+    "id": "q-003940",
+    "question": "¿Cuál es la afinación estándar más habitual de guitarra estándar, de grave a agudo?"
+  },
+  {
+    "id": "q-003941",
+    "question": "¿Cuál es la afinación estándar más habitual de ukelele soprano, de grave a agudo?"
+  },
+  {
+    "id": "q-003942",
+    "question": "¿Cuál es la afinación estándar más habitual de mandolina, de grave a agudo?"
+  },
+  {
+    "id": "q-003943",
+    "question": "¿Cuál es la afinación estándar más habitual de banjo de cinco cuerdas estándar, de grave a agudo?"
+  },
+  {
+    "id": "q-003944",
+    "question": "¿A qué orden taxonómico pertenecen principalmente ballenas y delfines?"
+  },
+  {
+    "id": "q-003945",
+    "question": "¿A qué orden taxonómico pertenecen principalmente murciélagos?"
+  },
+  {
+    "id": "q-003946",
+    "question": "¿A qué orden taxonómico pertenecen principalmente roedores?"
+  },
+  {
+    "id": "q-003947",
+    "question": "¿A qué orden taxonómico pertenecen principalmente primates?"
+  },
+  {
+    "id": "q-003948",
+    "question": "¿A qué orden taxonómico pertenecen principalmente carnívoros como perros y felinos?"
+  },
+  {
+    "id": "q-003949",
+    "question": "¿A qué orden taxonómico pertenecen principalmente caballos y rinocerontes?"
+  },
+  {
+    "id": "q-003950",
+    "question": "¿A qué orden taxonómico pertenecen principalmente ciervos, vacas y jirafas?"
+  },
+  {
+    "id": "q-003951",
+    "question": "¿A qué orden taxonómico pertenecen principalmente elefantes?"
+  },
+  {
+    "id": "q-003952",
+    "question": "¿A qué orden taxonómico pertenecen principalmente perezosos y osos hormigueros?"
+  },
+  {
+    "id": "q-003953",
+    "question": "¿A qué orden taxonómico pertenecen principalmente armadillos?"
+  },
+  {
+    "id": "q-003954",
+    "question": "¿A qué orden taxonómico pertenecen principalmente conejos y liebres?"
+  },
+  {
+    "id": "q-003955",
+    "question": "¿A qué orden taxonómico pertenecen principalmente musarañas y topos?"
+  },
+  {
+    "id": "q-003956",
+    "question": "¿A qué orden taxonómico pertenecen principalmente erizos?"
+  },
+  {
+    "id": "q-003957",
+    "question": "¿A qué orden taxonómico pertenecen principalmente canguros y wallabies?"
+  },
+  {
+    "id": "q-003958",
+    "question": "¿A qué orden taxonómico pertenecen principalmente koalas?"
+  },
+  {
+    "id": "q-003959",
+    "question": "¿A qué orden taxonómico pertenecen principalmente monotremas como el ornitorrinco?"
+  },
+  {
+    "id": "q-003960",
+    "question": "¿A qué orden taxonómico pertenecen principalmente pingüinos?"
+  },
+  {
+    "id": "q-003961",
+    "question": "¿A qué orden taxonómico pertenecen principalmente rapaces diurnas como águilas?"
+  },
+  {
+    "id": "q-003962",
+    "question": "¿A qué orden taxonómico pertenecen principalmente halcones?"
+  },
+  {
+    "id": "q-003963",
+    "question": "¿A qué orden taxonómico pertenecen principalmente búhos?"
+  },
+  {
+    "id": "q-003964",
+    "question": "¿A qué orden taxonómico pertenecen principalmente loros?"
+  },
+  {
+    "id": "q-003965",
+    "question": "¿A qué orden taxonómico pertenecen principalmente colibríes?"
+  },
+  {
+    "id": "q-003966",
+    "question": "¿A qué orden taxonómico pertenecen principalmente aves paseriformes?"
+  },
+  {
+    "id": "q-003967",
+    "question": "¿A qué orden taxonómico pertenecen principalmente cocodrilos y caimanes?"
+  },
+  {
+    "id": "q-003968",
+    "question": "¿A qué orden taxonómico pertenecen principalmente tortugas?"
+  },
+  {
+    "id": "q-003969",
+    "question": "¿A qué orden taxonómico pertenecen principalmente lagartos y serpientes?"
+  },
+  {
+    "id": "q-003970",
+    "question": "¿A qué orden taxonómico pertenecen principalmente ranas y sapos?"
+  },
+  {
+    "id": "q-003971",
+    "question": "¿A qué orden taxonómico pertenecen principalmente salamandras?"
+  },
+  {
+    "id": "q-003972",
+    "question": "¿A qué orden taxonómico pertenecen principalmente tiburones y rayas?"
+  },
+  {
+    "id": "q-003973",
+    "question": "¿A qué orden taxonómico pertenecen principalmente mariposas y polillas?"
+  },
+  {
+    "id": "q-003974",
+    "question": "¿A qué orden taxonómico pertenecen principalmente escarabajos?"
+  },
+  {
+    "id": "q-003975",
+    "question": "¿A qué orden taxonómico pertenecen principalmente abejas, avispas y hormigas?"
+  },
+  {
+    "id": "q-003976",
+    "question": "¿A qué orden taxonómico pertenecen principalmente moscas y mosquitos?"
+  },
+  {
+    "id": "q-003977",
+    "question": "¿A qué orden taxonómico pertenecen principalmente saltamontes y grillos?"
+  },
+  {
+    "id": "q-003978",
+    "question": "¿A qué orden taxonómico pertenecen principalmente libélulas?"
+  },
+  {
+    "id": "q-003979",
+    "question": "¿A qué orden taxonómico pertenecen principalmente chinches y pulgones?"
+  },
+  {
+    "id": "q-003980",
+    "question": "¿A qué familia botánica pertenece trigo?"
+  },
+  {
+    "id": "q-003981",
+    "question": "¿A qué familia botánica pertenece arroz?"
+  },
+  {
+    "id": "q-003982",
+    "question": "¿A qué familia botánica pertenece maíz?"
+  },
+  {
+    "id": "q-003983",
+    "question": "¿A qué familia botánica pertenece cebada?"
+  },
+  {
+    "id": "q-003984",
+    "question": "¿A qué familia botánica pertenece garbanzo?"
+  },
+  {
+    "id": "q-003985",
+    "question": "¿A qué familia botánica pertenece lenteja?"
+  },
+  {
+    "id": "q-003986",
+    "question": "¿A qué familia botánica pertenece soja?"
+  },
+  {
+    "id": "q-003987",
+    "question": "¿A qué familia botánica pertenece guisante?"
+  },
+  {
+    "id": "q-003988",
+    "question": "¿A qué familia botánica pertenece patata?"
+  },
+  {
+    "id": "q-003989",
+    "question": "¿A qué familia botánica pertenece tomate?"
+  },
+  {
+    "id": "q-003990",
+    "question": "¿A qué familia botánica pertenece berenjena?"
+  },
+  {
+    "id": "q-003991",
+    "question": "¿A qué familia botánica pertenece pimiento?"
+  },
+  {
+    "id": "q-003992",
+    "question": "¿A qué familia botánica pertenece manzano?"
+  },
+  {
+    "id": "q-003993",
+    "question": "¿A qué familia botánica pertenece peral?"
+  },
+  {
+    "id": "q-003994",
+    "question": "¿A qué familia botánica pertenece almendro?"
+  },
+  {
+    "id": "q-003995",
+    "question": "¿A qué familia botánica pertenece fresa?"
+  },
+  {
+    "id": "q-003996",
+    "question": "¿A qué familia botánica pertenece naranjo?"
+  },
+  {
+    "id": "q-003997",
+    "question": "¿A qué familia botánica pertenece limonero?"
+  },
+  {
+    "id": "q-003998",
+    "question": "¿A qué familia botánica pertenece vid?"
+  },
+  {
+    "id": "q-003999",
+    "question": "¿A qué familia botánica pertenece olivo?"
+  },
+  {
+    "id": "q-004000",
+    "question": "¿A qué familia botánica pertenece café?"
+  },
+  {
+    "id": "q-004001",
+    "question": "¿A qué familia botánica pertenece cacao?"
+  },
+  {
+    "id": "q-004002",
+    "question": "¿A qué familia botánica pertenece té?"
+  },
+  {
+    "id": "q-004003",
+    "question": "¿A qué familia botánica pertenece girasol?"
+  },
+  {
+    "id": "q-004004",
+    "question": "¿A qué familia botánica pertenece lechuga?"
+  },
+  {
+    "id": "q-004005",
+    "question": "¿A qué familia botánica pertenece zanahoria?"
+  },
+  {
+    "id": "q-004006",
+    "question": "¿A qué familia botánica pertenece apio?"
+  },
+  {
+    "id": "q-004007",
+    "question": "¿A qué familia botánica pertenece cebolla?"
+  },
+  {
+    "id": "q-004008",
+    "question": "¿A qué familia botánica pertenece ajo?"
+  },
+  {
+    "id": "q-004009",
+    "question": "¿A qué familia botánica pertenece calabaza?"
+  },
+  {
+    "id": "q-004010",
+    "question": "¿A qué familia botánica pertenece pepino?"
+  },
+  {
+    "id": "q-004011",
+    "question": "¿A qué familia botánica pertenece melón?"
+  },
+  {
+    "id": "q-004012",
+    "question": "¿A qué familia botánica pertenece plátano?"
+  },
+  {
+    "id": "q-004013",
+    "question": "¿A qué familia botánica pertenece piña?"
+  },
+  {
+    "id": "q-004014",
+    "question": "¿A qué familia botánica pertenece aguacate?"
+  },
+  {
+    "id": "q-004015",
+    "question": "¿A qué familia botánica pertenece laurel?"
+  },
+  {
+    "id": "q-004016",
+    "question": "¿A qué era geológica pertenece el período Cámbrico?"
+  },
+  {
+    "id": "q-004017",
+    "question": "¿A qué era geológica pertenece el período Ordovícico?"
+  },
+  {
+    "id": "q-004018",
+    "question": "¿A qué era geológica pertenece el período Silúrico?"
+  },
+  {
+    "id": "q-004019",
+    "question": "¿A qué era geológica pertenece el período Devónico?"
+  },
+  {
+    "id": "q-004020",
+    "question": "¿A qué era geológica pertenece el período Carbonífero?"
+  },
+  {
+    "id": "q-004021",
+    "question": "¿A qué era geológica pertenece el período Pérmico?"
+  },
+  {
+    "id": "q-004022",
+    "question": "¿A qué era geológica pertenece el período Triásico?"
+  },
+  {
+    "id": "q-004023",
+    "question": "¿A qué era geológica pertenece el período Jurásico?"
+  },
+  {
+    "id": "q-004024",
+    "question": "¿A qué era geológica pertenece el período Cretácico?"
+  },
+  {
+    "id": "q-004025",
+    "question": "¿A qué era geológica pertenece el período Paleógeno?"
+  },
+  {
+    "id": "q-004026",
+    "question": "¿A qué era geológica pertenece el período Neógeno?"
+  },
+  {
+    "id": "q-004027",
+    "question": "¿A qué era geológica pertenece el período Cuaternario?"
+  },
+  {
+    "id": "q-004028",
+    "question": "¿Qué concepto ecológico o ambiental se define como “diversidad específica considerando riqueza y equidad”?"
+  },
+  {
+    "id": "q-004029",
+    "question": "¿Qué concepto ecológico o ambiental se define como “probabilidad de que dos individuos pertenezcan a la misma especie”?"
+  },
+  {
+    "id": "q-004030",
+    "question": "¿Qué concepto ecológico o ambiental se define como “similitud entre conjuntos de especies”?"
+  },
+  {
+    "id": "q-004031",
+    "question": "¿Qué concepto ecológico o ambiental se define como “similitud que pondera especies compartidas”?"
+  },
+  {
+    "id": "q-004032",
+    "question": "¿Qué concepto ecológico o ambiental se define como “carbono total fijado por productores”?"
+  },
+  {
+    "id": "q-004033",
+    "question": "¿Qué concepto ecológico o ambiental se define como “carbono fijado menos respiración de productores”?"
+  },
+  {
+    "id": "q-004034",
+    "question": "¿Qué concepto ecológico o ambiental se define como “CO₂ liberado por metabolismo de la comunidad”?"
+  },
+  {
+    "id": "q-004035",
+    "question": "¿Qué concepto ecológico o ambiental se define como “superficie bioproductiva necesaria para sostener consumo”?"
+  },
+  {
+    "id": "q-004036",
+    "question": "¿Qué concepto ecológico o ambiental se define como “beneficios que los ecosistemas aportan a las personas”?"
+  },
+  {
+    "id": "q-004037",
+    "question": "¿Qué concepto ecológico o ambiental se define como “capacidad de recuperarse tras perturbaciones”?"
+  },
+  {
+    "id": "q-004038",
+    "question": "¿Qué concepto ecológico o ambiental se define como “fracción de radiación reflejada por una superficie”?"
+  },
+  {
+    "id": "q-004039",
+    "question": "¿Qué concepto ecológico o ambiental se define como “pérdida combinada de agua por evaporación y transpiración”?"
+  },
+  {
+    "id": "q-004040",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante E = hν?"
+  },
+  {
+    "id": "q-004041",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante F = G m1 m2 / r²?"
+  },
+  {
+    "id": "q-004042",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante PV = nRT?"
+  },
+  {
+    "id": "q-004043",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante V = IR?"
+  },
+  {
+    "id": "q-004044",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante F = kx?"
+  },
+  {
+    "id": "q-004045",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante pH = -log10[H⁺]?"
+  },
+  {
+    "id": "q-004046",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante λ = h/p?"
+  },
+  {
+    "id": "q-004047",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante E = mc²?"
+  },
+  {
+    "id": "q-004048",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante ΔS ≥ 0 en un sistema aislado?"
+  },
+  {
+    "id": "q-004049",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante a² + b² = c²?"
+  },
+  {
+    "id": "q-004050",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante χ²?"
+  },
+  {
+    "id": "q-004051",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante c = λν?"
+  },
+  {
+    "id": "q-004052",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante Q = mcΔT?"
+  },
+  {
+    "id": "q-004053",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante I = V/R?"
+  },
+  {
+    "id": "q-004054",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante nλ = 2d sin θ?"
+  },
+  {
+    "id": "q-004055",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante A = εlc?"
+  },
+  {
+    "id": "q-004056",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante F = ma?"
+  },
+  {
+    "id": "q-004057",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante ΔG = ΔH − TΔS?"
+  },
+  {
+    "id": "q-004058",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante Ksp?"
+  },
+  {
+    "id": "q-004059",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante Ka?"
+  },
+  {
+    "id": "q-004060",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante pKa = -log10 Ka?"
+  },
+  {
+    "id": "q-004061",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante N = N0 e^-λt?"
+  },
+  {
+    "id": "q-004062",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante t1/2 = ln2/λ?"
+  },
+  {
+    "id": "q-004063",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante E = qV?"
+  },
+  {
+    "id": "q-004064",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante pV^γ = constante?"
+  },
+  {
+    "id": "q-004065",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante ∇·B = 0?"
+  },
+  {
+    "id": "q-004066",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante ∇·E = ρ/ε0?"
+  },
+  {
+    "id": "q-004067",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante ∇×E = -∂B/∂t?"
+  },
+  {
+    "id": "q-004068",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante ∇×B = μ0J + μ0ε0∂E/∂t?"
+  },
+  {
+    "id": "q-004069",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante H = -Σp log p?"
+  },
+  {
+    "id": "q-004070",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante p = mv?"
+  },
+  {
+    "id": "q-004071",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante L = r × p?"
+  },
+  {
+    "id": "q-004072",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante E = 1/2 mv²?"
+  },
+  {
+    "id": "q-004073",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante U = mgh?"
+  },
+  {
+    "id": "q-004074",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante f = 1/T?"
+  },
+  {
+    "id": "q-004075",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante ρ = m/V?"
+  },
+  {
+    "id": "q-004076",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante P = F/A?"
+  },
+  {
+    "id": "q-004077",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante η = -dP/dt / P?"
+  },
+  {
+    "id": "q-004078",
+    "question": "¿Qué ley, magnitud o relación científica se representa mediante Re = ρvL/μ?"
+  },
+  {
+    "id": "q-004079",
+    "question": "En exploración clínica, ¿con qué se relaciona principalmente la prueba de Allen?"
+  },
+  {
+    "id": "q-004080",
+    "question": "En exploración clínica, ¿con qué se relaciona principalmente el signo de Babinski?"
+  },
+  {
+    "id": "q-004081",
+    "question": "En exploración clínica, ¿con qué se relaciona principalmente el reflejo aquiliano?"
+  },
+  {
+    "id": "q-004082",
+    "question": "En exploración clínica, ¿con qué se relaciona principalmente el reflejo rotuliano?"
   }
 ]
