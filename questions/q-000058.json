@@ -1,0 +1,25 @@
+{
+  "id": "q-000058",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": ["paises"],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene forma de bota en los mapas de Europa?",
+  "answers": [
+    { "text": "Grecia", "correct": false },
+    { "text": "Italia", "correct": true },
+    { "text": "Portugal", "correct": false },
+    { "text": "Croacia", "correct": false }
+  ],
+  "explanation": "Italia es conocida por su forma de bota en el mapa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Italy",
+      "url": "https://www.britannica.com/place/Italy"
+    }
+  ],
+  "tags": ["italia", "europa", "mapas"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
