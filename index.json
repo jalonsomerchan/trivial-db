@@ -138,5 +138,9 @@
   {
     "id": "q-000040",
     "question": "¿Qué pintor es conocido por la serie de nenúfares?"
+  },
+  {
+    "id": "q-000041",
+    "question": "¿Cuántos jugadores de un equipo de baloncesto están en pista durante el juego?"
   }
 ]
