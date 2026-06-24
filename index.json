@@ -202,5 +202,13 @@
   {
     "id": "q-000058",
     "question": "¿Qué país tiene forma de bota en los mapas de Europa?"
+  },
+  {
+    "id": "q-000059",
+    "question": "¿En qué país comenzó la Revolución Industrial?"
+  },
+  {
+    "id": "q-000060",
+    "question": "¿Qué molécula contiene la información genética de los seres vivos?"
   }
 ]
