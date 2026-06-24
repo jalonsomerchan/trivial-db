@@ -1,0 +1,25 @@
+{
+  "id": "q-000074",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": ["formula-1"],
+  "difficulty": "easy",
+  "question": "¿En qué deporte compitió Fernando Alonso como campeón mundial?",
+  "answers": [
+    { "text": "Rally Dakar", "correct": false },
+    { "text": "Fórmula 1", "correct": true },
+    { "text": "MotoGP", "correct": false },
+    { "text": "IndyCar", "correct": false }
+  ],
+  "explanation": "Fernando Alonso fue campeón mundial de Fórmula 1.",
+  "sources": [
+    {
+      "title": "Formula 1 - Fernando Alonso",
+      "url": "https://www.formula1.com/en/drivers/fernando-alonso"
+    }
+  ],
+  "tags": ["fernando-alonso", "formula-1", "motor"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
