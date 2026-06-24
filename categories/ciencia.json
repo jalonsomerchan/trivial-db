@@ -2,7 +2,8 @@
   "id": "ciencia",
   "name": "Ciencia",
   "questions": [
-    "q-000001"
+    "q-000001",
+    "q-000005"
   ],
   "subcategories": [
     {
@@ -11,11 +12,18 @@
       "questions": [
         "q-000001"
       ]
+    },
+    {
+      "id": "quimica",
+      "name": "Quimica",
+      "questions": [
+        "q-000005"
+      ]
     }
   ],
   "stats": {
-    "total": 1,
-    "easy": 1,
+    "total": 2,
+    "easy": 2,
     "medium": 0,
     "hard": 0
   },
