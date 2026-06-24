@@ -38,5 +38,9 @@
   {
     "id": "q-000010",
     "question": "¿Cuál es el océano más grande de la Tierra?"
+  },
+  {
+    "id": "q-000011",
+    "question": "¿Cuál es la capital de Canadá?"
   }
 ]
