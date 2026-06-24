@@ -1,0 +1,25 @@
+{
+  "id": "q-000070",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": ["edad-antigua"],
+  "difficulty": "medium",
+  "question": "¿Qué imperio tuvo como capital la ciudad de Roma?",
+  "answers": [
+    { "text": "Imperio persa", "correct": false },
+    { "text": "Imperio romano", "correct": true },
+    { "text": "Imperio otomano", "correct": false },
+    { "text": "Imperio carolingio", "correct": false }
+  ],
+  "explanation": "Roma fue la capital del Imperio romano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Roman Empire",
+      "url": "https://www.britannica.com/place/Roman-Empire"
+    }
+  ],
+  "tags": ["imperio-romano", "roma", "edad-antigua"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
