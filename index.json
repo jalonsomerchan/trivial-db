@@ -22,5 +22,13 @@
   {
     "id": "q-000006",
     "question": "¿Cuál es la capital de Francia?"
+  },
+  {
+    "id": "q-000007",
+    "question": "¿Qué pintor realizó Las meninas?"
+  },
+  {
+    "id": "q-000008",
+    "question": "¿Cuál es la capital de Italia?"
   }
 ]
