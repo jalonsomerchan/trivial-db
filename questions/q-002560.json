@@ -7,7 +7,7 @@
     "musica"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué artista publicó el álbum “Abbey Road””?",
+  "question": "“Qué artista publicó el álbum “Abbey Road””?",
   "answers": [
     {
       "text": "The Beatles",

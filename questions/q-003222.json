@@ -7,7 +7,7 @@
     "web"
   ],
   "difficulty": "medium",
-  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué significa el código HTTP 204”?",
+  "question": "“Qué significa el código HTTP 204”?",
   "answers": [
     {
       "text": "Gateway Timeout",

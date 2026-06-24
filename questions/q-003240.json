@@ -7,7 +7,7 @@
     "formatos"
   ],
   "difficulty": "medium",
-  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué formato se utiliza habitualmente para consultas a bases de datos”?",
+  "question": "“Qué formato se utiliza habitualmente para consultas a bases de datos”?",
   "answers": [
     {
       "text": "JSON",

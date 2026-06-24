@@ -7,7 +7,7 @@
     "ingredientes"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de gastronomia: “Qué plato de esta lista tiene como ingrediente destacado pulpo””?",
+  "question": "““Qué plato de esta lista tiene como ingrediente destacado pulpo””?",
   "answers": [
     {
       "text": "pulpo a la gallega",

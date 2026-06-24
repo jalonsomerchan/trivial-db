@@ -7,7 +7,7 @@
     "plurales"
   ],
   "difficulty": "hard",
-  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de lengua: “Qué singular corresponde al plural “caracteres”””?",
+  "question": "““Qué singular corresponde al plural “caracteres”””?",
   "answers": [
     {
       "text": "camión",

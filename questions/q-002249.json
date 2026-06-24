@@ -7,7 +7,7 @@
     "futbol"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de deporte: “Qué selección ganó el Mundial de fútbol de 1950””?",
+  "question": "““Qué selección ganó el Mundial de fútbol de 1950””?",
   "answers": [
     {
       "text": "Alemania",

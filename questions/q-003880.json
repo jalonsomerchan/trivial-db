@@ -7,7 +7,7 @@
     "platos-del-mundo"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de gastronomia: “Qué plato se asocia con España y suele llevar alubias””?",
+  "question": "““Qué plato se asocia con España y suele llevar alubias””?",
   "answers": [
     {
       "text": "khachapuri",

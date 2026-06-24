@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "medium",
-  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué puerto usa IMAP por defecto”?",
+  "question": "“Qué puerto usa IMAP por defecto”?",
   "answers": [
     {
       "text": "27017",

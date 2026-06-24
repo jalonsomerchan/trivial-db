@@ -7,7 +7,7 @@
     "futbol"
   ],
   "difficulty": "easy",
-  "question": "¿Cuál sería la opción correcta si la pista fuera “Elige la respuesta correcta para esta pista de deporte: “En qué año ganó Alemania Federal el Mundial de fútbol jugado en Suiza””?",
+  "question": "““En qué año ganó Alemania Federal el Mundial de fútbol jugado en Suiza””?",
   "answers": [
     {
       "text": "1954",

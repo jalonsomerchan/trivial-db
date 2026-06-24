@@ -7,7 +7,7 @@
     "protocolos"
   ],
   "difficulty": "hard",
-  "question": "¿Cuál sería la opción correcta si la pista fuera “Qué protocolo se asocia normalmente al puerto 110”?",
+  "question": "“Qué protocolo se asocia normalmente al puerto 110”?",
   "answers": [
     {
       "text": "Redis",
