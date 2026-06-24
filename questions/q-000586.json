@@ -1,0 +1,44 @@
+{
+  "id": "q-000586",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Fósforo?",
+  "answers": [
+    {
+      "text": "15",
+      "correct": true
+    },
+    {
+      "text": "11",
+      "correct": false
+    },
+    {
+      "text": "83",
+      "correct": false
+    },
+    {
+      "text": "41",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Fósforo tiene número atómico 15.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "fosforo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

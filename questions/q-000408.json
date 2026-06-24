@@ -1,0 +1,44 @@
+{
+  "id": "q-000408",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Bismuto?",
+  "answers": [
+    {
+      "text": "Pt",
+      "correct": false
+    },
+    {
+      "text": "Bi",
+      "correct": true
+    },
+    {
+      "text": "Po",
+      "correct": false
+    },
+    {
+      "text": "Er",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo del elemento Bismuto es Bi.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "bismuto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

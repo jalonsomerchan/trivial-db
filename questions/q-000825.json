@@ -1,0 +1,43 @@
+{
+  "id": "q-000825",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Chequia?",
+  "answers": [
+    {
+      "text": "Prague",
+      "correct": true
+    },
+    {
+      "text": "Praia",
+      "correct": false
+    },
+    {
+      "text": "Accra",
+      "correct": false
+    },
+    {
+      "text": "Bujumbura",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Chequia es Prague.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "chequia",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

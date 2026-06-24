@@ -1,0 +1,43 @@
+{
+  "id": "q-000831",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-2 de Niue?",
+  "answers": [
+    {
+      "text": "HN",
+      "correct": false
+    },
+    {
+      "text": "TJ",
+      "correct": false
+    },
+    {
+      "text": "NU",
+      "correct": true
+    },
+    {
+      "text": "MS",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-2 de Niue es NU.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "niue"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

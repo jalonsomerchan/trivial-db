@@ -1,0 +1,43 @@
+{
+  "id": "q-000385",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de República Dominicana?",
+  "answers": [
+    {
+      "text": "Bishkek",
+      "correct": false
+    },
+    {
+      "text": "Brussels",
+      "correct": false
+    },
+    {
+      "text": "Bissau",
+      "correct": false
+    },
+    {
+      "text": "Santo Domingo",
+      "correct": true
+    }
+  ],
+  "explanation": "La capital de República Dominicana es Santo Domingo.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "republica-dominicana",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

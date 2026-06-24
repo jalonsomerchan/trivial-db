@@ -1,0 +1,43 @@
+{
+  "id": "q-000860",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Madrid?",
+  "answers": [
+    {
+      "text": "Estonia",
+      "correct": false
+    },
+    {
+      "text": "Islas Marianas del Norte",
+      "correct": false
+    },
+    {
+      "text": "Armenia",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    }
+  ],
+  "explanation": "Madrid es la capital de España.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "madrid",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

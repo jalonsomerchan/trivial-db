@@ -1,0 +1,44 @@
+{
+  "id": "q-000772",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo P?",
+  "answers": [
+    {
+      "text": "Fósforo",
+      "correct": true
+    },
+    {
+      "text": "Nihonio",
+      "correct": false
+    },
+    {
+      "text": "Torio",
+      "correct": false
+    },
+    {
+      "text": "Rutherfordio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico P corresponde al elemento Fósforo.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "fosforo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

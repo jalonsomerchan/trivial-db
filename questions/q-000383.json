@@ -1,0 +1,43 @@
+{
+  "id": "q-000383",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Antananarivo?",
+  "answers": [
+    {
+      "text": "Noruega",
+      "correct": false
+    },
+    {
+      "text": "Samoa Americana",
+      "correct": false
+    },
+    {
+      "text": "Madagascar",
+      "correct": true
+    },
+    {
+      "text": "Filipinas",
+      "correct": false
+    }
+  ],
+  "explanation": "Antananarivo es la capital de Madagascar.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "antananarivo",
+    "madagascar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

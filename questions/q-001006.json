@@ -1,0 +1,43 @@
+{
+  "id": "q-001006",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Tallinn?",
+  "answers": [
+    {
+      "text": "Antigua y Barbuda",
+      "correct": false
+    },
+    {
+      "text": "Estonia",
+      "correct": true
+    },
+    {
+      "text": "Bolivia",
+      "correct": false
+    },
+    {
+      "text": "Uruguay",
+      "correct": false
+    }
+  ],
+  "explanation": "Tallinn es la capital de Estonia.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "tallinn",
+    "estonia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

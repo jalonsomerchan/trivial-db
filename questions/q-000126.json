@@ -1,0 +1,43 @@
+{
+  "id": "q-000126",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Monaco?",
+  "answers": [
+    {
+      "text": "Samoa",
+      "correct": false
+    },
+    {
+      "text": "Chad",
+      "correct": false
+    },
+    {
+      "text": "Islas Cook",
+      "correct": false
+    },
+    {
+      "text": "Mónaco",
+      "correct": true
+    }
+  ],
+  "explanation": "Monaco es la capital de Mónaco.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monaco",
+    "monaco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

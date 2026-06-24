@@ -1,0 +1,44 @@
+{
+  "id": "q-000397",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Radón?",
+  "answers": [
+    {
+      "text": "Nb",
+      "correct": false
+    },
+    {
+      "text": "Rn",
+      "correct": true
+    },
+    {
+      "text": "Bk",
+      "correct": false
+    },
+    {
+      "text": "Rg",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo del elemento Radón es Rn.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "radon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

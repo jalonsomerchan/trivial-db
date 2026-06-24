@@ -1,0 +1,43 @@
+{
+  "id": "q-000366",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Kiribati?",
+  "answers": [
+    {
+      "text": "Port Moresby",
+      "correct": false
+    },
+    {
+      "text": "South Tarawa",
+      "correct": true
+    },
+    {
+      "text": "Bangui",
+      "correct": false
+    },
+    {
+      "text": "Muscat",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Kiribati es South Tarawa.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "kiribati",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

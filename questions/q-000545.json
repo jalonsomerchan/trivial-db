@@ -1,0 +1,43 @@
+{
+  "id": "q-000545",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Nassau?",
+  "answers": [
+    {
+      "text": "Kazajistán",
+      "correct": false
+    },
+    {
+      "text": "Sáhara Occidental",
+      "correct": false
+    },
+    {
+      "text": "Bahamas",
+      "correct": true
+    },
+    {
+      "text": "Benín",
+      "correct": false
+    }
+  ],
+  "explanation": "Nassau es la capital de Bahamas.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "nassau",
+    "bahamas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

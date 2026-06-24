@@ -1,0 +1,43 @@
+{
+  "id": "q-000155",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "regiones-continentales"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué región continental se clasifica Costa Rica?",
+  "answers": [
+    {
+      "text": "África",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": true
+    },
+    {
+      "text": "Asia",
+      "correct": false
+    },
+    {
+      "text": "Oceanía",
+      "correct": false
+    }
+  ],
+  "explanation": "Costa Rica se clasifica en la región continental de América.",
+  "sources": [
+    {
+      "title": "United Nations Statistics Division - M49 standard",
+      "url": "https://unstats.un.org/unsd/methodology/m49/"
+    }
+  ],
+  "tags": [
+    "regiones",
+    "america",
+    "costa-rica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

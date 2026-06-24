@@ -1,0 +1,43 @@
+{
+  "id": "q-000729",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Manila?",
+  "answers": [
+    {
+      "text": "Lesoto",
+      "correct": false
+    },
+    {
+      "text": "Filipinas",
+      "correct": true
+    },
+    {
+      "text": "Croacia",
+      "correct": false
+    },
+    {
+      "text": "Islas Caimán",
+      "correct": false
+    }
+  ],
+  "explanation": "Manila es la capital de Filipinas.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "manila",
+    "filipinas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

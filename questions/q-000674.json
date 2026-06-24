@@ -1,0 +1,44 @@
+{
+  "id": "q-000674",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Cromo?",
+  "answers": [
+    {
+      "text": "15",
+      "correct": false
+    },
+    {
+      "text": "68",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": true
+    },
+    {
+      "text": "12",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Cromo tiene número atómico 24.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "cromo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

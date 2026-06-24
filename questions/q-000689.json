@@ -1,0 +1,44 @@
+{
+  "id": "q-000689",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Renio?",
+  "answers": [
+    {
+      "text": "Pb",
+      "correct": false
+    },
+    {
+      "text": "Md",
+      "correct": false
+    },
+    {
+      "text": "Er",
+      "correct": false
+    },
+    {
+      "text": "Re",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo del elemento Renio es Re.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "renio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

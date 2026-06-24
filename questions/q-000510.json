@@ -1,0 +1,43 @@
+{
+  "id": "q-000510",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Nuku'alofa?",
+  "answers": [
+    {
+      "text": "Yibuti",
+      "correct": false
+    },
+    {
+      "text": "Tonga",
+      "correct": true
+    },
+    {
+      "text": "Kazajistán",
+      "correct": false
+    },
+    {
+      "text": "Argentina",
+      "correct": false
+    }
+  ],
+  "explanation": "Nuku'alofa es la capital de Tonga.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "nuku-alofa",
+    "tonga"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-001037",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Nobelio?",
+  "answers": [
+    {
+      "text": "102",
+      "correct": true
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "55",
+      "correct": false
+    },
+    {
+      "text": "29",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Nobelio tiene número atómico 102.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "nobelio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

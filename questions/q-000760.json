@@ -1,0 +1,43 @@
+{
+  "id": "q-000760",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Malasia?",
+  "answers": [
+    {
+      "text": "Riyadh",
+      "correct": false
+    },
+    {
+      "text": "Kuala Lumpur",
+      "correct": true
+    },
+    {
+      "text": "Palikir",
+      "correct": false
+    },
+    {
+      "text": "Amman",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Malasia es Kuala Lumpur.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "malasia",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

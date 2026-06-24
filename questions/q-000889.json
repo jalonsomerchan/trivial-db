@@ -1,0 +1,44 @@
+{
+  "id": "q-000889",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Cadmio?",
+  "answers": [
+    {
+      "text": "89",
+      "correct": false
+    },
+    {
+      "text": "48",
+      "correct": true
+    },
+    {
+      "text": "94",
+      "correct": false
+    },
+    {
+      "text": "55",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Cadmio tiene número atómico 48.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "cadmio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

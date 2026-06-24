@@ -1,0 +1,44 @@
+{
+  "id": "q-000419",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Sc?",
+  "answers": [
+    {
+      "text": "Torio",
+      "correct": false
+    },
+    {
+      "text": "Escandio",
+      "correct": true
+    },
+    {
+      "text": "Oxígeno",
+      "correct": false
+    },
+    {
+      "text": "Aluminio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Sc corresponde al elemento Escandio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "escandio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

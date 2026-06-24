@@ -1,0 +1,44 @@
+{
+  "id": "q-001017",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Silicio?",
+  "answers": [
+    {
+      "text": "W",
+      "correct": false
+    },
+    {
+      "text": "Mc",
+      "correct": false
+    },
+    {
+      "text": "Ar",
+      "correct": false
+    },
+    {
+      "text": "Si",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo del elemento Silicio es Si.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "silicio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

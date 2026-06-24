@@ -1,0 +1,43 @@
+{
+  "id": "q-000094",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Bishkek?",
+  "answers": [
+    {
+      "text": "Somalia",
+      "correct": false
+    },
+    {
+      "text": "Mónaco",
+      "correct": false
+    },
+    {
+      "text": "Lituania",
+      "correct": false
+    },
+    {
+      "text": "Kirguistán",
+      "correct": true
+    }
+  ],
+  "explanation": "Bishkek es la capital de Kirguistán.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "bishkek",
+    "kirguistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

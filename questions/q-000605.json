@@ -1,0 +1,43 @@
+{
+  "id": "q-000605",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-3 de Liechtenstein?",
+  "answers": [
+    {
+      "text": "TUN",
+      "correct": false
+    },
+    {
+      "text": "PAK",
+      "correct": false
+    },
+    {
+      "text": "LIE",
+      "correct": true
+    },
+    {
+      "text": "BHR",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-3 de Liechtenstein es LIE.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "liechtenstein"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

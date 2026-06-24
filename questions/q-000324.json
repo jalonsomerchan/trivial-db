@@ -1,0 +1,44 @@
+{
+  "id": "q-000324",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Rutenio?",
+  "answers": [
+    {
+      "text": "Fe",
+      "correct": false
+    },
+    {
+      "text": "Es",
+      "correct": false
+    },
+    {
+      "text": "Ru",
+      "correct": true
+    },
+    {
+      "text": "Te",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo del elemento Rutenio es Ru.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "rutenio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

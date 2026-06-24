@@ -1,0 +1,44 @@
+{
+  "id": "q-000127",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Californio?",
+  "answers": [
+    {
+      "text": "96",
+      "correct": false
+    },
+    {
+      "text": "105",
+      "correct": false
+    },
+    {
+      "text": "98",
+      "correct": true
+    },
+    {
+      "text": "6",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Californio tiene número atómico 98.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "californio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

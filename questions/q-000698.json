@@ -1,0 +1,43 @@
+{
+  "id": "q-000698",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Dili?",
+  "answers": [
+    {
+      "text": "Islas Feroe",
+      "correct": false
+    },
+    {
+      "text": "Timor-Leste",
+      "correct": true
+    },
+    {
+      "text": "Noruega",
+      "correct": false
+    },
+    {
+      "text": "Barbados",
+      "correct": false
+    }
+  ],
+  "explanation": "Dili es la capital de Timor-Leste.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "dili",
+    "timor-leste"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

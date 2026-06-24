@@ -1,0 +1,43 @@
+{
+  "id": "q-000767",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Zimbabue?",
+  "answers": [
+    {
+      "text": "Harare",
+      "correct": true
+    },
+    {
+      "text": "Havana",
+      "correct": false
+    },
+    {
+      "text": "Bangui",
+      "correct": false
+    },
+    {
+      "text": "City of San Marino",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Zimbabue es Harare.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "zimbabue",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

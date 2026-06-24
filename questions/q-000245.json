@@ -1,0 +1,43 @@
+{
+  "id": "q-000245",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Managua?",
+  "answers": [
+    {
+      "text": "Nicaragua",
+      "correct": true
+    },
+    {
+      "text": "Ghana",
+      "correct": false
+    },
+    {
+      "text": "Chequia",
+      "correct": false
+    },
+    {
+      "text": "Ecuador",
+      "correct": false
+    }
+  ],
+  "explanation": "Managua es la capital de Nicaragua.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "managua",
+    "nicaragua"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000193",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Abu Dhabi?",
+  "answers": [
+    {
+      "text": "Emiratos Árabes Unidos",
+      "correct": true
+    },
+    {
+      "text": "Azerbaiyán",
+      "correct": false
+    },
+    {
+      "text": "RAE de Hong Kong (China)",
+      "correct": false
+    },
+    {
+      "text": "Cuba",
+      "correct": false
+    }
+  ],
+  "explanation": "Abu Dhabi es la capital de Emiratos Árabes Unidos.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "abu-dhabi",
+    "emiratos-arabes-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

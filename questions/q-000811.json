@@ -1,0 +1,44 @@
+{
+  "id": "q-000811",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Radón?",
+  "answers": [
+    {
+      "text": "8",
+      "correct": false
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "17",
+      "correct": false
+    },
+    {
+      "text": "86",
+      "correct": true
+    }
+  ],
+  "explanation": "El elemento Radón tiene número atómico 86.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "radon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

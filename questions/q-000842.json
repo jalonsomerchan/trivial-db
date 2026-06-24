@@ -1,0 +1,44 @@
+{
+  "id": "q-000842",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Escandio?",
+  "answers": [
+    {
+      "text": "6",
+      "correct": false
+    },
+    {
+      "text": "21",
+      "correct": true
+    },
+    {
+      "text": "70",
+      "correct": false
+    },
+    {
+      "text": "9",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Escandio tiene número atómico 21.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "escandio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

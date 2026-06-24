@@ -1,0 +1,44 @@
+{
+  "id": "q-000806",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Be?",
+  "answers": [
+    {
+      "text": "Germanio",
+      "correct": false
+    },
+    {
+      "text": "Berilio",
+      "correct": true
+    },
+    {
+      "text": "Hassio",
+      "correct": false
+    },
+    {
+      "text": "Copernicio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Be corresponde al elemento Berilio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "berilio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

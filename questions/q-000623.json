@@ -1,0 +1,43 @@
+{
+  "id": "q-000623",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Yaren?",
+  "answers": [
+    {
+      "text": "Seychelles",
+      "correct": false
+    },
+    {
+      "text": "Nauru",
+      "correct": true
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Isla Norfolk",
+      "correct": false
+    }
+  ],
+  "explanation": "Yaren es la capital de Nauru.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "yaren",
+    "nauru"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

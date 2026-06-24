@@ -1,0 +1,44 @@
+{
+  "id": "q-000924",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Bromo?",
+  "answers": [
+    {
+      "text": "Br",
+      "correct": true
+    },
+    {
+      "text": "N",
+      "correct": false
+    },
+    {
+      "text": "Fr",
+      "correct": false
+    },
+    {
+      "text": "Xe",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo del elemento Bromo es Br.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "bromo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

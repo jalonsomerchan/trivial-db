@@ -1,0 +1,43 @@
+{
+  "id": "q-000468",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital West Island?",
+  "answers": [
+    {
+      "text": "Armenia",
+      "correct": false
+    },
+    {
+      "text": "Islas Cocos",
+      "correct": true
+    },
+    {
+      "text": "Moldavia",
+      "correct": false
+    },
+    {
+      "text": "Laos",
+      "correct": false
+    }
+  ],
+  "explanation": "West Island es la capital de Islas Cocos.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "west-island",
+    "islas-cocos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

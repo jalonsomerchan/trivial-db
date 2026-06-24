@@ -1,0 +1,43 @@
+{
+  "id": "q-000733",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "regiones-continentales"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué región continental se clasifica Jersey?",
+  "answers": [
+    {
+      "text": "Asia",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": true
+    },
+    {
+      "text": "Oceanía",
+      "correct": false
+    }
+  ],
+  "explanation": "Jersey se clasifica en la región continental de Europa.",
+  "sources": [
+    {
+      "title": "United Nations Statistics Division - M49 standard",
+      "url": "https://unstats.un.org/unsd/methodology/m49/"
+    }
+  ],
+  "tags": [
+    "regiones",
+    "europa",
+    "jersey"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

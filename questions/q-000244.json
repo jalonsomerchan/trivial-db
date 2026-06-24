@@ -1,0 +1,43 @@
+{
+  "id": "q-000244",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-2 de RAE de Hong Kong (China)?",
+  "answers": [
+    {
+      "text": "LR",
+      "correct": false
+    },
+    {
+      "text": "JP",
+      "correct": false
+    },
+    {
+      "text": "SJ",
+      "correct": false
+    },
+    {
+      "text": "HK",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-2 de RAE de Hong Kong (China) es HK.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "rae-de-hong-kong-china"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

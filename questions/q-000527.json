@@ -1,0 +1,43 @@
+{
+  "id": "q-000527",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "regiones-continentales"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué región continental se clasifica Eritrea?",
+  "answers": [
+    {
+      "text": "América",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": false
+    },
+    {
+      "text": "Oceanía",
+      "correct": false
+    },
+    {
+      "text": "África",
+      "correct": true
+    }
+  ],
+  "explanation": "Eritrea se clasifica en la región continental de África.",
+  "sources": [
+    {
+      "title": "United Nations Statistics Division - M49 standard",
+      "url": "https://unstats.un.org/unsd/methodology/m49/"
+    }
+  ],
+  "tags": [
+    "regiones",
+    "africa",
+    "eritrea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

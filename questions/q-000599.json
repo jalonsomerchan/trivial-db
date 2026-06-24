@@ -1,0 +1,44 @@
+{
+  "id": "q-000599",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Mo?",
+  "answers": [
+    {
+      "text": "Hassio",
+      "correct": false
+    },
+    {
+      "text": "Praseodimio",
+      "correct": false
+    },
+    {
+      "text": "Manganeso",
+      "correct": false
+    },
+    {
+      "text": "Molibdeno",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico Mo corresponde al elemento Molibdeno.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "molibdeno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

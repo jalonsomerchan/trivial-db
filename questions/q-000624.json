@@ -1,0 +1,43 @@
+{
+  "id": "q-000624",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-2 de Portugal?",
+  "answers": [
+    {
+      "text": "PT",
+      "correct": true
+    },
+    {
+      "text": "HK",
+      "correct": false
+    },
+    {
+      "text": "CI",
+      "correct": false
+    },
+    {
+      "text": "TZ",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-2 de Portugal es PT.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "portugal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

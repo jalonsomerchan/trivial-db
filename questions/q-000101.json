@@ -1,0 +1,43 @@
+{
+  "id": "q-000101",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "regiones-continentales"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué región continental se clasifica Groenlandia?",
+  "answers": [
+    {
+      "text": "África",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": true
+    },
+    {
+      "text": "Europa",
+      "correct": false
+    },
+    {
+      "text": "Oceanía",
+      "correct": false
+    }
+  ],
+  "explanation": "Groenlandia se clasifica en la región continental de América.",
+  "sources": [
+    {
+      "title": "United Nations Statistics Division - M49 standard",
+      "url": "https://unstats.un.org/unsd/methodology/m49/"
+    }
+  ],
+  "tags": [
+    "regiones",
+    "america",
+    "groenlandia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

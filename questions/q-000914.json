@@ -1,0 +1,43 @@
+{
+  "id": "q-000914",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Port-au-Prince?",
+  "answers": [
+    {
+      "text": "Ecuador",
+      "correct": false
+    },
+    {
+      "text": "Haití",
+      "correct": true
+    },
+    {
+      "text": "Malaui",
+      "correct": false
+    },
+    {
+      "text": "Corea del Sur",
+      "correct": false
+    }
+  ],
+  "explanation": "Port-au-Prince es la capital de Haití.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "port-au-prince",
+    "haiti"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

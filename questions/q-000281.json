@@ -1,0 +1,44 @@
+{
+  "id": "q-000281",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Erbio?",
+  "answers": [
+    {
+      "text": "27",
+      "correct": false
+    },
+    {
+      "text": "16",
+      "correct": false
+    },
+    {
+      "text": "68",
+      "correct": true
+    },
+    {
+      "text": "5",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Erbio tiene número atómico 68.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "erbio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

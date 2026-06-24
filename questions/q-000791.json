@@ -1,0 +1,43 @@
+{
+  "id": "q-000791",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Apia?",
+  "answers": [
+    {
+      "text": "Burundi",
+      "correct": false
+    },
+    {
+      "text": "Kazajistán",
+      "correct": false
+    },
+    {
+      "text": "Samoa",
+      "correct": true
+    },
+    {
+      "text": "Camboya",
+      "correct": false
+    }
+  ],
+  "explanation": "Apia es la capital de Samoa.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "apia",
+    "samoa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

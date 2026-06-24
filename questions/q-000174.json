@@ -1,0 +1,44 @@
+{
+  "id": "q-000174",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Rh?",
+  "answers": [
+    {
+      "text": "Rodio",
+      "correct": true
+    },
+    {
+      "text": "Neón",
+      "correct": false
+    },
+    {
+      "text": "Cloro",
+      "correct": false
+    },
+    {
+      "text": "Cesio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Rh corresponde al elemento Rodio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "rodio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

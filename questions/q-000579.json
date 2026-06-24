@@ -1,0 +1,43 @@
+{
+  "id": "q-000579",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "regiones-continentales"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué región continental se clasifica Sierra Leona?",
+  "answers": [
+    {
+      "text": "América",
+      "correct": false
+    },
+    {
+      "text": "Oceanía",
+      "correct": false
+    },
+    {
+      "text": "Asia",
+      "correct": false
+    },
+    {
+      "text": "África",
+      "correct": true
+    }
+  ],
+  "explanation": "Sierra Leona se clasifica en la región continental de África.",
+  "sources": [
+    {
+      "title": "United Nations Statistics Division - M49 standard",
+      "url": "https://unstats.un.org/unsd/methodology/m49/"
+    }
+  ],
+  "tags": [
+    "regiones",
+    "africa",
+    "sierra-leona"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

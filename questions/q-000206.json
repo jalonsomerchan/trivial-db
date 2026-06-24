@@ -1,0 +1,43 @@
+{
+  "id": "q-000206",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Rabat?",
+  "answers": [
+    {
+      "text": "Eslovenia",
+      "correct": false
+    },
+    {
+      "text": "Bulgaria",
+      "correct": false
+    },
+    {
+      "text": "Marruecos",
+      "correct": true
+    },
+    {
+      "text": "Uzbekistán",
+      "correct": false
+    }
+  ],
+  "explanation": "Rabat es la capital de Marruecos.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "rabat",
+    "marruecos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

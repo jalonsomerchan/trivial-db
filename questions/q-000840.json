@@ -1,0 +1,44 @@
+{
+  "id": "q-000840",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Plutonio?",
+  "answers": [
+    {
+      "text": "Li",
+      "correct": false
+    },
+    {
+      "text": "Kr",
+      "correct": false
+    },
+    {
+      "text": "Lv",
+      "correct": false
+    },
+    {
+      "text": "Pu",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo del elemento Plutonio es Pu.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "plutonio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

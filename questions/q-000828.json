@@ -1,0 +1,43 @@
+{
+  "id": "q-000828",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-3 de San Cristóbal y Nieves?",
+  "answers": [
+    {
+      "text": "GUF",
+      "correct": false
+    },
+    {
+      "text": "KNA",
+      "correct": true
+    },
+    {
+      "text": "CCK",
+      "correct": false
+    },
+    {
+      "text": "MSR",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-3 de San Cristóbal y Nieves es KNA.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "san-cristobal-y-nieves"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000311",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de México?",
+  "answers": [
+    {
+      "text": "Nairobi",
+      "correct": false
+    },
+    {
+      "text": "Quito",
+      "correct": false
+    },
+    {
+      "text": "Oranjestad",
+      "correct": false
+    },
+    {
+      "text": "Mexico City",
+      "correct": true
+    }
+  ],
+  "explanation": "La capital de México es Mexico City.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "mexico",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

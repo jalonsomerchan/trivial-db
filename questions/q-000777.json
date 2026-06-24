@@ -1,0 +1,43 @@
+{
+  "id": "q-000777",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Kenia?",
+  "answers": [
+    {
+      "text": "Bucharest",
+      "correct": false
+    },
+    {
+      "text": "Panama City",
+      "correct": false
+    },
+    {
+      "text": "Nairobi",
+      "correct": true
+    },
+    {
+      "text": "Oslo",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Kenia es Nairobi.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "kenia",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

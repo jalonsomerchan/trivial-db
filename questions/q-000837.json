@@ -1,0 +1,43 @@
+{
+  "id": "q-000837",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Seoul?",
+  "answers": [
+    {
+      "text": "Kirguistán",
+      "correct": false
+    },
+    {
+      "text": "Nepal",
+      "correct": false
+    },
+    {
+      "text": "Yemen",
+      "correct": false
+    },
+    {
+      "text": "Corea del Sur",
+      "correct": true
+    }
+  ],
+  "explanation": "Seoul es la capital de Corea del Sur.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "seoul",
+    "corea-del-sur"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

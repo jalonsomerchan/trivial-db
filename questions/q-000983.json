@@ -1,0 +1,44 @@
+{
+  "id": "q-000983",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Zn?",
+  "answers": [
+    {
+      "text": "Oganesón",
+      "correct": false
+    },
+    {
+      "text": "Zinc",
+      "correct": true
+    },
+    {
+      "text": "Teneso",
+      "correct": false
+    },
+    {
+      "text": "Erbio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Zn corresponde al elemento Zinc.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "zinc"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

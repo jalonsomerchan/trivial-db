@@ -1,0 +1,44 @@
+{
+  "id": "q-000384",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Paladio?",
+  "answers": [
+    {
+      "text": "7",
+      "correct": false
+    },
+    {
+      "text": "110",
+      "correct": false
+    },
+    {
+      "text": "32",
+      "correct": false
+    },
+    {
+      "text": "46",
+      "correct": true
+    }
+  ],
+  "explanation": "El elemento Paladio tiene número atómico 46.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "paladio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

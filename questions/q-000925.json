@@ -1,0 +1,43 @@
+{
+  "id": "q-000925",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Washington D.C.?",
+  "answers": [
+    {
+      "text": "Marruecos",
+      "correct": false
+    },
+    {
+      "text": "Zimbabue",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    }
+  ],
+  "explanation": "Washington D.C. es la capital de Estados Unidos.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "washington-d-c",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

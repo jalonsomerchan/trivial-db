@@ -1,0 +1,44 @@
+{
+  "id": "q-000321",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo N?",
+  "answers": [
+    {
+      "text": "Nitrógeno",
+      "correct": true
+    },
+    {
+      "text": "Manganeso",
+      "correct": false
+    },
+    {
+      "text": "Dubnio",
+      "correct": false
+    },
+    {
+      "text": "Cobre",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico N corresponde al elemento Nitrógeno.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "nitrogeno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

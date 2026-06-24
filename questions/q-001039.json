@@ -1,0 +1,43 @@
+{
+  "id": "q-001039",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Alofi?",
+  "answers": [
+    {
+      "text": "Niue",
+      "correct": true
+    },
+    {
+      "text": "Islas Georgia del Sur y Sandwich del Sur",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Ghana",
+      "correct": false
+    }
+  ],
+  "explanation": "Alofi es la capital de Niue.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "alofi",
+    "niue"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

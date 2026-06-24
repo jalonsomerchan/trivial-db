@@ -1,0 +1,43 @@
+{
+  "id": "q-000395",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Libreville?",
+  "answers": [
+    {
+      "text": "Gabón",
+      "correct": true
+    },
+    {
+      "text": "Uruguay",
+      "correct": false
+    },
+    {
+      "text": "Madagascar",
+      "correct": false
+    },
+    {
+      "text": "Islas Cocos",
+      "correct": false
+    }
+  ],
+  "explanation": "Libreville es la capital de Gabón.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "libreville",
+    "gabon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

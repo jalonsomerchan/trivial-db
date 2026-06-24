@@ -1,0 +1,43 @@
+{
+  "id": "q-000291",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Jerusalem?",
+  "answers": [
+    {
+      "text": "El Salvador",
+      "correct": false
+    },
+    {
+      "text": "Bahamas",
+      "correct": false
+    },
+    {
+      "text": "Israel",
+      "correct": true
+    },
+    {
+      "text": "Omán",
+      "correct": false
+    }
+  ],
+  "explanation": "Jerusalem es la capital de Israel.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "jerusalem",
+    "israel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000529",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Co?",
+  "answers": [
+    {
+      "text": "Neptunio",
+      "correct": false
+    },
+    {
+      "text": "Cobalto",
+      "correct": true
+    },
+    {
+      "text": "Wolframio",
+      "correct": false
+    },
+    {
+      "text": "Helio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Co corresponde al elemento Cobalto.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "cobalto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000467",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Taiwán?",
+  "answers": [
+    {
+      "text": "Taipei",
+      "correct": true
+    },
+    {
+      "text": "City of Victoria",
+      "correct": false
+    },
+    {
+      "text": "Nicosia",
+      "correct": false
+    },
+    {
+      "text": "Kuwait City",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Taiwán es Taipei.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "taiwan",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

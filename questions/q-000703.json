@@ -1,0 +1,44 @@
+{
+  "id": "q-000703",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Circonio?",
+  "answers": [
+    {
+      "text": "Ga",
+      "correct": false
+    },
+    {
+      "text": "Zr",
+      "correct": true
+    },
+    {
+      "text": "Nb",
+      "correct": false
+    },
+    {
+      "text": "C",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo del elemento Circonio es Zr.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "circonio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000447",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Rumanía?",
+  "answers": [
+    {
+      "text": "Moroni",
+      "correct": false
+    },
+    {
+      "text": "Santo Domingo",
+      "correct": false
+    },
+    {
+      "text": "Riyadh",
+      "correct": false
+    },
+    {
+      "text": "Bucharest",
+      "correct": true
+    }
+  ],
+  "explanation": "La capital de Rumanía es Bucharest.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "rumania",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

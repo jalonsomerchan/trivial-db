@@ -1,0 +1,43 @@
+{
+  "id": "q-000123",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Saipan?",
+  "answers": [
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "Islas Marianas del Norte",
+      "correct": true
+    },
+    {
+      "text": "Mongolia",
+      "correct": false
+    },
+    {
+      "text": "Líbano",
+      "correct": false
+    }
+  ],
+  "explanation": "Saipan es la capital de Islas Marianas del Norte.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "saipan",
+    "islas-marianas-del-norte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

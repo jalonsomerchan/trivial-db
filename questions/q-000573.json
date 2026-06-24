@@ -1,0 +1,43 @@
+{
+  "id": "q-000573",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Moroni?",
+  "answers": [
+    {
+      "text": "Comoras",
+      "correct": true
+    },
+    {
+      "text": "Chipre",
+      "correct": false
+    },
+    {
+      "text": "Kenia",
+      "correct": false
+    },
+    {
+      "text": "Zambia",
+      "correct": false
+    }
+  ],
+  "explanation": "Moroni es la capital de Comoras.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "moroni",
+    "comoras"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

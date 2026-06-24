@@ -1,0 +1,43 @@
+{
+  "id": "q-000348",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-2 de Eslovenia?",
+  "answers": [
+    {
+      "text": "FM",
+      "correct": false
+    },
+    {
+      "text": "MC",
+      "correct": false
+    },
+    {
+      "text": "IR",
+      "correct": false
+    },
+    {
+      "text": "SI",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-2 de Eslovenia es SI.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "eslovenia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

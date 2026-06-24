@@ -1,0 +1,44 @@
+{
+  "id": "q-000937",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Ac?",
+  "answers": [
+    {
+      "text": "Disprosio",
+      "correct": false
+    },
+    {
+      "text": "Platino",
+      "correct": false
+    },
+    {
+      "text": "Actinio",
+      "correct": true
+    },
+    {
+      "text": "Moscovio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Ac corresponde al elemento Actinio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "actinio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

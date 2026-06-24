@@ -1,0 +1,43 @@
+{
+  "id": "q-000214",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Chipre?",
+  "answers": [
+    {
+      "text": "Port Vila",
+      "correct": false
+    },
+    {
+      "text": "Nicosia",
+      "correct": true
+    },
+    {
+      "text": "Diego Garcia",
+      "correct": false
+    },
+    {
+      "text": "Antananarivo",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Chipre es Nicosia.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "chipre",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

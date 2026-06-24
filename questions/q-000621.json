@@ -1,0 +1,43 @@
+{
+  "id": "q-000621",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "regiones-continentales"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué región continental se clasifica RAE de Hong Kong (China)?",
+  "answers": [
+    {
+      "text": "Asia",
+      "correct": true
+    },
+    {
+      "text": "África",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": false
+    }
+  ],
+  "explanation": "RAE de Hong Kong (China) se clasifica en la región continental de Asia.",
+  "sources": [
+    {
+      "title": "United Nations Statistics Division - M49 standard",
+      "url": "https://unstats.un.org/unsd/methodology/m49/"
+    }
+  ],
+  "tags": [
+    "regiones",
+    "asia",
+    "rae-de-hong-kong-china"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

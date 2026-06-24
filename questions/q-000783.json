@@ -1,0 +1,43 @@
+{
+  "id": "q-000783",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital George Town?",
+  "answers": [
+    {
+      "text": "Islas Caimán",
+      "correct": true
+    },
+    {
+      "text": "Côte d’Ivoire",
+      "correct": false
+    },
+    {
+      "text": "Islandia",
+      "correct": false
+    },
+    {
+      "text": "Kirguistán",
+      "correct": false
+    }
+  ],
+  "explanation": "George Town es la capital de Islas Caimán.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "george-town",
+    "islas-caiman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

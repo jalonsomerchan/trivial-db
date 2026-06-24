@@ -1,0 +1,44 @@
+{
+  "id": "q-000283",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Tulio?",
+  "answers": [
+    {
+      "text": "17",
+      "correct": false
+    },
+    {
+      "text": "50",
+      "correct": false
+    },
+    {
+      "text": "69",
+      "correct": true
+    },
+    {
+      "text": "79",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Tulio tiene número atómico 69.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "tulio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

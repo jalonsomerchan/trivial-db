@@ -1,0 +1,44 @@
+{
+  "id": "q-000351",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Darmstadtio?",
+  "answers": [
+    {
+      "text": "110",
+      "correct": true
+    },
+    {
+      "text": "10",
+      "correct": false
+    },
+    {
+      "text": "118",
+      "correct": false
+    },
+    {
+      "text": "112",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Darmstadtio tiene número atómico 110.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "darmstadtio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000355",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Astato?",
+  "answers": [
+    {
+      "text": "74",
+      "correct": false
+    },
+    {
+      "text": "54",
+      "correct": false
+    },
+    {
+      "text": "6",
+      "correct": false
+    },
+    {
+      "text": "85",
+      "correct": true
+    }
+  ],
+  "explanation": "El elemento Astato tiene número atómico 85.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "astato"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000656",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Roentgenio?",
+  "answers": [
+    {
+      "text": "81",
+      "correct": false
+    },
+    {
+      "text": "75",
+      "correct": false
+    },
+    {
+      "text": "117",
+      "correct": false
+    },
+    {
+      "text": "111",
+      "correct": true
+    }
+  ],
+  "explanation": "El elemento Roentgenio tiene número atómico 111.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "roentgenio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

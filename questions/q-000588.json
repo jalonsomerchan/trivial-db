@@ -1,0 +1,44 @@
+{
+  "id": "q-000588",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Ar?",
+  "answers": [
+    {
+      "text": "Argón",
+      "correct": true
+    },
+    {
+      "text": "Circonio",
+      "correct": false
+    },
+    {
+      "text": "Iridio",
+      "correct": false
+    },
+    {
+      "text": "Erbio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Ar corresponde al elemento Argón.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "argon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

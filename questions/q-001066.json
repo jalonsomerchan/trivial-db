@@ -1,0 +1,43 @@
+{
+  "id": "q-001066",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital N'Djamena?",
+  "answers": [
+    {
+      "text": "Ecuador",
+      "correct": false
+    },
+    {
+      "text": "Trinidad y Tobago",
+      "correct": false
+    },
+    {
+      "text": "Groenlandia",
+      "correct": false
+    },
+    {
+      "text": "Chad",
+      "correct": true
+    }
+  ],
+  "explanation": "N'Djamena es la capital de Chad.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "n-djamena",
+    "chad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

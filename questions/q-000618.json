@@ -1,0 +1,44 @@
+{
+  "id": "q-000618",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Azufre?",
+  "answers": [
+    {
+      "text": "Ag",
+      "correct": false
+    },
+    {
+      "text": "Y",
+      "correct": false
+    },
+    {
+      "text": "S",
+      "correct": true
+    },
+    {
+      "text": "Te",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo del elemento Azufre es S.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "azufre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

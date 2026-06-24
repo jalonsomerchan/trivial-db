@@ -1,0 +1,43 @@
+{
+  "id": "q-000904",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "regiones-continentales"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué región continental se clasifica Tuvalu?",
+  "answers": [
+    {
+      "text": "Asia",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": false
+    },
+    {
+      "text": "Europa",
+      "correct": false
+    },
+    {
+      "text": "Oceanía",
+      "correct": true
+    }
+  ],
+  "explanation": "Tuvalu se clasifica en la región continental de Oceanía.",
+  "sources": [
+    {
+      "title": "United Nations Statistics Division - M49 standard",
+      "url": "https://unstats.un.org/unsd/methodology/m49/"
+    }
+  ],
+  "tags": [
+    "regiones",
+    "oceania",
+    "tuvalu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

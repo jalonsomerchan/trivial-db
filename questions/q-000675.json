@@ -1,0 +1,43 @@
+{
+  "id": "q-000675",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital The Valley?",
+  "answers": [
+    {
+      "text": "Dominica",
+      "correct": false
+    },
+    {
+      "text": "Islas Feroe",
+      "correct": false
+    },
+    {
+      "text": "Anguila",
+      "correct": true
+    },
+    {
+      "text": "Eslovenia",
+      "correct": false
+    }
+  ],
+  "explanation": "The Valley es la capital de Anguila.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "the-valley",
+    "anguila"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

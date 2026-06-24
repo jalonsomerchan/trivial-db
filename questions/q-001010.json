@@ -1,0 +1,44 @@
+{
+  "id": "q-001010",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Potasio?",
+  "answers": [
+    {
+      "text": "24",
+      "correct": false
+    },
+    {
+      "text": "79",
+      "correct": false
+    },
+    {
+      "text": "19",
+      "correct": true
+    },
+    {
+      "text": "52",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Potasio tiene número atómico 19.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "potasio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

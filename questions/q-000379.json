@@ -1,0 +1,44 @@
+{
+  "id": "q-000379",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Rodio?",
+  "answers": [
+    {
+      "text": "Sc",
+      "correct": false
+    },
+    {
+      "text": "Md",
+      "correct": false
+    },
+    {
+      "text": "Ge",
+      "correct": false
+    },
+    {
+      "text": "Rh",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo del elemento Rodio es Rh.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "rodio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

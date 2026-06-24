@@ -1,0 +1,43 @@
+{
+  "id": "q-000218",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-3 de Puerto Rico?",
+  "answers": [
+    {
+      "text": "GUM",
+      "correct": false
+    },
+    {
+      "text": "LTU",
+      "correct": false
+    },
+    {
+      "text": "ROU",
+      "correct": false
+    },
+    {
+      "text": "PRI",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-3 de Puerto Rico es PRI.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "puerto-rico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

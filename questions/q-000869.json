@@ -1,0 +1,43 @@
+{
+  "id": "q-000869",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-3 de Guatemala?",
+  "answers": [
+    {
+      "text": "POL",
+      "correct": false
+    },
+    {
+      "text": "CZE",
+      "correct": false
+    },
+    {
+      "text": "GTM",
+      "correct": true
+    },
+    {
+      "text": "MNP",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-3 de Guatemala es GTM.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "guatemala"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

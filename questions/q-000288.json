@@ -1,0 +1,43 @@
+{
+  "id": "q-000288",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Pago Pago?",
+  "answers": [
+    {
+      "text": "Samoa Americana",
+      "correct": true
+    },
+    {
+      "text": "Cuba",
+      "correct": false
+    },
+    {
+      "text": "Fiyi",
+      "correct": false
+    },
+    {
+      "text": "Guadalupe",
+      "correct": false
+    }
+  ],
+  "explanation": "Pago Pago es la capital de Samoa Americana.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "pago-pago",
+    "samoa-americana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

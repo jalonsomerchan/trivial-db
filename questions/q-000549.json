@@ -1,0 +1,44 @@
+{
+  "id": "q-000549",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Fl?",
+  "answers": [
+    {
+      "text": "Neptunio",
+      "correct": false
+    },
+    {
+      "text": "Flerovio",
+      "correct": true
+    },
+    {
+      "text": "Teneso",
+      "correct": false
+    },
+    {
+      "text": "Escandio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Fl corresponde al elemento Flerovio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "flerovio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

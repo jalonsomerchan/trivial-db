@@ -1,0 +1,43 @@
+{
+  "id": "q-000764",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-2 de Nueva Zelanda?",
+  "answers": [
+    {
+      "text": "GB",
+      "correct": false
+    },
+    {
+      "text": "NZ",
+      "correct": true
+    },
+    {
+      "text": "LY",
+      "correct": false
+    },
+    {
+      "text": "BF",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-2 de Nueva Zelanda es NZ.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "nueva-zelanda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

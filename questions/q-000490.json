@@ -1,0 +1,43 @@
+{
+  "id": "q-000490",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Oranjestad?",
+  "answers": [
+    {
+      "text": "Aruba",
+      "correct": true
+    },
+    {
+      "text": "Marruecos",
+      "correct": false
+    },
+    {
+      "text": "Nicaragua",
+      "correct": false
+    },
+    {
+      "text": "Zambia",
+      "correct": false
+    }
+  ],
+  "explanation": "Oranjestad es la capital de Aruba.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "oranjestad",
+    "aruba"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

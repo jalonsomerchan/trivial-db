@@ -1,0 +1,43 @@
+{
+  "id": "q-000517",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-3 de Bolivia?",
+  "answers": [
+    {
+      "text": "BOL",
+      "correct": true
+    },
+    {
+      "text": "ATG",
+      "correct": false
+    },
+    {
+      "text": "JAM",
+      "correct": false
+    },
+    {
+      "text": "NFK",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-3 de Bolivia es BOL.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "bolivia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

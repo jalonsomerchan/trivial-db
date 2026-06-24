@@ -1,0 +1,43 @@
+{
+  "id": "q-001082",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Phnom Penh?",
+  "answers": [
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "Camboya",
+      "correct": true
+    },
+    {
+      "text": "República Centroafricana",
+      "correct": false
+    },
+    {
+      "text": "Níger",
+      "correct": false
+    }
+  ],
+  "explanation": "Phnom Penh es la capital de Camboya.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "phnom-penh",
+    "camboya"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

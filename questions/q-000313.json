@@ -1,0 +1,43 @@
+{
+  "id": "q-000313",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Kazajistán?",
+  "answers": [
+    {
+      "text": "Malé",
+      "correct": false
+    },
+    {
+      "text": "Kingstown",
+      "correct": false
+    },
+    {
+      "text": "Bogotá",
+      "correct": false
+    },
+    {
+      "text": "Astana",
+      "correct": true
+    }
+  ],
+  "explanation": "La capital de Kazajistán es Astana.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "kazajistan",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

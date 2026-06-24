@@ -1,0 +1,44 @@
+{
+  "id": "q-000667",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Mg?",
+  "answers": [
+    {
+      "text": "Rubidio",
+      "correct": false
+    },
+    {
+      "text": "Calcio",
+      "correct": false
+    },
+    {
+      "text": "Magnesio",
+      "correct": true
+    },
+    {
+      "text": "Tantalio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Mg corresponde al elemento Magnesio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "magnesio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

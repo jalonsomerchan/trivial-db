@@ -1,0 +1,44 @@
+{
+  "id": "q-000839",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Sodio?",
+  "answers": [
+    {
+      "text": "Bh",
+      "correct": false
+    },
+    {
+      "text": "Rg",
+      "correct": false
+    },
+    {
+      "text": "Al",
+      "correct": false
+    },
+    {
+      "text": "Na",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo del elemento Sodio es Na.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "sodio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000938",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Hagåtña?",
+  "answers": [
+    {
+      "text": "Islas Cook",
+      "correct": false
+    },
+    {
+      "text": "Irlanda",
+      "correct": false
+    },
+    {
+      "text": "Anguila",
+      "correct": false
+    },
+    {
+      "text": "Guam",
+      "correct": true
+    }
+  ],
+  "explanation": "Hagåtña es la capital de Guam.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "hagatna",
+    "guam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000606",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Moscow?",
+  "answers": [
+    {
+      "text": "Rusia",
+      "correct": true
+    },
+    {
+      "text": "República Centroafricana",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Malasia",
+      "correct": false
+    }
+  ],
+  "explanation": "Moscow es la capital de Rusia.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "moscow",
+    "rusia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

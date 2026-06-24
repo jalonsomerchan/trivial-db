@@ -1,0 +1,44 @@
+{
+  "id": "q-000668",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Samario?",
+  "answers": [
+    {
+      "text": "At",
+      "correct": false
+    },
+    {
+      "text": "Pr",
+      "correct": false
+    },
+    {
+      "text": "Ac",
+      "correct": false
+    },
+    {
+      "text": "Sm",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo del elemento Samario es Sm.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "samario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000814",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-2 de Territorio Británico del Océano Índico?",
+  "answers": [
+    {
+      "text": "FO",
+      "correct": false
+    },
+    {
+      "text": "CI",
+      "correct": false
+    },
+    {
+      "text": "YE",
+      "correct": false
+    },
+    {
+      "text": "IO",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-2 de Territorio Británico del Océano Índico es IO.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "territorio-britanico-del-oceano-indico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

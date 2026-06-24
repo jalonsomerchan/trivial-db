@@ -1,0 +1,43 @@
+{
+  "id": "q-000694",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-3 de Samoa Americana?",
+  "answers": [
+    {
+      "text": "SLV",
+      "correct": false
+    },
+    {
+      "text": "ASM",
+      "correct": true
+    },
+    {
+      "text": "EST",
+      "correct": false
+    },
+    {
+      "text": "VEN",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-3 de Samoa Americana es ASM.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "samoa-americana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

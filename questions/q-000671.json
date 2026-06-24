@@ -1,0 +1,44 @@
+{
+  "id": "q-000671",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Astato?",
+  "answers": [
+    {
+      "text": "Y",
+      "correct": false
+    },
+    {
+      "text": "At",
+      "correct": true
+    },
+    {
+      "text": "Tl",
+      "correct": false
+    },
+    {
+      "text": "U",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo del elemento Astato es At.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "astato"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

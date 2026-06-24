@@ -1,0 +1,44 @@
+{
+  "id": "q-001053",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Yb?",
+  "answers": [
+    {
+      "text": "Samario",
+      "correct": false
+    },
+    {
+      "text": "Francio",
+      "correct": false
+    },
+    {
+      "text": "Iterbio",
+      "correct": true
+    },
+    {
+      "text": "Polonio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Yb corresponde al elemento Iterbio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "iterbio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000456",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Banjul?",
+  "answers": [
+    {
+      "text": "Gambia",
+      "correct": true
+    },
+    {
+      "text": "Zambia",
+      "correct": false
+    },
+    {
+      "text": "Guernesey",
+      "correct": false
+    },
+    {
+      "text": "Comoras",
+      "correct": false
+    }
+  ],
+  "explanation": "Banjul es la capital de Gambia.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "banjul",
+    "gambia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

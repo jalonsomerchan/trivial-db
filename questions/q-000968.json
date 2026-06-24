@@ -1,0 +1,44 @@
+{
+  "id": "q-000968",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Si?",
+  "answers": [
+    {
+      "text": "Silicio",
+      "correct": true
+    },
+    {
+      "text": "Dubnio",
+      "correct": false
+    },
+    {
+      "text": "Tulio",
+      "correct": false
+    },
+    {
+      "text": "Oganesón",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Si corresponde al elemento Silicio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "silicio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

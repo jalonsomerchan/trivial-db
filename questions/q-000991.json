@@ -1,0 +1,44 @@
+{
+  "id": "q-000991",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Plomo?",
+  "answers": [
+    {
+      "text": "Og",
+      "correct": false
+    },
+    {
+      "text": "Pb",
+      "correct": true
+    },
+    {
+      "text": "Rg",
+      "correct": false
+    },
+    {
+      "text": "Si",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo del elemento Plomo es Pb.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "plomo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

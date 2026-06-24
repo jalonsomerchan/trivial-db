@@ -1,0 +1,43 @@
+{
+  "id": "q-000954",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Abuja?",
+  "answers": [
+    {
+      "text": "Dinamarca",
+      "correct": false
+    },
+    {
+      "text": "Botsuana",
+      "correct": false
+    },
+    {
+      "text": "Nigeria",
+      "correct": true
+    },
+    {
+      "text": "Estonia",
+      "correct": false
+    }
+  ],
+  "explanation": "Abuja es la capital de Nigeria.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "abuja",
+    "nigeria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

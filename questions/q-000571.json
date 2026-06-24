@@ -1,0 +1,44 @@
+{
+  "id": "q-000571",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo No?",
+  "answers": [
+    {
+      "text": "Samario",
+      "correct": false
+    },
+    {
+      "text": "Gadolinio",
+      "correct": false
+    },
+    {
+      "text": "Nobelio",
+      "correct": true
+    },
+    {
+      "text": "Neodimio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico No corresponde al elemento Nobelio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "nobelio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

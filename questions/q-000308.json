@@ -1,0 +1,43 @@
+{
+  "id": "q-000308",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-3 de Islas Marianas del Norte?",
+  "answers": [
+    {
+      "text": "MNP",
+      "correct": true
+    },
+    {
+      "text": "GRL",
+      "correct": false
+    },
+    {
+      "text": "GNQ",
+      "correct": false
+    },
+    {
+      "text": "AFG",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-3 de Islas Marianas del Norte es MNP.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "islas-marianas-del-norte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

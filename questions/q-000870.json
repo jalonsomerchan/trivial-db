@@ -1,0 +1,43 @@
+{
+  "id": "q-000870",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Zagreb?",
+  "answers": [
+    {
+      "text": "Croacia",
+      "correct": true
+    },
+    {
+      "text": "Congo",
+      "correct": false
+    },
+    {
+      "text": "Panamá",
+      "correct": false
+    },
+    {
+      "text": "Haití",
+      "correct": false
+    }
+  ],
+  "explanation": "Zagreb es la capital de Croacia.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "zagreb",
+    "croacia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-001076",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Funafuti?",
+  "answers": [
+    {
+      "text": "Finlandia",
+      "correct": false
+    },
+    {
+      "text": "Tuvalu",
+      "correct": true
+    },
+    {
+      "text": "Nepal",
+      "correct": false
+    },
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    }
+  ],
+  "explanation": "Funafuti es la capital de Tuvalu.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "funafuti",
+    "tuvalu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

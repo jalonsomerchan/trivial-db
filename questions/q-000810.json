@@ -1,0 +1,43 @@
+{
+  "id": "q-000810",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Bulgaria?",
+  "answers": [
+    {
+      "text": "Saipan",
+      "correct": false
+    },
+    {
+      "text": "Sofia",
+      "correct": true
+    },
+    {
+      "text": "Mamoudzou",
+      "correct": false
+    },
+    {
+      "text": "Papeetē",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Bulgaria es Sofia.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "bulgaria",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

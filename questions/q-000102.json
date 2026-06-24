@@ -1,0 +1,44 @@
+{
+  "id": "q-000102",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Telurio?",
+  "answers": [
+    {
+      "text": "Ta",
+      "correct": false
+    },
+    {
+      "text": "Bh",
+      "correct": false
+    },
+    {
+      "text": "As",
+      "correct": false
+    },
+    {
+      "text": "Te",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo del elemento Telurio es Te.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "telurio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

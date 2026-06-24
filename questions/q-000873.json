@@ -1,0 +1,43 @@
+{
+  "id": "q-000873",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Malaui?",
+  "answers": [
+    {
+      "text": "Bishkek",
+      "correct": false
+    },
+    {
+      "text": "Lilongwe",
+      "correct": true
+    },
+    {
+      "text": "Stockholm",
+      "correct": false
+    },
+    {
+      "text": "Lomé",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Malaui es Lilongwe.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "malaui",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

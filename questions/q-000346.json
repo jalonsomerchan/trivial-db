@@ -1,0 +1,43 @@
+{
+  "id": "q-000346",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Niamey?",
+  "answers": [
+    {
+      "text": "Bahamas",
+      "correct": false
+    },
+    {
+      "text": "Serbia",
+      "correct": false
+    },
+    {
+      "text": "Níger",
+      "correct": true
+    },
+    {
+      "text": "Venezuela",
+      "correct": false
+    }
+  ],
+  "explanation": "Niamey es la capital de Níger.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "niamey",
+    "niger"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

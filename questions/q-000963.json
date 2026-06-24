@@ -1,0 +1,43 @@
+{
+  "id": "q-000963",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Wallis y Futuna?",
+  "answers": [
+    {
+      "text": "Mata-Utu",
+      "correct": true
+    },
+    {
+      "text": "Astana",
+      "correct": false
+    },
+    {
+      "text": "Kuala Lumpur",
+      "correct": false
+    },
+    {
+      "text": "Bishkek",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Wallis y Futuna es Mata-Utu.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "wallis-y-futuna",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

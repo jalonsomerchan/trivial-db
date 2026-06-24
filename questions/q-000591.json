@@ -1,0 +1,43 @@
+{
+  "id": "q-000591",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-2 de Isla de Navidad?",
+  "answers": [
+    {
+      "text": "TV",
+      "correct": false
+    },
+    {
+      "text": "CX",
+      "correct": true
+    },
+    {
+      "text": "PL",
+      "correct": false
+    },
+    {
+      "text": "GN",
+      "correct": false
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-2 de Isla de Navidad es CX.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "isla-de-navidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000445",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Xe?",
+  "answers": [
+    {
+      "text": "Meitnerio",
+      "correct": false
+    },
+    {
+      "text": "Argón",
+      "correct": false
+    },
+    {
+      "text": "Antimonio",
+      "correct": false
+    },
+    {
+      "text": "Xenón",
+      "correct": true
+    }
+  ],
+  "explanation": "El símbolo químico Xe corresponde al elemento Xenón.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "xenon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

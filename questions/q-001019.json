@@ -1,0 +1,43 @@
+{
+  "id": "q-001019",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "codigos-iso"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el código ISO 3166-1 alfa-3 de Congo?",
+  "answers": [
+    {
+      "text": "TON",
+      "correct": false
+    },
+    {
+      "text": "AUT",
+      "correct": false
+    },
+    {
+      "text": "GRC",
+      "correct": false
+    },
+    {
+      "text": "COG",
+      "correct": true
+    }
+  ],
+  "explanation": "El código ISO 3166-1 alfa-3 de Congo es COG.",
+  "sources": [
+    {
+      "title": "ISO - ISO 3166 Country Codes",
+      "url": "https://www.iso.org/iso-3166-country-codes.html"
+    }
+  ],
+  "tags": [
+    "iso-3166",
+    "codigos-de-pais",
+    "congo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

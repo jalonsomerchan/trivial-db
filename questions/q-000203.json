@@ -1,0 +1,44 @@
+{
+  "id": "q-000203",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Ir?",
+  "answers": [
+    {
+      "text": "Iterbio",
+      "correct": false
+    },
+    {
+      "text": "Erbio",
+      "correct": false
+    },
+    {
+      "text": "Iridio",
+      "correct": true
+    },
+    {
+      "text": "Protactinio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Ir corresponde al elemento Iridio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "iridio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-000120",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Mozambique?",
+  "answers": [
+    {
+      "text": "Gaborone",
+      "correct": false
+    },
+    {
+      "text": "Maputo",
+      "correct": true
+    },
+    {
+      "text": "Djibouti",
+      "correct": false
+    },
+    {
+      "text": "Avarua",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Mozambique es Maputo.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "mozambique",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000160",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo In?",
+  "answers": [
+    {
+      "text": "Indio",
+      "correct": true
+    },
+    {
+      "text": "Sodio",
+      "correct": false
+    },
+    {
+      "text": "Europio",
+      "correct": false
+    },
+    {
+      "text": "Copernicio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico In corresponde al elemento Indio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "indio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-000634",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento químico tiene el símbolo Zr?",
+  "answers": [
+    {
+      "text": "Circonio",
+      "correct": true
+    },
+    {
+      "text": "Aluminio",
+      "correct": false
+    },
+    {
+      "text": "Arsénico",
+      "correct": false
+    },
+    {
+      "text": "Níquel",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Zr corresponde al elemento Circonio.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "circonio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

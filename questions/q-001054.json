@@ -1,0 +1,43 @@
+{
+  "id": "q-001054",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Chișinău?",
+  "answers": [
+    {
+      "text": "Montserrat",
+      "correct": false
+    },
+    {
+      "text": "Gambia",
+      "correct": false
+    },
+    {
+      "text": "Santa Lucía",
+      "correct": false
+    },
+    {
+      "text": "Moldavia",
+      "correct": true
+    }
+  ],
+  "explanation": "Chișinău es la capital de Moldavia.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "chisinau",
+    "moldavia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

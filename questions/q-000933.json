@@ -1,0 +1,43 @@
+{
+  "id": "q-000933",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital Algiers?",
+  "answers": [
+    {
+      "text": "Cuba",
+      "correct": false
+    },
+    {
+      "text": "Argelia",
+      "correct": true
+    },
+    {
+      "text": "Aruba",
+      "correct": false
+    },
+    {
+      "text": "Emiratos Árabes Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "Algiers es la capital de Argelia.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "algiers",
+    "argelia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

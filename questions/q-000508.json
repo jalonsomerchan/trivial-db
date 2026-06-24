@@ -1,0 +1,43 @@
+{
+  "id": "q-000508",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises-y-capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país o territorio es capital St. George's?",
+  "answers": [
+    {
+      "text": "Namibia",
+      "correct": false
+    },
+    {
+      "text": "RAE de Hong Kong (China)",
+      "correct": false
+    },
+    {
+      "text": "Granada",
+      "correct": true
+    },
+    {
+      "text": "Catar",
+      "correct": false
+    }
+  ],
+  "explanation": "St. George's es la capital de Granada.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "st-george-s",
+    "granada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

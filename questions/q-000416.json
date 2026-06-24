@@ -1,0 +1,43 @@
+{
+  "id": "q-000416",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Samoa?",
+  "answers": [
+    {
+      "text": "Kiev",
+      "correct": false
+    },
+    {
+      "text": "Apia",
+      "correct": true
+    },
+    {
+      "text": "Diego Garcia",
+      "correct": false
+    },
+    {
+      "text": "Pretoria",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Samoa es Apia.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "samoa",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

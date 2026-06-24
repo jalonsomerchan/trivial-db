@@ -1,0 +1,44 @@
+{
+  "id": "q-000469",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el símbolo químico del elemento Uranio?",
+  "answers": [
+    {
+      "text": "Ni",
+      "correct": false
+    },
+    {
+      "text": "Al",
+      "correct": false
+    },
+    {
+      "text": "U",
+      "correct": true
+    },
+    {
+      "text": "Mn",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo del elemento Uranio es U.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "tabla-periodica",
+    "uranio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

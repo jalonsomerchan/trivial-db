@@ -1,0 +1,44 @@
+{
+  "id": "q-000829",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Boro?",
+  "answers": [
+    {
+      "text": "67",
+      "correct": false
+    },
+    {
+      "text": "117",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": true
+    },
+    {
+      "text": "34",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Boro tiene número atómico 5.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "boro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

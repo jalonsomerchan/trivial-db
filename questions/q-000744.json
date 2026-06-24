@@ -1,0 +1,43 @@
+{
+  "id": "q-000744",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Países Bajos?",
+  "answers": [
+    {
+      "text": "Amsterdam",
+      "correct": true
+    },
+    {
+      "text": "Hagåtña",
+      "correct": false
+    },
+    {
+      "text": "Kingstown",
+      "correct": false
+    },
+    {
+      "text": "Santiago",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Países Bajos es Amsterdam.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of national capitals",
+      "url": "https://en.wikipedia.org/wiki/List_of_national_capitals"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "paises-bajos",
+    "geografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

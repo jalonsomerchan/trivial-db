@@ -1,0 +1,44 @@
+{
+  "id": "q-000580",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica",
+    "tabla-periodica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el número atómico del elemento Rutherfordio?",
+  "answers": [
+    {
+      "text": "104",
+      "correct": true
+    },
+    {
+      "text": "57",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": false
+    },
+    {
+      "text": "8",
+      "correct": false
+    }
+  ],
+  "explanation": "El elemento Rutherfordio tiene número atómico 104.",
+  "sources": [
+    {
+      "title": "IUPAC - Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "quimica",
+    "numero-atomico",
+    "rutherfordio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
