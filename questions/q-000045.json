@@ -1,0 +1,25 @@
+{
+  "id": "q-000045",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": ["animales"],
+  "difficulty": "medium",
+  "question": "¿Qué animal es conocido por cambiar de color para camuflarse?",
+  "answers": [
+    { "text": "Koala", "correct": false },
+    { "text": "Camaleón", "correct": true },
+    { "text": "Pingüino", "correct": false },
+    { "text": "Ornitorrinco", "correct": false }
+  ],
+  "explanation": "Los camaleones pueden cambiar de color por comunicación, temperatura y camuflaje.",
+  "sources": [
+    {
+      "title": "San Diego Zoo - Chameleon",
+      "url": "https://animals.sandiegozoo.org/animals/chameleon"
+    }
+  ],
+  "tags": ["camaleon", "reptiles", "camuflaje"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
