@@ -2,9 +2,21 @@
   "id": "arte",
   "name": "Arte",
   "questions": [
-    "q-000007"
+    "q-000007",
+    "q-000029",
+    "q-000040",
+    "q-000051",
+    "q-000062",
+    "q-000073"
   ],
   "subcategories": [
+    {
+      "id": "arquitectura",
+      "name": "Arquitectura",
+      "questions": [
+        "q-000029"
+      ]
+    },
     {
       "id": "barroco",
       "name": "Barroco",
@@ -13,17 +25,40 @@
       ]
     },
     {
+      "id": "escultura",
+      "name": "Escultura",
+      "questions": [
+        "q-000051"
+      ]
+    },
+    {
+      "id": "impresionismo",
+      "name": "Impresionismo",
+      "questions": [
+        "q-000040"
+      ]
+    },
+    {
+      "id": "museos",
+      "name": "Museos",
+      "questions": [
+        "q-000073"
+      ]
+    },
+    {
       "id": "pintura",
       "name": "Pintura",
       "questions": [
-        "q-000007"
+        "q-000007",
+        "q-000040",
+        "q-000062"
       ]
     }
   ],
   "stats": {
-    "total": 1,
-    "easy": 1,
-    "medium": 0,
+    "total": 6,
+    "easy": 3,
+    "medium": 3,
     "hard": 0
   },
   "updated_at": "2026-06-24"

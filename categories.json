@@ -1,0 +1,640 @@
+{
+  "categories": [
+    {
+      "id": "arte",
+      "name": "Arte",
+      "questions": [
+        "q-000007",
+        "q-000029",
+        "q-000040",
+        "q-000051",
+        "q-000062",
+        "q-000073"
+      ],
+      "subcategories": [
+        {
+          "id": "arquitectura",
+          "name": "Arquitectura",
+          "questions": [
+            "q-000029"
+          ]
+        },
+        {
+          "id": "barroco",
+          "name": "Barroco",
+          "questions": [
+            "q-000007"
+          ]
+        },
+        {
+          "id": "escultura",
+          "name": "Escultura",
+          "questions": [
+            "q-000051"
+          ]
+        },
+        {
+          "id": "impresionismo",
+          "name": "Impresionismo",
+          "questions": [
+            "q-000040"
+          ]
+        },
+        {
+          "id": "museos",
+          "name": "Museos",
+          "questions": [
+            "q-000073"
+          ]
+        },
+        {
+          "id": "pintura",
+          "name": "Pintura",
+          "questions": [
+            "q-000007",
+            "q-000040",
+            "q-000062"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 6,
+        "easy": 3,
+        "medium": 3,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "ciencia",
+      "name": "Ciencia",
+      "questions": [
+        "q-000001",
+        "q-000005",
+        "q-000015",
+        "q-000016",
+        "q-000027",
+        "q-000038",
+        "q-000049",
+        "q-000060",
+        "q-000071",
+        "q-000082"
+      ],
+      "subcategories": [
+        {
+          "id": "astronomia",
+          "name": "Astronomia",
+          "questions": [
+            "q-000001",
+            "q-000038",
+            "q-000082"
+          ]
+        },
+        {
+          "id": "biologia",
+          "name": "Biologia",
+          "questions": [
+            "q-000016",
+            "q-000060"
+          ]
+        },
+        {
+          "id": "fisica",
+          "name": "Fisica",
+          "questions": [
+            "q-000015",
+            "q-000049"
+          ]
+        },
+        {
+          "id": "quimica",
+          "name": "Quimica",
+          "questions": [
+            "q-000005",
+            "q-000027",
+            "q-000071"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 10,
+        "easy": 6,
+        "medium": 4,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "cine-tv",
+      "name": "Cine Tv",
+      "questions": [
+        "q-000020",
+        "q-000031",
+        "q-000042",
+        "q-000053",
+        "q-000075"
+      ],
+      "subcategories": [
+        {
+          "id": "cine",
+          "name": "Cine",
+          "questions": [
+            "q-000020",
+            "q-000031",
+            "q-000053",
+            "q-000075"
+          ]
+        },
+        {
+          "id": "television",
+          "name": "Television",
+          "questions": [
+            "q-000042"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 5,
+        "easy": 2,
+        "medium": 3,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "deportes",
+      "name": "Deportes",
+      "questions": [
+        "q-000030",
+        "q-000041",
+        "q-000052",
+        "q-000063",
+        "q-000074"
+      ],
+      "subcategories": [
+        {
+          "id": "baloncesto",
+          "name": "Baloncesto",
+          "questions": [
+            "q-000041"
+          ]
+        },
+        {
+          "id": "ciclismo",
+          "name": "Ciclismo",
+          "questions": [
+            "q-000063"
+          ]
+        },
+        {
+          "id": "formula-1",
+          "name": "Formula 1",
+          "questions": [
+            "q-000074"
+          ]
+        },
+        {
+          "id": "juegos-olimpicos",
+          "name": "Juegos Olimpicos",
+          "questions": [
+            "q-000052"
+          ]
+        },
+        {
+          "id": "tenis",
+          "name": "Tenis",
+          "questions": [
+            "q-000030"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 5,
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "gastronomia",
+      "name": "Gastronomia",
+      "questions": [
+        "q-000068"
+      ],
+      "subcategories": [
+        {
+          "id": "postres",
+          "name": "Postres",
+          "questions": [
+            "q-000068"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 1,
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "geografia",
+      "name": "Geografia",
+      "questions": [
+        "q-000003",
+        "q-000006",
+        "q-000008",
+        "q-000010",
+        "q-000011",
+        "q-000012",
+        "q-000025",
+        "q-000036",
+        "q-000047",
+        "q-000057",
+        "q-000058",
+        "q-000069",
+        "q-000079"
+      ],
+      "subcategories": [
+        {
+          "id": "capitales",
+          "name": "Capitales",
+          "questions": [
+            "q-000003",
+            "q-000006",
+            "q-000008",
+            "q-000011",
+            "q-000047",
+            "q-000079"
+          ]
+        },
+        {
+          "id": "desiertos",
+          "name": "Desiertos",
+          "questions": [
+            "q-000069"
+          ]
+        },
+        {
+          "id": "montanas",
+          "name": "Montanas",
+          "questions": [
+            "q-000025"
+          ]
+        },
+        {
+          "id": "oceanos",
+          "name": "Oceanos",
+          "questions": [
+            "q-000010"
+          ]
+        },
+        {
+          "id": "paises",
+          "name": "Paises",
+          "questions": [
+            "q-000036",
+            "q-000057",
+            "q-000058"
+          ]
+        },
+        {
+          "id": "rios",
+          "name": "Rios",
+          "questions": [
+            "q-000012"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 13,
+        "easy": 9,
+        "medium": 4,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "historia",
+      "name": "Historia",
+      "questions": [
+        "q-000004",
+        "q-000013",
+        "q-000014",
+        "q-000026",
+        "q-000037",
+        "q-000048",
+        "q-000059",
+        "q-000070",
+        "q-000081"
+      ],
+      "subcategories": [
+        {
+          "id": "edad-antigua",
+          "name": "Edad Antigua",
+          "questions": [
+            "q-000013",
+            "q-000048",
+            "q-000070"
+          ]
+        },
+        {
+          "id": "edad-contemporanea",
+          "name": "Edad Contemporanea",
+          "questions": [
+            "q-000037",
+            "q-000059"
+          ]
+        },
+        {
+          "id": "edad-media",
+          "name": "Edad Media",
+          "questions": [
+            "q-000026"
+          ]
+        },
+        {
+          "id": "edad-moderna",
+          "name": "Edad Moderna",
+          "questions": [
+            "q-000081"
+          ]
+        },
+        {
+          "id": "exploracion-espacial",
+          "name": "Exploracion Espacial",
+          "questions": [
+            "q-000004"
+          ]
+        },
+        {
+          "id": "siglo-xv",
+          "name": "Siglo Xv",
+          "questions": [
+            "q-000014"
+          ]
+        },
+        {
+          "id": "siglo-xx",
+          "name": "Siglo Xx",
+          "questions": [
+            "q-000004"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 9,
+        "easy": 3,
+        "medium": 6,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "literatura",
+      "name": "Literatura",
+      "questions": [
+        "q-000002",
+        "q-000017",
+        "q-000028",
+        "q-000039",
+        "q-000050",
+        "q-000061",
+        "q-000072"
+      ],
+      "subcategories": [
+        {
+          "id": "literatura-espanola",
+          "name": "Literatura Espanola",
+          "questions": [
+            "q-000002",
+            "q-000028"
+          ]
+        },
+        {
+          "id": "literatura-francesa",
+          "name": "Literatura Francesa",
+          "questions": [
+            "q-000039"
+          ]
+        },
+        {
+          "id": "literatura-infantil",
+          "name": "Literatura Infantil",
+          "questions": [
+            "q-000072"
+          ]
+        },
+        {
+          "id": "literatura-inglesa",
+          "name": "Literatura Inglesa",
+          "questions": [
+            "q-000017",
+            "q-000050"
+          ]
+        },
+        {
+          "id": "literatura-rusa",
+          "name": "Literatura Rusa",
+          "questions": [
+            "q-000061"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 7,
+        "easy": 3,
+        "medium": 4,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "musica",
+      "name": "Musica",
+      "questions": [
+        "q-000021",
+        "q-000032",
+        "q-000043",
+        "q-000054",
+        "q-000065",
+        "q-000076"
+      ],
+      "subcategories": [
+        {
+          "id": "flamenco",
+          "name": "Flamenco",
+          "questions": [
+            "q-000076"
+          ]
+        },
+        {
+          "id": "instrumentos",
+          "name": "Instrumentos",
+          "questions": [
+            "q-000065"
+          ]
+        },
+        {
+          "id": "musica-clasica",
+          "name": "Musica Clasica",
+          "questions": [
+            "q-000021"
+          ]
+        },
+        {
+          "id": "musica-espanola",
+          "name": "Musica Espanola",
+          "questions": [
+            "q-000054"
+          ]
+        },
+        {
+          "id": "pop",
+          "name": "Pop",
+          "questions": [
+            "q-000043"
+          ]
+        },
+        {
+          "id": "rock",
+          "name": "Rock",
+          "questions": [
+            "q-000032"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 6,
+        "easy": 3,
+        "medium": 3,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "naturaleza",
+      "name": "Naturaleza",
+      "questions": [
+        "q-000023",
+        "q-000034",
+        "q-000045",
+        "q-000056",
+        "q-000067",
+        "q-000078"
+      ],
+      "subcategories": [
+        {
+          "id": "animales",
+          "name": "Animales",
+          "questions": [
+            "q-000023",
+            "q-000045",
+            "q-000067"
+          ]
+        },
+        {
+          "id": "ecosistemas",
+          "name": "Ecosistemas",
+          "questions": [
+            "q-000078"
+          ]
+        },
+        {
+          "id": "geologia",
+          "name": "Geologia",
+          "questions": [
+            "q-000056"
+          ]
+        },
+        {
+          "id": "plantas",
+          "name": "Plantas",
+          "questions": [
+            "q-000034"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 6,
+        "easy": 4,
+        "medium": 2,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "salud",
+      "name": "Salud",
+      "questions": [
+        "q-000009"
+      ],
+      "subcategories": [
+        {
+          "id": "cuerpo-humano",
+          "name": "Cuerpo Humano",
+          "questions": [
+            "q-000009"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 1,
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    },
+    {
+      "id": "tecnologia",
+      "name": "Tecnologia",
+      "questions": [
+        "q-000033",
+        "q-000044",
+        "q-000066"
+      ],
+      "subcategories": [
+        {
+          "id": "informatica",
+          "name": "Informatica",
+          "questions": [
+            "q-000066"
+          ]
+        },
+        {
+          "id": "internet",
+          "name": "Internet",
+          "questions": [
+            "q-000033"
+          ]
+        },
+        {
+          "id": "programacion",
+          "name": "Programacion",
+          "questions": [
+            "q-000044"
+          ]
+        }
+      ],
+      "stats": {
+        "total": 3,
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "updated_at": "2026-06-24"
+    }
+  ],
+  "stats": {
+    "total_categories": 12,
+    "total_questions": 72,
+    "total_subcategories": 50,
+    "easy": 43,
+    "medium": 29,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}

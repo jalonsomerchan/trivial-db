@@ -1,0 +1,39 @@
+{
+  "id": "tecnologia",
+  "name": "Tecnologia",
+  "questions": [
+    "q-000033",
+    "q-000044",
+    "q-000066"
+  ],
+  "subcategories": [
+    {
+      "id": "informatica",
+      "name": "Informatica",
+      "questions": [
+        "q-000066"
+      ]
+    },
+    {
+      "id": "internet",
+      "name": "Internet",
+      "questions": [
+        "q-000033"
+      ]
+    },
+    {
+      "id": "programacion",
+      "name": "Programacion",
+      "questions": [
+        "q-000044"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "easy": 3,
+    "medium": 0,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}

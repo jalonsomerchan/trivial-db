@@ -1,0 +1,51 @@
+{
+  "id": "naturaleza",
+  "name": "Naturaleza",
+  "questions": [
+    "q-000023",
+    "q-000034",
+    "q-000045",
+    "q-000056",
+    "q-000067",
+    "q-000078"
+  ],
+  "subcategories": [
+    {
+      "id": "animales",
+      "name": "Animales",
+      "questions": [
+        "q-000023",
+        "q-000045",
+        "q-000067"
+      ]
+    },
+    {
+      "id": "ecosistemas",
+      "name": "Ecosistemas",
+      "questions": [
+        "q-000078"
+      ]
+    },
+    {
+      "id": "geologia",
+      "name": "Geologia",
+      "questions": [
+        "q-000056"
+      ]
+    },
+    {
+      "id": "plantas",
+      "name": "Plantas",
+      "questions": [
+        "q-000034"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "easy": 4,
+    "medium": 2,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "musica",
+  "name": "Musica",
+  "questions": [
+    "q-000021",
+    "q-000032",
+    "q-000043",
+    "q-000054",
+    "q-000065",
+    "q-000076"
+  ],
+  "subcategories": [
+    {
+      "id": "flamenco",
+      "name": "Flamenco",
+      "questions": [
+        "q-000076"
+      ]
+    },
+    {
+      "id": "instrumentos",
+      "name": "Instrumentos",
+      "questions": [
+        "q-000065"
+      ]
+    },
+    {
+      "id": "musica-clasica",
+      "name": "Musica Clasica",
+      "questions": [
+        "q-000021"
+      ]
+    },
+    {
+      "id": "musica-espanola",
+      "name": "Musica Espanola",
+      "questions": [
+        "q-000054"
+      ]
+    },
+    {
+      "id": "pop",
+      "name": "Pop",
+      "questions": [
+        "q-000043"
+      ]
+    },
+    {
+      "id": "rock",
+      "name": "Rock",
+      "questions": [
+        "q-000032"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "easy": 3,
+    "medium": 3,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}
