@@ -50,5 +50,13 @@
   {
     "id": "q-000013",
     "question": "¿Qué civilización construyó las pirámides de Guiza?"
+  },
+  {
+    "id": "q-000014",
+    "question": "¿En qué año llegó Cristóbal Colón a América por primera vez?"
+  },
+  {
+    "id": "q-000015",
+    "question": "¿Qué fuerza mantiene a los planetas orbitando alrededor del Sol?"
   }
 ]
