@@ -1,0 +1,23 @@
+{
+  "id": "geografia",
+  "name": "Geografia",
+  "questions": [
+    "q-000003"
+  ],
+  "subcategories": [
+    {
+      "id": "capitales",
+      "name": "Capitales",
+      "questions": [
+        "q-000003"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}

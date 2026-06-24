@@ -1,0 +1,30 @@
+{
+  "id": "historia",
+  "name": "Historia",
+  "questions": [
+    "q-000004"
+  ],
+  "subcategories": [
+    {
+      "id": "exploracion-espacial",
+      "name": "Exploracion Espacial",
+      "questions": [
+        "q-000004"
+      ]
+    },
+    {
+      "id": "siglo-xx",
+      "name": "Siglo Xx",
+      "questions": [
+        "q-000004"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}
