@@ -1,0 +1,44 @@
+{
+  "id": "q-000007",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura",
+    "barroco"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué pintor realizó Las meninas?",
+  "answers": [
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    },
+    {
+      "text": "Diego Velázquez",
+      "correct": true
+    },
+    {
+      "text": "Pablo Picasso",
+      "correct": false
+    },
+    {
+      "text": "El Greco",
+      "correct": false
+    }
+  ],
+  "explanation": "Las meninas es una obra de Diego Velázquez conservada en el Museo del Prado.",
+  "sources": [
+    {
+      "title": "Museo del Prado - Las meninas",
+      "url": "https://www.museodelprado.es/coleccion/obra-de-arte/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f"
+    }
+  ],
+  "tags": [
+    "velazquez",
+    "las-meninas",
+    "museo-del-prado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
