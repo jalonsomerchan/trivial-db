@@ -228,6 +228,89 @@ Después, comprobar que solo han cambiado los archivos esperados:
 - Categorías generadas en `categories/`.
 - Índice generado en `index.json`.
 
+## Prompt para añadir nuevas preguntas
+
+Usa este prompt cuando quieras pedir a una IA que añada nuevas preguntas al repositorio:
+
+```txt
+Trabaja sobre el repositorio `jalonsomerchan/trivial-db`.
+
+Objetivo: añadir nuevas preguntas para juegos tipo trivial.
+
+Antes de modificar nada:
+1. Lee completo `agents.md` y respeta todas sus reglas.
+2. Revisa `index.json` para comprobar si ya existen preguntas iguales o muy parecidas.
+3. Revisa los archivos existentes en `questions/` para calcular el siguiente ID disponible con formato `q-000001`, `q-000002`, etc.
+
+Tarea:
+- Crea una pregunta nueva por cada archivo JSON dentro de `questions/`.
+- No edites manualmente `categories/` ni `index.json`, salvo para regenerarlos con los scripts indicados.
+- Cada archivo debe llamarse exactamente igual que el campo `id`, por ejemplo `questions/q-000123.json`.
+- Todas las preguntas deben estar en español salvo que se indique otro idioma.
+- Todas las preguntas deben tener una sola respuesta correcta.
+- No añadas campo `type`.
+- No añadas campo `id` dentro de las respuestas.
+- Cada respuesta debe tener solo `text` y `correct`.
+- Usa preferiblemente 4 respuestas por pregunta.
+- Añade una explicación breve en `explanation`.
+- Añade fuentes fiables en `sources` siempre que sea posible.
+- Usa `status: "published"` para preguntas listas para usarse.
+- Usa `difficulty` con uno de estos valores: `easy`, `medium`, `hard`.
+- Usa `category`, `subcategories` y `tags` con identificadores en minúsculas, sin espacios y con guiones si hace falta.
+- Usa fechas en formato `YYYY-MM-DD`.
+- Formatea todos los JSON con 2 espacios.
+
+Formato obligatorio de cada pregunta:
+
+{
+  "id": "q-000123",
+  "status": "published",
+  "language": "es",
+  "category": "categoria-principal",
+  "subcategories": ["subcategoria"],
+  "difficulty": "medium",
+  "question": "Texto de la pregunta",
+  "answers": [
+    {
+      "text": "Respuesta correcta",
+      "correct": true
+    },
+    {
+      "text": "Respuesta incorrecta 1",
+      "correct": false
+    },
+    {
+      "text": "Respuesta incorrecta 2",
+      "correct": false
+    },
+    {
+      "text": "Respuesta incorrecta 3",
+      "correct": false
+    }
+  ],
+  "explanation": "Explicación breve de la respuesta correcta.",
+  "sources": [
+    {
+      "title": "Nombre de la fuente",
+      "url": "https://example.com"
+    }
+  ],
+  "tags": ["tag-uno", "tag-dos"],
+  "created_at": "YYYY-MM-DD",
+  "updated_at": "YYYY-MM-DD"
+}
+
+Después de añadir o modificar preguntas:
+1. Ejecuta `node scripts/generate-categories.mjs`.
+2. Ejecuta `node scripts/generate-index.mjs`.
+3. Comprueba que `categories/` se ha generado a partir de las preguntas.
+4. Comprueba que `index.json` solo contiene `id` y `question`.
+5. Comprueba que no hay IDs duplicados.
+6. Comprueba que cada pregunta tiene exactamente una respuesta con `"correct": true`.
+7. Comprueba que ninguna respuesta tiene campo `id`.
+8. Comprueba que ninguna pregunta tiene campo `type`.
+```
+
 ## Validaciones recomendadas
 
 Antes de aceptar nuevas preguntas o cambios:
