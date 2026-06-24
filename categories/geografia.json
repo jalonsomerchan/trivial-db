@@ -3,7 +3,8 @@
   "name": "Geografia",
   "questions": [
     "q-000003",
-    "q-000006"
+    "q-000006",
+    "q-000008"
   ],
   "subcategories": [
     {
@@ -11,13 +12,14 @@
       "name": "Capitales",
       "questions": [
         "q-000003",
-        "q-000006"
+        "q-000006",
+        "q-000008"
       ]
     }
   ],
   "stats": {
-    "total": 2,
-    "easy": 2,
+    "total": 3,
+    "easy": 3,
     "medium": 0,
     "hard": 0
   },
