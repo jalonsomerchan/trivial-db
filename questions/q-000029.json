@@ -1,0 +1,43 @@
+{
+  "id": "q-000029",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué arquitecto diseñó principalmente la Sagrada Familia de Barcelona?",
+  "answers": [
+    {
+      "text": "Lluís Domènech i Montaner",
+      "correct": false
+    },
+    {
+      "text": "Antoni Gaudí",
+      "correct": true
+    },
+    {
+      "text": "Santiago Calatrava",
+      "correct": false
+    },
+    {
+      "text": "Rafael Moneo",
+      "correct": false
+    }
+  ],
+  "explanation": "Antoni Gaudí es el arquitecto más asociado al diseño de la Sagrada Familia.",
+  "sources": [
+    {
+      "title": "Sagrada Família - Antoni Gaudí",
+      "url": "https://sagradafamilia.org/en/antoni-gaudi"
+    }
+  ],
+  "tags": [
+    "gaudi",
+    "sagrada-familia",
+    "barcelona"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
