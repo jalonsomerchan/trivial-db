@@ -1,0 +1,25 @@
+{
+  "id": "q-000068",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": ["postres"],
+  "difficulty": "easy",
+  "question": "¿Qué fruto seco es ingrediente principal del mazapán tradicional?",
+  "answers": [
+    { "text": "Avellana", "correct": false },
+    { "text": "Almendra", "correct": true },
+    { "text": "Pistacho", "correct": false },
+    { "text": "Nuez", "correct": false }
+  ],
+  "explanation": "El mazapán tradicional se elabora principalmente con almendra y azúcar.",
+  "sources": [
+    {
+      "title": "TasteAtlas - Marzipan",
+      "url": "https://www.tasteatlas.com/marzipan"
+    }
+  ],
+  "tags": ["mazapan", "almendra", "postres"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
