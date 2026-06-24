@@ -1,0 +1,43 @@
+{
+  "id": "q-002947",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Absalón, Absalón?",
+  "answers": [
+    {
+      "text": "Jorge Isaacs",
+      "correct": false
+    },
+    {
+      "text": "William Faulkner",
+      "correct": true
+    },
+    {
+      "text": "Luis Cernuda",
+      "correct": false
+    },
+    {
+      "text": "Ernesto Sabato",
+      "correct": false
+    }
+  ],
+  "explanation": "Absalón, Absalón fue escrito por William Faulkner.",
+  "sources": [
+    {
+      "title": "Wikipedia - Absalón, Absalón",
+      "url": "https://es.wikipedia.org/wiki/Absal%C3%B3n%2C_Absal%C3%B3n"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "william-faulkner"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

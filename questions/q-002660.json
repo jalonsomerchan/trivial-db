@@ -1,0 +1,42 @@
+{
+  "id": "q-002660",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se caracteriza por recuperación de modelos clásicos y perspectiva?",
+  "answers": [
+    {
+      "text": "brutalismo",
+      "correct": false
+    },
+    {
+      "text": "De Stijl",
+      "correct": false
+    },
+    {
+      "text": "tachismo",
+      "correct": false
+    },
+    {
+      "text": "renacimiento",
+      "correct": true
+    }
+  ],
+  "explanation": "El movimiento descrito es el renacimiento.",
+  "sources": [
+    {
+      "title": "Wikipedia - renacimiento",
+      "url": "https://es.wikipedia.org/wiki/renacimiento"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

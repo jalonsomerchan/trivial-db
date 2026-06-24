@@ -1,0 +1,43 @@
+{
+  "id": "q-002924",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de El tragaluz?",
+  "answers": [
+    {
+      "text": "Carmen Laforet",
+      "correct": false
+    },
+    {
+      "text": "Stendhal",
+      "correct": false
+    },
+    {
+      "text": "Antonio Buero Vallejo",
+      "correct": true
+    },
+    {
+      "text": "Rafael Alberti",
+      "correct": false
+    }
+  ],
+  "explanation": "El tragaluz fue escrito por Antonio Buero Vallejo.",
+  "sources": [
+    {
+      "title": "Wikipedia - El tragaluz",
+      "url": "https://es.wikipedia.org/wiki/El_tragaluz"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "antonio-buero-vallejo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

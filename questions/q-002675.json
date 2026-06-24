@@ -1,0 +1,42 @@
+{
+  "id": "q-002675",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se caracteriza por retorno posmoderno a la pintura figurativa?",
+  "answers": [
+    {
+      "text": "minimalismo",
+      "correct": false
+    },
+    {
+      "text": "muralismo mexicano",
+      "correct": false
+    },
+    {
+      "text": "rocaille",
+      "correct": false
+    },
+    {
+      "text": "transvanguardia",
+      "correct": true
+    }
+  ],
+  "explanation": "El movimiento descrito es el transvanguardia.",
+  "sources": [
+    {
+      "title": "Wikipedia - transvanguardia",
+      "url": "https://es.wikipedia.org/wiki/transvanguardia"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "transvanguardia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

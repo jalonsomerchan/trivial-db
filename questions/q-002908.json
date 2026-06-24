@@ -1,0 +1,43 @@
+{
+  "id": "q-002908",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Nada?",
+  "answers": [
+    {
+      "text": "Antonio Buero Vallejo",
+      "correct": false
+    },
+    {
+      "text": "Carmen Laforet",
+      "correct": true
+    },
+    {
+      "text": "Benito Pérez Galdós",
+      "correct": false
+    },
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": false
+    }
+  ],
+  "explanation": "Nada fue escrito por Carmen Laforet.",
+  "sources": [
+    {
+      "title": "Wikipedia - Nada",
+      "url": "https://es.wikipedia.org/wiki/Nada"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "carmen-laforet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002296",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes-y-protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el puerto TCP o UDP estándar asociado normalmente a Telnet?",
+  "answers": [
+    {
+      "text": "23",
+      "correct": true
+    },
+    {
+      "text": "22",
+      "correct": false
+    },
+    {
+      "text": "27017",
+      "correct": false
+    },
+    {
+      "text": "8443",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto estándar asociado normalmente a Telnet es 23.",
+  "sources": [
+    {
+      "title": "Telnet",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "redes",
+    "puertos",
+    "telnet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

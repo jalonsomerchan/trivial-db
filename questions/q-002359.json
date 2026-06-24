@@ -1,0 +1,42 @@
+{
+  "id": "q-002359",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "En bases de datos, ¿qué término se define como “unidad de trabajo que agrupa operaciones”?",
+  "answers": [
+    {
+      "text": "consistencia",
+      "correct": false
+    },
+    {
+      "text": "replicación",
+      "correct": false
+    },
+    {
+      "text": "transacción",
+      "correct": true
+    },
+    {
+      "text": "SQL injection",
+      "correct": false
+    }
+  ],
+  "explanation": "En bases de datos, “unidad de trabajo que agrupa operaciones” corresponde a transacción.",
+  "sources": [
+    {
+      "title": "transacción",
+      "url": "https://en.wikipedia.org/wiki/Database"
+    }
+  ],
+  "tags": [
+    "bases-de-datos",
+    "transaccion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

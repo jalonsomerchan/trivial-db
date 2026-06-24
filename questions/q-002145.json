@@ -1,0 +1,42 @@
+{
+  "id": "q-002145",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Parmigiano Reggiano?",
+  "answers": [
+    {
+      "text": "leche de oveja",
+      "correct": false
+    },
+    {
+      "text": "leche de yak",
+      "correct": false
+    },
+    {
+      "text": "leche de búfala",
+      "correct": false
+    },
+    {
+      "text": "leche de vaca",
+      "correct": true
+    }
+  ],
+  "explanation": "El queso Parmigiano Reggiano se elabora tradicionalmente con leche de vaca.",
+  "sources": [
+    {
+      "title": "Wikipedia - Parmigiano Reggiano",
+      "url": "https://es.wikipedia.org/wiki/Parmigiano_Reggiano"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "parmigiano-reggiano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

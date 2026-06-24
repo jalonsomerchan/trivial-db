@@ -1,0 +1,42 @@
+{
+  "id": "q-002867",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término de ciencias de la Tierra corresponde a “depósito sedimentario eólico de partículas finas”?",
+  "answers": [
+    {
+      "text": "sinclinal",
+      "correct": false
+    },
+    {
+      "text": "Richter",
+      "correct": false
+    },
+    {
+      "text": "loess",
+      "correct": true
+    },
+    {
+      "text": "arrecife de coral",
+      "correct": false
+    }
+  ],
+  "explanation": "El término correspondiente a “depósito sedimentario eólico de partículas finas” es loess.",
+  "sources": [
+    {
+      "title": "Wikipedia - loess",
+      "url": "https://es.wikipedia.org/wiki/loess"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "loess"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002185",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Cava tradicional?",
+  "answers": [
+    {
+      "text": "garnacha y cariñena",
+      "correct": false
+    },
+    {
+      "text": "melon de Bourgogne",
+      "correct": false
+    },
+    {
+      "text": "zinfandel",
+      "correct": false
+    },
+    {
+      "text": "macabeo, xarel·lo y parellada",
+      "correct": true
+    }
+  ],
+  "explanation": "Cava tradicional se asocia especialmente con macabeo, xarel·lo y parellada.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cava tradicional",
+      "url": "https://es.wikipedia.org/wiki/Cava_tradicional"
+    }
+  ],
+  "tags": [
+    "vino",
+    "cava-tradicional"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002938",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de La feria de las vanidades?",
+  "answers": [
+    {
+      "text": "Virginia Woolf",
+      "correct": false
+    },
+    {
+      "text": "Jean-Paul Sartre",
+      "correct": false
+    },
+    {
+      "text": "Jorge Isaacs",
+      "correct": false
+    },
+    {
+      "text": "William Makepeace Thackeray",
+      "correct": true
+    }
+  ],
+  "explanation": "La feria de las vanidades fue escrito por William Makepeace Thackeray.",
+  "sources": [
+    {
+      "title": "Wikipedia - La feria de las vanidades",
+      "url": "https://es.wikipedia.org/wiki/La_feria_de_las_vanidades"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "william-makepeace-thackeray"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

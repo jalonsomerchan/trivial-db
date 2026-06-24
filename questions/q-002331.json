@@ -1,0 +1,43 @@
+{
+  "id": "q-002331",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "algoritmos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué complejidad temporal se asocia normalmente con búsqueda lineal en una lista?",
+  "answers": [
+    {
+      "text": "O(log n)",
+      "correct": false
+    },
+    {
+      "text": "O(n)",
+      "correct": true
+    },
+    {
+      "text": "O(n!)",
+      "correct": false
+    },
+    {
+      "text": "O(V + E)",
+      "correct": false
+    }
+  ],
+  "explanation": "Búsqueda lineal en una lista se asocia normalmente con complejidad O(n).",
+  "sources": [
+    {
+      "title": "búsqueda lineal en una lista",
+      "url": "https://en.wikipedia.org/wiki/Time_complexity"
+    }
+  ],
+  "tags": [
+    "algoritmos",
+    "complejidad",
+    "busqueda-lineal-en-una-lista"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

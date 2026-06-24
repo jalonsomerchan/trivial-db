@@ -1,0 +1,42 @@
+{
+  "id": "q-002864",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término de ciencias de la Tierra corresponde a “extensión que puede abrir una cuenca o océano”?",
+  "answers": [
+    {
+      "text": "rifting",
+      "correct": true
+    },
+    {
+      "text": "isostasia",
+      "correct": false
+    },
+    {
+      "text": "Mohs",
+      "correct": false
+    },
+    {
+      "text": "batolito",
+      "correct": false
+    }
+  ],
+  "explanation": "El término correspondiente a “extensión que puede abrir una cuenca o océano” es rifting.",
+  "sources": [
+    {
+      "title": "Wikipedia - rifting",
+      "url": "https://es.wikipedia.org/wiki/rifting"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "rifting"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002833",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “zona de transición entre ecosistemas”?",
+  "answers": [
+    {
+      "text": "bioma",
+      "correct": false
+    },
+    {
+      "text": "ecotono",
+      "correct": true
+    },
+    {
+      "text": "geotropismo",
+      "correct": false
+    },
+    {
+      "text": "ciclo del nitrógeno",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es ecotono.",
+  "sources": [
+    {
+      "title": "Wikipedia - ecotono",
+      "url": "https://es.wikipedia.org/wiki/ecotono"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "ecotono"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

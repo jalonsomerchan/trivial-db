@@ -1,0 +1,43 @@
+{
+  "id": "q-002931",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de La abadía de Northanger?",
+  "answers": [
+    {
+      "text": "Vicente Huidobro",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Unamuno",
+      "correct": false
+    },
+    {
+      "text": "Julio Cortázar",
+      "correct": false
+    },
+    {
+      "text": "Jane Austen",
+      "correct": true
+    }
+  ],
+  "explanation": "La abadía de Northanger fue escrito por Jane Austen.",
+  "sources": [
+    {
+      "title": "Wikipedia - La abadía de Northanger",
+      "url": "https://es.wikipedia.org/wiki/La_abad%C3%ADa_de_Northanger"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "jane-austen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

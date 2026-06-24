@@ -1,0 +1,42 @@
+{
+  "id": "q-002701",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió Aida?",
+  "answers": [
+    {
+      "text": "Arnold Schönberg",
+      "correct": false
+    },
+    {
+      "text": "Dmitri Shostakóvich",
+      "correct": false
+    },
+    {
+      "text": "Giuseppe Verdi",
+      "correct": true
+    },
+    {
+      "text": "Gustav Mahler",
+      "correct": false
+    }
+  ],
+  "explanation": "Aida fue compuesto por Giuseppe Verdi.",
+  "sources": [
+    {
+      "title": "Wikipedia - Aida",
+      "url": "https://es.wikipedia.org/wiki/Aida"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "giuseppe-verdi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

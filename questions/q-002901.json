@@ -1,0 +1,43 @@
+{
+  "id": "q-002901",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Doña Bárbara?",
+  "answers": [
+    {
+      "text": "Milan Kundera",
+      "correct": false
+    },
+    {
+      "text": "Rómulo Gallegos",
+      "correct": true
+    },
+    {
+      "text": "José Saramago",
+      "correct": false
+    },
+    {
+      "text": "Günter Grass",
+      "correct": false
+    }
+  ],
+  "explanation": "Doña Bárbara fue escrito por Rómulo Gallegos.",
+  "sources": [
+    {
+      "title": "Wikipedia - Doña Bárbara",
+      "url": "https://es.wikipedia.org/wiki/Do%C3%B1a_B%C3%A1rbara"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "romulo-gallegos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

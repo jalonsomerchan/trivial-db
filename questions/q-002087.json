@@ -1,0 +1,43 @@
+{
+  "id": "q-002087",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una salsa emulsionada de mantequilla con vino blanco o vinagre?",
+  "answers": [
+    {
+      "text": "court-bouillon",
+      "correct": false
+    },
+    {
+      "text": "beurre blanc",
+      "correct": true
+    },
+    {
+      "text": "fumet",
+      "correct": false
+    },
+    {
+      "text": "sofrito",
+      "correct": false
+    }
+  ],
+  "explanation": "beurre blanc designa una salsa emulsionada de mantequilla con vino blanco o vinagre.",
+  "sources": [
+    {
+      "title": "Wikipedia - beurre blanc",
+      "url": "https://es.wikipedia.org/wiki/beurre_blanc"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "beurre-blanc"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

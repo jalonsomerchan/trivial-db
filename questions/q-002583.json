@@ -1,0 +1,43 @@
+{
+  "id": "q-002583",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra La libertad guiando al pueblo?",
+  "answers": [
+    {
+      "text": "Eugène Delacroix",
+      "correct": true
+    },
+    {
+      "text": "Rembrandt",
+      "correct": false
+    },
+    {
+      "text": "Georges Seurat",
+      "correct": false
+    },
+    {
+      "text": "Willem de Kooning",
+      "correct": false
+    }
+  ],
+  "explanation": "La libertad guiando al pueblo es una obra de Eugène Delacroix.",
+  "sources": [
+    {
+      "title": "Wikipedia - La libertad guiando al pueblo",
+      "url": "https://es.wikipedia.org/wiki/La_libertad_guiando_al_pueblo"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "eugene-delacroix"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002973",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Guerra y paz?",
+  "answers": [
+    {
+      "text": "Italo Calvino",
+      "correct": false
+    },
+    {
+      "text": "Marcel Proust",
+      "correct": false
+    },
+    {
+      "text": "León Tolstói",
+      "correct": true
+    },
+    {
+      "text": "Jean-Paul Sartre",
+      "correct": false
+    }
+  ],
+  "explanation": "Guerra y paz fue escrito por León Tolstói.",
+  "sources": [
+    {
+      "title": "Wikipedia - Guerra y paz",
+      "url": "https://es.wikipedia.org/wiki/Guerra_y_paz"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "leon-tolstoi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002217",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la cavidad cardiaca que impulsa sangre hacia la arteria pulmonar?",
+  "answers": [
+    {
+      "text": "ventrículo derecho",
+      "correct": true
+    },
+    {
+      "text": "parótida",
+      "correct": false
+    },
+    {
+      "text": "hipotálamo",
+      "correct": false
+    },
+    {
+      "text": "estribo",
+      "correct": false
+    }
+  ],
+  "explanation": "La cavidad cardiaca que impulsa sangre hacia la arteria pulmonar se llama ventrículo derecho.",
+  "sources": [
+    {
+      "title": "ventrículo derecho",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "ventriculo-derecho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

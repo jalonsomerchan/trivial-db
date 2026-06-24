@@ -1,0 +1,43 @@
+{
+  "id": "q-002321",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web-y-http"
+  ],
+  "difficulty": "hard",
+  "question": "En HTTP, ¿qué frase de estado corresponde al código 415?",
+  "answers": [
+    {
+      "text": "I'm a teapot",
+      "correct": false
+    },
+    {
+      "text": "Unsupported Media Type",
+      "correct": true
+    },
+    {
+      "text": "Payment Required",
+      "correct": false
+    },
+    {
+      "text": "Permanent Redirect",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 415 corresponde a “Unsupported Media Type”.",
+  "sources": [
+    {
+      "title": "HTTP 415",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos-de-estado",
+    "415"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002839",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “variedad de genes, especies y ecosistemas”?",
+  "answers": [
+    {
+      "text": "depredación",
+      "correct": false
+    },
+    {
+      "text": "fijación de nitrógeno",
+      "correct": false
+    },
+    {
+      "text": "comunidad",
+      "correct": false
+    },
+    {
+      "text": "biodiversidad",
+      "correct": true
+    }
+  ],
+  "explanation": "El concepto definido es biodiversidad.",
+  "sources": [
+    {
+      "title": "Wikipedia - biodiversidad",
+      "url": "https://es.wikipedia.org/wiki/biodiversidad"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "biodiversidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

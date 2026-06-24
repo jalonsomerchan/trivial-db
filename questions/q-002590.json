@@ -1,0 +1,43 @@
+{
+  "id": "q-002590",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra El beso?",
+  "answers": [
+    {
+      "text": "Rogier van der Weyden",
+      "correct": false
+    },
+    {
+      "text": "Rafael",
+      "correct": false
+    },
+    {
+      "text": "Pierre-Auguste Renoir",
+      "correct": false
+    },
+    {
+      "text": "Gustav Klimt",
+      "correct": true
+    }
+  ],
+  "explanation": "El beso es una obra de Gustav Klimt.",
+  "sources": [
+    {
+      "title": "Wikipedia - El beso",
+      "url": "https://es.wikipedia.org/wiki/El_beso"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "gustav-klimt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

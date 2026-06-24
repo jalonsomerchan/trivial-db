@@ -1,0 +1,42 @@
+{
+  "id": "q-002822",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de vid común?",
+  "answers": [
+    {
+      "text": "Vultur gryphus",
+      "correct": false
+    },
+    {
+      "text": "Aquila chrysaetos",
+      "correct": false
+    },
+    {
+      "text": "Vitis vinifera",
+      "correct": true
+    },
+    {
+      "text": "Canis latrans",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de vid común es Vitis vinifera.",
+  "sources": [
+    {
+      "title": "Wikipedia - vid común",
+      "url": "https://es.wikipedia.org/wiki/vid_com%C3%BAn"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "vid-comun"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002608",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra El caminante sobre el mar de nubes?",
+  "answers": [
+    {
+      "text": "Jean-Michel Basquiat",
+      "correct": false
+    },
+    {
+      "text": "Rafael",
+      "correct": false
+    },
+    {
+      "text": "Caspar David Friedrich",
+      "correct": true
+    },
+    {
+      "text": "Giorgio de Chirico",
+      "correct": false
+    }
+  ],
+  "explanation": "El caminante sobre el mar de nubes es una obra de Caspar David Friedrich.",
+  "sources": [
+    {
+      "title": "Wikipedia - El caminante sobre el mar de nubes",
+      "url": "https://es.wikipedia.org/wiki/El_caminante_sobre_el_mar_de_nubes"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "caspar-david-friedrich"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

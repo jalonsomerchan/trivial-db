@@ -1,0 +1,42 @@
+{
+  "id": "q-002546",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “birdie”?",
+  "answers": [
+    {
+      "text": "balonmano",
+      "correct": false
+    },
+    {
+      "text": "natación",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": true
+    },
+    {
+      "text": "deporte de trineo",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “birdie” se usa en golf.",
+  "sources": [
+    {
+      "title": "Wikipedia - birdie",
+      "url": "https://es.wikipedia.org/wiki/birdie"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "golf"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

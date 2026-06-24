@@ -1,0 +1,43 @@
+{
+  "id": "q-003080",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de La muerte de Virgilio?",
+  "answers": [
+    {
+      "text": "William Makepeace Thackeray",
+      "correct": false
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": false
+    },
+    {
+      "text": "Hermann Broch",
+      "correct": true
+    },
+    {
+      "text": "Robert Musil",
+      "correct": false
+    }
+  ],
+  "explanation": "La muerte de Virgilio fue escrito por Hermann Broch.",
+  "sources": [
+    {
+      "title": "Wikipedia - La muerte de Virgilio",
+      "url": "https://es.wikipedia.org/wiki/La_muerte_de_Virgilio"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "hermann-broch"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

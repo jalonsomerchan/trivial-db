@@ -1,0 +1,43 @@
+{
+  "id": "q-002211",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "endocrinologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hormona mantiene el endometrio y participa en el embarazo?",
+  "answers": [
+    {
+      "text": "secretina",
+      "correct": false
+    },
+    {
+      "text": "cortisol",
+      "correct": false
+    },
+    {
+      "text": "progesterona",
+      "correct": true
+    },
+    {
+      "text": "somatostatina",
+      "correct": false
+    }
+  ],
+  "explanation": "La hormona relacionada con esa función es progesterona.",
+  "sources": [
+    {
+      "title": "progesterona",
+      "url": "https://medlineplus.gov/spanish/hormones.html"
+    }
+  ],
+  "tags": [
+    "hormonas",
+    "endocrinologia",
+    "progesterona"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

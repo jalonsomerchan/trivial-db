@@ -1,0 +1,43 @@
+{
+  "id": "q-002420",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Close-Up?",
+  "answers": [
+    {
+      "text": "F. W. Murnau",
+      "correct": false
+    },
+    {
+      "text": "Abbas Kiarostami",
+      "correct": true
+    },
+    {
+      "text": "Fritz Lang",
+      "correct": false
+    },
+    {
+      "text": "Maren Ade",
+      "correct": false
+    }
+  ],
+  "explanation": "Close-Up fue dirigida por Abbas Kiarostami.",
+  "sources": [
+    {
+      "title": "Wikipedia - Close-Up",
+      "url": "https://es.wikipedia.org/wiki/Close-Up"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "abbas-kiarostami"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

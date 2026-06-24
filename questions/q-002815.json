@@ -1,0 +1,42 @@
+{
+  "id": "q-002815",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de abeja europea?",
+  "answers": [
+    {
+      "text": "Pongo pygmaeus",
+      "correct": false
+    },
+    {
+      "text": "Oryctes nasicornis",
+      "correct": false
+    },
+    {
+      "text": "Apis mellifera",
+      "correct": true
+    },
+    {
+      "text": "Ursus maritimus",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de abeja europea es Apis mellifera.",
+  "sources": [
+    {
+      "title": "Wikipedia - abeja europea",
+      "url": "https://es.wikipedia.org/wiki/abeja_europea"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "abeja-europea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

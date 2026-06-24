@@ -1,0 +1,42 @@
+{
+  "id": "q-002218",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la hueso largo del muslo?",
+  "answers": [
+    {
+      "text": "hipotálamo",
+      "correct": false
+    },
+    {
+      "text": "fémur",
+      "correct": true
+    },
+    {
+      "text": "válvula tricúspide",
+      "correct": false
+    },
+    {
+      "text": "bazo",
+      "correct": false
+    }
+  ],
+  "explanation": "La hueso largo del muslo se llama fémur.",
+  "sources": [
+    {
+      "title": "fémur",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "femur"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002419",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película El sur?",
+  "answers": [
+    {
+      "text": "Chris Marker",
+      "correct": false
+    },
+    {
+      "text": "Akira Kurosawa",
+      "correct": false
+    },
+    {
+      "text": "Chantal Akerman",
+      "correct": false
+    },
+    {
+      "text": "Víctor Erice",
+      "correct": true
+    }
+  ],
+  "explanation": "El sur fue dirigida por Víctor Erice.",
+  "sources": [
+    {
+      "title": "Wikipedia - El sur",
+      "url": "https://es.wikipedia.org/wiki/El_sur"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "victor-erice"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

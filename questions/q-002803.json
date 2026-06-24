@@ -1,0 +1,42 @@
+{
+  "id": "q-002803",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de halcón peregrino?",
+  "answers": [
+    {
+      "text": "Vitis vinifera",
+      "correct": false
+    },
+    {
+      "text": "Varanus komodoensis",
+      "correct": false
+    },
+    {
+      "text": "Camelus bactrianus",
+      "correct": false
+    },
+    {
+      "text": "Falco peregrinus",
+      "correct": true
+    }
+  ],
+  "explanation": "El nombre científico de halcón peregrino es Falco peregrinus.",
+  "sources": [
+    {
+      "title": "Wikipedia - halcón peregrino",
+      "url": "https://es.wikipedia.org/wiki/halc%C3%B3n_peregrino"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "halcon-peregrino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

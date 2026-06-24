@@ -1,0 +1,43 @@
+{
+  "id": "q-002440",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Aguirre, la cólera de Dios?",
+  "answers": [
+    {
+      "text": "David Lynch",
+      "correct": false
+    },
+    {
+      "text": "Ken Loach",
+      "correct": false
+    },
+    {
+      "text": "Werner Herzog",
+      "correct": true
+    },
+    {
+      "text": "John Cassavetes",
+      "correct": false
+    }
+  ],
+  "explanation": "Aguirre, la cólera de Dios fue dirigida por Werner Herzog.",
+  "sources": [
+    {
+      "title": "Wikipedia - Aguirre, la cólera de Dios",
+      "url": "https://es.wikipedia.org/wiki/Aguirre%2C_la_c%C3%B3lera_de_Dios"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "werner-herzog"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

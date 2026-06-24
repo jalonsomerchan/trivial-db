@@ -1,0 +1,43 @@
+{
+  "id": "q-002197",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "endocrinologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hormona aumenta el calcio en sangre actuando sobre hueso y riñón?",
+  "answers": [
+    {
+      "text": "parathormona",
+      "correct": true
+    },
+    {
+      "text": "aldosterona",
+      "correct": false
+    },
+    {
+      "text": "gastrina",
+      "correct": false
+    },
+    {
+      "text": "leptina",
+      "correct": false
+    }
+  ],
+  "explanation": "La hormona relacionada con esa función es parathormona.",
+  "sources": [
+    {
+      "title": "parathormona",
+      "url": "https://medlineplus.gov/spanish/hormones.html"
+    }
+  ],
+  "tags": [
+    "hormonas",
+    "endocrinologia",
+    "parathormona"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

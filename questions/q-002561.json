@@ -1,0 +1,42 @@
+{
+  "id": "q-002561",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “balk”?",
+  "answers": [
+    {
+      "text": "voleibol",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": true
+    },
+    {
+      "text": "tenis",
+      "correct": false
+    },
+    {
+      "text": "esquí alpino",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “balk” se usa en béisbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - balk",
+      "url": "https://es.wikipedia.org/wiki/balk"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "beisbol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

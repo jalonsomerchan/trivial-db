@@ -1,0 +1,43 @@
+{
+  "id": "q-002451",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Safe?",
+  "answers": [
+    {
+      "text": "Todd Haynes",
+      "correct": true
+    },
+    {
+      "text": "Maren Ade",
+      "correct": false
+    },
+    {
+      "text": "Gillo Pontecorvo",
+      "correct": false
+    },
+    {
+      "text": "Abbas Kiarostami",
+      "correct": false
+    }
+  ],
+  "explanation": "Safe fue dirigida por Todd Haynes.",
+  "sources": [
+    {
+      "title": "Wikipedia - Safe",
+      "url": "https://es.wikipedia.org/wiki/Safe"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "todd-haynes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002707",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió Cuadros de una exposición?",
+  "answers": [
+    {
+      "text": "Modest Músorgski",
+      "correct": true
+    },
+    {
+      "text": "Giuseppe Verdi",
+      "correct": false
+    },
+    {
+      "text": "Richard Wagner",
+      "correct": false
+    },
+    {
+      "text": "Camille Saint-Saëns",
+      "correct": false
+    }
+  ],
+  "explanation": "Cuadros de una exposición fue compuesto por Modest Músorgski.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cuadros de una exposición",
+      "url": "https://es.wikipedia.org/wiki/Cuadros_de_una_exposici%C3%B3n"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "modest-musorgski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

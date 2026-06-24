@@ -1,0 +1,42 @@
+{
+  "id": "q-002780",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "formas-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué forma o género musical se define como “pieza introductoria o breve de carácter libre”?",
+  "answers": [
+    {
+      "text": "preludio",
+      "correct": true
+    },
+    {
+      "text": "concierto",
+      "correct": false
+    },
+    {
+      "text": "motete",
+      "correct": false
+    },
+    {
+      "text": "ballet",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma o género definido es preludio.",
+  "sources": [
+    {
+      "title": "Wikipedia - preludio",
+      "url": "https://es.wikipedia.org/wiki/preludio"
+    }
+  ],
+  "tags": [
+    "formas-musicales",
+    "preludio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

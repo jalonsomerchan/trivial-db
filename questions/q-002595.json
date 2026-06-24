@@ -1,0 +1,43 @@
+{
+  "id": "q-002595",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra La extracción de la piedra de la locura?",
+  "answers": [
+    {
+      "text": "El Bosco",
+      "correct": true
+    },
+    {
+      "text": "Giorgio de Chirico",
+      "correct": false
+    },
+    {
+      "text": "Eugène Delacroix",
+      "correct": false
+    },
+    {
+      "text": "Théodore Géricault",
+      "correct": false
+    }
+  ],
+  "explanation": "La extracción de la piedra de la locura es una obra de El Bosco.",
+  "sources": [
+    {
+      "title": "Wikipedia - La extracción de la piedra de la locura",
+      "url": "https://es.wikipedia.org/wiki/La_extracci%C3%B3n_de_la_piedra_de_la_locura"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "el-bosco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

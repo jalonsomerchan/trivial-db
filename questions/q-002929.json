@@ -1,0 +1,43 @@
+{
+  "id": "q-002929",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Diario de un poeta recién casado?",
+  "answers": [
+    {
+      "text": "Marcel Proust",
+      "correct": false
+    },
+    {
+      "text": "Juan Ramón Jiménez",
+      "correct": true
+    },
+    {
+      "text": "Honoré de Balzac",
+      "correct": false
+    },
+    {
+      "text": "Dámaso Alonso",
+      "correct": false
+    }
+  ],
+  "explanation": "Diario de un poeta recién casado fue escrito por Juan Ramón Jiménez.",
+  "sources": [
+    {
+      "title": "Wikipedia - Diario de un poeta recién casado",
+      "url": "https://es.wikipedia.org/wiki/Diario_de_un_poeta_reci%C3%A9n_casado"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "juan-ramon-jimenez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

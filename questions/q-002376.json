@@ -1,0 +1,42 @@
+{
+  "id": "q-002376",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "patrones-de-diseno"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué patrón de diseño busca delegar la creación de objetos en subclases o métodos especializados?",
+  "answers": [
+    {
+      "text": "Observer",
+      "correct": false
+    },
+    {
+      "text": "Factory Method",
+      "correct": true
+    },
+    {
+      "text": "Strategy",
+      "correct": false
+    },
+    {
+      "text": "Composite",
+      "correct": false
+    }
+  ],
+  "explanation": "El patrón Factory Method busca delegar la creación de objetos en subclases o métodos especializados.",
+  "sources": [
+    {
+      "title": "Factory Method",
+      "url": "https://en.wikipedia.org/wiki/Software_design_pattern"
+    }
+  ],
+  "tags": [
+    "patrones-de-diseno",
+    "factory-method"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

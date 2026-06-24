@@ -1,0 +1,43 @@
+{
+  "id": "q-002335",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "algoritmos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué complejidad temporal se asocia normalmente con mergesort?",
+  "answers": [
+    {
+      "text": "O(n²)",
+      "correct": false
+    },
+    {
+      "text": "O(n log n)",
+      "correct": true
+    },
+    {
+      "text": "O(n² log n)",
+      "correct": false
+    },
+    {
+      "text": "O(n)",
+      "correct": false
+    }
+  ],
+  "explanation": "Mergesort se asocia normalmente con complejidad O(n log n).",
+  "sources": [
+    {
+      "title": "mergesort",
+      "url": "https://en.wikipedia.org/wiki/Time_complexity"
+    }
+  ],
+  "tags": [
+    "algoritmos",
+    "complejidad",
+    "mergesort"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

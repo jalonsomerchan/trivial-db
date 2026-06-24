@@ -1,0 +1,42 @@
+{
+  "id": "q-003070",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "microbiologia-medica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la bacteria asociada clásicamente a la tuberculosis?",
+  "answers": [
+    {
+      "text": "Escherichia coli",
+      "correct": false
+    },
+    {
+      "text": "Streptococcus pyogenes",
+      "correct": false
+    },
+    {
+      "text": "virus de Epstein-Barr",
+      "correct": false
+    },
+    {
+      "text": "Mycobacterium tuberculosis",
+      "correct": true
+    }
+  ],
+  "explanation": "Mycobacterium tuberculosis es la bacteria asociada clásicamente a la tuberculosis.",
+  "sources": [
+    {
+      "title": "Mycobacterium tuberculosis",
+      "url": "https://medlineplus.gov/spanish/infectiousdiseases.html"
+    }
+  ],
+  "tags": [
+    "microbiologia",
+    "mycobacterium-tuberculosis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

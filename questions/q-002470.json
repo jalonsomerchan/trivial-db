@@ -1,0 +1,43 @@
+{
+  "id": "q-002470",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Pozos de ambición?",
+  "answers": [
+    {
+      "text": "Alain Resnais",
+      "correct": false
+    },
+    {
+      "text": "László Nemes",
+      "correct": false
+    },
+    {
+      "text": "Spike Lee",
+      "correct": false
+    },
+    {
+      "text": "Paul Thomas Anderson",
+      "correct": true
+    }
+  ],
+  "explanation": "Pozos de ambición fue dirigida por Paul Thomas Anderson.",
+  "sources": [
+    {
+      "title": "Wikipedia - Pozos de ambición",
+      "url": "https://es.wikipedia.org/wiki/Pozos_de_ambici%C3%B3n"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "paul-thomas-anderson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

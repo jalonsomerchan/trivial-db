@@ -1,0 +1,42 @@
+{
+  "id": "q-002824",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de maíz?",
+  "answers": [
+    {
+      "text": "Zea mays",
+      "correct": true
+    },
+    {
+      "text": "Balaenoptera musculus",
+      "correct": false
+    },
+    {
+      "text": "Olea europaea",
+      "correct": false
+    },
+    {
+      "text": "Falco peregrinus",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de maíz es Zea mays.",
+  "sources": [
+    {
+      "title": "Wikipedia - maíz",
+      "url": "https://es.wikipedia.org/wiki/ma%C3%ADz"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "maiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

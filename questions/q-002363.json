@@ -1,0 +1,42 @@
+{
+  "id": "q-002363",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "En bases de datos, ¿qué término se define como “sentencia para consultar datos”?",
+  "answers": [
+    {
+      "text": "SELECT",
+      "correct": true
+    },
+    {
+      "text": "normalización",
+      "correct": false
+    },
+    {
+      "text": "JOIN",
+      "correct": false
+    },
+    {
+      "text": "SQL injection",
+      "correct": false
+    }
+  ],
+  "explanation": "En bases de datos, “sentencia para consultar datos” corresponde a SELECT.",
+  "sources": [
+    {
+      "title": "SELECT",
+      "url": "https://en.wikipedia.org/wiki/Database"
+    }
+  ],
+  "tags": [
+    "bases-de-datos",
+    "select"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

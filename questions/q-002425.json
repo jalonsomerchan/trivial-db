@@ -1,0 +1,43 @@
+{
+  "id": "q-002425",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Un condenado a muerte se ha escapado?",
+  "answers": [
+    {
+      "text": "François Truffaut",
+      "correct": false
+    },
+    {
+      "text": "Michael Haneke",
+      "correct": false
+    },
+    {
+      "text": "Robert Bresson",
+      "correct": true
+    },
+    {
+      "text": "George A. Romero",
+      "correct": false
+    }
+  ],
+  "explanation": "Un condenado a muerte se ha escapado fue dirigida por Robert Bresson.",
+  "sources": [
+    {
+      "title": "Wikipedia - Un condenado a muerte se ha escapado",
+      "url": "https://es.wikipedia.org/wiki/Un_condenado_a_muerte_se_ha_escapado"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "robert-bresson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

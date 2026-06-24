@@ -1,0 +1,43 @@
+{
+  "id": "q-002606",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra La muerte de Marat?",
+  "answers": [
+    {
+      "text": "Jacques-Louis David",
+      "correct": true
+    },
+    {
+      "text": "Eugène Delacroix",
+      "correct": false
+    },
+    {
+      "text": "Rafael",
+      "correct": false
+    },
+    {
+      "text": "Amedeo Modigliani",
+      "correct": false
+    }
+  ],
+  "explanation": "La muerte de Marat es una obra de Jacques-Louis David.",
+  "sources": [
+    {
+      "title": "Wikipedia - La muerte de Marat",
+      "url": "https://es.wikipedia.org/wiki/La_muerte_de_Marat"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "jacques-louis-david"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

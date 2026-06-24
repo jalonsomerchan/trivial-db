@@ -1,0 +1,42 @@
+{
+  "id": "q-002874",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término de ciencias de la Tierra corresponde a “valle glaciar inundado por el mar”?",
+  "answers": [
+    {
+      "text": "fiordo",
+      "correct": true
+    },
+    {
+      "text": "Richter",
+      "correct": false
+    },
+    {
+      "text": "rifting",
+      "correct": false
+    },
+    {
+      "text": "sinclinal",
+      "correct": false
+    }
+  ],
+  "explanation": "El término correspondiente a “valle glaciar inundado por el mar” es fiordo.",
+  "sources": [
+    {
+      "title": "Wikipedia - fiordo",
+      "url": "https://es.wikipedia.org/wiki/fiordo"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "fiordo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

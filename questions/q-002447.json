@@ -1,0 +1,43 @@
+{
+  "id": "q-002447",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles?",
+  "answers": [
+    {
+      "text": "Noah Baumbach",
+      "correct": false
+    },
+    {
+      "text": "Chantal Akerman",
+      "correct": true
+    },
+    {
+      "text": "Jean Renoir",
+      "correct": false
+    },
+    {
+      "text": "Kenji Mizoguchi",
+      "correct": false
+    }
+  ],
+  "explanation": "Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles fue dirigida por Chantal Akerman.",
+  "sources": [
+    {
+      "title": "Wikipedia - Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",
+      "url": "https://es.wikipedia.org/wiki/Jeanne_Dielman%2C_23_quai_du_Commerce%2C_1080_Bruxelles"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "chantal-akerman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

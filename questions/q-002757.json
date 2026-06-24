@@ -1,0 +1,42 @@
+{
+  "id": "q-002757",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-y-generos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué figura, práctica o contexto se asocia especialmente el término musical scat?",
+  "answers": [
+    {
+      "text": "Ornette Coleman",
+      "correct": false
+    },
+    {
+      "text": "Charlie Parker y Dizzy Gillespie",
+      "correct": false
+    },
+    {
+      "text": "acompañamiento rítmico-armónico improvisado",
+      "correct": false
+    },
+    {
+      "text": "improvisación vocal con sílabas",
+      "correct": true
+    }
+  ],
+  "explanation": "En historia del jazz y músicas afines, scat se asocia con improvisación vocal con sílabas.",
+  "sources": [
+    {
+      "title": "Wikipedia - scat",
+      "url": "https://es.wikipedia.org/wiki/scat"
+    }
+  ],
+  "tags": [
+    "jazz",
+    "scat"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

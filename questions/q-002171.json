@@ -1,0 +1,42 @@
+{
+  "id": "q-002171",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Sancerre blanco?",
+  "answers": [
+    {
+      "text": "nebbiolo",
+      "correct": false
+    },
+    {
+      "text": "sauvignon blanc",
+      "correct": true
+    },
+    {
+      "text": "gewürztraminer",
+      "correct": false
+    },
+    {
+      "text": "albariño",
+      "correct": false
+    }
+  ],
+  "explanation": "Sancerre blanco se asocia especialmente con sauvignon blanc.",
+  "sources": [
+    {
+      "title": "Wikipedia - Sancerre blanco",
+      "url": "https://es.wikipedia.org/wiki/Sancerre_blanco"
+    }
+  ],
+  "tags": [
+    "vino",
+    "sancerre-blanco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

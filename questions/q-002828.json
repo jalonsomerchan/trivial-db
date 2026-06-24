@@ -1,0 +1,42 @@
+{
+  "id": "q-002828",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de cacao?",
+  "answers": [
+    {
+      "text": "Aptenodytes forsteri",
+      "correct": false
+    },
+    {
+      "text": "Solanum lycopersicum",
+      "correct": false
+    },
+    {
+      "text": "Theobroma cacao",
+      "correct": true
+    },
+    {
+      "text": "Olea europaea",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de cacao es Theobroma cacao.",
+  "sources": [
+    {
+      "title": "Wikipedia - cacao",
+      "url": "https://es.wikipedia.org/wiki/cacao"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "cacao"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

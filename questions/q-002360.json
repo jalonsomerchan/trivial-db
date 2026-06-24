@@ -1,0 +1,42 @@
+{
+  "id": "q-002360",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "En bases de datos, ¿qué término se define como “reversión de cambios de una transacción”?",
+  "answers": [
+    {
+      "text": "JOIN",
+      "correct": false
+    },
+    {
+      "text": "rollback",
+      "correct": true
+    },
+    {
+      "text": "transacción",
+      "correct": false
+    },
+    {
+      "text": "SELECT",
+      "correct": false
+    }
+  ],
+  "explanation": "En bases de datos, “reversión de cambios de una transacción” corresponde a rollback.",
+  "sources": [
+    {
+      "title": "rollback",
+      "url": "https://en.wikipedia.org/wiki/Database"
+    }
+  ],
+  "tags": [
+    "bases-de-datos",
+    "rollback"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

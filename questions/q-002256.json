@@ -1,0 +1,42 @@
+{
+  "id": "q-002256",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término médico significa presencia de proteínas en orina?",
+  "answers": [
+    {
+      "text": "proteinuria",
+      "correct": true
+    },
+    {
+      "text": "cianosis",
+      "correct": false
+    },
+    {
+      "text": "anemia",
+      "correct": false
+    },
+    {
+      "text": "leucocitosis",
+      "correct": false
+    }
+  ],
+  "explanation": "El término médico para presencia de proteínas en orina es proteinuria.",
+  "sources": [
+    {
+      "title": "proteinuria",
+      "url": "https://medlineplus.gov/spanish/encyclopedia.html"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "proteinuria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

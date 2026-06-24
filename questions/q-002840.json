@@ -1,0 +1,42 @@
+{
+  "id": "q-002840",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “presencia natural restringida a una zona”?",
+  "answers": [
+    {
+      "text": "endemismo",
+      "correct": true
+    },
+    {
+      "text": "detritívoro",
+      "correct": false
+    },
+    {
+      "text": "especie invasora",
+      "correct": false
+    },
+    {
+      "text": "productor primario",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es endemismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - endemismo",
+      "url": "https://es.wikipedia.org/wiki/endemismo"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "endemismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

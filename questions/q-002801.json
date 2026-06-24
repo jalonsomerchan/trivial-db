@@ -1,0 +1,42 @@
+{
+  "id": "q-002801",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de ornitorrinco?",
+  "answers": [
+    {
+      "text": "Gorilla gorilla",
+      "correct": false
+    },
+    {
+      "text": "Sequoia sempervirens",
+      "correct": false
+    },
+    {
+      "text": "Ornithorhynchus anatinus",
+      "correct": true
+    },
+    {
+      "text": "Solanum lycopersicum",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de ornitorrinco es Ornithorhynchus anatinus.",
+  "sources": [
+    {
+      "title": "Wikipedia - ornitorrinco",
+      "url": "https://es.wikipedia.org/wiki/ornitorrinco"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "ornitorrinco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

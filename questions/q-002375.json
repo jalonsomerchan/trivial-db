@@ -1,0 +1,42 @@
+{
+  "id": "q-002375",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "patrones-de-diseno"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué patrón de diseño busca garantizar una única instancia de una clase?",
+  "answers": [
+    {
+      "text": "Composite",
+      "correct": false
+    },
+    {
+      "text": "Singleton",
+      "correct": true
+    },
+    {
+      "text": "Visitor",
+      "correct": false
+    },
+    {
+      "text": "Factory Method",
+      "correct": false
+    }
+  ],
+  "explanation": "El patrón Singleton busca garantizar una única instancia de una clase.",
+  "sources": [
+    {
+      "title": "Singleton",
+      "url": "https://en.wikipedia.org/wiki/Software_design_pattern"
+    }
+  ],
+  "tags": [
+    "patrones-de-diseno",
+    "singleton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

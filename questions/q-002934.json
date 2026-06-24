@@ -1,0 +1,43 @@
+{
+  "id": "q-002934",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Cumbres borrascosas?",
+  "answers": [
+    {
+      "text": "Emily Brontë",
+      "correct": true
+    },
+    {
+      "text": "William Faulkner",
+      "correct": false
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    },
+    {
+      "text": "Augusto Roa Bastos",
+      "correct": false
+    }
+  ],
+  "explanation": "Cumbres borrascosas fue escrito por Emily Brontë.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cumbres borrascosas",
+      "url": "https://es.wikipedia.org/wiki/Cumbres_borrascosas"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "emily-bronte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

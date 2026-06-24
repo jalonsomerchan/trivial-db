@@ -1,0 +1,43 @@
+{
+  "id": "q-002329",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web-y-http"
+  ],
+  "difficulty": "hard",
+  "question": "En HTTP, ¿qué frase de estado corresponde al código 504?",
+  "answers": [
+    {
+      "text": "Gateway Timeout",
+      "correct": true
+    },
+    {
+      "text": "Bad Request",
+      "correct": false
+    },
+    {
+      "text": "Accepted",
+      "correct": false
+    },
+    {
+      "text": "Conflict",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 504 corresponde a “Gateway Timeout”.",
+  "sources": [
+    {
+      "title": "HTTP 504",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos-de-estado",
+    "504"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002273",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "pruebas-y-laboratorio"
+  ],
+  "difficulty": "medium",
+  "question": "En análisis clínicos, ¿qué nombre recibe producto nitrogenado del metabolismo proteico?",
+  "answers": [
+    {
+      "text": "hemoglobina glucosilada",
+      "correct": false
+    },
+    {
+      "text": "potasio",
+      "correct": false
+    },
+    {
+      "text": "trombocitos",
+      "correct": false
+    },
+    {
+      "text": "urea",
+      "correct": true
+    }
+  ],
+  "explanation": "En análisis clínicos, producto nitrogenado del metabolismo proteico se denomina urea.",
+  "sources": [
+    {
+      "title": "urea",
+      "url": "https://medlineplus.gov/spanish/laboratorytests.html"
+    }
+  ],
+  "tags": [
+    "laboratorio",
+    "urea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

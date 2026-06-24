@@ -1,0 +1,43 @@
+{
+  "id": "q-002885",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de El Aleph?",
+  "answers": [
+    {
+      "text": "Charlotte Brontë",
+      "correct": false
+    },
+    {
+      "text": "Hermann Hesse",
+      "correct": false
+    },
+    {
+      "text": "Carlos Fuentes",
+      "correct": false
+    },
+    {
+      "text": "Jorge Luis Borges",
+      "correct": true
+    }
+  ],
+  "explanation": "El Aleph fue escrito por Jorge Luis Borges.",
+  "sources": [
+    {
+      "title": "Wikipedia - El Aleph",
+      "url": "https://es.wikipedia.org/wiki/El_Aleph"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "jorge-luis-borges"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

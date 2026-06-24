@@ -1,0 +1,42 @@
+{
+  "id": "q-002164",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Barolo?",
+  "answers": [
+    {
+      "text": "sercial",
+      "correct": false
+    },
+    {
+      "text": "cabernet sauvignon y merlot",
+      "correct": false
+    },
+    {
+      "text": "nebbiolo",
+      "correct": true
+    },
+    {
+      "text": "tempranillo",
+      "correct": false
+    }
+  ],
+  "explanation": "Barolo se asocia especialmente con nebbiolo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Barolo",
+      "url": "https://es.wikipedia.org/wiki/Barolo"
+    }
+  ],
+  "tags": [
+    "vino",
+    "barolo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002434",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Ordet?",
+  "answers": [
+    {
+      "text": "Claire Denis",
+      "correct": false
+    },
+    {
+      "text": "Carl Theodor Dreyer",
+      "correct": true
+    },
+    {
+      "text": "George A. Romero",
+      "correct": false
+    },
+    {
+      "text": "Cristian Mungiu",
+      "correct": false
+    }
+  ],
+  "explanation": "Ordet fue dirigida por Carl Theodor Dreyer.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ordet",
+      "url": "https://es.wikipedia.org/wiki/Ordet"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "carl-theodor-dreyer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

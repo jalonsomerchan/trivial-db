@@ -1,0 +1,43 @@
+{
+  "id": "q-002996",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué fecha o periodo se sitúa históricamente Gran Incendio de Londres?",
+  "answers": [
+    {
+      "text": "1986",
+      "correct": false
+    },
+    {
+      "text": "1666",
+      "correct": true
+    },
+    {
+      "text": "1572",
+      "correct": false
+    },
+    {
+      "text": "1096-1099",
+      "correct": false
+    }
+  ],
+  "explanation": "Gran Incendio de Londres se sitúa históricamente en 1666.",
+  "sources": [
+    {
+      "title": "Wikipedia - Gran Incendio de Londres",
+      "url": "https://es.wikipedia.org/wiki/Gran_Incendio_de_Londres"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia",
+    "gran-incendio-de-londres"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

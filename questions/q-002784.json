@@ -1,0 +1,42 @@
+{
+  "id": "q-002784",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de jaguar?",
+  "answers": [
+    {
+      "text": "Ursus maritimus",
+      "correct": false
+    },
+    {
+      "text": "Dermochelys coriacea",
+      "correct": false
+    },
+    {
+      "text": "Ursus arctos",
+      "correct": false
+    },
+    {
+      "text": "Panthera onca",
+      "correct": true
+    }
+  ],
+  "explanation": "El nombre científico de jaguar es Panthera onca.",
+  "sources": [
+    {
+      "title": "Wikipedia - jaguar",
+      "url": "https://es.wikipedia.org/wiki/jaguar"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "jaguar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

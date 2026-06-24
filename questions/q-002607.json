@@ -1,0 +1,43 @@
+{
+  "id": "q-002607",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra El juramento de los Horacios?",
+  "answers": [
+    {
+      "text": "Joan Miró",
+      "correct": false
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": false
+    },
+    {
+      "text": "Jacques-Louis David",
+      "correct": true
+    },
+    {
+      "text": "Marc Chagall",
+      "correct": false
+    }
+  ],
+  "explanation": "El juramento de los Horacios es una obra de Jacques-Louis David.",
+  "sources": [
+    {
+      "title": "Wikipedia - El juramento de los Horacios",
+      "url": "https://es.wikipedia.org/wiki/El_juramento_de_los_Horacios"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "jacques-louis-david"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

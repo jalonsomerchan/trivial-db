@@ -1,0 +1,43 @@
+{
+  "id": "q-002415",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Chungking Express?",
+  "answers": [
+    {
+      "text": "Luis Buñuel",
+      "correct": false
+    },
+    {
+      "text": "Michael Haneke",
+      "correct": false
+    },
+    {
+      "text": "Wong Kar-wai",
+      "correct": true
+    },
+    {
+      "text": "Claire Denis",
+      "correct": false
+    }
+  ],
+  "explanation": "Chungking Express fue dirigida por Wong Kar-wai.",
+  "sources": [
+    {
+      "title": "Wikipedia - Chungking Express",
+      "url": "https://es.wikipedia.org/wiki/Chungking_Express"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "wong-kar-wai"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

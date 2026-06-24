@@ -1,0 +1,42 @@
+{
+  "id": "q-002850",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “enriquecimiento de nutrientes que puede provocar proliferación de algas”?",
+  "answers": [
+    {
+      "text": "productor primario",
+      "correct": false
+    },
+    {
+      "text": "eutrofización",
+      "correct": true
+    },
+    {
+      "text": "biodiversidad",
+      "correct": false
+    },
+    {
+      "text": "bioma",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es eutrofización.",
+  "sources": [
+    {
+      "title": "Wikipedia - eutrofización",
+      "url": "https://es.wikipedia.org/wiki/eutrofizaci%C3%B3n"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "eutrofizacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002699",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió El anillo del nibelungo?",
+  "answers": [
+    {
+      "text": "Giuseppe Verdi",
+      "correct": false
+    },
+    {
+      "text": "Richard Wagner",
+      "correct": true
+    },
+    {
+      "text": "Franz Liszt",
+      "correct": false
+    },
+    {
+      "text": "Philip Glass",
+      "correct": false
+    }
+  ],
+  "explanation": "El anillo del nibelungo fue compuesto por Richard Wagner.",
+  "sources": [
+    {
+      "title": "Wikipedia - El anillo del nibelungo",
+      "url": "https://es.wikipedia.org/wiki/El_anillo_del_nibelungo"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "richard-wagner"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

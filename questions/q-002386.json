@@ -1,0 +1,43 @@
+{
+  "id": "q-002386",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Los 400 golpes?",
+  "answers": [
+    {
+      "text": "François Truffaut",
+      "correct": true
+    },
+    {
+      "text": "Chris Marker",
+      "correct": false
+    },
+    {
+      "text": "Henri-Georges Clouzot",
+      "correct": false
+    },
+    {
+      "text": "Gus Van Sant",
+      "correct": false
+    }
+  ],
+  "explanation": "Los 400 golpes fue dirigida por François Truffaut.",
+  "sources": [
+    {
+      "title": "Wikipedia - Los 400 golpes",
+      "url": "https://es.wikipedia.org/wiki/Los_400_golpes"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "francois-truffaut"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

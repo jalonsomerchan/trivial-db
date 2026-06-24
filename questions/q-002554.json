@@ -1,0 +1,42 @@
+{
+  "id": "q-002554",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “florete”?",
+  "answers": [
+    {
+      "text": "gimnasia artística",
+      "correct": false
+    },
+    {
+      "text": "esgrima",
+      "correct": true
+    },
+    {
+      "text": "natación",
+      "correct": false
+    },
+    {
+      "text": "curling",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “florete” se usa en esgrima.",
+  "sources": [
+    {
+      "title": "Wikipedia - florete",
+      "url": "https://es.wikipedia.org/wiki/florete"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "esgrima"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

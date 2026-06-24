@@ -1,0 +1,42 @@
+{
+  "id": "q-002222",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la hueso lateral de la pierna?",
+  "answers": [
+    {
+      "text": "íleon",
+      "correct": false
+    },
+    {
+      "text": "duodeno",
+      "correct": false
+    },
+    {
+      "text": "peroné",
+      "correct": true
+    },
+    {
+      "text": "esófago",
+      "correct": false
+    }
+  ],
+  "explanation": "La hueso lateral de la pierna se llama peroné.",
+  "sources": [
+    {
+      "title": "peroné",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "perone"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

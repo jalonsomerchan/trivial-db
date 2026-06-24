@@ -1,0 +1,42 @@
+{
+  "id": "q-002229",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la órgano que almacena bilis?",
+  "answers": [
+    {
+      "text": "vesícula biliar",
+      "correct": true
+    },
+    {
+      "text": "laringe",
+      "correct": false
+    },
+    {
+      "text": "iris",
+      "correct": false
+    },
+    {
+      "text": "estribo",
+      "correct": false
+    }
+  ],
+  "explanation": "La órgano que almacena bilis se llama vesícula biliar.",
+  "sources": [
+    {
+      "title": "vesícula biliar",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "vesicula-biliar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

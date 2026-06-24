@@ -1,0 +1,42 @@
+{
+  "id": "q-002179",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Carménère chileno?",
+  "answers": [
+    {
+      "text": "carménère",
+      "correct": true
+    },
+    {
+      "text": "syrah",
+      "correct": false
+    },
+    {
+      "text": "riesling",
+      "correct": false
+    },
+    {
+      "text": "nebbiolo",
+      "correct": false
+    }
+  ],
+  "explanation": "Carménère chileno se asocia especialmente con carménère.",
+  "sources": [
+    {
+      "title": "Wikipedia - Carménère chileno",
+      "url": "https://es.wikipedia.org/wiki/Carm%C3%A9n%C3%A8re_chileno"
+    }
+  ],
+  "tags": [
+    "vino",
+    "carmenere-chileno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002928",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Platero y yo?",
+  "answers": [
+    {
+      "text": "Juan Ramón Jiménez",
+      "correct": true
+    },
+    {
+      "text": "Ernest Hemingway",
+      "correct": false
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    },
+    {
+      "text": "Stendhal",
+      "correct": false
+    }
+  ],
+  "explanation": "Platero y yo fue escrito por Juan Ramón Jiménez.",
+  "sources": [
+    {
+      "title": "Wikipedia - Platero y yo",
+      "url": "https://es.wikipedia.org/wiki/Platero_y_yo"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "juan-ramon-jimenez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

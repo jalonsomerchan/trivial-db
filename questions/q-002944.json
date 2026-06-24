@@ -1,0 +1,43 @@
+{
+  "id": "q-002944",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Orlando?",
+  "answers": [
+    {
+      "text": "Virginia Woolf",
+      "correct": true
+    },
+    {
+      "text": "Federico García Lorca",
+      "correct": false
+    },
+    {
+      "text": "Pablo Neruda",
+      "correct": false
+    },
+    {
+      "text": "Ernesto Sabato",
+      "correct": false
+    }
+  ],
+  "explanation": "Orlando fue escrito por Virginia Woolf.",
+  "sources": [
+    {
+      "title": "Wikipedia - Orlando",
+      "url": "https://es.wikipedia.org/wiki/Orlando"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "virginia-woolf"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

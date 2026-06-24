@@ -1,0 +1,42 @@
+{
+  "id": "q-002682",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió El clave bien temperado?",
+  "answers": [
+    {
+      "text": "Johann Sebastian Bach",
+      "correct": true
+    },
+    {
+      "text": "Franz Schubert",
+      "correct": false
+    },
+    {
+      "text": "Antonín Dvořák",
+      "correct": false
+    },
+    {
+      "text": "Modest Músorgski",
+      "correct": false
+    }
+  ],
+  "explanation": "El clave bien temperado fue compuesto por Johann Sebastian Bach.",
+  "sources": [
+    {
+      "title": "Wikipedia - El clave bien temperado",
+      "url": "https://es.wikipedia.org/wiki/El_clave_bien_temperado"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "johann-sebastian-bach"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

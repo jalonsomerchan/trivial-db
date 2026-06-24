@@ -1,0 +1,42 @@
+{
+  "id": "q-002223",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la músculo principal de la respiración?",
+  "answers": [
+    {
+      "text": "válvula tricúspide",
+      "correct": false
+    },
+    {
+      "text": "ventrículo izquierdo",
+      "correct": false
+    },
+    {
+      "text": "diafragma",
+      "correct": true
+    },
+    {
+      "text": "nefrona",
+      "correct": false
+    }
+  ],
+  "explanation": "La músculo principal de la respiración se llama diafragma.",
+  "sources": [
+    {
+      "title": "diafragma",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "diafragma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

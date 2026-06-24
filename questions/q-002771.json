@@ -1,0 +1,42 @@
+{
+  "id": "q-002771",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "formas-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué forma o género musical se define como “obra vocal con varios números para solistas, coro o instrumentos”?",
+  "answers": [
+    {
+      "text": "cantata",
+      "correct": true
+    },
+    {
+      "text": "preludio",
+      "correct": false
+    },
+    {
+      "text": "sonata",
+      "correct": false
+    },
+    {
+      "text": "poema sinfónico",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma o género definido es cantata.",
+  "sources": [
+    {
+      "title": "Wikipedia - cantata",
+      "url": "https://es.wikipedia.org/wiki/cantata"
+    }
+  ],
+  "tags": [
+    "formas-musicales",
+    "cantata"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

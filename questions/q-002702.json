@@ -1,0 +1,42 @@
+{
+  "id": "q-002702",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió La traviata?",
+  "answers": [
+    {
+      "text": "Giuseppe Verdi",
+      "correct": true
+    },
+    {
+      "text": "Johann Sebastian Bach",
+      "correct": false
+    },
+    {
+      "text": "Benjamin Britten",
+      "correct": false
+    },
+    {
+      "text": "Johannes Brahms",
+      "correct": false
+    }
+  ],
+  "explanation": "La traviata fue compuesto por Giuseppe Verdi.",
+  "sources": [
+    {
+      "title": "Wikipedia - La traviata",
+      "url": "https://es.wikipedia.org/wiki/La_traviata"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "giuseppe-verdi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

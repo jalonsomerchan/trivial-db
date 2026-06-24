@@ -1,0 +1,42 @@
+{
+  "id": "q-002664",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se caracteriza por búsqueda de estructura o expresión tras el impresionismo?",
+  "answers": [
+    {
+      "text": "dadaísmo",
+      "correct": false
+    },
+    {
+      "text": "futurismo",
+      "correct": false
+    },
+    {
+      "text": "land art",
+      "correct": false
+    },
+    {
+      "text": "posimpresionismo",
+      "correct": true
+    }
+  ],
+  "explanation": "El movimiento descrito es el posimpresionismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - posimpresionismo",
+      "url": "https://es.wikipedia.org/wiki/posimpresionismo"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "posimpresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

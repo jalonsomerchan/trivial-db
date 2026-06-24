@@ -1,0 +1,43 @@
+{
+  "id": "q-002319",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web-y-http"
+  ],
+  "difficulty": "hard",
+  "question": "En HTTP, ¿qué frase de estado corresponde al código 409?",
+  "answers": [
+    {
+      "text": "Conflict",
+      "correct": true
+    },
+    {
+      "text": "Temporary Redirect",
+      "correct": false
+    },
+    {
+      "text": "Payment Required",
+      "correct": false
+    },
+    {
+      "text": "Gateway Timeout",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 409 corresponde a “Conflict”.",
+  "sources": [
+    {
+      "title": "HTTP 409",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos-de-estado",
+    "409"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

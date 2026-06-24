@@ -1,0 +1,42 @@
+{
+  "id": "q-002493",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "juegos-olimpicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ciudad organizó los Juegos Olímpicos de 1948?",
+  "answers": [
+    {
+      "text": "Amberes",
+      "correct": false
+    },
+    {
+      "text": "Calgary",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": true
+    },
+    {
+      "text": "Seúl",
+      "correct": false
+    }
+  ],
+  "explanation": "Los Juegos Olímpicos de 1948 se celebraron en Londres.",
+  "sources": [
+    {
+      "title": "Wikipedia - Juegos Olímpicos",
+      "url": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "londres"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

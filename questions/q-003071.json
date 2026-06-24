@@ -1,0 +1,42 @@
+{
+  "id": "q-003071",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "microbiologia-medica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la bacteria asociada a la enfermedad de Lyme?",
+  "answers": [
+    {
+      "text": "Borrelia burgdorferi",
+      "correct": true
+    },
+    {
+      "text": "Plasmodium falciparum",
+      "correct": false
+    },
+    {
+      "text": "Streptococcus pyogenes",
+      "correct": false
+    },
+    {
+      "text": "Helicobacter pylori",
+      "correct": false
+    }
+  ],
+  "explanation": "Borrelia burgdorferi es la bacteria asociada a la enfermedad de Lyme.",
+  "sources": [
+    {
+      "title": "Borrelia burgdorferi",
+      "url": "https://medlineplus.gov/spanish/infectiousdiseases.html"
+    }
+  ],
+  "tags": [
+    "microbiologia",
+    "borrelia-burgdorferi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

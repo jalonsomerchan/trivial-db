@@ -1,0 +1,42 @@
+{
+  "id": "q-002252",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término médico significa inflamación de articulaciones?",
+  "answers": [
+    {
+      "text": "disnea",
+      "correct": false
+    },
+    {
+      "text": "bradicardia",
+      "correct": false
+    },
+    {
+      "text": "dermatitis",
+      "correct": false
+    },
+    {
+      "text": "artritis",
+      "correct": true
+    }
+  ],
+  "explanation": "El término médico para inflamación de articulaciones es artritis.",
+  "sources": [
+    {
+      "title": "artritis",
+      "url": "https://medlineplus.gov/spanish/encyclopedia.html"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "artritis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002338",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "algoritmos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué complejidad temporal se asocia normalmente con inserción en una pila?",
+  "answers": [
+    {
+      "text": "O(n²)",
+      "correct": false
+    },
+    {
+      "text": "O(sqrt(n))",
+      "correct": false
+    },
+    {
+      "text": "O(1)",
+      "correct": true
+    },
+    {
+      "text": "O(n³)",
+      "correct": false
+    }
+  ],
+  "explanation": "Inserción en una pila se asocia normalmente con complejidad O(1).",
+  "sources": [
+    {
+      "title": "inserción en una pila",
+      "url": "https://en.wikipedia.org/wiki/Time_complexity"
+    }
+  ],
+  "tags": [
+    "algoritmos",
+    "complejidad",
+    "insercion-en-una-pila"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

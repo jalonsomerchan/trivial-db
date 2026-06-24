@@ -1,0 +1,42 @@
+{
+  "id": "q-003078",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "microbiologia-medica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la bacteria que puede producir toxina botulínica?",
+  "answers": [
+    {
+      "text": "virus de Epstein-Barr",
+      "correct": false
+    },
+    {
+      "text": "Clostridium botulinum",
+      "correct": true
+    },
+    {
+      "text": "Clostridium tetani",
+      "correct": false
+    },
+    {
+      "text": "Escherichia coli",
+      "correct": false
+    }
+  ],
+  "explanation": "Clostridium botulinum es la bacteria que puede producir toxina botulínica.",
+  "sources": [
+    {
+      "title": "Clostridium botulinum",
+      "url": "https://medlineplus.gov/spanish/infectiousdiseases.html"
+    }
+  ],
+  "tags": [
+    "microbiologia",
+    "clostridium-botulinum"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

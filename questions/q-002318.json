@@ -1,0 +1,43 @@
+{
+  "id": "q-002318",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web-y-http"
+  ],
+  "difficulty": "hard",
+  "question": "En HTTP, ¿qué frase de estado corresponde al código 405?",
+  "answers": [
+    {
+      "text": "Payment Required",
+      "correct": false
+    },
+    {
+      "text": "Gateway Timeout",
+      "correct": false
+    },
+    {
+      "text": "Unsupported Media Type",
+      "correct": false
+    },
+    {
+      "text": "Method Not Allowed",
+      "correct": true
+    }
+  ],
+  "explanation": "El código HTTP 405 corresponde a “Method Not Allowed”.",
+  "sources": [
+    {
+      "title": "HTTP 405",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos-de-estado",
+    "405"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

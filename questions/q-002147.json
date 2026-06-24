@@ -1,0 +1,42 @@
+{
+  "id": "q-002147",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Gruyère?",
+  "answers": [
+    {
+      "text": "leche de vaca",
+      "correct": true
+    },
+    {
+      "text": "leche de cabra",
+      "correct": false
+    },
+    {
+      "text": "mezcla de leche de vaca, oveja o cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de oveja y cabra",
+      "correct": false
+    }
+  ],
+  "explanation": "El queso Gruyère se elabora tradicionalmente con leche de vaca.",
+  "sources": [
+    {
+      "title": "Wikipedia - Gruyère",
+      "url": "https://es.wikipedia.org/wiki/Gruy%C3%A8re"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "gruyere"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

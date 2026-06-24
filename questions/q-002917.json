@@ -1,0 +1,43 @@
+{
+  "id": "q-002917",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Tirano Banderas?",
+  "answers": [
+    {
+      "text": "Juan Rulfo",
+      "correct": false
+    },
+    {
+      "text": "Vicente Huidobro",
+      "correct": false
+    },
+    {
+      "text": "Mario Benedetti",
+      "correct": false
+    },
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": true
+    }
+  ],
+  "explanation": "Tirano Banderas fue escrito por Ramón María del Valle-Inclán.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tirano Banderas",
+      "url": "https://es.wikipedia.org/wiki/Tirano_Banderas"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "ramon-maria-del-valle-inclan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

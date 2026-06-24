@@ -1,0 +1,43 @@
+{
+  "id": "q-002285",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes-y-protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el puerto TCP o UDP estándar asociado normalmente a SMTP?",
+  "answers": [
+    {
+      "text": "23",
+      "correct": false
+    },
+    {
+      "text": "3306",
+      "correct": false
+    },
+    {
+      "text": "25",
+      "correct": true
+    },
+    {
+      "text": "465",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto estándar asociado normalmente a SMTP es 25.",
+  "sources": [
+    {
+      "title": "SMTP",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "redes",
+    "puertos",
+    "smtp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

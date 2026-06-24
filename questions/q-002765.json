@@ -1,0 +1,42 @@
+{
+  "id": "q-002765",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "formas-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué forma o género musical se define como “forma o género instrumental en varios movimientos”?",
+  "answers": [
+    {
+      "text": "sonata",
+      "correct": true
+    },
+    {
+      "text": "concierto",
+      "correct": false
+    },
+    {
+      "text": "poema sinfónico",
+      "correct": false
+    },
+    {
+      "text": "serenata",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma o género definido es sonata.",
+  "sources": [
+    {
+      "title": "Wikipedia - sonata",
+      "url": "https://es.wikipedia.org/wiki/sonata"
+    }
+  ],
+  "tags": [
+    "formas-musicales",
+    "sonata"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

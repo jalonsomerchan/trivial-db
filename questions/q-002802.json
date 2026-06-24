@@ -1,0 +1,42 @@
+{
+  "id": "q-002802",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de águila real?",
+  "answers": [
+    {
+      "text": "Aquila chrysaetos",
+      "correct": true
+    },
+    {
+      "text": "Aptenodytes forsteri",
+      "correct": false
+    },
+    {
+      "text": "Triticum aestivum",
+      "correct": false
+    },
+    {
+      "text": "Drosophila melanogaster",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de águila real es Aquila chrysaetos.",
+  "sources": [
+    {
+      "title": "Wikipedia - águila real",
+      "url": "https://es.wikipedia.org/wiki/%C3%A1guila_real"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "aguila-real"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

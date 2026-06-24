@@ -1,0 +1,43 @@
+{
+  "id": "q-002345",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "algoritmos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué complejidad temporal se asocia normalmente con Dijkstra con cola de prioridad binaria?",
+  "answers": [
+    {
+      "text": "O(2^n)",
+      "correct": false
+    },
+    {
+      "text": "O(n² log n)",
+      "correct": false
+    },
+    {
+      "text": "O((V + E) log V)",
+      "correct": true
+    },
+    {
+      "text": "O(V + E)",
+      "correct": false
+    }
+  ],
+  "explanation": "Dijkstra con cola de prioridad binaria se asocia normalmente con complejidad O((V + E) log V).",
+  "sources": [
+    {
+      "title": "Dijkstra con cola de prioridad binaria",
+      "url": "https://en.wikipedia.org/wiki/Time_complexity"
+    }
+  ],
+  "tags": [
+    "algoritmos",
+    "complejidad",
+    "dijkstra-con-cola-de-prioridad-binaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

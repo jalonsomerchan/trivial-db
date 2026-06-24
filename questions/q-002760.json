@@ -1,0 +1,42 @@
+{
+  "id": "q-002760",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-y-generos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué figura, práctica o contexto se asocia especialmente el término musical comping?",
+  "answers": [
+    {
+      "text": "Miles Davis y John Coltrane",
+      "correct": false
+    },
+    {
+      "text": "improvisación vocal con sílabas",
+      "correct": false
+    },
+    {
+      "text": "acompañamiento rítmico-armónico improvisado",
+      "correct": true
+    },
+    {
+      "text": "Scott Joplin",
+      "correct": false
+    }
+  ],
+  "explanation": "En historia del jazz y músicas afines, comping se asocia con acompañamiento rítmico-armónico improvisado.",
+  "sources": [
+    {
+      "title": "Wikipedia - comping",
+      "url": "https://es.wikipedia.org/wiki/comping"
+    }
+  ],
+  "tags": [
+    "jazz",
+    "comping"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002195",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "endocrinologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hormona participa en la respuesta prolongada al estrés?",
+  "answers": [
+    {
+      "text": "ACTH",
+      "correct": false
+    },
+    {
+      "text": "cortisol",
+      "correct": true
+    },
+    {
+      "text": "grelina",
+      "correct": false
+    },
+    {
+      "text": "FSH",
+      "correct": false
+    }
+  ],
+  "explanation": "La hormona relacionada con esa función es cortisol.",
+  "sources": [
+    {
+      "title": "cortisol",
+      "url": "https://medlineplus.gov/spanish/hormones.html"
+    }
+  ],
+  "tags": [
+    "hormonas",
+    "endocrinologia",
+    "cortisol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003051",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué fecha o periodo se sitúa históricamente Reformas de Clístenes en Atenas?",
+  "answers": [
+    {
+      "text": "1979",
+      "correct": false
+    },
+    {
+      "text": "44 a. C.",
+      "correct": false
+    },
+    {
+      "text": "1588",
+      "correct": false
+    },
+    {
+      "text": "508-507 a. C.",
+      "correct": true
+    }
+  ],
+  "explanation": "Reformas de Clístenes en Atenas se sitúa históricamente en 508-507 a. C..",
+  "sources": [
+    {
+      "title": "Wikipedia - Reformas de Clístenes en Atenas",
+      "url": "https://es.wikipedia.org/wiki/Reformas_de_Cl%C3%ADstenes_en_Atenas"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia",
+    "reformas-de-clistenes-en-atenas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

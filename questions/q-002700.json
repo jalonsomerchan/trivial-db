@@ -1,0 +1,42 @@
+{
+  "id": "q-002700",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió Tristán e Isolda?",
+  "answers": [
+    {
+      "text": "Giacomo Puccini",
+      "correct": false
+    },
+    {
+      "text": "Joseph Haydn",
+      "correct": false
+    },
+    {
+      "text": "Richard Wagner",
+      "correct": true
+    },
+    {
+      "text": "Dmitri Shostakóvich",
+      "correct": false
+    }
+  ],
+  "explanation": "Tristán e Isolda fue compuesto por Richard Wagner.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tristán e Isolda",
+      "url": "https://es.wikipedia.org/wiki/Trist%C3%A1n_e_Isolda"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "richard-wagner"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002139",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Roquefort?",
+  "answers": [
+    {
+      "text": "leche de cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de reno",
+      "correct": false
+    },
+    {
+      "text": "leche de yak",
+      "correct": false
+    },
+    {
+      "text": "leche de oveja",
+      "correct": true
+    }
+  ],
+  "explanation": "El queso Roquefort se elabora tradicionalmente con leche de oveja.",
+  "sources": [
+    {
+      "title": "Wikipedia - Roquefort",
+      "url": "https://es.wikipedia.org/wiki/Roquefort"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "roquefort"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

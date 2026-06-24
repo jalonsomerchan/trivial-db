@@ -1,0 +1,42 @@
+{
+  "id": "q-002280",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "pruebas-y-laboratorio"
+  ],
+  "difficulty": "medium",
+  "question": "En análisis clínicos, ¿qué nombre recibe medida promedio de glucemia de varios meses?",
+  "answers": [
+    {
+      "text": "hemoglobina glucosilada",
+      "correct": true
+    },
+    {
+      "text": "amilasa",
+      "correct": false
+    },
+    {
+      "text": "sodio",
+      "correct": false
+    },
+    {
+      "text": "hemoglobina",
+      "correct": false
+    }
+  ],
+  "explanation": "En análisis clínicos, medida promedio de glucemia de varios meses se denomina hemoglobina glucosilada.",
+  "sources": [
+    {
+      "title": "hemoglobina glucosilada",
+      "url": "https://medlineplus.gov/spanish/laboratorytests.html"
+    }
+  ],
+  "tags": [
+    "laboratorio",
+    "hemoglobina-glucosilada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

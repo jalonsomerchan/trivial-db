@@ -1,0 +1,43 @@
+{
+  "id": "q-002904",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Residencia en la tierra?",
+  "answers": [
+    {
+      "text": "Augusto Roa Bastos",
+      "correct": false
+    },
+    {
+      "text": "Pablo Neruda",
+      "correct": true
+    },
+    {
+      "text": "José Saramago",
+      "correct": false
+    },
+    {
+      "text": "Rafael Alberti",
+      "correct": false
+    }
+  ],
+  "explanation": "Residencia en la tierra fue escrito por Pablo Neruda.",
+  "sources": [
+    {
+      "title": "Wikipedia - Residencia en la tierra",
+      "url": "https://es.wikipedia.org/wiki/Residencia_en_la_tierra"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "pablo-neruda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

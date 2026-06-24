@@ -1,0 +1,42 @@
+{
+  "id": "q-002182",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Jerez fino?",
+  "answers": [
+    {
+      "text": "syrah",
+      "correct": false
+    },
+    {
+      "text": "nebbiolo",
+      "correct": false
+    },
+    {
+      "text": "palomino",
+      "correct": true
+    },
+    {
+      "text": "sauvignon blanc",
+      "correct": false
+    }
+  ],
+  "explanation": "Jerez fino se asocia especialmente con palomino.",
+  "sources": [
+    {
+      "title": "Wikipedia - Jerez fino",
+      "url": "https://es.wikipedia.org/wiki/Jerez_fino"
+    }
+  ],
+  "tags": [
+    "vino",
+    "jerez-fino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002548",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “bogey”?",
+  "answers": [
+    {
+      "text": "halterofilia",
+      "correct": false
+    },
+    {
+      "text": "patinaje artístico",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": true
+    }
+  ],
+  "explanation": "El término “bogey” se usa en golf.",
+  "sources": [
+    {
+      "title": "Wikipedia - bogey",
+      "url": "https://es.wikipedia.org/wiki/bogey"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "golf"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

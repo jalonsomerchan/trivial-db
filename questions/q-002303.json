@@ -1,0 +1,43 @@
+{
+  "id": "q-002303",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes-y-protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el puerto TCP o UDP estándar asociado normalmente a Kubernetes API?",
+  "answers": [
+    {
+      "text": "3306",
+      "correct": false
+    },
+    {
+      "text": "6443",
+      "correct": true
+    },
+    {
+      "text": "143",
+      "correct": false
+    },
+    {
+      "text": "27017",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto estándar asociado normalmente a Kubernetes API es 6443.",
+  "sources": [
+    {
+      "title": "Kubernetes API",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "redes",
+    "puertos",
+    "kubernetes-api"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

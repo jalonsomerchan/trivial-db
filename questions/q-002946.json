@@ -1,0 +1,43 @@
+{
+  "id": "q-002946",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de El ruido y la furia?",
+  "answers": [
+    {
+      "text": "Emily Brontë",
+      "correct": false
+    },
+    {
+      "text": "Jorge Isaacs",
+      "correct": false
+    },
+    {
+      "text": "William Faulkner",
+      "correct": true
+    },
+    {
+      "text": "Günter Grass",
+      "correct": false
+    }
+  ],
+  "explanation": "El ruido y la furia fue escrito por William Faulkner.",
+  "sources": [
+    {
+      "title": "Wikipedia - El ruido y la furia",
+      "url": "https://es.wikipedia.org/wiki/El_ruido_y_la_furia"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "william-faulkner"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

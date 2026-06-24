@@ -1,0 +1,42 @@
+{
+  "id": "q-002792",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de orangután de Borneo?",
+  "answers": [
+    {
+      "text": "Panthera leo",
+      "correct": false
+    },
+    {
+      "text": "Pongo pygmaeus",
+      "correct": true
+    },
+    {
+      "text": "Carcharodon carcharias",
+      "correct": false
+    },
+    {
+      "text": "Danaus plexippus",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de orangután de Borneo es Pongo pygmaeus.",
+  "sources": [
+    {
+      "title": "Wikipedia - orangután de Borneo",
+      "url": "https://es.wikipedia.org/wiki/orangut%C3%A1n_de_Borneo"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "orangutan-de-borneo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

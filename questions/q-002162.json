@@ -1,0 +1,42 @@
+{
+  "id": "q-002162",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Serra da Estrela?",
+  "answers": [
+    {
+      "text": "leche de oveja",
+      "correct": true
+    },
+    {
+      "text": "mezcla de leche de vaca, oveja o cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de camella",
+      "correct": false
+    },
+    {
+      "text": "leche de vaca",
+      "correct": false
+    }
+  ],
+  "explanation": "El queso Serra da Estrela se elabora tradicionalmente con leche de oveja.",
+  "sources": [
+    {
+      "title": "Wikipedia - Serra da Estrela",
+      "url": "https://es.wikipedia.org/wiki/Serra_da_Estrela"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "serra-da-estrela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

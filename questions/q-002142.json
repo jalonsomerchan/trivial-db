@@ -1,0 +1,42 @@
+{
+  "id": "q-002142",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Feta?",
+  "answers": [
+    {
+      "text": "leche de yak",
+      "correct": false
+    },
+    {
+      "text": "mezcla de leche de vaca, oveja o cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de oveja y cabra",
+      "correct": true
+    },
+    {
+      "text": "leche de vaca",
+      "correct": false
+    }
+  ],
+  "explanation": "El queso Feta se elabora tradicionalmente con leche de oveja y cabra.",
+  "sources": [
+    {
+      "title": "Wikipedia - Feta",
+      "url": "https://es.wikipedia.org/wiki/Feta"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "feta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

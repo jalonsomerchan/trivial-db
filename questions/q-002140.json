@@ -1,0 +1,42 @@
+{
+  "id": "q-002140",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Manchego?",
+  "answers": [
+    {
+      "text": "leche de búfala",
+      "correct": false
+    },
+    {
+      "text": "leche de oveja y cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de oveja",
+      "correct": true
+    },
+    {
+      "text": "leche de camella",
+      "correct": false
+    }
+  ],
+  "explanation": "El queso Manchego se elabora tradicionalmente con leche de oveja.",
+  "sources": [
+    {
+      "title": "Wikipedia - Manchego",
+      "url": "https://es.wikipedia.org/wiki/Manchego"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "manchego"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

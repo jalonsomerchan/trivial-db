@@ -1,0 +1,43 @@
+{
+  "id": "q-002096",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una porción ovalada formada con cucharas?",
+  "answers": [
+    {
+      "text": "quenelle",
+      "correct": true
+    },
+    {
+      "text": "marinada",
+      "correct": false
+    },
+    {
+      "text": "gastrique",
+      "correct": false
+    },
+    {
+      "text": "velouté",
+      "correct": false
+    }
+  ],
+  "explanation": "quenelle designa una porción ovalada formada con cucharas.",
+  "sources": [
+    {
+      "title": "Wikipedia - quenelle",
+      "url": "https://es.wikipedia.org/wiki/quenelle"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "quenelle"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

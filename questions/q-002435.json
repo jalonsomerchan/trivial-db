@@ -1,0 +1,43 @@
+{
+  "id": "q-002435",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película La noche del cazador?",
+  "answers": [
+    {
+      "text": "Bernardo Bertolucci",
+      "correct": false
+    },
+    {
+      "text": "Jean-Luc Godard",
+      "correct": false
+    },
+    {
+      "text": "Roman Polanski",
+      "correct": false
+    },
+    {
+      "text": "Charles Laughton",
+      "correct": true
+    }
+  ],
+  "explanation": "La noche del cazador fue dirigida por Charles Laughton.",
+  "sources": [
+    {
+      "title": "Wikipedia - La noche del cazador",
+      "url": "https://es.wikipedia.org/wiki/La_noche_del_cazador"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "charles-laughton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

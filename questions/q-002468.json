@@ -1,0 +1,43 @@
+{
+  "id": "q-002468",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Faces?",
+  "answers": [
+    {
+      "text": "John Cassavetes",
+      "correct": true
+    },
+    {
+      "text": "Víctor Erice",
+      "correct": false
+    },
+    {
+      "text": "Chris Marker",
+      "correct": false
+    },
+    {
+      "text": "Sofia Coppola",
+      "correct": false
+    }
+  ],
+  "explanation": "Faces fue dirigida por John Cassavetes.",
+  "sources": [
+    {
+      "title": "Wikipedia - Faces",
+      "url": "https://es.wikipedia.org/wiki/Faces"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "john-cassavetes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

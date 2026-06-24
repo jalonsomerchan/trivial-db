@@ -1,0 +1,42 @@
+{
+  "id": "q-002773",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "formas-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué forma o género musical se define como “drama musical escenificado”?",
+  "answers": [
+    {
+      "text": "ópera",
+      "correct": true
+    },
+    {
+      "text": "zarzuela",
+      "correct": false
+    },
+    {
+      "text": "poema sinfónico",
+      "correct": false
+    },
+    {
+      "text": "suite",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma o género definido es ópera.",
+  "sources": [
+    {
+      "title": "Wikipedia - ópera",
+      "url": "https://es.wikipedia.org/wiki/%C3%B3pera"
+    }
+  ],
+  "tags": [
+    "formas-musicales",
+    "opera"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

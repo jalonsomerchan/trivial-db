@@ -1,0 +1,43 @@
+{
+  "id": "q-002448",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película News from Home?",
+  "answers": [
+    {
+      "text": "Serguéi Eisenstein",
+      "correct": false
+    },
+    {
+      "text": "Michael Haneke",
+      "correct": false
+    },
+    {
+      "text": "Jean-Pierre Melville",
+      "correct": false
+    },
+    {
+      "text": "Chantal Akerman",
+      "correct": true
+    }
+  ],
+  "explanation": "News from Home fue dirigida por Chantal Akerman.",
+  "sources": [
+    {
+      "title": "Wikipedia - News from Home",
+      "url": "https://es.wikipedia.org/wiki/News_from_Home"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "chantal-akerman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

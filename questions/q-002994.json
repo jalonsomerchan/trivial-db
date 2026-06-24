@@ -1,0 +1,43 @@
+{
+  "id": "q-002994",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué fecha o periodo se sitúa históricamente Derrota de la Armada Invencible?",
+  "answers": [
+    {
+      "text": "1588",
+      "correct": true
+    },
+    {
+      "text": "1815",
+      "correct": false
+    },
+    {
+      "text": "1956",
+      "correct": false
+    },
+    {
+      "text": "1605",
+      "correct": false
+    }
+  ],
+  "explanation": "Derrota de la Armada Invencible se sitúa históricamente en 1588.",
+  "sources": [
+    {
+      "title": "Wikipedia - Derrota de la Armada Invencible",
+      "url": "https://es.wikipedia.org/wiki/Derrota_de_la_Armada_Invencible"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia",
+    "derrota-de-la-armada-invencible"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

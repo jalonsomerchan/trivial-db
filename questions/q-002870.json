@@ -1,0 +1,42 @@
+{
+  "id": "q-002870",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término de ciencias de la Tierra corresponde a “estructura biogénica de carbonato cálcico”?",
+  "answers": [
+    {
+      "text": "arrecife de coral",
+      "correct": true
+    },
+    {
+      "text": "Mohs",
+      "correct": false
+    },
+    {
+      "text": "morrena",
+      "correct": false
+    },
+    {
+      "text": "orogénesis",
+      "correct": false
+    }
+  ],
+  "explanation": "El término correspondiente a “estructura biogénica de carbonato cálcico” es arrecife de coral.",
+  "sources": [
+    {
+      "title": "Wikipedia - arrecife de coral",
+      "url": "https://es.wikipedia.org/wiki/arrecife_de_coral"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "arrecife-de-coral"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

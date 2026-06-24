@@ -1,0 +1,43 @@
+{
+  "id": "q-002962",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de El lobo estepario?",
+  "answers": [
+    {
+      "text": "Hermann Hesse",
+      "correct": true
+    },
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": false
+    },
+    {
+      "text": "Jean-Paul Sartre",
+      "correct": false
+    },
+    {
+      "text": "Thomas Mann",
+      "correct": false
+    }
+  ],
+  "explanation": "El lobo estepario fue escrito por Hermann Hesse.",
+  "sources": [
+    {
+      "title": "Wikipedia - El lobo estepario",
+      "url": "https://es.wikipedia.org/wiki/El_lobo_estepario"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "hermann-hesse"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

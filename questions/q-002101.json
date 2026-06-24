@@ -1,0 +1,43 @@
+{
+  "id": "q-002101",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una segundo fondo obtenido reutilizando huesos ya cocidos?",
+  "answers": [
+    {
+      "text": "roux",
+      "correct": false
+    },
+    {
+      "text": "remouillage",
+      "correct": true
+    },
+    {
+      "text": "tempura",
+      "correct": false
+    },
+    {
+      "text": "sabayon",
+      "correct": false
+    }
+  ],
+  "explanation": "remouillage designa una segundo fondo obtenido reutilizando huesos ya cocidos.",
+  "sources": [
+    {
+      "title": "Wikipedia - remouillage",
+      "url": "https://es.wikipedia.org/wiki/remouillage"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "remouillage"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

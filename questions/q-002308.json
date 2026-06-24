@@ -1,0 +1,43 @@
+{
+  "id": "q-002308",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web-y-http"
+  ],
+  "difficulty": "hard",
+  "question": "En HTTP, ¿qué frase de estado corresponde al código 204?",
+  "answers": [
+    {
+      "text": "No Content",
+      "correct": true
+    },
+    {
+      "text": "Forbidden",
+      "correct": false
+    },
+    {
+      "text": "I'm a teapot",
+      "correct": false
+    },
+    {
+      "text": "Bad Gateway",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 204 corresponde a “No Content”.",
+  "sources": [
+    {
+      "title": "HTTP 204",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos-de-estado",
+    "204"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

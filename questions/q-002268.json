@@ -1,0 +1,42 @@
+{
+  "id": "q-002268",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "pruebas-y-laboratorio"
+  ],
+  "difficulty": "medium",
+  "question": "En análisis clínicos, ¿qué nombre recibe enzima hepática ALT?",
+  "answers": [
+    {
+      "text": "alanina aminotransferasa",
+      "correct": true
+    },
+    {
+      "text": "eritrocitos",
+      "correct": false
+    },
+    {
+      "text": "LDL",
+      "correct": false
+    },
+    {
+      "text": "HDL",
+      "correct": false
+    }
+  ],
+  "explanation": "En análisis clínicos, enzima hepática ALT se denomina alanina aminotransferasa.",
+  "sources": [
+    {
+      "title": "alanina aminotransferasa",
+      "url": "https://medlineplus.gov/spanish/laboratorytests.html"
+    }
+  ],
+  "tags": [
+    "laboratorio",
+    "alanina-aminotransferasa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

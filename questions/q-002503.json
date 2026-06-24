@@ -1,0 +1,42 @@
+{
+  "id": "q-002503",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "juegos-olimpicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ciudad organizó los Juegos Olímpicos de 1988?",
+  "answers": [
+    {
+      "text": "Seúl",
+      "correct": true
+    },
+    {
+      "text": "Lake Placid",
+      "correct": false
+    },
+    {
+      "text": "Oslo",
+      "correct": false
+    },
+    {
+      "text": "Lillehammer",
+      "correct": false
+    }
+  ],
+  "explanation": "Los Juegos Olímpicos de 1988 se celebraron en Seúl.",
+  "sources": [
+    {
+      "title": "Wikipedia - Juegos Olímpicos",
+      "url": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "seul"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

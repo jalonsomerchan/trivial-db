@@ -1,0 +1,43 @@
+{
+  "id": "q-002622",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra La columna rota?",
+  "answers": [
+    {
+      "text": "Jan van Eyck",
+      "correct": false
+    },
+    {
+      "text": "Georges Seurat",
+      "correct": false
+    },
+    {
+      "text": "Frida Kahlo",
+      "correct": true
+    },
+    {
+      "text": "Jean-Michel Basquiat",
+      "correct": false
+    }
+  ],
+  "explanation": "La columna rota es una obra de Frida Kahlo.",
+  "sources": [
+    {
+      "title": "Wikipedia - La columna rota",
+      "url": "https://es.wikipedia.org/wiki/La_columna_rota"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "frida-kahlo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

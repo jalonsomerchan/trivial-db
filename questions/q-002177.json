@@ -1,0 +1,42 @@
+{
+  "id": "q-002177",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Tokaji Aszú?",
+  "answers": [
+    {
+      "text": "macabeo, xarel·lo y parellada",
+      "correct": false
+    },
+    {
+      "text": "touriga nacional y otras variedades",
+      "correct": false
+    },
+    {
+      "text": "tempranillo",
+      "correct": false
+    },
+    {
+      "text": "furmint",
+      "correct": true
+    }
+  ],
+  "explanation": "Tokaji Aszú se asocia especialmente con furmint.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tokaji Aszú",
+      "url": "https://es.wikipedia.org/wiki/Tokaji_Asz%C3%BA"
+    }
+  ],
+  "tags": [
+    "vino",
+    "tokaji-aszu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

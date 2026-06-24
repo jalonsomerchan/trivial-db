@@ -1,0 +1,42 @@
+{
+  "id": "q-002240",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término médico significa nivel bajo de glucosa en sangre?",
+  "answers": [
+    {
+      "text": "hipoglucemia",
+      "correct": true
+    },
+    {
+      "text": "hipotensión",
+      "correct": false
+    },
+    {
+      "text": "hipertensión",
+      "correct": false
+    },
+    {
+      "text": "edema",
+      "correct": false
+    }
+  ],
+  "explanation": "El término médico para nivel bajo de glucosa en sangre es hipoglucemia.",
+  "sources": [
+    {
+      "title": "hipoglucemia",
+      "url": "https://medlineplus.gov/spanish/encyclopedia.html"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "hipoglucemia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

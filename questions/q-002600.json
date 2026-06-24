@@ -1,0 +1,43 @@
+{
+  "id": "q-002600",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra La escuela de Atenas?",
+  "answers": [
+    {
+      "text": "Sandro Botticelli",
+      "correct": false
+    },
+    {
+      "text": "Johannes Vermeer",
+      "correct": false
+    },
+    {
+      "text": "Rafael",
+      "correct": true
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": false
+    }
+  ],
+  "explanation": "La escuela de Atenas es una obra de Rafael.",
+  "sources": [
+    {
+      "title": "Wikipedia - La escuela de Atenas",
+      "url": "https://es.wikipedia.org/wiki/La_escuela_de_Atenas"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "rafael"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

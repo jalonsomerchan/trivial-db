@@ -1,0 +1,42 @@
+{
+  "id": "q-002120",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cocinas-regionales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué región o zona se asocia tradicionalmente nasi goreng?",
+  "answers": [
+    {
+      "text": "Indonesia",
+      "correct": true
+    },
+    {
+      "text": "Puebla",
+      "correct": false
+    },
+    {
+      "text": "Islandia",
+      "correct": false
+    },
+    {
+      "text": "Languedoc",
+      "correct": false
+    }
+  ],
+  "explanation": "Nasi goreng se asocia tradicionalmente con Indonesia.",
+  "sources": [
+    {
+      "title": "Wikipedia - nasi goreng",
+      "url": "https://es.wikipedia.org/wiki/nasi_goreng"
+    }
+  ],
+  "tags": [
+    "cocinas-regionales",
+    "indonesia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

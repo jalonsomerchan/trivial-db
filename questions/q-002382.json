@@ -1,0 +1,42 @@
+{
+  "id": "q-002382",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "patrones-de-diseno"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué patrón de diseño busca construir objetos complejos paso a paso?",
+  "answers": [
+    {
+      "text": "Proxy",
+      "correct": false
+    },
+    {
+      "text": "Decorator",
+      "correct": false
+    },
+    {
+      "text": "Builder",
+      "correct": true
+    },
+    {
+      "text": "Singleton",
+      "correct": false
+    }
+  ],
+  "explanation": "El patrón Builder busca construir objetos complejos paso a paso.",
+  "sources": [
+    {
+      "title": "Builder",
+      "url": "https://en.wikipedia.org/wiki/Software_design_pattern"
+    }
+  ],
+  "tags": [
+    "patrones-de-diseno",
+    "builder"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

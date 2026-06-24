@@ -1,0 +1,42 @@
+{
+  "id": "q-002844",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “interacción en la que una especie vive a costa de otra”?",
+  "answers": [
+    {
+      "text": "parasitismo",
+      "correct": true
+    },
+    {
+      "text": "mutualismo",
+      "correct": false
+    },
+    {
+      "text": "fijación de nitrógeno",
+      "correct": false
+    },
+    {
+      "text": "biodiversidad",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es parasitismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - parasitismo",
+      "url": "https://es.wikipedia.org/wiki/parasitismo"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "parasitismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

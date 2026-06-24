@@ -1,0 +1,43 @@
+{
+  "id": "q-002603",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra La lección de anatomía del Dr. Nicolaes Tulp?",
+  "answers": [
+    {
+      "text": "Pablo Picasso",
+      "correct": false
+    },
+    {
+      "text": "Johannes Vermeer",
+      "correct": false
+    },
+    {
+      "text": "Rembrandt",
+      "correct": true
+    },
+    {
+      "text": "Amedeo Modigliani",
+      "correct": false
+    }
+  ],
+  "explanation": "La lección de anatomía del Dr. Nicolaes Tulp es una obra de Rembrandt.",
+  "sources": [
+    {
+      "title": "Wikipedia - La lección de anatomía del Dr. Nicolaes Tulp",
+      "url": "https://es.wikipedia.org/wiki/La_lecci%C3%B3n_de_anatom%C3%ADa_del_Dr._Nicolaes_Tulp"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "rembrandt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

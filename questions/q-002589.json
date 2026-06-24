@@ -1,0 +1,43 @@
+{
+  "id": "q-002589",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra Un domingo por la tarde en la isla de la Grande Jatte?",
+  "answers": [
+    {
+      "text": "Piet Mondrian",
+      "correct": false
+    },
+    {
+      "text": "Georges Seurat",
+      "correct": true
+    },
+    {
+      "text": "Rembrandt",
+      "correct": false
+    },
+    {
+      "text": "Joan Miró",
+      "correct": false
+    }
+  ],
+  "explanation": "Un domingo por la tarde en la isla de la Grande Jatte es una obra de Georges Seurat.",
+  "sources": [
+    {
+      "title": "Wikipedia - Un domingo por la tarde en la isla de la Grande Jatte",
+      "url": "https://es.wikipedia.org/wiki/Un_domingo_por_la_tarde_en_la_isla_de_la_Grande_Jatte"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "georges-seurat"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002797",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de dromedario?",
+  "answers": [
+    {
+      "text": "Panthera onca",
+      "correct": false
+    },
+    {
+      "text": "Camelus dromedarius",
+      "correct": true
+    },
+    {
+      "text": "Oryza sativa",
+      "correct": false
+    },
+    {
+      "text": "Solanum lycopersicum",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de dromedario es Camelus dromedarius.",
+  "sources": [
+    {
+      "title": "Wikipedia - dromedario",
+      "url": "https://es.wikipedia.org/wiki/dromedario"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "dromedario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002830",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de té?",
+  "answers": [
+    {
+      "text": "Camellia sinensis",
+      "correct": true
+    },
+    {
+      "text": "Theobroma cacao",
+      "correct": false
+    },
+    {
+      "text": "Gorilla gorilla",
+      "correct": false
+    },
+    {
+      "text": "Ursus arctos",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de té es Camellia sinensis.",
+  "sources": [
+    {
+      "title": "Wikipedia - té",
+      "url": "https://es.wikipedia.org/wiki/t%C3%A9"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "te"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002713",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió Sinfonía del Nuevo Mundo?",
+  "answers": [
+    {
+      "text": "Antonín Dvořák",
+      "correct": true
+    },
+    {
+      "text": "Carl Orff",
+      "correct": false
+    },
+    {
+      "text": "Ludwig van Beethoven",
+      "correct": false
+    },
+    {
+      "text": "Béla Bartók",
+      "correct": false
+    }
+  ],
+  "explanation": "Sinfonía del Nuevo Mundo fue compuesto por Antonín Dvořák.",
+  "sources": [
+    {
+      "title": "Wikipedia - Sinfonía del Nuevo Mundo",
+      "url": "https://es.wikipedia.org/wiki/Sinfon%C3%ADa_del_Nuevo_Mundo"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "antonin-dvorak"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

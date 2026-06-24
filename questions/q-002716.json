@@ -1,0 +1,42 @@
+{
+  "id": "q-002716",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió Boléro?",
+  "answers": [
+    {
+      "text": "Arnold Schönberg",
+      "correct": false
+    },
+    {
+      "text": "Wolfgang Amadeus Mozart",
+      "correct": false
+    },
+    {
+      "text": "Carl Orff",
+      "correct": false
+    },
+    {
+      "text": "Maurice Ravel",
+      "correct": true
+    }
+  ],
+  "explanation": "Boléro fue compuesto por Maurice Ravel.",
+  "sources": [
+    {
+      "title": "Wikipedia - Boléro",
+      "url": "https://es.wikipedia.org/wiki/Bol%C3%A9ro"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "maurice-ravel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

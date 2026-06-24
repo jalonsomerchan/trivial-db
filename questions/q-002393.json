@@ -1,0 +1,43 @@
+{
+  "id": "q-002393",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Rashomon?",
+  "answers": [
+    {
+      "text": "Andréi Tarkovski",
+      "correct": false
+    },
+    {
+      "text": "Claire Denis",
+      "correct": false
+    },
+    {
+      "text": "Bernardo Bertolucci",
+      "correct": false
+    },
+    {
+      "text": "Akira Kurosawa",
+      "correct": true
+    }
+  ],
+  "explanation": "Rashomon fue dirigida por Akira Kurosawa.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rashomon",
+      "url": "https://es.wikipedia.org/wiki/Rashomon"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "akira-kurosawa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

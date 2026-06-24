@@ -1,0 +1,42 @@
+{
+  "id": "q-002763",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-y-generos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué figura, práctica o contexto se asocia especialmente el término musical contrafact?",
+  "answers": [
+    {
+      "text": "vuelta completa sobre la estructura armónica",
+      "correct": false
+    },
+    {
+      "text": "Kraftwerk",
+      "correct": false
+    },
+    {
+      "text": "melodía nueva sobre progresión armónica preexistente",
+      "correct": true
+    },
+    {
+      "text": "Ornette Coleman",
+      "correct": false
+    }
+  ],
+  "explanation": "En historia del jazz y músicas afines, contrafact se asocia con melodía nueva sobre progresión armónica preexistente.",
+  "sources": [
+    {
+      "title": "Wikipedia - contrafact",
+      "url": "https://es.wikipedia.org/wiki/contrafact"
+    }
+  ],
+  "tags": [
+    "jazz",
+    "contrafact"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

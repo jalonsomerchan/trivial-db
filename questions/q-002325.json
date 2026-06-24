@@ -1,0 +1,43 @@
+{
+  "id": "q-002325",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web-y-http"
+  ],
+  "difficulty": "hard",
+  "question": "En HTTP, ¿qué frase de estado corresponde al código 500?",
+  "answers": [
+    {
+      "text": "Too Many Requests",
+      "correct": false
+    },
+    {
+      "text": "Internal Server Error",
+      "correct": true
+    },
+    {
+      "text": "Bad Gateway",
+      "correct": false
+    },
+    {
+      "text": "Gateway Timeout",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 500 corresponde a “Internal Server Error”.",
+  "sources": [
+    {
+      "title": "HTTP 500",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos-de-estado",
+    "500"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

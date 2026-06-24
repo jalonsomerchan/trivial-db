@@ -1,0 +1,42 @@
+{
+  "id": "q-002799",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de koala?",
+  "answers": [
+    {
+      "text": "Giraffa camelopardalis",
+      "correct": false
+    },
+    {
+      "text": "Phascolarctos cinereus",
+      "correct": true
+    },
+    {
+      "text": "Solanum tuberosum",
+      "correct": false
+    },
+    {
+      "text": "Vitis vinifera",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de koala es Phascolarctos cinereus.",
+  "sources": [
+    {
+      "title": "Wikipedia - koala",
+      "url": "https://es.wikipedia.org/wiki/koala"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "koala"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

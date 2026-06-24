@@ -1,0 +1,42 @@
+{
+  "id": "q-002150",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Mozzarella di bufala?",
+  "answers": [
+    {
+      "text": "leche de vaca",
+      "correct": false
+    },
+    {
+      "text": "leche de búfala",
+      "correct": true
+    },
+    {
+      "text": "mezcla de leche de vaca, oveja o cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de camella",
+      "correct": false
+    }
+  ],
+  "explanation": "El queso Mozzarella di bufala se elabora tradicionalmente con leche de búfala.",
+  "sources": [
+    {
+      "title": "Wikipedia - Mozzarella di bufala",
+      "url": "https://es.wikipedia.org/wiki/Mozzarella_di_bufala"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "mozzarella-di-bufala"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

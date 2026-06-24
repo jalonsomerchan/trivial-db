@@ -1,0 +1,42 @@
+{
+  "id": "q-002834",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “colonización ecológica de un sustrato sin suelo previo”?",
+  "answers": [
+    {
+      "text": "detritívoro",
+      "correct": false
+    },
+    {
+      "text": "sucesión primaria",
+      "correct": true
+    },
+    {
+      "text": "mutualismo",
+      "correct": false
+    },
+    {
+      "text": "nicho ecológico",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es sucesión primaria.",
+  "sources": [
+    {
+      "title": "Wikipedia - sucesión primaria",
+      "url": "https://es.wikipedia.org/wiki/sucesi%C3%B3n_primaria"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "sucesion-primaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

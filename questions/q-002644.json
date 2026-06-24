@@ -1,0 +1,42 @@
+{
+  "id": "q-002644",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se caracteriza por efectos ópticos y patrones visuales?",
+  "answers": [
+    {
+      "text": "nabis",
+      "correct": false
+    },
+    {
+      "text": "informalismo",
+      "correct": false
+    },
+    {
+      "text": "divisionismo",
+      "correct": false
+    },
+    {
+      "text": "op art",
+      "correct": true
+    }
+  ],
+  "explanation": "El movimiento descrito es el op art.",
+  "sources": [
+    {
+      "title": "Wikipedia - op art",
+      "url": "https://es.wikipedia.org/wiki/op_art"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "op-art"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

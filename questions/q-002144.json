@@ -1,0 +1,42 @@
+{
+  "id": "q-002144",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Crottin de Chavignol?",
+  "answers": [
+    {
+      "text": "leche de búfala",
+      "correct": false
+    },
+    {
+      "text": "leche de cabra",
+      "correct": true
+    },
+    {
+      "text": "leche de oveja y cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de reno",
+      "correct": false
+    }
+  ],
+  "explanation": "El queso Crottin de Chavignol se elabora tradicionalmente con leche de cabra.",
+  "sources": [
+    {
+      "title": "Wikipedia - Crottin de Chavignol",
+      "url": "https://es.wikipedia.org/wiki/Crottin_de_Chavignol"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "crottin-de-chavignol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002887",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Conversación en La Catedral?",
+  "answers": [
+    {
+      "text": "Antonio Buero Vallejo",
+      "correct": false
+    },
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": true
+    },
+    {
+      "text": "Augusto Roa Bastos",
+      "correct": false
+    },
+    {
+      "text": "Virginia Woolf",
+      "correct": false
+    }
+  ],
+  "explanation": "Conversación en La Catedral fue escrito por Mario Vargas Llosa.",
+  "sources": [
+    {
+      "title": "Wikipedia - Conversación en La Catedral",
+      "url": "https://es.wikipedia.org/wiki/Conversaci%C3%B3n_en_La_Catedral"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "mario-vargas-llosa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

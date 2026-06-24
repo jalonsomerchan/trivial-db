@@ -1,0 +1,42 @@
+{
+  "id": "q-002756",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-y-generos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué figura, práctica o contexto se asocia especialmente el término musical boogie-woogie?",
+  "answers": [
+    {
+      "text": "Miles Davis y John Coltrane",
+      "correct": false
+    },
+    {
+      "text": "piano blues de patrones repetitivos",
+      "correct": true
+    },
+    {
+      "text": "acompañamiento rítmico-armónico improvisado",
+      "correct": false
+    },
+    {
+      "text": "The Beatles",
+      "correct": false
+    }
+  ],
+  "explanation": "En historia del jazz y músicas afines, boogie-woogie se asocia con piano blues de patrones repetitivos.",
+  "sources": [
+    {
+      "title": "Wikipedia - boogie-woogie",
+      "url": "https://es.wikipedia.org/wiki/boogie-woogie"
+    }
+  ],
+  "tags": [
+    "jazz",
+    "boogie-woogie"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

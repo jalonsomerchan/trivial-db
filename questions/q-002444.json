@@ -1,0 +1,43 @@
+{
+  "id": "q-002444",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película La batalla de Argel?",
+  "answers": [
+    {
+      "text": "Gillo Pontecorvo",
+      "correct": true
+    },
+    {
+      "text": "Agnès Varda",
+      "correct": false
+    },
+    {
+      "text": "Jean Renoir",
+      "correct": false
+    },
+    {
+      "text": "Robert Bresson",
+      "correct": false
+    }
+  ],
+  "explanation": "La batalla de Argel fue dirigida por Gillo Pontecorvo.",
+  "sources": [
+    {
+      "title": "Wikipedia - La batalla de Argel",
+      "url": "https://es.wikipedia.org/wiki/La_batalla_de_Argel"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "gillo-pontecorvo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

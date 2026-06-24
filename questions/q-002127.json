@@ -1,0 +1,42 @@
+{
+  "id": "q-002127",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cocinas-regionales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué región o zona se asocia tradicionalmente käsespätzle?",
+  "answers": [
+    {
+      "text": "Yucatán",
+      "correct": false
+    },
+    {
+      "text": "Alemania",
+      "correct": false
+    },
+    {
+      "text": "Portugal",
+      "correct": false
+    },
+    {
+      "text": "Suabia",
+      "correct": true
+    }
+  ],
+  "explanation": "Käsespätzle se asocia tradicionalmente con Suabia.",
+  "sources": [
+    {
+      "title": "Wikipedia - käsespätzle",
+      "url": "https://es.wikipedia.org/wiki/k%C3%A4sesp%C3%A4tzle"
+    }
+  ],
+  "tags": [
+    "cocinas-regionales",
+    "suabia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002159",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Ossau-Iraty?",
+  "answers": [
+    {
+      "text": "leche de oveja y cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de oveja",
+      "correct": true
+    },
+    {
+      "text": "leche de búfala",
+      "correct": false
+    },
+    {
+      "text": "leche de vaca",
+      "correct": false
+    }
+  ],
+  "explanation": "El queso Ossau-Iraty se elabora tradicionalmente con leche de oveja.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ossau-Iraty",
+      "url": "https://es.wikipedia.org/wiki/Ossau-Iraty"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "ossau-iraty"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

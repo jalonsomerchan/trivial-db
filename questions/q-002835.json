@@ -1,0 +1,42 @@
+{
+  "id": "q-002835",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “recuperación de comunidades tras una perturbación con suelo conservado”?",
+  "answers": [
+    {
+      "text": "biodiversidad",
+      "correct": false
+    },
+    {
+      "text": "comunidad",
+      "correct": false
+    },
+    {
+      "text": "anabolismo",
+      "correct": false
+    },
+    {
+      "text": "sucesión secundaria",
+      "correct": true
+    }
+  ],
+  "explanation": "El concepto definido es sucesión secundaria.",
+  "sources": [
+    {
+      "title": "Wikipedia - sucesión secundaria",
+      "url": "https://es.wikipedia.org/wiki/sucesi%C3%B3n_secundaria"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "sucesion-secundaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

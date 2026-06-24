@@ -1,0 +1,42 @@
+{
+  "id": "q-002372",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "En bases de datos, ¿qué término se define como “conjunto de propiedades de transacciones”?",
+  "answers": [
+    {
+      "text": "clave primaria",
+      "correct": false
+    },
+    {
+      "text": "ACID",
+      "correct": true
+    },
+    {
+      "text": "atomicidad",
+      "correct": false
+    },
+    {
+      "text": "HAVING",
+      "correct": false
+    }
+  ],
+  "explanation": "En bases de datos, “conjunto de propiedades de transacciones” corresponde a ACID.",
+  "sources": [
+    {
+      "title": "ACID",
+      "url": "https://en.wikipedia.org/wiki/Database"
+    }
+  ],
+  "tags": [
+    "bases-de-datos",
+    "acid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

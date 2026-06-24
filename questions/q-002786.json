@@ -1,0 +1,42 @@
+{
+  "id": "q-002786",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de lobo gris?",
+  "answers": [
+    {
+      "text": "Loxodonta africana",
+      "correct": false
+    },
+    {
+      "text": "Oryza sativa",
+      "correct": false
+    },
+    {
+      "text": "Canis lupus",
+      "correct": true
+    },
+    {
+      "text": "Aptenodytes forsteri",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de lobo gris es Canis lupus.",
+  "sources": [
+    {
+      "title": "Wikipedia - lobo gris",
+      "url": "https://es.wikipedia.org/wiki/lobo_gris"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "lobo-gris"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

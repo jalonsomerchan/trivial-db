@@ -1,0 +1,43 @@
+{
+  "id": "q-002993",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué fecha o periodo se sitúa históricamente Unión de Lublin?",
+  "answers": [
+    {
+      "text": "1648",
+      "correct": false
+    },
+    {
+      "text": "1812",
+      "correct": false
+    },
+    {
+      "text": "1842",
+      "correct": false
+    },
+    {
+      "text": "1569",
+      "correct": true
+    }
+  ],
+  "explanation": "Unión de Lublin se sitúa históricamente en 1569.",
+  "sources": [
+    {
+      "title": "Wikipedia - Unión de Lublin",
+      "url": "https://es.wikipedia.org/wiki/Uni%C3%B3n_de_Lublin"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia",
+    "union-de-lublin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

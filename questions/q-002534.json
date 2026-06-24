@@ -1,0 +1,42 @@
+{
+  "id": "q-002534",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “ruck”?",
+  "answers": [
+    {
+      "text": "bádminton",
+      "correct": false
+    },
+    {
+      "text": "fútbol",
+      "correct": false
+    },
+    {
+      "text": "deporte de trineo",
+      "correct": false
+    },
+    {
+      "text": "rugby",
+      "correct": true
+    }
+  ],
+  "explanation": "El término “ruck” se usa en rugby.",
+  "sources": [
+    {
+      "title": "Wikipedia - ruck",
+      "url": "https://es.wikipedia.org/wiki/ruck"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "rugby"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

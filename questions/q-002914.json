@@ -1,0 +1,43 @@
+{
+  "id": "q-002914",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Niebla?",
+  "answers": [
+    {
+      "text": "Isabel Allende",
+      "correct": false
+    },
+    {
+      "text": "Ernest Hemingway",
+      "correct": false
+    },
+    {
+      "text": "Albert Camus",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Unamuno",
+      "correct": true
+    }
+  ],
+  "explanation": "Niebla fue escrito por Miguel de Unamuno.",
+  "sources": [
+    {
+      "title": "Wikipedia - Niebla",
+      "url": "https://es.wikipedia.org/wiki/Niebla"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "miguel-de-unamuno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

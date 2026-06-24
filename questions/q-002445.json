@@ -1,0 +1,43 @@
+{
+  "id": "q-002445",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película La gran ilusión?",
+  "answers": [
+    {
+      "text": "Henri-Georges Clouzot",
+      "correct": false
+    },
+    {
+      "text": "Jean Renoir",
+      "correct": true
+    },
+    {
+      "text": "Dario Argento",
+      "correct": false
+    },
+    {
+      "text": "Mike Leigh",
+      "correct": false
+    }
+  ],
+  "explanation": "La gran ilusión fue dirigida por Jean Renoir.",
+  "sources": [
+    {
+      "title": "Wikipedia - La gran ilusión",
+      "url": "https://es.wikipedia.org/wiki/La_gran_ilusi%C3%B3n"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "jean-renoir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

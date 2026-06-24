@@ -1,0 +1,42 @@
+{
+  "id": "q-002762",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-y-generos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué figura, práctica o contexto se asocia especialmente el término musical chorus?",
+  "answers": [
+    {
+      "text": "vuelta completa sobre la estructura armónica",
+      "correct": true
+    },
+    {
+      "text": "piano blues de patrones repetitivos",
+      "correct": false
+    },
+    {
+      "text": "ABBA",
+      "correct": false
+    },
+    {
+      "text": "Queen",
+      "correct": false
+    }
+  ],
+  "explanation": "En historia del jazz y músicas afines, chorus se asocia con vuelta completa sobre la estructura armónica.",
+  "sources": [
+    {
+      "title": "Wikipedia - chorus",
+      "url": "https://es.wikipedia.org/wiki/chorus"
+    }
+  ],
+  "tags": [
+    "jazz",
+    "chorus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

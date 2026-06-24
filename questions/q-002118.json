@@ -1,0 +1,42 @@
+{
+  "id": "q-002118",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cocinas-regionales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué región o zona se asocia tradicionalmente shakshuka?",
+  "answers": [
+    {
+      "text": "Cuba",
+      "correct": false
+    },
+    {
+      "text": "norte de África",
+      "correct": true
+    },
+    {
+      "text": "Provenza",
+      "correct": false
+    },
+    {
+      "text": "Minas Gerais",
+      "correct": false
+    }
+  ],
+  "explanation": "Shakshuka se asocia tradicionalmente con norte de África.",
+  "sources": [
+    {
+      "title": "Wikipedia - shakshuka",
+      "url": "https://es.wikipedia.org/wiki/shakshuka"
+    }
+  ],
+  "tags": [
+    "cocinas-regionales",
+    "norte-de-africa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

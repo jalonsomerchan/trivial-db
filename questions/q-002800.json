@@ -1,0 +1,42 @@
+{
+  "id": "q-002800",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de canguro rojo?",
+  "answers": [
+    {
+      "text": "Panthera leo",
+      "correct": false
+    },
+    {
+      "text": "Osphranter rufus",
+      "correct": true
+    },
+    {
+      "text": "Camelus dromedarius",
+      "correct": false
+    },
+    {
+      "text": "Pan troglodytes",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de canguro rojo es Osphranter rufus.",
+  "sources": [
+    {
+      "title": "Wikipedia - canguro rojo",
+      "url": "https://es.wikipedia.org/wiki/canguro_rojo"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "canguro-rojo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

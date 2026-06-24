@@ -1,0 +1,42 @@
+{
+  "id": "q-002136",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cocinas-regionales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué región o zona se asocia tradicionalmente pupusa?",
+  "answers": [
+    {
+      "text": "África occidental",
+      "correct": false
+    },
+    {
+      "text": "Toscana",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    },
+    {
+      "text": "El Salvador",
+      "correct": true
+    }
+  ],
+  "explanation": "Pupusa se asocia tradicionalmente con El Salvador.",
+  "sources": [
+    {
+      "title": "Wikipedia - pupusa",
+      "url": "https://es.wikipedia.org/wiki/pupusa"
+    }
+  ],
+  "tags": [
+    "cocinas-regionales",
+    "el-salvador"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

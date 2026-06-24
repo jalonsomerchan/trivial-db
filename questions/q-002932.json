@@ -1,0 +1,43 @@
+{
+  "id": "q-002932",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Mansfield Park?",
+  "answers": [
+    {
+      "text": "Antonio Buero Vallejo",
+      "correct": false
+    },
+    {
+      "text": "Jane Austen",
+      "correct": true
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    },
+    {
+      "text": "Benito Pérez Galdós",
+      "correct": false
+    }
+  ],
+  "explanation": "Mansfield Park fue escrito por Jane Austen.",
+  "sources": [
+    {
+      "title": "Wikipedia - Mansfield Park",
+      "url": "https://es.wikipedia.org/wiki/Mansfield_Park"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "jane-austen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

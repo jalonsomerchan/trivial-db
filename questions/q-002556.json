@@ -1,0 +1,42 @@
+{
+  "id": "q-002556",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “triple lutz”?",
+  "answers": [
+    {
+      "text": "patinaje artístico",
+      "correct": true
+    },
+    {
+      "text": "fútbol",
+      "correct": false
+    },
+    {
+      "text": "bádminton",
+      "correct": false
+    },
+    {
+      "text": "polo",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “triple lutz” se usa en patinaje artístico.",
+  "sources": [
+    {
+      "title": "Wikipedia - triple lutz",
+      "url": "https://es.wikipedia.org/wiki/triple_lutz"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "patinaje-artistico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

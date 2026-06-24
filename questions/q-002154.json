@@ -1,0 +1,42 @@
+{
+  "id": "q-002154",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Cabrales?",
+  "answers": [
+    {
+      "text": "mezcla de leche de vaca, oveja o cabra",
+      "correct": true
+    },
+    {
+      "text": "leche de cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de reno",
+      "correct": false
+    },
+    {
+      "text": "leche de vaca",
+      "correct": false
+    }
+  ],
+  "explanation": "El queso Cabrales se elabora tradicionalmente con mezcla de leche de vaca, oveja o cabra.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cabrales",
+      "url": "https://es.wikipedia.org/wiki/Cabrales"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "cabrales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002788",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de oso pardo?",
+  "answers": [
+    {
+      "text": "Giraffa camelopardalis",
+      "correct": false
+    },
+    {
+      "text": "Pongo pygmaeus",
+      "correct": false
+    },
+    {
+      "text": "Ursus arctos",
+      "correct": true
+    },
+    {
+      "text": "Hippocampus hippocampus",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de oso pardo es Ursus arctos.",
+  "sources": [
+    {
+      "title": "Wikipedia - oso pardo",
+      "url": "https://es.wikipedia.org/wiki/oso_pardo"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "oso-pardo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

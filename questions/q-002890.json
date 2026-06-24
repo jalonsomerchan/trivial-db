@@ -1,0 +1,43 @@
+{
+  "id": "q-002890",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Hijo de hombre?",
+  "answers": [
+    {
+      "text": "Juan Ramón Jiménez",
+      "correct": false
+    },
+    {
+      "text": "Roberto Bolaño",
+      "correct": false
+    },
+    {
+      "text": "Augusto Roa Bastos",
+      "correct": true
+    },
+    {
+      "text": "León Tolstói",
+      "correct": false
+    }
+  ],
+  "explanation": "Hijo de hombre fue escrito por Augusto Roa Bastos.",
+  "sources": [
+    {
+      "title": "Wikipedia - Hijo de hombre",
+      "url": "https://es.wikipedia.org/wiki/Hijo_de_hombre"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "augusto-roa-bastos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

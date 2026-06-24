@@ -1,0 +1,42 @@
+{
+  "id": "q-002814",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de calamar gigante?",
+  "answers": [
+    {
+      "text": "Gorilla gorilla",
+      "correct": false
+    },
+    {
+      "text": "Panthera leo",
+      "correct": false
+    },
+    {
+      "text": "Zea mays",
+      "correct": false
+    },
+    {
+      "text": "Architeuthis dux",
+      "correct": true
+    }
+  ],
+  "explanation": "El nombre científico de calamar gigante es Architeuthis dux.",
+  "sources": [
+    {
+      "title": "Wikipedia - calamar gigante",
+      "url": "https://es.wikipedia.org/wiki/calamar_gigante"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "calamar-gigante"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

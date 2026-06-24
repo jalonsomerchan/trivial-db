@@ -1,0 +1,43 @@
+{
+  "id": "q-002927",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Hijos de la ira?",
+  "answers": [
+    {
+      "text": "Dámaso Alonso",
+      "correct": true
+    },
+    {
+      "text": "Hermann Hesse",
+      "correct": false
+    },
+    {
+      "text": "Günter Grass",
+      "correct": false
+    },
+    {
+      "text": "Benito Pérez Galdós",
+      "correct": false
+    }
+  ],
+  "explanation": "Hijos de la ira fue escrito por Dámaso Alonso.",
+  "sources": [
+    {
+      "title": "Wikipedia - Hijos de la ira",
+      "url": "https://es.wikipedia.org/wiki/Hijos_de_la_ira"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "damaso-alonso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

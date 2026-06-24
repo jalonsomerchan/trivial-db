@@ -1,0 +1,43 @@
+{
+  "id": "q-002090",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una fondo aromático preparado normalmente con espinas de pescado?",
+  "answers": [
+    {
+      "text": "fumet",
+      "correct": true
+    },
+    {
+      "text": "roux",
+      "correct": false
+    },
+    {
+      "text": "escabeche",
+      "correct": false
+    },
+    {
+      "text": "quenelle",
+      "correct": false
+    }
+  ],
+  "explanation": "fumet designa una fondo aromático preparado normalmente con espinas de pescado.",
+  "sources": [
+    {
+      "title": "Wikipedia - fumet",
+      "url": "https://es.wikipedia.org/wiki/fumet"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "fumet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

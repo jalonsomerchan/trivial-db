@@ -1,0 +1,42 @@
+{
+  "id": "q-002749",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-y-generos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué figura, práctica o contexto se asocia especialmente el término musical ragtime?",
+  "answers": [
+    {
+      "text": "tema principal de una pieza de jazz",
+      "correct": false
+    },
+    {
+      "text": "Kraftwerk",
+      "correct": false
+    },
+    {
+      "text": "Scott Joplin",
+      "correct": true
+    },
+    {
+      "text": "nota alterada característica del blues y jazz",
+      "correct": false
+    }
+  ],
+  "explanation": "En historia del jazz y músicas afines, ragtime se asocia con Scott Joplin.",
+  "sources": [
+    {
+      "title": "Wikipedia - ragtime",
+      "url": "https://es.wikipedia.org/wiki/ragtime"
+    }
+  ],
+  "tags": [
+    "jazz",
+    "ragtime"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

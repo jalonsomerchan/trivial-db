@@ -1,0 +1,42 @@
+{
+  "id": "q-002727",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió Música para cuerda, percusión y celesta?",
+  "answers": [
+    {
+      "text": "Modest Músorgski",
+      "correct": false
+    },
+    {
+      "text": "Jean Sibelius",
+      "correct": false
+    },
+    {
+      "text": "Ígor Stravinski",
+      "correct": false
+    },
+    {
+      "text": "Béla Bartók",
+      "correct": true
+    }
+  ],
+  "explanation": "Música para cuerda, percusión y celesta fue compuesto por Béla Bartók.",
+  "sources": [
+    {
+      "title": "Wikipedia - Música para cuerda, percusión y celesta",
+      "url": "https://es.wikipedia.org/wiki/M%C3%BAsica_para_cuerda%2C_percusi%C3%B3n_y_celesta"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "bela-bartok"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

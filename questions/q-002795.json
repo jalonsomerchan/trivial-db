@@ -1,0 +1,42 @@
+{
+  "id": "q-002795",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de jirafa?",
+  "answers": [
+    {
+      "text": "Falco peregrinus",
+      "correct": false
+    },
+    {
+      "text": "Apis mellifera",
+      "correct": false
+    },
+    {
+      "text": "Giraffa camelopardalis",
+      "correct": true
+    },
+    {
+      "text": "Equus grevyi",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de jirafa es Giraffa camelopardalis.",
+  "sources": [
+    {
+      "title": "Wikipedia - jirafa",
+      "url": "https://es.wikipedia.org/wiki/jirafa"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "jirafa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

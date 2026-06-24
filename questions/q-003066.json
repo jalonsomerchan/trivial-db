@@ -1,0 +1,43 @@
+{
+  "id": "q-003066",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué fecha o periodo se sitúa históricamente Batalla de Manzikert?",
+  "answers": [
+    {
+      "text": "1947",
+      "correct": false
+    },
+    {
+      "text": "2010",
+      "correct": false
+    },
+    {
+      "text": "1814-1815",
+      "correct": false
+    },
+    {
+      "text": "1071",
+      "correct": true
+    }
+  ],
+  "explanation": "Batalla de Manzikert se sitúa históricamente en 1071.",
+  "sources": [
+    {
+      "title": "Wikipedia - Batalla de Manzikert",
+      "url": "https://es.wikipedia.org/wiki/Batalla_de_Manzikert"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia",
+    "batalla-de-manzikert"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

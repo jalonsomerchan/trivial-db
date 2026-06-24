@@ -1,0 +1,43 @@
+{
+  "id": "q-002091",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una caldo corto aromático usado para cocer pescados o mariscos?",
+  "answers": [
+    {
+      "text": "marinada",
+      "correct": false
+    },
+    {
+      "text": "adobo",
+      "correct": false
+    },
+    {
+      "text": "meunière",
+      "correct": false
+    },
+    {
+      "text": "court-bouillon",
+      "correct": true
+    }
+  ],
+  "explanation": "court-bouillon designa una caldo corto aromático usado para cocer pescados o mariscos.",
+  "sources": [
+    {
+      "title": "Wikipedia - court-bouillon",
+      "url": "https://es.wikipedia.org/wiki/court-bouillon"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "court-bouillon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

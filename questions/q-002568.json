@@ -1,0 +1,42 @@
+{
+  "id": "q-002568",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “love”?",
+  "answers": [
+    {
+      "text": "esquí alpino",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "tenis",
+      "correct": true
+    },
+    {
+      "text": "halterofilia",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “love” se usa en tenis.",
+  "sources": [
+    {
+      "title": "Wikipedia - love",
+      "url": "https://es.wikipedia.org/wiki/love"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "tenis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

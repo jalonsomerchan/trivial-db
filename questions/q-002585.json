@@ -1,0 +1,43 @@
+{
+  "id": "q-002585",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra Impresión, sol naciente?",
+  "answers": [
+    {
+      "text": "Piet Mondrian",
+      "correct": false
+    },
+    {
+      "text": "Marc Chagall",
+      "correct": false
+    },
+    {
+      "text": "Kazimir Malévich",
+      "correct": false
+    },
+    {
+      "text": "Claude Monet",
+      "correct": true
+    }
+  ],
+  "explanation": "Impresión, sol naciente es una obra de Claude Monet.",
+  "sources": [
+    {
+      "title": "Wikipedia - Impresión, sol naciente",
+      "url": "https://es.wikipedia.org/wiki/Impresi%C3%B3n%2C_sol_naciente"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "claude-monet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

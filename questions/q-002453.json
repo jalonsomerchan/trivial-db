@@ -1,0 +1,43 @@
+{
+  "id": "q-002453",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Blue Velvet?",
+  "answers": [
+    {
+      "text": "Serguéi Eisenstein",
+      "correct": false
+    },
+    {
+      "text": "George A. Romero",
+      "correct": false
+    },
+    {
+      "text": "Jean-Pierre Melville",
+      "correct": false
+    },
+    {
+      "text": "David Lynch",
+      "correct": true
+    }
+  ],
+  "explanation": "Blue Velvet fue dirigida por David Lynch.",
+  "sources": [
+    {
+      "title": "Wikipedia - Blue Velvet",
+      "url": "https://es.wikipedia.org/wiki/Blue_Velvet"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "david-lynch"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002910",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Cinco horas con Mario?",
+  "answers": [
+    {
+      "text": "Mario Benedetti",
+      "correct": false
+    },
+    {
+      "text": "Miguel Delibes",
+      "correct": true
+    },
+    {
+      "text": "Rómulo Gallegos",
+      "correct": false
+    },
+    {
+      "text": "Honoré de Balzac",
+      "correct": false
+    }
+  ],
+  "explanation": "Cinco horas con Mario fue escrito por Miguel Delibes.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cinco horas con Mario",
+      "url": "https://es.wikipedia.org/wiki/Cinco_horas_con_Mario"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "miguel-delibes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002888",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de El otoño del patriarca?",
+  "answers": [
+    {
+      "text": "Vicente Huidobro",
+      "correct": false
+    },
+    {
+      "text": "Joseph Conrad",
+      "correct": false
+    },
+    {
+      "text": "Gabriel García Márquez",
+      "correct": true
+    },
+    {
+      "text": "Milan Kundera",
+      "correct": false
+    }
+  ],
+  "explanation": "El otoño del patriarca fue escrito por Gabriel García Márquez.",
+  "sources": [
+    {
+      "title": "Wikipedia - El otoño del patriarca",
+      "url": "https://es.wikipedia.org/wiki/El_oto%C3%B1o_del_patriarca"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "gabriel-garcia-marquez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

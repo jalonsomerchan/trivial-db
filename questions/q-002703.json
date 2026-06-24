@@ -1,0 +1,42 @@
+{
+  "id": "q-002703",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió Madama Butterfly?",
+  "answers": [
+    {
+      "text": "Giacomo Puccini",
+      "correct": true
+    },
+    {
+      "text": "Franz Liszt",
+      "correct": false
+    },
+    {
+      "text": "Camille Saint-Saëns",
+      "correct": false
+    },
+    {
+      "text": "Benjamin Britten",
+      "correct": false
+    }
+  ],
+  "explanation": "Madama Butterfly fue compuesto por Giacomo Puccini.",
+  "sources": [
+    {
+      "title": "Wikipedia - Madama Butterfly",
+      "url": "https://es.wikipedia.org/wiki/Madama_Butterfly"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "giacomo-puccini"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002597",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra El descendimiento de la cruz?",
+  "answers": [
+    {
+      "text": "Amedeo Modigliani",
+      "correct": false
+    },
+    {
+      "text": "Henri Matisse",
+      "correct": false
+    },
+    {
+      "text": "Rogier van der Weyden",
+      "correct": true
+    },
+    {
+      "text": "Paul Cézanne",
+      "correct": false
+    }
+  ],
+  "explanation": "El descendimiento de la cruz es una obra de Rogier van der Weyden.",
+  "sources": [
+    {
+      "title": "Wikipedia - El descendimiento de la cruz",
+      "url": "https://es.wikipedia.org/wiki/El_descendimiento_de_la_cruz"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "rogier-van-der-weyden"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

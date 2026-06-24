@@ -1,0 +1,43 @@
+{
+  "id": "q-002095",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una corte en tiras finas y alargadas?",
+  "answers": [
+    {
+      "text": "quenelle",
+      "correct": false
+    },
+    {
+      "text": "juliana",
+      "correct": true
+    },
+    {
+      "text": "escabeche",
+      "correct": false
+    },
+    {
+      "text": "beurre blanc",
+      "correct": false
+    }
+  ],
+  "explanation": "juliana designa una corte en tiras finas y alargadas.",
+  "sources": [
+    {
+      "title": "Wikipedia - juliana",
+      "url": "https://es.wikipedia.org/wiki/juliana"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "juliana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

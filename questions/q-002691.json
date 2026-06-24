@@ -1,0 +1,42 @@
+{
+  "id": "q-002691",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió Missa solemnis?",
+  "answers": [
+    {
+      "text": "Modest Músorgski",
+      "correct": false
+    },
+    {
+      "text": "Arnold Schönberg",
+      "correct": false
+    },
+    {
+      "text": "Maurice Ravel",
+      "correct": false
+    },
+    {
+      "text": "Ludwig van Beethoven",
+      "correct": true
+    }
+  ],
+  "explanation": "Missa solemnis fue compuesto por Ludwig van Beethoven.",
+  "sources": [
+    {
+      "title": "Wikipedia - Missa solemnis",
+      "url": "https://es.wikipedia.org/wiki/Missa_solemnis"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "ludwig-van-beethoven"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

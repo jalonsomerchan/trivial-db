@@ -1,0 +1,43 @@
+{
+  "id": "q-002417",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película A Brighter Summer Day?",
+  "answers": [
+    {
+      "text": "Edward Yang",
+      "correct": true
+    },
+    {
+      "text": "Sofia Coppola",
+      "correct": false
+    },
+    {
+      "text": "Wim Wenders",
+      "correct": false
+    },
+    {
+      "text": "F. W. Murnau",
+      "correct": false
+    }
+  ],
+  "explanation": "A Brighter Summer Day fue dirigida por Edward Yang.",
+  "sources": [
+    {
+      "title": "Wikipedia - A Brighter Summer Day",
+      "url": "https://es.wikipedia.org/wiki/A_Brighter_Summer_Day"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "edward-yang"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

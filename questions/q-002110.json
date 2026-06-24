@@ -1,0 +1,42 @@
+{
+  "id": "q-002110",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cocinas-regionales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué región o zona se asocia tradicionalmente cassoulet?",
+  "answers": [
+    {
+      "text": "Minas Gerais",
+      "correct": false
+    },
+    {
+      "text": "Languedoc",
+      "correct": true
+    },
+    {
+      "text": "Borgoña",
+      "correct": false
+    },
+    {
+      "text": "Puebla",
+      "correct": false
+    }
+  ],
+  "explanation": "Cassoulet se asocia tradicionalmente con Languedoc.",
+  "sources": [
+    {
+      "title": "Wikipedia - cassoulet",
+      "url": "https://es.wikipedia.org/wiki/cassoulet"
+    }
+  ],
+  "tags": [
+    "cocinas-regionales",
+    "languedoc"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

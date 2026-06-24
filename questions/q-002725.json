@@ -1,0 +1,42 @@
+{
+  "id": "q-002725",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió Lady Macbeth de Mtsensk?",
+  "answers": [
+    {
+      "text": "Franz Liszt",
+      "correct": false
+    },
+    {
+      "text": "Dmitri Shostakóvich",
+      "correct": true
+    },
+    {
+      "text": "Carl Orff",
+      "correct": false
+    },
+    {
+      "text": "Bedřich Smetana",
+      "correct": false
+    }
+  ],
+  "explanation": "Lady Macbeth de Mtsensk fue compuesto por Dmitri Shostakóvich.",
+  "sources": [
+    {
+      "title": "Wikipedia - Lady Macbeth de Mtsensk",
+      "url": "https://es.wikipedia.org/wiki/Lady_Macbeth_de_Mtsensk"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "dmitri-shostakovich"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

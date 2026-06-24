@@ -1,0 +1,43 @@
+{
+  "id": "q-002198",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "endocrinologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hormona tiende a reducir el calcio sanguíneo?",
+  "answers": [
+    {
+      "text": "leptina",
+      "correct": false
+    },
+    {
+      "text": "calcitonina",
+      "correct": true
+    },
+    {
+      "text": "somatostatina",
+      "correct": false
+    },
+    {
+      "text": "cortisol",
+      "correct": false
+    }
+  ],
+  "explanation": "La hormona relacionada con esa función es calcitonina.",
+  "sources": [
+    {
+      "title": "calcitonina",
+      "url": "https://medlineplus.gov/spanish/hormones.html"
+    }
+  ],
+  "tags": [
+    "hormonas",
+    "endocrinologia",
+    "calcitonina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

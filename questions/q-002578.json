@@ -1,0 +1,42 @@
+{
+  "id": "q-002578",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “halfpipe”?",
+  "answers": [
+    {
+      "text": "deportes acuáticos",
+      "correct": false
+    },
+    {
+      "text": "snowboard",
+      "correct": true
+    },
+    {
+      "text": "rugby",
+      "correct": false
+    },
+    {
+      "text": "gimnasia artística",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “halfpipe” se usa en snowboard.",
+  "sources": [
+    {
+      "title": "Wikipedia - halfpipe",
+      "url": "https://es.wikipedia.org/wiki/halfpipe"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "snowboard"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

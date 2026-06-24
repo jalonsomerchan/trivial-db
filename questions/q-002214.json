@@ -1,0 +1,42 @@
+{
+  "id": "q-002214",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la válvula situada entre aurícula izquierda y ventrículo izquierdo?",
+  "answers": [
+    {
+      "text": "válvula tricúspide",
+      "correct": false
+    },
+    {
+      "text": "ventrículo derecho",
+      "correct": false
+    },
+    {
+      "text": "estribo",
+      "correct": false
+    },
+    {
+      "text": "válvula mitral",
+      "correct": true
+    }
+  ],
+  "explanation": "La válvula situada entre aurícula izquierda y ventrículo izquierdo se llama válvula mitral.",
+  "sources": [
+    {
+      "title": "válvula mitral",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "valvula-mitral"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

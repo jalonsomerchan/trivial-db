@@ -1,0 +1,42 @@
+{
+  "id": "q-002767",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "formas-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué forma o género musical se define como “forma que transforma sucesivamente un tema inicial”?",
+  "answers": [
+    {
+      "text": "sinfonía",
+      "correct": false
+    },
+    {
+      "text": "serenata",
+      "correct": false
+    },
+    {
+      "text": "tema y variaciones",
+      "correct": true
+    },
+    {
+      "text": "ballet",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma o género definido es tema y variaciones.",
+  "sources": [
+    {
+      "title": "Wikipedia - tema y variaciones",
+      "url": "https://es.wikipedia.org/wiki/tema_y_variaciones"
+    }
+  ],
+  "tags": [
+    "formas-musicales",
+    "tema-y-variaciones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

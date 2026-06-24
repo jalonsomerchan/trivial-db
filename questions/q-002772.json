@@ -1,0 +1,42 @@
+{
+  "id": "q-002772",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "formas-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué forma o género musical se define como “obra vocal dramática sin escenificación teatral”?",
+  "answers": [
+    {
+      "text": "oratorio",
+      "correct": true
+    },
+    {
+      "text": "motete",
+      "correct": false
+    },
+    {
+      "text": "sonata",
+      "correct": false
+    },
+    {
+      "text": "nocturno",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma o género definido es oratorio.",
+  "sources": [
+    {
+      "title": "Wikipedia - oratorio",
+      "url": "https://es.wikipedia.org/wiki/oratorio"
+    }
+  ],
+  "tags": [
+    "formas-musicales",
+    "oratorio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

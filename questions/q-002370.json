@@ -1,0 +1,42 @@
+{
+  "id": "q-002370",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "En bases de datos, ¿qué término se define como “estructura de índice balanceada muy usada”?",
+  "answers": [
+    {
+      "text": "commit",
+      "correct": false
+    },
+    {
+      "text": "MVCC",
+      "correct": false
+    },
+    {
+      "text": "índice B-tree",
+      "correct": true
+    },
+    {
+      "text": "aislamiento",
+      "correct": false
+    }
+  ],
+  "explanation": "En bases de datos, “estructura de índice balanceada muy usada” corresponde a índice B-tree.",
+  "sources": [
+    {
+      "title": "índice B-tree",
+      "url": "https://en.wikipedia.org/wiki/Database"
+    }
+  ],
+  "tags": [
+    "bases-de-datos",
+    "indice-b-tree"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

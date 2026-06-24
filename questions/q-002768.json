@@ -1,0 +1,42 @@
+{
+  "id": "q-002768",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "formas-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué forma o género musical se define como “canción artística alemana para voz y piano”?",
+  "answers": [
+    {
+      "text": "serenata",
+      "correct": false
+    },
+    {
+      "text": "cantata",
+      "correct": false
+    },
+    {
+      "text": "lied",
+      "correct": true
+    },
+    {
+      "text": "toccata",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma o género definido es lied.",
+  "sources": [
+    {
+      "title": "Wikipedia - lied",
+      "url": "https://es.wikipedia.org/wiki/lied"
+    }
+  ],
+  "tags": [
+    "formas-musicales",
+    "lied"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

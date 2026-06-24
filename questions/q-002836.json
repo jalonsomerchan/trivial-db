@@ -1,0 +1,42 @@
+{
+  "id": "q-002836",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “organismo que genera materia orgánica a partir de energía externa”?",
+  "answers": [
+    {
+      "text": "bioma",
+      "correct": false
+    },
+    {
+      "text": "descomponedor",
+      "correct": false
+    },
+    {
+      "text": "productor primario",
+      "correct": true
+    },
+    {
+      "text": "ecotono",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es productor primario.",
+  "sources": [
+    {
+      "title": "Wikipedia - productor primario",
+      "url": "https://es.wikipedia.org/wiki/productor_primario"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "productor-primario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

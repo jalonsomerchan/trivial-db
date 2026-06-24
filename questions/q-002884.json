@@ -1,0 +1,43 @@
+{
+  "id": "q-002884",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Ficciones?",
+  "answers": [
+    {
+      "text": "Hermann Hesse",
+      "correct": false
+    },
+    {
+      "text": "Jorge Luis Borges",
+      "correct": true
+    },
+    {
+      "text": "Mario Benedetti",
+      "correct": false
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    }
+  ],
+  "explanation": "Ficciones fue escrito por Jorge Luis Borges.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ficciones",
+      "url": "https://es.wikipedia.org/wiki/Ficciones"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "jorge-luis-borges"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

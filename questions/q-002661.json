@@ -1,0 +1,42 @@
+{
+  "id": "q-002661",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se caracteriza por énfasis en emoción, naturaleza y subjetividad?",
+  "answers": [
+    {
+      "text": "academicism",
+      "correct": false
+    },
+    {
+      "text": "arte povera",
+      "correct": false
+    },
+    {
+      "text": "romanticismo",
+      "correct": true
+    },
+    {
+      "text": "op art",
+      "correct": false
+    }
+  ],
+  "explanation": "El movimiento descrito es el romanticismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - romanticismo",
+      "url": "https://es.wikipedia.org/wiki/romanticismo"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "romanticismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

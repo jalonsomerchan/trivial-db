@@ -1,0 +1,42 @@
+{
+  "id": "q-002109",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cocinas-regionales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué región o zona se asocia tradicionalmente bagna càuda?",
+  "answers": [
+    {
+      "text": "Toscana",
+      "correct": false
+    },
+    {
+      "text": "Filipinas",
+      "correct": false
+    },
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "Piamonte",
+      "correct": true
+    }
+  ],
+  "explanation": "Bagna càuda se asocia tradicionalmente con Piamonte.",
+  "sources": [
+    {
+      "title": "Wikipedia - bagna càuda",
+      "url": "https://es.wikipedia.org/wiki/bagna_c%C3%A0uda"
+    }
+  ],
+  "tags": [
+    "cocinas-regionales",
+    "piamonte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

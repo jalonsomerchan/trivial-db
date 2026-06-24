@@ -1,0 +1,43 @@
+{
+  "id": "q-002472",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Punch-Drunk Love?",
+  "answers": [
+    {
+      "text": "Víctor Erice",
+      "correct": false
+    },
+    {
+      "text": "Chris Marker",
+      "correct": false
+    },
+    {
+      "text": "François Truffaut",
+      "correct": false
+    },
+    {
+      "text": "Paul Thomas Anderson",
+      "correct": true
+    }
+  ],
+  "explanation": "Punch-Drunk Love fue dirigida por Paul Thomas Anderson.",
+  "sources": [
+    {
+      "title": "Wikipedia - Punch-Drunk Love",
+      "url": "https://es.wikipedia.org/wiki/Punch-Drunk_Love"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "paul-thomas-anderson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

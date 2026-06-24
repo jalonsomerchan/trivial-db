@@ -1,0 +1,43 @@
+{
+  "id": "q-002882",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Rayuela?",
+  "answers": [
+    {
+      "text": "Isabel Allende",
+      "correct": false
+    },
+    {
+      "text": "Jorge Isaacs",
+      "correct": false
+    },
+    {
+      "text": "Rafael Alberti",
+      "correct": false
+    },
+    {
+      "text": "Julio Cortázar",
+      "correct": true
+    }
+  ],
+  "explanation": "Rayuela fue escrito por Julio Cortázar.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rayuela",
+      "url": "https://es.wikipedia.org/wiki/Rayuela"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "julio-cortazar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002201",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "endocrinologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hormona estimula la secreción de ácido gástrico?",
+  "answers": [
+    {
+      "text": "gastrina",
+      "correct": true
+    },
+    {
+      "text": "oxitocina",
+      "correct": false
+    },
+    {
+      "text": "tiroxina",
+      "correct": false
+    },
+    {
+      "text": "hormona antidiurética",
+      "correct": false
+    }
+  ],
+  "explanation": "La hormona relacionada con esa función es gastrina.",
+  "sources": [
+    {
+      "title": "gastrina",
+      "url": "https://medlineplus.gov/spanish/hormones.html"
+    }
+  ],
+  "tags": [
+    "hormonas",
+    "endocrinologia",
+    "gastrina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

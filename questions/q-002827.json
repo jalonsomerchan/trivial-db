@@ -1,0 +1,42 @@
+{
+  "id": "q-002827",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de tomate?",
+  "answers": [
+    {
+      "text": "Felis catus",
+      "correct": false
+    },
+    {
+      "text": "Ornithorhynchus anatinus",
+      "correct": false
+    },
+    {
+      "text": "Ursus arctos",
+      "correct": false
+    },
+    {
+      "text": "Solanum lycopersicum",
+      "correct": true
+    }
+  ],
+  "explanation": "El nombre científico de tomate es Solanum lycopersicum.",
+  "sources": [
+    {
+      "title": "Wikipedia - tomate",
+      "url": "https://es.wikipedia.org/wiki/tomate"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "tomate"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

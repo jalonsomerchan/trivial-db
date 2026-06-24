@@ -1,0 +1,42 @@
+{
+  "id": "q-002643",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se caracteriza por intervenciones artísticas en el paisaje?",
+  "answers": [
+    {
+      "text": "puntillismo",
+      "correct": false
+    },
+    {
+      "text": "land art",
+      "correct": true
+    },
+    {
+      "text": "arte povera",
+      "correct": false
+    },
+    {
+      "text": "neoplasticismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El movimiento descrito es el land art.",
+  "sources": [
+    {
+      "title": "Wikipedia - land art",
+      "url": "https://es.wikipedia.org/wiki/land_art"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "land-art"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

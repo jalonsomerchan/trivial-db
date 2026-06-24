@@ -1,0 +1,42 @@
+{
+  "id": "q-002775",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "formas-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué forma o género musical se define como “obra escénica basada principalmente en danza”?",
+  "answers": [
+    {
+      "text": "ballet",
+      "correct": true
+    },
+    {
+      "text": "madrigal",
+      "correct": false
+    },
+    {
+      "text": "tema y variaciones",
+      "correct": false
+    },
+    {
+      "text": "estudio",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma o género definido es ballet.",
+  "sources": [
+    {
+      "title": "Wikipedia - ballet",
+      "url": "https://es.wikipedia.org/wiki/ballet"
+    }
+  ],
+  "tags": [
+    "formas-musicales",
+    "ballet"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

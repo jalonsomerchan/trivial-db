@@ -1,0 +1,43 @@
+{
+  "id": "q-002482",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Toni Erdmann?",
+  "answers": [
+    {
+      "text": "Claire Denis",
+      "correct": false
+    },
+    {
+      "text": "Bernardo Bertolucci",
+      "correct": false
+    },
+    {
+      "text": "Dario Argento",
+      "correct": false
+    },
+    {
+      "text": "Maren Ade",
+      "correct": true
+    }
+  ],
+  "explanation": "Toni Erdmann fue dirigida por Maren Ade.",
+  "sources": [
+    {
+      "title": "Wikipedia - Toni Erdmann",
+      "url": "https://es.wikipedia.org/wiki/Toni_Erdmann"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "maren-ade"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

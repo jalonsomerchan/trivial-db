@@ -1,0 +1,42 @@
+{
+  "id": "q-002656",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se caracteriza por ruptura modernista en Viena?",
+  "answers": [
+    {
+      "text": "arte povera",
+      "correct": false
+    },
+    {
+      "text": "pop art",
+      "correct": false
+    },
+    {
+      "text": "impresionismo",
+      "correct": false
+    },
+    {
+      "text": "secesión vienesa",
+      "correct": true
+    }
+  ],
+  "explanation": "El movimiento descrito es el secesión vienesa.",
+  "sources": [
+    {
+      "title": "Wikipedia - secesión vienesa",
+      "url": "https://es.wikipedia.org/wiki/secesi%C3%B3n_vienesa"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "secesion-vienesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

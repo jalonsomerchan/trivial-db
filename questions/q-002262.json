@@ -1,0 +1,42 @@
+{
+  "id": "q-002262",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término médico significa dolor de cabeza?",
+  "answers": [
+    {
+      "text": "hipoxia",
+      "correct": false
+    },
+    {
+      "text": "cefalea",
+      "correct": true
+    },
+    {
+      "text": "cianosis",
+      "correct": false
+    },
+    {
+      "text": "edema",
+      "correct": false
+    }
+  ],
+  "explanation": "El término médico para dolor de cabeza es cefalea.",
+  "sources": [
+    {
+      "title": "cefalea",
+      "url": "https://medlineplus.gov/spanish/encyclopedia.html"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "cefalea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

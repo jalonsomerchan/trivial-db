@@ -1,0 +1,43 @@
+{
+  "id": "q-002205",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "endocrinologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hormona se asocia con señales de saciedad del tejido adiposo?",
+  "answers": [
+    {
+      "text": "serotonina",
+      "correct": false
+    },
+    {
+      "text": "leptina",
+      "correct": true
+    },
+    {
+      "text": "estrógenos",
+      "correct": false
+    },
+    {
+      "text": "adrenalina",
+      "correct": false
+    }
+  ],
+  "explanation": "La hormona relacionada con esa función es leptina.",
+  "sources": [
+    {
+      "title": "leptina",
+      "url": "https://medlineplus.gov/spanish/hormones.html"
+    }
+  ],
+  "tags": [
+    "hormonas",
+    "endocrinologia",
+    "leptina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

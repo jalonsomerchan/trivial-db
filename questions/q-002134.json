@@ -1,0 +1,42 @@
+{
+  "id": "q-002134",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cocinas-regionales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué región o zona se asocia tradicionalmente mole poblano?",
+  "answers": [
+    {
+      "text": "Puebla",
+      "correct": true
+    },
+    {
+      "text": "Filipinas",
+      "correct": false
+    },
+    {
+      "text": "Portugal",
+      "correct": false
+    },
+    {
+      "text": "Yucatán",
+      "correct": false
+    }
+  ],
+  "explanation": "Mole poblano se asocia tradicionalmente con Puebla.",
+  "sources": [
+    {
+      "title": "Wikipedia - mole poblano",
+      "url": "https://es.wikipedia.org/wiki/mole_poblano"
+    }
+  ],
+  "tags": [
+    "cocinas-regionales",
+    "puebla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002107",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una crema espumosa de yemas batidas con vino o licor?",
+  "answers": [
+    {
+      "text": "crème anglaise",
+      "correct": false
+    },
+    {
+      "text": "pâte à choux",
+      "correct": false
+    },
+    {
+      "text": "sofrito",
+      "correct": false
+    },
+    {
+      "text": "sabayon",
+      "correct": true
+    }
+  ],
+  "explanation": "sabayon designa una crema espumosa de yemas batidas con vino o licor.",
+  "sources": [
+    {
+      "title": "Wikipedia - sabayon",
+      "url": "https://es.wikipedia.org/wiki/sabayon"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "sabayon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002755",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-y-generos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué figura, práctica o contexto se asocia especialmente el término musical gypsy jazz?",
+  "answers": [
+    {
+      "text": "The Beatles",
+      "correct": false
+    },
+    {
+      "text": "Django Reinhardt",
+      "correct": true
+    },
+    {
+      "text": "Kraftwerk",
+      "correct": false
+    },
+    {
+      "text": "improvisación vocal con sílabas",
+      "correct": false
+    }
+  ],
+  "explanation": "En historia del jazz y músicas afines, gypsy jazz se asocia con Django Reinhardt.",
+  "sources": [
+    {
+      "title": "Wikipedia - gypsy jazz",
+      "url": "https://es.wikipedia.org/wiki/gypsy_jazz"
+    }
+  ],
+  "tags": [
+    "jazz",
+    "gypsy-jazz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

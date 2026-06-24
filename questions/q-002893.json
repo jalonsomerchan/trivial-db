@@ -1,0 +1,43 @@
+{
+  "id": "q-002893",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Aura?",
+  "answers": [
+    {
+      "text": "Marguerite Duras",
+      "correct": false
+    },
+    {
+      "text": "Franz Kafka",
+      "correct": false
+    },
+    {
+      "text": "Charles Dickens",
+      "correct": false
+    },
+    {
+      "text": "Carlos Fuentes",
+      "correct": true
+    }
+  ],
+  "explanation": "Aura fue escrito por Carlos Fuentes.",
+  "sources": [
+    {
+      "title": "Wikipedia - Aura",
+      "url": "https://es.wikipedia.org/wiki/Aura"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "carlos-fuentes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

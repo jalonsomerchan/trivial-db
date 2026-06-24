@@ -1,0 +1,42 @@
+{
+  "id": "q-002693",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió La trucha?",
+  "answers": [
+    {
+      "text": "Jean Sibelius",
+      "correct": false
+    },
+    {
+      "text": "Joseph Haydn",
+      "correct": false
+    },
+    {
+      "text": "Johann Sebastian Bach",
+      "correct": false
+    },
+    {
+      "text": "Franz Schubert",
+      "correct": true
+    }
+  ],
+  "explanation": "La trucha fue compuesto por Franz Schubert.",
+  "sources": [
+    {
+      "title": "Wikipedia - La trucha",
+      "url": "https://es.wikipedia.org/wiki/La_trucha"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "franz-schubert"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

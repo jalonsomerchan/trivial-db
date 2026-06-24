@@ -1,0 +1,42 @@
+{
+  "id": "q-002677",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se caracteriza por grupo expresionista alemán de Dresde?",
+  "answers": [
+    {
+      "text": "surrealismo",
+      "correct": false
+    },
+    {
+      "text": "land art",
+      "correct": false
+    },
+    {
+      "text": "die brücke",
+      "correct": true
+    },
+    {
+      "text": "nuevo realismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El movimiento descrito es el die brücke.",
+  "sources": [
+    {
+      "title": "Wikipedia - die brücke",
+      "url": "https://es.wikipedia.org/wiki/die_br%C3%BCcke"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "die-brucke"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002843",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “interacción beneficiosa para una especie y neutra para otra”?",
+  "answers": [
+    {
+      "text": "capacidad de carga",
+      "correct": false
+    },
+    {
+      "text": "endemismo",
+      "correct": false
+    },
+    {
+      "text": "comunidad",
+      "correct": false
+    },
+    {
+      "text": "comensalismo",
+      "correct": true
+    }
+  ],
+  "explanation": "El concepto definido es comensalismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - comensalismo",
+      "url": "https://es.wikipedia.org/wiki/comensalismo"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "comensalismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

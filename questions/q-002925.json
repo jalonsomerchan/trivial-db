@@ -1,0 +1,43 @@
+{
+  "id": "q-002925",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Historia de una escalera?",
+  "answers": [
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": false
+    },
+    {
+      "text": "Hermann Hesse",
+      "correct": false
+    },
+    {
+      "text": "Antonio Buero Vallejo",
+      "correct": true
+    },
+    {
+      "text": "James Joyce",
+      "correct": false
+    }
+  ],
+  "explanation": "Historia de una escalera fue escrito por Antonio Buero Vallejo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Historia de una escalera",
+      "url": "https://es.wikipedia.org/wiki/Historia_de_una_escalera"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "antonio-buero-vallejo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

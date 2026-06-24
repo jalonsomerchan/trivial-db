@@ -1,0 +1,42 @@
+{
+  "id": "q-002729",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "musica-clasica-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor escribió Un superviviente de Varsovia?",
+  "answers": [
+    {
+      "text": "Antonín Dvořák",
+      "correct": false
+    },
+    {
+      "text": "Arnold Schönberg",
+      "correct": true
+    },
+    {
+      "text": "Camille Saint-Saëns",
+      "correct": false
+    },
+    {
+      "text": "Serguéi Prokófiev",
+      "correct": false
+    }
+  ],
+  "explanation": "Un superviviente de Varsovia fue compuesto por Arnold Schönberg.",
+  "sources": [
+    {
+      "title": "Wikipedia - Un superviviente de Varsovia",
+      "url": "https://es.wikipedia.org/wiki/Un_superviviente_de_Varsovia"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "arnold-schonberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

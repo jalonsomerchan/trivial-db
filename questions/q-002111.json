@@ -1,0 +1,42 @@
+{
+  "id": "q-002111",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cocinas-regionales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué región o zona se asocia tradicionalmente bouillabaisse?",
+  "answers": [
+    {
+      "text": "Provenza",
+      "correct": true
+    },
+    {
+      "text": "Piamonte",
+      "correct": false
+    },
+    {
+      "text": "Borgoña",
+      "correct": false
+    },
+    {
+      "text": "Normandía",
+      "correct": false
+    }
+  ],
+  "explanation": "Bouillabaisse se asocia tradicionalmente con Provenza.",
+  "sources": [
+    {
+      "title": "Wikipedia - bouillabaisse",
+      "url": "https://es.wikipedia.org/wiki/bouillabaisse"
+    }
+  ],
+  "tags": [
+    "cocinas-regionales",
+    "provenza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

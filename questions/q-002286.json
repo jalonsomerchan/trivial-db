@@ -1,0 +1,43 @@
+{
+  "id": "q-002286",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes-y-protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el puerto TCP o UDP estándar asociado normalmente a POP3?",
+  "answers": [
+    {
+      "text": "110",
+      "correct": true
+    },
+    {
+      "text": "5432",
+      "correct": false
+    },
+    {
+      "text": "1883",
+      "correct": false
+    },
+    {
+      "text": "9000",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto estándar asociado normalmente a POP3 es 110.",
+  "sources": [
+    {
+      "title": "POP3",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "redes",
+    "puertos",
+    "pop3"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

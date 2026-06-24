@@ -1,0 +1,42 @@
+{
+  "id": "q-002806",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de cóndor andino?",
+  "answers": [
+    {
+      "text": "Apis mellifera",
+      "correct": false
+    },
+    {
+      "text": "Zea mays",
+      "correct": false
+    },
+    {
+      "text": "Vultur gryphus",
+      "correct": true
+    },
+    {
+      "text": "Oryza sativa",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de cóndor andino es Vultur gryphus.",
+  "sources": [
+    {
+      "title": "Wikipedia - cóndor andino",
+      "url": "https://es.wikipedia.org/wiki/c%C3%B3ndor_andino"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "condor-andino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

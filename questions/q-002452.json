@@ -1,0 +1,43 @@
+{
+  "id": "q-002452",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Carol?",
+  "answers": [
+    {
+      "text": "Todd Haynes",
+      "correct": true
+    },
+    {
+      "text": "Henri-Georges Clouzot",
+      "correct": false
+    },
+    {
+      "text": "David Lynch",
+      "correct": false
+    },
+    {
+      "text": "Peter Bogdanovich",
+      "correct": false
+    }
+  ],
+  "explanation": "Carol fue dirigida por Todd Haynes.",
+  "sources": [
+    {
+      "title": "Wikipedia - Carol",
+      "url": "https://es.wikipedia.org/wiki/Carol"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "todd-haynes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

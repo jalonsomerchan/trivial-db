@@ -1,0 +1,42 @@
+{
+  "id": "q-002353",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "En bases de datos, ¿qué término se define como “que los cambios confirmados sobrevivan a fallos”?",
+  "answers": [
+    {
+      "text": "JOIN",
+      "correct": false
+    },
+    {
+      "text": "durabilidad",
+      "correct": true
+    },
+    {
+      "text": "normalización",
+      "correct": false
+    },
+    {
+      "text": "SQL injection",
+      "correct": false
+    }
+  ],
+  "explanation": "En bases de datos, “que los cambios confirmados sobrevivan a fallos” corresponde a durabilidad.",
+  "sources": [
+    {
+      "title": "durabilidad",
+      "url": "https://en.wikipedia.org/wiki/Database"
+    }
+  ],
+  "tags": [
+    "bases-de-datos",
+    "durabilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

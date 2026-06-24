@@ -1,0 +1,43 @@
+{
+  "id": "q-002964",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de El tambor de hojalata?",
+  "answers": [
+    {
+      "text": "Günter Grass",
+      "correct": true
+    },
+    {
+      "text": "Carlos Fuentes",
+      "correct": false
+    },
+    {
+      "text": "Jane Austen",
+      "correct": false
+    },
+    {
+      "text": "Miguel de Unamuno",
+      "correct": false
+    }
+  ],
+  "explanation": "El tambor de hojalata fue escrito por Günter Grass.",
+  "sources": [
+    {
+      "title": "Wikipedia - El tambor de hojalata",
+      "url": "https://es.wikipedia.org/wiki/El_tambor_de_hojalata"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "gunter-grass"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

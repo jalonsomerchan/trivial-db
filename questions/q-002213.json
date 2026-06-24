@@ -1,0 +1,42 @@
+{
+  "id": "q-002213",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la estructura que conecta la faringe con el estómago?",
+  "answers": [
+    {
+      "text": "fémur",
+      "correct": false
+    },
+    {
+      "text": "peroné",
+      "correct": false
+    },
+    {
+      "text": "esófago",
+      "correct": true
+    },
+    {
+      "text": "cerebelo",
+      "correct": false
+    }
+  ],
+  "explanation": "La estructura que conecta la faringe con el estómago se llama esófago.",
+  "sources": [
+    {
+      "title": "esófago",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "esofago"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

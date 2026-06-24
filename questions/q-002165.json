@@ -1,0 +1,42 @@
+{
+  "id": "q-002165",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Brunello di Montalcino?",
+  "answers": [
+    {
+      "text": "sauvignon blanc",
+      "correct": false
+    },
+    {
+      "text": "chardonnay",
+      "correct": false
+    },
+    {
+      "text": "sangiovese",
+      "correct": true
+    },
+    {
+      "text": "carménère",
+      "correct": false
+    }
+  ],
+  "explanation": "Brunello di Montalcino se asocia especialmente con sangiovese.",
+  "sources": [
+    {
+      "title": "Wikipedia - Brunello di Montalcino",
+      "url": "https://es.wikipedia.org/wiki/Brunello_di_Montalcino"
+    }
+  ],
+  "tags": [
+    "vino",
+    "brunello-di-montalcino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

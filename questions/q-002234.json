@@ -1,0 +1,42 @@
+{
+  "id": "q-002234",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la huesecillo del oído medio unido al tímpano?",
+  "answers": [
+    {
+      "text": "cerebelo",
+      "correct": false
+    },
+    {
+      "text": "canales semicirculares",
+      "correct": false
+    },
+    {
+      "text": "martillo",
+      "correct": true
+    },
+    {
+      "text": "ventrículo izquierdo",
+      "correct": false
+    }
+  ],
+  "explanation": "La huesecillo del oído medio unido al tímpano se llama martillo.",
+  "sources": [
+    {
+      "title": "martillo",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "martillo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

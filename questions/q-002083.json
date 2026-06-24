@@ -1,0 +1,43 @@
+{
+  "id": "q-002083",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una mezcla cocida de harina y grasa usada para espesar salsas?",
+  "answers": [
+    {
+      "text": "nappage",
+      "correct": false
+    },
+    {
+      "text": "duxelles",
+      "correct": false
+    },
+    {
+      "text": "meunière",
+      "correct": false
+    },
+    {
+      "text": "roux",
+      "correct": true
+    }
+  ],
+  "explanation": "roux designa una mezcla cocida de harina y grasa usada para espesar salsas.",
+  "sources": [
+    {
+      "title": "Wikipedia - roux",
+      "url": "https://es.wikipedia.org/wiki/roux"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "roux"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

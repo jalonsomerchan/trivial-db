@@ -1,0 +1,43 @@
+{
+  "id": "q-002476",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Frances Ha?",
+  "answers": [
+    {
+      "text": "Spike Lee",
+      "correct": false
+    },
+    {
+      "text": "Noah Baumbach",
+      "correct": true
+    },
+    {
+      "text": "Todd Haynes",
+      "correct": false
+    },
+    {
+      "text": "Jean-Luc Godard",
+      "correct": false
+    }
+  ],
+  "explanation": "Frances Ha fue dirigida por Noah Baumbach.",
+  "sources": [
+    {
+      "title": "Wikipedia - Frances Ha",
+      "url": "https://es.wikipedia.org/wiki/Frances_Ha"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "noah-baumbach"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

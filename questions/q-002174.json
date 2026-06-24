@@ -1,0 +1,42 @@
+{
+  "id": "q-002174",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Burdeos tinto?",
+  "answers": [
+    {
+      "text": "cabernet sauvignon y merlot",
+      "correct": true
+    },
+    {
+      "text": "zinfandel",
+      "correct": false
+    },
+    {
+      "text": "garnacha y cariñena",
+      "correct": false
+    },
+    {
+      "text": "touriga nacional y otras variedades",
+      "correct": false
+    }
+  ],
+  "explanation": "Burdeos tinto se asocia especialmente con cabernet sauvignon y merlot.",
+  "sources": [
+    {
+      "title": "Wikipedia - Burdeos tinto",
+      "url": "https://es.wikipedia.org/wiki/Burdeos_tinto"
+    }
+  ],
+  "tags": [
+    "vino",
+    "burdeos-tinto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

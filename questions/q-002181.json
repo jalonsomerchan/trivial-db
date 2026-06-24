@@ -1,0 +1,42 @@
+{
+  "id": "q-002181",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Oporto?",
+  "answers": [
+    {
+      "text": "syrah",
+      "correct": false
+    },
+    {
+      "text": "zinfandel",
+      "correct": false
+    },
+    {
+      "text": "touriga nacional y otras variedades",
+      "correct": true
+    },
+    {
+      "text": "nebbiolo",
+      "correct": false
+    }
+  ],
+  "explanation": "Oporto se asocia especialmente con touriga nacional y otras variedades.",
+  "sources": [
+    {
+      "title": "Wikipedia - Oporto",
+      "url": "https://es.wikipedia.org/wiki/Oporto"
+    }
+  ],
+  "tags": [
+    "vino",
+    "oporto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

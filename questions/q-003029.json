@@ -1,0 +1,43 @@
+{
+  "id": "q-003029",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué fecha o periodo se sitúa históricamente Plan Marshall?",
+  "answers": [
+    {
+      "text": "1993",
+      "correct": false
+    },
+    {
+      "text": "1215",
+      "correct": false
+    },
+    {
+      "text": "1947",
+      "correct": true
+    },
+    {
+      "text": "1071",
+      "correct": false
+    }
+  ],
+  "explanation": "Plan Marshall se sitúa históricamente en 1947.",
+  "sources": [
+    {
+      "title": "Wikipedia - Plan Marshall",
+      "url": "https://es.wikipedia.org/wiki/Plan_Marshall"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia",
+    "plan-marshall"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

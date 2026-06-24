@@ -1,0 +1,42 @@
+{
+  "id": "q-002236",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la huesecillo del oído medio conectado a la ventana oval?",
+  "answers": [
+    {
+      "text": "estribo",
+      "correct": true
+    },
+    {
+      "text": "ventrículo derecho",
+      "correct": false
+    },
+    {
+      "text": "cerebelo",
+      "correct": false
+    },
+    {
+      "text": "fémur",
+      "correct": false
+    }
+  ],
+  "explanation": "La huesecillo del oído medio conectado a la ventana oval se llama estribo.",
+  "sources": [
+    {
+      "title": "estribo",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "estribo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

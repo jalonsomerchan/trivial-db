@@ -1,0 +1,42 @@
+{
+  "id": "q-002536",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “try”?",
+  "answers": [
+    {
+      "text": "rugby",
+      "correct": true
+    },
+    {
+      "text": "patinaje artístico",
+      "correct": false
+    },
+    {
+      "text": "atletismo",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “try” se usa en rugby.",
+  "sources": [
+    {
+      "title": "Wikipedia - try",
+      "url": "https://es.wikipedia.org/wiki/try"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "rugby"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

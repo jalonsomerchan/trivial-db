@@ -1,0 +1,43 @@
+{
+  "id": "q-002905",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Canto general?",
+  "answers": [
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": false
+    },
+    {
+      "text": "Dámaso Alonso",
+      "correct": false
+    },
+    {
+      "text": "Marcel Proust",
+      "correct": false
+    },
+    {
+      "text": "Pablo Neruda",
+      "correct": true
+    }
+  ],
+  "explanation": "Canto general fue escrito por Pablo Neruda.",
+  "sources": [
+    {
+      "title": "Wikipedia - Canto general",
+      "url": "https://es.wikipedia.org/wiki/Canto_general"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "pablo-neruda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

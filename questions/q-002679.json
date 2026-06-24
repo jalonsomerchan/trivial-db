@@ -1,0 +1,42 @@
+{
+  "id": "q-002679",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se caracteriza por pintura italiana de plazas inquietantes?",
+  "answers": [
+    {
+      "text": "muralismo mexicano",
+      "correct": false
+    },
+    {
+      "text": "metafísica",
+      "correct": true
+    },
+    {
+      "text": "barroco",
+      "correct": false
+    },
+    {
+      "text": "orfismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El movimiento descrito es el metafísica.",
+  "sources": [
+    {
+      "title": "Wikipedia - metafísica",
+      "url": "https://es.wikipedia.org/wiki/metaf%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "metafisica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

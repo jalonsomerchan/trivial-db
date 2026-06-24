@@ -1,0 +1,42 @@
+{
+  "id": "q-002674",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "movimientos-artisticos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se caracteriza por apropiación de objetos y acciones de la vida contemporánea?",
+  "answers": [
+    {
+      "text": "nuevo realismo",
+      "correct": true
+    },
+    {
+      "text": "tachismo",
+      "correct": false
+    },
+    {
+      "text": "minimalismo",
+      "correct": false
+    },
+    {
+      "text": "rocaille",
+      "correct": false
+    }
+  ],
+  "explanation": "El movimiento descrito es el nuevo realismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - nuevo realismo",
+      "url": "https://es.wikipedia.org/wiki/nuevo_realismo"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "nuevo-realismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

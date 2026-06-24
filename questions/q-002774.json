@@ -1,0 +1,42 @@
+{
+  "id": "q-002774",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "formas-musicales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué forma o género musical se define como “género escénico español que alterna partes cantadas y habladas”?",
+  "answers": [
+    {
+      "text": "madrigal",
+      "correct": false
+    },
+    {
+      "text": "toccata",
+      "correct": false
+    },
+    {
+      "text": "fuga",
+      "correct": false
+    },
+    {
+      "text": "zarzuela",
+      "correct": true
+    }
+  ],
+  "explanation": "La forma o género definido es zarzuela.",
+  "sources": [
+    {
+      "title": "Wikipedia - zarzuela",
+      "url": "https://es.wikipedia.org/wiki/zarzuela"
+    }
+  ],
+  "tags": [
+    "formas-musicales",
+    "zarzuela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

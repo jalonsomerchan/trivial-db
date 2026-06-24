@@ -1,0 +1,43 @@
+{
+  "id": "q-002293",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes-y-protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el puerto TCP o UDP estándar asociado normalmente a MySQL?",
+  "answers": [
+    {
+      "text": "8443",
+      "correct": false
+    },
+    {
+      "text": "6443",
+      "correct": false
+    },
+    {
+      "text": "3306",
+      "correct": true
+    },
+    {
+      "text": "123",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto estándar asociado normalmente a MySQL es 3306.",
+  "sources": [
+    {
+      "title": "MySQL",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "redes",
+    "puertos",
+    "mysql"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

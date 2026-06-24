@@ -1,0 +1,42 @@
+{
+  "id": "q-002807",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de cocodrilo del Nilo?",
+  "answers": [
+    {
+      "text": "Crocodylus niloticus",
+      "correct": true
+    },
+    {
+      "text": "Carcharodon carcharias",
+      "correct": false
+    },
+    {
+      "text": "Felis catus",
+      "correct": false
+    },
+    {
+      "text": "Amphiprion ocellaris",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de cocodrilo del Nilo es Crocodylus niloticus.",
+  "sources": [
+    {
+      "title": "Wikipedia - cocodrilo del Nilo",
+      "url": "https://es.wikipedia.org/wiki/cocodrilo_del_Nilo"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "cocodrilo-del-nilo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

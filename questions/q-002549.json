@@ -1,0 +1,42 @@
+{
+  "id": "q-002549",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “green”?",
+  "answers": [
+    {
+      "text": "hockey sobre hielo",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": true
+    },
+    {
+      "text": "atletismo",
+      "correct": false
+    },
+    {
+      "text": "esgrima",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “green” se usa en golf.",
+  "sources": [
+    {
+      "title": "Wikipedia - green",
+      "url": "https://es.wikipedia.org/wiki/green"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "golf"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002355",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "medium",
+  "question": "En bases de datos, ¿qué término se define como “identificador único de una fila”?",
+  "answers": [
+    {
+      "text": "SELECT",
+      "correct": false
+    },
+    {
+      "text": "clave primaria",
+      "correct": true
+    },
+    {
+      "text": "MVCC",
+      "correct": false
+    },
+    {
+      "text": "commit",
+      "correct": false
+    }
+  ],
+  "explanation": "En bases de datos, “identificador único de una fila” corresponde a clave primaria.",
+  "sources": [
+    {
+      "title": "clave primaria",
+      "url": "https://en.wikipedia.org/wiki/Database"
+    }
+  ],
+  "tags": [
+    "bases-de-datos",
+    "clave-primaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

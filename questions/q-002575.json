@@ -1,0 +1,42 @@
+{
+  "id": "q-002575",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “mariposa”?",
+  "answers": [
+    {
+      "text": "natación",
+      "correct": true
+    },
+    {
+      "text": "gimnasia artística",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "deportes acuáticos",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “mariposa” se usa en natación.",
+  "sources": [
+    {
+      "title": "Wikipedia - mariposa",
+      "url": "https://es.wikipedia.org/wiki/mariposa"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "natacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

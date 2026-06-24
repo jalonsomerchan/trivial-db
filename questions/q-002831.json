@@ -1,0 +1,42 @@
+{
+  "id": "q-002831",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “papel funcional de una especie en un ecosistema”?",
+  "answers": [
+    {
+      "text": "fijación de nitrógeno",
+      "correct": false
+    },
+    {
+      "text": "productor primario",
+      "correct": false
+    },
+    {
+      "text": "ciclo del nitrógeno",
+      "correct": false
+    },
+    {
+      "text": "nicho ecológico",
+      "correct": true
+    }
+  ],
+  "explanation": "El concepto definido es nicho ecológico.",
+  "sources": [
+    {
+      "title": "Wikipedia - nicho ecológico",
+      "url": "https://es.wikipedia.org/wiki/nicho_ecol%C3%B3gico"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "nicho-ecologico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002471",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Magnolia?",
+  "answers": [
+    {
+      "text": "Vittorio De Sica",
+      "correct": false
+    },
+    {
+      "text": "Kenji Mizoguchi",
+      "correct": false
+    },
+    {
+      "text": "Paul Thomas Anderson",
+      "correct": true
+    },
+    {
+      "text": "Cristian Mungiu",
+      "correct": false
+    }
+  ],
+  "explanation": "Magnolia fue dirigida por Paul Thomas Anderson.",
+  "sources": [
+    {
+      "title": "Wikipedia - Magnolia",
+      "url": "https://es.wikipedia.org/wiki/Magnolia"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "paul-thomas-anderson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

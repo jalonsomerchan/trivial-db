@@ -1,0 +1,42 @@
+{
+  "id": "q-002237",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la estructura del oído interno relacionada con equilibrio?",
+  "answers": [
+    {
+      "text": "canales semicirculares",
+      "correct": true
+    },
+    {
+      "text": "cúbito",
+      "correct": false
+    },
+    {
+      "text": "venas pulmonares",
+      "correct": false
+    },
+    {
+      "text": "epidermis",
+      "correct": false
+    }
+  ],
+  "explanation": "La estructura del oído interno relacionada con equilibrio se llama canales semicirculares.",
+  "sources": [
+    {
+      "title": "canales semicirculares",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "canales-semicirculares"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

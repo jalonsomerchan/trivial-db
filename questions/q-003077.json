@@ -1,0 +1,42 @@
+{
+  "id": "q-003077",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "microbiologia-medica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el virus de la hepatitis que suele transmitirse por sangre?",
+  "answers": [
+    {
+      "text": "Mycobacterium tuberculosis",
+      "correct": false
+    },
+    {
+      "text": "virus de Epstein-Barr",
+      "correct": false
+    },
+    {
+      "text": "Plasmodium falciparum",
+      "correct": false
+    },
+    {
+      "text": "virus de la hepatitis C",
+      "correct": true
+    }
+  ],
+  "explanation": "virus de la hepatitis C es el virus de la hepatitis que suele transmitirse por sangre.",
+  "sources": [
+    {
+      "title": "virus de la hepatitis C",
+      "url": "https://medlineplus.gov/spanish/infectiousdiseases.html"
+    }
+  ],
+  "tags": [
+    "microbiologia",
+    "virus-de-la-hepatitis-c"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

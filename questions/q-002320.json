@@ -1,0 +1,43 @@
+{
+  "id": "q-002320",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web-y-http"
+  ],
+  "difficulty": "hard",
+  "question": "En HTTP, ¿qué frase de estado corresponde al código 410?",
+  "answers": [
+    {
+      "text": "Unsupported Media Type",
+      "correct": false
+    },
+    {
+      "text": "Gone",
+      "correct": true
+    },
+    {
+      "text": "Not Modified",
+      "correct": false
+    },
+    {
+      "text": "I'm a teapot",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 410 corresponde a “Gone”.",
+  "sources": [
+    {
+      "title": "HTTP 410",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos-de-estado",
+    "410"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

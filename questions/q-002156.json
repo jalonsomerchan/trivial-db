@@ -1,0 +1,42 @@
+{
+  "id": "q-002156",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Cheddar?",
+  "answers": [
+    {
+      "text": "leche de búfala",
+      "correct": false
+    },
+    {
+      "text": "leche de reno",
+      "correct": false
+    },
+    {
+      "text": "leche de vaca",
+      "correct": true
+    },
+    {
+      "text": "mezcla de leche de vaca, oveja o cabra",
+      "correct": false
+    }
+  ],
+  "explanation": "El queso Cheddar se elabora tradicionalmente con leche de vaca.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cheddar",
+      "url": "https://es.wikipedia.org/wiki/Cheddar"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "cheddar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

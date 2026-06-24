@@ -1,0 +1,43 @@
+{
+  "id": "q-002886",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de La ciudad y los perros?",
+  "answers": [
+    {
+      "text": "Joseph Conrad",
+      "correct": false
+    },
+    {
+      "text": "Mario Vargas Llosa",
+      "correct": true
+    },
+    {
+      "text": "Vicente Huidobro",
+      "correct": false
+    },
+    {
+      "text": "Robert Musil",
+      "correct": false
+    }
+  ],
+  "explanation": "La ciudad y los perros fue escrito por Mario Vargas Llosa.",
+  "sources": [
+    {
+      "title": "Wikipedia - La ciudad y los perros",
+      "url": "https://es.wikipedia.org/wiki/La_ciudad_y_los_perros"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "mario-vargas-llosa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

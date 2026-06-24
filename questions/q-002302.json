@@ -1,0 +1,43 @@
+{
+  "id": "q-002302",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes-y-protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el puerto TCP o UDP estándar asociado normalmente a Elasticsearch HTTP?",
+  "answers": [
+    {
+      "text": "21",
+      "correct": false
+    },
+    {
+      "text": "9200",
+      "correct": true
+    },
+    {
+      "text": "6443",
+      "correct": false
+    },
+    {
+      "text": "1433",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto estándar asociado normalmente a Elasticsearch HTTP es 9200.",
+  "sources": [
+    {
+      "title": "Elasticsearch HTTP",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "redes",
+    "puertos",
+    "elasticsearch-http"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

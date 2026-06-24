@@ -1,0 +1,42 @@
+{
+  "id": "q-002158",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Camembert de Normandie?",
+  "answers": [
+    {
+      "text": "leche de oveja y cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de camella",
+      "correct": false
+    },
+    {
+      "text": "leche de oveja",
+      "correct": false
+    },
+    {
+      "text": "leche de vaca",
+      "correct": true
+    }
+  ],
+  "explanation": "El queso Camembert de Normandie se elabora tradicionalmente con leche de vaca.",
+  "sources": [
+    {
+      "title": "Wikipedia - Camembert de Normandie",
+      "url": "https://es.wikipedia.org/wiki/Camembert_de_Normandie"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "camembert-de-normandie"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

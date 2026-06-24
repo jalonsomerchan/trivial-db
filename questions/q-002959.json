@@ -1,0 +1,43 @@
+{
+  "id": "q-002959",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Muerte en Venecia?",
+  "answers": [
+    {
+      "text": "Alfred Döblin",
+      "correct": false
+    },
+    {
+      "text": "William Faulkner",
+      "correct": false
+    },
+    {
+      "text": "George Eliot",
+      "correct": false
+    },
+    {
+      "text": "Thomas Mann",
+      "correct": true
+    }
+  ],
+  "explanation": "Muerte en Venecia fue escrito por Thomas Mann.",
+  "sources": [
+    {
+      "title": "Wikipedia - Muerte en Venecia",
+      "url": "https://es.wikipedia.org/wiki/Muerte_en_Venecia"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "thomas-mann"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

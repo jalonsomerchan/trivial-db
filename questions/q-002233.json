@@ -1,0 +1,42 @@
+{
+  "id": "q-002233",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la capa sensible a la luz del ojo?",
+  "answers": [
+    {
+      "text": "parótida",
+      "correct": false
+    },
+    {
+      "text": "retina",
+      "correct": true
+    },
+    {
+      "text": "estribo",
+      "correct": false
+    },
+    {
+      "text": "radio",
+      "correct": false
+    }
+  ],
+  "explanation": "La capa sensible a la luz del ojo se llama retina.",
+  "sources": [
+    {
+      "title": "retina",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "retina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

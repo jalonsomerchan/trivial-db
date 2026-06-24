@@ -1,0 +1,43 @@
+{
+  "id": "q-002427",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Blow-Up?",
+  "answers": [
+    {
+      "text": "Michael Haneke",
+      "correct": false
+    },
+    {
+      "text": "Michelangelo Antonioni",
+      "correct": true
+    },
+    {
+      "text": "Ingmar Bergman",
+      "correct": false
+    },
+    {
+      "text": "François Truffaut",
+      "correct": false
+    }
+  ],
+  "explanation": "Blow-Up fue dirigida por Michelangelo Antonioni.",
+  "sources": [
+    {
+      "title": "Wikipedia - Blow-Up",
+      "url": "https://es.wikipedia.org/wiki/Blow-Up"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "michelangelo-antonioni"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

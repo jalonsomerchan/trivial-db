@@ -1,0 +1,42 @@
+{
+  "id": "q-003073",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "microbiologia-medica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el virus relacionado con la mononucleosis infecciosa?",
+  "answers": [
+    {
+      "text": "Clostridium tetani",
+      "correct": false
+    },
+    {
+      "text": "virus de la hepatitis A",
+      "correct": false
+    },
+    {
+      "text": "virus de Epstein-Barr",
+      "correct": true
+    },
+    {
+      "text": "Escherichia coli",
+      "correct": false
+    }
+  ],
+  "explanation": "virus de Epstein-Barr es el virus relacionado con la mononucleosis infecciosa.",
+  "sources": [
+    {
+      "title": "virus de Epstein-Barr",
+      "url": "https://medlineplus.gov/spanish/infectiousdiseases.html"
+    }
+  ],
+  "tags": [
+    "microbiologia",
+    "virus-de-epstein-barr"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

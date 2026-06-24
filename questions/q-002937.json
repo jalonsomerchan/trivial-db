@@ -1,0 +1,43 @@
+{
+  "id": "q-002937",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Casa desolada?",
+  "answers": [
+    {
+      "text": "Jorge Luis Borges",
+      "correct": false
+    },
+    {
+      "text": "Fiódor Dostoyevski",
+      "correct": false
+    },
+    {
+      "text": "Charles Dickens",
+      "correct": true
+    },
+    {
+      "text": "Luis Cernuda",
+      "correct": false
+    }
+  ],
+  "explanation": "Casa desolada fue escrito por Charles Dickens.",
+  "sources": [
+    {
+      "title": "Wikipedia - Casa desolada",
+      "url": "https://es.wikipedia.org/wiki/Casa_desolada"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "charles-dickens"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

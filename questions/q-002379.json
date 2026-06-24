@@ -1,0 +1,42 @@
+{
+  "id": "q-002379",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "patrones-de-diseno"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué patrón de diseño busca añadir comportamiento envolviendo un objeto?",
+  "answers": [
+    {
+      "text": "Mediator",
+      "correct": false
+    },
+    {
+      "text": "Singleton",
+      "correct": false
+    },
+    {
+      "text": "Decorator",
+      "correct": true
+    },
+    {
+      "text": "Factory Method",
+      "correct": false
+    }
+  ],
+  "explanation": "El patrón Decorator busca añadir comportamiento envolviendo un objeto.",
+  "sources": [
+    {
+      "title": "Decorator",
+      "url": "https://en.wikipedia.org/wiki/Software_design_pattern"
+    }
+  ],
+  "tags": [
+    "patrones-de-diseno",
+    "decorator"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

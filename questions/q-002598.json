@@ -1,0 +1,43 @@
+{
+  "id": "q-002598",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra El nacimiento de Venus?",
+  "answers": [
+    {
+      "text": "Andrew Wyeth",
+      "correct": false
+    },
+    {
+      "text": "Sandro Botticelli",
+      "correct": true
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": false
+    },
+    {
+      "text": "Andy Warhol",
+      "correct": false
+    }
+  ],
+  "explanation": "El nacimiento de Venus es una obra de Sandro Botticelli.",
+  "sources": [
+    {
+      "title": "Wikipedia - El nacimiento de Venus",
+      "url": "https://es.wikipedia.org/wiki/El_nacimiento_de_Venus"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "sandro-botticelli"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

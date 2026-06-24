@@ -1,0 +1,42 @@
+{
+  "id": "q-002216",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama la cavidad cardiaca que impulsa sangre hacia la aorta?",
+  "answers": [
+    {
+      "text": "duodeno",
+      "correct": false
+    },
+    {
+      "text": "ventrículo izquierdo",
+      "correct": true
+    },
+    {
+      "text": "válvula tricúspide",
+      "correct": false
+    },
+    {
+      "text": "sinapsis",
+      "correct": false
+    }
+  ],
+  "explanation": "La cavidad cardiaca que impulsa sangre hacia la aorta se llama ventrículo izquierdo.",
+  "sources": [
+    {
+      "title": "ventrículo izquierdo",
+      "url": "https://medlineplus.gov/spanish/anatomy.html"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "ventriculo-izquierdo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

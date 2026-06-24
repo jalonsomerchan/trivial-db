@@ -1,0 +1,42 @@
+{
+  "id": "q-002861",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término de ciencias de la Tierra corresponde a “acidez o basicidad”?",
+  "answers": [
+    {
+      "text": "Mercalli",
+      "correct": false
+    },
+    {
+      "text": "fiordo",
+      "correct": false
+    },
+    {
+      "text": "pH",
+      "correct": true
+    },
+    {
+      "text": "lapilli",
+      "correct": false
+    }
+  ],
+  "explanation": "El término correspondiente a “acidez o basicidad” es pH.",
+  "sources": [
+    {
+      "title": "Wikipedia - pH",
+      "url": "https://es.wikipedia.org/wiki/pH"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "ph"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

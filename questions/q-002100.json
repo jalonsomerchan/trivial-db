@@ -1,0 +1,43 @@
+{
+  "id": "q-002100",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una reducción agridulce de azúcar caramelizado y vinagre?",
+  "answers": [
+    {
+      "text": "adobo",
+      "correct": false
+    },
+    {
+      "text": "ganache",
+      "correct": false
+    },
+    {
+      "text": "gastrique",
+      "correct": true
+    },
+    {
+      "text": "meunière",
+      "correct": false
+    }
+  ],
+  "explanation": "gastrique designa una reducción agridulce de azúcar caramelizado y vinagre.",
+  "sources": [
+    {
+      "title": "Wikipedia - gastrique",
+      "url": "https://es.wikipedia.org/wiki/gastrique"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "gastrique"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

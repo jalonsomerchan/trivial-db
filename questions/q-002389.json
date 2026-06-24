@@ -1,0 +1,43 @@
+{
+  "id": "q-002389",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película El año pasado en Marienbad?",
+  "answers": [
+    {
+      "text": "Alain Resnais",
+      "correct": true
+    },
+    {
+      "text": "Yasujirō Ozu",
+      "correct": false
+    },
+    {
+      "text": "Charles Laughton",
+      "correct": false
+    },
+    {
+      "text": "Carol Reed",
+      "correct": false
+    }
+  ],
+  "explanation": "El año pasado en Marienbad fue dirigida por Alain Resnais.",
+  "sources": [
+    {
+      "title": "Wikipedia - El año pasado en Marienbad",
+      "url": "https://es.wikipedia.org/wiki/El_a%C3%B1o_pasado_en_Marienbad"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "alain-resnais"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

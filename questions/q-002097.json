@@ -1,0 +1,43 @@
+{
+  "id": "q-002097",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una utensilio para crear espumas mediante gas a presión?",
+  "answers": [
+    {
+      "text": "chiffonade",
+      "correct": false
+    },
+    {
+      "text": "siphon",
+      "correct": true
+    },
+    {
+      "text": "meunière",
+      "correct": false
+    },
+    {
+      "text": "beurre blanc",
+      "correct": false
+    }
+  ],
+  "explanation": "siphon designa una utensilio para crear espumas mediante gas a presión.",
+  "sources": [
+    {
+      "title": "Wikipedia - siphon",
+      "url": "https://es.wikipedia.org/wiki/siphon"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "siphon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

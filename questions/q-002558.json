@@ -1,0 +1,42 @@
+{
+  "id": "q-002558",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué deporte se relaciona el término “end”?",
+  "answers": [
+    {
+      "text": "bádminton",
+      "correct": false
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "curling",
+      "correct": true
+    },
+    {
+      "text": "snowboard",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “end” se usa en curling.",
+  "sources": [
+    {
+      "title": "Wikipedia - end",
+      "url": "https://es.wikipedia.org/wiki/end"
+    }
+  ],
+  "tags": [
+    "terminologia-deportiva",
+    "curling"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

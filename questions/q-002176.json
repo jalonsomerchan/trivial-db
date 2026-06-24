@@ -1,0 +1,42 @@
+{
+  "id": "q-002176",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Vinho Verde blanco?",
+  "answers": [
+    {
+      "text": "alvarinho o loureiro",
+      "correct": true
+    },
+    {
+      "text": "sauvignon blanc",
+      "correct": false
+    },
+    {
+      "text": "tempranillo",
+      "correct": false
+    },
+    {
+      "text": "palomino",
+      "correct": false
+    }
+  ],
+  "explanation": "Vinho Verde blanco se asocia especialmente con alvarinho o loureiro.",
+  "sources": [
+    {
+      "title": "Wikipedia - Vinho Verde blanco",
+      "url": "https://es.wikipedia.org/wiki/Vinho_Verde_blanco"
+    }
+  ],
+  "tags": [
+    "vino",
+    "vinho-verde-blanco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

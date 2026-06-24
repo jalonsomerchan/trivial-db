@@ -1,0 +1,43 @@
+{
+  "id": "q-002428",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película El conformista?",
+  "answers": [
+    {
+      "text": "László Nemes",
+      "correct": false
+    },
+    {
+      "text": "Terrence Malick",
+      "correct": false
+    },
+    {
+      "text": "Chantal Akerman",
+      "correct": false
+    },
+    {
+      "text": "Bernardo Bertolucci",
+      "correct": true
+    }
+  ],
+  "explanation": "El conformista fue dirigida por Bernardo Bertolucci.",
+  "sources": [
+    {
+      "title": "Wikipedia - El conformista",
+      "url": "https://es.wikipedia.org/wiki/El_conformista"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "bernardo-bertolucci"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

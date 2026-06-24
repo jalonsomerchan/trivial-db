@@ -1,0 +1,43 @@
+{
+  "id": "q-002894",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Los detectives salvajes?",
+  "answers": [
+    {
+      "text": "Carlos Fuentes",
+      "correct": false
+    },
+    {
+      "text": "Vicente Huidobro",
+      "correct": false
+    },
+    {
+      "text": "Roberto Bolaño",
+      "correct": true
+    },
+    {
+      "text": "Fiódor Dostoyevski",
+      "correct": false
+    }
+  ],
+  "explanation": "Los detectives salvajes fue escrito por Roberto Bolaño.",
+  "sources": [
+    {
+      "title": "Wikipedia - Los detectives salvajes",
+      "url": "https://es.wikipedia.org/wiki/Los_detectives_salvajes"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "roberto-bolano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

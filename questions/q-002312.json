@@ -1,0 +1,43 @@
+{
+  "id": "q-002312",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web-y-http"
+  ],
+  "difficulty": "hard",
+  "question": "En HTTP, ¿qué frase de estado corresponde al código 307?",
+  "answers": [
+    {
+      "text": "Moved Permanently",
+      "correct": false
+    },
+    {
+      "text": "Loop Detected",
+      "correct": false
+    },
+    {
+      "text": "Service Unavailable",
+      "correct": false
+    },
+    {
+      "text": "Temporary Redirect",
+      "correct": true
+    }
+  ],
+  "explanation": "El código HTTP 307 corresponde a “Temporary Redirect”.",
+  "sources": [
+    {
+      "title": "HTTP 307",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos-de-estado",
+    "307"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

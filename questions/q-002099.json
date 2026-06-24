@@ -1,0 +1,43 @@
+{
+  "id": "q-002099",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una preparación con mantequilla, limón y perejil?",
+  "answers": [
+    {
+      "text": "meunière",
+      "correct": true
+    },
+    {
+      "text": "duxelles",
+      "correct": false
+    },
+    {
+      "text": "beurre blanc",
+      "correct": false
+    },
+    {
+      "text": "fumet",
+      "correct": false
+    }
+  ],
+  "explanation": "meunière designa una preparación con mantequilla, limón y perejil.",
+  "sources": [
+    {
+      "title": "Wikipedia - meunière",
+      "url": "https://es.wikipedia.org/wiki/meuni%C3%A8re"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "meuniere"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

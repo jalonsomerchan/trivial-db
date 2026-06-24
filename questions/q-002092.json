@@ -1,0 +1,43 @@
+{
+  "id": "q-002092",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una tomate pelado, sin semillas y cortado en dados?",
+  "answers": [
+    {
+      "text": "nappage",
+      "correct": false
+    },
+    {
+      "text": "ganache",
+      "correct": false
+    },
+    {
+      "text": "liaison",
+      "correct": false
+    },
+    {
+      "text": "concassé",
+      "correct": true
+    }
+  ],
+  "explanation": "concassé designa una tomate pelado, sin semillas y cortado en dados.",
+  "sources": [
+    {
+      "title": "Wikipedia - concassé",
+      "url": "https://es.wikipedia.org/wiki/concass%C3%A9"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "concasse"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

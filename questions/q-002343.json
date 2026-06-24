@@ -1,0 +1,43 @@
+{
+  "id": "q-002343",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "algoritmos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué complejidad temporal se asocia normalmente con recorrido DFS de un grafo?",
+  "answers": [
+    {
+      "text": "O(1)",
+      "correct": false
+    },
+    {
+      "text": "O(V + E)",
+      "correct": true
+    },
+    {
+      "text": "O(n³)",
+      "correct": false
+    },
+    {
+      "text": "O(n)",
+      "correct": false
+    }
+  ],
+  "explanation": "Recorrido dfs de un grafo se asocia normalmente con complejidad O(V + E).",
+  "sources": [
+    {
+      "title": "recorrido DFS de un grafo",
+      "url": "https://en.wikipedia.org/wiki/Time_complexity"
+    }
+  ],
+  "tags": [
+    "algoritmos",
+    "complejidad",
+    "recorrido-dfs-de-un-grafo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

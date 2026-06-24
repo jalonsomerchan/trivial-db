@@ -1,0 +1,42 @@
+{
+  "id": "q-002753",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-y-generos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué figura, práctica o contexto se asocia especialmente el término musical third stream?",
+  "answers": [
+    {
+      "text": "Django Reinhardt",
+      "correct": false
+    },
+    {
+      "text": "The Beatles",
+      "correct": false
+    },
+    {
+      "text": "Gunther Schuller",
+      "correct": true
+    },
+    {
+      "text": "ABBA",
+      "correct": false
+    }
+  ],
+  "explanation": "En historia del jazz y músicas afines, third stream se asocia con Gunther Schuller.",
+  "sources": [
+    {
+      "title": "Wikipedia - third stream",
+      "url": "https://es.wikipedia.org/wiki/third_stream"
+    }
+  ],
+  "tags": [
+    "jazz",
+    "third-stream"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

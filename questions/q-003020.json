@@ -1,0 +1,43 @@
+{
+  "id": "q-003020",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué fecha o periodo se sitúa históricamente Tratado de Versalles?",
+  "answers": [
+    {
+      "text": "1824",
+      "correct": false
+    },
+    {
+      "text": "1919",
+      "correct": true
+    },
+    {
+      "text": "1453",
+      "correct": false
+    },
+    {
+      "text": "1766",
+      "correct": false
+    }
+  ],
+  "explanation": "Tratado de Versalles se sitúa históricamente en 1919.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tratado de Versalles",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Versalles"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia",
+    "tratado-de-versalles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

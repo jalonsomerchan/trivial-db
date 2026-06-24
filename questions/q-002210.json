@@ -1,0 +1,43 @@
+{
+  "id": "q-002210",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "endocrinologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hormona desencadena ovulación y producción de testosterona?",
+  "answers": [
+    {
+      "text": "hormona antidiurética",
+      "correct": false
+    },
+    {
+      "text": "LH",
+      "correct": true
+    },
+    {
+      "text": "leptina",
+      "correct": false
+    },
+    {
+      "text": "melatonina",
+      "correct": false
+    }
+  ],
+  "explanation": "La hormona relacionada con esa función es LH.",
+  "sources": [
+    {
+      "title": "LH",
+      "url": "https://medlineplus.gov/spanish/hormones.html"
+    }
+  ],
+  "tags": [
+    "hormonas",
+    "endocrinologia",
+    "lh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

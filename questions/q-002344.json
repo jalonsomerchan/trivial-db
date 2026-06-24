@@ -1,0 +1,43 @@
+{
+  "id": "q-002344",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "algoritmos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué complejidad temporal se asocia normalmente con recorrido BFS de un grafo?",
+  "answers": [
+    {
+      "text": "O(V + E)",
+      "correct": true
+    },
+    {
+      "text": "O(n³)",
+      "correct": false
+    },
+    {
+      "text": "O((V + E) log V)",
+      "correct": false
+    },
+    {
+      "text": "O(n² log n)",
+      "correct": false
+    }
+  ],
+  "explanation": "Recorrido bfs de un grafo se asocia normalmente con complejidad O(V + E).",
+  "sources": [
+    {
+      "title": "recorrido BFS de un grafo",
+      "url": "https://en.wikipedia.org/wiki/Time_complexity"
+    }
+  ],
+  "tags": [
+    "algoritmos",
+    "complejidad",
+    "recorrido-bfs-de-un-grafo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

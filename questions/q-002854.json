@@ -1,0 +1,42 @@
+{
+  "id": "q-002854",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “comunidad y medio físico con intercambios de energía y materia”?",
+  "answers": [
+    {
+      "text": "comensalismo",
+      "correct": false
+    },
+    {
+      "text": "ecosistema",
+      "correct": true
+    },
+    {
+      "text": "geotropismo",
+      "correct": false
+    },
+    {
+      "text": "depredación",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es ecosistema.",
+  "sources": [
+    {
+      "title": "Wikipedia - ecosistema",
+      "url": "https://es.wikipedia.org/wiki/ecosistema"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "ecosistema"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002759",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-y-generos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué figura, práctica o contexto se asocia especialmente el término musical blue note?",
+  "answers": [
+    {
+      "text": "melodía nueva sobre progresión armónica preexistente",
+      "correct": false
+    },
+    {
+      "text": "nota alterada característica del blues y jazz",
+      "correct": true
+    },
+    {
+      "text": "The Beatles",
+      "correct": false
+    },
+    {
+      "text": "tema principal de una pieza de jazz",
+      "correct": false
+    }
+  ],
+  "explanation": "En historia del jazz y músicas afines, blue note se asocia con nota alterada característica del blues y jazz.",
+  "sources": [
+    {
+      "title": "Wikipedia - blue note",
+      "url": "https://es.wikipedia.org/wiki/blue_note"
+    }
+  ],
+  "tags": [
+    "jazz",
+    "blue-note"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

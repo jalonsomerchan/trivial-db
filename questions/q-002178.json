@@ -1,0 +1,42 @@
+{
+  "id": "q-002178",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Malbec de Mendoza?",
+  "answers": [
+    {
+      "text": "malbec",
+      "correct": true
+    },
+    {
+      "text": "cabernet sauvignon y merlot",
+      "correct": false
+    },
+    {
+      "text": "palomino",
+      "correct": false
+    },
+    {
+      "text": "riesling",
+      "correct": false
+    }
+  ],
+  "explanation": "Malbec de Mendoza se asocia especialmente con malbec.",
+  "sources": [
+    {
+      "title": "Wikipedia - Malbec de Mendoza",
+      "url": "https://es.wikipedia.org/wiki/Malbec_de_Mendoza"
+    }
+  ],
+  "tags": [
+    "vino",
+    "malbec-de-mendoza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

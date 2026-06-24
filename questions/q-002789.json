@@ -1,0 +1,42 @@
+{
+  "id": "q-002789",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de oso polar?",
+  "answers": [
+    {
+      "text": "Pongo pygmaeus",
+      "correct": false
+    },
+    {
+      "text": "Apis mellifera",
+      "correct": false
+    },
+    {
+      "text": "Ursus maritimus",
+      "correct": true
+    },
+    {
+      "text": "Camellia sinensis",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de oso polar es Ursus maritimus.",
+  "sources": [
+    {
+      "title": "Wikipedia - oso polar",
+      "url": "https://es.wikipedia.org/wiki/oso_polar"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "oso-polar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

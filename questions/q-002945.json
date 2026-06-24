@@ -1,0 +1,43 @@
+{
+  "id": "q-002945",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Al faro?",
+  "answers": [
+    {
+      "text": "Jean-Paul Sartre",
+      "correct": false
+    },
+    {
+      "text": "Marguerite Duras",
+      "correct": false
+    },
+    {
+      "text": "Virginia Woolf",
+      "correct": true
+    },
+    {
+      "text": "Luis Cernuda",
+      "correct": false
+    }
+  ],
+  "explanation": "Al faro fue escrito por Virginia Woolf.",
+  "sources": [
+    {
+      "title": "Wikipedia - Al faro",
+      "url": "https://es.wikipedia.org/wiki/Al_faro"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "virginia-woolf"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

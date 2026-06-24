@@ -1,0 +1,43 @@
+{
+  "id": "q-002088",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una salsa madre hecha con fondo claro y roux?",
+  "answers": [
+    {
+      "text": "mirepoix",
+      "correct": false
+    },
+    {
+      "text": "sabayon",
+      "correct": false
+    },
+    {
+      "text": "tempura",
+      "correct": false
+    },
+    {
+      "text": "velouté",
+      "correct": true
+    }
+  ],
+  "explanation": "velouté designa una salsa madre hecha con fondo claro y roux.",
+  "sources": [
+    {
+      "title": "Wikipedia - velouté",
+      "url": "https://es.wikipedia.org/wiki/velout%C3%A9"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "veloute"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

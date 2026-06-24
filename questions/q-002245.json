@@ -1,0 +1,42 @@
+{
+  "id": "q-002245",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "terminologia-medica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término médico significa frecuencia cardiaca lenta?",
+  "answers": [
+    {
+      "text": "hematuria",
+      "correct": false
+    },
+    {
+      "text": "bradicardia",
+      "correct": true
+    },
+    {
+      "text": "anemia",
+      "correct": false
+    },
+    {
+      "text": "ageusia",
+      "correct": false
+    }
+  ],
+  "explanation": "El término médico para frecuencia cardiaca lenta es bradicardia.",
+  "sources": [
+    {
+      "title": "bradicardia",
+      "url": "https://medlineplus.gov/spanish/encyclopedia.html"
+    }
+  ],
+  "tags": [
+    "terminologia-medica",
+    "bradicardia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002347",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "algoritmos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué complejidad temporal se asocia normalmente con comprobación de todos los pares de una lista?",
+  "answers": [
+    {
+      "text": "O(n³)",
+      "correct": false
+    },
+    {
+      "text": "O(n²)",
+      "correct": true
+    },
+    {
+      "text": "O(n log n)",
+      "correct": false
+    },
+    {
+      "text": "O(n!)",
+      "correct": false
+    }
+  ],
+  "explanation": "Comprobación de todos los pares de una lista se asocia normalmente con complejidad O(n²).",
+  "sources": [
+    {
+      "title": "comprobación de todos los pares de una lista",
+      "url": "https://en.wikipedia.org/wiki/Time_complexity"
+    }
+  ],
+  "tags": [
+    "algoritmos",
+    "complejidad",
+    "comprobacion-de-todos-los-pares-de-una-lista"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

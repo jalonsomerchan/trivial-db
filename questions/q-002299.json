@@ -1,0 +1,43 @@
+{
+  "id": "q-002299",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes-y-protocolos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el puerto TCP o UDP estándar asociado normalmente a SMTPS?",
+  "answers": [
+    {
+      "text": "11211",
+      "correct": false
+    },
+    {
+      "text": "143",
+      "correct": false
+    },
+    {
+      "text": "465",
+      "correct": true
+    },
+    {
+      "text": "5432",
+      "correct": false
+    }
+  ],
+  "explanation": "El puerto estándar asociado normalmente a SMTPS es 465.",
+  "sources": [
+    {
+      "title": "SMTPS",
+      "url": "https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml"
+    }
+  ],
+  "tags": [
+    "redes",
+    "puertos",
+    "smtps"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

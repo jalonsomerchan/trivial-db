@@ -1,0 +1,43 @@
+{
+  "id": "q-002407",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Amanecer?",
+  "answers": [
+    {
+      "text": "Akira Kurosawa",
+      "correct": false
+    },
+    {
+      "text": "Greta Gerwig",
+      "correct": false
+    },
+    {
+      "text": "F. W. Murnau",
+      "correct": true
+    },
+    {
+      "text": "Ingmar Bergman",
+      "correct": false
+    }
+  ],
+  "explanation": "Amanecer fue dirigida por F. W. Murnau.",
+  "sources": [
+    {
+      "title": "Wikipedia - Amanecer",
+      "url": "https://es.wikipedia.org/wiki/Amanecer"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "f-w-murnau"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

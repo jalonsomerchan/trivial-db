@@ -1,0 +1,42 @@
+{
+  "id": "q-002167",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Ribera del Duero?",
+  "answers": [
+    {
+      "text": "palomino",
+      "correct": false
+    },
+    {
+      "text": "macabeo, xarel·lo y parellada",
+      "correct": false
+    },
+    {
+      "text": "zinfandel",
+      "correct": false
+    },
+    {
+      "text": "tempranillo",
+      "correct": true
+    }
+  ],
+  "explanation": "Ribera del Duero se asocia especialmente con tempranillo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ribera del Duero",
+      "url": "https://es.wikipedia.org/wiki/Ribera_del_Duero"
+    }
+  ],
+  "tags": [
+    "vino",
+    "ribera-del-duero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

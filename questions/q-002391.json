@@ -1,0 +1,43 @@
+{
+  "id": "q-002391",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Ladrón de bicicletas?",
+  "answers": [
+    {
+      "text": "László Nemes",
+      "correct": false
+    },
+    {
+      "text": "Vittorio De Sica",
+      "correct": true
+    },
+    {
+      "text": "Greta Gerwig",
+      "correct": false
+    },
+    {
+      "text": "Carl Theodor Dreyer",
+      "correct": false
+    }
+  ],
+  "explanation": "Ladrón de bicicletas fue dirigida por Vittorio De Sica.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ladrón de bicicletas",
+      "url": "https://es.wikipedia.org/wiki/Ladr%C3%B3n_de_bicicletas"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "vittorio-de-sica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

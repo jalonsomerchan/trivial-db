@@ -1,0 +1,43 @@
+{
+  "id": "q-002398",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Viridiana?",
+  "answers": [
+    {
+      "text": "Federico Fellini",
+      "correct": false
+    },
+    {
+      "text": "Chantal Akerman",
+      "correct": false
+    },
+    {
+      "text": "Luis Buñuel",
+      "correct": true
+    },
+    {
+      "text": "Michael Haneke",
+      "correct": false
+    }
+  ],
+  "explanation": "Viridiana fue dirigida por Luis Buñuel.",
+  "sources": [
+    {
+      "title": "Wikipedia - Viridiana",
+      "url": "https://es.wikipedia.org/wiki/Viridiana"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "luis-bunuel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

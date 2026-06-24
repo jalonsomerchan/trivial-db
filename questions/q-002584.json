@@ -1,0 +1,43 @@
+{
+  "id": "q-002584",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra La balsa de la Medusa?",
+  "answers": [
+    {
+      "text": "Pablo Picasso",
+      "correct": false
+    },
+    {
+      "text": "Jacques-Louis David",
+      "correct": false
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": false
+    },
+    {
+      "text": "Théodore Géricault",
+      "correct": true
+    }
+  ],
+  "explanation": "La balsa de la Medusa es una obra de Théodore Géricault.",
+  "sources": [
+    {
+      "title": "Wikipedia - La balsa de la Medusa",
+      "url": "https://es.wikipedia.org/wiki/La_balsa_de_la_Medusa"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "theodore-gericault"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

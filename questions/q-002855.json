@@ -1,0 +1,42 @@
+{
+  "id": "q-002855",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico se define como “aumento de concentración de sustancias a lo largo de la cadena trófica”?",
+  "answers": [
+    {
+      "text": "anabolismo",
+      "correct": false
+    },
+    {
+      "text": "sucesión secundaria",
+      "correct": false
+    },
+    {
+      "text": "comunidad",
+      "correct": false
+    },
+    {
+      "text": "biomagnificación",
+      "correct": true
+    }
+  ],
+  "explanation": "El concepto definido es biomagnificación.",
+  "sources": [
+    {
+      "title": "Wikipedia - biomagnificación",
+      "url": "https://es.wikipedia.org/wiki/biomagnificaci%C3%B3n"
+    }
+  ],
+  "tags": [
+    "ecologia",
+    "biomagnificacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

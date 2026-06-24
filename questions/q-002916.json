@@ -1,0 +1,43 @@
+{
+  "id": "q-002916",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Luces de bohemia?",
+  "answers": [
+    {
+      "text": "Hermann Hesse",
+      "correct": false
+    },
+    {
+      "text": "Juan Ramón Jiménez",
+      "correct": false
+    },
+    {
+      "text": "Carmen Laforet",
+      "correct": false
+    },
+    {
+      "text": "Ramón María del Valle-Inclán",
+      "correct": true
+    }
+  ],
+  "explanation": "Luces de bohemia fue escrito por Ramón María del Valle-Inclán.",
+  "sources": [
+    {
+      "title": "Wikipedia - Luces de bohemia",
+      "url": "https://es.wikipedia.org/wiki/Luces_de_bohemia"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "ramon-maria-del-valle-inclan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002517",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "juegos-olimpicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ciudad organizó los Juegos Olímpicos de 1948 invierno?",
+  "answers": [
+    {
+      "text": "Cortina d’Ampezzo",
+      "correct": false
+    },
+    {
+      "text": "Sankt Moritz",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Atlanta",
+      "correct": false
+    }
+  ],
+  "explanation": "Los Juegos Olímpicos de 1948 invierno se celebraron en Sankt Moritz.",
+  "sources": [
+    {
+      "title": "Wikipedia - Juegos Olímpicos",
+      "url": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "sankt-moritz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002093",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una corte en tiras finas aplicado a hojas o hierbas?",
+  "answers": [
+    {
+      "text": "chiffonade",
+      "correct": true
+    },
+    {
+      "text": "roux",
+      "correct": false
+    },
+    {
+      "text": "velouté",
+      "correct": false
+    },
+    {
+      "text": "brunoise",
+      "correct": false
+    }
+  ],
+  "explanation": "chiffonade designa una corte en tiras finas aplicado a hojas o hierbas.",
+  "sources": [
+    {
+      "title": "Wikipedia - chiffonade",
+      "url": "https://es.wikipedia.org/wiki/chiffonade"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "chiffonade"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

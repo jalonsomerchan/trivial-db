@@ -1,0 +1,42 @@
+{
+  "id": "q-002157",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué leche se usa tradicionalmente en el queso Brie de Meaux?",
+  "answers": [
+    {
+      "text": "leche de reno",
+      "correct": false
+    },
+    {
+      "text": "mezcla de leche de vaca, oveja o cabra",
+      "correct": false
+    },
+    {
+      "text": "leche de vaca",
+      "correct": true
+    },
+    {
+      "text": "leche de oveja y cabra",
+      "correct": false
+    }
+  ],
+  "explanation": "El queso Brie de Meaux se elabora tradicionalmente con leche de vaca.",
+  "sources": [
+    {
+      "title": "Wikipedia - Brie de Meaux",
+      "url": "https://es.wikipedia.org/wiki/Brie_de_Meaux"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "brie-de-meaux"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

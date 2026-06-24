@@ -1,0 +1,42 @@
+{
+  "id": "q-002873",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término de ciencias de la Tierra corresponde a “depósito sedimentario en la desembocadura de un río”?",
+  "answers": [
+    {
+      "text": "dolina",
+      "correct": false
+    },
+    {
+      "text": "delta",
+      "correct": true
+    },
+    {
+      "text": "Beaufort",
+      "correct": false
+    },
+    {
+      "text": "karst",
+      "correct": false
+    }
+  ],
+  "explanation": "El término correspondiente a “depósito sedimentario en la desembocadura de un río” es delta.",
+  "sources": [
+    {
+      "title": "Wikipedia - delta",
+      "url": "https://es.wikipedia.org/wiki/delta"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "delta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002630",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra Sin título de 1982?",
+  "answers": [
+    {
+      "text": "Rembrandt",
+      "correct": false
+    },
+    {
+      "text": "Jean-Michel Basquiat",
+      "correct": true
+    },
+    {
+      "text": "Pierre-Auguste Renoir",
+      "correct": false
+    },
+    {
+      "text": "Rafael",
+      "correct": false
+    }
+  ],
+  "explanation": "Sin título de 1982 es una obra de Jean-Michel Basquiat.",
+  "sources": [
+    {
+      "title": "Wikipedia - Sin título de 1982",
+      "url": "https://es.wikipedia.org/wiki/Sin_t%C3%ADtulo_de_1982"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "jean-michel-basquiat"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

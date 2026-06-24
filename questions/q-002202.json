@@ -1,0 +1,43 @@
+{
+  "id": "q-002202",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "endocrinologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hormona estimula secreción pancreática rica en bicarbonato?",
+  "answers": [
+    {
+      "text": "adrenalina",
+      "correct": false
+    },
+    {
+      "text": "secretina",
+      "correct": true
+    },
+    {
+      "text": "hormona del crecimiento",
+      "correct": false
+    },
+    {
+      "text": "ACTH",
+      "correct": false
+    }
+  ],
+  "explanation": "La hormona relacionada con esa función es secretina.",
+  "sources": [
+    {
+      "title": "secretina",
+      "url": "https://medlineplus.gov/spanish/hormones.html"
+    }
+  ],
+  "tags": [
+    "hormonas",
+    "endocrinologia",
+    "secretina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-002416",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película Yi Yi?",
+  "answers": [
+    {
+      "text": "Abbas Kiarostami",
+      "correct": false
+    },
+    {
+      "text": "Wong Kar-wai",
+      "correct": false
+    },
+    {
+      "text": "Edward Yang",
+      "correct": true
+    },
+    {
+      "text": "Dario Argento",
+      "correct": false
+    }
+  ],
+  "explanation": "Yi Yi fue dirigida por Edward Yang.",
+  "sources": [
+    {
+      "title": "Wikipedia - Yi Yi",
+      "url": "https://es.wikipedia.org/wiki/Yi_Yi"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "edward-yang"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

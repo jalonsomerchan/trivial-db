@@ -1,0 +1,42 @@
+{
+  "id": "q-002782",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el nombre científico de tigre?",
+  "answers": [
+    {
+      "text": "Panthera tigris",
+      "correct": true
+    },
+    {
+      "text": "Aquila chrysaetos",
+      "correct": false
+    },
+    {
+      "text": "Balaenoptera musculus",
+      "correct": false
+    },
+    {
+      "text": "Carcharodon carcharias",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre científico de tigre es Panthera tigris.",
+  "sources": [
+    {
+      "title": "Wikipedia - tigre",
+      "url": "https://es.wikipedia.org/wiki/tigre"
+    }
+  ],
+  "tags": [
+    "taxonomia",
+    "tigre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

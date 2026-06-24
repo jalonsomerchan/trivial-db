@@ -1,0 +1,43 @@
+{
+  "id": "q-003034",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué fecha o periodo se sitúa históricamente Revolución cubana?",
+  "answers": [
+    {
+      "text": "1415",
+      "correct": false
+    },
+    {
+      "text": "1959",
+      "correct": true
+    },
+    {
+      "text": "1618",
+      "correct": false
+    },
+    {
+      "text": "1571",
+      "correct": false
+    }
+  ],
+  "explanation": "Revolución cubana se sitúa históricamente en 1959.",
+  "sources": [
+    {
+      "title": "Wikipedia - Revolución cubana",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_cubana"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia",
+    "revolucion-cubana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

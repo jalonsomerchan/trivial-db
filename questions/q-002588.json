@@ -1,0 +1,43 @@
+{
+  "id": "q-002588",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "pintura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista creó la obra La montaña Sainte-Victoire?",
+  "answers": [
+    {
+      "text": "Jackson Pollock",
+      "correct": false
+    },
+    {
+      "text": "Kazimir Malévich",
+      "correct": false
+    },
+    {
+      "text": "Willem de Kooning",
+      "correct": false
+    },
+    {
+      "text": "Paul Cézanne",
+      "correct": true
+    }
+  ],
+  "explanation": "La montaña Sainte-Victoire es una obra de Paul Cézanne.",
+  "sources": [
+    {
+      "title": "Wikipedia - La montaña Sainte-Victoire",
+      "url": "https://es.wikipedia.org/wiki/La_monta%C3%B1a_Sainte-Victoire"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pintura",
+    "paul-cezanne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

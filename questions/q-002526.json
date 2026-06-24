@@ -1,0 +1,42 @@
+{
+  "id": "q-002526",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "juegos-olimpicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ciudad organizó los Juegos Olímpicos de 1984 invierno?",
+  "answers": [
+    {
+      "text": "Sarajevo",
+      "correct": true
+    },
+    {
+      "text": "Estocolmo",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Buenos Aires",
+      "correct": false
+    }
+  ],
+  "explanation": "Los Juegos Olímpicos de 1984 invierno se celebraron en Sarajevo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Juegos Olímpicos",
+      "url": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "sarajevo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-002879",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término de ciencias de la Tierra corresponde a “vidrio volcánico natural”?",
+  "answers": [
+    {
+      "text": "loess",
+      "correct": false
+    },
+    {
+      "text": "atolón",
+      "correct": false
+    },
+    {
+      "text": "obsidiana",
+      "correct": true
+    },
+    {
+      "text": "lapilli",
+      "correct": false
+    }
+  ],
+  "explanation": "El término correspondiente a “vidrio volcánico natural” es obsidiana.",
+  "sources": [
+    {
+      "title": "Wikipedia - obsidiana",
+      "url": "https://es.wikipedia.org/wiki/obsidiana"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "obsidiana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

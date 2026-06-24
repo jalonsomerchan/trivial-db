@@ -1,0 +1,43 @@
+{
+  "id": "q-002971",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Papá Goriot?",
+  "answers": [
+    {
+      "text": "Honoré de Balzac",
+      "correct": true
+    },
+    {
+      "text": "Jean-Paul Sartre",
+      "correct": false
+    },
+    {
+      "text": "Franz Kafka",
+      "correct": false
+    },
+    {
+      "text": "Ernesto Sabato",
+      "correct": false
+    }
+  ],
+  "explanation": "Papá Goriot fue escrito por Honoré de Balzac.",
+  "sources": [
+    {
+      "title": "Wikipedia - Papá Goriot",
+      "url": "https://es.wikipedia.org/wiki/Pap%C3%A1_Goriot"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "honore-de-balzac"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

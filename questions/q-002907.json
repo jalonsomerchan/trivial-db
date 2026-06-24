@@ -1,0 +1,43 @@
+{
+  "id": "q-002907",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "obras-y-autores-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién es el autor de Tiempo de silencio?",
+  "answers": [
+    {
+      "text": "Italo Calvino",
+      "correct": false
+    },
+    {
+      "text": "Mario Benedetti",
+      "correct": false
+    },
+    {
+      "text": "Luis Martín-Santos",
+      "correct": true
+    },
+    {
+      "text": "Juan Ramón Jiménez",
+      "correct": false
+    }
+  ],
+  "explanation": "Tiempo de silencio fue escrito por Luis Martín-Santos.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tiempo de silencio",
+      "url": "https://es.wikipedia.org/wiki/Tiempo_de_silencio"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "luis-martin-santos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

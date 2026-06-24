@@ -1,0 +1,42 @@
+{
+  "id": "q-002523",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "juegos-olimpicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ciudad organizó los Juegos Olímpicos de 1972 invierno?",
+  "answers": [
+    {
+      "text": "Río de Janeiro",
+      "correct": false
+    },
+    {
+      "text": "Estocolmo",
+      "correct": false
+    },
+    {
+      "text": "Turín",
+      "correct": false
+    },
+    {
+      "text": "Sapporo",
+      "correct": true
+    }
+  ],
+  "explanation": "Los Juegos Olímpicos de 1972 invierno se celebraron en Sapporo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Juegos Olímpicos",
+      "url": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "sapporo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

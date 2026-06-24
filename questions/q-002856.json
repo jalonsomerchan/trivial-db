@@ -1,0 +1,42 @@
+{
+  "id": "q-002856",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "geologia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término de ciencias de la Tierra corresponde a “dureza de minerales”?",
+  "answers": [
+    {
+      "text": "fiordo",
+      "correct": false
+    },
+    {
+      "text": "Mohs",
+      "correct": true
+    },
+    {
+      "text": "sinclinal",
+      "correct": false
+    },
+    {
+      "text": "lapilli",
+      "correct": false
+    }
+  ],
+  "explanation": "El término correspondiente a “dureza de minerales” es Mohs.",
+  "sources": [
+    {
+      "title": "Wikipedia - Mohs",
+      "url": "https://es.wikipedia.org/wiki/Mohs"
+    }
+  ],
+  "tags": [
+    "geologia",
+    "mohs"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

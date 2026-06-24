@@ -1,0 +1,43 @@
+{
+  "id": "q-002422",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película El círculo rojo?",
+  "answers": [
+    {
+      "text": "Mike Leigh",
+      "correct": false
+    },
+    {
+      "text": "Jean-Pierre Melville",
+      "correct": true
+    },
+    {
+      "text": "David Lean",
+      "correct": false
+    },
+    {
+      "text": "Carl Theodor Dreyer",
+      "correct": false
+    }
+  ],
+  "explanation": "El círculo rojo fue dirigida por Jean-Pierre Melville.",
+  "sources": [
+    {
+      "title": "Wikipedia - El círculo rojo",
+      "url": "https://es.wikipedia.org/wiki/El_c%C3%ADrculo_rojo"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "jean-pierre-melville"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

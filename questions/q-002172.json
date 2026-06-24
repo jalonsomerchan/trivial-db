@@ -1,0 +1,42 @@
+{
+  "id": "q-002172",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "vinos-y-bebidas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué variedad o conjunto de variedades se asocia especialmente con Chablis?",
+  "answers": [
+    {
+      "text": "chardonnay",
+      "correct": true
+    },
+    {
+      "text": "pinot noir",
+      "correct": false
+    },
+    {
+      "text": "alvarinho o loureiro",
+      "correct": false
+    },
+    {
+      "text": "macabeo, xarel·lo y parellada",
+      "correct": false
+    }
+  ],
+  "explanation": "Chablis se asocia especialmente con chardonnay.",
+  "sources": [
+    {
+      "title": "Wikipedia - Chablis",
+      "url": "https://es.wikipedia.org/wiki/Chablis"
+    }
+  ],
+  "tags": [
+    "vino",
+    "chablis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

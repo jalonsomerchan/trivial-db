@@ -1,0 +1,43 @@
+{
+  "id": "q-002102",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas-y-terminos"
+  ],
+  "difficulty": "hard",
+  "question": "En cocina clásica, ¿qué término designa una cobertura brillante usada para glasear postres?",
+  "answers": [
+    {
+      "text": "sofrito",
+      "correct": false
+    },
+    {
+      "text": "roux",
+      "correct": false
+    },
+    {
+      "text": "nappage",
+      "correct": true
+    },
+    {
+      "text": "court-bouillon",
+      "correct": false
+    }
+  ],
+  "explanation": "nappage designa una cobertura brillante usada para glasear postres.",
+  "sources": [
+    {
+      "title": "Wikipedia - nappage",
+      "url": "https://es.wikipedia.org/wiki/nappage"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas-culinarias",
+    "nappage"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

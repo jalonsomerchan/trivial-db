@@ -1,0 +1,43 @@
+{
+  "id": "q-002481",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-de-autor"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién dirigió la película 4 meses, 3 semanas, 2 días?",
+  "answers": [
+    {
+      "text": "François Truffaut",
+      "correct": false
+    },
+    {
+      "text": "Carl Theodor Dreyer",
+      "correct": false
+    },
+    {
+      "text": "Cristian Mungiu",
+      "correct": true
+    },
+    {
+      "text": "Greta Gerwig",
+      "correct": false
+    }
+  ],
+  "explanation": "4 meses, 3 semanas, 2 días fue dirigida por Cristian Mungiu.",
+  "sources": [
+    {
+      "title": "Wikipedia - 4 meses, 3 semanas, 2 días",
+      "url": "https://es.wikipedia.org/wiki/4_meses%2C_3_semanas%2C_2_d%C3%ADas"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "cristian-mungiu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
