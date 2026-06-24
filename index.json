@@ -98,5 +98,13 @@
   {
     "id": "q-000029",
     "question": "¿Qué arquitecto diseñó principalmente la Sagrada Familia de Barcelona?"
+  },
+  {
+    "id": "q-000030",
+    "question": "¿En qué deporte se disputa el torneo de Wimbledon?"
+  },
+  {
+    "id": "q-000031",
+    "question": "¿Quién dirigió la película Tiburón de 1975?"
   }
 ]
