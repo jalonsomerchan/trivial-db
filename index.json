@@ -254,5 +254,9 @@
   {
     "id": "q-000072",
     "question": "¿Quién creó el personaje de Harry Potter?"
+  },
+  {
+    "id": "q-000073",
+    "question": "¿En qué ciudad se encuentra el Museo del Prado?"
   }
 ]
