@@ -1,0 +1,42 @@
+{
+  "id": "q-006792",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Quentin Tarantino?",
+  "answers": [
+    {
+      "text": "Pulp Fiction",
+      "correct": true
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": false
+    },
+    {
+      "text": "E.T., el extraterrestre",
+      "correct": false
+    },
+    {
+      "text": "Alien",
+      "correct": false
+    }
+  ],
+  "explanation": "Quentin Tarantino dirigió “Pulp Fiction”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "quentin-tarantino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

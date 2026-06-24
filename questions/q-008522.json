@@ -1,0 +1,42 @@
+{
+  "id": "q-008522",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “limpio”?",
+  "answers": [
+    {
+      "text": "difícil",
+      "correct": false
+    },
+    {
+      "text": "amargo",
+      "correct": false
+    },
+    {
+      "text": "sucio",
+      "correct": true
+    },
+    {
+      "text": "bajar",
+      "correct": false
+    }
+  ],
+  "explanation": "“sucio” es un antónimo de “limpio”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "limpio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

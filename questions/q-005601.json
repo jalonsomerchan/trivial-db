@@ -1,0 +1,43 @@
+{
+  "id": "q-005601",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre reptiles, equinodermos, moluscos y crustáceos, a qué grupo pertenece el animal llamado tortuga?",
+  "answers": [
+    {
+      "text": "crustáceos",
+      "correct": false
+    },
+    {
+      "text": "moluscos",
+      "correct": false
+    },
+    {
+      "text": "reptiles",
+      "correct": true
+    },
+    {
+      "text": "equinodermos",
+      "correct": false
+    }
+  ],
+  "explanation": "El tortuga pertenece al grupo de los reptiles.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "reptiles",
+    "tortuga"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

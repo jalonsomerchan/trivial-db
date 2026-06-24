@@ -1,0 +1,43 @@
+{
+  "id": "q-005282",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Rembrandt, Andy Warhol, René Magritte y Jackson Pollock, qué artista se vincula con Surrealismo y Bélgica?",
+  "answers": [
+    {
+      "text": "Rembrandt",
+      "correct": false
+    },
+    {
+      "text": "Andy Warhol",
+      "correct": false
+    },
+    {
+      "text": "René Magritte",
+      "correct": true
+    },
+    {
+      "text": "Jackson Pollock",
+      "correct": false
+    }
+  ],
+  "explanation": "René Magritte se vincula con Surrealismo y Bélgica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "surrealismo",
+    "belgica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

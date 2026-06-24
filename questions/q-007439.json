@@ -1,0 +1,43 @@
+{
+  "id": "q-007439",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre risotto, guacamole, baklava y croissant, qué plato se asocia con México y aguacate?",
+  "answers": [
+    {
+      "text": "guacamole",
+      "correct": true
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "baklava",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    }
+  ],
+  "explanation": "El guacamole se asocia con México y con aguacate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "mexico",
+    "aguacate"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

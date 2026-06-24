@@ -1,0 +1,42 @@
+{
+  "id": "q-005128",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre crónica, novela, biografía y autobiografía, qué género literario es un relato de la propia vida?",
+  "answers": [
+    {
+      "text": "novela",
+      "correct": false
+    },
+    {
+      "text": "autobiografía",
+      "correct": true
+    },
+    {
+      "text": "biografía",
+      "correct": false
+    },
+    {
+      "text": "crónica",
+      "correct": false
+    }
+  ],
+  "explanation": "Un autobiografía es un relato de la propia vida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autobiografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

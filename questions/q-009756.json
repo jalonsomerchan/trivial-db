@@ -1,0 +1,42 @@
+{
+  "id": "q-009756",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué controla principalmente la propiedad CSS cursor?",
+  "answers": [
+    {
+      "text": "define el tamaño de una imagen de fondo",
+      "correct": false
+    },
+    {
+      "text": "añade sombra a una caja",
+      "correct": false
+    },
+    {
+      "text": "define el cursor del puntero",
+      "correct": true
+    },
+    {
+      "text": "establece separación entre filas o columnas",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad cursor define el cursor del puntero.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "cursor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

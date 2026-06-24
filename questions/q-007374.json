@@ -1,0 +1,43 @@
+{
+  "id": "q-007374",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre cuscús, arepa, empanada y falafel, qué plato se asocia con Magreb y sémola de trigo?",
+  "answers": [
+    {
+      "text": "arepa",
+      "correct": false
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    },
+    {
+      "text": "cuscús",
+      "correct": true
+    },
+    {
+      "text": "empanada",
+      "correct": false
+    }
+  ],
+  "explanation": "El cuscús se asocia con Magreb y con sémola de trigo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "magreb",
+    "semola-de-trigo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

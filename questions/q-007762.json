@@ -1,0 +1,44 @@
+{
+  "id": "q-007762",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Chișinău, Tegucigalpa, West Island o Mogadishu?",
+  "answers": [
+    {
+      "text": "West Island",
+      "correct": false
+    },
+    {
+      "text": "Tegucigalpa",
+      "correct": false
+    },
+    {
+      "text": "Mogadishu",
+      "correct": false
+    },
+    {
+      "text": "Chișinău",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre las opciones, Chișinău es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

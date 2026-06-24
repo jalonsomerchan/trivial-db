@@ -1,0 +1,42 @@
+{
+  "id": "q-005491",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué rasgo se asocia con el Expresionismo?",
+  "answers": [
+    {
+      "text": "uso intenso y no naturalista del color",
+      "correct": false
+    },
+    {
+      "text": "deformación expresiva y emoción intensa",
+      "correct": true
+    },
+    {
+      "text": "interés por la Antigüedad clásica y el humanismo",
+      "correct": false
+    },
+    {
+      "text": "representación de la vida cotidiana sin idealización",
+      "correct": false
+    }
+  ],
+  "explanation": "Un rasgo del Expresionismo es deformación expresiva y emoción intensa.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "expresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008910",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre pretérito imperfecto de subjuntivo, pretérito pluscuamperfecto, perífrasis de gerundio y futuro simple, qué tiempo verbal aparece en “que yo cantara”?",
+  "answers": [
+    {
+      "text": "pretérito pluscuamperfecto",
+      "correct": false
+    },
+    {
+      "text": "futuro simple",
+      "correct": false
+    },
+    {
+      "text": "pretérito imperfecto de subjuntivo",
+      "correct": true
+    },
+    {
+      "text": "perífrasis de gerundio",
+      "correct": false
+    }
+  ],
+  "explanation": "“que yo cantara” está en pretérito imperfecto de subjuntivo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-imperfecto-de-subjuntivo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

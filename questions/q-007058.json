@@ -1,0 +1,43 @@
+{
+  "id": "q-007058",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Turquía y Oriente Medio, Grecia, Magreb y Europa del Este, con qué país o región se asocia tradicionalmente el plato borsch?",
+  "answers": [
+    {
+      "text": "Europa del Este",
+      "correct": true
+    },
+    {
+      "text": "Turquía y Oriente Medio",
+      "correct": false
+    },
+    {
+      "text": "Grecia",
+      "correct": false
+    },
+    {
+      "text": "Magreb",
+      "correct": false
+    }
+  ],
+  "explanation": "El borsch se asocia tradicionalmente con Europa del Este.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "borsch",
+    "europa-del-este"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

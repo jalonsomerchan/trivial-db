@@ -1,0 +1,43 @@
+{
+  "id": "q-006994",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estilo musical se asocia con Nirvana?",
+  "answers": [
+    {
+      "text": "música electrónica",
+      "correct": false
+    },
+    {
+      "text": "rock",
+      "correct": false
+    },
+    {
+      "text": "metal industrial",
+      "correct": false
+    },
+    {
+      "text": "grunge",
+      "correct": true
+    }
+  ],
+  "explanation": "Nirvana se asocia con grunge.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "nirvana",
+    "grunge"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

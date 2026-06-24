@@ -1,0 +1,43 @@
+{
+  "id": "q-008060",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Carlos I de España, Solimán el Magnífico, Simón Bolívar y Pedro el Grande, qué personaje histórico se asocia con Imperio otomano?",
+  "answers": [
+    {
+      "text": "Pedro el Grande",
+      "correct": false
+    },
+    {
+      "text": "Carlos I de España",
+      "correct": false
+    },
+    {
+      "text": "Solimán el Magnífico",
+      "correct": true
+    },
+    {
+      "text": "Simón Bolívar",
+      "correct": false
+    }
+  ],
+  "explanation": "Solimán el Magnífico se asocia con Imperio otomano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "soliman-el-magnifico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-006754",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre The Witcher 3, The Last of Us, Spyro the Dragon y Sonic the Hedgehog, qué videojuego se asocia con Geralt de Rivia?",
+  "answers": [
+    {
+      "text": "The Witcher 3",
+      "correct": true
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    },
+    {
+      "text": "Spyro the Dragon",
+      "correct": false
+    }
+  ],
+  "explanation": "Geralt de Rivia se asocia con “The Witcher 3”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "geralt-de-rivia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

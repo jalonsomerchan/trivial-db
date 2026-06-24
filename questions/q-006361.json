@@ -1,0 +1,43 @@
+{
+  "id": "q-006361",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "formula-1"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué país se celebra el Gran Premio de Italia?",
+  "answers": [
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": true
+    },
+    {
+      "text": "Mónaco",
+      "correct": false
+    }
+  ],
+  "explanation": "El Gran Premio de Italia se celebra en Italia.",
+  "sources": [
+    {
+      "title": "Formula 1",
+      "url": "https://www.formula1.com/"
+    }
+  ],
+  "tags": [
+    "formula-1",
+    "gran-premio-de-italia",
+    "italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

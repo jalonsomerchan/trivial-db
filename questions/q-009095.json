@@ -1,0 +1,42 @@
+{
+  "id": "q-009095",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 140 + 65?",
+  "answers": [
+    {
+      "text": "215",
+      "correct": false
+    },
+    {
+      "text": "205",
+      "correct": true
+    },
+    {
+      "text": "207",
+      "correct": false
+    },
+    {
+      "text": "203",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 140 y 65 es 205.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

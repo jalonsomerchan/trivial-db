@@ -1,0 +1,43 @@
+{
+  "id": "q-005281",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Rembrandt, Andy Warhol, Miguel Ángel y Paul Cézanne, qué artista se vincula con Barroco y Países Bajos?",
+  "answers": [
+    {
+      "text": "Paul Cézanne",
+      "correct": false
+    },
+    {
+      "text": "Miguel Ángel",
+      "correct": false
+    },
+    {
+      "text": "Andy Warhol",
+      "correct": false
+    },
+    {
+      "text": "Rembrandt",
+      "correct": true
+    }
+  ],
+  "explanation": "Rembrandt se vincula con Barroco y Países Bajos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "barroco",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

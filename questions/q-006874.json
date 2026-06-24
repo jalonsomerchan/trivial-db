@@ -1,0 +1,43 @@
+{
+  "id": "q-006874",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente “Psicosis”?",
+  "answers": [
+    {
+      "text": "suspense",
+      "correct": true
+    },
+    {
+      "text": "terror y ciencia ficción",
+      "correct": false
+    },
+    {
+      "text": "animación",
+      "correct": false
+    },
+    {
+      "text": "musical",
+      "correct": false
+    }
+  ],
+  "explanation": "“Psicosis” se asocia principalmente con suspense.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "psicosis",
+    "suspense"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

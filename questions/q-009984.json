@@ -1,0 +1,42 @@
+{
+  "id": "q-009984",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS controla el desbordamiento?",
+  "answers": [
+    {
+      "text": "position",
+      "correct": false
+    },
+    {
+      "text": "margin",
+      "correct": false
+    },
+    {
+      "text": "transform",
+      "correct": false
+    },
+    {
+      "text": "overflow",
+      "correct": true
+    }
+  ],
+  "explanation": "La propiedad CSS overflow controla el desbordamiento.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "overflow"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

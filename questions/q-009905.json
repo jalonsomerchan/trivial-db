@@ -1,0 +1,42 @@
+{
+  "id": "q-009905",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <img>?",
+  "answers": [
+    {
+      "text": "insertar una imagen",
+      "correct": true
+    },
+    {
+      "text": "insertar audio",
+      "correct": false
+    },
+    {
+      "text": "definir una opción seleccionable",
+      "correct": false
+    },
+    {
+      "text": "definir una celda de tabla",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <img> sirve para insertar una imagen.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "img"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

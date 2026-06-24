@@ -1,0 +1,43 @@
+{
+  "id": "q-007984",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Ruanda?",
+  "answers": [
+    {
+      "text": "ay",
+      "correct": false
+    },
+    {
+      "text": "kinyarwanda",
+      "correct": true
+    },
+    {
+      "text": "mh",
+      "correct": false
+    },
+    {
+      "text": "nepalí",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Ruanda figura el kinyarwanda.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "ruanda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

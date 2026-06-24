@@ -1,0 +1,42 @@
+{
+  "id": "q-008544",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "silabas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuántas sílabas tiene “ordenador”?",
+  "answers": [
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": true
+    },
+    {
+      "text": "1",
+      "correct": false
+    }
+  ],
+  "explanation": "“ordenador” tiene 4 sílabas.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "silabas",
+    "ordenador"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009508",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <audio>, <main>, <meta> y <th>, qué etiqueta HTML se usa para marcar el contenido principal?",
+  "answers": [
+    {
+      "text": "<audio>",
+      "correct": false
+    },
+    {
+      "text": "<meta>",
+      "correct": false
+    },
+    {
+      "text": "<main>",
+      "correct": true
+    },
+    {
+      "text": "<th>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <main> se usa para marcar el contenido principal.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "main"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008458",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Aragón, India, Francia y Rusia, con qué país o región se relaciona principalmente Luis XIV?",
+  "answers": [
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": true
+    },
+    {
+      "text": "Aragón",
+      "correct": false
+    }
+  ],
+  "explanation": "Luis XIV se relaciona principalmente con Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

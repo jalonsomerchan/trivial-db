@@ -1,0 +1,43 @@
+{
+  "id": "q-006644",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje protagoniza o representa la saga “Sonic the Hedgehog”?",
+  "answers": [
+    {
+      "text": "Donkey Kong",
+      "correct": false
+    },
+    {
+      "text": "Gordon Freeman",
+      "correct": false
+    },
+    {
+      "text": "Sonic",
+      "correct": true
+    },
+    {
+      "text": "Mario",
+      "correct": false
+    }
+  ],
+  "explanation": "Sonic es un personaje asociado a “Sonic the Hedgehog”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "sonic-the-hedgehog",
+    "sonic"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-005507",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado cangrejo?",
+  "answers": [
+    {
+      "text": "crustáceos",
+      "correct": true
+    },
+    {
+      "text": "arácnidos",
+      "correct": false
+    },
+    {
+      "text": "moluscos",
+      "correct": false
+    },
+    {
+      "text": "mamíferos",
+      "correct": false
+    }
+  ],
+  "explanation": "El cangrejo pertenece al grupo de los crustáceos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "crustaceos",
+    "cangrejo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

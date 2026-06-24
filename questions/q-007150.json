@@ -1,0 +1,43 @@
+{
+  "id": "q-007150",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del fondue?",
+  "answers": [
+    {
+      "text": "caldo con fideos",
+      "correct": false
+    },
+    {
+      "text": "queso fundido",
+      "correct": true
+    },
+    {
+      "text": "tortilla de maíz",
+      "correct": false
+    },
+    {
+      "text": "masa rellena",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del fondue es queso fundido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fondue",
+    "queso-fundido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

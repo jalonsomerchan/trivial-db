@@ -1,0 +1,42 @@
+{
+  "id": "q-006153",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "ciclismo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre maillot rojo, maillot verde, maglia rosa y maillot amarillo, qué prenda identifica al líder de la general en el Giro de Italia?",
+  "answers": [
+    {
+      "text": "maglia rosa",
+      "correct": true
+    },
+    {
+      "text": "maillot amarillo",
+      "correct": false
+    },
+    {
+      "text": "maillot verde",
+      "correct": false
+    },
+    {
+      "text": "maillot rojo",
+      "correct": false
+    }
+  ],
+  "explanation": "En el Giro de Italia, el líder de la general lleva el maglia rosa.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "ciclismo",
+    "giro-de-italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

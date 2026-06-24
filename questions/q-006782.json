@@ -1,0 +1,42 @@
+{
+  "id": "q-006782",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Damien Chazelle?",
+  "answers": [
+    {
+      "text": "La La Land",
+      "correct": true
+    },
+    {
+      "text": "Origen",
+      "correct": false
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    },
+    {
+      "text": "Apocalypse Now",
+      "correct": false
+    }
+  ],
+  "explanation": "Damien Chazelle dirigió “La La Land”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "damien-chazelle"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

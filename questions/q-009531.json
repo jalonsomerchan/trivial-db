@@ -1,0 +1,42 @@
+{
+  "id": "q-009531",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <input>, <link>, <table> y <label>, qué etiqueta HTML se usa para vincular recursos externos?",
+  "answers": [
+    {
+      "text": "<label>",
+      "correct": false
+    },
+    {
+      "text": "<input>",
+      "correct": false
+    },
+    {
+      "text": "<table>",
+      "correct": false
+    },
+    {
+      "text": "<link>",
+      "correct": true
+    }
+  ],
+  "explanation": "La etiqueta <link> se usa para vincular recursos externos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "link"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

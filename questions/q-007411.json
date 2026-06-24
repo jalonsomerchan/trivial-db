@@ -1,0 +1,43 @@
+{
+  "id": "q-007411",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre manzana, trigo, garbanzos y pistacho, cuál de estos alimentos pertenece al grupo fruta?",
+  "answers": [
+    {
+      "text": "pistacho",
+      "correct": false
+    },
+    {
+      "text": "trigo",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": true
+    }
+  ],
+  "explanation": "manzana pertenece al grupo fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

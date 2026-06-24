@@ -1,0 +1,43 @@
+{
+  "id": "q-005679",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Deimos, Ío, Titania y Ariel, cuál de estas lunas orbita Júpiter?",
+  "answers": [
+    {
+      "text": "Ariel",
+      "correct": false
+    },
+    {
+      "text": "Ío",
+      "correct": true
+    },
+    {
+      "text": "Titania",
+      "correct": false
+    },
+    {
+      "text": "Deimos",
+      "correct": false
+    }
+  ],
+  "explanation": "Ío orbita Júpiter.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "jupiter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

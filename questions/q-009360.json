@@ -1,0 +1,42 @@
+{
+  "id": "q-009360",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "fracciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fracción equivale aproximadamente a 0.31?",
+  "answers": [
+    {
+      "text": "29/9",
+      "correct": false
+    },
+    {
+      "text": "9/30",
+      "correct": false
+    },
+    {
+      "text": "20/29",
+      "correct": false
+    },
+    {
+      "text": "9/29",
+      "correct": true
+    }
+  ],
+  "explanation": "9/29 equivale aproximadamente a 0.31.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "fracciones",
+    "decimales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

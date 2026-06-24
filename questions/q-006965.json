@@ -1,0 +1,43 @@
+{
+  "id": "q-006965",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compañía o estudio se asocia con “Doom”?",
+  "answers": [
+    {
+      "text": "Midway",
+      "correct": false
+    },
+    {
+      "text": "Konami",
+      "correct": false
+    },
+    {
+      "text": "Core Design",
+      "correct": false
+    },
+    {
+      "text": "id Software",
+      "correct": true
+    }
+  ],
+  "explanation": "“Doom” se asocia con id Software.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "doom",
+    "id-software"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

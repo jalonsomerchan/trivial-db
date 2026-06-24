@@ -1,0 +1,42 @@
+{
+  "id": "q-009998",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS define una transición entre estados?",
+  "answers": [
+    {
+      "text": "grid-template-columns",
+      "correct": false
+    },
+    {
+      "text": "z-index",
+      "correct": false
+    },
+    {
+      "text": "transition",
+      "correct": true
+    },
+    {
+      "text": "padding",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS transition define una transición entre estados.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "transition"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

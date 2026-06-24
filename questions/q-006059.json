@@ -1,0 +1,43 @@
+{
+  "id": "q-006059",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué deporte se usa el término “slalom”?",
+  "answers": [
+    {
+      "text": "ajedrez",
+      "correct": false
+    },
+    {
+      "text": "judo",
+      "correct": false
+    },
+    {
+      "text": "esquí alpino",
+      "correct": true
+    },
+    {
+      "text": "golf",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “slalom” se usa en esquí alpino.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "esqui-alpino",
+    "slalom"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

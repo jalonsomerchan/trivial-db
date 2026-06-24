@@ -1,0 +1,43 @@
+{
+  "id": "q-007723",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Mali, Mauritania, Santo Tomé y Príncipe o Malawi?",
+  "answers": [
+    {
+      "text": "Malawi",
+      "correct": false
+    },
+    {
+      "text": "Santo Tomé y Príncipe",
+      "correct": false
+    },
+    {
+      "text": "Mali",
+      "correct": true
+    },
+    {
+      "text": "Mauritania",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Mali tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

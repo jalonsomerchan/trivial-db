@@ -1,0 +1,43 @@
+{
+  "id": "q-008886",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre limpio, encender, aceptar y alto, qué palabra tiene significado opuesto a “apagar”?",
+  "answers": [
+    {
+      "text": "limpio",
+      "correct": false
+    },
+    {
+      "text": "encender",
+      "correct": true
+    },
+    {
+      "text": "aceptar",
+      "correct": false
+    },
+    {
+      "text": "alto",
+      "correct": false
+    }
+  ],
+  "explanation": "“encender” y “apagar” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "encender",
+    "apagar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-005899",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué cuerpo celeste es satélite Caronte?",
+  "answers": [
+    {
+      "text": "Urano",
+      "correct": false
+    },
+    {
+      "text": "Marte",
+      "correct": false
+    },
+    {
+      "text": "Tierra",
+      "correct": false
+    },
+    {
+      "text": "Plutón",
+      "correct": true
+    }
+  ],
+  "explanation": "Caronte es un satélite natural de Plutón.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "caronte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

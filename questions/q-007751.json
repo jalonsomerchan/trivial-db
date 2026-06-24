@@ -1,0 +1,43 @@
+{
+  "id": "q-007751",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Tuvalu, Perú, Azerbaiyán o Arabia Saudí?",
+  "answers": [
+    {
+      "text": "Tuvalu",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    },
+    {
+      "text": "Azerbaiyán",
+      "correct": false
+    },
+    {
+      "text": "Arabia Saudí",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre las opciones, Arabia Saudí tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007893",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Grecia?",
+  "answers": [
+    {
+      "text": "Central America",
+      "correct": false
+    },
+    {
+      "text": "Western Africa",
+      "correct": false
+    },
+    {
+      "text": "Central Asia",
+      "correct": false
+    },
+    {
+      "text": "Southern Europe",
+      "correct": true
+    }
+  ],
+  "explanation": "Grecia pertenece a la subregión Southern Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "grecia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

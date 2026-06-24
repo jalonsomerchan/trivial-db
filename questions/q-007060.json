@@ -1,0 +1,43 @@
+{
+  "id": "q-007060",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre aguacate, maíz, col fermentada y garbanzos, qué ingrediente es característico del falafel?",
+  "answers": [
+    {
+      "text": "col fermentada",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": true
+    },
+    {
+      "text": "aguacate",
+      "correct": false
+    },
+    {
+      "text": "maíz",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del falafel es garbanzos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "falafel",
+    "garbanzos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

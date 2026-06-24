@@ -1,0 +1,44 @@
+{
+  "id": "q-007755",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Basseterre, Kingston, Praia o Nuuk?",
+  "answers": [
+    {
+      "text": "Praia",
+      "correct": false
+    },
+    {
+      "text": "Nuuk",
+      "correct": true
+    },
+    {
+      "text": "Basseterre",
+      "correct": false
+    },
+    {
+      "text": "Kingston",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Nuuk es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

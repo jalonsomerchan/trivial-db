@@ -1,0 +1,42 @@
+{
+  "id": "q-006834",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Steve?",
+  "answers": [
+    {
+      "text": "Minecraft",
+      "correct": true
+    },
+    {
+      "text": "Halo",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    },
+    {
+      "text": "Donkey Kong",
+      "correct": false
+    }
+  ],
+  "explanation": "Steve se asocia con “Minecraft”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "steve"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007959",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Islas Faroe?",
+  "answers": [
+    {
+      "text": "feroés",
+      "correct": true
+    },
+    {
+      "text": "punyabí",
+      "correct": false
+    },
+    {
+      "text": "bi",
+      "correct": false
+    },
+    {
+      "text": "kirguís",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Islas Faroe figura el feroés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "islas-faroe"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

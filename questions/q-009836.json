@@ -1,0 +1,42 @@
+{
+  "id": "q-009836",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre AVG, GROUP BY, DELETE y PRIMARY KEY, qué instrucción o cláusula SQL se usa para eliminar filas?",
+  "answers": [
+    {
+      "text": "GROUP BY",
+      "correct": false
+    },
+    {
+      "text": "PRIMARY KEY",
+      "correct": false
+    },
+    {
+      "text": "AVG",
+      "correct": false
+    },
+    {
+      "text": "DELETE",
+      "correct": true
+    }
+  ],
+  "explanation": "En SQL, DELETE se usa para eliminar filas.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "delete"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

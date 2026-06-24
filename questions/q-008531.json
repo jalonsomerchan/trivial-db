@@ -1,0 +1,42 @@
+{
+  "id": "q-008531",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “unir”?",
+  "answers": [
+    {
+      "text": "separar",
+      "correct": true
+    },
+    {
+      "text": "oscuro",
+      "correct": false
+    },
+    {
+      "text": "bajo",
+      "correct": false
+    },
+    {
+      "text": "destruir",
+      "correct": false
+    }
+  ],
+  "explanation": "“separar” es un antónimo de “unir”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "unir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007372",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre curry verde, biryani, empanada y baklava, qué plato se asocia con España y América Latina y masa rellena?",
+  "answers": [
+    {
+      "text": "biryani",
+      "correct": false
+    },
+    {
+      "text": "empanada",
+      "correct": true
+    },
+    {
+      "text": "baklava",
+      "correct": false
+    },
+    {
+      "text": "curry verde",
+      "correct": false
+    }
+  ],
+  "explanation": "El empanada se asocia con España y América Latina y con masa rellena.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "espana-y-america-latina",
+    "masa-rellena"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

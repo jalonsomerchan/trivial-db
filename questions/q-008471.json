@@ -1,0 +1,43 @@
+{
+  "id": "q-008471",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Reino Unido, Sudáfrica, Rusia y Francia, con qué país o región se relaciona principalmente Catalina la Grande?",
+  "answers": [
+    {
+      "text": "Rusia",
+      "correct": true
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    }
+  ],
+  "explanation": "Catalina la Grande se relaciona principalmente con Rusia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "rusia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

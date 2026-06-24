@@ -1,0 +1,42 @@
+{
+  "id": "q-009262",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 185193?",
+  "answers": [
+    {
+      "text": "56",
+      "correct": false
+    },
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "59",
+      "correct": false
+    },
+    {
+      "text": "57",
+      "correct": true
+    }
+  ],
+  "explanation": "Como 57³ = 185193, la raíz cúbica de 185193 es 57.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

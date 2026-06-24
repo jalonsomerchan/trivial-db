@@ -1,0 +1,42 @@
+{
+  "id": "q-008699",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre que yo cante, que yo cantara, yo cantaba y yo he cantado, qué forma verbal corresponde a pretérito imperfecto de subjuntivo?",
+  "answers": [
+    {
+      "text": "yo cantaba",
+      "correct": false
+    },
+    {
+      "text": "que yo cante",
+      "correct": false
+    },
+    {
+      "text": "yo he cantado",
+      "correct": false
+    },
+    {
+      "text": "que yo cantara",
+      "correct": true
+    }
+  ],
+  "explanation": "La forma “que yo cantara” corresponde a pretérito imperfecto de subjuntivo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-imperfecto-de-subjuntivo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

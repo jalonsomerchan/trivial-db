@@ -1,0 +1,43 @@
+{
+  "id": "q-005379",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué país está el Van Gogh Museum?",
+  "answers": [
+    {
+      "text": "Alemania",
+      "correct": false
+    },
+    {
+      "text": "Países Bajos",
+      "correct": true
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El Van Gogh Museum está en Países Bajos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "van-gogh-museum",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007987",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Sierra Leone?",
+  "answers": [
+    {
+      "text": "inglés",
+      "correct": true
+    },
+    {
+      "text": "afrikáans",
+      "correct": false
+    },
+    {
+      "text": "ay",
+      "correct": false
+    },
+    {
+      "text": "rs",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Sierra Leone figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "sierra-leone"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

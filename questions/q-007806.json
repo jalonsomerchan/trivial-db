@@ -1,0 +1,44 @@
+{
+  "id": "q-007806",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Port Vila, Port Louis, Kabul o Adamstown?",
+  "answers": [
+    {
+      "text": "Port Louis",
+      "correct": false
+    },
+    {
+      "text": "Adamstown",
+      "correct": false
+    },
+    {
+      "text": "Port Vila",
+      "correct": false
+    },
+    {
+      "text": "Kabul",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre las opciones, Kabul es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

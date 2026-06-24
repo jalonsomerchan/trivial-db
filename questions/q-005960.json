@@ -1,0 +1,42 @@
+{
+  "id": "q-005960",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre sistema auditivo, sistema linfático, sistema digestivo y sistema visual, a qué sistema pertenece principalmente el esófago?",
+  "answers": [
+    {
+      "text": "sistema visual",
+      "correct": false
+    },
+    {
+      "text": "sistema digestivo",
+      "correct": true
+    },
+    {
+      "text": "sistema auditivo",
+      "correct": false
+    },
+    {
+      "text": "sistema linfático",
+      "correct": false
+    }
+  ],
+  "explanation": "El esófago pertenece principalmente al sistema digestivo.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "sistema-digestivo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

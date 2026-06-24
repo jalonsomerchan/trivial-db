@@ -1,0 +1,42 @@
+{
+  "id": "q-009039",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 109 + 67?",
+  "answers": [
+    {
+      "text": "186",
+      "correct": false
+    },
+    {
+      "text": "178",
+      "correct": false
+    },
+    {
+      "text": "174",
+      "correct": false
+    },
+    {
+      "text": "176",
+      "correct": true
+    }
+  ],
+  "explanation": "La suma de 109 y 67 es 176.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-007822",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Thimphu, Tegucigalpa, Santiago o Washington D.C.?",
+  "answers": [
+    {
+      "text": "Washington D.C.",
+      "correct": true
+    },
+    {
+      "text": "Tegucigalpa",
+      "correct": false
+    },
+    {
+      "text": "Thimphu",
+      "correct": false
+    },
+    {
+      "text": "Santiago",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Washington D.C. es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

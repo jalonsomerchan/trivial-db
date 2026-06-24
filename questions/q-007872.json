@@ -1,0 +1,43 @@
+{
+  "id": "q-007872",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Arabia Saudí?",
+  "answers": [
+    {
+      "text": "Caribbean",
+      "correct": false
+    },
+    {
+      "text": "Micronesia",
+      "correct": false
+    },
+    {
+      "text": "Polynesia",
+      "correct": false
+    },
+    {
+      "text": "Western Asia",
+      "correct": true
+    }
+  ],
+  "explanation": "Arabia Saudí pertenece a la subregión Western Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "arabia-saudi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

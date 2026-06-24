@@ -1,0 +1,43 @@
+{
+  "id": "q-007963",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Kazajistán?",
+  "answers": [
+    {
+      "text": "criollo haitiano",
+      "correct": false
+    },
+    {
+      "text": "kazajo",
+      "correct": true
+    },
+    {
+      "text": "hebreo",
+      "correct": false
+    },
+    {
+      "text": "shona",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Kazajistán figura el kazajo.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "kazajistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

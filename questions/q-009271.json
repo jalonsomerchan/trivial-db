@@ -1,0 +1,42 @@
+{
+  "id": "q-009271",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 50653?",
+  "answers": [
+    {
+      "text": "38",
+      "correct": false
+    },
+    {
+      "text": "36",
+      "correct": false
+    },
+    {
+      "text": "37",
+      "correct": true
+    },
+    {
+      "text": "39",
+      "correct": false
+    }
+  ],
+  "explanation": "Como 37³ = 50653, la raíz cúbica de 50653 es 37.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

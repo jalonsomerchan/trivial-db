@@ -1,0 +1,42 @@
+{
+  "id": "q-009660",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para insertar una imagen?",
+  "answers": [
+    {
+      "text": "<img>",
+      "correct": true
+    },
+    {
+      "text": "<canvas>",
+      "correct": false
+    },
+    {
+      "text": "<ul>",
+      "correct": false
+    },
+    {
+      "text": "<main>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <img> se usa para insertar una imagen.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "img"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

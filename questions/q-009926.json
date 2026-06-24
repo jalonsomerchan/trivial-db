@@ -1,0 +1,42 @@
+{
+  "id": "q-009926",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <video>?",
+  "answers": [
+    {
+      "text": "crear un enlace",
+      "correct": false
+    },
+    {
+      "text": "insertar vídeo",
+      "correct": true
+    },
+    {
+      "text": "marcar una cabecera",
+      "correct": false
+    },
+    {
+      "text": "insertar o enlazar JavaScript",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <video> sirve para insertar vídeo.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "video"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

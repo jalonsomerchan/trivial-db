@@ -1,0 +1,42 @@
+{
+  "id": "q-005884",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal de la hipófisis?",
+  "answers": [
+    {
+      "text": "coordinar funciones nerviosas superiores",
+      "correct": false
+    },
+    {
+      "text": "regular otras glándulas endocrinas",
+      "correct": true
+    },
+    {
+      "text": "detectar la luz en el ojo",
+      "correct": false
+    },
+    {
+      "text": "proteger el cuerpo del exterior",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal de la hipófisis es regular otras glándulas endocrinas.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "hipofisis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

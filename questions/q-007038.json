@@ -1,0 +1,43 @@
+{
+  "id": "q-007038",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato croissant?",
+  "answers": [
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Turquía y Oriente Medio",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": true
+    }
+  ],
+  "explanation": "El croissant se asocia tradicionalmente con Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "croissant",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

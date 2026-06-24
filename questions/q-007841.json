@@ -1,0 +1,43 @@
+{
+  "id": "q-007841",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país tiene frontera terrestre Bután?",
+  "answers": [
+    {
+      "text": "Kazajistán",
+      "correct": false
+    },
+    {
+      "text": "China",
+      "correct": true
+    },
+    {
+      "text": "Bahrein",
+      "correct": false
+    },
+    {
+      "text": "Vietnam",
+      "correct": false
+    }
+  ],
+  "explanation": "Bután comparte frontera terrestre con China.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "fronteras",
+    "butan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

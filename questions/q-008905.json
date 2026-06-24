@@ -1,0 +1,43 @@
+{
+  "id": "q-008905",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre nacer, unir, recordar y encontrar, qué palabra tiene significado opuesto a “morir”?",
+  "answers": [
+    {
+      "text": "unir",
+      "correct": false
+    },
+    {
+      "text": "nacer",
+      "correct": true
+    },
+    {
+      "text": "recordar",
+      "correct": false
+    },
+    {
+      "text": "encontrar",
+      "correct": false
+    }
+  ],
+  "explanation": "“nacer” y “morir” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "nacer",
+    "morir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006386",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "formula-1"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Brasil, Reino Unido, Singapur y México, en qué país se celebra el Gran Premio de Gran Bretaña?",
+  "answers": [
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": true
+    },
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Singapur",
+      "correct": false
+    }
+  ],
+  "explanation": "El Gran Premio de Gran Bretaña se celebra en Reino Unido.",
+  "sources": [
+    {
+      "title": "Formula 1",
+      "url": "https://www.formula1.com/"
+    }
+  ],
+  "tags": [
+    "formula-1",
+    "gran-premio-de-gran-bretana",
+    "reino-unido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

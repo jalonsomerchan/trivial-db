@@ -1,0 +1,43 @@
+{
+  "id": "q-006936",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre fantasía, drama criminal, comedia y ciencia ficción, a qué género se asocia principalmente la serie “Doctor Who”?",
+  "answers": [
+    {
+      "text": "comedia",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    },
+    {
+      "text": "fantasía",
+      "correct": false
+    },
+    {
+      "text": "drama criminal",
+      "correct": false
+    }
+  ],
+  "explanation": "“Doctor Who” se asocia principalmente con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "doctor-who",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007091",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre garbanzos, pescado crudo marinado, col fermentada y aguacate, qué ingrediente es característico del ceviche?",
+  "answers": [
+    {
+      "text": "col fermentada",
+      "correct": false
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "pescado crudo marinado",
+      "correct": true
+    },
+    {
+      "text": "aguacate",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del ceviche es pescado crudo marinado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ceviche",
+    "pescado-crudo-marinado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005143",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué género literario es un obra dramática orientada a lo humorístico?",
+  "answers": [
+    {
+      "text": "haiku",
+      "correct": false
+    },
+    {
+      "text": "tragedia",
+      "correct": false
+    },
+    {
+      "text": "comedia",
+      "correct": true
+    },
+    {
+      "text": "oda",
+      "correct": false
+    }
+  ],
+  "explanation": "Un comedia es un obra dramática orientada a lo humorístico.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "comedia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

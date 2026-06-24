@@ -1,0 +1,42 @@
+{
+  "id": "q-009722",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre crear una tabla, ordenar resultados, modificar filas existentes y eliminar filas, qué hace principalmente UPDATE en SQL?",
+  "answers": [
+    {
+      "text": "ordenar resultados",
+      "correct": false
+    },
+    {
+      "text": "modificar filas existentes",
+      "correct": true
+    },
+    {
+      "text": "eliminar filas",
+      "correct": false
+    },
+    {
+      "text": "crear una tabla",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, UPDATE sirve para modificar filas existentes.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "update"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

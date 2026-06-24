@@ -1,0 +1,42 @@
+{
+  "id": "q-009730",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre define el espacio exterior, controla la altura de línea, define el eje principal en flexbox y define cómo se muestra una caja, qué controla principalmente la propiedad CSS flex-direction?",
+  "answers": [
+    {
+      "text": "define el eje principal en flexbox",
+      "correct": true
+    },
+    {
+      "text": "controla la altura de línea",
+      "correct": false
+    },
+    {
+      "text": "define el espacio exterior",
+      "correct": false
+    },
+    {
+      "text": "define cómo se muestra una caja",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad flex-direction define el eje principal en flexbox.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "flex-direction"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

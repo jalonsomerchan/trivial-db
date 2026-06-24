@@ -1,0 +1,43 @@
+{
+  "id": "q-007720",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Madagascar, Ecuador, Sudán del Sur o Iran?",
+  "answers": [
+    {
+      "text": "Sudán del Sur",
+      "correct": false
+    },
+    {
+      "text": "Iran",
+      "correct": true
+    },
+    {
+      "text": "Ecuador",
+      "correct": false
+    },
+    {
+      "text": "Madagascar",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Iran tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

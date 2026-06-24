@@ -1,0 +1,42 @@
+{
+  "id": "q-008264",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre batalla de Lepanto, batalla de Maratón, Paz de Westfalia y revoluciones europeas de 1848, cuál de estos hechos ocurrió antes que la caída del Imperio romano de Occidente?",
+  "answers": [
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "batalla de Maratón",
+      "correct": true
+    },
+    {
+      "text": "revoluciones europeas de 1848",
+      "correct": false
+    }
+  ],
+  "explanation": "batalla de Maratón ocurrió antes que la caída del Imperio romano de Occidente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

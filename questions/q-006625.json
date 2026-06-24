@@ -1,0 +1,43 @@
+{
+  "id": "q-006625",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la película “Psicosis”?",
+  "answers": [
+    {
+      "text": "James Cameron",
+      "correct": false
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Alfred Hitchcock",
+      "correct": true
+    },
+    {
+      "text": "Hayao Miyazaki",
+      "correct": false
+    }
+  ],
+  "explanation": "“Psicosis” fue dirigida por Alfred Hitchcock.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "psicosis",
+    "alfred-hitchcock"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

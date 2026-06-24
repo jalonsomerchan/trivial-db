@@ -1,0 +1,42 @@
+{
+  "id": "q-005724",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre V = I·R, f = 1/T, v = d/t y F = m·a, qué expresión representa velocidad media?",
+  "answers": [
+    {
+      "text": "V = I·R",
+      "correct": false
+    },
+    {
+      "text": "F = m·a",
+      "correct": false
+    },
+    {
+      "text": "f = 1/T",
+      "correct": false
+    },
+    {
+      "text": "v = d/t",
+      "correct": true
+    }
+  ],
+  "explanation": "La expresión habitual de velocidad media es v = d/t.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "velocidad-media"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

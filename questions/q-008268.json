@@ -1,0 +1,42 @@
+{
+  "id": "q-008268",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre batalla de Salamina, caída del Imperio romano de Occidente, edicto de Milán y disolución de la Unión Soviética, cuál de estos hechos ocurrió antes que la asesinato de Julio César?",
+  "answers": [
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    },
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": true
+    }
+  ],
+  "explanation": "batalla de Salamina ocurrió antes que la asesinato de Julio César.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006956",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre suspense, drama romántico, ciencia ficción y animación, a qué género se asocia principalmente “Titanic”?",
+  "answers": [
+    {
+      "text": "suspense",
+      "correct": false
+    },
+    {
+      "text": "animación",
+      "correct": false
+    },
+    {
+      "text": "drama romántico",
+      "correct": true
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": false
+    }
+  ],
+  "explanation": "“Titanic” se asocia principalmente con drama romántico.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "titanic",
+    "drama-romantico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

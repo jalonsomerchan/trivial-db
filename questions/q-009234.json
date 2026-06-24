@@ -1,0 +1,42 @@
+{
+  "id": "q-009234",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 45 y 74?",
+  "answers": [
+    {
+      "text": "3330",
+      "correct": true
+    },
+    {
+      "text": "74",
+      "correct": false
+    },
+    {
+      "text": "3375",
+      "correct": false
+    },
+    {
+      "text": "3256",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 45 y 74 es 3330.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

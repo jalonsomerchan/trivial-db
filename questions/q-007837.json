@@ -1,0 +1,43 @@
+{
+  "id": "q-007837",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país tiene frontera terrestre Arabia Saudí?",
+  "answers": [
+    {
+      "text": "China",
+      "correct": false
+    },
+    {
+      "text": "Catar",
+      "correct": true
+    },
+    {
+      "text": "Taiwán",
+      "correct": false
+    },
+    {
+      "text": "Georgia",
+      "correct": false
+    }
+  ],
+  "explanation": "Arabia Saudí comparte frontera terrestre con Catar.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "fronteras",
+    "arabia-saudi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

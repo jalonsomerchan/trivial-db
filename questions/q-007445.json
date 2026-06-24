@@ -1,0 +1,43 @@
+{
+  "id": "q-007445",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre sushi, pho, gazpacho y fondue, qué plato se asocia con España y tomate?",
+  "answers": [
+    {
+      "text": "fondue",
+      "correct": false
+    },
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "sushi",
+      "correct": false
+    },
+    {
+      "text": "gazpacho",
+      "correct": true
+    }
+  ],
+  "explanation": "El gazpacho se asocia con España y con tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "espana",
+    "tomate"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

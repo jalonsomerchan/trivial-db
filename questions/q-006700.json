@@ -1,0 +1,42 @@
+{
+  "id": "q-006700",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Gravity, Titanic, Kill Bill y Ciudadano Kane, qué película fue dirigida por Orson Welles?",
+  "answers": [
+    {
+      "text": "Ciudadano Kane",
+      "correct": true
+    },
+    {
+      "text": "Kill Bill",
+      "correct": false
+    },
+    {
+      "text": "Titanic",
+      "correct": false
+    },
+    {
+      "text": "Gravity",
+      "correct": false
+    }
+  ],
+  "explanation": "Orson Welles dirigió “Ciudadano Kane”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "orson-welles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

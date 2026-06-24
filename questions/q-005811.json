@@ -1,0 +1,42 @@
+{
+  "id": "q-005811",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué expresión representa aceleración?",
+  "answers": [
+    {
+      "text": "W = F·d",
+      "correct": false
+    },
+    {
+      "text": "ρ = m/V",
+      "correct": false
+    },
+    {
+      "text": "P = W/t",
+      "correct": false
+    },
+    {
+      "text": "a = Δv/Δt",
+      "correct": true
+    }
+  ],
+  "explanation": "La expresión habitual de aceleración es a = Δv/Δt.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "aceleracion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

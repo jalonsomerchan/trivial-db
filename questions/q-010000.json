@@ -1,0 +1,42 @@
+{
+  "id": "q-010000",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS ordena elementos superpuestos?",
+  "answers": [
+    {
+      "text": "z-index",
+      "correct": true
+    },
+    {
+      "text": "flex-direction",
+      "correct": false
+    },
+    {
+      "text": "font-weight",
+      "correct": false
+    },
+    {
+      "text": "transform",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS z-index ordena elementos superpuestos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "z-index"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

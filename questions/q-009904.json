@@ -1,0 +1,42 @@
+{
+  "id": "q-009904",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <header>?",
+  "answers": [
+    {
+      "text": "crear un área de texto multilínea",
+      "correct": false
+    },
+    {
+      "text": "crear un campo de entrada",
+      "correct": false
+    },
+    {
+      "text": "marcar una cabecera",
+      "correct": true
+    },
+    {
+      "text": "marcar una sección de navegación",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <header> sirve para marcar una cabecera.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "header"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

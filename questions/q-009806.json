@@ -1,0 +1,42 @@
+{
+  "id": "q-009806",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente el método JavaScript includes()?",
+  "answers": [
+    {
+      "text": "comprueba el comienzo de una cadena",
+      "correct": false
+    },
+    {
+      "text": "elimina el primer elemento de un array",
+      "correct": false
+    },
+    {
+      "text": "comprueba si un valor está incluido",
+      "correct": true
+    },
+    {
+      "text": "añade elementos al inicio de un array",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, includes() comprueba si un valor está incluido.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "includes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

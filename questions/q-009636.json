@@ -1,0 +1,42 @@
+{
+  "id": "q-009636",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué comando de Git se usa para ver diferencias entre versiones?",
+  "answers": [
+    {
+      "text": "git commit",
+      "correct": false
+    },
+    {
+      "text": "git diff",
+      "correct": true
+    },
+    {
+      "text": "git switch",
+      "correct": false
+    },
+    {
+      "text": "git tag",
+      "correct": false
+    }
+  ],
+  "explanation": "El comando git diff se usa para ver diferencias entre versiones.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-diff"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

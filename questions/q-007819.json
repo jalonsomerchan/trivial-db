@@ -1,0 +1,44 @@
+{
+  "id": "q-007819",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: São Tomé, Bucharest, Belmopan o Kuala Lumpur?",
+  "answers": [
+    {
+      "text": "Belmopan",
+      "correct": false
+    },
+    {
+      "text": "Bucharest",
+      "correct": true
+    },
+    {
+      "text": "Kuala Lumpur",
+      "correct": false
+    },
+    {
+      "text": "São Tomé",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Bucharest es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

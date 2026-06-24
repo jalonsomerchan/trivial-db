@@ -1,0 +1,42 @@
+{
+  "id": "q-009724",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre define columnas de una cuadrícula, define el tamaño de una imagen de fondo, ordena elementos superpuestos y asocia una animación CSS, qué controla principalmente la propiedad CSS z-index?",
+  "answers": [
+    {
+      "text": "asocia una animación CSS",
+      "correct": false
+    },
+    {
+      "text": "define el tamaño de una imagen de fondo",
+      "correct": false
+    },
+    {
+      "text": "define columnas de una cuadrícula",
+      "correct": false
+    },
+    {
+      "text": "ordena elementos superpuestos",
+      "correct": true
+    }
+  ],
+  "explanation": "La propiedad z-index ordena elementos superpuestos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "z-index"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

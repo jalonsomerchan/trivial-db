@@ -1,0 +1,43 @@
+{
+  "id": "q-008083",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Meiji, Isabel I de Castilla, Qin Shi Huang y Simón Bolívar, qué personaje histórico se asocia con dinastía Qin?",
+  "answers": [
+    {
+      "text": "Qin Shi Huang",
+      "correct": true
+    },
+    {
+      "text": "Meiji",
+      "correct": false
+    },
+    {
+      "text": "Isabel I de Castilla",
+      "correct": false
+    },
+    {
+      "text": "Simón Bolívar",
+      "correct": false
+    }
+  ],
+  "explanation": "Qin Shi Huang se asocia con dinastía Qin.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "qin-shi-huang"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

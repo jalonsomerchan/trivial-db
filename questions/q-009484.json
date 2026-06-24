@@ -1,0 +1,42 @@
+{
+  "id": "q-009484",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 80% de 200?",
+  "answers": [
+    {
+      "text": "160",
+      "correct": true
+    },
+    {
+      "text": "165",
+      "correct": false
+    },
+    {
+      "text": "155",
+      "correct": false
+    },
+    {
+      "text": "170",
+      "correct": false
+    }
+  ],
+  "explanation": "El 80% de 200 se calcula como 200 × 80/100 = 160.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

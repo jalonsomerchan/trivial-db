@@ -1,0 +1,43 @@
+{
+  "id": "q-006923",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre detectives, misterio, drama histórico y comedia, a qué género se asocia principalmente la serie “Sherlock”?",
+  "answers": [
+    {
+      "text": "misterio",
+      "correct": false
+    },
+    {
+      "text": "comedia",
+      "correct": false
+    },
+    {
+      "text": "drama histórico",
+      "correct": false
+    },
+    {
+      "text": "detectives",
+      "correct": true
+    }
+  ],
+  "explanation": "“Sherlock” se asocia principalmente con detectives.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "sherlock",
+    "detectives"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

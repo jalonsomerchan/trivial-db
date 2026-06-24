@@ -1,0 +1,42 @@
+{
+  "id": "q-005643",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de planeta es Mercurio?",
+  "answers": [
+    {
+      "text": "rocoso 4",
+      "correct": false
+    },
+    {
+      "text": "rocoso",
+      "correct": true
+    },
+    {
+      "text": "gigante gaseoso",
+      "correct": false
+    },
+    {
+      "text": "gigante helado",
+      "correct": false
+    }
+  ],
+  "explanation": "Mercurio se clasifica como rocoso.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "mercurio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

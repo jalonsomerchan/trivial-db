@@ -1,0 +1,42 @@
+{
+  "id": "q-009752",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué controla principalmente la propiedad CSS animation?",
+  "answers": [
+    {
+      "text": "controla la visibilidad sin quitar el espacio",
+      "correct": false
+    },
+    {
+      "text": "define una transición entre estados",
+      "correct": false
+    },
+    {
+      "text": "asocia una animación CSS",
+      "correct": true
+    },
+    {
+      "text": "controla la transparencia",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad animation asocia una animación CSS.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "animation"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

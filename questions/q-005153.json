@@ -1,0 +1,42 @@
+{
+  "id": "q-005153",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué género literario es un texto expositivo y argumentativo sobre una idea?",
+  "answers": [
+    {
+      "text": "fábula",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": true
+    },
+    {
+      "text": "epopeya",
+      "correct": false
+    },
+    {
+      "text": "cuento",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ensayo es un texto expositivo y argumentativo sobre una idea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "ensayo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

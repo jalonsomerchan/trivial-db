@@ -1,0 +1,42 @@
+{
+  "id": "q-006809",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué serie se asocia con el Doctor?",
+  "answers": [
+    {
+      "text": "The Crown",
+      "correct": false
+    },
+    {
+      "text": "Seinfeld",
+      "correct": false
+    },
+    {
+      "text": "The Mandalorian",
+      "correct": false
+    },
+    {
+      "text": "Doctor Who",
+      "correct": true
+    }
+  ],
+  "explanation": "el Doctor se asocia con “Doctor Who”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "el-doctor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

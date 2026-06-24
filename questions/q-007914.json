@@ -1,0 +1,43 @@
+{
+  "id": "q-007914",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Macedonia?",
+  "answers": [
+    {
+      "text": "Southern Europe",
+      "correct": true
+    },
+    {
+      "text": "Central Asia",
+      "correct": false
+    },
+    {
+      "text": "Central America",
+      "correct": false
+    },
+    {
+      "text": "Middle Africa",
+      "correct": false
+    }
+  ],
+  "explanation": "Macedonia pertenece a la subregión Southern Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "macedonia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

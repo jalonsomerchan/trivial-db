@@ -1,0 +1,42 @@
+{
+  "id": "q-008718",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre raíz crono-, sufijo -ez, prefijo sub- y prefijo des-, qué elemento morfológico destaca en “deshacer”?",
+  "answers": [
+    {
+      "text": "raíz crono-",
+      "correct": false
+    },
+    {
+      "text": "sufijo -ez",
+      "correct": false
+    },
+    {
+      "text": "prefijo sub-",
+      "correct": false
+    },
+    {
+      "text": "prefijo des-",
+      "correct": true
+    }
+  ],
+  "explanation": "En “deshacer” destaca el elemento prefijo des-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "deshacer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

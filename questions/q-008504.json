@@ -1,0 +1,42 @@
+{
+  "id": "q-008504",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “alto”?",
+  "answers": [
+    {
+      "text": "vender",
+      "correct": false
+    },
+    {
+      "text": "bajo",
+      "correct": true
+    },
+    {
+      "text": "salir",
+      "correct": false
+    },
+    {
+      "text": "morir",
+      "correct": false
+    }
+  ],
+  "explanation": "“bajo” es un antónimo de “alto”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "alto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

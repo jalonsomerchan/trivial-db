@@ -1,0 +1,42 @@
+{
+  "id": "q-009074",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 129 + 61?",
+  "answers": [
+    {
+      "text": "200",
+      "correct": false
+    },
+    {
+      "text": "192",
+      "correct": false
+    },
+    {
+      "text": "188",
+      "correct": false
+    },
+    {
+      "text": "190",
+      "correct": true
+    }
+  ],
+  "explanation": "La suma de 129 y 61 es 190.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

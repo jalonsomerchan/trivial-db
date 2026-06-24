@@ -1,0 +1,43 @@
+{
+  "id": "q-006893",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Midway, Ubisoft, Core Design y Capcom, qué compañía o estudio se asocia con “Mega Man”?",
+  "answers": [
+    {
+      "text": "Core Design",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": true
+    },
+    {
+      "text": "Ubisoft",
+      "correct": false
+    },
+    {
+      "text": "Midway",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mega Man” se asocia con Capcom.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mega-man",
+    "capcom"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

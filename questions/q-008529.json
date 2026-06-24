@@ -1,0 +1,42 @@
+{
+  "id": "q-008529",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “rápido”?",
+  "answers": [
+    {
+      "text": "viejo",
+      "correct": false
+    },
+    {
+      "text": "oscuro",
+      "correct": false
+    },
+    {
+      "text": "separar",
+      "correct": false
+    },
+    {
+      "text": "lento",
+      "correct": true
+    }
+  ],
+  "explanation": "“lento” es un antónimo de “rápido”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "rapido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

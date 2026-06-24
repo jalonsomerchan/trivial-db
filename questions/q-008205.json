@@ -1,0 +1,42 @@
+{
+  "id": "q-008205",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió después que la batalla de Lepanto?",
+  "answers": [
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "publicación de las 95 tesis de Lutero",
+      "correct": false
+    },
+    {
+      "text": "batalla de Hastings",
+      "correct": false
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": true
+    }
+  ],
+  "explanation": "llegada del Apolo 11 a la Luna ocurrió después que la batalla de Lepanto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

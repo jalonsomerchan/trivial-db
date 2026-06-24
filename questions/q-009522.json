@@ -1,0 +1,42 @@
+{
+  "id": "q-009522",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <form>, <canvas>, <footer> y <th>, qué etiqueta HTML se usa para definir una celda de encabezado?",
+  "answers": [
+    {
+      "text": "<form>",
+      "correct": false
+    },
+    {
+      "text": "<footer>",
+      "correct": false
+    },
+    {
+      "text": "<canvas>",
+      "correct": false
+    },
+    {
+      "text": "<th>",
+      "correct": true
+    }
+  ],
+  "explanation": "La etiqueta <th> se usa para definir una celda de encabezado.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "th"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

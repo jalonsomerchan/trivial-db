@@ -1,0 +1,42 @@
+{
+  "id": "q-005460",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre relato de hechos en orden temporal, obra dramática con desenlace grave, obra que critica mediante burla o ironía y poema narrativo de hechos heroicos, qué define principalmente a un tragedia?",
+  "answers": [
+    {
+      "text": "obra dramática con desenlace grave",
+      "correct": true
+    },
+    {
+      "text": "obra que critica mediante burla o ironía",
+      "correct": false
+    },
+    {
+      "text": "relato de hechos en orden temporal",
+      "correct": false
+    },
+    {
+      "text": "poema narrativo de hechos heroicos",
+      "correct": false
+    }
+  ],
+  "explanation": "Un tragedia se define como obra dramática con desenlace grave.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "tragedia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

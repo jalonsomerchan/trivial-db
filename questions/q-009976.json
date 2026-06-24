@@ -1,0 +1,42 @@
+{
+  "id": "q-009976",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método de JavaScript une elementos en una cadena?",
+  "answers": [
+    {
+      "text": "join()",
+      "correct": true
+    },
+    {
+      "text": "reduce()",
+      "correct": false
+    },
+    {
+      "text": "slice()",
+      "correct": false
+    },
+    {
+      "text": "startsWith()",
+      "correct": false
+    }
+  ],
+  "explanation": "El método join() une elementos en una cadena.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "join"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

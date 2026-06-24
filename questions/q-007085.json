@@ -1,0 +1,44 @@
+{
+  "id": "q-007085",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre fruto seco, hortaliza, legumbre y cereal, a qué grupo alimentario pertenece trigo?",
+  "answers": [
+    {
+      "text": "cereal",
+      "correct": true
+    },
+    {
+      "text": "legumbre",
+      "correct": false
+    },
+    {
+      "text": "hortaliza",
+      "correct": false
+    },
+    {
+      "text": "fruto seco",
+      "correct": false
+    }
+  ],
+  "explanation": "trigo pertenece al grupo de cereal.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "trigo",
+    "cereal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

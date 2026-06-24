@@ -1,0 +1,42 @@
+{
+  "id": "q-009748",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre reduce un array a un único valor, cambia el contenido eliminando o insertando elementos, añade elementos al inicio de un array y comprueba si todos los elementos cumplen una condición, qué hace principalmente el método JavaScript every()?",
+  "answers": [
+    {
+      "text": "añade elementos al inicio de un array",
+      "correct": false
+    },
+    {
+      "text": "reduce un array a un único valor",
+      "correct": false
+    },
+    {
+      "text": "cambia el contenido eliminando o insertando elementos",
+      "correct": false
+    },
+    {
+      "text": "comprueba si todos los elementos cumplen una condición",
+      "correct": true
+    }
+  ],
+  "explanation": "En JavaScript, every() comprueba si todos los elementos cumplen una condición.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "every"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

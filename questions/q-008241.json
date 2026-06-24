@@ -1,0 +1,43 @@
+{
+  "id": "q-008241",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año se produjo la fundación tradicional de Roma?",
+  "answers": [
+    {
+      "text": "1453",
+      "correct": false
+    },
+    {
+      "text": "-753",
+      "correct": true
+    },
+    {
+      "text": "800",
+      "correct": false
+    },
+    {
+      "text": "79",
+      "correct": false
+    }
+  ],
+  "explanation": "La fundación tradicional de Roma se produjo en -753.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "fundacion-tradicional-de-roma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

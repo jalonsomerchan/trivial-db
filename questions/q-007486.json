@@ -1,0 +1,43 @@
+{
+  "id": "q-007486",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en cocinar en líquido en ebullición?",
+  "answers": [
+    {
+      "text": "hervir",
+      "correct": true
+    },
+    {
+      "text": "fermentar",
+      "correct": false
+    },
+    {
+      "text": "tostar",
+      "correct": false
+    },
+    {
+      "text": "saltear",
+      "correct": false
+    }
+  ],
+  "explanation": "hervir consiste en cocinar en líquido en ebullición.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "hervir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005999",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué característica se asocia con Tierra?",
+  "answers": [
+    {
+      "text": "tiene una luna",
+      "correct": true
+    },
+    {
+      "text": "es el planeta más alejado del Sol",
+      "correct": false
+    },
+    {
+      "text": "tiene una gran inclinación axial",
+      "correct": false
+    },
+    {
+      "text": "tiene dos lunas",
+      "correct": false
+    }
+  ],
+  "explanation": "Una característica de Tierra es que tiene una luna.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "tierra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008393",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué contexto histórico se asocia la erupción del Vesubio que destruyó Pompeya?",
+  "answers": [
+    {
+      "text": "Roma antigua",
+      "correct": true
+    },
+    {
+      "text": "siglo XIX",
+      "correct": false
+    },
+    {
+      "text": "Europa contemporánea",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": false
+    }
+  ],
+  "explanation": "La erupción del Vesubio que destruyó Pompeya se asocia con Roma antigua.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "roma-antigua",
+    "erupcion-del-vesubio-que-destruyo-pompeya"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

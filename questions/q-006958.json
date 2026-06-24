@@ -1,0 +1,43 @@
+{
+  "id": "q-006958",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre terror y ciencia ficción, ciencia ficción, musical y acción, a qué género se asocia principalmente “E.T., el extraterrestre”?",
+  "answers": [
+    {
+      "text": "acción",
+      "correct": false
+    },
+    {
+      "text": "musical",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    },
+    {
+      "text": "terror y ciencia ficción",
+      "correct": false
+    }
+  ],
+  "explanation": "“E.T., el extraterrestre” se asocia principalmente con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "e-t-el-extraterrestre",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

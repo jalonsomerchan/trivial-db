@@ -1,0 +1,42 @@
+{
+  "id": "q-008634",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre separar, llorar, sucio y morir, cuál es un antónimo de “nacer”?",
+  "answers": [
+    {
+      "text": "llorar",
+      "correct": false
+    },
+    {
+      "text": "separar",
+      "correct": false
+    },
+    {
+      "text": "sucio",
+      "correct": false
+    },
+    {
+      "text": "morir",
+      "correct": true
+    }
+  ],
+  "explanation": "“morir” es un antónimo de “nacer”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "nacer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

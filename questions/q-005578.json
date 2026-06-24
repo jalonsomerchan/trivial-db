@@ -1,0 +1,43 @@
+{
+  "id": "q-005578",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre insectos, reptiles, moluscos y anfibios, qué grupo de animales pasan parte de su vida en el agua y parte en tierra?",
+  "answers": [
+    {
+      "text": "reptiles",
+      "correct": false
+    },
+    {
+      "text": "anfibios",
+      "correct": true
+    },
+    {
+      "text": "insectos",
+      "correct": false
+    },
+    {
+      "text": "moluscos",
+      "correct": false
+    }
+  ],
+  "explanation": "Los anfibios pasan parte de su vida en el agua y parte en tierra.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "anfibios"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

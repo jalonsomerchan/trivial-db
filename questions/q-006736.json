@@ -1,0 +1,42 @@
+{
+  "id": "q-006736",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Spyro the Dragon, Mega Man, Halo y Assassin’s Creed, qué videojuego se asocia con Master Chief?",
+  "answers": [
+    {
+      "text": "Spyro the Dragon",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Halo",
+      "correct": true
+    },
+    {
+      "text": "Assassin’s Creed",
+      "correct": false
+    }
+  ],
+  "explanation": "Master Chief se asocia con “Halo”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "master-chief"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

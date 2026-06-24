@@ -1,0 +1,43 @@
+{
+  "id": "q-005907",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué cuerpo celeste es satélite Miranda?",
+  "answers": [
+    {
+      "text": "Neptuno",
+      "correct": false
+    },
+    {
+      "text": "Urano",
+      "correct": true
+    },
+    {
+      "text": "Plutón",
+      "correct": false
+    },
+    {
+      "text": "Marte",
+      "correct": false
+    }
+  ],
+  "explanation": "Miranda es un satélite natural de Urano.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "miranda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

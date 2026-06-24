@@ -1,0 +1,42 @@
+{
+  "id": "q-009963",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método de JavaScript comprueba si todos los elementos cumplen una condición?",
+  "answers": [
+    {
+      "text": "map()",
+      "correct": false
+    },
+    {
+      "text": "every()",
+      "correct": true
+    },
+    {
+      "text": "some()",
+      "correct": false
+    },
+    {
+      "text": "slice()",
+      "correct": false
+    }
+  ],
+  "explanation": "El método every() comprueba si todos los elementos cumplen una condición.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "every"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

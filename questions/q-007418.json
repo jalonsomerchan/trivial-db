@@ -1,0 +1,43 @@
+{
+  "id": "q-007418",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre naranja, leche, merluza y guisantes, cuál de estos alimentos pertenece al grupo lácteo?",
+  "answers": [
+    {
+      "text": "naranja",
+      "correct": false
+    },
+    {
+      "text": "guisantes",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": true
+    },
+    {
+      "text": "merluza",
+      "correct": false
+    }
+  ],
+  "explanation": "leche pertenece al grupo lácteo.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "lacteo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

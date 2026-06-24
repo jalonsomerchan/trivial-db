@@ -1,0 +1,42 @@
+{
+  "id": "q-009267",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 3375?",
+  "answers": [
+    {
+      "text": "17",
+      "correct": false
+    },
+    {
+      "text": "16",
+      "correct": false
+    },
+    {
+      "text": "15",
+      "correct": true
+    },
+    {
+      "text": "14",
+      "correct": false
+    }
+  ],
+  "explanation": "Como 15³ = 3375, la raíz cúbica de 3375 es 15.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005168",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué movimiento artístico se caracteriza por uso intenso y no naturalista del color?",
+  "answers": [
+    {
+      "text": "Barroco",
+      "correct": false
+    },
+    {
+      "text": "Pop art",
+      "correct": false
+    },
+    {
+      "text": "Romanticismo",
+      "correct": false
+    },
+    {
+      "text": "Fauvismo",
+      "correct": true
+    }
+  ],
+  "explanation": "El Fauvismo se caracteriza por uso intenso y no naturalista del color.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "fauvismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

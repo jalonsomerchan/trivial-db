@@ -1,0 +1,43 @@
+{
+  "id": "q-007048",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato tacos?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": true
+    },
+    {
+      "text": "Corea",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    },
+    {
+      "text": "Hungría",
+      "correct": false
+    }
+  ],
+  "explanation": "El tacos se asocia tradicionalmente con México.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tacos",
+    "mexico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

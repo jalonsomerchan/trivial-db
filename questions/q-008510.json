@@ -1,0 +1,42 @@
+{
+  "id": "q-008510",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “construir”?",
+  "answers": [
+    {
+      "text": "morir",
+      "correct": false
+    },
+    {
+      "text": "destruir",
+      "correct": true
+    },
+    {
+      "text": "bajo",
+      "correct": false
+    },
+    {
+      "text": "lejos",
+      "correct": false
+    }
+  ],
+  "explanation": "“destruir” es un antónimo de “construir”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "construir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

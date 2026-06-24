@@ -1,0 +1,42 @@
+{
+  "id": "q-005598",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre pulmones, riñones, diafragma y cóclea, qué órgano se encarga principalmente de realizar el intercambio de gases?",
+  "answers": [
+    {
+      "text": "diafragma",
+      "correct": false
+    },
+    {
+      "text": "riñones",
+      "correct": false
+    },
+    {
+      "text": "cóclea",
+      "correct": false
+    },
+    {
+      "text": "pulmones",
+      "correct": true
+    }
+  ],
+  "explanation": "El pulmones se encarga principalmente de realizar el intercambio de gases.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "pulmones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

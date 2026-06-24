@@ -1,0 +1,42 @@
+{
+  "id": "q-008307",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre inicio de la Guerra de Corea, publicación de las 95 tesis de Lutero, batalla de Hastings y batalla de Trafalgar, cuál de estos hechos ocurrió después que la crack bursátil de Wall Street?",
+  "answers": [
+    {
+      "text": "publicación de las 95 tesis de Lutero",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": true
+    },
+    {
+      "text": "batalla de Trafalgar",
+      "correct": false
+    },
+    {
+      "text": "batalla de Hastings",
+      "correct": false
+    }
+  ],
+  "explanation": "inicio de la Guerra de Corea ocurrió después que la crack bursátil de Wall Street.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

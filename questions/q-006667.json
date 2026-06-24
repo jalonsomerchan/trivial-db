@@ -1,0 +1,43 @@
+{
+  "id": "q-006667",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con la serie “The X-Files”?",
+  "answers": [
+    {
+      "text": "Once",
+      "correct": false
+    },
+    {
+      "text": "Fox Mulder",
+      "correct": true
+    },
+    {
+      "text": "Homer Simpson",
+      "correct": false
+    },
+    {
+      "text": "Jack Shephard",
+      "correct": false
+    }
+  ],
+  "explanation": "Fox Mulder es un personaje asociado con “The X-Files”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "the-x-files",
+    "fox-mulder"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

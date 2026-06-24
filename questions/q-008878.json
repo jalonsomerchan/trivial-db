@@ -1,0 +1,43 @@
+{
+  "id": "q-008878",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre ganar, ligero, comprar y rápido, qué palabra tiene significado opuesto a “lento”?",
+  "answers": [
+    {
+      "text": "rápido",
+      "correct": true
+    },
+    {
+      "text": "ligero",
+      "correct": false
+    },
+    {
+      "text": "ganar",
+      "correct": false
+    },
+    {
+      "text": "comprar",
+      "correct": false
+    }
+  ],
+  "explanation": "“rápido” y “lento” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "rapido",
+    "lento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

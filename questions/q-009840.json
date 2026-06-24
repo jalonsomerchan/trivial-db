@@ -1,0 +1,42 @@
+{
+  "id": "q-009840",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre FOREIGN KEY, UPDATE, WHERE y GROUP BY, qué instrucción o cláusula SQL se usa para filtrar filas?",
+  "answers": [
+    {
+      "text": "FOREIGN KEY",
+      "correct": false
+    },
+    {
+      "text": "GROUP BY",
+      "correct": false
+    },
+    {
+      "text": "WHERE",
+      "correct": true
+    },
+    {
+      "text": "UPDATE",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, WHERE se usa para filtrar filas.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "where"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

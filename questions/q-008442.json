@@ -1,0 +1,43 @@
+{
+  "id": "q-008442",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se produjo la publicación de las 95 tesis de Lutero?",
+  "answers": [
+    {
+      "text": "79",
+      "correct": false
+    },
+    {
+      "text": "1871",
+      "correct": false
+    },
+    {
+      "text": "1969",
+      "correct": false
+    },
+    {
+      "text": "1517",
+      "correct": true
+    }
+  ],
+  "explanation": "La publicación de las 95 tesis de Lutero se produjo en 1517.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "publicacion-de-las-95-tesis-de-lutero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

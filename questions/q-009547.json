@@ -1,0 +1,42 @@
+{
+  "id": "q-009547",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <nav>, <select>, <form> y <header>, qué etiqueta HTML se usa para crear un formulario?",
+  "answers": [
+    {
+      "text": "<nav>",
+      "correct": false
+    },
+    {
+      "text": "<form>",
+      "correct": true
+    },
+    {
+      "text": "<select>",
+      "correct": false
+    },
+    {
+      "text": "<header>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <form> se usa para crear un formulario.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "form"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

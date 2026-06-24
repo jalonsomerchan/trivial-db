@@ -1,0 +1,42 @@
+{
+  "id": "q-006697",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Friends, The X-Files, Doctor Who y Lost, qué serie se asocia con Rachel Green?",
+  "answers": [
+    {
+      "text": "The X-Files",
+      "correct": false
+    },
+    {
+      "text": "Lost",
+      "correct": false
+    },
+    {
+      "text": "Doctor Who",
+      "correct": false
+    },
+    {
+      "text": "Friends",
+      "correct": true
+    }
+  ],
+  "explanation": "Rachel Green se asocia con “Friends”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "rachel-green"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

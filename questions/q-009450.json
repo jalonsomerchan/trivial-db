@@ -1,0 +1,42 @@
+{
+  "id": "q-009450",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 24% de 375?",
+  "answers": [
+    {
+      "text": "95",
+      "correct": false
+    },
+    {
+      "text": "90",
+      "correct": true
+    },
+    {
+      "text": "85",
+      "correct": false
+    },
+    {
+      "text": "100",
+      "correct": false
+    }
+  ],
+  "explanation": "El 24% de 375 se calcula como 375 × 24/100 = 90.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

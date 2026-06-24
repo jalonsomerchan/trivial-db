@@ -1,0 +1,42 @@
+{
+  "id": "q-005164",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué movimiento artístico se caracteriza por primacía de la idea sobre el objeto?",
+  "answers": [
+    {
+      "text": "Neoclasicismo",
+      "correct": false
+    },
+    {
+      "text": "Postimpresionismo",
+      "correct": false
+    },
+    {
+      "text": "Realismo",
+      "correct": false
+    },
+    {
+      "text": "Arte conceptual",
+      "correct": true
+    }
+  ],
+  "explanation": "El Arte conceptual se caracteriza por primacía de la idea sobre el objeto.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arte-conceptual"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

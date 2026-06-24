@@ -1,0 +1,42 @@
+{
+  "id": "q-009088",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 136 - 37?",
+  "answers": [
+    {
+      "text": "97",
+      "correct": false
+    },
+    {
+      "text": "109",
+      "correct": false
+    },
+    {
+      "text": "101",
+      "correct": false
+    },
+    {
+      "text": "99",
+      "correct": true
+    }
+  ],
+  "explanation": "La resta 136 - 37 da 99.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007900",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Iran?",
+  "answers": [
+    {
+      "text": "Northern Africa",
+      "correct": false
+    },
+    {
+      "text": "Southern Asia",
+      "correct": true
+    },
+    {
+      "text": "Eastern Europe",
+      "correct": false
+    },
+    {
+      "text": "South America",
+      "correct": false
+    }
+  ],
+  "explanation": "Iran pertenece a la subregión Southern Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "iran"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

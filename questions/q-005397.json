@@ -1,0 +1,43 @@
+{
+  "id": "q-005397",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Estados Unidos, Rusia, Reino Unido y España, en qué país está el Metropolitan Museum of Art?",
+  "answers": [
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    }
+  ],
+  "explanation": "El Metropolitan Museum of Art está en Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "metropolitan-museum-of-art",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

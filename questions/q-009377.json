@@ -1,0 +1,42 @@
+{
+  "id": "q-009377",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "fracciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fracción equivale aproximadamente a 0.938?",
+  "answers": [
+    {
+      "text": "15/16",
+      "correct": true
+    },
+    {
+      "text": "1/16",
+      "correct": false
+    },
+    {
+      "text": "15/17",
+      "correct": false
+    },
+    {
+      "text": "16/15",
+      "correct": false
+    }
+  ],
+  "explanation": "15/16 equivale aproximadamente a 0.938.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "fracciones",
+    "decimales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

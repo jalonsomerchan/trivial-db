@@ -1,0 +1,42 @@
+{
+  "id": "q-009040",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 109 - 67?",
+  "answers": [
+    {
+      "text": "42",
+      "correct": true
+    },
+    {
+      "text": "44",
+      "correct": false
+    },
+    {
+      "text": "40",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": false
+    }
+  ],
+  "explanation": "La resta 109 - 67 da 42.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

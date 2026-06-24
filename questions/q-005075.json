@@ -1,0 +1,43 @@
+{
+  "id": "q-005075",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Expresionismo, Renacimiento, Modernismo y Abstracción, con qué movimiento artístico se asocia Edvard Munch?",
+  "answers": [
+    {
+      "text": "Abstracción",
+      "correct": false
+    },
+    {
+      "text": "Renacimiento",
+      "correct": false
+    },
+    {
+      "text": "Modernismo",
+      "correct": false
+    },
+    {
+      "text": "Expresionismo",
+      "correct": true
+    }
+  ],
+  "explanation": "Edvard Munch se asocia habitualmente con Expresionismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "edvard-munch",
+    "expresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

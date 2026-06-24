@@ -1,0 +1,42 @@
+{
+  "id": "q-009993",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS define el cursor del puntero?",
+  "answers": [
+    {
+      "text": "border-radius",
+      "correct": false
+    },
+    {
+      "text": "transform",
+      "correct": false
+    },
+    {
+      "text": "cursor",
+      "correct": true
+    },
+    {
+      "text": "text-decoration",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS cursor define el cursor del puntero.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "cursor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

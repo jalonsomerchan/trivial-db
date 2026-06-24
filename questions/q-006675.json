@@ -1,0 +1,42 @@
+{
+  "id": "q-006675",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Blade Runner, Jurassic Park, Avatar y Gladiator, qué película fue dirigida por Steven Spielberg?",
+  "answers": [
+    {
+      "text": "Avatar",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": false
+    },
+    {
+      "text": "Jurassic Park",
+      "correct": true
+    },
+    {
+      "text": "Gladiator",
+      "correct": false
+    }
+  ],
+  "explanation": "Steven Spielberg dirigió “Jurassic Park”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "steven-spielberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

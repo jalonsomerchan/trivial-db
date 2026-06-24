@@ -1,0 +1,43 @@
+{
+  "id": "q-009002",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "geometria"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el área de un triángulo de base 12 y altura 15?",
+  "answers": [
+    {
+      "text": "90",
+      "correct": true
+    },
+    {
+      "text": "105",
+      "correct": false
+    },
+    {
+      "text": "180",
+      "correct": false
+    },
+    {
+      "text": "102",
+      "correct": false
+    }
+  ],
+  "explanation": "El área de un triángulo es base por altura dividido entre 2: 12 × 15 / 2 = 90.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "geometria",
+    "triangulos",
+    "area"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

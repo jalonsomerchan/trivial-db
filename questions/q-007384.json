@@ -1,0 +1,43 @@
+{
+  "id": "q-007384",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre freír, brasear, saltear y amasar, qué técnica culinaria consiste en trabajar una masa para desarrollar estructura?",
+  "answers": [
+    {
+      "text": "saltear",
+      "correct": false
+    },
+    {
+      "text": "freír",
+      "correct": false
+    },
+    {
+      "text": "brasear",
+      "correct": false
+    },
+    {
+      "text": "amasar",
+      "correct": true
+    }
+  ],
+  "explanation": "amasar consiste en trabajar una masa para desarrollar estructura.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "amasar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

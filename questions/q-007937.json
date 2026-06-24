@@ -1,0 +1,43 @@
+{
+  "id": "q-007937",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Albania?",
+  "answers": [
+    {
+      "text": "jemer",
+      "correct": false
+    },
+    {
+      "text": "persa",
+      "correct": false
+    },
+    {
+      "text": "danés",
+      "correct": false
+    },
+    {
+      "text": "albanés",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Albania figura el albanés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "albania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

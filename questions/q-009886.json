@@ -1,0 +1,42 @@
+{
+  "id": "q-009886",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre transform, overflow, border-radius y white-space, qué propiedad CSS redondea esquinas?",
+  "answers": [
+    {
+      "text": "transform",
+      "correct": false
+    },
+    {
+      "text": "border-radius",
+      "correct": true
+    },
+    {
+      "text": "white-space",
+      "correct": false
+    },
+    {
+      "text": "overflow",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS border-radius redondea esquinas.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "border-radius"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

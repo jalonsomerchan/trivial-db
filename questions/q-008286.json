@@ -1,0 +1,42 @@
+{
+  "id": "q-008286",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre creación de la Unión Europea por el Tratado de Maastricht, disolución de la Unión Soviética, caída del Muro de Berlín y batalla de Salamina, cuál de estos hechos ocurrió antes que la llegada del Apolo 11 a la Luna?",
+  "answers": [
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": true
+    },
+    {
+      "text": "creación de la Unión Europea por el Tratado de Maastricht",
+      "correct": false
+    }
+  ],
+  "explanation": "batalla de Salamina ocurrió antes que la llegada del Apolo 11 a la Luna.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

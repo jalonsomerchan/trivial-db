@@ -1,0 +1,43 @@
+{
+  "id": "q-007492",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en concentrar un líquido evaporando parte del agua?",
+  "answers": [
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "reducir",
+      "correct": true
+    },
+    {
+      "text": "tostar",
+      "correct": false
+    },
+    {
+      "text": "brasear",
+      "correct": false
+    }
+  ],
+  "explanation": "reducir consiste en concentrar un líquido evaporando parte del agua.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "reducir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

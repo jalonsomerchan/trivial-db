@@ -1,0 +1,42 @@
+{
+  "id": "q-008297",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre firma de la Carta Magna inglesa, construcción del Muro de Berlín, batalla de Lepanto y asesinato de Julio César, cuál de estos hechos ocurrió antes que la inicio de la Primera Cruzada?",
+  "answers": [
+    {
+      "text": "asesinato de Julio César",
+      "correct": true
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "asesinato de Julio César ocurrió antes que la inicio de la Primera Cruzada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

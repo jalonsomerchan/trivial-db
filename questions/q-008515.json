@@ -1,0 +1,42 @@
+{
+  "id": "q-008515",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “entrar”?",
+  "answers": [
+    {
+      "text": "perder",
+      "correct": false
+    },
+    {
+      "text": "disminuir",
+      "correct": false
+    },
+    {
+      "text": "bajar",
+      "correct": false
+    },
+    {
+      "text": "salir",
+      "correct": true
+    }
+  ],
+  "explanation": "“salir” es un antónimo de “entrar”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "entrar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007125",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre pasta de curry, maíz, aguacate y arroz especiado, qué ingrediente es característico del arepa?",
+  "answers": [
+    {
+      "text": "arroz especiado",
+      "correct": false
+    },
+    {
+      "text": "aguacate",
+      "correct": false
+    },
+    {
+      "text": "maíz",
+      "correct": true
+    },
+    {
+      "text": "pasta de curry",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del arepa es maíz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "arepa",
+    "maiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

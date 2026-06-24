@@ -1,0 +1,42 @@
+{
+  "id": "q-008606",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre lejos, perder, viejo y desaparecer, cuál es un antónimo de “encontrar”?",
+  "answers": [
+    {
+      "text": "lejos",
+      "correct": false
+    },
+    {
+      "text": "desaparecer",
+      "correct": false
+    },
+    {
+      "text": "viejo",
+      "correct": false
+    },
+    {
+      "text": "perder",
+      "correct": true
+    }
+  ],
+  "explanation": "“perder” es un antónimo de “encontrar”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "encontrar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

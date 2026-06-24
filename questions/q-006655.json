@@ -1,0 +1,43 @@
+{
+  "id": "q-006655",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con la serie “Doctor Who”?",
+  "answers": [
+    {
+      "text": "el Doctor",
+      "correct": true
+    },
+    {
+      "text": "Isabel II",
+      "correct": false
+    },
+    {
+      "text": "Din Djarin",
+      "correct": false
+    },
+    {
+      "text": "Jerry Seinfeld",
+      "correct": false
+    }
+  ],
+  "explanation": "el Doctor es un personaje asociado con “Doctor Who”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "doctor-who",
+    "el-doctor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

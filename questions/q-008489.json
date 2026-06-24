@@ -1,0 +1,43 @@
+{
+  "id": "q-008489",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre siglo XIX, Guerras napoleónicas, Imperio romano y Revolución francesa, con qué contexto histórico se asocia la revoluciones europeas de 1848?",
+  "answers": [
+    {
+      "text": "Imperio romano",
+      "correct": false
+    },
+    {
+      "text": "Guerras napoleónicas",
+      "correct": false
+    },
+    {
+      "text": "Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX",
+      "correct": true
+    }
+  ],
+  "explanation": "La revoluciones europeas de 1848 se asocia con siglo XIX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglo-xix",
+    "revoluciones-europeas-de-1848"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

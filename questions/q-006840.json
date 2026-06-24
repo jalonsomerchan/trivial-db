@@ -1,0 +1,43 @@
+{
+  "id": "q-006840",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente la serie “House”?",
+  "answers": [
+    {
+      "text": "drama médico",
+      "correct": true
+    },
+    {
+      "text": "drama criminal",
+      "correct": false
+    },
+    {
+      "text": "misterio",
+      "correct": false
+    },
+    {
+      "text": "animación",
+      "correct": false
+    }
+  ],
+  "explanation": "“House” se asocia principalmente con drama médico.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "house",
+    "drama-medico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005893",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal del riñones?",
+  "answers": [
+    {
+      "text": "detectar la luz en el ojo",
+      "correct": false
+    },
+    {
+      "text": "filtrar la sangre y producir orina",
+      "correct": true
+    },
+    {
+      "text": "ayudar en la respiración",
+      "correct": false
+    },
+    {
+      "text": "producir enzimas digestivas e insulina",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del riñones es filtrar la sangre y producir orina.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "rinones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

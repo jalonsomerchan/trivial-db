@@ -1,0 +1,42 @@
+{
+  "id": "q-006705",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Kill Bill, El caballero oscuro, Buscando a Nemo y El padrino, qué película fue dirigida por Andrew Stanton?",
+  "answers": [
+    {
+      "text": "Kill Bill",
+      "correct": false
+    },
+    {
+      "text": "El padrino",
+      "correct": false
+    },
+    {
+      "text": "El caballero oscuro",
+      "correct": false
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": true
+    }
+  ],
+  "explanation": "Andrew Stanton dirigió “Buscando a Nemo”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "andrew-stanton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

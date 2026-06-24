@@ -1,0 +1,43 @@
+{
+  "id": "q-007878",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Burundi?",
+  "answers": [
+    {
+      "text": "Central Asia",
+      "correct": false
+    },
+    {
+      "text": "Western Africa",
+      "correct": false
+    },
+    {
+      "text": "Eastern Africa",
+      "correct": true
+    },
+    {
+      "text": "Western Europe",
+      "correct": false
+    }
+  ],
+  "explanation": "Burundi pertenece a la subregión Eastern Africa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "burundi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

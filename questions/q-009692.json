@@ -1,0 +1,43 @@
+{
+  "id": "q-009692",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Too Many Requests, Gone, Not Modified y OK, qué significa el código HTTP 200?",
+  "answers": [
+    {
+      "text": "Too Many Requests",
+      "correct": false
+    },
+    {
+      "text": "Not Modified",
+      "correct": false
+    },
+    {
+      "text": "OK",
+      "correct": true
+    },
+    {
+      "text": "Gone",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 200 corresponde a OK.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "200"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

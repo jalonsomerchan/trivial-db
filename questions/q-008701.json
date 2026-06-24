@@ -1,0 +1,42 @@
+{
+  "id": "q-008701",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre que yo cante, yo estoy cantando, yo cantaba y yo cantaría, qué forma verbal corresponde a presente de subjuntivo?",
+  "answers": [
+    {
+      "text": "yo estoy cantando",
+      "correct": false
+    },
+    {
+      "text": "yo cantaría",
+      "correct": false
+    },
+    {
+      "text": "que yo cante",
+      "correct": true
+    },
+    {
+      "text": "yo cantaba",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “que yo cante” corresponde a presente de subjuntivo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "presente-de-subjuntivo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

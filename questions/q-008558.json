@@ -1,0 +1,42 @@
+{
+  "id": "q-008558",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "silabas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre 1, 5, 3 y 2, cuántas sílabas tiene “pan”?",
+  "answers": [
+    {
+      "text": "1",
+      "correct": true
+    },
+    {
+      "text": "2",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    }
+  ],
+  "explanation": "“pan” tiene 1 sílabas.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "silabas",
+    "pan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

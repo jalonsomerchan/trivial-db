@@ -1,0 +1,43 @@
+{
+  "id": "q-005913",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué cuerpo celeste es satélite Tritón?",
+  "answers": [
+    {
+      "text": "Neptuno",
+      "correct": true
+    },
+    {
+      "text": "Tierra",
+      "correct": false
+    },
+    {
+      "text": "Saturno",
+      "correct": false
+    },
+    {
+      "text": "Urano",
+      "correct": false
+    }
+  ],
+  "explanation": "Tritón es un satélite natural de Neptuno.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "triton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

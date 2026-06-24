@@ -1,0 +1,43 @@
+{
+  "id": "q-005586",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre mamíferos, peces, insectos y moluscos, qué grupo de animales respiran principalmente por branquias?",
+  "answers": [
+    {
+      "text": "moluscos",
+      "correct": false
+    },
+    {
+      "text": "insectos",
+      "correct": false
+    },
+    {
+      "text": "mamíferos",
+      "correct": false
+    },
+    {
+      "text": "peces",
+      "correct": true
+    }
+  ],
+  "explanation": "Los peces respiran principalmente por branquias.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "peces"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

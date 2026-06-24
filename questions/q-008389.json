@@ -1,0 +1,43 @@
+{
+  "id": "q-008389",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué contexto histórico se asocia la creación de la Unión Europea por el Tratado de Maastricht?",
+  "answers": [
+    {
+      "text": "siglo XIX",
+      "correct": false
+    },
+    {
+      "text": "Europa contemporánea",
+      "correct": true
+    },
+    {
+      "text": "Imperio romano",
+      "correct": false
+    },
+    {
+      "text": "independencias americanas",
+      "correct": false
+    }
+  ],
+  "explanation": "La creación de la Unión Europea por el Tratado de Maastricht se asocia con Europa contemporánea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "europa-contemporanea",
+    "creacion-de-la-union-europea-por-el-tratado-de-maastricht"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

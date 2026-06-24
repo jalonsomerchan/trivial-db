@@ -1,0 +1,42 @@
+{
+  "id": "q-009644",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para crear un área de texto multilínea?",
+  "answers": [
+    {
+      "text": "<main>",
+      "correct": false
+    },
+    {
+      "text": "<textarea>",
+      "correct": true
+    },
+    {
+      "text": "<script>",
+      "correct": false
+    },
+    {
+      "text": "<svg>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <textarea> se usa para crear un área de texto multilínea.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "textarea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

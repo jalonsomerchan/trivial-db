@@ -1,0 +1,43 @@
+{
+  "id": "q-007067",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre caldo con fideos, fideos de arroz, masa de pan y arroz, qué ingrediente es característico del pad thai?",
+  "answers": [
+    {
+      "text": "masa de pan",
+      "correct": false
+    },
+    {
+      "text": "caldo con fideos",
+      "correct": false
+    },
+    {
+      "text": "fideos de arroz",
+      "correct": true
+    },
+    {
+      "text": "arroz",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del pad thai es fideos de arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pad-thai",
+    "fideos-de-arroz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

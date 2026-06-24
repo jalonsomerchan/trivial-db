@@ -1,0 +1,42 @@
+{
+  "id": "q-005135",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre sátira, autobiografía, elegía y novela, qué género literario es un narración extensa en prosa?",
+  "answers": [
+    {
+      "text": "novela",
+      "correct": true
+    },
+    {
+      "text": "elegía",
+      "correct": false
+    },
+    {
+      "text": "autobiografía",
+      "correct": false
+    },
+    {
+      "text": "sátira",
+      "correct": false
+    }
+  ],
+  "explanation": "Un novela es un narración extensa en prosa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "novela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

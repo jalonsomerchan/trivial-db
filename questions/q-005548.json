@@ -1,0 +1,42 @@
+{
+  "id": "q-005548",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre cerebro, intestino delgado, hipófisis y riñones, qué órgano se encarga principalmente de regular otras glándulas endocrinas?",
+  "answers": [
+    {
+      "text": "cerebro",
+      "correct": false
+    },
+    {
+      "text": "hipófisis",
+      "correct": true
+    },
+    {
+      "text": "intestino delgado",
+      "correct": false
+    },
+    {
+      "text": "riñones",
+      "correct": false
+    }
+  ],
+  "explanation": "La hipófisis se encarga principalmente de regular otras glándulas endocrinas.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "hipofisis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

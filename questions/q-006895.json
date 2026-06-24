@@ -1,0 +1,43 @@
+{
+  "id": "q-006895",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Nintendo, id Software, Naughty Dog y Bungie, qué compañía o estudio se asocia con “The Last of Us”?",
+  "answers": [
+    {
+      "text": "Bungie",
+      "correct": false
+    },
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "Nintendo",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": true
+    }
+  ],
+  "explanation": "“The Last of Us” se asocia con Naughty Dog.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "the-last-of-us",
+    "naughty-dog"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

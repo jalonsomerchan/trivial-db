@@ -1,0 +1,44 @@
+{
+  "id": "q-007792",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Minsk, Maputo, Kingstown o Asmara?",
+  "answers": [
+    {
+      "text": "Minsk",
+      "correct": true
+    },
+    {
+      "text": "Maputo",
+      "correct": false
+    },
+    {
+      "text": "Kingstown",
+      "correct": false
+    },
+    {
+      "text": "Asmara",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Minsk es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

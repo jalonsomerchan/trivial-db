@@ -1,0 +1,42 @@
+{
+  "id": "q-008992",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué tiempo verbal aparece en “yo cantaba”?",
+  "answers": [
+    {
+      "text": "pretérito imperfecto",
+      "correct": true
+    },
+    {
+      "text": "condicional simple",
+      "correct": false
+    },
+    {
+      "text": "pretérito perfecto compuesto",
+      "correct": false
+    },
+    {
+      "text": "presente",
+      "correct": false
+    }
+  ],
+  "explanation": "“yo cantaba” está en pretérito imperfecto.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-imperfecto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005472",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué define principalmente a un autobiografía?",
+  "answers": [
+    {
+      "text": "obra dramática con desenlace grave",
+      "correct": false
+    },
+    {
+      "text": "relato de la propia vida",
+      "correct": true
+    },
+    {
+      "text": "narración breve de ficción",
+      "correct": false
+    },
+    {
+      "text": "composición lírica de lamento",
+      "correct": false
+    }
+  ],
+  "explanation": "Un autobiografía se define como relato de la propia vida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autobiografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

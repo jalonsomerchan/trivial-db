@@ -1,0 +1,43 @@
+{
+  "id": "q-007926",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa República Eslovaca?",
+  "answers": [
+    {
+      "text": "Eastern Europe",
+      "correct": true
+    },
+    {
+      "text": "Middle Africa",
+      "correct": false
+    },
+    {
+      "text": "South-Eastern Asia",
+      "correct": false
+    },
+    {
+      "text": "Melanesia",
+      "correct": false
+    }
+  ],
+  "explanation": "República Eslovaca pertenece a la subregión Eastern Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "republica-eslovaca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

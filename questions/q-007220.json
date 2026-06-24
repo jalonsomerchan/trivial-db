@@ -1,0 +1,43 @@
+{
+  "id": "q-007220",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre cocinar suavemente en líquido caliente sin hervir fuerte, concentrar un líquido evaporando parte del agua, aromatizar o conservar con humo y transformar alimentos por acción de microorganismos, qué significa reducir en cocina?",
+  "answers": [
+    {
+      "text": "transformar alimentos por acción de microorganismos",
+      "correct": false
+    },
+    {
+      "text": "cocinar suavemente en líquido caliente sin hervir fuerte",
+      "correct": false
+    },
+    {
+      "text": "aromatizar o conservar con humo",
+      "correct": false
+    },
+    {
+      "text": "concentrar un líquido evaporando parte del agua",
+      "correct": true
+    }
+  ],
+  "explanation": "En cocina, reducir significa concentrar un líquido evaporando parte del agua.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "reducir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

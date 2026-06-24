@@ -1,0 +1,42 @@
+{
+  "id": "q-008892",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre masculino o ambiguo, femenino con artículo el por a tónica, masculino y femenino, qué género gramatical corresponde a “el agua”?",
+  "answers": [
+    {
+      "text": "masculino",
+      "correct": false
+    },
+    {
+      "text": "femenino con artículo el por a tónica",
+      "correct": true
+    },
+    {
+      "text": "femenino",
+      "correct": false
+    },
+    {
+      "text": "masculino o ambiguo",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “el agua” corresponde a femenino con artículo el por a tónica.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "genero-gramatical",
+    "el-agua"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

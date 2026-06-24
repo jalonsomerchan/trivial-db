@@ -1,0 +1,42 @@
+{
+  "id": "q-009948",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué instrucción o cláusula SQL se usa para eliminar filas?",
+  "answers": [
+    {
+      "text": "DELETE",
+      "correct": true
+    },
+    {
+      "text": "GROUP BY",
+      "correct": false
+    },
+    {
+      "text": "AVG",
+      "correct": false
+    },
+    {
+      "text": "PRIMARY KEY",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, DELETE se usa para eliminar filas.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "delete"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

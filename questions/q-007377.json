@@ -1,0 +1,43 @@
+{
+  "id": "q-007377",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre cuscús, kimchi, curry verde y guacamole, qué plato se asocia con Tailandia y pasta de curry?",
+  "answers": [
+    {
+      "text": "cuscús",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "curry verde",
+      "correct": true
+    }
+  ],
+  "explanation": "El curry verde se asocia con Tailandia y con pasta de curry.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tailandia",
+    "pasta-de-curry"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

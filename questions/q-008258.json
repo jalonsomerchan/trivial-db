@@ -1,0 +1,42 @@
+{
+  "id": "q-008258",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre asesinato de Julio César, batalla de Salamina, erupción del Vesubio que destruyó Pompeya y coronación de Carlomagno, cuál de estos hechos ocurrió después que la caída del Imperio romano de Occidente?",
+  "answers": [
+    {
+      "text": "batalla de Salamina",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "erupción del Vesubio que destruyó Pompeya",
+      "correct": false
+    },
+    {
+      "text": "coronación de Carlomagno",
+      "correct": true
+    }
+  ],
+  "explanation": "coronación de Carlomagno ocurrió después que la caída del Imperio romano de Occidente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

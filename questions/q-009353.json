@@ -1,0 +1,41 @@
+{
+  "id": "q-009353",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto vale el 40% de 280?",
+  "answers": [
+    {
+      "text": "122",
+      "correct": false
+    },
+    {
+      "text": "117",
+      "correct": false
+    },
+    {
+      "text": "107",
+      "correct": false
+    },
+    {
+      "text": "112",
+      "correct": true
+    }
+  ],
+  "explanation": "40% de 280 es 112.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

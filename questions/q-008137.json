@@ -1,0 +1,43 @@
+{
+  "id": "q-008137",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre romana, micénica, mesopotámica y olmeca, qué civilización se asocia con derecho romano?",
+  "answers": [
+    {
+      "text": "mesopotámica",
+      "correct": false
+    },
+    {
+      "text": "romana",
+      "correct": true
+    },
+    {
+      "text": "olmeca",
+      "correct": false
+    },
+    {
+      "text": "micénica",
+      "correct": false
+    }
+  ],
+  "explanation": "derecho romano se asocia con la civilización romana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "romana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

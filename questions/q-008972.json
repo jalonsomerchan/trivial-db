@@ -1,0 +1,43 @@
+{
+  "id": "q-008972",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “débil”?",
+  "answers": [
+    {
+      "text": "abrir",
+      "correct": false
+    },
+    {
+      "text": "rápido",
+      "correct": false
+    },
+    {
+      "text": "fuerte",
+      "correct": true
+    },
+    {
+      "text": "claro",
+      "correct": false
+    }
+  ],
+  "explanation": "“fuerte” y “débil” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "fuerte",
+    "debil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

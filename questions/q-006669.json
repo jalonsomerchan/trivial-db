@@ -1,0 +1,42 @@
+{
+  "id": "q-006669",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Apocalypse Now, Titanic, Mi vecino Totoro y Ciudadano Kane, qué película fue dirigida por James Cameron?",
+  "answers": [
+    {
+      "text": "Mi vecino Totoro",
+      "correct": false
+    },
+    {
+      "text": "Titanic",
+      "correct": true
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": false
+    },
+    {
+      "text": "Apocalypse Now",
+      "correct": false
+    }
+  ],
+  "explanation": "James Cameron dirigió “Titanic”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "james-cameron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

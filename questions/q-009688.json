@@ -1,0 +1,43 @@
+{
+  "id": "q-009688",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Moved Permanently, Too Many Requests, Request Timeout y Bad Request, qué significa el código HTTP 400?",
+  "answers": [
+    {
+      "text": "Too Many Requests",
+      "correct": false
+    },
+    {
+      "text": "Moved Permanently",
+      "correct": false
+    },
+    {
+      "text": "Request Timeout",
+      "correct": false
+    },
+    {
+      "text": "Bad Request",
+      "correct": true
+    }
+  ],
+  "explanation": "El código HTTP 400 corresponde a Bad Request.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "400"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005930",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre absorber la mayoría de nutrientes, ayudar en la respiración, realizar el intercambio de gases y absorber agua y formar heces, cuál es una función principal del diafragma?",
+  "answers": [
+    {
+      "text": "absorber agua y formar heces",
+      "correct": false
+    },
+    {
+      "text": "realizar el intercambio de gases",
+      "correct": false
+    },
+    {
+      "text": "ayudar en la respiración",
+      "correct": true
+    },
+    {
+      "text": "absorber la mayoría de nutrientes",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del diafragma es ayudar en la respiración.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "diafragma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

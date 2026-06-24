@@ -1,0 +1,43 @@
+{
+  "id": "q-005520",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado mejillón?",
+  "answers": [
+    {
+      "text": "reptiles",
+      "correct": false
+    },
+    {
+      "text": "equinodermos",
+      "correct": false
+    },
+    {
+      "text": "crustáceos",
+      "correct": false
+    },
+    {
+      "text": "moluscos",
+      "correct": true
+    }
+  ],
+  "explanation": "El mejillón pertenece al grupo de los moluscos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "moluscos",
+    "mejillon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

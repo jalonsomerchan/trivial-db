@@ -1,0 +1,42 @@
+{
+  "id": "q-005847",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué sistema pertenece principalmente la piel?",
+  "answers": [
+    {
+      "text": "sistema muscular",
+      "correct": false
+    },
+    {
+      "text": "sistema tegumentario",
+      "correct": true
+    },
+    {
+      "text": "sistema linfático",
+      "correct": false
+    },
+    {
+      "text": "sistema visual",
+      "correct": false
+    }
+  ],
+  "explanation": "La piel pertenece principalmente al sistema tegumentario.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "sistema-tegumentario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

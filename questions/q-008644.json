@@ -1,0 +1,42 @@
+{
+  "id": "q-008644",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué signo de puntuación se usa para delimitar citas o usos especiales?",
+  "answers": [
+    {
+      "text": "coma",
+      "correct": false
+    },
+    {
+      "text": "punto",
+      "correct": false
+    },
+    {
+      "text": "signos de interrogación",
+      "correct": false
+    },
+    {
+      "text": "comillas",
+      "correct": true
+    }
+  ],
+  "explanation": "El signo llamado comillas se usa para delimitar citas o usos especiales.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "comillas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

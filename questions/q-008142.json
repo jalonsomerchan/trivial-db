@@ -1,0 +1,43 @@
+{
+  "id": "q-008142",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué civilización se asocia con alfabeto fenicio?",
+  "answers": [
+    {
+      "text": "azteca",
+      "correct": false
+    },
+    {
+      "text": "persa aqueménida",
+      "correct": false
+    },
+    {
+      "text": "china antigua",
+      "correct": false
+    },
+    {
+      "text": "fenicia",
+      "correct": true
+    }
+  ],
+  "explanation": "alfabeto fenicio se asocia con la civilización fenicia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "fenicia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

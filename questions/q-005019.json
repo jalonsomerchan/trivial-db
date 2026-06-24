@@ -1,0 +1,43 @@
+{
+  "id": "q-005019",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué movimiento artístico se asocia Piet Mondrian?",
+  "answers": [
+    {
+      "text": "Surrealismo",
+      "correct": false
+    },
+    {
+      "text": "Modernismo",
+      "correct": false
+    },
+    {
+      "text": "Renacimiento",
+      "correct": false
+    },
+    {
+      "text": "Neoplasticismo",
+      "correct": true
+    }
+  ],
+  "explanation": "Piet Mondrian se asocia habitualmente con Neoplasticismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "piet-mondrian",
+    "neoplasticismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

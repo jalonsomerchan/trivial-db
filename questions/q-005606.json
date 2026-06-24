@@ -1,0 +1,42 @@
+{
+  "id": "q-005606",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre retina, estómago, hígado y diafragma, qué órgano se encarga principalmente de ayudar en la respiración?",
+  "answers": [
+    {
+      "text": "retina",
+      "correct": false
+    },
+    {
+      "text": "diafragma",
+      "correct": true
+    },
+    {
+      "text": "hígado",
+      "correct": false
+    },
+    {
+      "text": "estómago",
+      "correct": false
+    }
+  ],
+  "explanation": "El diafragma se encarga principalmente de ayudar en la respiración.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "diafragma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

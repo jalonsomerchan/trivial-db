@@ -1,0 +1,42 @@
+{
+  "id": "q-008229",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió después que la toma de la Bastilla?",
+  "answers": [
+    {
+      "text": "crack bursátil de Wall Street",
+      "correct": true
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "independencia de Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "crack bursátil de Wall Street ocurrió después que la toma de la Bastilla.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

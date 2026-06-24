@@ -1,0 +1,42 @@
+{
+  "id": "q-005880",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal de la cóclea?",
+  "answers": [
+    {
+      "text": "filtrar la sangre y producir orina",
+      "correct": false
+    },
+    {
+      "text": "participar en la respuesta inmunitaria",
+      "correct": false
+    },
+    {
+      "text": "participar en la audición",
+      "correct": true
+    },
+    {
+      "text": "bombear sangre",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal de la cóclea es participar en la audición.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "coclea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

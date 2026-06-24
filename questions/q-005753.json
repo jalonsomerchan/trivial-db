@@ -1,0 +1,42 @@
+{
+  "id": "q-005753",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre energía cinética, ley de Ohm, densidad y velocidad media, qué magnitud se calcula como masa dividida entre volumen?",
+  "answers": [
+    {
+      "text": "velocidad media",
+      "correct": false
+    },
+    {
+      "text": "densidad",
+      "correct": true
+    },
+    {
+      "text": "ley de Ohm",
+      "correct": false
+    },
+    {
+      "text": "energía cinética",
+      "correct": false
+    }
+  ],
+  "explanation": "densidad se calcula como masa dividida entre volumen.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "densidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008605",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre lejos, olvidar, prohibir y llorar, cuál es un antónimo de “permitir”?",
+  "answers": [
+    {
+      "text": "llorar",
+      "correct": false
+    },
+    {
+      "text": "lejos",
+      "correct": false
+    },
+    {
+      "text": "prohibir",
+      "correct": true
+    },
+    {
+      "text": "olvidar",
+      "correct": false
+    }
+  ],
+  "explanation": "“prohibir” es un antónimo de “permitir”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "permitir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

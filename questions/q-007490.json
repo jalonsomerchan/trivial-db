@@ -1,0 +1,43 @@
+{
+  "id": "q-007490",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en cocinar rápido con poca grasa y fuego alto?",
+  "answers": [
+    {
+      "text": "saltear",
+      "correct": true
+    },
+    {
+      "text": "freír",
+      "correct": false
+    },
+    {
+      "text": "tostar",
+      "correct": false
+    },
+    {
+      "text": "glasear",
+      "correct": false
+    }
+  ],
+  "explanation": "saltear consiste en cocinar rápido con poca grasa y fuego alto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "saltear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

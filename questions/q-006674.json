@@ -1,0 +1,42 @@
+{
+  "id": "q-006674",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Better Call Saul, The X-Files, Sherlock y Game of Thrones, qué serie se asocia con Fox Mulder?",
+  "answers": [
+    {
+      "text": "Sherlock",
+      "correct": false
+    },
+    {
+      "text": "The X-Files",
+      "correct": true
+    },
+    {
+      "text": "Game of Thrones",
+      "correct": false
+    },
+    {
+      "text": "Better Call Saul",
+      "correct": false
+    }
+  ],
+  "explanation": "Fox Mulder se asocia con “The X-Files”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "fox-mulder"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008375",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué contexto histórico se asocia la Revolución rusa?",
+  "answers": [
+    {
+      "text": "Guerras Médicas",
+      "correct": false
+    },
+    {
+      "text": "Guerras napoleónicas",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "Edad Moderna",
+      "correct": false
+    }
+  ],
+  "explanation": "La Revolución rusa se asocia con siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglo-xx",
+    "revolucion-rusa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

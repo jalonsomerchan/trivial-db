@@ -1,0 +1,43 @@
+{
+  "id": "q-007725",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Mauritania, Honduras, Timor Oriental o Botswana?",
+  "answers": [
+    {
+      "text": "Honduras",
+      "correct": false
+    },
+    {
+      "text": "Mauritania",
+      "correct": true
+    },
+    {
+      "text": "Botswana",
+      "correct": false
+    },
+    {
+      "text": "Timor Oriental",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Mauritania tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

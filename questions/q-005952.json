@@ -1,0 +1,42 @@
+{
+  "id": "q-005952",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre pepino de mar, delfín, pulpo y cocodrilo, cuál de estos animales pertenece al grupo de los moluscos?",
+  "answers": [
+    {
+      "text": "cocodrilo",
+      "correct": false
+    },
+    {
+      "text": "delfín",
+      "correct": false
+    },
+    {
+      "text": "pepino de mar",
+      "correct": false
+    },
+    {
+      "text": "pulpo",
+      "correct": true
+    }
+  ],
+  "explanation": "El pulpo pertenece al grupo de los moluscos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "moluscos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

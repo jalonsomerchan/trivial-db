@@ -1,0 +1,42 @@
+{
+  "id": "q-005155",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué movimiento artístico se caracteriza por búsqueda de formas expresivas más personales?",
+  "answers": [
+    {
+      "text": "Impresionismo",
+      "correct": false
+    },
+    {
+      "text": "Postimpresionismo",
+      "correct": true
+    },
+    {
+      "text": "Realismo",
+      "correct": false
+    },
+    {
+      "text": "Arte conceptual",
+      "correct": false
+    }
+  ],
+  "explanation": "El Postimpresionismo se caracteriza por búsqueda de formas expresivas más personales.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "postimpresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

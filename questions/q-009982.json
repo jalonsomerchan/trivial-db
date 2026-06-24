@@ -1,0 +1,42 @@
+{
+  "id": "q-009982",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS añade decoración al texto?",
+  "answers": [
+    {
+      "text": "visibility",
+      "correct": false
+    },
+    {
+      "text": "object-fit",
+      "correct": false
+    },
+    {
+      "text": "text-decoration",
+      "correct": true
+    },
+    {
+      "text": "border-radius",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS text-decoration añade decoración al texto.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "text-decoration"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

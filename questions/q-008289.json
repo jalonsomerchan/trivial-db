@@ -1,0 +1,42 @@
+{
+  "id": "q-008289",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre disolución de la Unión Soviética, caída del Muro de Berlín, asesinato de Julio César y creación de la Unión Europea por el Tratado de Maastricht, cuál de estos hechos ocurrió antes que la inicio de la Guerra de Corea?",
+  "answers": [
+    {
+      "text": "creación de la Unión Europea por el Tratado de Maastricht",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": true
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    }
+  ],
+  "explanation": "asesinato de Julio César ocurrió antes que la inicio de la Guerra de Corea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

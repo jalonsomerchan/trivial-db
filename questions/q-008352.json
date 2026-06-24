@@ -1,0 +1,42 @@
+{
+  "id": "q-008352",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1805?",
+  "answers": [
+    {
+      "text": "siglo VIII a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX",
+      "correct": true
+    },
+    {
+      "text": "siglo XI",
+      "correct": false
+    },
+    {
+      "text": "siglo XIII",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1805 pertenece al siglo XIX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

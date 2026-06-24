@@ -1,0 +1,42 @@
+{
+  "id": "q-008862",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre femenino con artículo el por a tónica, masculino, femenino y masculino o ambiguo, qué género gramatical corresponde a “el azúcar”?",
+  "answers": [
+    {
+      "text": "femenino con artículo el por a tónica",
+      "correct": false
+    },
+    {
+      "text": "femenino",
+      "correct": false
+    },
+    {
+      "text": "masculino o ambiguo",
+      "correct": true
+    },
+    {
+      "text": "masculino",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “el azúcar” corresponde a masculino o ambiguo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "genero-gramatical",
+    "el-azucar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

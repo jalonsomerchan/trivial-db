@@ -1,0 +1,43 @@
+{
+  "id": "q-006562",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre James Cameron, John Lasseter, Quentin Tarantino y Damien Chazelle, quién dirigió la película “La La Land”?",
+  "answers": [
+    {
+      "text": "Quentin Tarantino",
+      "correct": false
+    },
+    {
+      "text": "James Cameron",
+      "correct": false
+    },
+    {
+      "text": "Damien Chazelle",
+      "correct": true
+    },
+    {
+      "text": "John Lasseter",
+      "correct": false
+    }
+  ],
+  "explanation": "“La La Land” fue dirigida por Damien Chazelle.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "la-la-land",
+    "damien-chazelle"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

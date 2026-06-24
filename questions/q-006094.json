@@ -1,0 +1,43 @@
+{
+  "id": "q-006094",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "baloncesto"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Detroit, Sacramento, Milwaukee y San Francisco, en qué ciudad juega como local Sacramento Kings?",
+  "answers": [
+    {
+      "text": "Sacramento",
+      "correct": true
+    },
+    {
+      "text": "San Francisco",
+      "correct": false
+    },
+    {
+      "text": "Detroit",
+      "correct": false
+    },
+    {
+      "text": "Milwaukee",
+      "correct": false
+    }
+  ],
+  "explanation": "Sacramento Kings juega como local en Sacramento.",
+  "sources": [
+    {
+      "title": "NBA",
+      "url": "https://www.nba.com/"
+    }
+  ],
+  "tags": [
+    "nba",
+    "sacramento-kings",
+    "sacramento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

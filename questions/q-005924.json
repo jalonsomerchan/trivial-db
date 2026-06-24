@@ -1,0 +1,43 @@
+{
+  "id": "q-005924",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Tierra, Saturno, Júpiter y Neptuno, de qué cuerpo celeste es satélite Titán?",
+  "answers": [
+    {
+      "text": "Saturno",
+      "correct": true
+    },
+    {
+      "text": "Júpiter",
+      "correct": false
+    },
+    {
+      "text": "Tierra",
+      "correct": false
+    },
+    {
+      "text": "Neptuno",
+      "correct": false
+    }
+  ],
+  "explanation": "Titán es un satélite natural de Saturno.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "titan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009944",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué instrucción o cláusula SQL se usa para combinar filas de tablas relacionadas?",
+  "answers": [
+    {
+      "text": "DROP TABLE",
+      "correct": false
+    },
+    {
+      "text": "GROUP BY",
+      "correct": false
+    },
+    {
+      "text": "JOIN",
+      "correct": true
+    },
+    {
+      "text": "UPDATE",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, JOIN se usa para combinar filas de tablas relacionadas.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "join"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

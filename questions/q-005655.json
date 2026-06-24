@@ -1,0 +1,42 @@
+{
+  "id": "q-005655",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué órgano se encarga principalmente de conducir alimento hacia el estómago?",
+  "answers": [
+    {
+      "text": "esófago",
+      "correct": true
+    },
+    {
+      "text": "riñones",
+      "correct": false
+    },
+    {
+      "text": "vejiga urinaria",
+      "correct": false
+    },
+    {
+      "text": "piel",
+      "correct": false
+    }
+  ],
+  "explanation": "El esófago se encarga principalmente de conducir alimento hacia el estómago.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "esofago"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

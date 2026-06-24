@@ -1,0 +1,42 @@
+{
+  "id": "q-005856",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué función se relaciona especialmente la hierro?",
+  "answers": [
+    {
+      "text": "salud ósea",
+      "correct": false
+    },
+    {
+      "text": "transporte de oxígeno",
+      "correct": true
+    },
+    {
+      "text": "absorción de calcio",
+      "correct": false
+    },
+    {
+      "text": "síntesis de colágeno",
+      "correct": false
+    }
+  ],
+  "explanation": "La hierro se relaciona con transporte de oxígeno.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "hierro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

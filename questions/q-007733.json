@@ -1,0 +1,43 @@
+{
+  "id": "q-007733",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Puerto Rico, Islas Tokelau, Emiratos Árabes Unidos o Irlanda?",
+  "answers": [
+    {
+      "text": "Irlanda",
+      "correct": false
+    },
+    {
+      "text": "Puerto Rico",
+      "correct": false
+    },
+    {
+      "text": "Emiratos Árabes Unidos",
+      "correct": true
+    },
+    {
+      "text": "Islas Tokelau",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Emiratos Árabes Unidos tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

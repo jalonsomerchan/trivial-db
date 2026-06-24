@@ -1,0 +1,43 @@
+{
+  "id": "q-005622",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué grupo de animales producen leche para sus crías?",
+  "answers": [
+    {
+      "text": "mamíferos",
+      "correct": true
+    },
+    {
+      "text": "crustáceos",
+      "correct": false
+    },
+    {
+      "text": "reptiles",
+      "correct": false
+    },
+    {
+      "text": "peces",
+      "correct": false
+    }
+  ],
+  "explanation": "Los mamíferos producen leche para sus crías.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "mamiferos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

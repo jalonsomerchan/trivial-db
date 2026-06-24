@@ -1,0 +1,43 @@
+{
+  "id": "q-008029",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre 1861, 1939, 1688 y 1848, en qué año se produjo la inicio de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "1861",
+      "correct": false
+    },
+    {
+      "text": "1939",
+      "correct": true
+    },
+    {
+      "text": "1688",
+      "correct": false
+    },
+    {
+      "text": "1848",
+      "correct": false
+    }
+  ],
+  "explanation": "La inicio de la Segunda Guerra Mundial se produjo en 1939.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "inicio-de-la-segunda-guerra-mundial"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

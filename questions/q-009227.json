@@ -1,0 +1,42 @@
+{
+  "id": "q-009227",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 34 y 43?",
+  "answers": [
+    {
+      "text": "1462",
+      "correct": true
+    },
+    {
+      "text": "1496",
+      "correct": false
+    },
+    {
+      "text": "1419",
+      "correct": false
+    },
+    {
+      "text": "43",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 34 y 43 es 1462.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

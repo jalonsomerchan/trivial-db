@@ -1,0 +1,42 @@
+{
+  "id": "q-005447",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre narración extensa en prosa, poema de tono elevado o celebrativo, poema breve japonés de tres versos y relato de la propia vida, qué define principalmente a un haiku?",
+  "answers": [
+    {
+      "text": "poema breve japonés de tres versos",
+      "correct": true
+    },
+    {
+      "text": "narración extensa en prosa",
+      "correct": false
+    },
+    {
+      "text": "relato de la propia vida",
+      "correct": false
+    },
+    {
+      "text": "poema de tono elevado o celebrativo",
+      "correct": false
+    }
+  ],
+  "explanation": "Un haiku se define como poema breve japonés de tres versos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "haiku"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

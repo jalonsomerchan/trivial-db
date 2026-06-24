@@ -1,0 +1,42 @@
+{
+  "id": "q-009981",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS asocia una animación CSS?",
+  "answers": [
+    {
+      "text": "text-decoration",
+      "correct": false
+    },
+    {
+      "text": "opacity",
+      "correct": false
+    },
+    {
+      "text": "animation",
+      "correct": true
+    },
+    {
+      "text": "transition",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS animation asocia una animación CSS.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "animation"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

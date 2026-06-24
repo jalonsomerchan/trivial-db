@@ -1,0 +1,42 @@
+{
+  "id": "q-009706",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre cambia el contenido eliminando o insertando elementos, elimina el último elemento de un array, elimina espacios al principio y al final y comprueba si algún elemento cumple una condición, qué hace principalmente el método JavaScript trim()?",
+  "answers": [
+    {
+      "text": "cambia el contenido eliminando o insertando elementos",
+      "correct": false
+    },
+    {
+      "text": "elimina espacios al principio y al final",
+      "correct": true
+    },
+    {
+      "text": "comprueba si algún elemento cumple una condición",
+      "correct": false
+    },
+    {
+      "text": "elimina el último elemento de un array",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, trim() elimina espacios al principio y al final.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "trim"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

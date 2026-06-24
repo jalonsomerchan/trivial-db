@@ -1,0 +1,42 @@
+{
+  "id": "q-005686",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre F = m·a, P = m·g, p = F/A y V = I·R, qué expresión representa fuerza neta?",
+  "answers": [
+    {
+      "text": "p = F/A",
+      "correct": false
+    },
+    {
+      "text": "F = m·a",
+      "correct": true
+    },
+    {
+      "text": "V = I·R",
+      "correct": false
+    },
+    {
+      "text": "P = m·g",
+      "correct": false
+    }
+  ],
+  "explanation": "La expresión habitual de fuerza neta es F = m·a.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "fuerza-neta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008014",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre -480, 1993, 1776 y 1929, en qué año se produjo la creación de la Unión Europea por el Tratado de Maastricht?",
+  "answers": [
+    {
+      "text": "-480",
+      "correct": false
+    },
+    {
+      "text": "1993",
+      "correct": true
+    },
+    {
+      "text": "1929",
+      "correct": false
+    },
+    {
+      "text": "1776",
+      "correct": false
+    }
+  ],
+  "explanation": "La creación de la Unión Europea por el Tratado de Maastricht se produjo en 1993.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "creacion-de-la-union-europea-por-el-tratado-de-maastricht"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

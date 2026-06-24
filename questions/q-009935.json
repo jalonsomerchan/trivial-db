@@ -1,0 +1,42 @@
+{
+  "id": "q-009935",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué sirve principalmente git pull?",
+  "answers": [
+    {
+      "text": "reaplicar commits sobre otra base",
+      "correct": false
+    },
+    {
+      "text": "copiar un repositorio remoto",
+      "correct": false
+    },
+    {
+      "text": "cambiar de rama o restaurar archivos",
+      "correct": false
+    },
+    {
+      "text": "traer e integrar cambios remotos",
+      "correct": true
+    }
+  ],
+  "explanation": "git pull sirve para traer e integrar cambios remotos.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-pull"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

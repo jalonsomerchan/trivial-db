@@ -1,0 +1,42 @@
+{
+  "id": "q-009219",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 21 y 80?",
+  "answers": [
+    {
+      "text": "1680",
+      "correct": true
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "1701",
+      "correct": false
+    },
+    {
+      "text": "1600",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 21 y 80 es 1680.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

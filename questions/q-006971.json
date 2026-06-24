@@ -1,0 +1,43 @@
+{
+  "id": "q-006971",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compañía o estudio se asocia con “Metal Gear Solid”?",
+  "answers": [
+    {
+      "text": "Valve",
+      "correct": false
+    },
+    {
+      "text": "Konami",
+      "correct": true
+    },
+    {
+      "text": "Santa Monica Studio",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": false
+    }
+  ],
+  "explanation": "“Metal Gear Solid” se asocia con Konami.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metal-gear-solid",
+    "konami"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

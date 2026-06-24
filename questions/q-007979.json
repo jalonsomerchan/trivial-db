@@ -1,0 +1,43 @@
+{
+  "id": "q-007979",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Perú?",
+  "answers": [
+    {
+      "text": "español",
+      "correct": true
+    },
+    {
+      "text": "rs",
+      "correct": false
+    },
+    {
+      "text": "neerlandés",
+      "correct": false
+    },
+    {
+      "text": "setsuana",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Perú figura el español.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "peru"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

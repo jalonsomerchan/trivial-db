@@ -1,0 +1,43 @@
+{
+  "id": "q-006654",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con la serie “Breaking Bad”?",
+  "answers": [
+    {
+      "text": "Once",
+      "correct": false
+    },
+    {
+      "text": "Rachel Green",
+      "correct": false
+    },
+    {
+      "text": "Walter White",
+      "correct": true
+    },
+    {
+      "text": "el Doctor",
+      "correct": false
+    }
+  ],
+  "explanation": "Walter White es un personaje asociado con “Breaking Bad”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "breaking-bad",
+    "walter-white"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

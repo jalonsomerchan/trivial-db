@@ -1,0 +1,42 @@
+{
+  "id": "q-008505",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “aparecer”?",
+  "answers": [
+    {
+      "text": "desaparecer",
+      "correct": true
+    },
+    {
+      "text": "llorar",
+      "correct": false
+    },
+    {
+      "text": "lejos",
+      "correct": false
+    },
+    {
+      "text": "rechazar",
+      "correct": false
+    }
+  ],
+  "explanation": "“desaparecer” es un antónimo de “aparecer”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "aparecer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007061",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre aguacate, verduras, pasta de curry y frijoles negros, qué ingrediente es característico del guacamole?",
+  "answers": [
+    {
+      "text": "frijoles negros",
+      "correct": false
+    },
+    {
+      "text": "pasta de curry",
+      "correct": false
+    },
+    {
+      "text": "verduras",
+      "correct": false
+    },
+    {
+      "text": "aguacate",
+      "correct": true
+    }
+  ],
+  "explanation": "Un ingrediente característico del guacamole es aguacate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "guacamole",
+    "aguacate"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

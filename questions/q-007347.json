@@ -1,0 +1,43 @@
+{
+  "id": "q-007347",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre ahumar, tostar, reducir y brasear, qué técnica culinaria consiste en concentrar un líquido evaporando parte del agua?",
+  "answers": [
+    {
+      "text": "reducir",
+      "correct": true
+    },
+    {
+      "text": "brasear",
+      "correct": false
+    },
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "tostar",
+      "correct": false
+    }
+  ],
+  "explanation": "reducir consiste en concentrar un líquido evaporando parte del agua.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "reducir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

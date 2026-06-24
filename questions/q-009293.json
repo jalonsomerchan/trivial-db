@@ -1,0 +1,42 @@
+{
+  "id": "q-009293",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuánto vale x si 3x + 24 = 177?",
+  "answers": [
+    {
+      "text": "51",
+      "correct": true
+    },
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": false
+    },
+    {
+      "text": "50",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 24 y dividiendo entre 3, se obtiene x = 51.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

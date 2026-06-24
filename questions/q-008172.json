@@ -1,0 +1,42 @@
+{
+  "id": "q-008172",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la batalla de Hastings?",
+  "answers": [
+    {
+      "text": "batalla de Maratón",
+      "correct": true
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Primera Cruzada",
+      "correct": false
+    },
+    {
+      "text": "publicación de las 95 tesis de Lutero",
+      "correct": false
+    }
+  ],
+  "explanation": "batalla de Maratón ocurrió antes que la batalla de Hastings.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

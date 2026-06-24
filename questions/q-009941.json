@@ -1,0 +1,42 @@
+{
+  "id": "q-009941",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué sirve principalmente git tag?",
+  "answers": [
+    {
+      "text": "fusionar ramas",
+      "correct": false
+    },
+    {
+      "text": "gestionar etiquetas",
+      "correct": true
+    },
+    {
+      "text": "preparar cambios para el siguiente commit",
+      "correct": false
+    },
+    {
+      "text": "ver el estado del árbol de trabajo",
+      "correct": false
+    }
+  ],
+  "explanation": "git tag sirve para gestionar etiquetas.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-tag"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

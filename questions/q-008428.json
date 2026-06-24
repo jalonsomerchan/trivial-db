@@ -1,0 +1,43 @@
+{
+  "id": "q-008428",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se relaciona principalmente Simón Bolívar?",
+  "answers": [
+    {
+      "text": "América del Sur",
+      "correct": true
+    },
+    {
+      "text": "Japón",
+      "correct": false
+    },
+    {
+      "text": "Imperio otomano",
+      "correct": false
+    },
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    }
+  ],
+  "explanation": "Simón Bolívar se relaciona principalmente con América del Sur.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "america-del-sur"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

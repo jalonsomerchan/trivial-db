@@ -1,0 +1,42 @@
+{
+  "id": "q-009900",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <button>?",
+  "answers": [
+    {
+      "text": "crear un campo de entrada",
+      "correct": false
+    },
+    {
+      "text": "crear un botón",
+      "correct": true
+    },
+    {
+      "text": "definir una opción seleccionable",
+      "correct": false
+    },
+    {
+      "text": "insertar audio",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <button> sirve para crear un botón.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "button"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

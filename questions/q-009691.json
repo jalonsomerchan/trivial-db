@@ -1,0 +1,43 @@
+{
+  "id": "q-009691",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Service Unavailable, Moved Permanently, Not Modified y I’m a teapot, qué significa el código HTTP 418?",
+  "answers": [
+    {
+      "text": "Not Modified",
+      "correct": false
+    },
+    {
+      "text": "Service Unavailable",
+      "correct": false
+    },
+    {
+      "text": "I’m a teapot",
+      "correct": true
+    },
+    {
+      "text": "Moved Permanently",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 418 corresponde a I’m a teapot.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "418"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

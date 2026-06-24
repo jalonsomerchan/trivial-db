@@ -1,0 +1,43 @@
+{
+  "id": "q-007044",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato goulash?",
+  "answers": [
+    {
+      "text": "Hungría",
+      "correct": true
+    },
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    }
+  ],
+  "explanation": "El goulash se asocia tradicionalmente con Hungría.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "goulash",
+    "hungria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

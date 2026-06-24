@@ -1,0 +1,42 @@
+{
+  "id": "q-005800",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre v = d/t, W = F·d, Ec = 1/2·m·v² y P = W/t, qué expresión representa energía cinética?",
+  "answers": [
+    {
+      "text": "Ec = 1/2·m·v²",
+      "correct": true
+    },
+    {
+      "text": "v = d/t",
+      "correct": false
+    },
+    {
+      "text": "P = W/t",
+      "correct": false
+    },
+    {
+      "text": "W = F·d",
+      "correct": false
+    }
+  ],
+  "explanation": "La expresión habitual de energía cinética es Ec = 1/2·m·v².",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "energia-cinetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

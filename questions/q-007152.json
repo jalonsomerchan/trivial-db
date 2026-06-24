@@ -1,0 +1,43 @@
+{
+  "id": "q-007152",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del goulash?",
+  "answers": [
+    {
+      "text": "paprika",
+      "correct": true
+    },
+    {
+      "text": "remolacha",
+      "correct": false
+    },
+    {
+      "text": "arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "col fermentada",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del goulash es paprika.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "goulash",
+    "paprika"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

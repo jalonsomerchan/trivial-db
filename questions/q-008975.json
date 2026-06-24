@@ -1,0 +1,43 @@
+{
+  "id": "q-008975",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “llorar”?",
+  "answers": [
+    {
+      "text": "subir",
+      "correct": false
+    },
+    {
+      "text": "fuerte",
+      "correct": false
+    },
+    {
+      "text": "ligero",
+      "correct": false
+    },
+    {
+      "text": "reír",
+      "correct": true
+    }
+  ],
+  "explanation": "“reír” y “llorar” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "reir",
+    "llorar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

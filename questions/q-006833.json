@@ -1,0 +1,42 @@
+{
+  "id": "q-006833",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Spyro?",
+  "answers": [
+    {
+      "text": "Crash Bandicoot",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    },
+    {
+      "text": "Spyro the Dragon",
+      "correct": true
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    }
+  ],
+  "explanation": "Spyro se asocia con “Spyro the Dragon”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "spyro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

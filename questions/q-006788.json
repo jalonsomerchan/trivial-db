@@ -1,0 +1,42 @@
+{
+  "id": "q-006788",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Lana y Lilly Wachowski?",
+  "answers": [
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    },
+    {
+      "text": "Mi vecino Totoro",
+      "correct": false
+    },
+    {
+      "text": "E.T., el extraterrestre",
+      "correct": false
+    },
+    {
+      "text": "Matrix",
+      "correct": true
+    }
+  ],
+  "explanation": "Lana y Lilly Wachowski dirigió “Matrix”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lana-y-lilly-wachowski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

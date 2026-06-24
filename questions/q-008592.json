@@ -1,0 +1,42 @@
+{
+  "id": "q-008592",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre coma, dos puntos, paréntesis y signos de interrogación, qué signo de puntuación se usa para introducir una enumeración o explicación?",
+  "answers": [
+    {
+      "text": "signos de interrogación",
+      "correct": false
+    },
+    {
+      "text": "coma",
+      "correct": false
+    },
+    {
+      "text": "paréntesis",
+      "correct": false
+    },
+    {
+      "text": "dos puntos",
+      "correct": true
+    }
+  ],
+  "explanation": "El signo llamado dos puntos se usa para introducir una enumeración o explicación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "dos-puntos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005784",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre peso, aceleración, densidad y cantidad de movimiento, qué magnitud se calcula como cambio de velocidad dividido entre tiempo?",
+  "answers": [
+    {
+      "text": "peso",
+      "correct": false
+    },
+    {
+      "text": "aceleración",
+      "correct": true
+    },
+    {
+      "text": "cantidad de movimiento",
+      "correct": false
+    },
+    {
+      "text": "densidad",
+      "correct": false
+    }
+  ],
+  "explanation": "aceleración se calcula como cambio de velocidad dividido entre tiempo.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "aceleracion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

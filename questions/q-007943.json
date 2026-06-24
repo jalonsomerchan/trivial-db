@@ -1,0 +1,43 @@
+{
+  "id": "q-007943",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Burundi?",
+  "answers": [
+    {
+      "text": "francés",
+      "correct": true
+    },
+    {
+      "text": "estonio",
+      "correct": false
+    },
+    {
+      "text": "afrikáans",
+      "correct": false
+    },
+    {
+      "text": "venda",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Burundi figura el francés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "burundi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

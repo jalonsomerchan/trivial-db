@@ -1,0 +1,43 @@
+{
+  "id": "q-005992",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué característica define a los peces?",
+  "answers": [
+    {
+      "text": "pasan parte de su vida en el agua y parte en tierra",
+      "correct": false
+    },
+    {
+      "text": "tienen seis patas",
+      "correct": false
+    },
+    {
+      "text": "incluyen cangrejos y langostas",
+      "correct": false
+    },
+    {
+      "text": "respiran principalmente por branquias",
+      "correct": true
+    }
+  ],
+  "explanation": "Los peces se caracterizan porque respiran principalmente por branquias.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "peces"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

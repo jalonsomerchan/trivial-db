@@ -1,0 +1,43 @@
+{
+  "id": "q-008427",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se relaciona principalmente Qin Shi Huang?",
+  "answers": [
+    {
+      "text": "China",
+      "correct": true
+    },
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    }
+  ],
+  "explanation": "Qin Shi Huang se relaciona principalmente con China.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "china"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

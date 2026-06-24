@@ -1,0 +1,42 @@
+{
+  "id": "q-009581",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <video>, <style>, <input> y <table>, qué etiqueta HTML se usa para crear un campo de entrada?",
+  "answers": [
+    {
+      "text": "<video>",
+      "correct": false
+    },
+    {
+      "text": "<table>",
+      "correct": false
+    },
+    {
+      "text": "<input>",
+      "correct": true
+    },
+    {
+      "text": "<style>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <input> se usa para crear un campo de entrada.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "input"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

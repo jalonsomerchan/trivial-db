@@ -1,0 +1,43 @@
+{
+  "id": "q-009679",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre 418, 408, 410 y 504, qué código HTTP corresponde a “Request Timeout”?",
+  "answers": [
+    {
+      "text": "410",
+      "correct": false
+    },
+    {
+      "text": "504",
+      "correct": false
+    },
+    {
+      "text": "408",
+      "correct": true
+    },
+    {
+      "text": "418",
+      "correct": false
+    }
+  ],
+  "explanation": "“Request Timeout” corresponde al código HTTP 408.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "408"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

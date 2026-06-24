@@ -1,0 +1,43 @@
+{
+  "id": "q-006127",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre atletismo, ajedrez, judo y esgrima, en qué deporte se usa el término “florete”?",
+  "answers": [
+    {
+      "text": "ajedrez",
+      "correct": false
+    },
+    {
+      "text": "judo",
+      "correct": false
+    },
+    {
+      "text": "esgrima",
+      "correct": true
+    },
+    {
+      "text": "atletismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El término “florete” se usa en esgrima.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "esgrima",
+    "florete"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

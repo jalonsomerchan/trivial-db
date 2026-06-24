@@ -1,0 +1,43 @@
+{
+  "id": "q-006957",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre suspense, musical, terror y ciencia ficción y animación, a qué género se asocia principalmente “Psicosis”?",
+  "answers": [
+    {
+      "text": "suspense",
+      "correct": true
+    },
+    {
+      "text": "musical",
+      "correct": false
+    },
+    {
+      "text": "animación",
+      "correct": false
+    },
+    {
+      "text": "terror y ciencia ficción",
+      "correct": false
+    }
+  ],
+  "explanation": "“Psicosis” se asocia principalmente con suspense.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "psicosis",
+    "suspense"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005885",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal del hígado?",
+  "answers": [
+    {
+      "text": "procesar nutrientes y desintoxicar sustancias",
+      "correct": true
+    },
+    {
+      "text": "coordinar funciones nerviosas superiores",
+      "correct": false
+    },
+    {
+      "text": "ayudar en la respiración",
+      "correct": false
+    },
+    {
+      "text": "conducir aire hacia los bronquios",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del hígado es procesar nutrientes y desintoxicar sustancias.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "higado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

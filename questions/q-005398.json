@@ -1,0 +1,43 @@
+{
+  "id": "q-005398",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Francia, Austria, Estados Unidos y México, de qué país era Georges Braque?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": true
+    },
+    {
+      "text": "Austria",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "Georges Braque era de Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "georges-braque",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

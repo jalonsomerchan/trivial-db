@@ -1,0 +1,44 @@
+{
+  "id": "q-007082",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre fruta, lácteo, carne y pescado, a qué grupo alimentario pertenece manzana?",
+  "answers": [
+    {
+      "text": "fruta",
+      "correct": true
+    },
+    {
+      "text": "lácteo",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": false
+    },
+    {
+      "text": "pescado",
+      "correct": false
+    }
+  ],
+  "explanation": "manzana pertenece al grupo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "manzana",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

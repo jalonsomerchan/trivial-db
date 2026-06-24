@@ -1,0 +1,43 @@
+{
+  "id": "q-007366",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre brasear, fermentar, tostar y freír, qué técnica culinaria consiste en dorar por calor seco?",
+  "answers": [
+    {
+      "text": "brasear",
+      "correct": false
+    },
+    {
+      "text": "tostar",
+      "correct": true
+    },
+    {
+      "text": "fermentar",
+      "correct": false
+    },
+    {
+      "text": "freír",
+      "correct": false
+    }
+  ],
+  "explanation": "tostar consiste en dorar por calor seco.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "tostar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007159",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del pho?",
+  "answers": [
+    {
+      "text": "col fermentada",
+      "correct": false
+    },
+    {
+      "text": "caldo con fideos",
+      "correct": true
+    },
+    {
+      "text": "sémola de trigo",
+      "correct": false
+    },
+    {
+      "text": "pescado crudo marinado",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del pho es caldo con fideos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pho",
+    "caldo-con-fideos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

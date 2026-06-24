@@ -1,0 +1,42 @@
+{
+  "id": "q-005567",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre esófago, corazón, estómago y intestino delgado, qué órgano se encarga principalmente de bombear sangre?",
+  "answers": [
+    {
+      "text": "intestino delgado",
+      "correct": false
+    },
+    {
+      "text": "estómago",
+      "correct": false
+    },
+    {
+      "text": "corazón",
+      "correct": true
+    },
+    {
+      "text": "esófago",
+      "correct": false
+    }
+  ],
+  "explanation": "El corazón se encarga principalmente de bombear sangre.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "corazon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

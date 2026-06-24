@@ -1,0 +1,43 @@
+{
+  "id": "q-007153",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del guacamole?",
+  "answers": [
+    {
+      "text": "pasta de curry",
+      "correct": false
+    },
+    {
+      "text": "aguacate",
+      "correct": true
+    },
+    {
+      "text": "verduras",
+      "correct": false
+    },
+    {
+      "text": "frijoles negros",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del guacamole es aguacate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "guacamole",
+    "aguacate"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

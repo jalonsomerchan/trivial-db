@@ -1,0 +1,43 @@
+{
+  "id": "q-008441",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se produjo la primera vuelta al mundo completada por Elcano?",
+  "answers": [
+    {
+      "text": "1969",
+      "correct": false
+    },
+    {
+      "text": "1648",
+      "correct": false
+    },
+    {
+      "text": "1522",
+      "correct": true
+    },
+    {
+      "text": "1929",
+      "correct": false
+    }
+  ],
+  "explanation": "La primera vuelta al mundo completada por Elcano se produjo en 1522.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "primera-vuelta-al-mundo-completada-por-elcano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

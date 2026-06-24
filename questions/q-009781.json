@@ -1,0 +1,43 @@
+{
+  "id": "q-009781",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código HTTP corresponde a “Method Not Allowed”?",
+  "answers": [
+    {
+      "text": "409",
+      "correct": false
+    },
+    {
+      "text": "429",
+      "correct": false
+    },
+    {
+      "text": "405",
+      "correct": true
+    },
+    {
+      "text": "304",
+      "correct": false
+    }
+  ],
+  "explanation": "“Method Not Allowed” corresponde al código HTTP 405.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "405"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

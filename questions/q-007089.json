@@ -1,0 +1,43 @@
+{
+  "id": "q-007089",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre garbanzos, arroz, fideos y remolacha, qué ingrediente es característico del hummus?",
+  "answers": [
+    {
+      "text": "garbanzos",
+      "correct": true
+    },
+    {
+      "text": "arroz",
+      "correct": false
+    },
+    {
+      "text": "remolacha",
+      "correct": false
+    },
+    {
+      "text": "fideos",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del hummus es garbanzos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "hummus",
+    "garbanzos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

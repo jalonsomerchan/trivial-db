@@ -1,0 +1,42 @@
+{
+  "id": "q-009201",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el máximo común divisor de 64 y 13?",
+  "answers": [
+    {
+      "text": "1",
+      "correct": true
+    },
+    {
+      "text": "15",
+      "correct": false
+    },
+    {
+      "text": "8",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": false
+    }
+  ],
+  "explanation": "El máximo común divisor de 64 y 13 es 1.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcd",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006884",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Capcom, Mojang, Nintendo y Konami, qué compañía o estudio se asocia con “Super Mario Bros.”?",
+  "answers": [
+    {
+      "text": "Mojang",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": false
+    },
+    {
+      "text": "Nintendo",
+      "correct": true
+    },
+    {
+      "text": "Konami",
+      "correct": false
+    }
+  ],
+  "explanation": "“Super Mario Bros.” se asocia con Nintendo.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "super-mario-bros",
+    "nintendo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

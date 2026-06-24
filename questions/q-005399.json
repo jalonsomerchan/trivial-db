@@ -1,0 +1,43 @@
+{
+  "id": "q-005399",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Francia, España, Reino Unido y Italia, en qué país está el Guggenheim Bilbao?",
+  "answers": [
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    }
+  ],
+  "explanation": "El Guggenheim Bilbao está en España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "guggenheim-bilbao",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009577",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <ul>, <meta>, <video> y <style>, qué etiqueta HTML se usa para insertar vídeo?",
+  "answers": [
+    {
+      "text": "<meta>",
+      "correct": false
+    },
+    {
+      "text": "<style>",
+      "correct": false
+    },
+    {
+      "text": "<ul>",
+      "correct": false
+    },
+    {
+      "text": "<video>",
+      "correct": true
+    }
+  ],
+  "explanation": "La etiqueta <video> se usa para insertar vídeo.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "video"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

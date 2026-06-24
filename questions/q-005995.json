@@ -1,0 +1,42 @@
+{
+  "id": "q-005995",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué característica se asocia con Marte?",
+  "answers": [
+    {
+      "text": "no tiene lunas",
+      "correct": false
+    },
+    {
+      "text": "es el mayor planeta",
+      "correct": false
+    },
+    {
+      "text": "tiene dos lunas",
+      "correct": true
+    },
+    {
+      "text": "tiene una luna",
+      "correct": false
+    }
+  ],
+  "explanation": "Una característica de Marte es que tiene dos lunas.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "marte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

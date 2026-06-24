@@ -1,0 +1,43 @@
+{
+  "id": "q-005402",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Francia, Países Bajos, Estados Unidos y España, en qué país está el MoMA?",
+  "answers": [
+    {
+      "text": "Países Bajos",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": true
+    }
+  ],
+  "explanation": "El MoMA está en Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "moma",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

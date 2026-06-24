@@ -1,0 +1,42 @@
+{
+  "id": "q-009047",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 113 - 22?",
+  "answers": [
+    {
+      "text": "89",
+      "correct": false
+    },
+    {
+      "text": "91",
+      "correct": true
+    },
+    {
+      "text": "101",
+      "correct": false
+    },
+    {
+      "text": "93",
+      "correct": false
+    }
+  ],
+  "explanation": "La resta 113 - 22 da 91.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

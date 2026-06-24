@@ -1,0 +1,42 @@
+{
+  "id": "q-006703",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre House, Sherlock, The Mandalorian y The Simpsons, qué serie se asocia con Homer Simpson?",
+  "answers": [
+    {
+      "text": "Sherlock",
+      "correct": false
+    },
+    {
+      "text": "The Simpsons",
+      "correct": true
+    },
+    {
+      "text": "House",
+      "correct": false
+    },
+    {
+      "text": "The Mandalorian",
+      "correct": false
+    }
+  ],
+  "explanation": "Homer Simpson se asocia con “The Simpsons”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "homer-simpson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

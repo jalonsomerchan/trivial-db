@@ -1,0 +1,43 @@
+{
+  "id": "q-008117",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre inca, griega, bizantina y fenicia, qué civilización se asocia con Machu Picchu?",
+  "answers": [
+    {
+      "text": "bizantina",
+      "correct": false
+    },
+    {
+      "text": "griega",
+      "correct": false
+    },
+    {
+      "text": "inca",
+      "correct": true
+    },
+    {
+      "text": "fenicia",
+      "correct": false
+    }
+  ],
+  "explanation": "Machu Picchu se asocia con la civilización inca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "inca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

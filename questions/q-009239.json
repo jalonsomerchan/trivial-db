@@ -1,0 +1,42 @@
+{
+  "id": "q-009239",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 57 y 26?",
+  "answers": [
+    {
+      "text": "1482",
+      "correct": true
+    },
+    {
+      "text": "1456",
+      "correct": false
+    },
+    {
+      "text": "1539",
+      "correct": false
+    },
+    {
+      "text": "57",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 57 y 26 es 1482.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009911",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <meta>?",
+  "answers": [
+    {
+      "text": "definir metadatos",
+      "correct": true
+    },
+    {
+      "text": "incluir gráficos vectoriales",
+      "correct": false
+    },
+    {
+      "text": "definir un elemento de lista",
+      "correct": false
+    },
+    {
+      "text": "crear una lista no ordenada",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <meta> sirve para definir metadatos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "meta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009480",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 65% de 600?",
+  "answers": [
+    {
+      "text": "385",
+      "correct": false
+    },
+    {
+      "text": "395",
+      "correct": false
+    },
+    {
+      "text": "400",
+      "correct": false
+    },
+    {
+      "text": "390",
+      "correct": true
+    }
+  ],
+  "explanation": "El 65% de 600 se calcula como 600 × 65/100 = 390.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

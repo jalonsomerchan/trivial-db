@@ -1,0 +1,42 @@
+{
+  "id": "q-009943",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué instrucción o cláusula SQL se usa para calcular una media?",
+  "answers": [
+    {
+      "text": "DELETE",
+      "correct": false
+    },
+    {
+      "text": "COUNT",
+      "correct": false
+    },
+    {
+      "text": "AVG",
+      "correct": true
+    },
+    {
+      "text": "DROP TABLE",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, AVG se usa para calcular una media.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "avg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

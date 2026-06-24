@@ -1,0 +1,43 @@
+{
+  "id": "q-007346",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre ahumar, pochado, hervir y laminar, qué técnica culinaria consiste en cocinar suavemente en líquido caliente sin hervir fuerte?",
+  "answers": [
+    {
+      "text": "pochado",
+      "correct": true
+    },
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "hervir",
+      "correct": false
+    },
+    {
+      "text": "laminar",
+      "correct": false
+    }
+  ],
+  "explanation": "pochado consiste en cocinar suavemente en líquido caliente sin hervir fuerte.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "pochado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

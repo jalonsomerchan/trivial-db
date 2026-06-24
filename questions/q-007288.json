@@ -1,0 +1,43 @@
+{
+  "id": "q-007288",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre fondo oscuro, tomate, fondo claro y leche, cuál es la base principal de la salsa velouté?",
+  "answers": [
+    {
+      "text": "tomate",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": false
+    },
+    {
+      "text": "fondo claro",
+      "correct": true
+    },
+    {
+      "text": "fondo oscuro",
+      "correct": false
+    }
+  ],
+  "explanation": "La salsa velouté se basa principalmente en fondo claro.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "salsas",
+    "veloute"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

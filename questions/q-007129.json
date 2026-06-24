@@ -1,0 +1,44 @@
+{
+  "id": "q-007129",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre pescado, cereal, hortaliza y fruta, a qué grupo alimentario pertenece atún?",
+  "answers": [
+    {
+      "text": "pescado",
+      "correct": true
+    },
+    {
+      "text": "cereal",
+      "correct": false
+    },
+    {
+      "text": "fruta",
+      "correct": false
+    },
+    {
+      "text": "hortaliza",
+      "correct": false
+    }
+  ],
+  "explanation": "atún pertenece al grupo de pescado.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "atun",
+    "pescado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

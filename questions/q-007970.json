@@ -1,0 +1,43 @@
+{
+  "id": "q-007970",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Malawi?",
+  "answers": [
+    {
+      "text": "sango",
+      "correct": false
+    },
+    {
+      "text": "inglés",
+      "correct": true
+    },
+    {
+      "text": "bengalí",
+      "correct": false
+    },
+    {
+      "text": "sotho meridional",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Malawi figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "malawi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

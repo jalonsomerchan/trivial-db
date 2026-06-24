@@ -1,0 +1,42 @@
+{
+  "id": "q-009791",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente DELETE en SQL?",
+  "answers": [
+    {
+      "text": "consultar datos",
+      "correct": false
+    },
+    {
+      "text": "eliminar filas",
+      "correct": true
+    },
+    {
+      "text": "identificar filas de forma única",
+      "correct": false
+    },
+    {
+      "text": "ordenar resultados",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, DELETE sirve para eliminar filas.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "delete"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

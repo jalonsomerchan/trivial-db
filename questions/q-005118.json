@@ -1,0 +1,43 @@
+{
+  "id": "q-005118",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre San Petersburgo, Ciudad del Vaticano, Bilbao y Florencia, en qué ciudad se encuentra el Galería Uffizi?",
+  "answers": [
+    {
+      "text": "Florencia",
+      "correct": true
+    },
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    },
+    {
+      "text": "Bilbao",
+      "correct": false
+    },
+    {
+      "text": "San Petersburgo",
+      "correct": false
+    }
+  ],
+  "explanation": "El Galería Uffizi se encuentra en Florencia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "galeria-uffizi",
+    "florencia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

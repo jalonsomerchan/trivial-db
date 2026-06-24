@@ -1,0 +1,42 @@
+{
+  "id": "q-005786",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre peso, cantidad de movimiento, velocidad media y fuerza neta, qué magnitud se calcula como masa por gravedad?",
+  "answers": [
+    {
+      "text": "fuerza neta",
+      "correct": false
+    },
+    {
+      "text": "cantidad de movimiento",
+      "correct": false
+    },
+    {
+      "text": "velocidad media",
+      "correct": false
+    },
+    {
+      "text": "peso",
+      "correct": true
+    }
+  ],
+  "explanation": "peso se calcula como masa por gravedad.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "peso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

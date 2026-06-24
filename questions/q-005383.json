@@ -1,0 +1,43 @@
+{
+  "id": "q-005383",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Austria, Países Bajos, Italia y Francia, de qué país era Leonardo da Vinci?",
+  "answers": [
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": true
+    },
+    {
+      "text": "Austria",
+      "correct": false
+    },
+    {
+      "text": "Países Bajos",
+      "correct": false
+    }
+  ],
+  "explanation": "Leonardo da Vinci era de Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "leonardo-da-vinci",
+    "italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

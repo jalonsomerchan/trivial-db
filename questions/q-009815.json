@@ -1,0 +1,42 @@
+{
+  "id": "q-009815",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente el método JavaScript some()?",
+  "answers": [
+    {
+      "text": "extrae una parte sin modificar el original",
+      "correct": false
+    },
+    {
+      "text": "elimina el primer elemento de un array",
+      "correct": false
+    },
+    {
+      "text": "comprueba si algún elemento cumple una condición",
+      "correct": true
+    },
+    {
+      "text": "comprueba si todos los elementos cumplen una condición",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, some() comprueba si algún elemento cumple una condición.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "some"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

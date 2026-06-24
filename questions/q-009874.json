@@ -1,0 +1,42 @@
+{
+  "id": "q-009874",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre registrar cambios en el historial, preparar cambios para el siguiente commit, ver el estado del árbol de trabajo y cambiar de rama, para qué sirve principalmente git add?",
+  "answers": [
+    {
+      "text": "ver el estado del árbol de trabajo",
+      "correct": false
+    },
+    {
+      "text": "cambiar de rama",
+      "correct": false
+    },
+    {
+      "text": "preparar cambios para el siguiente commit",
+      "correct": true
+    },
+    {
+      "text": "registrar cambios en el historial",
+      "correct": false
+    }
+  ],
+  "explanation": "git add sirve para preparar cambios para el siguiente commit.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-add"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

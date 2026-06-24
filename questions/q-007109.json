@@ -1,0 +1,44 @@
+{
+  "id": "q-007109",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre lácteo, cereal, fruto seco y carne, a qué grupo alimentario pertenece almendra?",
+  "answers": [
+    {
+      "text": "fruto seco",
+      "correct": true
+    },
+    {
+      "text": "lácteo",
+      "correct": false
+    },
+    {
+      "text": "cereal",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": false
+    }
+  ],
+  "explanation": "almendra pertenece al grupo de fruto seco.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "almendra",
+    "fruto-seco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005863",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué función se relaciona especialmente la vitamina K?",
+  "answers": [
+    {
+      "text": "protección antioxidante",
+      "correct": false
+    },
+    {
+      "text": "formación de glóbulos rojos",
+      "correct": false
+    },
+    {
+      "text": "salud ósea",
+      "correct": false
+    },
+    {
+      "text": "coagulación sanguínea",
+      "correct": true
+    }
+  ],
+  "explanation": "La vitamina K se relaciona con coagulación sanguínea.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-k"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

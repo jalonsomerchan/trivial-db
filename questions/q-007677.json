@@ -1,0 +1,43 @@
+{
+  "id": "q-007677",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Benín, Zimbabue, Bélgica o Argelia?",
+  "answers": [
+    {
+      "text": "Bélgica",
+      "correct": false
+    },
+    {
+      "text": "Benín",
+      "correct": false
+    },
+    {
+      "text": "Argelia",
+      "correct": true
+    },
+    {
+      "text": "Zimbabue",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Argelia tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

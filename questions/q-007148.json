@@ -1,0 +1,43 @@
+{
+  "id": "q-007148",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del falafel?",
+  "answers": [
+    {
+      "text": "garbanzos",
+      "correct": true
+    },
+    {
+      "text": "col fermentada",
+      "correct": false
+    },
+    {
+      "text": "maíz",
+      "correct": false
+    },
+    {
+      "text": "aguacate",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del falafel es garbanzos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "falafel",
+    "garbanzos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

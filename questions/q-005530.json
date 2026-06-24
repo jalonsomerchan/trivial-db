@@ -1,0 +1,43 @@
+{
+  "id": "q-005530",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado tritón?",
+  "answers": [
+    {
+      "text": "insectos",
+      "correct": false
+    },
+    {
+      "text": "arácnidos",
+      "correct": false
+    },
+    {
+      "text": "anfibios",
+      "correct": true
+    },
+    {
+      "text": "reptiles",
+      "correct": false
+    }
+  ],
+  "explanation": "El tritón pertenece al grupo de los anfibios.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "anfibios",
+    "triton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006932",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre drama, crimen, acción y ciencia ficción, a qué género se asocia principalmente “Mad Max: Fury Road”?",
+  "answers": [
+    {
+      "text": "acción",
+      "correct": true
+    },
+    {
+      "text": "crimen",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mad Max: Fury Road” se asocia principalmente con acción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "mad-max-fury-road",
+    "accion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

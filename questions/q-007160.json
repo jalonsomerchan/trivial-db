@@ -1,0 +1,43 @@
+{
+  "id": "q-007160",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del pierogi?",
+  "answers": [
+    {
+      "text": "masa rellena",
+      "correct": true
+    },
+    {
+      "text": "fideos",
+      "correct": false
+    },
+    {
+      "text": "tomate y pan",
+      "correct": false
+    },
+    {
+      "text": "maíz",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del pierogi es masa rellena.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pierogi",
+    "masa-rellena"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-009690",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre OK, Bad Gateway, Not Found y Gateway Timeout, qué significa el código HTTP 504?",
+  "answers": [
+    {
+      "text": "OK",
+      "correct": false
+    },
+    {
+      "text": "Bad Gateway",
+      "correct": false
+    },
+    {
+      "text": "Not Found",
+      "correct": false
+    },
+    {
+      "text": "Gateway Timeout",
+      "correct": true
+    }
+  ],
+  "explanation": "El código HTTP 504 corresponde a Gateway Timeout.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "504"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

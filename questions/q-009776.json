@@ -1,0 +1,43 @@
+{
+  "id": "q-009776",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código HTTP corresponde a “Bad Gateway”?",
+  "answers": [
+    {
+      "text": "502",
+      "correct": true
+    },
+    {
+      "text": "200",
+      "correct": false
+    },
+    {
+      "text": "503",
+      "correct": false
+    },
+    {
+      "text": "408",
+      "correct": false
+    }
+  ],
+  "explanation": "“Bad Gateway” corresponde al código HTTP 502.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "502"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

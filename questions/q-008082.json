@@ -1,0 +1,43 @@
+{
+  "id": "q-008082",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Mahatma Gandhi, Simón Bolívar, Isabel I de Castilla y Abraham Lincoln, qué personaje histórico se asocia con independencias hispanoamericanas?",
+  "answers": [
+    {
+      "text": "Simón Bolívar",
+      "correct": true
+    },
+    {
+      "text": "Isabel I de Castilla",
+      "correct": false
+    },
+    {
+      "text": "Mahatma Gandhi",
+      "correct": false
+    },
+    {
+      "text": "Abraham Lincoln",
+      "correct": false
+    }
+  ],
+  "explanation": "Simón Bolívar se asocia con independencias hispanoamericanas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "simon-bolivar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

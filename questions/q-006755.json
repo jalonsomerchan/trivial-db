@@ -1,0 +1,42 @@
+{
+  "id": "q-006755",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre The X-Files, Seinfeld, Breaking Bad y House, qué serie se asocia con Gregory House?",
+  "answers": [
+    {
+      "text": "Seinfeld",
+      "correct": false
+    },
+    {
+      "text": "Breaking Bad",
+      "correct": false
+    },
+    {
+      "text": "House",
+      "correct": true
+    },
+    {
+      "text": "The X-Files",
+      "correct": false
+    }
+  ],
+  "explanation": "Gregory House se asocia con “House”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "gregory-house"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

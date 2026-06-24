@@ -1,0 +1,43 @@
+{
+  "id": "q-006908",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre aventura, crimen, drama romántico y animación, a qué género se asocia principalmente “Casablanca”?",
+  "answers": [
+    {
+      "text": "crimen",
+      "correct": false
+    },
+    {
+      "text": "aventura",
+      "correct": false
+    },
+    {
+      "text": "drama romántico",
+      "correct": true
+    },
+    {
+      "text": "animación",
+      "correct": false
+    }
+  ],
+  "explanation": "“Casablanca” se asocia principalmente con drama romántico.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "casablanca",
+    "drama-romantico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

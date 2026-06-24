@@ -1,0 +1,43 @@
+{
+  "id": "q-008042",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre 1969, 1848, 1588 y -480, en qué año se produjo la llegada del Apolo 11 a la Luna?",
+  "answers": [
+    {
+      "text": "-480",
+      "correct": false
+    },
+    {
+      "text": "1848",
+      "correct": false
+    },
+    {
+      "text": "1969",
+      "correct": true
+    },
+    {
+      "text": "1588",
+      "correct": false
+    }
+  ],
+  "explanation": "La llegada del Apolo 11 a la Luna se produjo en 1969.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "llegada-del-apolo-11-a-la-luna"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

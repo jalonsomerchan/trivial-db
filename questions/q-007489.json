@@ -1,0 +1,43 @@
+{
+  "id": "q-007489",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en cocinar por calor seco directo o indirecto?",
+  "answers": [
+    {
+      "text": "emulsionar",
+      "correct": false
+    },
+    {
+      "text": "reducir",
+      "correct": false
+    },
+    {
+      "text": "macerar",
+      "correct": false
+    },
+    {
+      "text": "asar",
+      "correct": true
+    }
+  ],
+  "explanation": "asar consiste en cocinar por calor seco directo o indirecto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "asar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

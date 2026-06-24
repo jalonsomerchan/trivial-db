@@ -1,0 +1,42 @@
+{
+  "id": "q-009430",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 22% de 150?",
+  "answers": [
+    {
+      "text": "38",
+      "correct": false
+    },
+    {
+      "text": "28",
+      "correct": false
+    },
+    {
+      "text": "33",
+      "correct": true
+    },
+    {
+      "text": "43",
+      "correct": false
+    }
+  ],
+  "explanation": "El 22% de 150 se calcula como 150 × 22/100 = 33.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

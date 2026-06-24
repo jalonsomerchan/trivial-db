@@ -1,0 +1,43 @@
+{
+  "id": "q-006044",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "baloncesto"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad juega como local Toronto Raptors?",
+  "answers": [
+    {
+      "text": "Toronto",
+      "correct": true
+    },
+    {
+      "text": "Memphis",
+      "correct": false
+    },
+    {
+      "text": "Boston",
+      "correct": false
+    },
+    {
+      "text": "Phoenix",
+      "correct": false
+    }
+  ],
+  "explanation": "Toronto Raptors juega como local en Toronto.",
+  "sources": [
+    {
+      "title": "NBA",
+      "url": "https://www.nba.com/"
+    }
+  ],
+  "tags": [
+    "nba",
+    "toronto-raptors",
+    "toronto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

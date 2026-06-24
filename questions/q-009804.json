@@ -1,0 +1,42 @@
+{
+  "id": "q-009804",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente el método JavaScript filter()?",
+  "answers": [
+    {
+      "text": "crea un array con elementos que cumplen una condición",
+      "correct": true
+    },
+    {
+      "text": "comprueba el final de una cadena",
+      "correct": false
+    },
+    {
+      "text": "comprueba si todos los elementos cumplen una condición",
+      "correct": false
+    },
+    {
+      "text": "añade elementos al final de un array",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, filter() crea un array con elementos que cumplen una condición.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "filter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

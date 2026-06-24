@@ -1,0 +1,42 @@
+{
+  "id": "q-008832",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué forma verbal corresponde a pretérito perfecto compuesto?",
+  "answers": [
+    {
+      "text": "yo voy a cantar",
+      "correct": false
+    },
+    {
+      "text": "que yo cantara",
+      "correct": false
+    },
+    {
+      "text": "yo canto",
+      "correct": false
+    },
+    {
+      "text": "yo he cantado",
+      "correct": true
+    }
+  ],
+  "explanation": "La forma “yo he cantado” corresponde a pretérito perfecto compuesto.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-perfecto-compuesto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

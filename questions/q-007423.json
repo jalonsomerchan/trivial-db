@@ -1,0 +1,43 @@
+{
+  "id": "q-007423",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre paella, tzatziki, arepa y kimchi, qué plato se asocia con Corea y col fermentada?",
+  "answers": [
+    {
+      "text": "arepa",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": true
+    },
+    {
+      "text": "paella",
+      "correct": false
+    },
+    {
+      "text": "tzatziki",
+      "correct": false
+    }
+  ],
+  "explanation": "El kimchi se asocia con Corea y con col fermentada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "corea",
+    "col-fermentada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

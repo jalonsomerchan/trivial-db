@@ -1,0 +1,43 @@
+{
+  "id": "q-005386",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Bélgica, España, México y Noruega, de qué país era René Magritte?",
+  "answers": [
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Noruega",
+      "correct": false
+    },
+    {
+      "text": "Bélgica",
+      "correct": true
+    },
+    {
+      "text": "México",
+      "correct": false
+    }
+  ],
+  "explanation": "René Magritte era de Bélgica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "rene-magritte",
+    "belgica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

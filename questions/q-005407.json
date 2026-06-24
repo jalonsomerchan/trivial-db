@@ -1,0 +1,43 @@
+{
+  "id": "q-005407",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Italia, Reino Unido, Ciudad del Vaticano y Alemania, en qué país está el Pergamonmuseum?",
+  "answers": [
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Alemania",
+      "correct": true
+    },
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    }
+  ],
+  "explanation": "El Pergamonmuseum está en Alemania.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "pergamonmuseum",
+    "alemania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009216",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 18 y 47?",
+  "answers": [
+    {
+      "text": "846",
+      "correct": true
+    },
+    {
+      "text": "864",
+      "correct": false
+    },
+    {
+      "text": "47",
+      "correct": false
+    },
+    {
+      "text": "799",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 18 y 47 es 846.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

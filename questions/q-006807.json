@@ -1,0 +1,42 @@
+{
+  "id": "q-006807",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué serie se asocia con Sherlock Holmes?",
+  "answers": [
+    {
+      "text": "Stranger Things",
+      "correct": false
+    },
+    {
+      "text": "Sherlock",
+      "correct": true
+    },
+    {
+      "text": "Game of Thrones",
+      "correct": false
+    },
+    {
+      "text": "The X-Files",
+      "correct": false
+    }
+  ],
+  "explanation": "Sherlock Holmes se asocia con “Sherlock”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "sherlock-holmes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

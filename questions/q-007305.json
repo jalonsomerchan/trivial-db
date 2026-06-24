@@ -1,0 +1,43 @@
+{
+  "id": "q-007305",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre transformar alimentos por acción de microorganismos, cocinar por calor seco directo o indirecto, cocinar rápido con poca grasa y fuego alto y cocinar en líquido en ebullición, qué significa asar en cocina?",
+  "answers": [
+    {
+      "text": "cocinar rápido con poca grasa y fuego alto",
+      "correct": false
+    },
+    {
+      "text": "cocinar en líquido en ebullición",
+      "correct": false
+    },
+    {
+      "text": "cocinar por calor seco directo o indirecto",
+      "correct": true
+    },
+    {
+      "text": "transformar alimentos por acción de microorganismos",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, asar significa cocinar por calor seco directo o indirecto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "asar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

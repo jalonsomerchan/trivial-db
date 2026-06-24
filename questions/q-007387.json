@@ -1,0 +1,43 @@
+{
+  "id": "q-007387",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre freír, emulsionar, laminar y reducir, qué técnica culinaria consiste en unir líquidos que normalmente no se mezclan?",
+  "answers": [
+    {
+      "text": "emulsionar",
+      "correct": true
+    },
+    {
+      "text": "laminar",
+      "correct": false
+    },
+    {
+      "text": "freír",
+      "correct": false
+    },
+    {
+      "text": "reducir",
+      "correct": false
+    }
+  ],
+  "explanation": "emulsionar consiste en unir líquidos que normalmente no se mezclan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "emulsionar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

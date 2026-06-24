@@ -1,0 +1,43 @@
+{
+  "id": "q-005409",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Italia, Rusia, Francia y Países Bajos, en qué país está el Hermitage?",
+  "answers": [
+    {
+      "text": "Países Bajos",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": true
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    }
+  ],
+  "explanation": "El Hermitage está en Rusia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "hermitage",
+    "rusia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

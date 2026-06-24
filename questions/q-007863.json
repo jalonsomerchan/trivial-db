@@ -1,0 +1,43 @@
+{
+  "id": "q-007863",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país tiene frontera terrestre Sri Lanka?",
+  "answers": [
+    {
+      "text": "Camboya",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": true
+    },
+    {
+      "text": "Emiratos Árabes Unidos",
+      "correct": false
+    },
+    {
+      "text": "Kirguizistán",
+      "correct": false
+    }
+  ],
+  "explanation": "Sri Lanka comparte frontera terrestre con India.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "fronteras",
+    "sri-lanka"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009265",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 24389?",
+  "answers": [
+    {
+      "text": "31",
+      "correct": false
+    },
+    {
+      "text": "28",
+      "correct": false
+    },
+    {
+      "text": "30",
+      "correct": false
+    },
+    {
+      "text": "29",
+      "correct": true
+    }
+  ],
+  "explanation": "Como 29³ = 24389, la raíz cúbica de 24389 es 29.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

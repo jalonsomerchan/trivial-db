@@ -1,0 +1,42 @@
+{
+  "id": "q-005970",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre sistema respiratorio, sistema visual, sistema nervioso y sistema circulatorio, a qué sistema pertenece principalmente la retina?",
+  "answers": [
+    {
+      "text": "sistema circulatorio",
+      "correct": false
+    },
+    {
+      "text": "sistema visual",
+      "correct": true
+    },
+    {
+      "text": "sistema nervioso",
+      "correct": false
+    },
+    {
+      "text": "sistema respiratorio",
+      "correct": false
+    }
+  ],
+  "explanation": "La retina pertenece principalmente al sistema visual.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "sistema-visual"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

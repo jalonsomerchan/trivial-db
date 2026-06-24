@@ -1,0 +1,43 @@
+{
+  "id": "q-007669",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Afganistán, Bermudas, Guinea o Serbia?",
+  "answers": [
+    {
+      "text": "Serbia",
+      "correct": false
+    },
+    {
+      "text": "Bermudas",
+      "correct": false
+    },
+    {
+      "text": "Guinea",
+      "correct": false
+    },
+    {
+      "text": "Afganistán",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre las opciones, Afganistán tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

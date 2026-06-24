@@ -1,0 +1,42 @@
+{
+  "id": "q-005550",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre corazón, pulmones, hipófisis y tiroides, qué órgano se encarga principalmente de producir hormonas que regulan el metabolismo?",
+  "answers": [
+    {
+      "text": "corazón",
+      "correct": false
+    },
+    {
+      "text": "tiroides",
+      "correct": true
+    },
+    {
+      "text": "pulmones",
+      "correct": false
+    },
+    {
+      "text": "hipófisis",
+      "correct": false
+    }
+  ],
+  "explanation": "La tiroides se encarga principalmente de producir hormonas que regulan el metabolismo.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "tiroides"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

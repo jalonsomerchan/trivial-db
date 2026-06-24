@@ -1,0 +1,43 @@
+{
+  "id": "q-007990",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Suecia?",
+  "answers": [
+    {
+      "text": "sueco",
+      "correct": true
+    },
+    {
+      "text": "setsuana",
+      "correct": false
+    },
+    {
+      "text": "maltés",
+      "correct": false
+    },
+    {
+      "text": "búlgaro",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Suecia figura el sueco.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "suecia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

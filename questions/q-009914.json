@@ -1,0 +1,42 @@
+{
+  "id": "q-009914",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <option>?",
+  "answers": [
+    {
+      "text": "insertar o enlazar JavaScript",
+      "correct": false
+    },
+    {
+      "text": "definir una fila de tabla",
+      "correct": false
+    },
+    {
+      "text": "dibujar gráficos por script",
+      "correct": false
+    },
+    {
+      "text": "definir una opción seleccionable",
+      "correct": true
+    }
+  ],
+  "explanation": "En HTML, <option> sirve para definir una opción seleccionable.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "option"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

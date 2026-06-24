@@ -1,0 +1,43 @@
+{
+  "id": "q-006558",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Isabel II, Daenerys Targaryen, Sherlock Holmes y Rachel Green, qué personaje se asocia con la serie “Friends”?",
+  "answers": [
+    {
+      "text": "Sherlock Holmes",
+      "correct": false
+    },
+    {
+      "text": "Isabel II",
+      "correct": false
+    },
+    {
+      "text": "Daenerys Targaryen",
+      "correct": false
+    },
+    {
+      "text": "Rachel Green",
+      "correct": true
+    }
+  ],
+  "explanation": "Rachel Green es un personaje asociado con “Friends”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "friends",
+    "rachel-green"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009282",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuánto vale x si 2x + 25 = 157?",
+  "answers": [
+    {
+      "text": "66",
+      "correct": true
+    },
+    {
+      "text": "65",
+      "correct": false
+    },
+    {
+      "text": "68",
+      "correct": false
+    },
+    {
+      "text": "67",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 25 y dividiendo entre 2, se obtiene x = 66.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-006671",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Avatar, Matrix, El viaje de Chihiro y Psicosis, qué película fue dirigida por Hayao Miyazaki?",
+  "answers": [
+    {
+      "text": "El viaje de Chihiro",
+      "correct": true
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    },
+    {
+      "text": "Psicosis",
+      "correct": false
+    },
+    {
+      "text": "Avatar",
+      "correct": false
+    }
+  ],
+  "explanation": "Hayao Miyazaki dirigió “El viaje de Chihiro”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "hayao-miyazaki"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

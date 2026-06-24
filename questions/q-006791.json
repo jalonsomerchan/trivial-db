@@ -1,0 +1,42 @@
+{
+  "id": "q-006791",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Peter Jackson?",
+  "answers": [
+    {
+      "text": "Mi vecino Totoro",
+      "correct": false
+    },
+    {
+      "text": "Pulp Fiction",
+      "correct": false
+    },
+    {
+      "text": "El señor de los anillos: la comunidad del anillo",
+      "correct": true
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "Peter Jackson dirigió “El señor de los anillos: la comunidad del anillo”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "peter-jackson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

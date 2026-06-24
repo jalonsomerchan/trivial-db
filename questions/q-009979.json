@@ -1,0 +1,42 @@
+{
+  "id": "q-009979",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS alinea elementos en el eje transversal?",
+  "answers": [
+    {
+      "text": "transform",
+      "correct": false
+    },
+    {
+      "text": "transition",
+      "correct": false
+    },
+    {
+      "text": "overflow",
+      "correct": false
+    },
+    {
+      "text": "align-items",
+      "correct": true
+    }
+  ],
+  "explanation": "La propiedad CSS align-items alinea elementos en el eje transversal.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "align-items"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

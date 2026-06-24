@@ -1,0 +1,41 @@
+{
+  "id": "q-009349",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto vale el 20% de 180?",
+  "answers": [
+    {
+      "text": "41",
+      "correct": false
+    },
+    {
+      "text": "31",
+      "correct": false
+    },
+    {
+      "text": "36",
+      "correct": true
+    },
+    {
+      "text": "46",
+      "correct": false
+    }
+  ],
+  "explanation": "20% de 180 es 36.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

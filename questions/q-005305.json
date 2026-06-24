@@ -1,0 +1,43 @@
+{
+  "id": "q-005305",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista se vincula con Barroco y Italia?",
+  "answers": [
+    {
+      "text": "Leonardo da Vinci",
+      "correct": false
+    },
+    {
+      "text": "Piet Mondrian",
+      "correct": false
+    },
+    {
+      "text": "Pierre-Auguste Renoir",
+      "correct": false
+    },
+    {
+      "text": "Caravaggio",
+      "correct": true
+    }
+  ],
+  "explanation": "Caravaggio se vincula con Barroco y Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "barroco",
+    "italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008873",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre frío, aceptar, comprar y cerca, qué palabra tiene significado opuesto a “rechazar”?",
+  "answers": [
+    {
+      "text": "aceptar",
+      "correct": true
+    },
+    {
+      "text": "frío",
+      "correct": false
+    },
+    {
+      "text": "cerca",
+      "correct": false
+    },
+    {
+      "text": "comprar",
+      "correct": false
+    }
+  ],
+  "explanation": "“aceptar” y “rechazar” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "aceptar",
+    "rechazar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

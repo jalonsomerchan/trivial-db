@@ -1,0 +1,42 @@
+{
+  "id": "q-005497",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué rasgo se asocia con el Postimpresionismo?",
+  "answers": [
+    {
+      "text": "uso intenso y no naturalista del color",
+      "correct": false
+    },
+    {
+      "text": "búsqueda de formas expresivas más personales",
+      "correct": true
+    },
+    {
+      "text": "imágenes vinculadas al sueño y al inconsciente",
+      "correct": false
+    },
+    {
+      "text": "primacía de la idea sobre el objeto",
+      "correct": false
+    }
+  ],
+  "explanation": "Un rasgo del Postimpresionismo es búsqueda de formas expresivas más personales.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "postimpresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

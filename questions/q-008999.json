@@ -1,0 +1,42 @@
+{
+  "id": "q-008999",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué tiempo verbal aparece en “yo he cantado”?",
+  "answers": [
+    {
+      "text": "futuro simple",
+      "correct": false
+    },
+    {
+      "text": "pretérito perfecto simple",
+      "correct": false
+    },
+    {
+      "text": "pretérito perfecto compuesto",
+      "correct": true
+    },
+    {
+      "text": "perífrasis de gerundio",
+      "correct": false
+    }
+  ],
+  "explanation": "“yo he cantado” está en pretérito perfecto compuesto.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-perfecto-compuesto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009812",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente el método JavaScript replace()?",
+  "answers": [
+    {
+      "text": "elimina el primer elemento de un array",
+      "correct": false
+    },
+    {
+      "text": "comprueba si algún elemento cumple una condición",
+      "correct": false
+    },
+    {
+      "text": "sustituye coincidencias en una cadena",
+      "correct": true
+    },
+    {
+      "text": "comprueba el comienzo de una cadena",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, replace() sustituye coincidencias en una cadena.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "replace"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

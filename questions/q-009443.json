@@ -1,0 +1,42 @@
+{
+  "id": "q-009443",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 24% de 200?",
+  "answers": [
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "48",
+      "correct": true
+    },
+    {
+      "text": "43",
+      "correct": false
+    },
+    {
+      "text": "53",
+      "correct": false
+    }
+  ],
+  "explanation": "El 24% de 200 se calcula como 200 × 24/100 = 48.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

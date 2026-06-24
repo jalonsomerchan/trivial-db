@@ -1,0 +1,42 @@
+{
+  "id": "q-009810",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente el método JavaScript push()?",
+  "answers": [
+    {
+      "text": "añade elementos al inicio de un array",
+      "correct": false
+    },
+    {
+      "text": "elimina el primer elemento de un array",
+      "correct": false
+    },
+    {
+      "text": "añade elementos al final de un array",
+      "correct": true
+    },
+    {
+      "text": "elimina el último elemento de un array",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, push() añade elementos al final de un array.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "push"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

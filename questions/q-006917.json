@@ -1,0 +1,43 @@
+{
+  "id": "q-006917",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre ciencia ficción, thriller, crimen y acción, a qué género se asocia principalmente “Avatar”?",
+  "answers": [
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    },
+    {
+      "text": "acción",
+      "correct": false
+    },
+    {
+      "text": "thriller",
+      "correct": false
+    },
+    {
+      "text": "crimen",
+      "correct": false
+    }
+  ],
+  "explanation": "“Avatar” se asocia principalmente con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "avatar",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

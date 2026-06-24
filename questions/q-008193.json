@@ -1,0 +1,42 @@
+{
+  "id": "q-008193",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la llegada del Apolo 11 a la Luna?",
+  "answers": [
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "creación de la Unión Europea por el Tratado de Maastricht",
+      "correct": false
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": true
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    }
+  ],
+  "explanation": "batalla de Salamina ocurrió antes que la llegada del Apolo 11 a la Luna.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-005926",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Urano, Júpiter, Tierra y Saturno, de qué cuerpo celeste es satélite Umbriel?",
+  "answers": [
+    {
+      "text": "Saturno",
+      "correct": false
+    },
+    {
+      "text": "Tierra",
+      "correct": false
+    },
+    {
+      "text": "Urano",
+      "correct": true
+    },
+    {
+      "text": "Júpiter",
+      "correct": false
+    }
+  ],
+  "explanation": "Umbriel es un satélite natural de Urano.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "umbriel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

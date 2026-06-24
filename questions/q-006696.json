@@ -1,0 +1,42 @@
+{
+  "id": "q-006696",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Friends, Game of Thrones, Seinfeld y The X-Files, qué serie se asocia con Jerry Seinfeld?",
+  "answers": [
+    {
+      "text": "Game of Thrones",
+      "correct": false
+    },
+    {
+      "text": "Seinfeld",
+      "correct": true
+    },
+    {
+      "text": "The X-Files",
+      "correct": false
+    },
+    {
+      "text": "Friends",
+      "correct": false
+    }
+  ],
+  "explanation": "Jerry Seinfeld se asocia con “Seinfeld”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "jerry-seinfeld"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

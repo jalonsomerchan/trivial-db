@@ -1,0 +1,42 @@
+{
+  "id": "q-009304",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuánto vale x si 5x + 21 = 326?",
+  "answers": [
+    {
+      "text": "60",
+      "correct": false
+    },
+    {
+      "text": "63",
+      "correct": false
+    },
+    {
+      "text": "62",
+      "correct": false
+    },
+    {
+      "text": "61",
+      "correct": true
+    }
+  ],
+  "explanation": "Restando 21 y dividiendo entre 5, se obtiene x = 61.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

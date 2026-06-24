@@ -1,0 +1,42 @@
+{
+  "id": "q-005730",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre W = F·d, f = 1/T, a = Δv/Δt y P = m·g, qué expresión representa frecuencia?",
+  "answers": [
+    {
+      "text": "a = Δv/Δt",
+      "correct": false
+    },
+    {
+      "text": "f = 1/T",
+      "correct": true
+    },
+    {
+      "text": "W = F·d",
+      "correct": false
+    },
+    {
+      "text": "P = m·g",
+      "correct": false
+    }
+  ],
+  "explanation": "La expresión habitual de frecuencia es f = 1/T.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "frecuencia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

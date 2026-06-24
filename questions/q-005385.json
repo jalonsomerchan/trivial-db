@@ -1,0 +1,43 @@
+{
+  "id": "q-005385",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Bélgica, Austria, Noruega y Italia, de qué país era Rafael Sanzio?",
+  "answers": [
+    {
+      "text": "Italia",
+      "correct": true
+    },
+    {
+      "text": "Austria",
+      "correct": false
+    },
+    {
+      "text": "Noruega",
+      "correct": false
+    },
+    {
+      "text": "Bélgica",
+      "correct": false
+    }
+  ],
+  "explanation": "Rafael Sanzio era de Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "rafael-sanzio",
+    "italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

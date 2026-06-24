@@ -1,0 +1,42 @@
+{
+  "id": "q-006826",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Nathan Drake?",
+  "answers": [
+    {
+      "text": "Uncharted",
+      "correct": true
+    },
+    {
+      "text": "Metroid",
+      "correct": false
+    },
+    {
+      "text": "Crash Bandicoot",
+      "correct": false
+    },
+    {
+      "text": "Street Fighter II",
+      "correct": false
+    }
+  ],
+  "explanation": "Nathan Drake se asocia con “Uncharted”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "nathan-drake"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

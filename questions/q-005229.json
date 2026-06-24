@@ -1,0 +1,42 @@
+{
+  "id": "q-005229",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Metropolitan Museum of Art, Van Gogh Museum, Museo del Louvre y Alte Pinakothek, qué museo se encuentra en Múnich?",
+  "answers": [
+    {
+      "text": "Metropolitan Museum of Art",
+      "correct": false
+    },
+    {
+      "text": "Alte Pinakothek",
+      "correct": true
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": false
+    },
+    {
+      "text": "Van Gogh Museum",
+      "correct": false
+    }
+  ],
+  "explanation": "En Múnich se encuentra el Alte Pinakothek.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "munich"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

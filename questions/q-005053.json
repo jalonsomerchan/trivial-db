@@ -1,0 +1,43 @@
+{
+  "id": "q-005053",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Barroco, Postimpresionismo, Abstracción y Expresionismo, con qué movimiento artístico se asocia Paul Cézanne?",
+  "answers": [
+    {
+      "text": "Abstracción",
+      "correct": false
+    },
+    {
+      "text": "Barroco",
+      "correct": false
+    },
+    {
+      "text": "Postimpresionismo",
+      "correct": true
+    },
+    {
+      "text": "Expresionismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Paul Cézanne se asocia habitualmente con Postimpresionismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "paul-cezanne",
+    "postimpresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

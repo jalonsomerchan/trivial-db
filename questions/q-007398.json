@@ -1,0 +1,43 @@
+{
+  "id": "q-007398",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre gratinar, hervir, ahumar y freír, qué técnica culinaria consiste en cocinar en grasa caliente?",
+  "answers": [
+    {
+      "text": "hervir",
+      "correct": false
+    },
+    {
+      "text": "freír",
+      "correct": true
+    },
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "gratinar",
+      "correct": false
+    }
+  ],
+  "explanation": "freír consiste en cocinar en grasa caliente.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "freir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

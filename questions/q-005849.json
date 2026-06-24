@@ -1,0 +1,42 @@
+{
+  "id": "q-005849",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué sistema pertenece principalmente el páncreas?",
+  "answers": [
+    {
+      "text": "sistema respiratorio",
+      "correct": false
+    },
+    {
+      "text": "sistema circulatorio",
+      "correct": false
+    },
+    {
+      "text": "sistema endocrino",
+      "correct": true
+    },
+    {
+      "text": "sistema urinario",
+      "correct": false
+    }
+  ],
+  "explanation": "El páncreas pertenece principalmente al sistema endocrino.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "sistema-endocrino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

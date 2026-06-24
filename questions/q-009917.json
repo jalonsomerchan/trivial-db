@@ -1,0 +1,42 @@
+{
+  "id": "q-009917",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <select>?",
+  "answers": [
+    {
+      "text": "marcar el contenido principal",
+      "correct": false
+    },
+    {
+      "text": "crear una tabla",
+      "correct": false
+    },
+    {
+      "text": "crear una lista desplegable",
+      "correct": true
+    },
+    {
+      "text": "insertar audio",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <select> sirve para crear una lista desplegable.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "select"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

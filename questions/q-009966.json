@@ -1,0 +1,42 @@
+{
+  "id": "q-009966",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método de JavaScript crea un nuevo array transformando cada elemento?",
+  "answers": [
+    {
+      "text": "map()",
+      "correct": true
+    },
+    {
+      "text": "pop()",
+      "correct": false
+    },
+    {
+      "text": "push()",
+      "correct": false
+    },
+    {
+      "text": "unshift()",
+      "correct": false
+    }
+  ],
+  "explanation": "El método map() crea un nuevo array transformando cada elemento.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "map"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008498",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre siglo XVII, siglo XVIII, siglo V y siglo I a. C., a qué siglo pertenece el año 1648?",
+  "answers": [
+    {
+      "text": "siglo XVII",
+      "correct": true
+    },
+    {
+      "text": "siglo I a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo V",
+      "correct": false
+    },
+    {
+      "text": "siglo XVIII",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1648 pertenece al siglo XVII.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

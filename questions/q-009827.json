@@ -1,0 +1,43 @@
+{
+  "id": "q-009827",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué significa el código HTTP 403?",
+  "answers": [
+    {
+      "text": "No Content",
+      "correct": false
+    },
+    {
+      "text": "I’m a teapot",
+      "correct": false
+    },
+    {
+      "text": "Gone",
+      "correct": false
+    },
+    {
+      "text": "Forbidden",
+      "correct": true
+    }
+  ],
+  "explanation": "El código HTTP 403 corresponde a Forbidden.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "403"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-007798",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Nouméa, Nairobi, Montevideo o St. Peter Port?",
+  "answers": [
+    {
+      "text": "St. Peter Port",
+      "correct": true
+    },
+    {
+      "text": "Nouméa",
+      "correct": false
+    },
+    {
+      "text": "Montevideo",
+      "correct": false
+    },
+    {
+      "text": "Nairobi",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, St. Peter Port es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

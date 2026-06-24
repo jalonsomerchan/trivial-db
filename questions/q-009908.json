@@ -1,0 +1,42 @@
+{
+  "id": "q-009908",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <li>?",
+  "answers": [
+    {
+      "text": "incluir gráficos vectoriales",
+      "correct": false
+    },
+    {
+      "text": "marcar contenido independiente",
+      "correct": false
+    },
+    {
+      "text": "definir un elemento de lista",
+      "correct": true
+    },
+    {
+      "text": "crear un enlace",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <li> sirve para definir un elemento de lista.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "li"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

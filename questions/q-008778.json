@@ -1,0 +1,42 @@
+{
+  "id": "q-008778",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre yo canté, yo había cantado, yo voy a cantar y yo canto, qué forma verbal corresponde a pretérito pluscuamperfecto?",
+  "answers": [
+    {
+      "text": "yo voy a cantar",
+      "correct": false
+    },
+    {
+      "text": "yo canté",
+      "correct": false
+    },
+    {
+      "text": "yo había cantado",
+      "correct": true
+    },
+    {
+      "text": "yo canto",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo había cantado” corresponde a pretérito pluscuamperfecto.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-pluscuamperfecto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

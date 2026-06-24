@@ -1,0 +1,42 @@
+{
+  "id": "q-009312",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuánto vale x si 6x + 29 = 527?",
+  "answers": [
+    {
+      "text": "83",
+      "correct": true
+    },
+    {
+      "text": "82",
+      "correct": false
+    },
+    {
+      "text": "84",
+      "correct": false
+    },
+    {
+      "text": "85",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 29 y dividiendo entre 6, se obtiene x = 83.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

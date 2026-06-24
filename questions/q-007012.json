@@ -1,0 +1,44 @@
+{
+  "id": "q-007012",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo alimentario pertenece garbanzos?",
+  "answers": [
+    {
+      "text": "hortaliza",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": false
+    },
+    {
+      "text": "legumbre",
+      "correct": true
+    },
+    {
+      "text": "lácteo",
+      "correct": false
+    }
+  ],
+  "explanation": "garbanzos pertenece al grupo de legumbre.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "garbanzos",
+    "legumbre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005480",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué define principalmente a un fábula?",
+  "answers": [
+    {
+      "text": "relato de la propia vida",
+      "correct": false
+    },
+    {
+      "text": "composición lírica de lamento",
+      "correct": false
+    },
+    {
+      "text": "relato breve con moraleja",
+      "correct": true
+    },
+    {
+      "text": "relato de la vida de una persona",
+      "correct": false
+    }
+  ],
+  "explanation": "Un fábula se define como relato breve con moraleja.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "fabula"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

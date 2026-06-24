@@ -1,0 +1,43 @@
+{
+  "id": "q-008462",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Guerra Fría, siglo XIX, Roma antigua y Guerras Médicas, con qué contexto histórico se asocia la construcción del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "siglo XIX",
+      "correct": false
+    },
+    {
+      "text": "Roma antigua",
+      "correct": false
+    },
+    {
+      "text": "Guerra Fría",
+      "correct": true
+    },
+    {
+      "text": "Guerras Médicas",
+      "correct": false
+    }
+  ],
+  "explanation": "La construcción del Muro de Berlín se asocia con Guerra Fría.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerra-fria",
+    "construccion-del-muro-de-berlin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006866",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente “Kill Bill”?",
+  "answers": [
+    {
+      "text": "musical",
+      "correct": false
+    },
+    {
+      "text": "thriller",
+      "correct": false
+    },
+    {
+      "text": "suspense",
+      "correct": false
+    },
+    {
+      "text": "acción",
+      "correct": true
+    }
+  ],
+  "explanation": "“Kill Bill” se asocia principalmente con acción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "kill-bill",
+    "accion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-005257",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Pablo Picasso, Andy Warhol, Gustav Klimt y Joan Miró, qué artista se vincula con Cubismo y España?",
+  "answers": [
+    {
+      "text": "Joan Miró",
+      "correct": false
+    },
+    {
+      "text": "Pablo Picasso",
+      "correct": true
+    },
+    {
+      "text": "Gustav Klimt",
+      "correct": false
+    },
+    {
+      "text": "Andy Warhol",
+      "correct": false
+    }
+  ],
+  "explanation": "Pablo Picasso se vincula con Cubismo y España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "cubismo",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009343",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "estadistica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la media aritmética de 51, 58 y 62?",
+  "answers": [
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "171",
+      "correct": false
+    },
+    {
+      "text": "57",
+      "correct": true
+    },
+    {
+      "text": "56",
+      "correct": false
+    }
+  ],
+  "explanation": "La media se obtiene sumando los tres números y dividiendo entre 3: (51+58+62)/3 = 57.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "media",
+    "estadistica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

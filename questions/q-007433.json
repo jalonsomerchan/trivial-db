@@ -1,0 +1,43 @@
+{
+  "id": "q-007433",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre ramen, salmorejo, risotto y kimchi, qué plato se asocia con España y tomate y pan?",
+  "answers": [
+    {
+      "text": "salmorejo",
+      "correct": true
+    },
+    {
+      "text": "ramen",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    }
+  ],
+  "explanation": "El salmorejo se asocia con España y con tomate y pan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "espana",
+    "tomate-y-pan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

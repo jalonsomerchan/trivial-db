@@ -1,0 +1,42 @@
+{
+  "id": "q-006170",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "formula-1"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Albert Park, Silverstone, Monza y Yas Marina, qué circuito se asocia con el Gran Premio de Abu Dabi?",
+  "answers": [
+    {
+      "text": "Monza",
+      "correct": false
+    },
+    {
+      "text": "Yas Marina",
+      "correct": true
+    },
+    {
+      "text": "Albert Park",
+      "correct": false
+    },
+    {
+      "text": "Silverstone",
+      "correct": false
+    }
+  ],
+  "explanation": "El Gran Premio de Abu Dabi se asocia con el circuito de Yas Marina.",
+  "sources": [
+    {
+      "title": "Formula 1",
+      "url": "https://www.formula1.com/"
+    }
+  ],
+  "tags": [
+    "formula-1",
+    "yas-marina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

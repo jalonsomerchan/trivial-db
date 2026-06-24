@@ -1,0 +1,43 @@
+{
+  "id": "q-007925",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Puerto Rico?",
+  "answers": [
+    {
+      "text": "Polynesia",
+      "correct": false
+    },
+    {
+      "text": "Northern Africa",
+      "correct": false
+    },
+    {
+      "text": "Caribbean",
+      "correct": true
+    },
+    {
+      "text": "Southern Asia",
+      "correct": false
+    }
+  ],
+  "explanation": "Puerto Rico pertenece a la subregión Caribbean.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "puerto-rico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

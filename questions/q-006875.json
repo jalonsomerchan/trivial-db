@@ -1,0 +1,43 @@
+{
+  "id": "q-006875",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente “Pulp Fiction”?",
+  "answers": [
+    {
+      "text": "fantasía",
+      "correct": false
+    },
+    {
+      "text": "superhéroes",
+      "correct": false
+    },
+    {
+      "text": "crimen",
+      "correct": true
+    },
+    {
+      "text": "drama romántico",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pulp Fiction” se asocia principalmente con crimen.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "pulp-fiction",
+    "crimen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

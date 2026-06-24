@@ -1,0 +1,44 @@
+{
+  "id": "q-007774",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Havana, Washington D.C., Tbilisi o City of Victoria?",
+  "answers": [
+    {
+      "text": "Tbilisi",
+      "correct": true
+    },
+    {
+      "text": "City of Victoria",
+      "correct": false
+    },
+    {
+      "text": "Washington D.C.",
+      "correct": false
+    },
+    {
+      "text": "Havana",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Tbilisi es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

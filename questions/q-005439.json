@@ -1,0 +1,42 @@
+{
+  "id": "q-005439",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre fragmentación geométrica de las formas, uso de imágenes de la cultura de masas, primacía de la idea sobre el objeto y exaltación del sentimiento y la libertad, qué rasgo se asocia con el Cubismo?",
+  "answers": [
+    {
+      "text": "fragmentación geométrica de las formas",
+      "correct": true
+    },
+    {
+      "text": "primacía de la idea sobre el objeto",
+      "correct": false
+    },
+    {
+      "text": "uso de imágenes de la cultura de masas",
+      "correct": false
+    },
+    {
+      "text": "exaltación del sentimiento y la libertad",
+      "correct": false
+    }
+  ],
+  "explanation": "Un rasgo del Cubismo es fragmentación geométrica de las formas.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "cubismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

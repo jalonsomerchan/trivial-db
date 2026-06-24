@@ -1,0 +1,43 @@
+{
+  "id": "q-008245",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre 1861, 79, 1648 y 313, en qué año se produjo la edicto de Milán?",
+  "answers": [
+    {
+      "text": "1861",
+      "correct": false
+    },
+    {
+      "text": "79",
+      "correct": false
+    },
+    {
+      "text": "313",
+      "correct": true
+    },
+    {
+      "text": "1648",
+      "correct": false
+    }
+  ],
+  "explanation": "La edicto de Milán se produjo en 313.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "edicto-de-milan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

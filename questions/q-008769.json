@@ -1,0 +1,42 @@
+{
+  "id": "q-008769",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre yo canto, yo cantaba, que yo cantara y yo estoy cantando, qué forma verbal corresponde a presente?",
+  "answers": [
+    {
+      "text": "yo canto",
+      "correct": true
+    },
+    {
+      "text": "que yo cantara",
+      "correct": false
+    },
+    {
+      "text": "yo cantaba",
+      "correct": false
+    },
+    {
+      "text": "yo estoy cantando",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo canto” corresponde a presente.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "presente"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

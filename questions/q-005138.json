@@ -1,0 +1,43 @@
+{
+  "id": "q-005138",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Ámsterdam, Nueva York, Ciudad del Vaticano y Londres, en qué ciudad se encuentra el Van Gogh Museum?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Ámsterdam",
+      "correct": true
+    },
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "El Van Gogh Museum se encuentra en Ámsterdam.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "van-gogh-museum",
+    "amsterdam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

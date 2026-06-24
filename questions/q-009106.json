@@ -1,0 +1,42 @@
+{
+  "id": "q-009106",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 60 + 89?",
+  "answers": [
+    {
+      "text": "149",
+      "correct": true
+    },
+    {
+      "text": "147",
+      "correct": false
+    },
+    {
+      "text": "151",
+      "correct": false
+    },
+    {
+      "text": "159",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 60 y 89 es 149.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008934",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente el signo llamado dos puntos?",
+  "answers": [
+    {
+      "text": "delimitar citas o usos especiales",
+      "correct": false
+    },
+    {
+      "text": "marcar intervenciones o incisos",
+      "correct": false
+    },
+    {
+      "text": "indicar interrupción o suspensión",
+      "correct": false
+    },
+    {
+      "text": "introducir una enumeración o explicación",
+      "correct": true
+    }
+  ],
+  "explanation": "El dos puntos se usa principalmente para introducir una enumeración o explicación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "dos-puntos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

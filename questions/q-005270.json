@@ -1,0 +1,43 @@
+{
+  "id": "q-005270",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Piet Mondrian, Gustav Klimt, Jackson Pollock y Rembrandt, qué artista se vincula con Expresionismo abstracto y Estados Unidos?",
+  "answers": [
+    {
+      "text": "Gustav Klimt",
+      "correct": false
+    },
+    {
+      "text": "Rembrandt",
+      "correct": false
+    },
+    {
+      "text": "Piet Mondrian",
+      "correct": false
+    },
+    {
+      "text": "Jackson Pollock",
+      "correct": true
+    }
+  ],
+  "explanation": "Jackson Pollock se vincula con Expresionismo abstracto y Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "expresionismo-abstracto",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

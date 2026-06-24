@@ -1,0 +1,43 @@
+{
+  "id": "q-007922",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Mónaco?",
+  "answers": [
+    {
+      "text": "Western Europe",
+      "correct": true
+    },
+    {
+      "text": "Central America",
+      "correct": false
+    },
+    {
+      "text": "Western Asia",
+      "correct": false
+    },
+    {
+      "text": "Melanesia",
+      "correct": false
+    }
+  ],
+  "explanation": "Mónaco pertenece a la subregión Western Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "monaco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

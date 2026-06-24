@@ -1,0 +1,42 @@
+{
+  "id": "q-009369",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "fracciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fracción equivale aproximadamente a 0.68?",
+  "answers": [
+    {
+      "text": "17/26",
+      "correct": false
+    },
+    {
+      "text": "17/25",
+      "correct": true
+    },
+    {
+      "text": "25/17",
+      "correct": false
+    },
+    {
+      "text": "18/25",
+      "correct": false
+    }
+  ],
+  "explanation": "17/25 equivale aproximadamente a 0.68.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "fracciones",
+    "decimales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

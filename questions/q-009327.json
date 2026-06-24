@@ -1,0 +1,42 @@
+{
+  "id": "q-009327",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuánto vale x si 9x + 15 = 204?",
+  "answers": [
+    {
+      "text": "22",
+      "correct": false
+    },
+    {
+      "text": "20",
+      "correct": false
+    },
+    {
+      "text": "21",
+      "correct": true
+    },
+    {
+      "text": "23",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 15 y dividiendo entre 9, se obtiene x = 21.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

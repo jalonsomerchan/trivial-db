@@ -1,0 +1,42 @@
+{
+  "id": "q-009821",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente el método JavaScript unshift()?",
+  "answers": [
+    {
+      "text": "añade elementos al inicio de un array",
+      "correct": true
+    },
+    {
+      "text": "ordena los elementos de un array",
+      "correct": false
+    },
+    {
+      "text": "comprueba si algún elemento cumple una condición",
+      "correct": false
+    },
+    {
+      "text": "añade elementos al final de un array",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, unshift() añade elementos al inicio de un array.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "unshift"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

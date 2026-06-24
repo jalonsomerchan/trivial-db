@@ -1,0 +1,42 @@
+{
+  "id": "q-005666",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué órgano se encarga principalmente de realizar el intercambio de gases?",
+  "answers": [
+    {
+      "text": "riñones",
+      "correct": false
+    },
+    {
+      "text": "pulmones",
+      "correct": true
+    },
+    {
+      "text": "diafragma",
+      "correct": false
+    },
+    {
+      "text": "cóclea",
+      "correct": false
+    }
+  ],
+  "explanation": "El pulmones se encarga principalmente de realizar el intercambio de gases.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "pulmones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

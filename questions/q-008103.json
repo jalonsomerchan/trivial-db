@@ -1,0 +1,43 @@
+{
+  "id": "q-008103",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre china antigua, micénica, azteca y romana, qué civilización se asocia con ciudad de Micenas?",
+  "answers": [
+    {
+      "text": "micénica",
+      "correct": true
+    },
+    {
+      "text": "romana",
+      "correct": false
+    },
+    {
+      "text": "azteca",
+      "correct": false
+    },
+    {
+      "text": "china antigua",
+      "correct": false
+    }
+  ],
+  "explanation": "ciudad de Micenas se asocia con la civilización micénica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "micenica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

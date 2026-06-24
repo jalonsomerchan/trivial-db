@@ -1,0 +1,42 @@
+{
+  "id": "q-008519",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “ganar”?",
+  "answers": [
+    {
+      "text": "rechazar",
+      "correct": false
+    },
+    {
+      "text": "perder",
+      "correct": true
+    },
+    {
+      "text": "caliente",
+      "correct": false
+    },
+    {
+      "text": "débil",
+      "correct": false
+    }
+  ],
+  "explanation": "“perder” es un antónimo de “ganar”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "ganar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

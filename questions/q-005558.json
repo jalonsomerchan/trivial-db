@@ -1,0 +1,42 @@
+{
+  "id": "q-005558",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre diafragma, intestino delgado, médula espinal y bazo, qué órgano se encarga principalmente de participar en la respuesta inmunitaria?",
+  "answers": [
+    {
+      "text": "bazo",
+      "correct": true
+    },
+    {
+      "text": "diafragma",
+      "correct": false
+    },
+    {
+      "text": "intestino delgado",
+      "correct": false
+    },
+    {
+      "text": "médula espinal",
+      "correct": false
+    }
+  ],
+  "explanation": "El bazo se encarga principalmente de participar en la respuesta inmunitaria.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "bazo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005486",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué define principalmente a un tragedia?",
+  "answers": [
+    {
+      "text": "obra dramática con desenlace grave",
+      "correct": true
+    },
+    {
+      "text": "poema narrativo de hechos heroicos",
+      "correct": false
+    },
+    {
+      "text": "obra que critica mediante burla o ironía",
+      "correct": false
+    },
+    {
+      "text": "relato de hechos en orden temporal",
+      "correct": false
+    }
+  ],
+  "explanation": "Un tragedia se define como obra dramática con desenlace grave.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "tragedia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

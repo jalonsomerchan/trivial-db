@@ -1,0 +1,42 @@
+{
+  "id": "q-005645",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de planeta es Saturno?",
+  "answers": [
+    {
+      "text": "gigante gaseoso",
+      "correct": true
+    },
+    {
+      "text": "gigante gaseoso 4",
+      "correct": false
+    },
+    {
+      "text": "gigante helado",
+      "correct": false
+    },
+    {
+      "text": "rocoso",
+      "correct": false
+    }
+  ],
+  "explanation": "Saturno se clasifica como gigante gaseoso.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "saturno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

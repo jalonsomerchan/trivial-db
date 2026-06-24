@@ -1,0 +1,43 @@
+{
+  "id": "q-007163",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del ratatouille?",
+  "answers": [
+    {
+      "text": "verduras",
+      "correct": true
+    },
+    {
+      "text": "pasta de curry",
+      "correct": false
+    },
+    {
+      "text": "frutos secos y masa filo",
+      "correct": false
+    },
+    {
+      "text": "aguacate",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del ratatouille es verduras.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ratatouille",
+    "verduras"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

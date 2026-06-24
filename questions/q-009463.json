@@ -1,0 +1,42 @@
+{
+  "id": "q-009463",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 35% de 400?",
+  "answers": [
+    {
+      "text": "145",
+      "correct": false
+    },
+    {
+      "text": "135",
+      "correct": false
+    },
+    {
+      "text": "140",
+      "correct": true
+    },
+    {
+      "text": "150",
+      "correct": false
+    }
+  ],
+  "explanation": "El 35% de 400 se calcula como 400 × 35/100 = 140.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

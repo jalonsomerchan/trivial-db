@@ -1,0 +1,43 @@
+{
+  "id": "q-006663",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con la serie “The Crown”?",
+  "answers": [
+    {
+      "text": "Fox Mulder",
+      "correct": false
+    },
+    {
+      "text": "Gregory House",
+      "correct": false
+    },
+    {
+      "text": "Din Djarin",
+      "correct": false
+    },
+    {
+      "text": "Isabel II",
+      "correct": true
+    }
+  ],
+  "explanation": "Isabel II es un personaje asociado con “The Crown”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "the-crown",
+    "isabel-ii"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009143",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 85 + 45?",
+  "answers": [
+    {
+      "text": "128",
+      "correct": false
+    },
+    {
+      "text": "140",
+      "correct": false
+    },
+    {
+      "text": "132",
+      "correct": false
+    },
+    {
+      "text": "130",
+      "correct": true
+    }
+  ],
+  "explanation": "La suma de 85 y 45 es 130.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

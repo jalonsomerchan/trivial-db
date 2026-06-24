@@ -1,0 +1,43 @@
+{
+  "id": "q-006658",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con la serie “House”?",
+  "answers": [
+    {
+      "text": "el Doctor",
+      "correct": false
+    },
+    {
+      "text": "Michael Scott",
+      "correct": false
+    },
+    {
+      "text": "Gregory House",
+      "correct": true
+    },
+    {
+      "text": "Sherlock Holmes",
+      "correct": false
+    }
+  ],
+  "explanation": "Gregory House es un personaje asociado con “House”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "house",
+    "gregory-house"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

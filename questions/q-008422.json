@@ -1,0 +1,43 @@
+{
+  "id": "q-008422",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se relaciona principalmente Mahatma Gandhi?",
+  "answers": [
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": true
+    }
+  ],
+  "explanation": "Mahatma Gandhi se relaciona principalmente con India.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "india"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

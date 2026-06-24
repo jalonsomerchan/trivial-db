@@ -1,0 +1,42 @@
+{
+  "id": "q-005950",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre participar en la audición, conducir aire hacia los bronquios, detectar la luz en el ojo y realizar el intercambio de gases, cuál es una función principal del pulmones?",
+  "answers": [
+    {
+      "text": "realizar el intercambio de gases",
+      "correct": true
+    },
+    {
+      "text": "conducir aire hacia los bronquios",
+      "correct": false
+    },
+    {
+      "text": "participar en la audición",
+      "correct": false
+    },
+    {
+      "text": "detectar la luz en el ojo",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del pulmones es realizar el intercambio de gases.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "pulmones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

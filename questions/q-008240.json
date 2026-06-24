@@ -1,0 +1,43 @@
+{
+  "id": "q-008240",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año se produjo la firma de la Carta Magna inglesa?",
+  "answers": [
+    {
+      "text": "313",
+      "correct": false
+    },
+    {
+      "text": "1215",
+      "correct": true
+    },
+    {
+      "text": "476",
+      "correct": false
+    },
+    {
+      "text": "1848",
+      "correct": false
+    }
+  ],
+  "explanation": "La firma de la Carta Magna inglesa se produjo en 1215.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "firma-de-la-carta-magna-inglesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

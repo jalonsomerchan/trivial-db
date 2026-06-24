@@ -1,0 +1,42 @@
+{
+  "id": "q-005807",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre velocidad media, frecuencia, energía cinética y ley de Ohm, qué magnitud se calcula como uno dividido entre el período?",
+  "answers": [
+    {
+      "text": "velocidad media",
+      "correct": false
+    },
+    {
+      "text": "energía cinética",
+      "correct": false
+    },
+    {
+      "text": "frecuencia",
+      "correct": true
+    },
+    {
+      "text": "ley de Ohm",
+      "correct": false
+    }
+  ],
+  "explanation": "frecuencia se calcula como uno dividido entre el período.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "frecuencia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

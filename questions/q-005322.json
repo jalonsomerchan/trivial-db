@@ -1,0 +1,43 @@
+{
+  "id": "q-005322",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista se vincula con Surrealismo y México?",
+  "answers": [
+    {
+      "text": "Andy Warhol",
+      "correct": false
+    },
+    {
+      "text": "Frida Kahlo",
+      "correct": true
+    },
+    {
+      "text": "Roy Lichtenstein",
+      "correct": false
+    },
+    {
+      "text": "Rafael Sanzio",
+      "correct": false
+    }
+  ],
+  "explanation": "Frida Kahlo se vincula con Surrealismo y México.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "surrealismo",
+    "mexico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

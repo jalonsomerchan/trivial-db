@@ -1,0 +1,43 @@
+{
+  "id": "q-006730",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Queen, Coldplay, Rammstein y Kraftwerk, qué artista o grupo se asocia con metal industrial y Alemania?",
+  "answers": [
+    {
+      "text": "Coldplay",
+      "correct": false
+    },
+    {
+      "text": "Queen",
+      "correct": false
+    },
+    {
+      "text": "Kraftwerk",
+      "correct": false
+    },
+    {
+      "text": "Rammstein",
+      "correct": true
+    }
+  ],
+  "explanation": "Rammstein se asocia con metal industrial y Alemania.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "metal-industrial",
+    "alemania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

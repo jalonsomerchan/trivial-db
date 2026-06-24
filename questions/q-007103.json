@@ -1,0 +1,44 @@
+{
+  "id": "q-007103",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre legumbre, fruto seco, fruta y carne, a qué grupo alimentario pertenece pera?",
+  "answers": [
+    {
+      "text": "legumbre",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": false
+    },
+    {
+      "text": "fruta",
+      "correct": true
+    },
+    {
+      "text": "fruto seco",
+      "correct": false
+    }
+  ],
+  "explanation": "pera pertenece al grupo de fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "pera",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

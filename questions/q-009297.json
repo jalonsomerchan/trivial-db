@@ -1,0 +1,42 @@
+{
+  "id": "q-009297",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuánto vale x si 4x + 13 = 193?",
+  "answers": [
+    {
+      "text": "45",
+      "correct": true
+    },
+    {
+      "text": "47",
+      "correct": false
+    },
+    {
+      "text": "44",
+      "correct": false
+    },
+    {
+      "text": "46",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 13 y dividiendo entre 4, se obtiene x = 45.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

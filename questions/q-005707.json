@@ -1,0 +1,42 @@
+{
+  "id": "q-005707",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre P = W/t, a = Δv/Δt, ρ = m/V y W = F·d, qué expresión representa aceleración?",
+  "answers": [
+    {
+      "text": "W = F·d",
+      "correct": false
+    },
+    {
+      "text": "P = W/t",
+      "correct": false
+    },
+    {
+      "text": "a = Δv/Δt",
+      "correct": true
+    },
+    {
+      "text": "ρ = m/V",
+      "correct": false
+    }
+  ],
+  "explanation": "La expresión habitual de aceleración es a = Δv/Δt.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "aceleracion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

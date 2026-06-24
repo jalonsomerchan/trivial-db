@@ -1,0 +1,42 @@
+{
+  "id": "q-008181",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la derrota de la Armada Invencible?",
+  "answers": [
+    {
+      "text": "coronación de Carlomagno",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Primera Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "independencia de México",
+      "correct": false
+    },
+    {
+      "text": "creación de la Unión Europea por el Tratado de Maastricht",
+      "correct": false
+    }
+  ],
+  "explanation": "coronación de Carlomagno ocurrió antes que la derrota de la Armada Invencible.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

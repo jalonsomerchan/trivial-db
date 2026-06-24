@@ -1,0 +1,42 @@
+{
+  "id": "q-005074",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Expresionismo, Postimpresionismo, Surrealismo y Renacimiento, qué movimiento artístico se caracteriza por deformación expresiva y emoción intensa?",
+  "answers": [
+    {
+      "text": "Postimpresionismo",
+      "correct": false
+    },
+    {
+      "text": "Surrealismo",
+      "correct": false
+    },
+    {
+      "text": "Renacimiento",
+      "correct": false
+    },
+    {
+      "text": "Expresionismo",
+      "correct": true
+    }
+  ],
+  "explanation": "El Expresionismo se caracteriza por deformación expresiva y emoción intensa.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "expresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

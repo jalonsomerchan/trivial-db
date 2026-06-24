@@ -1,0 +1,43 @@
+{
+  "id": "q-005079",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Florencia, Ámsterdam, Berlín y Nueva York, en qué ciudad se encuentra el MoMA?",
+  "answers": [
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": true
+    },
+    {
+      "text": "Ámsterdam",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "El MoMA se encuentra en Nueva York.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "moma",
+    "nueva-york"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

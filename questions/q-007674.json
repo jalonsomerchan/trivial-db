@@ -1,0 +1,43 @@
+{
+  "id": "q-007674",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Aruba, Camboya, Nigeria o Panamá?",
+  "answers": [
+    {
+      "text": "Nigeria",
+      "correct": true
+    },
+    {
+      "text": "Panamá",
+      "correct": false
+    },
+    {
+      "text": "Camboya",
+      "correct": false
+    },
+    {
+      "text": "Aruba",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Nigeria tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

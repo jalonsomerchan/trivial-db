@@ -1,0 +1,42 @@
+{
+  "id": "q-006747",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre The Mandalorian, House, The Office y Breaking Bad, qué serie se asocia con Michael Scott?",
+  "answers": [
+    {
+      "text": "The Mandalorian",
+      "correct": false
+    },
+    {
+      "text": "Breaking Bad",
+      "correct": false
+    },
+    {
+      "text": "The Office",
+      "correct": true
+    },
+    {
+      "text": "House",
+      "correct": false
+    }
+  ],
+  "explanation": "Michael Scott se asocia con “The Office”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "michael-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

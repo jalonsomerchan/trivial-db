@@ -1,0 +1,42 @@
+{
+  "id": "q-006448",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "tenis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Wimbledon, Open de Australia, US Open y Roland Garros, qué torneo de Grand Slam se juega en Nueva York?",
+  "answers": [
+    {
+      "text": "Roland Garros",
+      "correct": false
+    },
+    {
+      "text": "Open de Australia",
+      "correct": false
+    },
+    {
+      "text": "US Open",
+      "correct": true
+    },
+    {
+      "text": "Wimbledon",
+      "correct": false
+    }
+  ],
+  "explanation": "En Nueva York se disputa US Open.",
+  "sources": [
+    {
+      "title": "ATP Tour",
+      "url": "https://www.atptour.com/"
+    }
+  ],
+  "tags": [
+    "tenis",
+    "nueva-york"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008290",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre disolución de la Unión Soviética, creación de la Unión Europea por el Tratado de Maastricht, caída del Muro de Berlín y erupción del Vesubio que destruyó Pompeya, cuál de estos hechos ocurrió antes que la construcción del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    },
+    {
+      "text": "erupción del Vesubio que destruyó Pompeya",
+      "correct": true
+    },
+    {
+      "text": "creación de la Unión Europea por el Tratado de Maastricht",
+      "correct": false
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "erupción del Vesubio que destruyó Pompeya ocurrió antes que la construcción del Muro de Berlín.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

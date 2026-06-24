@@ -1,0 +1,43 @@
+{
+  "id": "q-005293",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Salvador Dalí, Wassily Kandinsky, Gustav Klimt y Francisco de Goya, qué artista se vincula con Surrealismo y España?",
+  "answers": [
+    {
+      "text": "Wassily Kandinsky",
+      "correct": false
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": true
+    },
+    {
+      "text": "Gustav Klimt",
+      "correct": false
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    }
+  ],
+  "explanation": "Salvador Dalí se vincula con Surrealismo y España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "surrealismo",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

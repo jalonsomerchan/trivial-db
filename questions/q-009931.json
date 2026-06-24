@@ -1,0 +1,42 @@
+{
+  "id": "q-009931",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué sirve principalmente git commit?",
+  "answers": [
+    {
+      "text": "copiar un repositorio remoto",
+      "correct": false
+    },
+    {
+      "text": "guardar cambios temporalmente",
+      "correct": false
+    },
+    {
+      "text": "reaplicar commits sobre otra base",
+      "correct": false
+    },
+    {
+      "text": "registrar cambios en el historial",
+      "correct": true
+    }
+  ],
+  "explanation": "git commit sirve para registrar cambios en el historial.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-commit"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

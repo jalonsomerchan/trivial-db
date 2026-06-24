@@ -1,0 +1,43 @@
+{
+  "id": "q-006547",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Fox Mulder, Michael Scott, Rachel Green y Walter White, qué personaje se asocia con la serie “The Office”?",
+  "answers": [
+    {
+      "text": "Rachel Green",
+      "correct": false
+    },
+    {
+      "text": "Walter White",
+      "correct": false
+    },
+    {
+      "text": "Michael Scott",
+      "correct": true
+    },
+    {
+      "text": "Fox Mulder",
+      "correct": false
+    }
+  ],
+  "explanation": "Michael Scott es un personaje asociado con “The Office”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "the-office",
+    "michael-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

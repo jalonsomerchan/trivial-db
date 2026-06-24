@@ -1,0 +1,42 @@
+{
+  "id": "q-006488",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "baloncesto"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué equipo de la NBA se asocia con Nueva York?",
+  "answers": [
+    {
+      "text": "Chicago Bulls",
+      "correct": false
+    },
+    {
+      "text": "Memphis Grizzlies",
+      "correct": false
+    },
+    {
+      "text": "New York Knicks",
+      "correct": true
+    },
+    {
+      "text": "Milwaukee Bucks",
+      "correct": false
+    }
+  ],
+  "explanation": "New York Knicks se asocia con Nueva York.",
+  "sources": [
+    {
+      "title": "NBA",
+      "url": "https://www.nba.com/"
+    }
+  ],
+  "tags": [
+    "nba",
+    "nueva-york"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

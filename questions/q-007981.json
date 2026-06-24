@@ -1,0 +1,43 @@
+{
+  "id": "q-007981",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Reino Unido?",
+  "answers": [
+    {
+      "text": "tailandés",
+      "correct": false
+    },
+    {
+      "text": "inglés",
+      "correct": true
+    },
+    {
+      "text": "setsuana",
+      "correct": false
+    },
+    {
+      "text": "polaco",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Reino Unido figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "reino-unido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

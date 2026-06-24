@@ -1,0 +1,42 @@
+{
+  "id": "q-005740",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre cantidad de movimiento, energía cinética, potencia y fuerza neta, qué magnitud se calcula como masa por aceleración?",
+  "answers": [
+    {
+      "text": "fuerza neta",
+      "correct": true
+    },
+    {
+      "text": "cantidad de movimiento",
+      "correct": false
+    },
+    {
+      "text": "potencia",
+      "correct": false
+    },
+    {
+      "text": "energía cinética",
+      "correct": false
+    }
+  ],
+  "explanation": "fuerza neta se calcula como masa por aceleración.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "fuerza-neta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

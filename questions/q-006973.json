@@ -1,0 +1,43 @@
+{
+  "id": "q-006973",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compañía o estudio se asocia con “Minecraft”?",
+  "answers": [
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": false
+    },
+    {
+      "text": "Sega",
+      "correct": false
+    },
+    {
+      "text": "Mojang",
+      "correct": true
+    }
+  ],
+  "explanation": "“Minecraft” se asocia con Mojang.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "minecraft",
+    "mojang"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

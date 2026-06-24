@@ -1,0 +1,43 @@
+{
+  "id": "q-006583",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Michael Scott, el Doctor, Sherlock Holmes y Gregory House, qué personaje se asocia con la serie “House”?",
+  "answers": [
+    {
+      "text": "Sherlock Holmes",
+      "correct": false
+    },
+    {
+      "text": "Michael Scott",
+      "correct": false
+    },
+    {
+      "text": "Gregory House",
+      "correct": true
+    },
+    {
+      "text": "el Doctor",
+      "correct": false
+    }
+  ],
+  "explanation": "Gregory House es un personaje asociado con “House”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "house",
+    "gregory-house"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

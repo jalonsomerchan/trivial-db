@@ -1,0 +1,43 @@
+{
+  "id": "q-005554",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre crustáceos, aves, insectos y peces, qué grupo de animales incluyen cangrejos y langostas?",
+  "answers": [
+    {
+      "text": "crustáceos",
+      "correct": true
+    },
+    {
+      "text": "insectos",
+      "correct": false
+    },
+    {
+      "text": "peces",
+      "correct": false
+    },
+    {
+      "text": "aves",
+      "correct": false
+    }
+  ],
+  "explanation": "Los crustáceos incluyen cangrejos y langostas.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "crustaceos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

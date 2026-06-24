@@ -1,0 +1,42 @@
+{
+  "id": "q-009372",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "fracciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fracción equivale aproximadamente a 0.786?",
+  "answers": [
+    {
+      "text": "11/14",
+      "correct": true
+    },
+    {
+      "text": "12/14",
+      "correct": false
+    },
+    {
+      "text": "11/15",
+      "correct": false
+    },
+    {
+      "text": "14/11",
+      "correct": false
+    }
+  ],
+  "explanation": "11/14 equivale aproximadamente a 0.786.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "fracciones",
+    "decimales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

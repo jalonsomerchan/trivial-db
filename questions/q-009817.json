@@ -1,0 +1,42 @@
+{
+  "id": "q-009817",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente el método JavaScript splice()?",
+  "answers": [
+    {
+      "text": "crea un array con elementos que cumplen una condición",
+      "correct": false
+    },
+    {
+      "text": "une elementos en una cadena",
+      "correct": false
+    },
+    {
+      "text": "ordena los elementos de un array",
+      "correct": false
+    },
+    {
+      "text": "cambia el contenido eliminando o insertando elementos",
+      "correct": true
+    }
+  ],
+  "explanation": "En JavaScript, splice() cambia el contenido eliminando o insertando elementos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "splice"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

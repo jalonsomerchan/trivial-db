@@ -1,0 +1,42 @@
+{
+  "id": "q-009189",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el máximo común divisor de 47 y 96?",
+  "answers": [
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": true
+    },
+    {
+      "text": "15",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": false
+    }
+  ],
+  "explanation": "El máximo común divisor de 47 y 96 es 1.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcd",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

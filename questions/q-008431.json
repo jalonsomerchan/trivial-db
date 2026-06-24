@@ -1,0 +1,43 @@
+{
+  "id": "q-008431",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se produjo la Paz de Westfalia?",
+  "answers": [
+    {
+      "text": "1648",
+      "correct": true
+    },
+    {
+      "text": "1929",
+      "correct": false
+    },
+    {
+      "text": "-753",
+      "correct": false
+    },
+    {
+      "text": "1917",
+      "correct": false
+    }
+  ],
+  "explanation": "La Paz de Westfalia se produjo en 1648.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "paz-de-westfalia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

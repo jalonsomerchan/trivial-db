@@ -1,0 +1,42 @@
+{
+  "id": "q-009504",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <a>, <meta>, <table> y <header>, qué etiqueta HTML se usa para marcar una cabecera?",
+  "answers": [
+    {
+      "text": "<table>",
+      "correct": false
+    },
+    {
+      "text": "<a>",
+      "correct": false
+    },
+    {
+      "text": "<meta>",
+      "correct": false
+    },
+    {
+      "text": "<header>",
+      "correct": true
+    }
+  ],
+  "explanation": "La etiqueta <header> se usa para marcar una cabecera.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "header"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

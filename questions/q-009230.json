@@ -1,0 +1,42 @@
+{
+  "id": "q-009230",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 41 y 30?",
+  "answers": [
+    {
+      "text": "1230",
+      "correct": true
+    },
+    {
+      "text": "1271",
+      "correct": false
+    },
+    {
+      "text": "1200",
+      "correct": false
+    },
+    {
+      "text": "41",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 41 y 30 es 1230.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

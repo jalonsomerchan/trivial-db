@@ -1,0 +1,43 @@
+{
+  "id": "q-005411",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Italia, Rusia, Países Bajos y España, en qué país está el Museo Reina Sofía?",
+  "answers": [
+    {
+      "text": "Países Bajos",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    }
+  ],
+  "explanation": "El Museo Reina Sofía está en España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "museo-reina-sofia",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

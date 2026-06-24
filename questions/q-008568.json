@@ -1,0 +1,42 @@
+{
+  "id": "q-008568",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "silabas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre 3, 2, 1 y 5, cuántas sílabas tiene “libertad”?",
+  "answers": [
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": true
+    }
+  ],
+  "explanation": "“libertad” tiene 3 sílabas.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "silabas",
+    "libertad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

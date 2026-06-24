@@ -1,0 +1,43 @@
+{
+  "id": "q-008928",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre subir, ligero, comprar y aceptar, qué palabra tiene significado opuesto a “vender”?",
+  "answers": [
+    {
+      "text": "comprar",
+      "correct": true
+    },
+    {
+      "text": "ligero",
+      "correct": false
+    },
+    {
+      "text": "subir",
+      "correct": false
+    },
+    {
+      "text": "aceptar",
+      "correct": false
+    }
+  ],
+  "explanation": "“comprar” y “vender” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "comprar",
+    "vender"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

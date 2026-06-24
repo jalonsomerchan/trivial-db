@@ -1,0 +1,42 @@
+{
+  "id": "q-009989",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS controla la transparencia?",
+  "answers": [
+    {
+      "text": "margin",
+      "correct": false
+    },
+    {
+      "text": "text-decoration",
+      "correct": false
+    },
+    {
+      "text": "transform",
+      "correct": false
+    },
+    {
+      "text": "opacity",
+      "correct": true
+    }
+  ],
+  "explanation": "La propiedad CSS opacity controla la transparencia.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "opacity"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

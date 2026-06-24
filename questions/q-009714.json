@@ -1,0 +1,42 @@
+{
+  "id": "q-009714",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre comprueba si todos los elementos cumplen una condición, devuelve el primer elemento que cumple una condición, cambia el contenido eliminando o insertando elementos y añade elementos al final de un array, qué hace principalmente el método JavaScript find()?",
+  "answers": [
+    {
+      "text": "cambia el contenido eliminando o insertando elementos",
+      "correct": false
+    },
+    {
+      "text": "comprueba si todos los elementos cumplen una condición",
+      "correct": false
+    },
+    {
+      "text": "devuelve el primer elemento que cumple una condición",
+      "correct": true
+    },
+    {
+      "text": "añade elementos al final de un array",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, find() devuelve el primer elemento que cumple una condición.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "find"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

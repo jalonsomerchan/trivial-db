@@ -1,0 +1,42 @@
+{
+  "id": "q-005158",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué movimiento artístico se caracteriza por deformación expresiva y emoción intensa?",
+  "answers": [
+    {
+      "text": "Surrealismo",
+      "correct": false
+    },
+    {
+      "text": "Expresionismo",
+      "correct": true
+    },
+    {
+      "text": "Renacimiento",
+      "correct": false
+    },
+    {
+      "text": "Postimpresionismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El Expresionismo se caracteriza por deformación expresiva y emoción intensa.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "expresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

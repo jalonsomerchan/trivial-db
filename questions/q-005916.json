@@ -1,0 +1,43 @@
+{
+  "id": "q-005916",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Júpiter, Marte, Tierra y Saturno, de qué cuerpo celeste es satélite Deimos?",
+  "answers": [
+    {
+      "text": "Júpiter",
+      "correct": false
+    },
+    {
+      "text": "Marte",
+      "correct": true
+    },
+    {
+      "text": "Saturno",
+      "correct": false
+    },
+    {
+      "text": "Tierra",
+      "correct": false
+    }
+  ],
+  "explanation": "Deimos es un satélite natural de Marte.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "deimos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

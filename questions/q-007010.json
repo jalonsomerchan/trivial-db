@@ -1,0 +1,44 @@
+{
+  "id": "q-007010",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo alimentario pertenece cerdo?",
+  "answers": [
+    {
+      "text": "fruta",
+      "correct": false
+    },
+    {
+      "text": "cereal",
+      "correct": false
+    },
+    {
+      "text": "legumbre",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": true
+    }
+  ],
+  "explanation": "cerdo pertenece al grupo de carne.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "cerdo",
+    "carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

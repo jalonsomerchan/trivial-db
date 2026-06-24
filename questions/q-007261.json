@@ -1,0 +1,43 @@
+{
+  "id": "q-007261",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre dorar por calor seco, cocinar en líquido en ebullición, cocinar con calor seco en horno y sumergir brevemente en agua hirviendo, qué significa tostar en cocina?",
+  "answers": [
+    {
+      "text": "dorar por calor seco",
+      "correct": true
+    },
+    {
+      "text": "cocinar con calor seco en horno",
+      "correct": false
+    },
+    {
+      "text": "cocinar en líquido en ebullición",
+      "correct": false
+    },
+    {
+      "text": "sumergir brevemente en agua hirviendo",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, tostar significa dorar por calor seco.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "tostar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-006802",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué serie se asocia con Jerry Seinfeld?",
+  "answers": [
+    {
+      "text": "Friends",
+      "correct": false
+    },
+    {
+      "text": "The X-Files",
+      "correct": false
+    },
+    {
+      "text": "Seinfeld",
+      "correct": true
+    },
+    {
+      "text": "Game of Thrones",
+      "correct": false
+    }
+  ],
+  "explanation": "Jerry Seinfeld se asocia con “Seinfeld”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "jerry-seinfeld"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

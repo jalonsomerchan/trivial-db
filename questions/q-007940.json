@@ -1,0 +1,43 @@
+{
+  "id": "q-007940",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Antigua y Barbuda?",
+  "answers": [
+    {
+      "text": "noruego",
+      "correct": false
+    },
+    {
+      "text": "inglés",
+      "correct": true
+    },
+    {
+      "text": "tigriña",
+      "correct": false
+    },
+    {
+      "text": "malayo",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Antigua y Barbuda figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "antigua-y-barbuda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-005575",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre insectos, mamíferos, reptiles y arácnidos, a qué grupo pertenece el animal llamado abeja?",
+  "answers": [
+    {
+      "text": "reptiles",
+      "correct": false
+    },
+    {
+      "text": "insectos",
+      "correct": true
+    },
+    {
+      "text": "arácnidos",
+      "correct": false
+    },
+    {
+      "text": "mamíferos",
+      "correct": false
+    }
+  ],
+  "explanation": "El abeja pertenece al grupo de los insectos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "insectos",
+    "abeja"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

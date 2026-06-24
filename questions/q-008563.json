@@ -1,0 +1,42 @@
+{
+  "id": "q-008563",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "silabas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre 2, 3, 5 y 4, cuántas sílabas tiene “elefante”?",
+  "answers": [
+    {
+      "text": "4",
+      "correct": true
+    },
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    }
+  ],
+  "explanation": "“elefante” tiene 4 sílabas.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "silabas",
+    "elefante"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

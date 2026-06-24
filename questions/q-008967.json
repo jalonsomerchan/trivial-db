@@ -1,0 +1,43 @@
+{
+  "id": "q-008967",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “cerrar”?",
+  "answers": [
+    {
+      "text": "abrir",
+      "correct": true
+    },
+    {
+      "text": "subir",
+      "correct": false
+    },
+    {
+      "text": "aceptar",
+      "correct": false
+    },
+    {
+      "text": "encender",
+      "correct": false
+    }
+  ],
+  "explanation": "“abrir” y “cerrar” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "abrir",
+    "cerrar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006627",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la película “Wall·E”?",
+  "answers": [
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Andrew Stanton",
+      "correct": true
+    },
+    {
+      "text": "Hayao Miyazaki",
+      "correct": false
+    },
+    {
+      "text": "Quentin Tarantino",
+      "correct": false
+    }
+  ],
+  "explanation": "“Wall·E” fue dirigida por Andrew Stanton.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "wall-e",
+    "andrew-stanton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

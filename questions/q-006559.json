@@ -1,0 +1,43 @@
+{
+  "id": "q-006559",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Jack Shephard, Gregory House, Homer Simpson y Jimmy McGill, qué personaje se asocia con la serie “Lost”?",
+  "answers": [
+    {
+      "text": "Homer Simpson",
+      "correct": false
+    },
+    {
+      "text": "Gregory House",
+      "correct": false
+    },
+    {
+      "text": "Jack Shephard",
+      "correct": true
+    },
+    {
+      "text": "Jimmy McGill",
+      "correct": false
+    }
+  ],
+  "explanation": "Jack Shephard es un personaje asociado con “Lost”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "lost",
+    "jack-shephard"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

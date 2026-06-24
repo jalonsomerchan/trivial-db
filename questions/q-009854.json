@@ -1,0 +1,42 @@
+{
+  "id": "q-009854",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre definir metadatos, marcar una sección de navegación, dibujar gráficos por script y crear un campo de entrada, para qué se usa principalmente la etiqueta HTML <nav>?",
+  "answers": [
+    {
+      "text": "definir metadatos",
+      "correct": false
+    },
+    {
+      "text": "dibujar gráficos por script",
+      "correct": false
+    },
+    {
+      "text": "marcar una sección de navegación",
+      "correct": true
+    },
+    {
+      "text": "crear un campo de entrada",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <nav> sirve para marcar una sección de navegación.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "nav"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009263",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 205379?",
+  "answers": [
+    {
+      "text": "61",
+      "correct": false
+    },
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "59",
+      "correct": true
+    },
+    {
+      "text": "60",
+      "correct": false
+    }
+  ],
+  "explanation": "Como 59³ = 205379, la raíz cúbica de 205379 es 59.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

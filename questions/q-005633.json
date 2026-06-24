@@ -1,0 +1,42 @@
+{
+  "id": "q-005633",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué nutriente se asocia especialmente con función inmunitaria?",
+  "answers": [
+    {
+      "text": "hierro",
+      "correct": false
+    },
+    {
+      "text": "zinc",
+      "correct": true
+    },
+    {
+      "text": "calcio",
+      "correct": false
+    },
+    {
+      "text": "vitamina B12",
+      "correct": false
+    }
+  ],
+  "explanation": "zinc está relacionado con función inmunitaria.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "zinc"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

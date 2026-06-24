@@ -1,0 +1,42 @@
+{
+  "id": "q-005446",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre narración breve de ficción, composición lírica de lamento, texto expositivo y argumentativo sobre una idea y obra dramática orientada a lo humorístico, qué define principalmente a un cuento?",
+  "answers": [
+    {
+      "text": "obra dramática orientada a lo humorístico",
+      "correct": false
+    },
+    {
+      "text": "narración breve de ficción",
+      "correct": true
+    },
+    {
+      "text": "composición lírica de lamento",
+      "correct": false
+    },
+    {
+      "text": "texto expositivo y argumentativo sobre una idea",
+      "correct": false
+    }
+  ],
+  "explanation": "Un cuento se define como narración breve de ficción.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "cuento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

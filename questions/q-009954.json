@@ -1,0 +1,42 @@
+{
+  "id": "q-009954",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué instrucción o cláusula SQL se usa para modificar la estructura de una tabla?",
+  "answers": [
+    {
+      "text": "CREATE TABLE",
+      "correct": false
+    },
+    {
+      "text": "DELETE",
+      "correct": false
+    },
+    {
+      "text": "ORDER BY",
+      "correct": false
+    },
+    {
+      "text": "ALTER TABLE",
+      "correct": true
+    }
+  ],
+  "explanation": "En SQL, ALTER TABLE se usa para modificar la estructura de una tabla.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "alter-table"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

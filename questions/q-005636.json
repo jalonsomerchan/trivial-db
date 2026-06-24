@@ -1,0 +1,42 @@
+{
+  "id": "q-005636",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué nutriente se asocia especialmente con protección antioxidante?",
+  "answers": [
+    {
+      "text": "vitamina K",
+      "correct": false
+    },
+    {
+      "text": "vitamina D",
+      "correct": false
+    },
+    {
+      "text": "vitamina E",
+      "correct": true
+    },
+    {
+      "text": "yodo",
+      "correct": false
+    }
+  ],
+  "explanation": "vitamina E está relacionado con protección antioxidante.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-e"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

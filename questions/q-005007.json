@@ -1,0 +1,43 @@
+{
+  "id": "q-005007",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué movimiento artístico se asocia Francisco de Goya?",
+  "answers": [
+    {
+      "text": "Fauvismo",
+      "correct": false
+    },
+    {
+      "text": "Romanticismo",
+      "correct": true
+    },
+    {
+      "text": "Abstracción",
+      "correct": false
+    },
+    {
+      "text": "Cubismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Francisco de Goya se asocia habitualmente con Romanticismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "francisco-de-goya",
+    "romanticismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

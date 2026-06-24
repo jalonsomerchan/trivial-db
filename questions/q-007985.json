@@ -1,0 +1,43 @@
+{
+  "id": "q-007985",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Samoa?",
+  "answers": [
+    {
+      "text": "sm",
+      "correct": true
+    },
+    {
+      "text": "mongol",
+      "correct": false
+    },
+    {
+      "text": "cingalés",
+      "correct": false
+    },
+    {
+      "text": "esloveno",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Samoa figura el sm.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "samoa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

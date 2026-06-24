@@ -1,0 +1,42 @@
+{
+  "id": "q-009604",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre git merge, git push, git rebase y git clone, qué comando de Git se usa para reaplicar commits sobre otra base?",
+  "answers": [
+    {
+      "text": "git clone",
+      "correct": false
+    },
+    {
+      "text": "git push",
+      "correct": false
+    },
+    {
+      "text": "git merge",
+      "correct": false
+    },
+    {
+      "text": "git rebase",
+      "correct": true
+    }
+  ],
+  "explanation": "El comando git rebase se usa para reaplicar commits sobre otra base.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-rebase"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

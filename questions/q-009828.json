@@ -1,0 +1,43 @@
+{
+  "id": "q-009828",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué significa el código HTTP 405?",
+  "answers": [
+    {
+      "text": "Method Not Allowed",
+      "correct": true
+    },
+    {
+      "text": "Moved Permanently",
+      "correct": false
+    },
+    {
+      "text": "OK",
+      "correct": false
+    },
+    {
+      "text": "Unauthorized",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 405 corresponde a Method Not Allowed.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "405"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

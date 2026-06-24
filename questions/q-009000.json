@@ -1,0 +1,42 @@
+{
+  "id": "q-009000",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué tiempo verbal aparece en “yo hube cantado”?",
+  "answers": [
+    {
+      "text": "pretérito anterior",
+      "correct": true
+    },
+    {
+      "text": "pretérito perfecto compuesto",
+      "correct": false
+    },
+    {
+      "text": "condicional simple",
+      "correct": false
+    },
+    {
+      "text": "pretérito pluscuamperfecto",
+      "correct": false
+    }
+  ],
+  "explanation": "“yo hube cantado” está en pretérito anterior.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-anterior"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

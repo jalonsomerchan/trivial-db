@@ -1,0 +1,42 @@
+{
+  "id": "q-009509",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <button>, <textarea>, <tr> y <input>, qué etiqueta HTML se usa para definir una fila de tabla?",
+  "answers": [
+    {
+      "text": "<tr>",
+      "correct": true
+    },
+    {
+      "text": "<textarea>",
+      "correct": false
+    },
+    {
+      "text": "<input>",
+      "correct": false
+    },
+    {
+      "text": "<button>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <tr> se usa para definir una fila de tabla.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "tr"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

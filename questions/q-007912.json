@@ -1,0 +1,43 @@
+{
+  "id": "q-007912",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Liechtenstein?",
+  "answers": [
+    {
+      "text": "Southern Europe",
+      "correct": false
+    },
+    {
+      "text": "South-Eastern Asia",
+      "correct": false
+    },
+    {
+      "text": "Western Europe",
+      "correct": true
+    },
+    {
+      "text": "Northern America",
+      "correct": false
+    }
+  ],
+  "explanation": "Liechtenstein pertenece a la subregión Western Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "liechtenstein"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

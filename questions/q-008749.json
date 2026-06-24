@@ -1,0 +1,42 @@
+{
+  "id": "q-008749",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre sufijo -ista, raíz tele-, sufijo -dad y sufijo -ero, qué elemento morfológico destaca en “florista”?",
+  "answers": [
+    {
+      "text": "sufijo -ero",
+      "correct": false
+    },
+    {
+      "text": "sufijo -ista",
+      "correct": true
+    },
+    {
+      "text": "sufijo -dad",
+      "correct": false
+    },
+    {
+      "text": "raíz tele-",
+      "correct": false
+    }
+  ],
+  "explanation": "En “florista” destaca el elemento sufijo -ista.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "florista"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005613",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre vitamina B12, vitamina B1, vitamina A y hierro, qué nutriente se asocia especialmente con transporte de oxígeno?",
+  "answers": [
+    {
+      "text": "vitamina A",
+      "correct": false
+    },
+    {
+      "text": "hierro",
+      "correct": true
+    },
+    {
+      "text": "vitamina B12",
+      "correct": false
+    },
+    {
+      "text": "vitamina B1",
+      "correct": false
+    }
+  ],
+  "explanation": "hierro está relacionado con transporte de oxígeno.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "hierro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

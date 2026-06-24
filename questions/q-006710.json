@@ -1,0 +1,42 @@
+{
+  "id": "q-006710",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Lost, Seinfeld, Better Call Saul y The Mandalorian, qué serie se asocia con Jack Shephard?",
+  "answers": [
+    {
+      "text": "Lost",
+      "correct": true
+    },
+    {
+      "text": "Better Call Saul",
+      "correct": false
+    },
+    {
+      "text": "Seinfeld",
+      "correct": false
+    },
+    {
+      "text": "The Mandalorian",
+      "correct": false
+    }
+  ],
+  "explanation": "Jack Shephard se asocia con “Lost”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "jack-shephard"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

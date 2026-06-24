@@ -1,0 +1,42 @@
+{
+  "id": "q-009481",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 80% de 125?",
+  "answers": [
+    {
+      "text": "95",
+      "correct": false
+    },
+    {
+      "text": "105",
+      "correct": false
+    },
+    {
+      "text": "110",
+      "correct": false
+    },
+    {
+      "text": "100",
+      "correct": true
+    }
+  ],
+  "explanation": "El 80% de 125 se calcula como 125 × 80/100 = 100.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

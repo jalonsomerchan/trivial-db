@@ -1,0 +1,42 @@
+{
+  "id": "q-008649",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué signo de puntuación se usa para marcar una exclamación?",
+  "answers": [
+    {
+      "text": "signos de exclamación",
+      "correct": true
+    },
+    {
+      "text": "coma",
+      "correct": false
+    },
+    {
+      "text": "raya",
+      "correct": false
+    },
+    {
+      "text": "dos puntos",
+      "correct": false
+    }
+  ],
+  "explanation": "El signo llamado signos de exclamación se usa para marcar una exclamación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "signos-de-exclamacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

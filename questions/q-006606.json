@@ -1,0 +1,43 @@
+{
+  "id": "q-006606",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Suecia, Alemania, Estados Unidos y Jamaica, de qué país procede Rammstein?",
+  "answers": [
+    {
+      "text": "Jamaica",
+      "correct": false
+    },
+    {
+      "text": "Suecia",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Alemania",
+      "correct": true
+    }
+  ],
+  "explanation": "Rammstein procede de Alemania.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "rammstein",
+    "alemania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

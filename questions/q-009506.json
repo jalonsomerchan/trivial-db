@@ -1,0 +1,42 @@
+{
+  "id": "q-009506",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <article>, <video>, <script> y <ol>, qué etiqueta HTML se usa para marcar contenido independiente?",
+  "answers": [
+    {
+      "text": "<article>",
+      "correct": true
+    },
+    {
+      "text": "<ol>",
+      "correct": false
+    },
+    {
+      "text": "<script>",
+      "correct": false
+    },
+    {
+      "text": "<video>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <article> se usa para marcar contenido independiente.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "article"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

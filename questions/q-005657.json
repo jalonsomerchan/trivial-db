@@ -1,0 +1,42 @@
+{
+  "id": "q-005657",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué órgano se encarga principalmente de detectar la luz en el ojo?",
+  "answers": [
+    {
+      "text": "retina",
+      "correct": true
+    },
+    {
+      "text": "corazón",
+      "correct": false
+    },
+    {
+      "text": "diafragma",
+      "correct": false
+    },
+    {
+      "text": "intestino delgado",
+      "correct": false
+    }
+  ],
+  "explanation": "La retina se encarga principalmente de detectar la luz en el ojo.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "retina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

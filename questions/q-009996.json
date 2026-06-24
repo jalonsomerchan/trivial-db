@@ -1,0 +1,42 @@
+{
+  "id": "q-009996",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS define el espacio interior?",
+  "answers": [
+    {
+      "text": "border-radius",
+      "correct": false
+    },
+    {
+      "text": "padding",
+      "correct": true
+    },
+    {
+      "text": "margin",
+      "correct": false
+    },
+    {
+      "text": "white-space",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS padding define el espacio interior.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "padding"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

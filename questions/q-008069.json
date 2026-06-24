@@ -1,0 +1,43 @@
+{
+  "id": "q-008069",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre George Washington, Victoria del Reino Unido, Catalina la Grande y Akbar, qué personaje histórico se asocia con Casa de Hannover?",
+  "answers": [
+    {
+      "text": "George Washington",
+      "correct": false
+    },
+    {
+      "text": "Catalina la Grande",
+      "correct": false
+    },
+    {
+      "text": "Victoria del Reino Unido",
+      "correct": true
+    },
+    {
+      "text": "Akbar",
+      "correct": false
+    }
+  ],
+  "explanation": "Victoria del Reino Unido se asocia con Casa de Hannover.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "victoria-del-reino-unido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

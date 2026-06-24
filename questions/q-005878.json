@@ -1,0 +1,42 @@
+{
+  "id": "q-005878",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal del cerebro?",
+  "answers": [
+    {
+      "text": "coordinar funciones nerviosas superiores",
+      "correct": true
+    },
+    {
+      "text": "producir enzimas digestivas e insulina",
+      "correct": false
+    },
+    {
+      "text": "detectar la luz en el ojo",
+      "correct": false
+    },
+    {
+      "text": "conducir aire hacia los bronquios",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del cerebro es coordinar funciones nerviosas superiores.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "cerebro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

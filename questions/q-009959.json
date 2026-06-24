@@ -1,0 +1,42 @@
+{
+  "id": "q-009959",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método de JavaScript cambia el contenido eliminando o insertando elementos?",
+  "answers": [
+    {
+      "text": "sort()",
+      "correct": false
+    },
+    {
+      "text": "pop()",
+      "correct": false
+    },
+    {
+      "text": "push()",
+      "correct": false
+    },
+    {
+      "text": "splice()",
+      "correct": true
+    }
+  ],
+  "explanation": "El método splice() cambia el contenido eliminando o insertando elementos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "splice"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

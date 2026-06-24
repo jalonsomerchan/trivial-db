@@ -1,0 +1,42 @@
+{
+  "id": "q-005835",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué sistema pertenece principalmente el bazo?",
+  "answers": [
+    {
+      "text": "sistema circulatorio",
+      "correct": false
+    },
+    {
+      "text": "sistema visual",
+      "correct": false
+    },
+    {
+      "text": "sistema endocrino",
+      "correct": false
+    },
+    {
+      "text": "sistema linfático",
+      "correct": true
+    }
+  ],
+  "explanation": "El bazo pertenece principalmente al sistema linfático.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "sistema-linfatico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

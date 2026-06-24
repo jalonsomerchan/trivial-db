@@ -1,0 +1,43 @@
+{
+  "id": "q-006270",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre knockout, touchdown, home run y pole position, qué término se asocia con automovilismo?",
+  "answers": [
+    {
+      "text": "pole position",
+      "correct": true
+    },
+    {
+      "text": "knockout",
+      "correct": false
+    },
+    {
+      "text": "touchdown",
+      "correct": false
+    },
+    {
+      "text": "home run",
+      "correct": false
+    }
+  ],
+  "explanation": "“pole position” es un término asociado con automovilismo.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "automovilismo",
+    "pole-position"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

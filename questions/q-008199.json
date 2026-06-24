@@ -1,0 +1,42 @@
+{
+  "id": "q-008199",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la unificación de Italia?",
+  "answers": [
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "independencia de Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "Revolución rusa",
+      "correct": false
+    }
+  ],
+  "explanation": "independencia de Estados Unidos ocurrió antes que la unificación de Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006352",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "formula-1"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué país se celebra el Gran Premio de Australia?",
+  "answers": [
+    {
+      "text": "Hungría",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Australia",
+      "correct": true
+    },
+    {
+      "text": "Emiratos Árabes Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El Gran Premio de Australia se celebra en Australia.",
+  "sources": [
+    {
+      "title": "Formula 1",
+      "url": "https://www.formula1.com/"
+    }
+  ],
+  "tags": [
+    "formula-1",
+    "gran-premio-de-australia",
+    "australia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

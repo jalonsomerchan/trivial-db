@@ -1,0 +1,43 @@
+{
+  "id": "q-007672",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Arabia Saudí, Kuwait, Suiza o Gabón?",
+  "answers": [
+    {
+      "text": "Suiza",
+      "correct": false
+    },
+    {
+      "text": "Kuwait",
+      "correct": false
+    },
+    {
+      "text": "Arabia Saudí",
+      "correct": true
+    },
+    {
+      "text": "Gabón",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Arabia Saudí tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

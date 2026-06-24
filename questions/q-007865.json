@@ -1,0 +1,43 @@
+{
+  "id": "q-007865",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país tiene frontera terrestre Túnez?",
+  "answers": [
+    {
+      "text": "Comoras",
+      "correct": false
+    },
+    {
+      "text": "Sudán del Sur",
+      "correct": false
+    },
+    {
+      "text": "Argelia",
+      "correct": true
+    },
+    {
+      "text": "Ghana",
+      "correct": false
+    }
+  ],
+  "explanation": "Túnez comparte frontera terrestre con Argelia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "fronteras",
+    "tunez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007077",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre col fermentada, yogur y pepino, frutos secos y masa filo y fideos de arroz, qué ingrediente es característico del baklava?",
+  "answers": [
+    {
+      "text": "col fermentada",
+      "correct": false
+    },
+    {
+      "text": "frutos secos y masa filo",
+      "correct": true
+    },
+    {
+      "text": "fideos de arroz",
+      "correct": false
+    },
+    {
+      "text": "yogur y pepino",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del baklava es frutos secos y masa filo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "baklava",
+    "frutos-secos-y-masa-filo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

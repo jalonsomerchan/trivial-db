@@ -1,0 +1,42 @@
+{
+  "id": "q-008760",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre yo cantaba, yo voy a cantar, yo estoy cantando y yo había cantado, qué forma verbal corresponde a perífrasis de futuro?",
+  "answers": [
+    {
+      "text": "yo cantaba",
+      "correct": false
+    },
+    {
+      "text": "yo voy a cantar",
+      "correct": true
+    },
+    {
+      "text": "yo estoy cantando",
+      "correct": false
+    },
+    {
+      "text": "yo había cantado",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo voy a cantar” corresponde a perífrasis de futuro.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "perifrasis-de-futuro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

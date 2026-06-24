@@ -1,0 +1,42 @@
+{
+  "id": "q-009417",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 16% de 575?",
+  "answers": [
+    {
+      "text": "102",
+      "correct": false
+    },
+    {
+      "text": "92",
+      "correct": true
+    },
+    {
+      "text": "97",
+      "correct": false
+    },
+    {
+      "text": "87",
+      "correct": false
+    }
+  ],
+  "explanation": "El 16% de 575 se calcula como 575 × 16/100 = 92.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

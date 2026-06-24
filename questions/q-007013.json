@@ -1,0 +1,44 @@
+{
+  "id": "q-007013",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo alimentario pertenece guisantes?",
+  "answers": [
+    {
+      "text": "fruto seco",
+      "correct": false
+    },
+    {
+      "text": "cereal",
+      "correct": false
+    },
+    {
+      "text": "pescado",
+      "correct": false
+    },
+    {
+      "text": "legumbre",
+      "correct": true
+    }
+  ],
+  "explanation": "guisantes pertenece al grupo de legumbre.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "guisantes",
+    "legumbre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006608",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Suecia, Francia, Corea del Sur y Irlanda, de qué país procede U2?",
+  "answers": [
+    {
+      "text": "Suecia",
+      "correct": false
+    },
+    {
+      "text": "Irlanda",
+      "correct": true
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Corea del Sur",
+      "correct": false
+    }
+  ],
+  "explanation": "U2 procede de Irlanda.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "u2",
+    "irlanda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

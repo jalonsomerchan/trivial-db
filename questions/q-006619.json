@@ -1,0 +1,43 @@
+{
+  "id": "q-006619",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la película “King Kong”?",
+  "answers": [
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Andrew Stanton",
+      "correct": false
+    },
+    {
+      "text": "John Lasseter",
+      "correct": false
+    },
+    {
+      "text": "Peter Jackson",
+      "correct": true
+    }
+  ],
+  "explanation": "“King Kong” fue dirigida por Peter Jackson.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "king-kong",
+    "peter-jackson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

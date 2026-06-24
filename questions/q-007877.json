@@ -1,0 +1,43 @@
+{
+  "id": "q-007877",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Bulgaria?",
+  "answers": [
+    {
+      "text": "Southern Europe",
+      "correct": false
+    },
+    {
+      "text": "Northern Africa",
+      "correct": false
+    },
+    {
+      "text": "Western Africa",
+      "correct": false
+    },
+    {
+      "text": "Eastern Europe",
+      "correct": true
+    }
+  ],
+  "explanation": "Bulgaria pertenece a la subregión Eastern Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "bulgaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

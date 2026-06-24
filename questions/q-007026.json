@@ -1,0 +1,44 @@
+{
+  "id": "q-007026",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo alimentario pertenece pollo?",
+  "answers": [
+    {
+      "text": "hortaliza",
+      "correct": false
+    },
+    {
+      "text": "cereal",
+      "correct": false
+    },
+    {
+      "text": "lácteo",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": true
+    }
+  ],
+  "explanation": "pollo pertenece al grupo de carne.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "pollo",
+    "carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

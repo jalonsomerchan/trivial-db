@@ -1,0 +1,43 @@
+{
+  "id": "q-006594",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Scorpion, Link, Jill Valentine y Mega Man, qué personaje protagoniza o representa la saga “Resident Evil”?",
+  "answers": [
+    {
+      "text": "Jill Valentine",
+      "correct": true
+    },
+    {
+      "text": "Link",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Scorpion",
+      "correct": false
+    }
+  ],
+  "explanation": "Jill Valentine es un personaje asociado a “Resident Evil”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "resident-evil",
+    "jill-valentine"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

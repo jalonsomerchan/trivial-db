@@ -1,0 +1,43 @@
+{
+  "id": "q-007353",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre arepa, paella, ramen y salmorejo, qué plato se asocia con Japón y fideos?",
+  "answers": [
+    {
+      "text": "ramen",
+      "correct": true
+    },
+    {
+      "text": "salmorejo",
+      "correct": false
+    },
+    {
+      "text": "arepa",
+      "correct": false
+    },
+    {
+      "text": "paella",
+      "correct": false
+    }
+  ],
+  "explanation": "El ramen se asocia con Japón y con fideos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "japon",
+    "fideos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

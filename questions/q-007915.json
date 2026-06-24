@@ -1,0 +1,43 @@
+{
+  "id": "q-007915",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Malasia?",
+  "answers": [
+    {
+      "text": "Eastern Asia",
+      "correct": false
+    },
+    {
+      "text": "South-Eastern Asia",
+      "correct": true
+    },
+    {
+      "text": "Central Asia",
+      "correct": false
+    },
+    {
+      "text": "Caribbean",
+      "correct": false
+    }
+  ],
+  "explanation": "Malasia pertenece a la subregión South-Eastern Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "malasia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009465",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 35% de 600?",
+  "answers": [
+    {
+      "text": "205",
+      "correct": false
+    },
+    {
+      "text": "215",
+      "correct": false
+    },
+    {
+      "text": "220",
+      "correct": false
+    },
+    {
+      "text": "210",
+      "correct": true
+    }
+  ],
+  "explanation": "El 35% de 600 se calcula como 600 × 35/100 = 210.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

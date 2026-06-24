@@ -1,0 +1,42 @@
+{
+  "id": "q-008890",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre marcar una exclamación, marcar una pregunta directa, marcar intervenciones o incisos y indicar interrupción o suspensión, para qué se usa principalmente el signo llamado puntos suspensivos?",
+  "answers": [
+    {
+      "text": "indicar interrupción o suspensión",
+      "correct": true
+    },
+    {
+      "text": "marcar intervenciones o incisos",
+      "correct": false
+    },
+    {
+      "text": "marcar una exclamación",
+      "correct": false
+    },
+    {
+      "text": "marcar una pregunta directa",
+      "correct": false
+    }
+  ],
+  "explanation": "El puntos suspensivos se usa principalmente para indicar interrupción o suspensión.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "puntos-suspensivos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

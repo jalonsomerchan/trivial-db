@@ -1,0 +1,43 @@
+{
+  "id": "q-007972",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Marruecos?",
+  "answers": [
+    {
+      "text": "georgiano",
+      "correct": false
+    },
+    {
+      "text": "kinyarwanda",
+      "correct": false
+    },
+    {
+      "text": "tailandés",
+      "correct": false
+    },
+    {
+      "text": "árabe",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Marruecos figura el árabe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "marruecos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

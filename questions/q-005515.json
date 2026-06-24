@@ -1,0 +1,43 @@
+{
+  "id": "q-005515",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado gamba?",
+  "answers": [
+    {
+      "text": "anfibios",
+      "correct": false
+    },
+    {
+      "text": "mamíferos",
+      "correct": false
+    },
+    {
+      "text": "crustáceos",
+      "correct": true
+    },
+    {
+      "text": "aves",
+      "correct": false
+    }
+  ],
+  "explanation": "El gamba pertenece al grupo de los crustáceos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "crustaceos",
+    "gamba"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

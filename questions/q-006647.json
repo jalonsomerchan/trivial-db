@@ -1,0 +1,43 @@
+{
+  "id": "q-006647",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje protagoniza o representa la saga “Super Mario Bros.”?",
+  "answers": [
+    {
+      "text": "Mario",
+      "correct": true
+    },
+    {
+      "text": "Lara Croft",
+      "correct": false
+    },
+    {
+      "text": "Link",
+      "correct": false
+    },
+    {
+      "text": "Geralt de Rivia",
+      "correct": false
+    }
+  ],
+  "explanation": "Mario es un personaje asociado a “Super Mario Bros.”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "super-mario-bros",
+    "mario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

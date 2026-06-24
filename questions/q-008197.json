@@ -1,0 +1,42 @@
+{
+  "id": "q-008197",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la toma de la Bastilla?",
+  "answers": [
+    {
+      "text": "batalla de Waterloo",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": true
+    }
+  ],
+  "explanation": "asesinato de Julio César ocurrió antes que la toma de la Bastilla.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

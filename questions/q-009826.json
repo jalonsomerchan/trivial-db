@@ -1,0 +1,43 @@
+{
+  "id": "q-009826",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué significa el código HTTP 400?",
+  "answers": [
+    {
+      "text": "Bad Request",
+      "correct": true
+    },
+    {
+      "text": "Moved Permanently",
+      "correct": false
+    },
+    {
+      "text": "Request Timeout",
+      "correct": false
+    },
+    {
+      "text": "Too Many Requests",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 400 corresponde a Bad Request.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "400"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

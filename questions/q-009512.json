@@ -1,0 +1,42 @@
+{
+  "id": "q-009512",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <canvas>, <footer>, <style> y <td>, qué etiqueta HTML se usa para incluir estilos CSS?",
+  "answers": [
+    {
+      "text": "<canvas>",
+      "correct": false
+    },
+    {
+      "text": "<style>",
+      "correct": true
+    },
+    {
+      "text": "<footer>",
+      "correct": false
+    },
+    {
+      "text": "<td>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <style> se usa para incluir estilos CSS.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "style"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

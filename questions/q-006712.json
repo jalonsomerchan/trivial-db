@@ -1,0 +1,42 @@
+{
+  "id": "q-006712",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Mega Man, Crash Bandicoot, The Last of Us y Metal Gear Solid, qué videojuego se asocia con Mega Man?",
+  "answers": [
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": true
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": false
+    },
+    {
+      "text": "Crash Bandicoot",
+      "correct": false
+    }
+  ],
+  "explanation": "Mega Man se asocia con “Mega Man”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mega-man"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009772",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué controla principalmente la propiedad CSS transition?",
+  "answers": [
+    {
+      "text": "controla el método de posicionamiento",
+      "correct": false
+    },
+    {
+      "text": "define una transición entre estados",
+      "correct": true
+    },
+    {
+      "text": "define el espacio exterior",
+      "correct": false
+    },
+    {
+      "text": "define el cursor del puntero",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad transition define una transición entre estados.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "transition"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

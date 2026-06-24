@@ -1,0 +1,42 @@
+{
+  "id": "q-005964",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre sistema endocrino, sistema digestivo, sistema urinario y sistema tegumentario, a qué sistema pertenece principalmente el intestino grueso?",
+  "answers": [
+    {
+      "text": "sistema endocrino",
+      "correct": false
+    },
+    {
+      "text": "sistema tegumentario",
+      "correct": false
+    },
+    {
+      "text": "sistema digestivo",
+      "correct": true
+    },
+    {
+      "text": "sistema urinario",
+      "correct": false
+    }
+  ],
+  "explanation": "El intestino grueso pertenece principalmente al sistema digestivo.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "sistema-digestivo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009375",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "fracciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fracción equivale aproximadamente a 0.8?",
+  "answers": [
+    {
+      "text": "16/20",
+      "correct": true
+    },
+    {
+      "text": "4/20",
+      "correct": false
+    },
+    {
+      "text": "16/21",
+      "correct": false
+    },
+    {
+      "text": "20/16",
+      "correct": false
+    }
+  ],
+  "explanation": "16/20 equivale aproximadamente a 0.8.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "fracciones",
+    "decimales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

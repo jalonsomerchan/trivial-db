@@ -1,0 +1,42 @@
+{
+  "id": "q-005127",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre crónica, autobiografía, sátira y novela, qué género literario es un relato de hechos en orden temporal?",
+  "answers": [
+    {
+      "text": "crónica",
+      "correct": true
+    },
+    {
+      "text": "novela",
+      "correct": false
+    },
+    {
+      "text": "sátira",
+      "correct": false
+    },
+    {
+      "text": "autobiografía",
+      "correct": false
+    }
+  ],
+  "explanation": "Un crónica es un relato de hechos en orden temporal.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "cronica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

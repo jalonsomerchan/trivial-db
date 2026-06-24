@@ -1,0 +1,42 @@
+{
+  "id": "q-005946",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre murciélago, mariposa, garrapata y águila, cuál de estos animales pertenece al grupo de los aves?",
+  "answers": [
+    {
+      "text": "murciélago",
+      "correct": false
+    },
+    {
+      "text": "garrapata",
+      "correct": false
+    },
+    {
+      "text": "mariposa",
+      "correct": false
+    },
+    {
+      "text": "águila",
+      "correct": true
+    }
+  ],
+  "explanation": "El águila pertenece al grupo de los aves.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "aves"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

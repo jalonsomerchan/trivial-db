@@ -1,0 +1,43 @@
+{
+  "id": "q-007842",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país tiene frontera terrestre Chipre?",
+  "answers": [
+    {
+      "text": "Reino Unido",
+      "correct": true
+    },
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "Austria",
+      "correct": false
+    },
+    {
+      "text": "República Eslovaca",
+      "correct": false
+    }
+  ],
+  "explanation": "Chipre comparte frontera terrestre con Reino Unido.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "fronteras",
+    "chipre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

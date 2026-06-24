@@ -1,0 +1,43 @@
+{
+  "id": "q-006590",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Quentin Tarantino, Bong Joon-ho, Damien Chazelle y Lana y Lilly Wachowski, quién dirigió la película “Parásitos”?",
+  "answers": [
+    {
+      "text": "Bong Joon-ho",
+      "correct": true
+    },
+    {
+      "text": "Quentin Tarantino",
+      "correct": false
+    },
+    {
+      "text": "Damien Chazelle",
+      "correct": false
+    },
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": false
+    }
+  ],
+  "explanation": "“Parásitos” fue dirigida por Bong Joon-ho.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "parasitos",
+    "bong-joon-ho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

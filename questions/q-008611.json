@@ -1,0 +1,42 @@
+{
+  "id": "q-008611",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre morir, recibir, responder y destruir, cuál es un antónimo de “preguntar”?",
+  "answers": [
+    {
+      "text": "destruir",
+      "correct": false
+    },
+    {
+      "text": "morir",
+      "correct": false
+    },
+    {
+      "text": "recibir",
+      "correct": false
+    },
+    {
+      "text": "responder",
+      "correct": true
+    }
+  ],
+  "explanation": "“responder” es un antónimo de “preguntar”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "preguntar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

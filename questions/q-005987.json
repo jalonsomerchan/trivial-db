@@ -1,0 +1,43 @@
+{
+  "id": "q-005987",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué característica define a los crustáceos?",
+  "answers": [
+    {
+      "text": "incluyen estrellas de mar y erizos",
+      "correct": false
+    },
+    {
+      "text": "tienen ocho patas",
+      "correct": false
+    },
+    {
+      "text": "tienen seis patas",
+      "correct": false
+    },
+    {
+      "text": "incluyen cangrejos y langostas",
+      "correct": true
+    }
+  ],
+  "explanation": "Los crustáceos se caracterizan porque incluyen cangrejos y langostas.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "crustaceos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

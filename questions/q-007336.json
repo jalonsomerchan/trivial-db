@@ -1,0 +1,43 @@
+{
+  "id": "q-007336",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos alimentos pertenece al grupo carne?",
+  "answers": [
+    {
+      "text": "avellana",
+      "correct": false
+    },
+    {
+      "text": "lentejas",
+      "correct": false
+    },
+    {
+      "text": "pollo",
+      "correct": true
+    },
+    {
+      "text": "alubias",
+      "correct": false
+    }
+  ],
+  "explanation": "pollo pertenece al grupo carne.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

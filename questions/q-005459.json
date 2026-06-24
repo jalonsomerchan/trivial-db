@@ -1,0 +1,42 @@
+{
+  "id": "q-005459",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre relato de hechos en orden temporal, obra dramática con desenlace grave, narración breve de ficción y poema de tono elevado o celebrativo, qué define principalmente a un oda?",
+  "answers": [
+    {
+      "text": "poema de tono elevado o celebrativo",
+      "correct": true
+    },
+    {
+      "text": "narración breve de ficción",
+      "correct": false
+    },
+    {
+      "text": "relato de hechos en orden temporal",
+      "correct": false
+    },
+    {
+      "text": "obra dramática con desenlace grave",
+      "correct": false
+    }
+  ],
+  "explanation": "Un oda se define como poema de tono elevado o celebrativo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "oda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

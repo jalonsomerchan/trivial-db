@@ -1,0 +1,43 @@
+{
+  "id": "q-008095",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Victoria del Reino Unido, José de San Martín, Pedro el Grande y Solimán el Magnífico, qué personaje histórico se asocia con Romanov?",
+  "answers": [
+    {
+      "text": "Solimán el Magnífico",
+      "correct": false
+    },
+    {
+      "text": "Victoria del Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Pedro el Grande",
+      "correct": true
+    },
+    {
+      "text": "José de San Martín",
+      "correct": false
+    }
+  ],
+  "explanation": "Pedro el Grande se asocia con Romanov.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "pedro-el-grande"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

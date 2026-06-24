@@ -1,0 +1,43 @@
+{
+  "id": "q-005360",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué país está el Alte Pinakothek?",
+  "answers": [
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Alemania",
+      "correct": true
+    },
+    {
+      "text": "Países Bajos",
+      "correct": false
+    },
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    }
+  ],
+  "explanation": "El Alte Pinakothek está en Alemania.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "alte-pinakothek",
+    "alemania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

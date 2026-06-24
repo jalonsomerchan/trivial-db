@@ -1,0 +1,42 @@
+{
+  "id": "q-008936",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente el signo llamado punto y coma?",
+  "answers": [
+    {
+      "text": "introducir información aclaratoria",
+      "correct": false
+    },
+    {
+      "text": "separar enunciados relacionados",
+      "correct": true
+    },
+    {
+      "text": "separar elementos o incisos",
+      "correct": false
+    },
+    {
+      "text": "introducir una enumeración o explicación",
+      "correct": false
+    }
+  ],
+  "explanation": "El punto y coma se usa principalmente para separar enunciados relacionados.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "punto-y-coma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-006815",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Doom Slayer?",
+  "answers": [
+    {
+      "text": "Minecraft",
+      "correct": false
+    },
+    {
+      "text": "Halo",
+      "correct": false
+    },
+    {
+      "text": "Doom",
+      "correct": true
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    }
+  ],
+  "explanation": "Doom Slayer se asocia con “Doom”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "doom-slayer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

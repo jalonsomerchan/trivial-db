@@ -1,0 +1,43 @@
+{
+  "id": "q-005268",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Piet Mondrian, Claude Monet, Diego Velázquez y Miguel Ángel, qué artista se vincula con Neoplasticismo y Países Bajos?",
+  "answers": [
+    {
+      "text": "Miguel Ángel",
+      "correct": false
+    },
+    {
+      "text": "Piet Mondrian",
+      "correct": true
+    },
+    {
+      "text": "Diego Velázquez",
+      "correct": false
+    },
+    {
+      "text": "Claude Monet",
+      "correct": false
+    }
+  ],
+  "explanation": "Piet Mondrian se vincula con Neoplasticismo y Países Bajos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "neoplasticismo",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

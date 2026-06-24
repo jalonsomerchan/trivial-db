@@ -1,0 +1,43 @@
+{
+  "id": "q-007894",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Groenlandia?",
+  "answers": [
+    {
+      "text": "Northern Africa",
+      "correct": false
+    },
+    {
+      "text": "Eastern Africa",
+      "correct": false
+    },
+    {
+      "text": "Northern America",
+      "correct": true
+    },
+    {
+      "text": "Polynesia",
+      "correct": false
+    }
+  ],
+  "explanation": "Groenlandia pertenece a la subregión Northern America.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "groenlandia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

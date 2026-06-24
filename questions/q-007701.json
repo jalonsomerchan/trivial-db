@@ -1,0 +1,43 @@
+{
+  "id": "q-007701",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Grenada, Guatemala, Congo (Rep. Dem.) o Bulgaria?",
+  "answers": [
+    {
+      "text": "Congo (Rep. Dem.)",
+      "correct": true
+    },
+    {
+      "text": "Bulgaria",
+      "correct": false
+    },
+    {
+      "text": "Guatemala",
+      "correct": false
+    },
+    {
+      "text": "Grenada",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Congo (Rep. Dem.) tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005560",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre diafragma, piel, tráquea y riñones, qué órgano se encarga principalmente de conducir aire hacia los bronquios?",
+  "answers": [
+    {
+      "text": "riñones",
+      "correct": false
+    },
+    {
+      "text": "diafragma",
+      "correct": false
+    },
+    {
+      "text": "piel",
+      "correct": false
+    },
+    {
+      "text": "tráquea",
+      "correct": true
+    }
+  ],
+  "explanation": "La tráquea se encarga principalmente de conducir aire hacia los bronquios.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "traquea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

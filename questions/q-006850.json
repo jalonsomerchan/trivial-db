@@ -1,0 +1,43 @@
+{
+  "id": "q-006850",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente “Alien”?",
+  "answers": [
+    {
+      "text": "aventura",
+      "correct": false
+    },
+    {
+      "text": "thriller",
+      "correct": false
+    },
+    {
+      "text": "suspense",
+      "correct": false
+    },
+    {
+      "text": "terror y ciencia ficción",
+      "correct": true
+    }
+  ],
+  "explanation": "“Alien” se asocia principalmente con terror y ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alien",
+    "terror-y-ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

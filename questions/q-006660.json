@@ -1,0 +1,43 @@
+{
+  "id": "q-006660",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con la serie “Seinfeld”?",
+  "answers": [
+    {
+      "text": "Once",
+      "correct": false
+    },
+    {
+      "text": "Walter White",
+      "correct": false
+    },
+    {
+      "text": "el Doctor",
+      "correct": false
+    },
+    {
+      "text": "Jerry Seinfeld",
+      "correct": true
+    }
+  ],
+  "explanation": "Jerry Seinfeld es un personaje asociado con “Seinfeld”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "seinfeld",
+    "jerry-seinfeld"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

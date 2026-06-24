@@ -1,0 +1,43 @@
+{
+  "id": "q-008421",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se relaciona principalmente Luis XIV?",
+  "answers": [
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": true
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Aragón",
+      "correct": false
+    }
+  ],
+  "explanation": "Luis XIV se relaciona principalmente con Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

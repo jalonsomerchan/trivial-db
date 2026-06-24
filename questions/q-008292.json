@@ -1,0 +1,42 @@
+{
+  "id": "q-008292",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre edicto de Milán, caída del Imperio romano de Occidente, inicio de la Primera Cruzada y llegada del Apolo 11 a la Luna, cuál de estos hechos ocurrió después que la llegada de Colón a América?",
+  "answers": [
+    {
+      "text": "inicio de la Primera Cruzada",
+      "correct": false
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": true
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    }
+  ],
+  "explanation": "llegada del Apolo 11 a la Luna ocurrió después que la llegada de Colón a América.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

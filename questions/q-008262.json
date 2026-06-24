@@ -1,0 +1,43 @@
+{
+  "id": "q-008262",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre basílica de Santa Sofía, democracia ateniense, escritura cuneiforme y figura de Aníbal, qué elemento histórico se asocia con la civilización mesopotámica?",
+  "answers": [
+    {
+      "text": "figura de Aníbal",
+      "correct": false
+    },
+    {
+      "text": "escritura cuneiforme",
+      "correct": true
+    },
+    {
+      "text": "basílica de Santa Sofía",
+      "correct": false
+    },
+    {
+      "text": "democracia ateniense",
+      "correct": false
+    }
+  ],
+  "explanation": "La civilización mesopotámica se asocia con escritura cuneiforme.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "mesopotamica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008354",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1821?",
+  "answers": [
+    {
+      "text": "siglo VIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XVII",
+      "correct": false
+    },
+    {
+      "text": "siglo V",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1821 pertenece al siglo XIX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

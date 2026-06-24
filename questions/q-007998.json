@@ -1,0 +1,43 @@
+{
+  "id": "q-007998",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Venezuela?",
+  "answers": [
+    {
+      "text": "manés",
+      "correct": false
+    },
+    {
+      "text": "sotho meridional",
+      "correct": false
+    },
+    {
+      "text": "tongano",
+      "correct": false
+    },
+    {
+      "text": "español",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Venezuela figura el español.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "venezuela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

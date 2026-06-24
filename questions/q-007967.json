@@ -1,0 +1,43 @@
+{
+  "id": "q-007967",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Lituania?",
+  "answers": [
+    {
+      "text": "lituano",
+      "correct": true
+    },
+    {
+      "text": "armenio",
+      "correct": false
+    },
+    {
+      "text": "manés",
+      "correct": false
+    },
+    {
+      "text": "español",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Lituania figura el lituano.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "lituania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

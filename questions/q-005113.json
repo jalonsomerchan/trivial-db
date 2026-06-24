@@ -1,0 +1,43 @@
+{
+  "id": "q-005113",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Romanticismo, Abstracción, Fauvismo y Cubismo, con qué movimiento artístico se asocia Francisco de Goya?",
+  "answers": [
+    {
+      "text": "Cubismo",
+      "correct": false
+    },
+    {
+      "text": "Abstracción",
+      "correct": false
+    },
+    {
+      "text": "Romanticismo",
+      "correct": true
+    },
+    {
+      "text": "Fauvismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Francisco de Goya se asocia habitualmente con Romanticismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "francisco-de-goya",
+    "romanticismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008511",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “dar”?",
+  "answers": [
+    {
+      "text": "prohibir",
+      "correct": false
+    },
+    {
+      "text": "perder",
+      "correct": false
+    },
+    {
+      "text": "recibir",
+      "correct": true
+    },
+    {
+      "text": "lento",
+      "correct": false
+    }
+  ],
+  "explanation": "“recibir” es un antónimo de “dar”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "dar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

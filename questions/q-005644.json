@@ -1,0 +1,42 @@
+{
+  "id": "q-005644",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de planeta es Neptuno?",
+  "answers": [
+    {
+      "text": "gigante helado",
+      "correct": true
+    },
+    {
+      "text": "rocoso",
+      "correct": false
+    },
+    {
+      "text": "gigante helado 4",
+      "correct": false
+    },
+    {
+      "text": "gigante gaseoso",
+      "correct": false
+    }
+  ],
+  "explanation": "Neptuno se clasifica como gigante helado.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "neptuno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

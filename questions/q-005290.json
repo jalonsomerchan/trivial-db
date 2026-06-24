@@ -1,0 +1,43 @@
+{
+  "id": "q-005290",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Roy Lichtenstein, Leonardo da Vinci, Claude Monet y Wassily Kandinsky, qué artista se vincula con Abstracción y Rusia?",
+  "answers": [
+    {
+      "text": "Claude Monet",
+      "correct": false
+    },
+    {
+      "text": "Leonardo da Vinci",
+      "correct": false
+    },
+    {
+      "text": "Roy Lichtenstein",
+      "correct": false
+    },
+    {
+      "text": "Wassily Kandinsky",
+      "correct": true
+    }
+  ],
+  "explanation": "Wassily Kandinsky se vincula con Abstracción y Rusia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "abstraccion",
+    "rusia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

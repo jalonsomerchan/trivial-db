@@ -1,0 +1,44 @@
+{
+  "id": "q-007030",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo alimentario pertenece ternera?",
+  "answers": [
+    {
+      "text": "legumbre",
+      "correct": false
+    },
+    {
+      "text": "hortaliza",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": true
+    },
+    {
+      "text": "pescado",
+      "correct": false
+    }
+  ],
+  "explanation": "ternera pertenece al grupo de carne.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "ternera",
+    "carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

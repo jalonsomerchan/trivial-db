@@ -1,0 +1,42 @@
+{
+  "id": "q-005238",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Museo Británico, Metropolitan Museum of Art, Centro Pompidou y Tate Modern, qué museo se encuentra en Nueva York?",
+  "answers": [
+    {
+      "text": "Centro Pompidou",
+      "correct": false
+    },
+    {
+      "text": "Metropolitan Museum of Art",
+      "correct": true
+    },
+    {
+      "text": "Tate Modern",
+      "correct": false
+    },
+    {
+      "text": "Museo Británico",
+      "correct": false
+    }
+  ],
+  "explanation": "En Nueva York se encuentra el Metropolitan Museum of Art.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "nueva-york"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

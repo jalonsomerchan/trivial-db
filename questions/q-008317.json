@@ -1,0 +1,42 @@
+{
+  "id": "q-008317",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre primera vuelta al mundo completada por Elcano, batalla de Waterloo, coronación de Carlomagno y caída del Muro de Berlín, cuál de estos hechos ocurrió antes que la publicación de las 95 tesis de Lutero?",
+  "answers": [
+    {
+      "text": "coronación de Carlomagno",
+      "correct": true
+    },
+    {
+      "text": "primera vuelta al mundo completada por Elcano",
+      "correct": false
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "batalla de Waterloo",
+      "correct": false
+    }
+  ],
+  "explanation": "coronación de Carlomagno ocurrió antes que la publicación de las 95 tesis de Lutero.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

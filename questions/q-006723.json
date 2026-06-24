@@ -1,0 +1,42 @@
+{
+  "id": "q-006723",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Parásitos, El viaje de Chihiro, Mad Max: Fury Road y El padrino, qué película fue dirigida por Francis Ford Coppola?",
+  "answers": [
+    {
+      "text": "El padrino",
+      "correct": true
+    },
+    {
+      "text": "Parásitos",
+      "correct": false
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "Mad Max: Fury Road",
+      "correct": false
+    }
+  ],
+  "explanation": "Francis Ford Coppola dirigió “El padrino”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "francis-ford-coppola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

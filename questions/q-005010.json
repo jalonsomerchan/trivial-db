@@ -1,0 +1,43 @@
+{
+  "id": "q-005010",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué movimiento artístico se asocia Gustav Klimt?",
+  "answers": [
+    {
+      "text": "Expresionismo abstracto",
+      "correct": false
+    },
+    {
+      "text": "Surrealismo",
+      "correct": false
+    },
+    {
+      "text": "Renacimiento",
+      "correct": false
+    },
+    {
+      "text": "Modernismo",
+      "correct": true
+    }
+  ],
+  "explanation": "Gustav Klimt se asocia habitualmente con Modernismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "gustav-klimt",
+    "modernismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

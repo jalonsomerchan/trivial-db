@@ -1,0 +1,43 @@
+{
+  "id": "q-006011",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuántos jugadores por equipo compiten en hockey sobre hielo en su formato habitual?",
+  "answers": [
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": false
+    },
+    {
+      "text": "6",
+      "correct": true
+    },
+    {
+      "text": "11",
+      "correct": false
+    }
+  ],
+  "explanation": "En hockey sobre hielo, el formato habitual usa 6 jugadores por equipo.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "hockey-sobre-hielo",
+    "reglas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

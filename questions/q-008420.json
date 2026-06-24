@@ -1,0 +1,43 @@
+{
+  "id": "q-008420",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se relaciona principalmente José de San Martín?",
+  "answers": [
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "América del Sur",
+      "correct": true
+    }
+  ],
+  "explanation": "José de San Martín se relaciona principalmente con América del Sur.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "america-del-sur"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

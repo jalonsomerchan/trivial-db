@@ -1,0 +1,43 @@
+{
+  "id": "q-005318",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista se vincula con Renacimiento y Italia?",
+  "answers": [
+    {
+      "text": "Vincent van Gogh",
+      "correct": false
+    },
+    {
+      "text": "Claude Monet",
+      "correct": false
+    },
+    {
+      "text": "Jackson Pollock",
+      "correct": false
+    },
+    {
+      "text": "Leonardo da Vinci",
+      "correct": true
+    }
+  ],
+  "explanation": "Leonardo da Vinci se vincula con Renacimiento y Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento",
+    "italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

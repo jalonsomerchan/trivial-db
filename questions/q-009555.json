@@ -1,0 +1,42 @@
+{
+  "id": "q-009555",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <select>, <tr>, <footer> y <ul>, qué etiqueta HTML se usa para crear una lista no ordenada?",
+  "answers": [
+    {
+      "text": "<select>",
+      "correct": false
+    },
+    {
+      "text": "<tr>",
+      "correct": false
+    },
+    {
+      "text": "<footer>",
+      "correct": false
+    },
+    {
+      "text": "<ul>",
+      "correct": true
+    }
+  ],
+  "explanation": "La etiqueta <ul> se usa para crear una lista no ordenada.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "ul"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

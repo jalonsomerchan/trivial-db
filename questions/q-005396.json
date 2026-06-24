@@ -1,0 +1,43 @@
+{
+  "id": "q-005396",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Estados Unidos, Países Bajos, México y Francia, de qué país era Frida Kahlo?",
+  "answers": [
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "México",
+      "correct": true
+    },
+    {
+      "text": "Países Bajos",
+      "correct": false
+    }
+  ],
+  "explanation": "Frida Kahlo era de México.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "frida-kahlo",
+    "mexico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

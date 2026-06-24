@@ -1,0 +1,42 @@
+{
+  "id": "q-008648",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué signo de puntuación se usa para marcar intervenciones o incisos?",
+  "answers": [
+    {
+      "text": "paréntesis",
+      "correct": false
+    },
+    {
+      "text": "raya",
+      "correct": true
+    },
+    {
+      "text": "dos puntos",
+      "correct": false
+    },
+    {
+      "text": "puntos suspensivos",
+      "correct": false
+    }
+  ],
+  "explanation": "El signo llamado raya se usa para marcar intervenciones o incisos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "raya"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

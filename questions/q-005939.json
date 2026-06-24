@@ -1,0 +1,42 @@
+{
+  "id": "q-005939",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre destaca por sus anillos, es el planeta más alejado del Sol, no tiene lunas y tiene una luna, qué característica se asocia con Venus?",
+  "answers": [
+    {
+      "text": "no tiene lunas",
+      "correct": true
+    },
+    {
+      "text": "destaca por sus anillos",
+      "correct": false
+    },
+    {
+      "text": "es el planeta más alejado del Sol",
+      "correct": false
+    },
+    {
+      "text": "tiene una luna",
+      "correct": false
+    }
+  ],
+  "explanation": "Una característica de Venus es que no tiene lunas.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "venus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

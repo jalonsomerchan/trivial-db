@@ -1,0 +1,43 @@
+{
+  "id": "q-005517",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado iguana?",
+  "answers": [
+    {
+      "text": "aves",
+      "correct": false
+    },
+    {
+      "text": "equinodermos",
+      "correct": false
+    },
+    {
+      "text": "moluscos",
+      "correct": false
+    },
+    {
+      "text": "reptiles",
+      "correct": true
+    }
+  ],
+  "explanation": "El iguana pertenece al grupo de los reptiles.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "reptiles",
+    "iguana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

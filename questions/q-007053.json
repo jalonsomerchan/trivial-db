@@ -1,0 +1,43 @@
+{
+  "id": "q-007053",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Francia, España, Perú y Venezuela y Colombia, con qué país o región se asocia tradicionalmente el plato ceviche?",
+  "answers": [
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": true
+    },
+    {
+      "text": "Venezuela y Colombia",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    }
+  ],
+  "explanation": "El ceviche se asocia tradicionalmente con Perú.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ceviche",
+    "peru"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

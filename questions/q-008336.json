@@ -1,0 +1,42 @@
+{
+  "id": "q-008336",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año -480?",
+  "answers": [
+    {
+      "text": "siglo XX",
+      "correct": false
+    },
+    {
+      "text": "siglo VIII a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo V a. C.",
+      "correct": true
+    },
+    {
+      "text": "siglo XI",
+      "correct": false
+    }
+  ],
+  "explanation": "El año -480 pertenece al siglo V a. C..",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

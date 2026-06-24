@@ -1,0 +1,43 @@
+{
+  "id": "q-007337",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos alimentos pertenece al grupo cereal?",
+  "answers": [
+    {
+      "text": "arroz",
+      "correct": true
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "atún",
+      "correct": false
+    },
+    {
+      "text": "naranja",
+      "correct": false
+    }
+  ],
+  "explanation": "arroz pertenece al grupo cereal.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "cereal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

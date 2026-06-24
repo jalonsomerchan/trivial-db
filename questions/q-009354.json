@@ -1,0 +1,41 @@
+{
+  "id": "q-009354",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto vale el 75% de 360?",
+  "answers": [
+    {
+      "text": "280",
+      "correct": false
+    },
+    {
+      "text": "270",
+      "correct": true
+    },
+    {
+      "text": "275",
+      "correct": false
+    },
+    {
+      "text": "265",
+      "correct": false
+    }
+  ],
+  "explanation": "75% de 360 es 270.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

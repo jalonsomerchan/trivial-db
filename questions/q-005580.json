@@ -1,0 +1,42 @@
+{
+  "id": "q-005580",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre intestino delgado, diafragma, médula espinal y corazón, qué órgano se encarga principalmente de transmitir señales entre cerebro y cuerpo?",
+  "answers": [
+    {
+      "text": "intestino delgado",
+      "correct": false
+    },
+    {
+      "text": "médula espinal",
+      "correct": true
+    },
+    {
+      "text": "diafragma",
+      "correct": false
+    },
+    {
+      "text": "corazón",
+      "correct": false
+    }
+  ],
+  "explanation": "La médula espinal se encarga principalmente de transmitir señales entre cerebro y cuerpo.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "medula-espinal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

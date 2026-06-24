@@ -1,0 +1,42 @@
+{
+  "id": "q-005134",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre soneto, haiku, sátira y comedia, qué género literario es un poema breve japonés de tres versos?",
+  "answers": [
+    {
+      "text": "sátira",
+      "correct": false
+    },
+    {
+      "text": "haiku",
+      "correct": true
+    },
+    {
+      "text": "soneto",
+      "correct": false
+    },
+    {
+      "text": "comedia",
+      "correct": false
+    }
+  ],
+  "explanation": "Un haiku es un poema breve japonés de tres versos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "haiku"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

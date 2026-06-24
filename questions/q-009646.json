@@ -1,0 +1,42 @@
+{
+  "id": "q-009646",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para crear una lista no ordenada?",
+  "answers": [
+    {
+      "text": "<select>",
+      "correct": false
+    },
+    {
+      "text": "<footer>",
+      "correct": false
+    },
+    {
+      "text": "<ul>",
+      "correct": true
+    },
+    {
+      "text": "<tr>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <ul> se usa para crear una lista no ordenada.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "ul"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

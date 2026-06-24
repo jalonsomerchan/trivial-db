@@ -1,0 +1,42 @@
+{
+  "id": "q-009913",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <ol>?",
+  "answers": [
+    {
+      "text": "insertar audio",
+      "correct": false
+    },
+    {
+      "text": "crear una lista ordenada",
+      "correct": true
+    },
+    {
+      "text": "marcar una cabecera",
+      "correct": false
+    },
+    {
+      "text": "incluir estilos CSS",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <ol> sirve para crear una lista ordenada.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "ol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

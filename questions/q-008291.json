@@ -1,0 +1,42 @@
+{
+  "id": "q-008291",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre disolución de la Unión Soviética, inicio de la Guerra de Corea, independencia de México y fundación de la ONU, cuál de estos hechos ocurrió antes que la inicio de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": false
+    },
+    {
+      "text": "independencia de México",
+      "correct": true
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    },
+    {
+      "text": "fundación de la ONU",
+      "correct": false
+    }
+  ],
+  "explanation": "independencia de México ocurrió antes que la inicio de la Segunda Guerra Mundial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

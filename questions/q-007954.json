@@ -1,0 +1,43 @@
+{
+  "id": "q-007954",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Grenada?",
+  "answers": [
+    {
+      "text": "kazajo",
+      "correct": false
+    },
+    {
+      "text": "croata",
+      "correct": false
+    },
+    {
+      "text": "inglés",
+      "correct": true
+    },
+    {
+      "text": "francés",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Grenada figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "grenada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

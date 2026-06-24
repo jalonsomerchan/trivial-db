@@ -1,0 +1,43 @@
+{
+  "id": "q-007392",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre glasear, laminar, brasear y amasar, qué técnica culinaria consiste en estirar una masa en capas finas?",
+  "answers": [
+    {
+      "text": "laminar",
+      "correct": true
+    },
+    {
+      "text": "brasear",
+      "correct": false
+    },
+    {
+      "text": "amasar",
+      "correct": false
+    },
+    {
+      "text": "glasear",
+      "correct": false
+    }
+  ],
+  "explanation": "laminar consiste en estirar una masa en capas finas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "laminar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

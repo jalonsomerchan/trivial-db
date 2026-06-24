@@ -1,0 +1,42 @@
+{
+  "id": "q-008277",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre construcción del Muro de Berlín, batalla de Salamina, inicio de la Segunda Guerra Mundial y toma de la Bastilla, cuál de estos hechos ocurrió antes que la Paz de Westfalia?",
+  "answers": [
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": true
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "toma de la Bastilla",
+      "correct": false
+    }
+  ],
+  "explanation": "batalla de Salamina ocurrió antes que la Paz de Westfalia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

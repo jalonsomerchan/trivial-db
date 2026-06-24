@@ -1,0 +1,43 @@
+{
+  "id": "q-007969",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Macao?",
+  "answers": [
+    {
+      "text": "vietnamita",
+      "correct": false
+    },
+    {
+      "text": "francés",
+      "correct": false
+    },
+    {
+      "text": "venda",
+      "correct": false
+    },
+    {
+      "text": "chino",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Macao figura el chino.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "macao"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

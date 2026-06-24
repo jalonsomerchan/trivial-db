@@ -1,0 +1,42 @@
+{
+  "id": "q-008916",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre pretérito perfecto simple, pretérito imperfecto, futuro simple y presente de subjuntivo, qué tiempo verbal aparece en “yo canté”?",
+  "answers": [
+    {
+      "text": "pretérito perfecto simple",
+      "correct": true
+    },
+    {
+      "text": "futuro simple",
+      "correct": false
+    },
+    {
+      "text": "presente de subjuntivo",
+      "correct": false
+    },
+    {
+      "text": "pretérito imperfecto",
+      "correct": false
+    }
+  ],
+  "explanation": "“yo canté” está en pretérito perfecto simple.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-perfecto-simple"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

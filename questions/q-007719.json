@@ -1,0 +1,43 @@
+{
+  "id": "q-007719",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Macao, Malasia, Tonga o Guinea?",
+  "answers": [
+    {
+      "text": "Macao",
+      "correct": false
+    },
+    {
+      "text": "Guinea",
+      "correct": false
+    },
+    {
+      "text": "Malasia",
+      "correct": true
+    },
+    {
+      "text": "Tonga",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Malasia tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

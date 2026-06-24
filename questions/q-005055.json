@@ -1,0 +1,43 @@
+{
+  "id": "q-005055",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Berlín, Roma, Múnich y San Petersburgo, en qué ciudad se encuentra el Hermitage?",
+  "answers": [
+    {
+      "text": "Múnich",
+      "correct": false
+    },
+    {
+      "text": "San Petersburgo",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "El Hermitage se encuentra en San Petersburgo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "hermitage",
+    "san-petersburgo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

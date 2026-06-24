@@ -1,0 +1,42 @@
+{
+  "id": "q-005955",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre producir hormonas que regulan el metabolismo, iniciar la digestión de proteínas, almacenar orina y absorber agua y formar heces, cuál es una función principal del intestino grueso?",
+  "answers": [
+    {
+      "text": "producir hormonas que regulan el metabolismo",
+      "correct": false
+    },
+    {
+      "text": "iniciar la digestión de proteínas",
+      "correct": false
+    },
+    {
+      "text": "absorber agua y formar heces",
+      "correct": true
+    },
+    {
+      "text": "almacenar orina",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del intestino grueso es absorber agua y formar heces.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "intestino-grueso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

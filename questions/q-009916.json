@@ -1,0 +1,42 @@
+{
+  "id": "q-009916",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <section>?",
+  "answers": [
+    {
+      "text": "marcar una sección de navegación",
+      "correct": false
+    },
+    {
+      "text": "incluir estilos CSS",
+      "correct": false
+    },
+    {
+      "text": "marcar un pie de página",
+      "correct": false
+    },
+    {
+      "text": "marcar una sección temática",
+      "correct": true
+    }
+  ],
+  "explanation": "En HTML, <section> sirve para marcar una sección temática.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "section"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

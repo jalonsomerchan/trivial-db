@@ -1,0 +1,43 @@
+{
+  "id": "q-006954",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre superhéroes, drama romántico, ciencia ficción y animación, a qué género se asocia principalmente “Origen”?",
+  "answers": [
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    },
+    {
+      "text": "superhéroes",
+      "correct": false
+    },
+    {
+      "text": "drama romántico",
+      "correct": false
+    },
+    {
+      "text": "animación",
+      "correct": false
+    }
+  ],
+  "explanation": "“Origen” se asocia principalmente con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "origen",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009663",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para marcar el contenido principal?",
+  "answers": [
+    {
+      "text": "<meta>",
+      "correct": false
+    },
+    {
+      "text": "<main>",
+      "correct": true
+    },
+    {
+      "text": "<audio>",
+      "correct": false
+    },
+    {
+      "text": "<th>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <main> se usa para marcar el contenido principal.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "main"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

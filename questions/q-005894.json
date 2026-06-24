@@ -1,0 +1,42 @@
+{
+  "id": "q-005894",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal de la tiroides?",
+  "answers": [
+    {
+      "text": "producir hormonas que regulan el metabolismo",
+      "correct": true
+    },
+    {
+      "text": "detectar la luz en el ojo",
+      "correct": false
+    },
+    {
+      "text": "participar en la respuesta inmunitaria",
+      "correct": false
+    },
+    {
+      "text": "participar en la audición",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal de la tiroides es producir hormonas que regulan el metabolismo.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "tiroides"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

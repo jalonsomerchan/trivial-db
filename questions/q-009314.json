@@ -1,0 +1,42 @@
+{
+  "id": "q-009314",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuánto vale x si 6x + 37 = 361?",
+  "answers": [
+    {
+      "text": "56",
+      "correct": false
+    },
+    {
+      "text": "54",
+      "correct": true
+    },
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "55",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 37 y dividiendo entre 6, se obtiene x = 54.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

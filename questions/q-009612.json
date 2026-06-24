@@ -1,0 +1,42 @@
+{
+  "id": "q-009612",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre git stash, git add, git branch y git clone, qué comando de Git se usa para guardar cambios temporalmente?",
+  "answers": [
+    {
+      "text": "git stash",
+      "correct": true
+    },
+    {
+      "text": "git add",
+      "correct": false
+    },
+    {
+      "text": "git branch",
+      "correct": false
+    },
+    {
+      "text": "git clone",
+      "correct": false
+    }
+  ],
+  "explanation": "El comando git stash se usa para guardar cambios temporalmente.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-stash"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

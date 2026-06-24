@@ -1,0 +1,42 @@
+{
+  "id": "q-009345",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "estadistica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la media aritmética de 7, 20 y 36?",
+  "answers": [
+    {
+      "text": "21",
+      "correct": true
+    },
+    {
+      "text": "20",
+      "correct": false
+    },
+    {
+      "text": "22",
+      "correct": false
+    },
+    {
+      "text": "63",
+      "correct": false
+    }
+  ],
+  "explanation": "La media se obtiene sumando los tres números y dividiendo entre 3: (7+20+36)/3 = 21.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "media",
+    "estadistica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

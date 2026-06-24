@@ -1,0 +1,42 @@
+{
+  "id": "q-005815",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué expresión representa frecuencia?",
+  "answers": [
+    {
+      "text": "P = m·g",
+      "correct": false
+    },
+    {
+      "text": "W = F·d",
+      "correct": false
+    },
+    {
+      "text": "f = 1/T",
+      "correct": true
+    },
+    {
+      "text": "a = Δv/Δt",
+      "correct": false
+    }
+  ],
+  "explanation": "La expresión habitual de frecuencia es f = 1/T.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "frecuencia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

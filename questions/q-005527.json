@@ -1,0 +1,43 @@
+{
+  "id": "q-005527",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado salmón?",
+  "answers": [
+    {
+      "text": "crustáceos",
+      "correct": false
+    },
+    {
+      "text": "aves",
+      "correct": false
+    },
+    {
+      "text": "arácnidos",
+      "correct": false
+    },
+    {
+      "text": "peces",
+      "correct": true
+    }
+  ],
+  "explanation": "El salmón pertenece al grupo de los peces.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "peces",
+    "salmon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

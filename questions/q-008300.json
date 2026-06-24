@@ -1,0 +1,42 @@
+{
+  "id": "q-008300",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre fundación tradicional de Roma, revoluciones europeas de 1848, unificación de Italia y construcción del Muro de Berlín, cuál de estos hechos ocurrió antes que la Revolución Gloriosa inglesa?",
+  "answers": [
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": true
+    },
+    {
+      "text": "revoluciones europeas de 1848",
+      "correct": false
+    },
+    {
+      "text": "unificación de Italia",
+      "correct": false
+    }
+  ],
+  "explanation": "fundación tradicional de Roma ocurrió antes que la Revolución Gloriosa inglesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

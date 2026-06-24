@@ -1,0 +1,42 @@
+{
+  "id": "q-009426",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 18% de 450?",
+  "answers": [
+    {
+      "text": "86",
+      "correct": false
+    },
+    {
+      "text": "81",
+      "correct": true
+    },
+    {
+      "text": "76",
+      "correct": false
+    },
+    {
+      "text": "91",
+      "correct": false
+    }
+  ],
+  "explanation": "El 18% de 450 se calcula como 450 × 18/100 = 81.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

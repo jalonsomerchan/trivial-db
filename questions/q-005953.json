@@ -1,0 +1,42 @@
+{
+  "id": "q-005953",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre procesar nutrientes y desintoxicar sustancias, ayudar en la respiración, coordinar funciones nerviosas superiores y conducir aire hacia los bronquios, cuál es una función principal del hígado?",
+  "answers": [
+    {
+      "text": "ayudar en la respiración",
+      "correct": false
+    },
+    {
+      "text": "coordinar funciones nerviosas superiores",
+      "correct": false
+    },
+    {
+      "text": "conducir aire hacia los bronquios",
+      "correct": false
+    },
+    {
+      "text": "procesar nutrientes y desintoxicar sustancias",
+      "correct": true
+    }
+  ],
+  "explanation": "Una función principal del hígado es procesar nutrientes y desintoxicar sustancias.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "higado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

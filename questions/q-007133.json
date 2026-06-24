@@ -1,0 +1,43 @@
+{
+  "id": "q-007133",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre queso fundido, fideos, masa de pan y caldo con fideos, qué ingrediente es característico del ramen?",
+  "answers": [
+    {
+      "text": "caldo con fideos",
+      "correct": false
+    },
+    {
+      "text": "masa de pan",
+      "correct": false
+    },
+    {
+      "text": "queso fundido",
+      "correct": false
+    },
+    {
+      "text": "fideos",
+      "correct": true
+    }
+  ],
+  "explanation": "Un ingrediente característico del ramen es fideos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "ramen",
+    "fideos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-005576",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre insectos, moluscos, arácnidos y mamíferos, a qué grupo pertenece el animal llamado ballena?",
+  "answers": [
+    {
+      "text": "arácnidos",
+      "correct": false
+    },
+    {
+      "text": "mamíferos",
+      "correct": true
+    },
+    {
+      "text": "insectos",
+      "correct": false
+    },
+    {
+      "text": "moluscos",
+      "correct": false
+    }
+  ],
+  "explanation": "El ballena pertenece al grupo de los mamíferos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "mamiferos",
+    "ballena"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

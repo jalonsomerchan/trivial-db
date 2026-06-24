@@ -1,0 +1,42 @@
+{
+  "id": "q-008940",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente el signo llamado signos de exclamación?",
+  "answers": [
+    {
+      "text": "separar elementos o incisos",
+      "correct": false
+    },
+    {
+      "text": "marcar una exclamación",
+      "correct": true
+    },
+    {
+      "text": "marcar una pregunta directa",
+      "correct": false
+    },
+    {
+      "text": "marcar intervenciones o incisos",
+      "correct": false
+    }
+  ],
+  "explanation": "El signos de exclamación se usa principalmente para marcar una exclamación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "signos-de-exclamacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

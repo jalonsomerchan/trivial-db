@@ -1,0 +1,42 @@
+{
+  "id": "q-009969",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método de JavaScript elimina el primer elemento de un array?",
+  "answers": [
+    {
+      "text": "includes()",
+      "correct": false
+    },
+    {
+      "text": "endsWith()",
+      "correct": false
+    },
+    {
+      "text": "filter()",
+      "correct": false
+    },
+    {
+      "text": "shift()",
+      "correct": true
+    }
+  ],
+  "explanation": "El método shift() elimina el primer elemento de un array.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "shift"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

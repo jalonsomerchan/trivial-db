@@ -1,0 +1,42 @@
+{
+  "id": "q-009760",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué controla principalmente la propiedad CSS gap?",
+  "answers": [
+    {
+      "text": "define una transición entre estados",
+      "correct": false
+    },
+    {
+      "text": "define el eje principal en flexbox",
+      "correct": false
+    },
+    {
+      "text": "establece separación entre filas o columnas",
+      "correct": true
+    },
+    {
+      "text": "controla la visibilidad sin quitar el espacio",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad gap establece separación entre filas o columnas.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "gap"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

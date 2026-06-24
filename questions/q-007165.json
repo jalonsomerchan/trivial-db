@@ -1,0 +1,43 @@
+{
+  "id": "q-007165",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del salmorejo?",
+  "answers": [
+    {
+      "text": "tomate y pan",
+      "correct": true
+    },
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "queso fundido",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del salmorejo es tomate y pan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "salmorejo",
+    "tomate-y-pan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

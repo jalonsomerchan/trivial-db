@@ -1,0 +1,42 @@
+{
+  "id": "q-005937",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre coordinar funciones nerviosas superiores, almacenar orina, filtrar la sangre y producir orina y participar en la audición, cuál es una función principal de la vejiga urinaria?",
+  "answers": [
+    {
+      "text": "almacenar orina",
+      "correct": true
+    },
+    {
+      "text": "participar en la audición",
+      "correct": false
+    },
+    {
+      "text": "filtrar la sangre y producir orina",
+      "correct": false
+    },
+    {
+      "text": "coordinar funciones nerviosas superiores",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal de la vejiga urinaria es almacenar orina.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "vejiga-urinaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

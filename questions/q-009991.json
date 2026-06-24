@@ -1,0 +1,42 @@
+{
+  "id": "q-009991",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS define columnas de una cuadrícula?",
+  "answers": [
+    {
+      "text": "overflow",
+      "correct": false
+    },
+    {
+      "text": "grid-template-columns",
+      "correct": true
+    },
+    {
+      "text": "align-items",
+      "correct": false
+    },
+    {
+      "text": "visibility",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS grid-template-columns define columnas de una cuadrícula.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "grid-template-columns"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

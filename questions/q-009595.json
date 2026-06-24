@@ -1,0 +1,42 @@
+{
+  "id": "q-009595",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre git commit, git pull, git tag y git add, qué comando de Git se usa para registrar cambios en el historial?",
+  "answers": [
+    {
+      "text": "git pull",
+      "correct": false
+    },
+    {
+      "text": "git add",
+      "correct": false
+    },
+    {
+      "text": "git commit",
+      "correct": true
+    },
+    {
+      "text": "git tag",
+      "correct": false
+    }
+  ],
+  "explanation": "El comando git commit se usa para registrar cambios en el historial.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-commit"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-007073",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre cereal, legumbre, hortaliza y pescado, a qué grupo alimentario pertenece zanahoria?",
+  "answers": [
+    {
+      "text": "pescado",
+      "correct": false
+    },
+    {
+      "text": "hortaliza",
+      "correct": true
+    },
+    {
+      "text": "legumbre",
+      "correct": false
+    },
+    {
+      "text": "cereal",
+      "correct": false
+    }
+  ],
+  "explanation": "zanahoria pertenece al grupo de hortaliza.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "zanahoria",
+    "hortaliza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

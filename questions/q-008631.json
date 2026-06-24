@@ -1,0 +1,42 @@
+{
+  "id": "q-008631",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre salir, llorar, lento y disminuir, cuál es un antónimo de “aumentar”?",
+  "answers": [
+    {
+      "text": "disminuir",
+      "correct": true
+    },
+    {
+      "text": "lento",
+      "correct": false
+    },
+    {
+      "text": "llorar",
+      "correct": false
+    },
+    {
+      "text": "salir",
+      "correct": false
+    }
+  ],
+  "explanation": "“disminuir” es un antónimo de “aumentar”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "aumentar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

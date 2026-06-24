@@ -1,0 +1,42 @@
+{
+  "id": "q-009410",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 16% de 400?",
+  "answers": [
+    {
+      "text": "74",
+      "correct": false
+    },
+    {
+      "text": "69",
+      "correct": false
+    },
+    {
+      "text": "59",
+      "correct": false
+    },
+    {
+      "text": "64",
+      "correct": true
+    }
+  ],
+  "explanation": "El 16% de 400 se calcula como 400 × 16/100 = 64.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009495",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 80% de 475?",
+  "answers": [
+    {
+      "text": "390",
+      "correct": false
+    },
+    {
+      "text": "375",
+      "correct": false
+    },
+    {
+      "text": "380",
+      "correct": true
+    },
+    {
+      "text": "385",
+      "correct": false
+    }
+  ],
+  "explanation": "El 80% de 475 se calcula como 475 × 80/100 = 380.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

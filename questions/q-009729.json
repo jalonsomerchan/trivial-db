@@ -1,0 +1,42 @@
+{
+  "id": "q-009729",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre define el cursor del puntero, define una transición entre estados, añade decoración al texto y ordena elementos superpuestos, qué controla principalmente la propiedad CSS text-decoration?",
+  "answers": [
+    {
+      "text": "define el cursor del puntero",
+      "correct": false
+    },
+    {
+      "text": "define una transición entre estados",
+      "correct": false
+    },
+    {
+      "text": "ordena elementos superpuestos",
+      "correct": false
+    },
+    {
+      "text": "añade decoración al texto",
+      "correct": true
+    }
+  ],
+  "explanation": "La propiedad text-decoration añade decoración al texto.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "text-decoration"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

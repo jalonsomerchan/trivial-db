@@ -1,0 +1,43 @@
+{
+  "id": "q-006846",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente la serie “The Mandalorian”?",
+  "answers": [
+    {
+      "text": "fantasía",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    },
+    {
+      "text": "comedia",
+      "correct": false
+    },
+    {
+      "text": "drama médico",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Mandalorian” se asocia principalmente con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "the-mandalorian",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

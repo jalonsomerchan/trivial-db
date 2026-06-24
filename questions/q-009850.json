@@ -1,0 +1,42 @@
+{
+  "id": "q-009850",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre crear un campo de entrada, crear un botón, insertar audio y definir una opción seleccionable, para qué se usa principalmente la etiqueta HTML <button>?",
+  "answers": [
+    {
+      "text": "crear un botón",
+      "correct": true
+    },
+    {
+      "text": "crear un campo de entrada",
+      "correct": false
+    },
+    {
+      "text": "insertar audio",
+      "correct": false
+    },
+    {
+      "text": "definir una opción seleccionable",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <button> sirve para crear un botón.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "button"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

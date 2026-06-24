@@ -1,0 +1,42 @@
+{
+  "id": "q-008950",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género gramatical corresponde a “el problema”?",
+  "answers": [
+    {
+      "text": "femenino con artículo el por a tónica",
+      "correct": false
+    },
+    {
+      "text": "masculino o ambiguo",
+      "correct": false
+    },
+    {
+      "text": "femenino",
+      "correct": false
+    },
+    {
+      "text": "masculino",
+      "correct": true
+    }
+  ],
+  "explanation": "La forma “el problema” corresponde a masculino.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "genero-gramatical",
+    "el-problema"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

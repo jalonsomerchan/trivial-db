@@ -1,0 +1,43 @@
+{
+  "id": "q-007295",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre mantequilla y yema, fondo claro, tomate y leche, cuál es la base principal de la salsa holandesa?",
+  "answers": [
+    {
+      "text": "fondo claro",
+      "correct": false
+    },
+    {
+      "text": "mantequilla y yema",
+      "correct": true
+    },
+    {
+      "text": "leche",
+      "correct": false
+    },
+    {
+      "text": "tomate",
+      "correct": false
+    }
+  ],
+  "explanation": "La salsa holandesa se basa principalmente en mantequilla y yema.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "salsas",
+    "holandesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

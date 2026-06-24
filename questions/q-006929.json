@@ -1,0 +1,43 @@
+{
+  "id": "q-006929",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre drama romántico, acción, thriller y ciencia ficción, a qué género se asocia principalmente “Gravity”?",
+  "answers": [
+    {
+      "text": "drama romántico",
+      "correct": false
+    },
+    {
+      "text": "thriller",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    },
+    {
+      "text": "acción",
+      "correct": false
+    }
+  ],
+  "explanation": "“Gravity” se asocia principalmente con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "gravity",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

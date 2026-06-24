@@ -1,0 +1,42 @@
+{
+  "id": "q-005685",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Ec = 1/2·m·v², p = m·v, P = m·g y p = F/A, qué expresión representa cantidad de movimiento?",
+  "answers": [
+    {
+      "text": "Ec = 1/2·m·v²",
+      "correct": false
+    },
+    {
+      "text": "P = m·g",
+      "correct": false
+    },
+    {
+      "text": "p = m·v",
+      "correct": true
+    },
+    {
+      "text": "p = F/A",
+      "correct": false
+    }
+  ],
+  "explanation": "La expresión habitual de cantidad de movimiento es p = m·v.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "cantidad-de-movimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

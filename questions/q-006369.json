@@ -1,0 +1,42 @@
+{
+  "id": "q-006369",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "baloncesto"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Atlanta Hawks, Brooklyn Nets, Charlotte Hornets y Phoenix Suns, qué equipo de la NBA se asocia con Charlotte?",
+  "answers": [
+    {
+      "text": "Phoenix Suns",
+      "correct": false
+    },
+    {
+      "text": "Atlanta Hawks",
+      "correct": false
+    },
+    {
+      "text": "Brooklyn Nets",
+      "correct": false
+    },
+    {
+      "text": "Charlotte Hornets",
+      "correct": true
+    }
+  ],
+  "explanation": "Charlotte Hornets se asocia con Charlotte.",
+  "sources": [
+    {
+      "title": "NBA",
+      "url": "https://www.nba.com/"
+    }
+  ],
+  "tags": [
+    "nba",
+    "charlotte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

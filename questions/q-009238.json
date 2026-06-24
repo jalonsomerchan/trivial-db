@@ -1,0 +1,42 @@
+{
+  "id": "q-009238",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 53 y 72?",
+  "answers": [
+    {
+      "text": "72",
+      "correct": false
+    },
+    {
+      "text": "3744",
+      "correct": false
+    },
+    {
+      "text": "3869",
+      "correct": false
+    },
+    {
+      "text": "3816",
+      "correct": true
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 53 y 72 es 3816.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

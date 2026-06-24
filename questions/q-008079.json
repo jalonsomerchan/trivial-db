@@ -1,0 +1,43 @@
+{
+  "id": "q-008079",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Mahatma Gandhi, Luis XIV, Akbar y Meiji, qué personaje histórico se asocia con dinastía imperial japonesa?",
+  "answers": [
+    {
+      "text": "Mahatma Gandhi",
+      "correct": false
+    },
+    {
+      "text": "Akbar",
+      "correct": false
+    },
+    {
+      "text": "Luis XIV",
+      "correct": false
+    },
+    {
+      "text": "Meiji",
+      "correct": true
+    }
+  ],
+  "explanation": "Meiji se asocia con dinastía imperial japonesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "meiji"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

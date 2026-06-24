@@ -1,0 +1,42 @@
+{
+  "id": "q-006830",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Scorpion?",
+  "answers": [
+    {
+      "text": "Mortal Kombat",
+      "correct": true
+    },
+    {
+      "text": "Portal",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": false
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    }
+  ],
+  "explanation": "Scorpion se asocia con “Mortal Kombat”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "scorpion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

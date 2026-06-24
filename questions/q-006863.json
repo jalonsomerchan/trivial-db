@@ -1,0 +1,43 @@
+{
+  "id": "q-006863",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente “Gravity”?",
+  "answers": [
+    {
+      "text": "acción",
+      "correct": false
+    },
+    {
+      "text": "drama romántico",
+      "correct": false
+    },
+    {
+      "text": "thriller",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    }
+  ],
+  "explanation": "“Gravity” se asocia principalmente con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "gravity",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

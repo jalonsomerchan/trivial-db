@@ -1,0 +1,42 @@
+{
+  "id": "q-008203",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió después que la asesinato de Julio César?",
+  "answers": [
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": false
+    },
+    {
+      "text": "batalla de Maratón",
+      "correct": false
+    },
+    {
+      "text": "batalla de Waterloo",
+      "correct": true
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": false
+    }
+  ],
+  "explanation": "batalla de Waterloo ocurrió después que la asesinato de Julio César.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

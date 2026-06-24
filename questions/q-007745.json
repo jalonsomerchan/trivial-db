@@ -1,0 +1,43 @@
+{
+  "id": "q-007745",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Suiza, Vietnam, Bolivia o Mauritania?",
+  "answers": [
+    {
+      "text": "Vietnam",
+      "correct": false
+    },
+    {
+      "text": "Bolivia",
+      "correct": true
+    },
+    {
+      "text": "Suiza",
+      "correct": false
+    },
+    {
+      "text": "Mauritania",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Bolivia tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

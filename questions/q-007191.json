@@ -1,0 +1,43 @@
+{
+  "id": "q-007191",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre cocinar en líquido en ebullición, estirar una masa en capas finas, dorar la superficie con calor intenso y cubrir con una capa brillante, qué significa hervir en cocina?",
+  "answers": [
+    {
+      "text": "estirar una masa en capas finas",
+      "correct": false
+    },
+    {
+      "text": "cocinar en líquido en ebullición",
+      "correct": true
+    },
+    {
+      "text": "dorar la superficie con calor intenso",
+      "correct": false
+    },
+    {
+      "text": "cubrir con una capa brillante",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, hervir significa cocinar en líquido en ebullición.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "hervir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

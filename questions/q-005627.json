@@ -1,0 +1,43 @@
+{
+  "id": "q-005627",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué grupo de animales tienen plumas?",
+  "answers": [
+    {
+      "text": "moluscos",
+      "correct": false
+    },
+    {
+      "text": "reptiles",
+      "correct": false
+    },
+    {
+      "text": "peces",
+      "correct": false
+    },
+    {
+      "text": "aves",
+      "correct": true
+    }
+  ],
+  "explanation": "Los aves tienen plumas.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "aves"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

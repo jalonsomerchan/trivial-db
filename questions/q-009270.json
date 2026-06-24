@@ -1,0 +1,42 @@
+{
+  "id": "q-009270",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 42875?",
+  "answers": [
+    {
+      "text": "37",
+      "correct": false
+    },
+    {
+      "text": "36",
+      "correct": false
+    },
+    {
+      "text": "35",
+      "correct": true
+    },
+    {
+      "text": "34",
+      "correct": false
+    }
+  ],
+  "explanation": "Como 35³ = 42875, la raíz cúbica de 42875 es 35.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

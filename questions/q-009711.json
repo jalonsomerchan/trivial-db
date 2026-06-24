@@ -1,0 +1,42 @@
+{
+  "id": "q-009711",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre comprueba si algún elemento cumple una condición, comprueba si todos los elementos cumplen una condición, elimina el primer elemento de un array y extrae una parte sin modificar el original, qué hace principalmente el método JavaScript some()?",
+  "answers": [
+    {
+      "text": "elimina el primer elemento de un array",
+      "correct": false
+    },
+    {
+      "text": "comprueba si algún elemento cumple una condición",
+      "correct": true
+    },
+    {
+      "text": "extrae una parte sin modificar el original",
+      "correct": false
+    },
+    {
+      "text": "comprueba si todos los elementos cumplen una condición",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, some() comprueba si algún elemento cumple una condición.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "some"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-005137",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Ámsterdam, Ciudad del Vaticano, Roma y Londres, en qué ciudad se encuentra el Rijksmuseum?",
+  "answers": [
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    },
+    {
+      "text": "Ámsterdam",
+      "correct": true
+    }
+  ],
+  "explanation": "El Rijksmuseum se encuentra en Ámsterdam.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "rijksmuseum",
+    "amsterdam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

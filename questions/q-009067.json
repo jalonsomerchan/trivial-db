@@ -1,0 +1,42 @@
+{
+  "id": "q-009067",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 125 + 33?",
+  "answers": [
+    {
+      "text": "160",
+      "correct": false
+    },
+    {
+      "text": "168",
+      "correct": false
+    },
+    {
+      "text": "156",
+      "correct": false
+    },
+    {
+      "text": "158",
+      "correct": true
+    }
+  ],
+  "explanation": "La suma de 125 y 33 es 158.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

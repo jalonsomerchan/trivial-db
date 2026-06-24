@@ -1,0 +1,43 @@
+{
+  "id": "q-005078",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Florencia, París, Múnich y Madrid, en qué ciudad se encuentra el Museo Thyssen-Bornemisza?",
+  "answers": [
+    {
+      "text": "Múnich",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": true
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    }
+  ],
+  "explanation": "El Museo Thyssen-Bornemisza se encuentra en Madrid.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "museo-thyssen-bornemisza",
+    "madrid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

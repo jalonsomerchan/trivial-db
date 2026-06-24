@@ -1,0 +1,41 @@
+{
+  "id": "q-009352",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto vale el 30% de 430?",
+  "answers": [
+    {
+      "text": "129",
+      "correct": true
+    },
+    {
+      "text": "139",
+      "correct": false
+    },
+    {
+      "text": "134",
+      "correct": false
+    },
+    {
+      "text": "124",
+      "correct": false
+    }
+  ],
+  "explanation": "30% de 430 es 129.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

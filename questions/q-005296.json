@@ -1,0 +1,42 @@
+{
+  "id": "q-005296",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Van Gogh Museum, Museo del Louvre, MoMA y Museo Thyssen-Bornemisza, qué museo se encuentra en París?",
+  "answers": [
+    {
+      "text": "Van Gogh Museum",
+      "correct": false
+    },
+    {
+      "text": "Museo Thyssen-Bornemisza",
+      "correct": false
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": true
+    },
+    {
+      "text": "MoMA",
+      "correct": false
+    }
+  ],
+  "explanation": "En París se encuentra el Museo del Louvre.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "paris"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

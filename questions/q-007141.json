@@ -1,0 +1,43 @@
+{
+  "id": "q-007141",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del biryani?",
+  "answers": [
+    {
+      "text": "arroz especiado",
+      "correct": true
+    },
+    {
+      "text": "fideos de arroz",
+      "correct": false
+    },
+    {
+      "text": "tomate y pan",
+      "correct": false
+    },
+    {
+      "text": "frutos secos y masa filo",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del biryani es arroz especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "biryani",
+    "arroz-especiado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

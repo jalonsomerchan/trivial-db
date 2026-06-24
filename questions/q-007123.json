@@ -1,0 +1,43 @@
+{
+  "id": "q-007123",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre masa rellena, queso fundido, frutos secos y masa filo y arroz, qué ingrediente es característico del empanada?",
+  "answers": [
+    {
+      "text": "masa rellena",
+      "correct": true
+    },
+    {
+      "text": "frutos secos y masa filo",
+      "correct": false
+    },
+    {
+      "text": "arroz",
+      "correct": false
+    },
+    {
+      "text": "queso fundido",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del empanada es masa rellena.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "empanada",
+    "masa-rellena"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

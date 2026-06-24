@@ -1,0 +1,44 @@
+{
+  "id": "q-007086",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre fruto seco, hortaliza, lácteo y cereal, a qué grupo alimentario pertenece leche?",
+  "answers": [
+    {
+      "text": "lácteo",
+      "correct": true
+    },
+    {
+      "text": "fruto seco",
+      "correct": false
+    },
+    {
+      "text": "hortaliza",
+      "correct": false
+    },
+    {
+      "text": "cereal",
+      "correct": false
+    }
+  ],
+  "explanation": "leche pertenece al grupo de lácteo.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "leche",
+    "lacteo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

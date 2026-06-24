@@ -1,0 +1,42 @@
+{
+  "id": "q-009999",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS establece separación entre filas o columnas?",
+  "answers": [
+    {
+      "text": "opacity",
+      "correct": false
+    },
+    {
+      "text": "gap",
+      "correct": true
+    },
+    {
+      "text": "object-fit",
+      "correct": false
+    },
+    {
+      "text": "box-shadow",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS gap establece separación entre filas o columnas.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "gap"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

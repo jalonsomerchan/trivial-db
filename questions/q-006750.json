@@ -1,0 +1,42 @@
+{
+  "id": "q-006750",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre The Office, The Crown, Breaking Bad y Better Call Saul, qué serie se asocia con Isabel II?",
+  "answers": [
+    {
+      "text": "Breaking Bad",
+      "correct": false
+    },
+    {
+      "text": "The Crown",
+      "correct": true
+    },
+    {
+      "text": "The Office",
+      "correct": false
+    },
+    {
+      "text": "Better Call Saul",
+      "correct": false
+    }
+  ],
+  "explanation": "Isabel II se asocia con “The Crown”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "isabel-ii"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

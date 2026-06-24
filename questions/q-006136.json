@@ -1,0 +1,42 @@
+{
+  "id": "q-006136",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "tenis"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre hierba, pista dura 4, tierra batida y pista dura, en qué superficie se juega Open de Australia?",
+  "answers": [
+    {
+      "text": "hierba",
+      "correct": false
+    },
+    {
+      "text": "tierra batida",
+      "correct": false
+    },
+    {
+      "text": "pista dura",
+      "correct": true
+    },
+    {
+      "text": "pista dura 4",
+      "correct": false
+    }
+  ],
+  "explanation": "Open de Australia se juega en pista dura.",
+  "sources": [
+    {
+      "title": "ATP Tour",
+      "url": "https://www.atptour.com/"
+    }
+  ],
+  "tags": [
+    "tenis",
+    "open-de-australia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

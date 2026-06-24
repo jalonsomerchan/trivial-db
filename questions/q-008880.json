@@ -1,0 +1,42 @@
+{
+  "id": "q-008880",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre introducir información aclaratoria, indicar interrupción o suspensión, marcar una pregunta directa y separar enunciados relacionados, para qué se usa principalmente el signo llamado paréntesis?",
+  "answers": [
+    {
+      "text": "marcar una pregunta directa",
+      "correct": false
+    },
+    {
+      "text": "introducir información aclaratoria",
+      "correct": true
+    },
+    {
+      "text": "separar enunciados relacionados",
+      "correct": false
+    },
+    {
+      "text": "indicar interrupción o suspensión",
+      "correct": false
+    }
+  ],
+  "explanation": "El paréntesis se usa principalmente para introducir información aclaratoria.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "parentesis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

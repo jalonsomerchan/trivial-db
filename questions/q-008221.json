@@ -1,0 +1,42 @@
+{
+  "id": "q-008221",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió después que la inicio de la Primera Cruzada?",
+  "answers": [
+    {
+      "text": "llegada de Colón a América",
+      "correct": true
+    },
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": false
+    },
+    {
+      "text": "coronación de Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "batalla de Maratón",
+      "correct": false
+    }
+  ],
+  "explanation": "llegada de Colón a América ocurrió después que la inicio de la Primera Cruzada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

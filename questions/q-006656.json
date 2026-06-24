@@ -1,0 +1,43 @@
+{
+  "id": "q-006656",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con la serie “Friends”?",
+  "answers": [
+    {
+      "text": "Rachel Green",
+      "correct": true
+    },
+    {
+      "text": "Daenerys Targaryen",
+      "correct": false
+    },
+    {
+      "text": "Isabel II",
+      "correct": false
+    },
+    {
+      "text": "Sherlock Holmes",
+      "correct": false
+    }
+  ],
+  "explanation": "Rachel Green es un personaje asociado con “Friends”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "friends",
+    "rachel-green"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

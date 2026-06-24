@@ -1,0 +1,42 @@
+{
+  "id": "q-008677",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre prefijo pre-, prefijo re-, raíz biblio- y prefijo sub-, qué elemento morfológico destaca en “prehistoria”?",
+  "answers": [
+    {
+      "text": "prefijo sub-",
+      "correct": false
+    },
+    {
+      "text": "prefijo pre-",
+      "correct": true
+    },
+    {
+      "text": "prefijo re-",
+      "correct": false
+    },
+    {
+      "text": "raíz biblio-",
+      "correct": false
+    }
+  ],
+  "explanation": "En “prehistoria” destaca el elemento prefijo pre-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "prehistoria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

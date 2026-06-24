@@ -1,0 +1,43 @@
+{
+  "id": "q-007370",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre croissant, curry verde, kimchi y paella, qué plato se asocia con Francia y masa hojaldrada?",
+  "answers": [
+    {
+      "text": "paella",
+      "correct": false
+    },
+    {
+      "text": "curry verde",
+      "correct": false
+    },
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": true
+    }
+  ],
+  "explanation": "El croissant se asocia con Francia y con masa hojaldrada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "francia",
+    "masa-hojaldrada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

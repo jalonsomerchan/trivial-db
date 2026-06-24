@@ -1,0 +1,42 @@
+{
+  "id": "q-008771",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre yo canto, yo cantaré, yo estoy cantando y yo hube cantado, qué forma verbal corresponde a futuro simple?",
+  "answers": [
+    {
+      "text": "yo hube cantado",
+      "correct": false
+    },
+    {
+      "text": "yo canto",
+      "correct": false
+    },
+    {
+      "text": "yo estoy cantando",
+      "correct": false
+    },
+    {
+      "text": "yo cantaré",
+      "correct": true
+    }
+  ],
+  "explanation": "La forma “yo cantaré” corresponde a futuro simple.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "futuro-simple"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

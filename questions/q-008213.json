@@ -1,0 +1,42 @@
+{
+  "id": "q-008213",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió después que la derrota de la Armada Invencible?",
+  "answers": [
+    {
+      "text": "fundación de la ONU",
+      "correct": true
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Primera Cruzada",
+      "correct": false
+    },
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    }
+  ],
+  "explanation": "fundación de la ONU ocurrió después que la derrota de la Armada Invencible.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

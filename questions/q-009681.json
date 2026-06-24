@@ -1,0 +1,43 @@
+{
+  "id": "q-009681",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre 503, 410, 304 y 408, qué código HTTP corresponde a “Service Unavailable”?",
+  "answers": [
+    {
+      "text": "410",
+      "correct": false
+    },
+    {
+      "text": "304",
+      "correct": false
+    },
+    {
+      "text": "408",
+      "correct": false
+    },
+    {
+      "text": "503",
+      "correct": true
+    }
+  ],
+  "explanation": "“Service Unavailable” corresponde al código HTTP 503.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "503"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

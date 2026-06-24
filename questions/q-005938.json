@@ -1,0 +1,42 @@
+{
+  "id": "q-005938",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre coordinar funciones nerviosas superiores, conducir aire hacia los bronquios, detectar la luz en el ojo y producir enzimas digestivas e insulina, cuál es una función principal del cerebro?",
+  "answers": [
+    {
+      "text": "detectar la luz en el ojo",
+      "correct": false
+    },
+    {
+      "text": "conducir aire hacia los bronquios",
+      "correct": false
+    },
+    {
+      "text": "coordinar funciones nerviosas superiores",
+      "correct": true
+    },
+    {
+      "text": "producir enzimas digestivas e insulina",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del cerebro es coordinar funciones nerviosas superiores.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "cerebro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

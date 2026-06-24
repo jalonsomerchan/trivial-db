@@ -1,0 +1,42 @@
+{
+  "id": "q-008652",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué signo de puntuación se usa para separar enunciados relacionados?",
+  "answers": [
+    {
+      "text": "dos puntos",
+      "correct": false
+    },
+    {
+      "text": "paréntesis",
+      "correct": false
+    },
+    {
+      "text": "punto y coma",
+      "correct": true
+    },
+    {
+      "text": "coma",
+      "correct": false
+    }
+  ],
+  "explanation": "El signo llamado punto y coma se usa para separar enunciados relacionados.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "punto-y-coma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

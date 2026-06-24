@@ -1,0 +1,43 @@
+{
+  "id": "q-005064",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Cubismo, Expresionismo, Barroco y Abstracción, con qué movimiento artístico se asocia Pablo Picasso?",
+  "answers": [
+    {
+      "text": "Abstracción",
+      "correct": false
+    },
+    {
+      "text": "Barroco",
+      "correct": false
+    },
+    {
+      "text": "Cubismo",
+      "correct": true
+    },
+    {
+      "text": "Expresionismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Pablo Picasso se asocia habitualmente con Cubismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pablo-picasso",
+    "cubismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

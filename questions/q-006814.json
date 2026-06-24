@@ -1,0 +1,42 @@
+{
+  "id": "q-006814",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Donkey Kong?",
+  "answers": [
+    {
+      "text": "Donkey Kong",
+      "correct": true
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Assassin’s Creed",
+      "correct": false
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    }
+  ],
+  "explanation": "Donkey Kong se asocia con “Donkey Kong”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "donkey-kong"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

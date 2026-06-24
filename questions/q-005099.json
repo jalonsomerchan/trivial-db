@@ -1,0 +1,43 @@
+{
+  "id": "q-005099",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre París, Bilbao, Berlín y Ciudad del Vaticano, en qué ciudad se encuentra el Museo del Louvre?",
+  "answers": [
+    {
+      "text": "París",
+      "correct": true
+    },
+    {
+      "text": "Bilbao",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    }
+  ],
+  "explanation": "El Museo del Louvre se encuentra en París.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "museo-del-louvre",
+    "paris"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

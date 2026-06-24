@@ -1,0 +1,43 @@
+{
+  "id": "q-005519",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado mariposa?",
+  "answers": [
+    {
+      "text": "moluscos",
+      "correct": false
+    },
+    {
+      "text": "insectos",
+      "correct": true
+    },
+    {
+      "text": "crustáceos",
+      "correct": false
+    },
+    {
+      "text": "arácnidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El mariposa pertenece al grupo de los insectos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "insectos",
+    "mariposa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

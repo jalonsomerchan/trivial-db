@@ -1,0 +1,43 @@
+{
+  "id": "q-006969",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué compañía o estudio se asocia con “Halo”?",
+  "answers": [
+    {
+      "text": "Insomniac Games",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": true
+    },
+    {
+      "text": "Konami",
+      "correct": false
+    },
+    {
+      "text": "Namco",
+      "correct": false
+    }
+  ],
+  "explanation": "“Halo” se asocia con Bungie.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "halo",
+    "bungie"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

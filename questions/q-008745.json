@@ -1,0 +1,42 @@
+{
+  "id": "q-008745",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre sufijo -ez, prefijo des-, raíz tele- y prefijo pre-, qué elemento morfológico destaca en “niñez”?",
+  "answers": [
+    {
+      "text": "sufijo -ez",
+      "correct": true
+    },
+    {
+      "text": "raíz tele-",
+      "correct": false
+    },
+    {
+      "text": "prefijo pre-",
+      "correct": false
+    },
+    {
+      "text": "prefijo des-",
+      "correct": false
+    }
+  ],
+  "explanation": "En “niñez” destaca el elemento sufijo -ez.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "ninez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

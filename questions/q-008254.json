@@ -1,0 +1,42 @@
+{
+  "id": "q-008254",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Revolución rusa, crack bursátil de Wall Street, batalla de Trafalgar y inicio de la Primera Cruzada, cuál de estos hechos ocurrió antes que la primera vuelta al mundo completada por Elcano?",
+  "answers": [
+    {
+      "text": "inicio de la Primera Cruzada",
+      "correct": true
+    },
+    {
+      "text": "batalla de Trafalgar",
+      "correct": false
+    },
+    {
+      "text": "Revolución rusa",
+      "correct": false
+    },
+    {
+      "text": "crack bursátil de Wall Street",
+      "correct": false
+    }
+  ],
+  "explanation": "inicio de la Primera Cruzada ocurrió antes que la primera vuelta al mundo completada por Elcano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

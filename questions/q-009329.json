@@ -1,0 +1,42 @@
+{
+  "id": "q-009329",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuánto vale x si 9x + 22 = 526?",
+  "answers": [
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "57",
+      "correct": false
+    },
+    {
+      "text": "55",
+      "correct": false
+    },
+    {
+      "text": "56",
+      "correct": true
+    }
+  ],
+  "explanation": "Restando 22 y dividiendo entre 9, se obtiene x = 56.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

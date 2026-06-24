@@ -1,0 +1,43 @@
+{
+  "id": "q-006592",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Scorpion, Cloud Strife, Jill Valentine y Gordon Freeman, qué personaje protagoniza o representa la saga “Mortal Kombat”?",
+  "answers": [
+    {
+      "text": "Gordon Freeman",
+      "correct": false
+    },
+    {
+      "text": "Jill Valentine",
+      "correct": false
+    },
+    {
+      "text": "Scorpion",
+      "correct": true
+    },
+    {
+      "text": "Cloud Strife",
+      "correct": false
+    }
+  ],
+  "explanation": "Scorpion es un personaje asociado a “Mortal Kombat”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mortal-kombat",
+    "scorpion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

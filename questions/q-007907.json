@@ -1,0 +1,43 @@
+{
+  "id": "q-007907",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Japón?",
+  "answers": [
+    {
+      "text": "Melanesia",
+      "correct": false
+    },
+    {
+      "text": "Australia and New Zealand",
+      "correct": false
+    },
+    {
+      "text": "Polynesia",
+      "correct": false
+    },
+    {
+      "text": "Eastern Asia",
+      "correct": true
+    }
+  ],
+  "explanation": "Japón pertenece a la subregión Eastern Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "japon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

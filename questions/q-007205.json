@@ -1,0 +1,43 @@
+{
+  "id": "q-007205",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre cocinar por calor seco directo o indirecto, cocinar lentamente con algo de líquido, cocinar con calor seco en horno y aromatizar o conservar con humo, qué significa brasear en cocina?",
+  "answers": [
+    {
+      "text": "cocinar por calor seco directo o indirecto",
+      "correct": false
+    },
+    {
+      "text": "aromatizar o conservar con humo",
+      "correct": false
+    },
+    {
+      "text": "cocinar con calor seco en horno",
+      "correct": false
+    },
+    {
+      "text": "cocinar lentamente con algo de líquido",
+      "correct": true
+    }
+  ],
+  "explanation": "En cocina, brasear significa cocinar lentamente con algo de líquido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "brasear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

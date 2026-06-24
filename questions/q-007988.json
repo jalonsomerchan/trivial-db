@@ -1,0 +1,43 @@
+{
+  "id": "q-007988",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Suazilandia?",
+  "answers": [
+    {
+      "text": "inglés",
+      "correct": true
+    },
+    {
+      "text": "azerbaiyano",
+      "correct": false
+    },
+    {
+      "text": "irlandés",
+      "correct": false
+    },
+    {
+      "text": "na",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Suazilandia figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "suazilandia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

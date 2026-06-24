@@ -1,0 +1,43 @@
+{
+  "id": "q-007144",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del croissant?",
+  "answers": [
+    {
+      "text": "frutos secos y masa filo",
+      "correct": false
+    },
+    {
+      "text": "masa hojaldrada",
+      "correct": true
+    },
+    {
+      "text": "berenjena",
+      "correct": false
+    },
+    {
+      "text": "paprika",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del croissant es masa hojaldrada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "croissant",
+    "masa-hojaldrada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

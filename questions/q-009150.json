@@ -1,0 +1,42 @@
+{
+  "id": "q-009150",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 89 + 73?",
+  "answers": [
+    {
+      "text": "164",
+      "correct": false
+    },
+    {
+      "text": "172",
+      "correct": false
+    },
+    {
+      "text": "162",
+      "correct": true
+    },
+    {
+      "text": "160",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 89 y 73 es 162.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007962",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Japón?",
+  "answers": [
+    {
+      "text": "japonés",
+      "correct": true
+    },
+    {
+      "text": "alemán",
+      "correct": false
+    },
+    {
+      "text": "suazi",
+      "correct": false
+    },
+    {
+      "text": "mongol",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Japón figura el japonés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "japon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

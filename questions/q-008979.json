@@ -1,0 +1,43 @@
+{
+  "id": "q-008979",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “perder”?",
+  "answers": [
+    {
+      "text": "recordar",
+      "correct": false
+    },
+    {
+      "text": "ganar",
+      "correct": true
+    },
+    {
+      "text": "entrar",
+      "correct": false
+    },
+    {
+      "text": "comprar",
+      "correct": false
+    }
+  ],
+  "explanation": "“ganar” y “perder” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "ganar",
+    "perder"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

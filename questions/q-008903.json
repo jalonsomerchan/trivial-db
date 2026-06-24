@@ -1,0 +1,43 @@
+{
+  "id": "q-008903",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre nacer, comprar, recordar y permitir, qué palabra tiene significado opuesto a “olvidar”?",
+  "answers": [
+    {
+      "text": "comprar",
+      "correct": false
+    },
+    {
+      "text": "permitir",
+      "correct": false
+    },
+    {
+      "text": "recordar",
+      "correct": true
+    },
+    {
+      "text": "nacer",
+      "correct": false
+    }
+  ],
+  "explanation": "“recordar” y “olvidar” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "recordar",
+    "olvidar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

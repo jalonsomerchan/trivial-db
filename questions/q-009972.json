@@ -1,0 +1,42 @@
+{
+  "id": "q-009972",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método de JavaScript extrae una parte sin modificar el original?",
+  "answers": [
+    {
+      "text": "slice()",
+      "correct": true
+    },
+    {
+      "text": "sort()",
+      "correct": false
+    },
+    {
+      "text": "startsWith()",
+      "correct": false
+    },
+    {
+      "text": "some()",
+      "correct": false
+    }
+  ],
+  "explanation": "El método slice() extrae una parte sin modificar el original.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "slice"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

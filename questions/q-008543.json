@@ -1,0 +1,42 @@
+{
+  "id": "q-008543",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "silabas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuántas sílabas tiene “murciélago”?",
+  "answers": [
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": true
+    },
+    {
+      "text": "5",
+      "correct": false
+    }
+  ],
+  "explanation": "“murciélago” tiene 4 sílabas.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "silabas",
+    "murcielago"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009659",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para insertar o enlazar JavaScript?",
+  "answers": [
+    {
+      "text": "<img>",
+      "correct": false
+    },
+    {
+      "text": "<article>",
+      "correct": false
+    },
+    {
+      "text": "<a>",
+      "correct": false
+    },
+    {
+      "text": "<script>",
+      "correct": true
+    }
+  ],
+  "explanation": "La etiqueta <script> se usa para insertar o enlazar JavaScript.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "script"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

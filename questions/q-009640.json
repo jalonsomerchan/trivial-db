@@ -1,0 +1,42 @@
+{
+  "id": "q-009640",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para crear un botón?",
+  "answers": [
+    {
+      "text": "<footer>",
+      "correct": false
+    },
+    {
+      "text": "<select>",
+      "correct": false
+    },
+    {
+      "text": "<button>",
+      "correct": true
+    },
+    {
+      "text": "<section>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <button> se usa para crear un botón.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "button"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

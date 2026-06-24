@@ -1,0 +1,43 @@
+{
+  "id": "q-007484",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en cocinar con calor seco en horno?",
+  "answers": [
+    {
+      "text": "fermentar",
+      "correct": false
+    },
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "saltear",
+      "correct": false
+    },
+    {
+      "text": "hornear",
+      "correct": true
+    }
+  ],
+  "explanation": "hornear consiste en cocinar con calor seco en horno.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "hornear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

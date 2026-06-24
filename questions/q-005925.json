@@ -1,0 +1,43 @@
+{
+  "id": "q-005925",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Tierra, Saturno, Neptuno y Júpiter, de qué cuerpo celeste es satélite Ganímedes?",
+  "answers": [
+    {
+      "text": "Neptuno",
+      "correct": false
+    },
+    {
+      "text": "Saturno",
+      "correct": false
+    },
+    {
+      "text": "Tierra",
+      "correct": false
+    },
+    {
+      "text": "Júpiter",
+      "correct": true
+    }
+  ],
+  "explanation": "Ganímedes es un satélite natural de Júpiter.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "ganimedes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

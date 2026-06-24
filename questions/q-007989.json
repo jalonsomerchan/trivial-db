@@ -1,0 +1,43 @@
+{
+  "id": "q-007989",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Sudán del Sur?",
+  "answers": [
+    {
+      "text": "inglés",
+      "correct": true
+    },
+    {
+      "text": "letón",
+      "correct": false
+    },
+    {
+      "text": "vietnamita",
+      "correct": false
+    },
+    {
+      "text": "turcomano",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Sudán del Sur figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "sudan-del-sur"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007952",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Finlandia?",
+  "answers": [
+    {
+      "text": "noruego nynorsk",
+      "correct": false
+    },
+    {
+      "text": "español",
+      "correct": false
+    },
+    {
+      "text": "finés",
+      "correct": true
+    },
+    {
+      "text": "noruego",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Finlandia figura el finés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "finlandia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

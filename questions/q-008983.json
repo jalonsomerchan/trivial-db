@@ -1,0 +1,43 @@
+{
+  "id": "q-008983",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “recibir”?",
+  "answers": [
+    {
+      "text": "dulce",
+      "correct": false
+    },
+    {
+      "text": "comprar",
+      "correct": false
+    },
+    {
+      "text": "dar",
+      "correct": true
+    },
+    {
+      "text": "ligero",
+      "correct": false
+    }
+  ],
+  "explanation": "“dar” y “recibir” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "dar",
+    "recibir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

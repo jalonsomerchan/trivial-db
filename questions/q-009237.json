@@ -1,0 +1,42 @@
+{
+  "id": "q-009237",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 52 y 61?",
+  "answers": [
+    {
+      "text": "3224",
+      "correct": false
+    },
+    {
+      "text": "3172",
+      "correct": true
+    },
+    {
+      "text": "3111",
+      "correct": false
+    },
+    {
+      "text": "61",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 52 y 61 es 3172.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

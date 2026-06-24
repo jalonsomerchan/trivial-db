@@ -1,0 +1,42 @@
+{
+  "id": "q-009664",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para marcar un pie de página?",
+  "answers": [
+    {
+      "text": "<tr>",
+      "correct": false
+    },
+    {
+      "text": "<textarea>",
+      "correct": false
+    },
+    {
+      "text": "<footer>",
+      "correct": true
+    },
+    {
+      "text": "<button>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <footer> se usa para marcar un pie de página.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "footer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

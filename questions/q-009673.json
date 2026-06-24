@@ -1,0 +1,43 @@
+{
+  "id": "q-009673",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre 301, 408, 201 y 504, qué código HTTP corresponde a “Gateway Timeout”?",
+  "answers": [
+    {
+      "text": "504",
+      "correct": true
+    },
+    {
+      "text": "408",
+      "correct": false
+    },
+    {
+      "text": "301",
+      "correct": false
+    },
+    {
+      "text": "201",
+      "correct": false
+    }
+  ],
+  "explanation": "“Gateway Timeout” corresponde al código HTTP 504.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "504"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

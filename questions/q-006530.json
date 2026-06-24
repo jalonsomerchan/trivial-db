@@ -1,0 +1,43 @@
+{
+  "id": "q-006530",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Christopher Nolan, John Lasseter, James Cameron y Alfonso Cuarón, quién dirigió la película “Origen”?",
+  "answers": [
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "James Cameron",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": true
+    },
+    {
+      "text": "John Lasseter",
+      "correct": false
+    }
+  ],
+  "explanation": "“Origen” fue dirigida por Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "origen",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

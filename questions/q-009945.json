@@ -1,0 +1,42 @@
+{
+  "id": "q-009945",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué instrucción o cláusula SQL se usa para consultar datos?",
+  "answers": [
+    {
+      "text": "PRIMARY KEY",
+      "correct": false
+    },
+    {
+      "text": "UPDATE",
+      "correct": false
+    },
+    {
+      "text": "SELECT",
+      "correct": true
+    },
+    {
+      "text": "ORDER BY",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, SELECT se usa para consultar datos.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "select"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005983",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre transporte de oxígeno, salud ósea, síntesis de colágeno y absorción de calcio, con qué función se relaciona especialmente la hierro?",
+  "answers": [
+    {
+      "text": "síntesis de colágeno",
+      "correct": false
+    },
+    {
+      "text": "salud ósea",
+      "correct": false
+    },
+    {
+      "text": "absorción de calcio",
+      "correct": false
+    },
+    {
+      "text": "transporte de oxígeno",
+      "correct": true
+    }
+  ],
+  "explanation": "La hierro se relaciona con transporte de oxígeno.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "hierro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

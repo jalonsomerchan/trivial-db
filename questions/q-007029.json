@@ -1,0 +1,44 @@
+{
+  "id": "q-007029",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo alimentario pertenece sardina?",
+  "answers": [
+    {
+      "text": "pescado",
+      "correct": true
+    },
+    {
+      "text": "cereal",
+      "correct": false
+    },
+    {
+      "text": "lácteo",
+      "correct": false
+    },
+    {
+      "text": "fruta",
+      "correct": false
+    }
+  ],
+  "explanation": "sardina pertenece al grupo de pescado.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "sardina",
+    "pescado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005120",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Surrealismo, Cubismo, Fauvismo y Neoclasicismo, qué movimiento artístico se caracteriza por imágenes vinculadas al sueño y al inconsciente?",
+  "answers": [
+    {
+      "text": "Neoclasicismo",
+      "correct": false
+    },
+    {
+      "text": "Surrealismo",
+      "correct": true
+    },
+    {
+      "text": "Fauvismo",
+      "correct": false
+    },
+    {
+      "text": "Cubismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El Surrealismo se caracteriza por imágenes vinculadas al sueño y al inconsciente.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "surrealismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

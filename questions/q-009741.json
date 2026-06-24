@@ -1,0 +1,42 @@
+{
+  "id": "q-009741",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre identificar filas de forma única, referenciar una clave de otra tabla, crear una tabla y ordenar resultados, qué hace principalmente ORDER BY en SQL?",
+  "answers": [
+    {
+      "text": "identificar filas de forma única",
+      "correct": false
+    },
+    {
+      "text": "referenciar una clave de otra tabla",
+      "correct": false
+    },
+    {
+      "text": "ordenar resultados",
+      "correct": true
+    },
+    {
+      "text": "crear una tabla",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, ORDER BY sirve para ordenar resultados.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "order-by"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

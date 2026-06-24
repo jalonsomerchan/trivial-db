@@ -1,0 +1,42 @@
+{
+  "id": "q-009740",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre filtrar filas, modificar filas existentes, consultar datos y ordenar resultados, qué hace principalmente WHERE en SQL?",
+  "answers": [
+    {
+      "text": "consultar datos",
+      "correct": false
+    },
+    {
+      "text": "modificar filas existentes",
+      "correct": false
+    },
+    {
+      "text": "ordenar resultados",
+      "correct": false
+    },
+    {
+      "text": "filtrar filas",
+      "correct": true
+    }
+  ],
+  "explanation": "En SQL, WHERE sirve para filtrar filas.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "where"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

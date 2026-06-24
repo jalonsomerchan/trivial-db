@@ -1,0 +1,43 @@
+{
+  "id": "q-007500",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en transformar alimentos por acción de microorganismos?",
+  "answers": [
+    {
+      "text": "laminar",
+      "correct": false
+    },
+    {
+      "text": "hornear",
+      "correct": false
+    },
+    {
+      "text": "fermentar",
+      "correct": true
+    },
+    {
+      "text": "asar",
+      "correct": false
+    }
+  ],
+  "explanation": "fermentar consiste en transformar alimentos por acción de microorganismos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "fermentar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

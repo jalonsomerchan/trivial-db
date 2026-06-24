@@ -1,0 +1,43 @@
+{
+  "id": "q-005958",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre respiran principalmente por branquias, tienen seis patas, tienen plumas y pasan parte de su vida en el agua y parte en tierra, qué característica define a los aves?",
+  "answers": [
+    {
+      "text": "tienen plumas",
+      "correct": true
+    },
+    {
+      "text": "respiran principalmente por branquias",
+      "correct": false
+    },
+    {
+      "text": "tienen seis patas",
+      "correct": false
+    },
+    {
+      "text": "pasan parte de su vida en el agua y parte en tierra",
+      "correct": false
+    }
+  ],
+  "explanation": "Los aves se caracterizan porque tienen plumas.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "aves"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

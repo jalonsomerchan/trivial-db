@@ -1,0 +1,42 @@
+{
+  "id": "q-009922",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <textarea>?",
+  "answers": [
+    {
+      "text": "insertar una imagen",
+      "correct": false
+    },
+    {
+      "text": "definir un elemento de lista",
+      "correct": false
+    },
+    {
+      "text": "crear un área de texto multilínea",
+      "correct": true
+    },
+    {
+      "text": "insertar o enlazar JavaScript",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <textarea> sirve para crear un área de texto multilínea.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "textarea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

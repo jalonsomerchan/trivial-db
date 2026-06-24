@@ -1,0 +1,43 @@
+{
+  "id": "q-007941",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Azerbaiyán?",
+  "answers": [
+    {
+      "text": "azerbaiyano",
+      "correct": true
+    },
+    {
+      "text": "rs",
+      "correct": false
+    },
+    {
+      "text": "ruso",
+      "correct": false
+    },
+    {
+      "text": "coreano",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Azerbaiyán figura el azerbaiyano.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "azerbaiyan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

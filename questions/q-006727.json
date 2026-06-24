@@ -1,0 +1,42 @@
+{
+  "id": "q-006727",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Portal, Spyro the Dragon, The Last of Us y Final Fantasy VII, qué videojuego se asocia con Ellie?",
+  "answers": [
+    {
+      "text": "Portal",
+      "correct": false
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    },
+    {
+      "text": "Spyro the Dragon",
+      "correct": false
+    },
+    {
+      "text": "The Last of Us",
+      "correct": true
+    }
+  ],
+  "explanation": "Ellie se asocia con “The Last of Us”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "ellie"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

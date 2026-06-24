@@ -1,0 +1,43 @@
+{
+  "id": "q-006529",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Christopher Nolan, Andrew Stanton, Quentin Tarantino y Peter Jackson, quién dirigió la película “Interstellar”?",
+  "answers": [
+    {
+      "text": "Christopher Nolan",
+      "correct": true
+    },
+    {
+      "text": "Quentin Tarantino",
+      "correct": false
+    },
+    {
+      "text": "Peter Jackson",
+      "correct": false
+    },
+    {
+      "text": "Andrew Stanton",
+      "correct": false
+    }
+  ],
+  "explanation": "“Interstellar” fue dirigida por Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "interstellar",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

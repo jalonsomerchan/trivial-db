@@ -1,0 +1,42 @@
+{
+  "id": "q-009085",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 135 + 30?",
+  "answers": [
+    {
+      "text": "167",
+      "correct": false
+    },
+    {
+      "text": "165",
+      "correct": true
+    },
+    {
+      "text": "163",
+      "correct": false
+    },
+    {
+      "text": "175",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 135 y 30 es 165.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

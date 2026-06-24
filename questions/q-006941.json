@@ -1,0 +1,43 @@
+{
+  "id": "q-006941",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre musical, animación, drama y aventura, a qué género se asocia principalmente “King Kong”?",
+  "answers": [
+    {
+      "text": "animación",
+      "correct": false
+    },
+    {
+      "text": "musical",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": false
+    },
+    {
+      "text": "aventura",
+      "correct": true
+    }
+  ],
+  "explanation": "“King Kong” se asocia principalmente con aventura.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "king-kong",
+    "aventura"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

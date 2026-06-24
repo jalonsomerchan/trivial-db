@@ -1,0 +1,43 @@
+{
+  "id": "q-007345",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre ahumar, glasear, tostar y macerar, qué técnica culinaria consiste en cubrir con una capa brillante?",
+  "answers": [
+    {
+      "text": "glasear",
+      "correct": true
+    },
+    {
+      "text": "macerar",
+      "correct": false
+    },
+    {
+      "text": "tostar",
+      "correct": false
+    },
+    {
+      "text": "ahumar",
+      "correct": false
+    }
+  ],
+  "explanation": "glasear consiste en cubrir con una capa brillante.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "glasear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

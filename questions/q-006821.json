@@ -1,0 +1,42 @@
+{
+  "id": "q-006821",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Lara Croft?",
+  "answers": [
+    {
+      "text": "Uncharted",
+      "correct": false
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": true
+    },
+    {
+      "text": "Halo",
+      "correct": false
+    },
+    {
+      "text": "Crash Bandicoot",
+      "correct": false
+    }
+  ],
+  "explanation": "Lara Croft se asocia con “Tomb Raider”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "lara-croft"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

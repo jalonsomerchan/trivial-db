@@ -1,0 +1,42 @@
+{
+  "id": "q-008833",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué forma verbal corresponde a pretérito perfecto simple?",
+  "answers": [
+    {
+      "text": "yo canté",
+      "correct": true
+    },
+    {
+      "text": "yo cantaré",
+      "correct": false
+    },
+    {
+      "text": "yo hube cantado",
+      "correct": false
+    },
+    {
+      "text": "yo cantaría",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo canté” corresponde a pretérito perfecto simple.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-perfecto-simple"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

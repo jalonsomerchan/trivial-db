@@ -1,0 +1,43 @@
+{
+  "id": "q-007503",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál de estos países se encuentra en Europa?",
+  "answers": [
+    {
+      "text": "Tayikistán",
+      "correct": false
+    },
+    {
+      "text": "Congo",
+      "correct": false
+    },
+    {
+      "text": "Costa de Marfil",
+      "correct": false
+    },
+    {
+      "text": "Islas Faroe",
+      "correct": true
+    }
+  ],
+  "explanation": "Islas Faroe se clasifica geográficamente en Europa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "continentes",
+    "europa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

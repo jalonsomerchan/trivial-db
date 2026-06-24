@@ -1,0 +1,42 @@
+{
+  "id": "q-008960",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué género gramatical corresponde a “la sartén”?",
+  "answers": [
+    {
+      "text": "masculino",
+      "correct": false
+    },
+    {
+      "text": "masculino o ambiguo",
+      "correct": false
+    },
+    {
+      "text": "femenino",
+      "correct": true
+    },
+    {
+      "text": "femenino con artículo el por a tónica",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “la sartén” corresponde a femenino.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "genero-gramatical",
+    "la-sarten"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

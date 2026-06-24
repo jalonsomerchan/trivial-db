@@ -1,0 +1,42 @@
+{
+  "id": "q-009448",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 24% de 325?",
+  "answers": [
+    {
+      "text": "83",
+      "correct": false
+    },
+    {
+      "text": "73",
+      "correct": false
+    },
+    {
+      "text": "88",
+      "correct": false
+    },
+    {
+      "text": "78",
+      "correct": true
+    }
+  ],
+  "explanation": "El 24% de 325 se calcula como 325 × 24/100 = 78.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

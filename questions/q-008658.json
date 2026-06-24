@@ -1,0 +1,43 @@
+{
+  "id": "q-008658",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de palabra es “mesa” según su acentuación?",
+  "answers": [
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    },
+    {
+      "text": "esdrújula",
+      "correct": false
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    },
+    {
+      "text": "llana",
+      "correct": true
+    }
+  ],
+  "explanation": "“mesa” es una palabra llana.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "mesa",
+    "llana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

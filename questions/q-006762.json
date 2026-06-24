@@ -1,0 +1,42 @@
+{
+  "id": "q-006762",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Toy Story, La La Land, Jurassic Park y Mi vecino Totoro, qué película fue dirigida por John Lasseter?",
+  "answers": [
+    {
+      "text": "Mi vecino Totoro",
+      "correct": false
+    },
+    {
+      "text": "Toy Story",
+      "correct": true
+    },
+    {
+      "text": "La La Land",
+      "correct": false
+    },
+    {
+      "text": "Jurassic Park",
+      "correct": false
+    }
+  ],
+  "explanation": "John Lasseter dirigió “Toy Story”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "john-lasseter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

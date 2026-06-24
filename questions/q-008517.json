@@ -1,0 +1,42 @@
+{
+  "id": "q-008517",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “fuerte”?",
+  "answers": [
+    {
+      "text": "prohibir",
+      "correct": false
+    },
+    {
+      "text": "amargo",
+      "correct": false
+    },
+    {
+      "text": "débil",
+      "correct": true
+    },
+    {
+      "text": "responder",
+      "correct": false
+    }
+  ],
+  "explanation": "“débil” es un antónimo de “fuerte”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "fuerte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

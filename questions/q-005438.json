@@ -1,0 +1,42 @@
+{
+  "id": "q-005438",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre exaltación del sentimiento y la libertad, búsqueda de formas expresivas más personales, actitud provocadora contra convenciones artísticas y inspiración en modelos clásicos y equilibrio, qué rasgo se asocia con el Dadaísmo?",
+  "answers": [
+    {
+      "text": "exaltación del sentimiento y la libertad",
+      "correct": false
+    },
+    {
+      "text": "búsqueda de formas expresivas más personales",
+      "correct": false
+    },
+    {
+      "text": "actitud provocadora contra convenciones artísticas",
+      "correct": true
+    },
+    {
+      "text": "inspiración en modelos clásicos y equilibrio",
+      "correct": false
+    }
+  ],
+  "explanation": "Un rasgo del Dadaísmo es actitud provocadora contra convenciones artísticas.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "dadaismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

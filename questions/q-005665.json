@@ -1,0 +1,42 @@
+{
+  "id": "q-005665",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué órgano se encarga principalmente de proteger el cuerpo del exterior?",
+  "answers": [
+    {
+      "text": "médula espinal",
+      "correct": false
+    },
+    {
+      "text": "diafragma",
+      "correct": false
+    },
+    {
+      "text": "retina",
+      "correct": false
+    },
+    {
+      "text": "piel",
+      "correct": true
+    }
+  ],
+  "explanation": "La piel se encarga principalmente de proteger el cuerpo del exterior.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "piel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007887",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Finlandia?",
+  "answers": [
+    {
+      "text": "Eastern Asia",
+      "correct": false
+    },
+    {
+      "text": "Central America",
+      "correct": false
+    },
+    {
+      "text": "South-Eastern Asia",
+      "correct": false
+    },
+    {
+      "text": "Northern Europe",
+      "correct": true
+    }
+  ],
+  "explanation": "Finlandia pertenece a la subregión Northern Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "finlandia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

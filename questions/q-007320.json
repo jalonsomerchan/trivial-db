@@ -1,0 +1,43 @@
+{
+  "id": "q-007320",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué significa confitar en cocina?",
+  "answers": [
+    {
+      "text": "concentrar un líquido evaporando parte del agua",
+      "correct": false
+    },
+    {
+      "text": "transformar alimentos por acción de microorganismos",
+      "correct": false
+    },
+    {
+      "text": "cocinar por calor seco directo o indirecto",
+      "correct": false
+    },
+    {
+      "text": "cocinar lentamente en grasa o almíbar",
+      "correct": true
+    }
+  ],
+  "explanation": "En cocina, confitar significa cocinar lentamente en grasa o almíbar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "confitar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

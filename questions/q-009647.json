@@ -1,0 +1,42 @@
+{
+  "id": "q-009647",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para crear una lista ordenada?",
+  "answers": [
+    {
+      "text": "<header>",
+      "correct": false
+    },
+    {
+      "text": "<canvas>",
+      "correct": false
+    },
+    {
+      "text": "<ol>",
+      "correct": true
+    },
+    {
+      "text": "<td>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <ol> se usa para crear una lista ordenada.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "ol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

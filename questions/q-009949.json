@@ -1,0 +1,42 @@
+{
+  "id": "q-009949",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué instrucción o cláusula SQL se usa para eliminar una tabla?",
+  "answers": [
+    {
+      "text": "CREATE TABLE",
+      "correct": false
+    },
+    {
+      "text": "DROP TABLE",
+      "correct": true
+    },
+    {
+      "text": "FOREIGN KEY",
+      "correct": false
+    },
+    {
+      "text": "COUNT",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, DROP TABLE se usa para eliminar una tabla.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "drop-table"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

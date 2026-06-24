@@ -1,0 +1,42 @@
+{
+  "id": "q-009141",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 84 + 38?",
+  "answers": [
+    {
+      "text": "122",
+      "correct": true
+    },
+    {
+      "text": "124",
+      "correct": false
+    },
+    {
+      "text": "132",
+      "correct": false
+    },
+    {
+      "text": "120",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 84 y 38 es 122.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

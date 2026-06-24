@@ -1,0 +1,42 @@
+{
+  "id": "q-006781",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Christopher Nolan?",
+  "answers": [
+    {
+      "text": "Jurassic Park",
+      "correct": false
+    },
+    {
+      "text": "E.T., el extraterrestre",
+      "correct": false
+    },
+    {
+      "text": "El caballero oscuro",
+      "correct": true
+    },
+    {
+      "text": "El padrino",
+      "correct": false
+    }
+  ],
+  "explanation": "Christopher Nolan dirigió “El caballero oscuro”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

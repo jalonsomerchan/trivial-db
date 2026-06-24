@@ -1,0 +1,43 @@
+{
+  "id": "q-007911",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Laos?",
+  "answers": [
+    {
+      "text": "South-Eastern Asia",
+      "correct": true
+    },
+    {
+      "text": "Western Asia",
+      "correct": false
+    },
+    {
+      "text": "Eastern Africa",
+      "correct": false
+    },
+    {
+      "text": "South America",
+      "correct": false
+    }
+  ],
+  "explanation": "Laos pertenece a la subregión South-Eastern Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "laos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

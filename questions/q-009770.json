@@ -1,0 +1,42 @@
+{
+  "id": "q-009770",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué controla principalmente la propiedad CSS text-decoration?",
+  "answers": [
+    {
+      "text": "añade decoración al texto",
+      "correct": true
+    },
+    {
+      "text": "ordena elementos superpuestos",
+      "correct": false
+    },
+    {
+      "text": "define una transición entre estados",
+      "correct": false
+    },
+    {
+      "text": "define el cursor del puntero",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad text-decoration añade decoración al texto.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "text-decoration"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

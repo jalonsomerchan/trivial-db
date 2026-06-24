@@ -1,0 +1,43 @@
+{
+  "id": "q-007726",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Mongolia, Alemania, Eritrea o Islas Marshall?",
+  "answers": [
+    {
+      "text": "Eritrea",
+      "correct": false
+    },
+    {
+      "text": "Mongolia",
+      "correct": true
+    },
+    {
+      "text": "Alemania",
+      "correct": false
+    },
+    {
+      "text": "Islas Marshall",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Mongolia tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

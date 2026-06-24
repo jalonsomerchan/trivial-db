@@ -1,0 +1,42 @@
+{
+  "id": "q-009357",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "fracciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fracción equivale aproximadamente a 0.083?",
+  "answers": [
+    {
+      "text": "22/24",
+      "correct": false
+    },
+    {
+      "text": "3/24",
+      "correct": false
+    },
+    {
+      "text": "2/25",
+      "correct": false
+    },
+    {
+      "text": "2/24",
+      "correct": true
+    }
+  ],
+  "explanation": "2/24 equivale aproximadamente a 0.083.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "fracciones",
+    "decimales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

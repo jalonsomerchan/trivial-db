@@ -1,0 +1,43 @@
+{
+  "id": "q-007750",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Turquía, Islas Pitcairn, Iran o Hong Kong?",
+  "answers": [
+    {
+      "text": "Iran",
+      "correct": true
+    },
+    {
+      "text": "Islas Pitcairn",
+      "correct": false
+    },
+    {
+      "text": "Turquía",
+      "correct": false
+    },
+    {
+      "text": "Hong Kong",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Iran tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

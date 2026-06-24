@@ -1,0 +1,43 @@
+{
+  "id": "q-007066",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre berenjena, masa hojaldrada, arroz y remolacha, qué ingrediente es característico del paella?",
+  "answers": [
+    {
+      "text": "remolacha",
+      "correct": false
+    },
+    {
+      "text": "berenjena",
+      "correct": false
+    },
+    {
+      "text": "masa hojaldrada",
+      "correct": false
+    },
+    {
+      "text": "arroz",
+      "correct": true
+    }
+  ],
+  "explanation": "Un ingrediente característico del paella es arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "paella",
+    "arroz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

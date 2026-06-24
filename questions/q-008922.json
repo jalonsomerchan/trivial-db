@@ -1,0 +1,42 @@
+{
+  "id": "q-008922",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre separar elementos o incisos, delimitar citas o usos especiales, indicar interrupción o suspensión y separar enunciados relacionados, para qué se usa principalmente el signo llamado coma?",
+  "answers": [
+    {
+      "text": "delimitar citas o usos especiales",
+      "correct": false
+    },
+    {
+      "text": "separar elementos o incisos",
+      "correct": true
+    },
+    {
+      "text": "separar enunciados relacionados",
+      "correct": false
+    },
+    {
+      "text": "indicar interrupción o suspensión",
+      "correct": false
+    }
+  ],
+  "explanation": "El coma se usa principalmente para separar elementos o incisos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "coma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

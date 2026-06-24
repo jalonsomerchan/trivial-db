@@ -1,0 +1,42 @@
+{
+  "id": "q-008344",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1517?",
+  "answers": [
+    {
+      "text": "siglo I a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo VIII a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo IV",
+      "correct": false
+    },
+    {
+      "text": "siglo XVI",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1517 pertenece al siglo XVI.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

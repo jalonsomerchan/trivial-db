@@ -1,0 +1,43 @@
+{
+  "id": "q-007683",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Bután, Senegal, Suazilandia o Papúa Nueva Guinea?",
+  "answers": [
+    {
+      "text": "Suazilandia",
+      "correct": false
+    },
+    {
+      "text": "Bután",
+      "correct": false
+    },
+    {
+      "text": "Senegal",
+      "correct": false
+    },
+    {
+      "text": "Papúa Nueva Guinea",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre las opciones, Papúa Nueva Guinea tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

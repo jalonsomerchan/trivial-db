@@ -1,0 +1,42 @@
+{
+  "id": "q-009988",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS controla la altura de línea?",
+  "answers": [
+    {
+      "text": "line-height",
+      "correct": true
+    },
+    {
+      "text": "position",
+      "correct": false
+    },
+    {
+      "text": "transform",
+      "correct": false
+    },
+    {
+      "text": "margin",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS line-height controla la altura de línea.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "line-height"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

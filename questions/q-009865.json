@@ -1,0 +1,42 @@
+{
+  "id": "q-009865",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre object-fit, box-shadow, visibility y transition, qué propiedad CSS añade sombra a una caja?",
+  "answers": [
+    {
+      "text": "visibility",
+      "correct": false
+    },
+    {
+      "text": "box-shadow",
+      "correct": true
+    },
+    {
+      "text": "transition",
+      "correct": false
+    },
+    {
+      "text": "object-fit",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS box-shadow añade sombra a una caja.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "box-shadow"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009366",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "fracciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fracción equivale aproximadamente a 0.652?",
+  "answers": [
+    {
+      "text": "8/23",
+      "correct": false
+    },
+    {
+      "text": "15/23",
+      "correct": true
+    },
+    {
+      "text": "16/23",
+      "correct": false
+    },
+    {
+      "text": "23/15",
+      "correct": false
+    }
+  ],
+  "explanation": "15/23 equivale aproximadamente a 0.652.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "fracciones",
+    "decimales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

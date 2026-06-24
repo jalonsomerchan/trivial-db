@@ -1,0 +1,42 @@
+{
+  "id": "q-008182",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la edicto de Milán?",
+  "answers": [
+    {
+      "text": "batalla de Maratón",
+      "correct": true
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Primera Cruzada",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    }
+  ],
+  "explanation": "batalla de Maratón ocurrió antes que la edicto de Milán.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

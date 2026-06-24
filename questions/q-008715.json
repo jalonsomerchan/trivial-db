@@ -1,0 +1,42 @@
+{
+  "id": "q-008715",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre raíz crono-, raíz bio-, prefijo sub- y raíz geo-, qué elemento morfológico destaca en “biología”?",
+  "answers": [
+    {
+      "text": "raíz crono-",
+      "correct": false
+    },
+    {
+      "text": "raíz bio-",
+      "correct": true
+    },
+    {
+      "text": "prefijo sub-",
+      "correct": false
+    },
+    {
+      "text": "raíz geo-",
+      "correct": false
+    }
+  ],
+  "explanation": "En “biología” destaca el elemento raíz bio-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "biologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

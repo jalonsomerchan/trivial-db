@@ -1,0 +1,42 @@
+{
+  "id": "q-009657",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para incluir gráficos vectoriales?",
+  "answers": [
+    {
+      "text": "<article>",
+      "correct": false
+    },
+    {
+      "text": "<svg>",
+      "correct": true
+    },
+    {
+      "text": "<select>",
+      "correct": false
+    },
+    {
+      "text": "<td>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <svg> se usa para incluir gráficos vectoriales.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "svg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

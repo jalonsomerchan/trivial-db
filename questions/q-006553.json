@@ -1,0 +1,43 @@
+{
+  "id": "q-006553",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Gregory House, Isabel II, Fox Mulder y Din Djarin, qué personaje se asocia con la serie “The Crown”?",
+  "answers": [
+    {
+      "text": "Fox Mulder",
+      "correct": false
+    },
+    {
+      "text": "Gregory House",
+      "correct": false
+    },
+    {
+      "text": "Isabel II",
+      "correct": true
+    },
+    {
+      "text": "Din Djarin",
+      "correct": false
+    }
+  ],
+  "explanation": "Isabel II es un personaje asociado con “The Crown”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "the-crown",
+    "isabel-ii"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

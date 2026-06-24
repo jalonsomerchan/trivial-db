@@ -1,0 +1,43 @@
+{
+  "id": "q-006938",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre grunge, pop, rock y rock alternativo, qué estilo musical se asocia con Radiohead?",
+  "answers": [
+    {
+      "text": "grunge",
+      "correct": false
+    },
+    {
+      "text": "rock",
+      "correct": false
+    },
+    {
+      "text": "pop",
+      "correct": false
+    },
+    {
+      "text": "rock alternativo",
+      "correct": true
+    }
+  ],
+  "explanation": "Radiohead se asocia con rock alternativo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "radiohead",
+    "rock-alternativo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

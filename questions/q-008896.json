@@ -1,0 +1,42 @@
+{
+  "id": "q-008896",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre masculino, femenino con artículo el por a tónica, femenino y masculino o ambiguo, qué género gramatical corresponde a “el origen”?",
+  "answers": [
+    {
+      "text": "femenino con artículo el por a tónica",
+      "correct": false
+    },
+    {
+      "text": "masculino",
+      "correct": true
+    },
+    {
+      "text": "femenino",
+      "correct": false
+    },
+    {
+      "text": "masculino o ambiguo",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “el origen” corresponde a masculino.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "genero-gramatical",
+    "el-origen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

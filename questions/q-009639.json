@@ -1,0 +1,42 @@
+{
+  "id": "q-009639",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para asociar una etiqueta a un control?",
+  "answers": [
+    {
+      "text": "<video>",
+      "correct": false
+    },
+    {
+      "text": "<ol>",
+      "correct": false
+    },
+    {
+      "text": "<script>",
+      "correct": false
+    },
+    {
+      "text": "<label>",
+      "correct": true
+    }
+  ],
+  "explanation": "La etiqueta <label> se usa para asociar una etiqueta a un control.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "label"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

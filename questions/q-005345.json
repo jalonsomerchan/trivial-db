@@ -1,0 +1,43 @@
+{
+  "id": "q-005345",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país era Jackson Pollock?",
+  "answers": [
+    {
+      "text": "Austria",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "Bélgica",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": false
+    }
+  ],
+  "explanation": "Jackson Pollock era de Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "jackson-pollock",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

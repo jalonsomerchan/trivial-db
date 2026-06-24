@@ -1,0 +1,42 @@
+{
+  "id": "q-009503",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <a>, <input>, <select> y <footer>, qué etiqueta HTML se usa para crear un enlace?",
+  "answers": [
+    {
+      "text": "<a>",
+      "correct": true
+    },
+    {
+      "text": "<input>",
+      "correct": false
+    },
+    {
+      "text": "<select>",
+      "correct": false
+    },
+    {
+      "text": "<footer>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <a> se usa para crear un enlace.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "a"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

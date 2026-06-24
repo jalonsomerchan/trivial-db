@@ -1,0 +1,42 @@
+{
+  "id": "q-005957",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre realizar el intercambio de gases, procesar nutrientes y desintoxicar sustancias, producir enzimas digestivas e insulina y filtrar la sangre y producir orina, cuál es una función principal del páncreas?",
+  "answers": [
+    {
+      "text": "procesar nutrientes y desintoxicar sustancias",
+      "correct": false
+    },
+    {
+      "text": "producir enzimas digestivas e insulina",
+      "correct": true
+    },
+    {
+      "text": "realizar el intercambio de gases",
+      "correct": false
+    },
+    {
+      "text": "filtrar la sangre y producir orina",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del páncreas es producir enzimas digestivas e insulina.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "pancreas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

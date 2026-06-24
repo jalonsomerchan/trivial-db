@@ -1,0 +1,43 @@
+{
+  "id": "q-005508",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado caracol?",
+  "answers": [
+    {
+      "text": "aves",
+      "correct": false
+    },
+    {
+      "text": "moluscos",
+      "correct": true
+    },
+    {
+      "text": "crustáceos",
+      "correct": false
+    },
+    {
+      "text": "arácnidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El caracol pertenece al grupo de los moluscos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "moluscos",
+    "caracol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

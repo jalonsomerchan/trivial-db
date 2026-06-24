@@ -1,0 +1,42 @@
+{
+  "id": "q-009549",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <ol>, <option>, <canvas> y <form>, qué etiqueta HTML se usa para dibujar gráficos por script?",
+  "answers": [
+    {
+      "text": "<form>",
+      "correct": false
+    },
+    {
+      "text": "<canvas>",
+      "correct": true
+    },
+    {
+      "text": "<ol>",
+      "correct": false
+    },
+    {
+      "text": "<option>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <canvas> se usa para dibujar gráficos por script.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "canvas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

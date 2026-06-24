@@ -1,0 +1,42 @@
+{
+  "id": "q-008918",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre pretérito pluscuamperfecto, pretérito perfecto compuesto, pretérito anterior y condicional simple, qué tiempo verbal aparece en “yo hube cantado”?",
+  "answers": [
+    {
+      "text": "condicional simple",
+      "correct": false
+    },
+    {
+      "text": "pretérito perfecto compuesto",
+      "correct": false
+    },
+    {
+      "text": "pretérito anterior",
+      "correct": true
+    },
+    {
+      "text": "pretérito pluscuamperfecto",
+      "correct": false
+    }
+  ],
+  "explanation": "“yo hube cantado” está en pretérito anterior.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-anterior"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

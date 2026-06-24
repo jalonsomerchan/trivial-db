@@ -1,0 +1,42 @@
+{
+  "id": "q-009749",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre referenciar una clave de otra tabla, contar filas o valores, consultar datos y modificar la estructura de una tabla, qué hace principalmente ALTER TABLE en SQL?",
+  "answers": [
+    {
+      "text": "consultar datos",
+      "correct": false
+    },
+    {
+      "text": "contar filas o valores",
+      "correct": false
+    },
+    {
+      "text": "modificar la estructura de una tabla",
+      "correct": true
+    },
+    {
+      "text": "referenciar una clave de otra tabla",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, ALTER TABLE sirve para modificar la estructura de una tabla.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "alter-table"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

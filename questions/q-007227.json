@@ -1,0 +1,43 @@
+{
+  "id": "q-007227",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre concentrar un líquido evaporando parte del agua, cocinar lentamente con algo de líquido, cocinar suavemente en líquido caliente sin hervir fuerte y aromatizar o conservar con humo, qué significa ahumar en cocina?",
+  "answers": [
+    {
+      "text": "cocinar suavemente en líquido caliente sin hervir fuerte",
+      "correct": false
+    },
+    {
+      "text": "aromatizar o conservar con humo",
+      "correct": true
+    },
+    {
+      "text": "cocinar lentamente con algo de líquido",
+      "correct": false
+    },
+    {
+      "text": "concentrar un líquido evaporando parte del agua",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, ahumar significa aromatizar o conservar con humo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "ahumar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

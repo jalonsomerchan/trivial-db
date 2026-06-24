@@ -1,0 +1,43 @@
+{
+  "id": "q-007882",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Corea del Norte?",
+  "answers": [
+    {
+      "text": "Eastern Asia",
+      "correct": true
+    },
+    {
+      "text": "Southern Europe",
+      "correct": false
+    },
+    {
+      "text": "Caribbean",
+      "correct": false
+    },
+    {
+      "text": "South America",
+      "correct": false
+    }
+  ],
+  "explanation": "Corea del Norte pertenece a la subregión Eastern Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "corea-del-norte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

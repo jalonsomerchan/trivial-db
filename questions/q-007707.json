@@ -1,0 +1,43 @@
+{
+  "id": "q-007707",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: India, Zimbabue, Canadá o Gabón?",
+  "answers": [
+    {
+      "text": "Canadá",
+      "correct": true
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Zimbabue",
+      "correct": false
+    },
+    {
+      "text": "Gabón",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Canadá tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

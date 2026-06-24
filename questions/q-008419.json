@@ -1,0 +1,43 @@
+{
+  "id": "q-008419",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se relaciona principalmente Isabel I de Inglaterra?",
+  "answers": [
+    {
+      "text": "Imperio otomano",
+      "correct": false
+    },
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Inglaterra",
+      "correct": true
+    }
+  ],
+  "explanation": "Isabel I de Inglaterra se relaciona principalmente con Inglaterra.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "inglaterra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

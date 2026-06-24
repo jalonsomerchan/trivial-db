@@ -1,0 +1,42 @@
+{
+  "id": "q-009907",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <label>?",
+  "answers": [
+    {
+      "text": "crear un área de texto multilínea",
+      "correct": false
+    },
+    {
+      "text": "asociar una etiqueta a un control",
+      "correct": true
+    },
+    {
+      "text": "crear una tabla",
+      "correct": false
+    },
+    {
+      "text": "definir metadatos",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <label> sirve para asociar una etiqueta a un control.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "label"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

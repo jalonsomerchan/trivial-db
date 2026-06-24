@@ -1,0 +1,43 @@
+{
+  "id": "q-005381",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Alemania, Países Bajos, Francia y Reino Unido, en qué país está el Centro Pompidou?",
+  "answers": [
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": true
+    },
+    {
+      "text": "Países Bajos",
+      "correct": false
+    },
+    {
+      "text": "Alemania",
+      "correct": false
+    }
+  ],
+  "explanation": "El Centro Pompidou está en Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "centro-pompidou",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

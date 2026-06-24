@@ -1,0 +1,42 @@
+{
+  "id": "q-005982",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre transporte de oxígeno, protección antioxidante, visión y piel y absorción de calcio, con qué función se relaciona especialmente la vitamina D?",
+  "answers": [
+    {
+      "text": "protección antioxidante",
+      "correct": false
+    },
+    {
+      "text": "transporte de oxígeno",
+      "correct": false
+    },
+    {
+      "text": "visión y piel",
+      "correct": false
+    },
+    {
+      "text": "absorción de calcio",
+      "correct": true
+    }
+  ],
+  "explanation": "La vitamina D se relaciona con absorción de calcio.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-d"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

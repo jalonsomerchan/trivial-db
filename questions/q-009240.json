@@ -1,0 +1,42 @@
+{
+  "id": "q-009240",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 58 y 37?",
+  "answers": [
+    {
+      "text": "2204",
+      "correct": false
+    },
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "2146",
+      "correct": true
+    },
+    {
+      "text": "2109",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 58 y 37 es 2146.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

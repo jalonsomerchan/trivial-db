@@ -1,0 +1,42 @@
+{
+  "id": "q-006000",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué característica se asocia con Urano?",
+  "answers": [
+    {
+      "text": "es el planeta más alejado del Sol",
+      "correct": false
+    },
+    {
+      "text": "tiene una gran inclinación axial",
+      "correct": true
+    },
+    {
+      "text": "destaca por sus anillos",
+      "correct": false
+    },
+    {
+      "text": "es el mayor planeta",
+      "correct": false
+    }
+  ],
+  "explanation": "Una característica de Urano es que tiene una gran inclinación axial.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "urano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

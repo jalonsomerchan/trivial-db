@@ -1,0 +1,43 @@
+{
+  "id": "q-005335",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país era Andy Warhol?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Noruega",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": true
+    }
+  ],
+  "explanation": "Andy Warhol era de Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "andy-warhol",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

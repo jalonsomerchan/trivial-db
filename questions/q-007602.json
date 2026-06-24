@@ -1,0 +1,43 @@
+{
+  "id": "q-007602",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "hemisferios"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué hemisferio se encuentra principalmente Líbano?",
+  "answers": [
+    {
+      "text": "hemisferio sur",
+      "correct": false
+    },
+    {
+      "text": "hemisferio oriental",
+      "correct": false
+    },
+    {
+      "text": "ambos hemisferios",
+      "correct": false
+    },
+    {
+      "text": "hemisferio norte",
+      "correct": true
+    }
+  ],
+  "explanation": "La latitud principal de Líbano lo sitúa en el hemisferio norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "hemisferios",
+    "libano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

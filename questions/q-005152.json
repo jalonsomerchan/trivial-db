@@ -1,0 +1,42 @@
+{
+  "id": "q-005152",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué género literario es un relato de la vida de una persona?",
+  "answers": [
+    {
+      "text": "elegía",
+      "correct": false
+    },
+    {
+      "text": "autobiografía",
+      "correct": false
+    },
+    {
+      "text": "biografía",
+      "correct": true
+    },
+    {
+      "text": "cuento",
+      "correct": false
+    }
+  ],
+  "explanation": "Un biografía es un relato de la vida de una persona.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "biografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

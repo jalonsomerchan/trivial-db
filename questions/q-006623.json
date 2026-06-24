@@ -1,0 +1,43 @@
+{
+  "id": "q-006623",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la película “Origen”?",
+  "answers": [
+    {
+      "text": "John Lasseter",
+      "correct": false
+    },
+    {
+      "text": "James Cameron",
+      "correct": false
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": true
+    }
+  ],
+  "explanation": "“Origen” fue dirigida por Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "origen",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-005522",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo pertenece el animal llamado pepino de mar?",
+  "answers": [
+    {
+      "text": "moluscos",
+      "correct": false
+    },
+    {
+      "text": "peces",
+      "correct": false
+    },
+    {
+      "text": "equinodermos",
+      "correct": true
+    },
+    {
+      "text": "arácnidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El pepino de mar pertenece al grupo de los equinodermos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "equinodermos",
+    "pepino-de-mar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

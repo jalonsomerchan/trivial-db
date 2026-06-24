@@ -1,0 +1,42 @@
+{
+  "id": "q-005962",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre sistema circulatorio, sistema linfático, sistema visual y sistema endocrino, a qué sistema pertenece principalmente el bazo?",
+  "answers": [
+    {
+      "text": "sistema linfático",
+      "correct": true
+    },
+    {
+      "text": "sistema endocrino",
+      "correct": false
+    },
+    {
+      "text": "sistema visual",
+      "correct": false
+    },
+    {
+      "text": "sistema circulatorio",
+      "correct": false
+    }
+  ],
+  "explanation": "El bazo pertenece principalmente al sistema linfático.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "sistema-linfatico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

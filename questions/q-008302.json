@@ -1,0 +1,42 @@
+{
+  "id": "q-008302",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre inicio de la Guerra de Corea, Paz de Westfalia, caída del Muro de Berlín y creación de la Unión Europea por el Tratado de Maastricht, cuál de estos hechos ocurrió antes que la fundación de la ONU?",
+  "answers": [
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": true
+    },
+    {
+      "text": "creación de la Unión Europea por el Tratado de Maastricht",
+      "correct": false
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "Paz de Westfalia ocurrió antes que la fundación de la ONU.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

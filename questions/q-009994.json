@@ -1,0 +1,42 @@
+{
+  "id": "q-009994",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS define el eje principal en flexbox?",
+  "answers": [
+    {
+      "text": "box-shadow",
+      "correct": false
+    },
+    {
+      "text": "display",
+      "correct": false
+    },
+    {
+      "text": "animation",
+      "correct": false
+    },
+    {
+      "text": "flex-direction",
+      "correct": true
+    }
+  ],
+  "explanation": "La propiedad CSS flex-direction define el eje principal en flexbox.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "flex-direction"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

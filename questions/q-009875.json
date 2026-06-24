@@ -1,0 +1,42 @@
+{
+  "id": "q-009875",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre slice(), sort(), some() y startsWith(), qué método de JavaScript extrae una parte sin modificar el original?",
+  "answers": [
+    {
+      "text": "some()",
+      "correct": false
+    },
+    {
+      "text": "slice()",
+      "correct": true
+    },
+    {
+      "text": "sort()",
+      "correct": false
+    },
+    {
+      "text": "startsWith()",
+      "correct": false
+    }
+  ],
+  "explanation": "El método slice() extrae una parte sin modificar el original.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "slice"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

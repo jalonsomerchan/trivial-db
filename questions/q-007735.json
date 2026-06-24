@@ -1,0 +1,43 @@
+{
+  "id": "q-007735",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: República Dominicana, India, Vanuatu o Macao?",
+  "answers": [
+    {
+      "text": "Macao",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": true
+    },
+    {
+      "text": "República Dominicana",
+      "correct": false
+    },
+    {
+      "text": "Vanuatu",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, India tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

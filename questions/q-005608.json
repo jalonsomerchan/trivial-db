@@ -1,0 +1,42 @@
+{
+  "id": "q-005608",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre rocoso, gigante gaseoso, rocoso 4 y gigante helado, qué tipo de planeta es Venus?",
+  "answers": [
+    {
+      "text": "rocoso 4",
+      "correct": false
+    },
+    {
+      "text": "gigante gaseoso",
+      "correct": false
+    },
+    {
+      "text": "rocoso",
+      "correct": true
+    },
+    {
+      "text": "gigante helado",
+      "correct": false
+    }
+  ],
+  "explanation": "Venus se clasifica como rocoso.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "venus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

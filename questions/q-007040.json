@@ -1,0 +1,43 @@
+{
+  "id": "q-007040",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato empanada?",
+  "answers": [
+    {
+      "text": "España y América Latina",
+      "correct": true
+    },
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Magreb",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    }
+  ],
+  "explanation": "El empanada se asocia tradicionalmente con España y América Latina.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "empanada",
+    "espana-y-america-latina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

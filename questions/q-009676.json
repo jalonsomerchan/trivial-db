@@ -1,0 +1,43 @@
+{
+  "id": "q-009676",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre 410, 405, 504 y 204, qué código HTTP corresponde a “Gone”?",
+  "answers": [
+    {
+      "text": "204",
+      "correct": false
+    },
+    {
+      "text": "405",
+      "correct": false
+    },
+    {
+      "text": "504",
+      "correct": false
+    },
+    {
+      "text": "410",
+      "correct": true
+    }
+  ],
+  "explanation": "“Gone” corresponde al código HTTP 410.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "410"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

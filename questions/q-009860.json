@@ -1,0 +1,42 @@
+{
+  "id": "q-009860",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre incluir gráficos vectoriales, crear una lista ordenada, definir una fila de tabla y dibujar gráficos por script, para qué se usa principalmente la etiqueta HTML <svg>?",
+  "answers": [
+    {
+      "text": "crear una lista ordenada",
+      "correct": false
+    },
+    {
+      "text": "incluir gráficos vectoriales",
+      "correct": true
+    },
+    {
+      "text": "dibujar gráficos por script",
+      "correct": false
+    },
+    {
+      "text": "definir una fila de tabla",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <svg> sirve para incluir gráficos vectoriales.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "svg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

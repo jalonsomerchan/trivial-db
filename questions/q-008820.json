@@ -1,0 +1,42 @@
+{
+  "id": "q-008820",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento morfológico destaca en “releer”?",
+  "answers": [
+    {
+      "text": "prefijo des-",
+      "correct": false
+    },
+    {
+      "text": "raíz bio-",
+      "correct": false
+    },
+    {
+      "text": "sufijo -able",
+      "correct": false
+    },
+    {
+      "text": "prefijo re-",
+      "correct": true
+    }
+  ],
+  "explanation": "En “releer” destaca el elemento prefijo re-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "releer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

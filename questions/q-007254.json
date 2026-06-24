@@ -1,0 +1,43 @@
+{
+  "id": "q-007254",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre dorar la superficie con calor intenso, cocinar por calor seco directo o indirecto, cocinar en grasa caliente y dejar un alimento en un líquido aromático, qué significa marinar en cocina?",
+  "answers": [
+    {
+      "text": "dorar la superficie con calor intenso",
+      "correct": false
+    },
+    {
+      "text": "cocinar por calor seco directo o indirecto",
+      "correct": false
+    },
+    {
+      "text": "cocinar en grasa caliente",
+      "correct": false
+    },
+    {
+      "text": "dejar un alimento en un líquido aromático",
+      "correct": true
+    }
+  ],
+  "explanation": "En cocina, marinar significa dejar un alimento en un líquido aromático.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "marinar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008971",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “disminuir”?",
+  "answers": [
+    {
+      "text": "nacer",
+      "correct": false
+    },
+    {
+      "text": "ganar",
+      "correct": false
+    },
+    {
+      "text": "aumentar",
+      "correct": true
+    },
+    {
+      "text": "abrir",
+      "correct": false
+    }
+  ],
+  "explanation": "“aumentar” y “disminuir” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "aumentar",
+    "disminuir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

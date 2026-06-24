@@ -1,0 +1,43 @@
+{
+  "id": "q-006911",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre aventura, terror y ciencia ficción, musical y crimen, a qué género se asocia principalmente “El padrino”?",
+  "answers": [
+    {
+      "text": "musical",
+      "correct": false
+    },
+    {
+      "text": "crimen",
+      "correct": true
+    },
+    {
+      "text": "aventura",
+      "correct": false
+    },
+    {
+      "text": "terror y ciencia ficción",
+      "correct": false
+    }
+  ],
+  "explanation": "“El padrino” se asocia principalmente con crimen.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-padrino",
+    "crimen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

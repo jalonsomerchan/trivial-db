@@ -1,0 +1,43 @@
+{
+  "id": "q-007041",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato falafel?",
+  "answers": [
+    {
+      "text": "Grecia",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "Vietnam",
+      "correct": false
+    },
+    {
+      "text": "Oriente Medio",
+      "correct": true
+    }
+  ],
+  "explanation": "El falafel se asocia tradicionalmente con Oriente Medio.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "falafel",
+    "oriente-medio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005997",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué característica se asocia con Neptuno?",
+  "answers": [
+    {
+      "text": "no tiene lunas",
+      "correct": false
+    },
+    {
+      "text": "tiene una luna",
+      "correct": false
+    },
+    {
+      "text": "tiene dos lunas",
+      "correct": false
+    },
+    {
+      "text": "es el planeta más alejado del Sol",
+      "correct": true
+    }
+  ],
+  "explanation": "Una característica de Neptuno es que es el planeta más alejado del Sol.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "neptuno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

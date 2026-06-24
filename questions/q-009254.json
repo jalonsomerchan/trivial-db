@@ -1,0 +1,42 @@
+{
+  "id": "q-009254",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 132651?",
+  "answers": [
+    {
+      "text": "51",
+      "correct": true
+    },
+    {
+      "text": "50",
+      "correct": false
+    },
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": false
+    }
+  ],
+  "explanation": "Como 51³ = 132651, la raíz cúbica de 132651 es 51.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

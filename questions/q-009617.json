@@ -1,0 +1,42 @@
+{
+  "id": "q-009617",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre git status, git log, git tag y git push, qué comando de Git se usa para ver el estado del árbol de trabajo?",
+  "answers": [
+    {
+      "text": "git log",
+      "correct": false
+    },
+    {
+      "text": "git push",
+      "correct": false
+    },
+    {
+      "text": "git tag",
+      "correct": false
+    },
+    {
+      "text": "git status",
+      "correct": true
+    }
+  ],
+  "explanation": "El comando git status se usa para ver el estado del árbol de trabajo.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-status"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

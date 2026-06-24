@@ -1,0 +1,43 @@
+{
+  "id": "q-007272",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre estirar una masa en capas finas, transformar alimentos por acción de microorganismos, dorar la superficie con calor intenso y cubrir con una capa brillante, qué significa fermentar en cocina?",
+  "answers": [
+    {
+      "text": "estirar una masa en capas finas",
+      "correct": false
+    },
+    {
+      "text": "dorar la superficie con calor intenso",
+      "correct": false
+    },
+    {
+      "text": "transformar alimentos por acción de microorganismos",
+      "correct": true
+    },
+    {
+      "text": "cubrir con una capa brillante",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, fermentar significa transformar alimentos por acción de microorganismos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "fermentar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

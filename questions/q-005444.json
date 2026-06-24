@@ -1,0 +1,42 @@
+{
+  "id": "q-005444",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre inspiración en modelos clásicos y equilibrio, imágenes vinculadas al sueño y al inconsciente, interés por la Antigüedad clásica y el humanismo y representación de la vida cotidiana sin idealización, qué rasgo se asocia con el Renacimiento?",
+  "answers": [
+    {
+      "text": "imágenes vinculadas al sueño y al inconsciente",
+      "correct": false
+    },
+    {
+      "text": "interés por la Antigüedad clásica y el humanismo",
+      "correct": true
+    },
+    {
+      "text": "representación de la vida cotidiana sin idealización",
+      "correct": false
+    },
+    {
+      "text": "inspiración en modelos clásicos y equilibrio",
+      "correct": false
+    }
+  ],
+  "explanation": "Un rasgo del Renacimiento es interés por la Antigüedad clásica y el humanismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

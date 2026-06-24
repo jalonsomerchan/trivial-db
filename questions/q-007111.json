@@ -1,0 +1,44 @@
+{
+  "id": "q-007111",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre lácteo, fruto seco, carne y legumbre, a qué grupo alimentario pertenece lentejas?",
+  "answers": [
+    {
+      "text": "lácteo",
+      "correct": false
+    },
+    {
+      "text": "legumbre",
+      "correct": true
+    },
+    {
+      "text": "carne",
+      "correct": false
+    },
+    {
+      "text": "fruto seco",
+      "correct": false
+    }
+  ],
+  "explanation": "lentejas pertenece al grupo de legumbre.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "lentejas",
+    "legumbre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

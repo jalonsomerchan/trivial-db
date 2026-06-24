@@ -1,0 +1,44 @@
+{
+  "id": "q-007812",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Santo Domingo, Baku, Tripoli o Majuro?",
+  "answers": [
+    {
+      "text": "Tripoli",
+      "correct": false
+    },
+    {
+      "text": "Baku",
+      "correct": true
+    },
+    {
+      "text": "Majuro",
+      "correct": false
+    },
+    {
+      "text": "Santo Domingo",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Baku es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005455",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre poema narrativo de hechos heroicos, texto expositivo y argumentativo sobre una idea, narración extensa en prosa y poema breve japonés de tres versos, qué define principalmente a un novela?",
+  "answers": [
+    {
+      "text": "poema narrativo de hechos heroicos",
+      "correct": false
+    },
+    {
+      "text": "texto expositivo y argumentativo sobre una idea",
+      "correct": false
+    },
+    {
+      "text": "narración extensa en prosa",
+      "correct": true
+    },
+    {
+      "text": "poema breve japonés de tres versos",
+      "correct": false
+    }
+  ],
+  "explanation": "Un novela se define como narración extensa en prosa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "novela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

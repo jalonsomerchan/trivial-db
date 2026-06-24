@@ -1,0 +1,42 @@
+{
+  "id": "q-009723",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre define columnas de una cuadrícula, alinea elementos en el eje principal, controla el grosor de la letra y define el cursor del puntero, qué controla principalmente la propiedad CSS grid-template-columns?",
+  "answers": [
+    {
+      "text": "alinea elementos en el eje principal",
+      "correct": false
+    },
+    {
+      "text": "define columnas de una cuadrícula",
+      "correct": true
+    },
+    {
+      "text": "controla el grosor de la letra",
+      "correct": false
+    },
+    {
+      "text": "define el cursor del puntero",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad grid-template-columns define columnas de una cuadrícula.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "grid-template-columns"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

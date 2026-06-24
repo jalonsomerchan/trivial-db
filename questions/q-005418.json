@@ -1,0 +1,43 @@
+{
+  "id": "q-005418",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Países Bajos, España, México y Noruega, de qué país era Salvador Dalí?",
+  "answers": [
+    {
+      "text": "España",
+      "correct": true
+    },
+    {
+      "text": "Noruega",
+      "correct": false
+    },
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Países Bajos",
+      "correct": false
+    }
+  ],
+  "explanation": "Salvador Dalí era de España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "salvador-dali",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-006699",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre God of War, Tomb Raider, Crash Bandicoot y Street Fighter II, qué videojuego se asocia con Kratos?",
+  "answers": [
+    {
+      "text": "God of War",
+      "correct": true
+    },
+    {
+      "text": "Tomb Raider",
+      "correct": false
+    },
+    {
+      "text": "Street Fighter II",
+      "correct": false
+    },
+    {
+      "text": "Crash Bandicoot",
+      "correct": false
+    }
+  ],
+  "explanation": "Kratos se asocia con “God of War”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "kratos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

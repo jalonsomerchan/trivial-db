@@ -1,0 +1,42 @@
+{
+  "id": "q-008210",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió después que la construcción del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": false
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": true
+    },
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    }
+  ],
+  "explanation": "llegada del Apolo 11 a la Luna ocurrió después que la construcción del Muro de Berlín.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

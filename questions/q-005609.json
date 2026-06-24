@@ -1,0 +1,42 @@
+{
+  "id": "q-005609",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre tiroides, intestino delgado, bazo y riñones, qué órgano se encarga principalmente de filtrar la sangre y producir orina?",
+  "answers": [
+    {
+      "text": "tiroides",
+      "correct": false
+    },
+    {
+      "text": "intestino delgado",
+      "correct": false
+    },
+    {
+      "text": "bazo",
+      "correct": false
+    },
+    {
+      "text": "riñones",
+      "correct": true
+    }
+  ],
+  "explanation": "El riñones se encarga principalmente de filtrar la sangre y producir orina.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "rinones"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-007019",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo alimentario pertenece merluza?",
+  "answers": [
+    {
+      "text": "legumbre",
+      "correct": false
+    },
+    {
+      "text": "hortaliza",
+      "correct": false
+    },
+    {
+      "text": "fruta",
+      "correct": false
+    },
+    {
+      "text": "pescado",
+      "correct": true
+    }
+  ],
+  "explanation": "merluza pertenece al grupo de pescado.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "merluza",
+    "pescado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

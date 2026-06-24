@@ -1,0 +1,43 @@
+{
+  "id": "q-009686",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Method Not Allowed, No Content, Bad Gateway y Service Unavailable, qué significa el código HTTP 503?",
+  "answers": [
+    {
+      "text": "No Content",
+      "correct": false
+    },
+    {
+      "text": "Bad Gateway",
+      "correct": false
+    },
+    {
+      "text": "Method Not Allowed",
+      "correct": false
+    },
+    {
+      "text": "Service Unavailable",
+      "correct": true
+    }
+  ],
+  "explanation": "El código HTTP 503 corresponde a Service Unavailable.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "503"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

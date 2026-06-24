@@ -1,0 +1,43 @@
+{
+  "id": "q-007479",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Turquía y Oriente Medio y frutos secos y masa filo?",
+  "answers": [
+    {
+      "text": "baklava",
+      "correct": true
+    },
+    {
+      "text": "cuscús",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "salmorejo",
+      "correct": false
+    }
+  ],
+  "explanation": "El baklava se asocia con Turquía y Oriente Medio y con frutos secos y masa filo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "turquia-y-oriente-medio",
+    "frutos-secos-y-masa-filo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

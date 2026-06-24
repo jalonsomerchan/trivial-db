@@ -1,0 +1,42 @@
+{
+  "id": "q-008690",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre prefijo sub-, prefijo in-, raíz biblio- y prefijo pre-, qué elemento morfológico destaca en “biblioteca”?",
+  "answers": [
+    {
+      "text": "prefijo sub-",
+      "correct": false
+    },
+    {
+      "text": "prefijo in-",
+      "correct": false
+    },
+    {
+      "text": "raíz biblio-",
+      "correct": true
+    },
+    {
+      "text": "prefijo pre-",
+      "correct": false
+    }
+  ],
+  "explanation": "En “biblioteca” destaca el elemento raíz biblio-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "biblioteca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

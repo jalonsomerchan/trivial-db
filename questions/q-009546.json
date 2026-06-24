@@ -1,0 +1,42 @@
+{
+  "id": "q-009546",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <meta>, <ul>, <table> y <style>, qué etiqueta HTML se usa para definir metadatos?",
+  "answers": [
+    {
+      "text": "<meta>",
+      "correct": true
+    },
+    {
+      "text": "<ul>",
+      "correct": false
+    },
+    {
+      "text": "<table>",
+      "correct": false
+    },
+    {
+      "text": "<style>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <meta> se usa para definir metadatos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "meta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

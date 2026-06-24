@@ -1,0 +1,43 @@
+{
+  "id": "q-007978",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Países Bajos?",
+  "answers": [
+    {
+      "text": "vietnamita",
+      "correct": false
+    },
+    {
+      "text": "somalí",
+      "correct": false
+    },
+    {
+      "text": "eslovaco",
+      "correct": false
+    },
+    {
+      "text": "neerlandés",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Países Bajos figura el neerlandés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008143",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué civilización se asocia con basílica de Santa Sofía?",
+  "answers": [
+    {
+      "text": "mesopotámica",
+      "correct": false
+    },
+    {
+      "text": "micénica",
+      "correct": false
+    },
+    {
+      "text": "romana",
+      "correct": false
+    },
+    {
+      "text": "bizantina",
+      "correct": true
+    }
+  ],
+  "explanation": "basílica de Santa Sofía se asocia con la civilización bizantina.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "bizantina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

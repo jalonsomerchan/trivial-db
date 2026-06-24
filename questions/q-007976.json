@@ -1,0 +1,43 @@
+{
+  "id": "q-007976",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Nigeria?",
+  "answers": [
+    {
+      "text": "rs",
+      "correct": false
+    },
+    {
+      "text": "inglés",
+      "correct": true
+    },
+    {
+      "text": "coreano",
+      "correct": false
+    },
+    {
+      "text": "albanés",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Nigeria figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "nigeria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

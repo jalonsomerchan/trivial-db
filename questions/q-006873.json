@@ -1,0 +1,43 @@
+{
+  "id": "q-006873",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente “Parásitos”?",
+  "answers": [
+    {
+      "text": "crimen",
+      "correct": false
+    },
+    {
+      "text": "thriller",
+      "correct": true
+    },
+    {
+      "text": "bélica",
+      "correct": false
+    },
+    {
+      "text": "histórica",
+      "correct": false
+    }
+  ],
+  "explanation": "“Parásitos” se asocia principalmente con thriller.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "parasitos",
+    "thriller"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

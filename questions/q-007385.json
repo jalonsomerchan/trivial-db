@@ -1,0 +1,43 @@
+{
+  "id": "q-007385",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre freír, confitar, emulsionar y pochado, qué técnica culinaria consiste en cocinar lentamente en grasa o almíbar?",
+  "answers": [
+    {
+      "text": "emulsionar",
+      "correct": false
+    },
+    {
+      "text": "pochado",
+      "correct": false
+    },
+    {
+      "text": "freír",
+      "correct": false
+    },
+    {
+      "text": "confitar",
+      "correct": true
+    }
+  ],
+  "explanation": "confitar consiste en cocinar lentamente en grasa o almíbar.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "confitar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

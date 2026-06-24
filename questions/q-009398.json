@@ -1,0 +1,42 @@
+{
+  "id": "q-009398",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 12% de 625?",
+  "answers": [
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "85",
+      "correct": false
+    },
+    {
+      "text": "70",
+      "correct": false
+    },
+    {
+      "text": "75",
+      "correct": true
+    }
+  ],
+  "explanation": "El 12% de 625 se calcula como 625 × 12/100 = 75.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

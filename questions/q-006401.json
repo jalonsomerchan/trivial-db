@@ -1,0 +1,43 @@
+{
+  "id": "q-006401",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "formula-1"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Estados Unidos, Emiratos Árabes Unidos, Japón y Italia, en qué país se celebra el Gran Premio de Abu Dabi?",
+  "answers": [
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Emiratos Árabes Unidos",
+      "correct": true
+    },
+    {
+      "text": "Japón",
+      "correct": false
+    }
+  ],
+  "explanation": "El Gran Premio de Abu Dabi se celebra en Emiratos Árabes Unidos.",
+  "sources": [
+    {
+      "title": "Formula 1",
+      "url": "https://www.formula1.com/"
+    }
+  ],
+  "tags": [
+    "formula-1",
+    "gran-premio-de-abu-dabi",
+    "emiratos-arabes-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

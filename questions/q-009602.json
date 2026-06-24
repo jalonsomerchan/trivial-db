@@ -1,0 +1,42 @@
+{
+  "id": "q-009602",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre git merge, git add, git clone y git log, qué comando de Git se usa para fusionar ramas?",
+  "answers": [
+    {
+      "text": "git add",
+      "correct": false
+    },
+    {
+      "text": "git log",
+      "correct": false
+    },
+    {
+      "text": "git clone",
+      "correct": false
+    },
+    {
+      "text": "git merge",
+      "correct": true
+    }
+  ],
+  "explanation": "El comando git merge se usa para fusionar ramas.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-merge"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

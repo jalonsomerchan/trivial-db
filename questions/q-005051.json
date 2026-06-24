@@ -1,0 +1,42 @@
+{
+  "id": "q-005051",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Barroco, Minimalismo, Renacimiento y Expresionismo, qué movimiento artístico se caracteriza por reducción formal y simplicidad extrema?",
+  "answers": [
+    {
+      "text": "Barroco",
+      "correct": false
+    },
+    {
+      "text": "Minimalismo",
+      "correct": true
+    },
+    {
+      "text": "Renacimiento",
+      "correct": false
+    },
+    {
+      "text": "Expresionismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El Minimalismo se caracteriza por reducción formal y simplicidad extrema.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "minimalismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

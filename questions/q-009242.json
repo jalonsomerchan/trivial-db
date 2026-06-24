@@ -1,0 +1,42 @@
+{
+  "id": "q-009242",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 61 y 70?",
+  "answers": [
+    {
+      "text": "4270",
+      "correct": true
+    },
+    {
+      "text": "70",
+      "correct": false
+    },
+    {
+      "text": "4200",
+      "correct": false
+    },
+    {
+      "text": "4331",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 61 y 70 es 4270.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

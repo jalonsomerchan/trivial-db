@@ -1,0 +1,42 @@
+{
+  "id": "q-005851",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué sistema pertenece principalmente el riñones?",
+  "answers": [
+    {
+      "text": "sistema tegumentario",
+      "correct": false
+    },
+    {
+      "text": "sistema visual",
+      "correct": false
+    },
+    {
+      "text": "sistema urinario",
+      "correct": true
+    },
+    {
+      "text": "sistema respiratorio",
+      "correct": false
+    }
+  ],
+  "explanation": "El riñones pertenece principalmente al sistema urinario.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "sistema-urinario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

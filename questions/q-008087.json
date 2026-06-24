@@ -1,0 +1,43 @@
+{
+  "id": "q-008087",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Pedro el Grande, Felipe II, Akbar y Simón Bolívar, qué personaje histórico se asocia con Imperio mogol?",
+  "answers": [
+    {
+      "text": "Pedro el Grande",
+      "correct": false
+    },
+    {
+      "text": "Simón Bolívar",
+      "correct": false
+    },
+    {
+      "text": "Felipe II",
+      "correct": false
+    },
+    {
+      "text": "Akbar",
+      "correct": true
+    }
+  ],
+  "explanation": "Akbar se asocia con Imperio mogol.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "akbar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

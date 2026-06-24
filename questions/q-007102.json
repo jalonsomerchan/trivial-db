@@ -1,0 +1,44 @@
+{
+  "id": "q-007102",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre hortaliza, pescado, fruta y legumbre, a qué grupo alimentario pertenece berenjena?",
+  "answers": [
+    {
+      "text": "hortaliza",
+      "correct": true
+    },
+    {
+      "text": "pescado",
+      "correct": false
+    },
+    {
+      "text": "fruta",
+      "correct": false
+    },
+    {
+      "text": "legumbre",
+      "correct": false
+    }
+  ],
+  "explanation": "berenjena pertenece al grupo de hortaliza.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "berenjena",
+    "hortaliza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

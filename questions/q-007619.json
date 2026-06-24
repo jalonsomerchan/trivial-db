@@ -1,0 +1,43 @@
+{
+  "id": "q-007619",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "hemisferios"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué hemisferio se encuentra principalmente Nigeria?",
+  "answers": [
+    {
+      "text": "hemisferio oriental",
+      "correct": false
+    },
+    {
+      "text": "hemisferio norte",
+      "correct": true
+    },
+    {
+      "text": "hemisferio sur",
+      "correct": false
+    },
+    {
+      "text": "ambos hemisferios",
+      "correct": false
+    }
+  ],
+  "explanation": "La latitud principal de Nigeria lo sitúa en el hemisferio norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "hemisferios",
+    "nigeria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

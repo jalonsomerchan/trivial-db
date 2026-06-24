@@ -1,0 +1,42 @@
+{
+  "id": "q-009488",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 80% de 300?",
+  "answers": [
+    {
+      "text": "250",
+      "correct": false
+    },
+    {
+      "text": "245",
+      "correct": false
+    },
+    {
+      "text": "235",
+      "correct": false
+    },
+    {
+      "text": "240",
+      "correct": true
+    }
+  ],
+  "explanation": "El 80% de 300 se calcula como 300 × 80/100 = 240.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

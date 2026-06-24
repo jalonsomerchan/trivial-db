@@ -1,0 +1,43 @@
+{
+  "id": "q-007942",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Botswana?",
+  "answers": [
+    {
+      "text": "inglés",
+      "correct": true
+    },
+    {
+      "text": "kazajo",
+      "correct": false
+    },
+    {
+      "text": "venda",
+      "correct": false
+    },
+    {
+      "text": "na",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Botswana figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "botswana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

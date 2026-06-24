@@ -1,0 +1,43 @@
+{
+  "id": "q-006889",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Midway, Capcom, Ubisoft y Mojang, qué compañía o estudio se asocia con “Mortal Kombat”?",
+  "answers": [
+    {
+      "text": "Ubisoft",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": false
+    },
+    {
+      "text": "Mojang",
+      "correct": false
+    },
+    {
+      "text": "Midway",
+      "correct": true
+    }
+  ],
+  "explanation": "“Mortal Kombat” se asocia con Midway.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mortal-kombat",
+    "midway"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005181",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Centro Pompidou, Galería Uffizi, Metropolitan Museum of Art y Museo Británico, qué museo se encuentra en Florencia?",
+  "answers": [
+    {
+      "text": "Museo Británico",
+      "correct": false
+    },
+    {
+      "text": "Metropolitan Museum of Art",
+      "correct": false
+    },
+    {
+      "text": "Galería Uffizi",
+      "correct": true
+    },
+    {
+      "text": "Centro Pompidou",
+      "correct": false
+    }
+  ],
+  "explanation": "En Florencia se encuentra el Galería Uffizi.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "florencia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009792",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente DROP TABLE en SQL?",
+  "answers": [
+    {
+      "text": "referenciar una clave de otra tabla",
+      "correct": false
+    },
+    {
+      "text": "eliminar una tabla",
+      "correct": true
+    },
+    {
+      "text": "modificar la estructura de una tabla",
+      "correct": false
+    },
+    {
+      "text": "filtrar filas",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, DROP TABLE sirve para eliminar una tabla.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "drop-table"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008170",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la Revolución rusa?",
+  "answers": [
+    {
+      "text": "unificación de Italia",
+      "correct": true
+    },
+    {
+      "text": "creación de la Unión Europea por el Tratado de Maastricht",
+      "correct": false
+    },
+    {
+      "text": "fundación de la ONU",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "unificación de Italia ocurrió antes que la Revolución rusa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

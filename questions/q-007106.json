@@ -1,0 +1,44 @@
+{
+  "id": "q-007106",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre legumbre, hortaliza, pescado y fruto seco, a qué grupo alimentario pertenece nuez?",
+  "answers": [
+    {
+      "text": "fruto seco",
+      "correct": true
+    },
+    {
+      "text": "legumbre",
+      "correct": false
+    },
+    {
+      "text": "hortaliza",
+      "correct": false
+    },
+    {
+      "text": "pescado",
+      "correct": false
+    }
+  ],
+  "explanation": "nuez pertenece al grupo de fruto seco.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "nuez",
+    "fruto-seco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

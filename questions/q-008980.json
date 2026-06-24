@@ -1,0 +1,43 @@
+{
+  "id": "q-008980",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “pesado”?",
+  "answers": [
+    {
+      "text": "entrar",
+      "correct": false
+    },
+    {
+      "text": "aceptar",
+      "correct": false
+    },
+    {
+      "text": "ligero",
+      "correct": true
+    },
+    {
+      "text": "encontrar",
+      "correct": false
+    }
+  ],
+  "explanation": "“ligero” y “pesado” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "ligero",
+    "pesado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

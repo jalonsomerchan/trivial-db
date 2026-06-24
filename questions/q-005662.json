@@ -1,0 +1,42 @@
+{
+  "id": "q-005662",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué órgano se encarga principalmente de procesar nutrientes y desintoxicar sustancias?",
+  "answers": [
+    {
+      "text": "cerebro",
+      "correct": false
+    },
+    {
+      "text": "tráquea",
+      "correct": false
+    },
+    {
+      "text": "hígado",
+      "correct": true
+    },
+    {
+      "text": "intestino delgado",
+      "correct": false
+    }
+  ],
+  "explanation": "El hígado se encarga principalmente de procesar nutrientes y desintoxicar sustancias.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "higado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

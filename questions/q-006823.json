@@ -1,0 +1,42 @@
+{
+  "id": "q-006823",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Mario?",
+  "answers": [
+    {
+      "text": "Super Mario Bros.",
+      "correct": true
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Doom",
+      "correct": false
+    }
+  ],
+  "explanation": "Mario se asocia con “Super Mario Bros.”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mario"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

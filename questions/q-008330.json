@@ -1,0 +1,43 @@
+{
+  "id": "q-008330",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento histórico se asocia con la civilización micénica?",
+  "answers": [
+    {
+      "text": "palacio de Cnosos",
+      "correct": false
+    },
+    {
+      "text": "pirámides de Guiza",
+      "correct": false
+    },
+    {
+      "text": "ciudad de Micenas",
+      "correct": true
+    },
+    {
+      "text": "Machu Picchu",
+      "correct": false
+    }
+  ],
+  "explanation": "La civilización micénica se asocia con ciudad de Micenas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "micenica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

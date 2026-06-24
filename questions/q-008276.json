@@ -1,0 +1,42 @@
+{
+  "id": "q-008276",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre construcción del Muro de Berlín, Revolución Gloriosa inglesa, toma de la Bastilla y batalla de Lepanto, cuál de estos hechos ocurrió después que la inicio de la Segunda Guerra Mundial?",
+  "answers": [
+    {
+      "text": "toma de la Bastilla",
+      "correct": false
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": true
+    },
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": false
+    }
+  ],
+  "explanation": "construcción del Muro de Berlín ocurrió después que la inicio de la Segunda Guerra Mundial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

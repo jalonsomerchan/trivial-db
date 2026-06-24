@@ -1,0 +1,42 @@
+{
+  "id": "q-008189",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la inicio de la Primera Cruzada?",
+  "answers": [
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": true
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    }
+  ],
+  "explanation": "asesinato de Julio César ocurrió antes que la inicio de la Primera Cruzada.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

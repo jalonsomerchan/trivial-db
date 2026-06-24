@@ -1,0 +1,43 @@
+{
+  "id": "q-005370",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué país está el Museo Thyssen-Bornemisza?",
+  "answers": [
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    },
+    {
+      "text": "Países Bajos",
+      "correct": false
+    }
+  ],
+  "explanation": "El Museo Thyssen-Bornemisza está en España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "museo-thyssen-bornemisza",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

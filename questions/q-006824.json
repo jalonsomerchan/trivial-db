@@ -1,0 +1,42 @@
+{
+  "id": "q-006824",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Master Chief?",
+  "answers": [
+    {
+      "text": "Halo",
+      "correct": true
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Assassin’s Creed",
+      "correct": false
+    },
+    {
+      "text": "Spyro the Dragon",
+      "correct": false
+    }
+  ],
+  "explanation": "Master Chief se asocia con “Halo”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "master-chief"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

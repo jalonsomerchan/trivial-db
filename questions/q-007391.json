@@ -1,0 +1,43 @@
+{
+  "id": "q-007391",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre glasear, freír, tostar y saltear, qué técnica culinaria consiste en cocinar rápido con poca grasa y fuego alto?",
+  "answers": [
+    {
+      "text": "tostar",
+      "correct": false
+    },
+    {
+      "text": "saltear",
+      "correct": true
+    },
+    {
+      "text": "freír",
+      "correct": false
+    },
+    {
+      "text": "glasear",
+      "correct": false
+    }
+  ],
+  "explanation": "saltear consiste en cocinar rápido con poca grasa y fuego alto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "saltear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

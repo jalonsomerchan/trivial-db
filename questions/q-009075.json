@@ -1,0 +1,42 @@
+{
+  "id": "q-009075",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 129 - 61?",
+  "answers": [
+    {
+      "text": "68",
+      "correct": true
+    },
+    {
+      "text": "78",
+      "correct": false
+    },
+    {
+      "text": "70",
+      "correct": false
+    },
+    {
+      "text": "66",
+      "correct": false
+    }
+  ],
+  "explanation": "La resta 129 - 61 da 68.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

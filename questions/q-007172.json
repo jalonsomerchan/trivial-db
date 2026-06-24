@@ -1,0 +1,43 @@
+{
+  "id": "q-007172",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la base principal de la salsa tomate?",
+  "answers": [
+    {
+      "text": "fondo claro",
+      "correct": false
+    },
+    {
+      "text": "tomate",
+      "correct": true
+    },
+    {
+      "text": "mantequilla y yema",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": false
+    }
+  ],
+  "explanation": "La salsa tomate se basa principalmente en tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "salsas",
+    "tomate"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

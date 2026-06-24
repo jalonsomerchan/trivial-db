@@ -1,0 +1,43 @@
+{
+  "id": "q-007298",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre mantequilla y yema, leche, fondo oscuro y fondo claro, cuál es la base principal de la salsa bechamel?",
+  "answers": [
+    {
+      "text": "fondo oscuro",
+      "correct": false
+    },
+    {
+      "text": "leche",
+      "correct": true
+    },
+    {
+      "text": "fondo claro",
+      "correct": false
+    },
+    {
+      "text": "mantequilla y yema",
+      "correct": false
+    }
+  ],
+  "explanation": "La salsa bechamel se basa principalmente en leche.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "salsas",
+    "bechamel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

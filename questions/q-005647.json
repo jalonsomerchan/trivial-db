@@ -1,0 +1,42 @@
+{
+  "id": "q-005647",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de planeta es Urano?",
+  "answers": [
+    {
+      "text": "rocoso",
+      "correct": false
+    },
+    {
+      "text": "gigante helado 4",
+      "correct": false
+    },
+    {
+      "text": "gigante gaseoso",
+      "correct": false
+    },
+    {
+      "text": "gigante helado",
+      "correct": true
+    }
+  ],
+  "explanation": "Urano se clasifica como gigante helado.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "urano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

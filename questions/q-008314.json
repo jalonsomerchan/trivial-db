@@ -1,0 +1,43 @@
+{
+  "id": "q-008314",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre pirámides de Guiza, Machu Picchu, ciudad de Micenas y alfabeto fenicio, qué elemento histórico se asocia con la civilización fenicia?",
+  "answers": [
+    {
+      "text": "Machu Picchu",
+      "correct": false
+    },
+    {
+      "text": "pirámides de Guiza",
+      "correct": false
+    },
+    {
+      "text": "alfabeto fenicio",
+      "correct": true
+    },
+    {
+      "text": "ciudad de Micenas",
+      "correct": false
+    }
+  ],
+  "explanation": "La civilización fenicia se asocia con alfabeto fenicio.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "fenicia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

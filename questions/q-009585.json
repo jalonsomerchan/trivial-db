@@ -1,0 +1,42 @@
+{
+  "id": "q-009585",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre git branch, git merge, git commit y git log, qué comando de Git se usa para ver el historial de commits?",
+  "answers": [
+    {
+      "text": "git log",
+      "correct": true
+    },
+    {
+      "text": "git merge",
+      "correct": false
+    },
+    {
+      "text": "git commit",
+      "correct": false
+    },
+    {
+      "text": "git branch",
+      "correct": false
+    }
+  ],
+  "explanation": "El comando git log se usa para ver el historial de commits.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-log"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

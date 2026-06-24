@@ -1,0 +1,43 @@
+{
+  "id": "q-007055",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Magreb, Brasil, Tailandia y Grecia, con qué país o región se asocia tradicionalmente el plato tzatziki?",
+  "answers": [
+    {
+      "text": "Grecia",
+      "correct": true
+    },
+    {
+      "text": "Tailandia",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "Magreb",
+      "correct": false
+    }
+  ],
+  "explanation": "El tzatziki se asocia tradicionalmente con Grecia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tzatziki",
+    "grecia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

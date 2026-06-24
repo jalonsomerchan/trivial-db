@@ -1,0 +1,43 @@
+{
+  "id": "q-006838",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente la serie “Friends”?",
+  "answers": [
+    {
+      "text": "fantasía",
+      "correct": false
+    },
+    {
+      "text": "drama criminal",
+      "correct": false
+    },
+    {
+      "text": "misterio",
+      "correct": false
+    },
+    {
+      "text": "comedia",
+      "correct": true
+    }
+  ],
+  "explanation": "“Friends” se asocia principalmente con comedia.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "friends",
+    "comedia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

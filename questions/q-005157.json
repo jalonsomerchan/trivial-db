@@ -1,0 +1,42 @@
+{
+  "id": "q-005157",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué movimiento artístico se caracteriza por contraste, teatralidad y dinamismo?",
+  "answers": [
+    {
+      "text": "Barroco",
+      "correct": true
+    },
+    {
+      "text": "Postimpresionismo",
+      "correct": false
+    },
+    {
+      "text": "Arte conceptual",
+      "correct": false
+    },
+    {
+      "text": "Surrealismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El Barroco se caracteriza por contraste, teatralidad y dinamismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "barroco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

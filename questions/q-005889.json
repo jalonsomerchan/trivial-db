@@ -1,0 +1,42 @@
+{
+  "id": "q-005889",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal de la piel?",
+  "answers": [
+    {
+      "text": "almacenar orina",
+      "correct": false
+    },
+    {
+      "text": "proteger el cuerpo del exterior",
+      "correct": true
+    },
+    {
+      "text": "regular otras glándulas endocrinas",
+      "correct": false
+    },
+    {
+      "text": "conducir aire hacia los bronquios",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal de la piel es proteger el cuerpo del exterior.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "piel"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

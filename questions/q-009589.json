@@ -1,0 +1,42 @@
+{
+  "id": "q-009589",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre git checkout, git stash, git diff y git add, qué comando de Git se usa para preparar cambios para el siguiente commit?",
+  "answers": [
+    {
+      "text": "git diff",
+      "correct": false
+    },
+    {
+      "text": "git stash",
+      "correct": false
+    },
+    {
+      "text": "git add",
+      "correct": true
+    },
+    {
+      "text": "git checkout",
+      "correct": false
+    }
+  ],
+  "explanation": "El comando git add se usa para preparar cambios para el siguiente commit.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-add"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005865",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué función se relaciona especialmente la zinc?",
+  "answers": [
+    {
+      "text": "transporte de oxígeno",
+      "correct": false
+    },
+    {
+      "text": "función inmunitaria",
+      "correct": true
+    },
+    {
+      "text": "metabolismo energético",
+      "correct": false
+    },
+    {
+      "text": "visión y piel",
+      "correct": false
+    }
+  ],
+  "explanation": "La zinc se relaciona con función inmunitaria.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "zinc"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

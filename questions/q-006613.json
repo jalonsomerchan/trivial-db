@@ -1,0 +1,43 @@
+{
+  "id": "q-006613",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la película “E.T., el extraterrestre”?",
+  "answers": [
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    },
+    {
+      "text": "Michael Curtiz",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": true
+    }
+  ],
+  "explanation": "“E.T., el extraterrestre” fue dirigida por Steven Spielberg.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "e-t-el-extraterrestre",
+    "steven-spielberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

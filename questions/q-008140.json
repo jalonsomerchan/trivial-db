@@ -1,0 +1,43 @@
+{
+  "id": "q-008140",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué civilización se asocia con Machu Picchu?",
+  "answers": [
+    {
+      "text": "inca",
+      "correct": true
+    },
+    {
+      "text": "fenicia",
+      "correct": false
+    },
+    {
+      "text": "bizantina",
+      "correct": false
+    },
+    {
+      "text": "griega",
+      "correct": false
+    }
+  ],
+  "explanation": "Machu Picchu se asocia con la civilización inca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "inca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

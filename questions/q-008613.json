@@ -1,0 +1,42 @@
+{
+  "id": "q-008613",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre olvidar, difícil, lento y morir, cuál es un antónimo de “recordar”?",
+  "answers": [
+    {
+      "text": "olvidar",
+      "correct": true
+    },
+    {
+      "text": "lento",
+      "correct": false
+    },
+    {
+      "text": "difícil",
+      "correct": false
+    },
+    {
+      "text": "morir",
+      "correct": false
+    }
+  ],
+  "explanation": "“olvidar” es un antónimo de “recordar”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "recordar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

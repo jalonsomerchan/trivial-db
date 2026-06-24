@@ -1,0 +1,43 @@
+{
+  "id": "q-006626",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la película “Roma”?",
+  "answers": [
+    {
+      "text": "Alfonso Cuarón",
+      "correct": true
+    },
+    {
+      "text": "Francis Ford Coppola",
+      "correct": false
+    },
+    {
+      "text": "John Lasseter",
+      "correct": false
+    },
+    {
+      "text": "Peter Jackson",
+      "correct": false
+    }
+  ],
+  "explanation": "“Roma” fue dirigida por Alfonso Cuarón.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "roma",
+    "alfonso-cuaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-005286",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre René Magritte, Claude Monet, Francisco de Goya y Henri Matisse, qué artista se vincula con Romanticismo y España?",
+  "answers": [
+    {
+      "text": "Claude Monet",
+      "correct": false
+    },
+    {
+      "text": "René Magritte",
+      "correct": false
+    },
+    {
+      "text": "Henri Matisse",
+      "correct": false
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": true
+    }
+  ],
+  "explanation": "Francisco de Goya se vincula con Romanticismo y España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "romanticismo",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005703",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre P = W/t, F = m·a, v = d/t y W = F·d, qué expresión representa trabajo mecánico?",
+  "answers": [
+    {
+      "text": "F = m·a",
+      "correct": false
+    },
+    {
+      "text": "P = W/t",
+      "correct": false
+    },
+    {
+      "text": "v = d/t",
+      "correct": false
+    },
+    {
+      "text": "W = F·d",
+      "correct": true
+    }
+  ],
+  "explanation": "La expresión habitual de trabajo mecánico es W = F·d.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "trabajo-mecanico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

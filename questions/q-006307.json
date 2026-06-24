@@ -1,0 +1,42 @@
+{
+  "id": "q-006307",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "formula-1"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué circuito se asocia con el Gran Premio de Canadá?",
+  "answers": [
+    {
+      "text": "Silverstone",
+      "correct": false
+    },
+    {
+      "text": "Circuito de Mónaco",
+      "correct": false
+    },
+    {
+      "text": "Circuito Gilles Villeneuve",
+      "correct": true
+    },
+    {
+      "text": "Yas Marina",
+      "correct": false
+    }
+  ],
+  "explanation": "El Gran Premio de Canadá se asocia con el circuito de Circuito Gilles Villeneuve.",
+  "sources": [
+    {
+      "title": "Formula 1",
+      "url": "https://www.formula1.com/"
+    }
+  ],
+  "tags": [
+    "formula-1",
+    "circuito-gilles-villeneuve"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

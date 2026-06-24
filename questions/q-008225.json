@@ -1,0 +1,42 @@
+{
+  "id": "q-008225",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió después que la llegada del Apolo 11 a la Luna?",
+  "answers": [
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": true
+    },
+    {
+      "text": "crack bursátil de Wall Street",
+      "correct": false
+    }
+  ],
+  "explanation": "disolución de la Unión Soviética ocurrió después que la llegada del Apolo 11 a la Luna.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

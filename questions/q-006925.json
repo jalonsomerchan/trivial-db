@@ -1,0 +1,43 @@
+{
+  "id": "q-006925",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre drama criminal, detectives, fantasía y ciencia ficción, a qué género se asocia principalmente la serie “The X-Files”?",
+  "answers": [
+    {
+      "text": "drama criminal",
+      "correct": false
+    },
+    {
+      "text": "detectives",
+      "correct": false
+    },
+    {
+      "text": "fantasía",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    }
+  ],
+  "explanation": "“The X-Files” se asocia principalmente con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "the-x-files",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

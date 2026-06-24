@@ -1,0 +1,43 @@
+{
+  "id": "q-007461",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Francia y verduras?",
+  "answers": [
+    {
+      "text": "sushi",
+      "correct": false
+    },
+    {
+      "text": "ratatouille",
+      "correct": true
+    },
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "biryani",
+      "correct": false
+    }
+  ],
+  "explanation": "El ratatouille se asocia con Francia y con verduras.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "francia",
+    "verduras"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

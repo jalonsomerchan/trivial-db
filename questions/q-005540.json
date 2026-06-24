@@ -1,0 +1,43 @@
+{
+  "id": "q-005540",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre arácnidos, mamíferos, crustáceos y moluscos, a qué grupo pertenece el animal llamado cangrejo?",
+  "answers": [
+    {
+      "text": "crustáceos",
+      "correct": true
+    },
+    {
+      "text": "mamíferos",
+      "correct": false
+    },
+    {
+      "text": "arácnidos",
+      "correct": false
+    },
+    {
+      "text": "moluscos",
+      "correct": false
+    }
+  ],
+  "explanation": "El cangrejo pertenece al grupo de los crustáceos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "crustaceos",
+    "cangrejo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

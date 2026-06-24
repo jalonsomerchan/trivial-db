@@ -1,0 +1,42 @@
+{
+  "id": "q-008218",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió después que la independencia de Estados Unidos?",
+  "answers": [
+    {
+      "text": "toma de la Bastilla",
+      "correct": true
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    }
+  ],
+  "explanation": "toma de la Bastilla ocurrió después que la independencia de Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

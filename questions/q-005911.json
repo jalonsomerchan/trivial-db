@@ -1,0 +1,43 @@
+{
+  "id": "q-005911",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué cuerpo celeste es satélite Titania?",
+  "answers": [
+    {
+      "text": "Júpiter",
+      "correct": false
+    },
+    {
+      "text": "Saturno",
+      "correct": false
+    },
+    {
+      "text": "Urano",
+      "correct": true
+    },
+    {
+      "text": "Plutón",
+      "correct": false
+    }
+  ],
+  "explanation": "Titania es un satélite natural de Urano.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "titania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

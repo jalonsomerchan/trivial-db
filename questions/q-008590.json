@@ -1,0 +1,42 @@
+{
+  "id": "q-008590",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre cerrar, vender, caliente y lejos, cuál es un antónimo de “abrir”?",
+  "answers": [
+    {
+      "text": "lejos",
+      "correct": false
+    },
+    {
+      "text": "vender",
+      "correct": false
+    },
+    {
+      "text": "cerrar",
+      "correct": true
+    },
+    {
+      "text": "caliente",
+      "correct": false
+    }
+  ],
+  "explanation": "“cerrar” es un antónimo de “abrir”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "abrir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

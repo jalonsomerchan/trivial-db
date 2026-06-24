@@ -1,0 +1,43 @@
+{
+  "id": "q-006653",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con la serie “Better Call Saul”?",
+  "answers": [
+    {
+      "text": "Daenerys Targaryen",
+      "correct": false
+    },
+    {
+      "text": "Rachel Green",
+      "correct": false
+    },
+    {
+      "text": "Gregory House",
+      "correct": false
+    },
+    {
+      "text": "Jimmy McGill",
+      "correct": true
+    }
+  ],
+  "explanation": "Jimmy McGill es un personaje asociado con “Better Call Saul”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "better-call-saul",
+    "jimmy-mcgill"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005942",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre es el planeta más alejado del Sol, no tiene lunas, destaca por sus anillos y es el mayor planeta, qué característica se asocia con Saturno?",
+  "answers": [
+    {
+      "text": "no tiene lunas",
+      "correct": false
+    },
+    {
+      "text": "es el planeta más alejado del Sol",
+      "correct": false
+    },
+    {
+      "text": "destaca por sus anillos",
+      "correct": true
+    },
+    {
+      "text": "es el mayor planeta",
+      "correct": false
+    }
+  ],
+  "explanation": "Una característica de Saturno es que destaca por sus anillos.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "saturno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

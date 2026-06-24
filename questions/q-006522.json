@@ -1,0 +1,43 @@
+{
+  "id": "q-006522",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Alfred Hitchcock, Christopher Nolan, George Miller y Alfonso Cuarón, quién dirigió la película “El caballero oscuro”?",
+  "answers": [
+    {
+      "text": "Christopher Nolan",
+      "correct": true
+    },
+    {
+      "text": "Alfred Hitchcock",
+      "correct": false
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "George Miller",
+      "correct": false
+    }
+  ],
+  "explanation": "“El caballero oscuro” fue dirigida por Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-caballero-oscuro",
+    "christopher-nolan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

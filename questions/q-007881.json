@@ -1,0 +1,43 @@
+{
+  "id": "q-007881",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Comoras?",
+  "answers": [
+    {
+      "text": "Micronesia",
+      "correct": false
+    },
+    {
+      "text": "Polynesia",
+      "correct": false
+    },
+    {
+      "text": "Eastern Africa",
+      "correct": true
+    },
+    {
+      "text": "South America",
+      "correct": false
+    }
+  ],
+  "explanation": "Comoras pertenece a la subregión Eastern Africa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "comoras"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009258",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 157464?",
+  "answers": [
+    {
+      "text": "56",
+      "correct": false
+    },
+    {
+      "text": "53",
+      "correct": false
+    },
+    {
+      "text": "55",
+      "correct": false
+    },
+    {
+      "text": "54",
+      "correct": true
+    }
+  ],
+  "explanation": "Como 54³ = 157464, la raíz cúbica de 157464 es 54.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

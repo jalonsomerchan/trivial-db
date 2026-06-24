@@ -1,0 +1,43 @@
+{
+  "id": "q-006552",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Gregory House, Daenerys Targaryen, Jimmy McGill y Walter White, qué personaje se asocia con la serie “Game of Thrones”?",
+  "answers": [
+    {
+      "text": "Jimmy McGill",
+      "correct": false
+    },
+    {
+      "text": "Gregory House",
+      "correct": false
+    },
+    {
+      "text": "Daenerys Targaryen",
+      "correct": true
+    },
+    {
+      "text": "Walter White",
+      "correct": false
+    }
+  ],
+  "explanation": "Daenerys Targaryen es un personaje asociado con “Game of Thrones”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "game-of-thrones",
+    "daenerys-targaryen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007932",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Suiza?",
+  "answers": [
+    {
+      "text": "Polynesia",
+      "correct": false
+    },
+    {
+      "text": "Eastern Asia",
+      "correct": false
+    },
+    {
+      "text": "Western Europe",
+      "correct": true
+    },
+    {
+      "text": "South America",
+      "correct": false
+    }
+  ],
+  "explanation": "Suiza pertenece a la subregión Western Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "suiza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

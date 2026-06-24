@@ -1,0 +1,43 @@
+{
+  "id": "q-007742",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: San Vicente y Granadinas, Bangladesh, Senegal o Catar?",
+  "answers": [
+    {
+      "text": "Catar",
+      "correct": false
+    },
+    {
+      "text": "Bangladesh",
+      "correct": false
+    },
+    {
+      "text": "San Vicente y Granadinas",
+      "correct": false
+    },
+    {
+      "text": "Senegal",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre las opciones, Senegal tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

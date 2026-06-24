@@ -1,0 +1,43 @@
+{
+  "id": "q-007995",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Tuvalu?",
+  "answers": [
+    {
+      "text": "húngaro",
+      "correct": false
+    },
+    {
+      "text": "fj",
+      "correct": false
+    },
+    {
+      "text": "hindi",
+      "correct": false
+    },
+    {
+      "text": "inglés",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Tuvalu figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "tuvalu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

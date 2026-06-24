@@ -1,0 +1,43 @@
+{
+  "id": "q-006565",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Jill Valentine, Mario, Master Chief y Sonic, qué personaje protagoniza o representa la saga “Halo”?",
+  "answers": [
+    {
+      "text": "Jill Valentine",
+      "correct": false
+    },
+    {
+      "text": "Sonic",
+      "correct": false
+    },
+    {
+      "text": "Mario",
+      "correct": false
+    },
+    {
+      "text": "Master Chief",
+      "correct": true
+    }
+  ],
+  "explanation": "Master Chief es un personaje asociado a “Halo”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "halo",
+    "master-chief"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

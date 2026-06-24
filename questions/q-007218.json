@@ -1,0 +1,43 @@
+{
+  "id": "q-007218",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre cocinar suavemente en líquido caliente sin hervir fuerte, cocinar con calor seco en horno, cocinar lentamente en grasa o almíbar y ablandar o aromatizar en líquido, qué significa pochado en cocina?",
+  "answers": [
+    {
+      "text": "ablandar o aromatizar en líquido",
+      "correct": false
+    },
+    {
+      "text": "cocinar lentamente en grasa o almíbar",
+      "correct": false
+    },
+    {
+      "text": "cocinar con calor seco en horno",
+      "correct": false
+    },
+    {
+      "text": "cocinar suavemente en líquido caliente sin hervir fuerte",
+      "correct": true
+    }
+  ],
+  "explanation": "En cocina, pochado significa cocinar suavemente en líquido caliente sin hervir fuerte.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "pochado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

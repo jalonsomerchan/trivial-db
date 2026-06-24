@@ -1,0 +1,43 @@
+{
+  "id": "q-005059",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Bilbao, Florencia, Ámsterdam y París, en qué ciudad se encuentra el Guggenheim Bilbao?",
+  "answers": [
+    {
+      "text": "Bilbao",
+      "correct": true
+    },
+    {
+      "text": "Ámsterdam",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    }
+  ],
+  "explanation": "El Guggenheim Bilbao se encuentra en Bilbao.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "guggenheim-bilbao",
+    "bilbao"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

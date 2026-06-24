@@ -1,0 +1,42 @@
+{
+  "id": "q-009140",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 83 + 31?",
+  "answers": [
+    {
+      "text": "114",
+      "correct": true
+    },
+    {
+      "text": "116",
+      "correct": false
+    },
+    {
+      "text": "112",
+      "correct": false
+    },
+    {
+      "text": "124",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 83 y 31 es 114.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007999",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Vietnam?",
+  "answers": [
+    {
+      "text": "bielorruso",
+      "correct": false
+    },
+    {
+      "text": "maltés",
+      "correct": false
+    },
+    {
+      "text": "vietnamita",
+      "correct": true
+    },
+    {
+      "text": "suajili",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Vietnam figura el vietnamita.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "vietnam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

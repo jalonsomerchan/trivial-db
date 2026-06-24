@@ -1,0 +1,42 @@
+{
+  "id": "q-009903",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <form>?",
+  "answers": [
+    {
+      "text": "crear una lista ordenada",
+      "correct": false
+    },
+    {
+      "text": "crear una lista desplegable",
+      "correct": false
+    },
+    {
+      "text": "crear un botón",
+      "correct": false
+    },
+    {
+      "text": "crear un formulario",
+      "correct": true
+    }
+  ],
+  "explanation": "En HTML, <form> sirve para crear un formulario.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "form"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

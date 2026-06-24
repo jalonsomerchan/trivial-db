@@ -1,0 +1,42 @@
+{
+  "id": "q-009280",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuánto vale x si 2x + 22 = 78?",
+  "answers": [
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "27",
+      "correct": false
+    },
+    {
+      "text": "28",
+      "correct": true
+    },
+    {
+      "text": "30",
+      "correct": false
+    }
+  ],
+  "explanation": "Restando 22 y dividiendo entre 2, se obtiene x = 28.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

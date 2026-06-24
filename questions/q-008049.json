@@ -1,0 +1,43 @@
+{
+  "id": "q-008049",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Abraham Lincoln, Fernando II de Aragón, Carlos I de España y Victoria del Reino Unido, qué personaje histórico se asocia con Casa de Austria?",
+  "answers": [
+    {
+      "text": "Fernando II de Aragón",
+      "correct": false
+    },
+    {
+      "text": "Victoria del Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Abraham Lincoln",
+      "correct": false
+    },
+    {
+      "text": "Carlos I de España",
+      "correct": true
+    }
+  ],
+  "explanation": "Carlos I de España se asocia con Casa de Austria.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "carlos-i-de-espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

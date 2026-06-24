@@ -1,0 +1,42 @@
+{
+  "id": "q-006740",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Super Mario Bros., The Legend of Zelda, Pac-Man y Sonic the Hedgehog, qué videojuego se asocia con Link?",
+  "answers": [
+    {
+      "text": "The Legend of Zelda",
+      "correct": true
+    },
+    {
+      "text": "Pac-Man",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    }
+  ],
+  "explanation": "Link se asocia con “The Legend of Zelda”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "link"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

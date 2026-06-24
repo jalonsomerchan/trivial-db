@@ -1,0 +1,43 @@
+{
+  "id": "q-008415",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se relaciona principalmente Felipe II?",
+  "answers": [
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "Castilla",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    },
+    {
+      "text": "India",
+      "correct": false
+    }
+  ],
+  "explanation": "Felipe II se relaciona principalmente con España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

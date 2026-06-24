@@ -1,0 +1,42 @@
+{
+  "id": "q-005247",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Museo del Louvre, Guggenheim Bilbao, Galería Uffizi y Museo del Prado, qué museo se encuentra en Bilbao?",
+  "answers": [
+    {
+      "text": "Guggenheim Bilbao",
+      "correct": true
+    },
+    {
+      "text": "Museo del Prado",
+      "correct": false
+    },
+    {
+      "text": "Galería Uffizi",
+      "correct": false
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": false
+    }
+  ],
+  "explanation": "En Bilbao se encuentra el Guggenheim Bilbao.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "bilbao"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009918",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <style>?",
+  "answers": [
+    {
+      "text": "incluir estilos CSS",
+      "correct": true
+    },
+    {
+      "text": "definir una celda de encabezado",
+      "correct": false
+    },
+    {
+      "text": "vincular recursos externos",
+      "correct": false
+    },
+    {
+      "text": "crear una tabla",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <style> sirve para incluir estilos CSS.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "style"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

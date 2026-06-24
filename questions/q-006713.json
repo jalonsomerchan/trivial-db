@@ -1,0 +1,42 @@
+{
+  "id": "q-006713",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Mega Man, The Last of Us, Half-Life y God of War, qué videojuego se asocia con Gordon Freeman?",
+  "answers": [
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Half-Life",
+      "correct": true
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    }
+  ],
+  "explanation": "Gordon Freeman se asocia con “Half-Life”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "gordon-freeman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

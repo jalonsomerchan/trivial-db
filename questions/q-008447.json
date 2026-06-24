@@ -1,0 +1,43 @@
+{
+  "id": "q-008447",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre -490, 1848, 1066 y 1917, en qué año se produjo la revoluciones europeas de 1848?",
+  "answers": [
+    {
+      "text": "1917",
+      "correct": false
+    },
+    {
+      "text": "1066",
+      "correct": false
+    },
+    {
+      "text": "-490",
+      "correct": false
+    },
+    {
+      "text": "1848",
+      "correct": true
+    }
+  ],
+  "explanation": "La revoluciones europeas de 1848 se produjo en 1848.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "revoluciones-europeas-de-1848"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

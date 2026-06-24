@@ -1,0 +1,43 @@
+{
+  "id": "q-005363",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué país está el Galería Uffizi?",
+  "answers": [
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": true
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    }
+  ],
+  "explanation": "El Galería Uffizi está en Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "galeria-uffizi",
+    "italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

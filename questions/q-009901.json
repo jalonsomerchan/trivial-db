@@ -1,0 +1,42 @@
+{
+  "id": "q-009901",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <canvas>?",
+  "answers": [
+    {
+      "text": "dibujar gráficos por script",
+      "correct": true
+    },
+    {
+      "text": "crear un formulario",
+      "correct": false
+    },
+    {
+      "text": "crear una tabla",
+      "correct": false
+    },
+    {
+      "text": "marcar un pie de página",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <canvas> sirve para dibujar gráficos por script.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "canvas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

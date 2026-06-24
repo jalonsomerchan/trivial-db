@@ -1,0 +1,43 @@
+{
+  "id": "q-008426",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se relaciona principalmente Pedro el Grande?",
+  "answers": [
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": true
+    },
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    }
+  ],
+  "explanation": "Pedro el Grande se relaciona principalmente con Rusia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "rusia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

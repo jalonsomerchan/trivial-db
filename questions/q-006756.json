@@ -1,0 +1,42 @@
+{
+  "id": "q-006756",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Titanic, Gladiator, Buscando a Nemo y El viaje de Chihiro, qué película fue dirigida por Ridley Scott?",
+  "answers": [
+    {
+      "text": "Titanic",
+      "correct": false
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "Gladiator",
+      "correct": true
+    },
+    {
+      "text": "Buscando a Nemo",
+      "correct": false
+    }
+  ],
+  "explanation": "Ridley Scott dirigió “Gladiator”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "ridley-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

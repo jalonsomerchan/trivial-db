@@ -1,0 +1,42 @@
+{
+  "id": "q-009651",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para definir una celda de encabezado?",
+  "answers": [
+    {
+      "text": "<th>",
+      "correct": true
+    },
+    {
+      "text": "<canvas>",
+      "correct": false
+    },
+    {
+      "text": "<footer>",
+      "correct": false
+    },
+    {
+      "text": "<form>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <th> se usa para definir una celda de encabezado.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "th"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

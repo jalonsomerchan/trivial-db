@@ -1,0 +1,43 @@
+{
+  "id": "q-007968",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Líbano?",
+  "answers": [
+    {
+      "text": "fj",
+      "correct": false
+    },
+    {
+      "text": "serbio",
+      "correct": false
+    },
+    {
+      "text": "francés",
+      "correct": false
+    },
+    {
+      "text": "árabe",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Líbano figura el árabe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "libano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

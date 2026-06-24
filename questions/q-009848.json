@@ -1,0 +1,42 @@
+{
+  "id": "q-009848",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre copiar un repositorio remoto, cambiar de rama o restaurar archivos, ver el historial de commits y gestionar etiquetas, para qué sirve principalmente git checkout?",
+  "answers": [
+    {
+      "text": "ver el historial de commits",
+      "correct": false
+    },
+    {
+      "text": "gestionar etiquetas",
+      "correct": false
+    },
+    {
+      "text": "cambiar de rama o restaurar archivos",
+      "correct": true
+    },
+    {
+      "text": "copiar un repositorio remoto",
+      "correct": false
+    }
+  ],
+  "explanation": "git checkout sirve para cambiar de rama o restaurar archivos.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-checkout"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007279",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre fondo claro, mantequilla y yema, tomate y leche, cuál es la base principal de la salsa tomate?",
+  "answers": [
+    {
+      "text": "mantequilla y yema",
+      "correct": false
+    },
+    {
+      "text": "fondo claro",
+      "correct": false
+    },
+    {
+      "text": "tomate",
+      "correct": true
+    },
+    {
+      "text": "leche",
+      "correct": false
+    }
+  ],
+  "explanation": "La salsa tomate se basa principalmente en tomate.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "salsas",
+    "tomate"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

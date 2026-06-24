@@ -1,0 +1,43 @@
+{
+  "id": "q-008965",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “bajo”?",
+  "answers": [
+    {
+      "text": "encender",
+      "correct": false
+    },
+    {
+      "text": "nuevo",
+      "correct": false
+    },
+    {
+      "text": "limpio",
+      "correct": false
+    },
+    {
+      "text": "alto",
+      "correct": true
+    }
+  ],
+  "explanation": "“alto” y “bajo” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "alto",
+    "bajo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

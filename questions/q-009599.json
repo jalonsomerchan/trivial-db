@@ -1,0 +1,42 @@
+{
+  "id": "q-009599",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre git log, git pull, git branch y git tag, qué comando de Git se usa para listar o gestionar ramas?",
+  "answers": [
+    {
+      "text": "git log",
+      "correct": false
+    },
+    {
+      "text": "git pull",
+      "correct": false
+    },
+    {
+      "text": "git branch",
+      "correct": true
+    },
+    {
+      "text": "git tag",
+      "correct": false
+    }
+  ],
+  "explanation": "El comando git branch se usa para listar o gestionar ramas.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-branch"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

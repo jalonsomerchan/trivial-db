@@ -1,0 +1,42 @@
+{
+  "id": "q-005859",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué función se relaciona especialmente la vitamina B1?",
+  "answers": [
+    {
+      "text": "salud ósea",
+      "correct": false
+    },
+    {
+      "text": "absorción de calcio",
+      "correct": false
+    },
+    {
+      "text": "metabolismo energético",
+      "correct": true
+    },
+    {
+      "text": "coagulación sanguínea",
+      "correct": false
+    }
+  ],
+  "explanation": "La vitamina B1 se relaciona con metabolismo energético.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-b1"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

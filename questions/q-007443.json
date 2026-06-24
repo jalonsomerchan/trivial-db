@@ -1,0 +1,43 @@
+{
+  "id": "q-007443",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre sushi, biryani, ratatouille y pho, qué plato se asocia con Francia y verduras?",
+  "answers": [
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "sushi",
+      "correct": false
+    },
+    {
+      "text": "biryani",
+      "correct": false
+    },
+    {
+      "text": "ratatouille",
+      "correct": true
+    }
+  ],
+  "explanation": "El ratatouille se asocia con Francia y con verduras.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "francia",
+    "verduras"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

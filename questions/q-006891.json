@@ -1,0 +1,43 @@
+{
+  "id": "q-006891",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Midway, Sega, Ubisoft y Santa Monica Studio, qué compañía o estudio se asocia con “Sonic the Hedgehog”?",
+  "answers": [
+    {
+      "text": "Santa Monica Studio",
+      "correct": false
+    },
+    {
+      "text": "Midway",
+      "correct": false
+    },
+    {
+      "text": "Ubisoft",
+      "correct": false
+    },
+    {
+      "text": "Sega",
+      "correct": true
+    }
+  ],
+  "explanation": "“Sonic the Hedgehog” se asocia con Sega.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "sonic-the-hedgehog",
+    "sega"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

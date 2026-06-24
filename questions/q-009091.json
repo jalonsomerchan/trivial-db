@@ -1,0 +1,42 @@
+{
+  "id": "q-009091",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 138 + 51?",
+  "answers": [
+    {
+      "text": "189",
+      "correct": true
+    },
+    {
+      "text": "199",
+      "correct": false
+    },
+    {
+      "text": "191",
+      "correct": false
+    },
+    {
+      "text": "187",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 138 y 51 es 189.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

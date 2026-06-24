@@ -1,0 +1,43 @@
+{
+  "id": "q-008385",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué contexto histórico se asocia la caída del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "independencias americanas",
+      "correct": false
+    },
+    {
+      "text": "Edad Moderna",
+      "correct": false
+    },
+    {
+      "text": "exploraciones",
+      "correct": false
+    },
+    {
+      "text": "Guerra Fría",
+      "correct": true
+    }
+  ],
+  "explanation": "La caída del Muro de Berlín se asocia con Guerra Fría.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerra-fria",
+    "caida-del-muro-de-berlin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

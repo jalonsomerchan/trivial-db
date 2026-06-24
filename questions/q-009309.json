@@ -1,0 +1,42 @@
+{
+  "id": "q-009309",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuánto vale x si 6x + 16 = 466?",
+  "answers": [
+    {
+      "text": "77",
+      "correct": false
+    },
+    {
+      "text": "74",
+      "correct": false
+    },
+    {
+      "text": "76",
+      "correct": false
+    },
+    {
+      "text": "75",
+      "correct": true
+    }
+  ],
+  "explanation": "Restando 16 y dividiendo entre 6, se obtiene x = 75.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007078",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre frijoles negros, queso fundido, verduras y remolacha, qué ingrediente es característico del borsch?",
+  "answers": [
+    {
+      "text": "remolacha",
+      "correct": true
+    },
+    {
+      "text": "queso fundido",
+      "correct": false
+    },
+    {
+      "text": "frijoles negros",
+      "correct": false
+    },
+    {
+      "text": "verduras",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del borsch es remolacha.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "borsch",
+    "remolacha"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

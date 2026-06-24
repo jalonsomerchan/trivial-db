@@ -1,0 +1,44 @@
+{
+  "id": "q-007797",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Nouakchott, West Island, Reykjavik o Thimphu?",
+  "answers": [
+    {
+      "text": "Thimphu",
+      "correct": false
+    },
+    {
+      "text": "West Island",
+      "correct": false
+    },
+    {
+      "text": "Reykjavik",
+      "correct": true
+    },
+    {
+      "text": "Nouakchott",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Reykjavik es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

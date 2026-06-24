@@ -1,0 +1,43 @@
+{
+  "id": "q-005979",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre tienen plumas, pasan parte de su vida en el agua y parte en tierra, tienen seis patas y suelen tener cuerpo blando, qué característica define a los anfibios?",
+  "answers": [
+    {
+      "text": "tienen seis patas",
+      "correct": false
+    },
+    {
+      "text": "pasan parte de su vida en el agua y parte en tierra",
+      "correct": true
+    },
+    {
+      "text": "tienen plumas",
+      "correct": false
+    },
+    {
+      "text": "suelen tener cuerpo blando",
+      "correct": false
+    }
+  ],
+  "explanation": "Los anfibios se caracterizan porque pasan parte de su vida en el agua y parte en tierra.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "anfibios"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008650",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué signo de puntuación se usa para marcar una pregunta directa?",
+  "answers": [
+    {
+      "text": "puntos suspensivos",
+      "correct": false
+    },
+    {
+      "text": "paréntesis",
+      "correct": false
+    },
+    {
+      "text": "signos de interrogación",
+      "correct": true
+    },
+    {
+      "text": "raya",
+      "correct": false
+    }
+  ],
+  "explanation": "El signo llamado signos de interrogación se usa para marcar una pregunta directa.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "signos-de-interrogacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

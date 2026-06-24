@@ -1,0 +1,42 @@
+{
+  "id": "q-008492",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre siglo XIX, siglo VIII, siglo IV y siglo V a. C., a qué siglo pertenece el año 1848?",
+  "answers": [
+    {
+      "text": "siglo VIII",
+      "correct": false
+    },
+    {
+      "text": "siglo V a. C.",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX",
+      "correct": true
+    },
+    {
+      "text": "siglo IV",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1848 pertenece al siglo XIX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

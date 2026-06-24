@@ -1,0 +1,43 @@
+{
+  "id": "q-006383",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "formula-1"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Brasil, Austria, México y Italia, en qué país se celebra el Gran Premio de México?",
+  "answers": [
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "México",
+      "correct": true
+    },
+    {
+      "text": "Austria",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    }
+  ],
+  "explanation": "El Gran Premio de México se celebra en México.",
+  "sources": [
+    {
+      "title": "Formula 1",
+      "url": "https://www.formula1.com/"
+    }
+  ],
+  "tags": [
+    "formula-1",
+    "gran-premio-de-mexico",
+    "mexico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

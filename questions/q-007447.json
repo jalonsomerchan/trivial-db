@@ -1,0 +1,43 @@
+{
+  "id": "q-007447",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre tacos, falafel, sushi y moussaka, qué plato se asocia con Japón y arroz avinagrado?",
+  "answers": [
+    {
+      "text": "sushi",
+      "correct": true
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": false
+    },
+    {
+      "text": "falafel",
+      "correct": false
+    }
+  ],
+  "explanation": "El sushi se asocia con Japón y con arroz avinagrado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "japon",
+    "arroz-avinagrado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

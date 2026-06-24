@@ -1,0 +1,43 @@
+{
+  "id": "q-007950",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Estonia?",
+  "answers": [
+    {
+      "text": "polaco",
+      "correct": false
+    },
+    {
+      "text": "estonio",
+      "correct": true
+    },
+    {
+      "text": "croata",
+      "correct": false
+    },
+    {
+      "text": "griego",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Estonia figura el estonio.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "estonia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

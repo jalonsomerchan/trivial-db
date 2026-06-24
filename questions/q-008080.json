@@ -1,0 +1,43 @@
+{
+  "id": "q-008080",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Mahatma Gandhi, Luis XIV, Carlos I de España y George Washington, qué personaje histórico se asocia con independencia india?",
+  "answers": [
+    {
+      "text": "Luis XIV",
+      "correct": false
+    },
+    {
+      "text": "Mahatma Gandhi",
+      "correct": true
+    },
+    {
+      "text": "Carlos I de España",
+      "correct": false
+    },
+    {
+      "text": "George Washington",
+      "correct": false
+    }
+  ],
+  "explanation": "Mahatma Gandhi se asocia con independencia india.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "mahatma-gandhi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

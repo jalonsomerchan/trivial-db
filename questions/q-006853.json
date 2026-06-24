@@ -1,0 +1,43 @@
+{
+  "id": "q-006853",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente “Blade Runner”?",
+  "answers": [
+    {
+      "text": "drama romántico",
+      "correct": false
+    },
+    {
+      "text": "thriller",
+      "correct": false
+    },
+    {
+      "text": "superhéroes",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    }
+  ],
+  "explanation": "“Blade Runner” se asocia principalmente con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "blade-runner",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

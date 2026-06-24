@@ -1,0 +1,43 @@
+{
+  "id": "q-005316",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista se vincula con Postimpresionismo y Francia?",
+  "answers": [
+    {
+      "text": "Georges Braque",
+      "correct": false
+    },
+    {
+      "text": "Andy Warhol",
+      "correct": false
+    },
+    {
+      "text": "Paul Cézanne",
+      "correct": true
+    },
+    {
+      "text": "Rembrandt",
+      "correct": false
+    }
+  ],
+  "explanation": "Paul Cézanne se vincula con Postimpresionismo y Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "postimpresionismo",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

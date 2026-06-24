@@ -1,0 +1,42 @@
+{
+  "id": "q-006817",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Geralt de Rivia?",
+  "answers": [
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": true
+    },
+    {
+      "text": "Spyro the Dragon",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    }
+  ],
+  "explanation": "Geralt de Rivia se asocia con “The Witcher 3”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "geralt-de-rivia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

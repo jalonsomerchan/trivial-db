@@ -1,0 +1,42 @@
+{
+  "id": "q-005824",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud se calcula como distancia dividida entre tiempo?",
+  "answers": [
+    {
+      "text": "energía cinética",
+      "correct": false
+    },
+    {
+      "text": "cantidad de movimiento",
+      "correct": false
+    },
+    {
+      "text": "velocidad media",
+      "correct": true
+    },
+    {
+      "text": "trabajo mecánico",
+      "correct": false
+    }
+  ],
+  "explanation": "velocidad media se calcula como distancia dividida entre tiempo.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "velocidad-media"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

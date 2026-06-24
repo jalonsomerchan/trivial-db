@@ -1,0 +1,42 @@
+{
+  "id": "q-009864",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre marcar una cabecera, definir una celda de tabla, insertar o enlazar JavaScript y crear una tabla, para qué se usa principalmente la etiqueta HTML <script>?",
+  "answers": [
+    {
+      "text": "definir una celda de tabla",
+      "correct": false
+    },
+    {
+      "text": "crear una tabla",
+      "correct": false
+    },
+    {
+      "text": "marcar una cabecera",
+      "correct": false
+    },
+    {
+      "text": "insertar o enlazar JavaScript",
+      "correct": true
+    }
+  ],
+  "explanation": "En HTML, <script> sirve para insertar o enlazar JavaScript.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "script"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

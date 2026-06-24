@@ -1,0 +1,42 @@
+{
+  "id": "q-005629",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué nutriente se asocia especialmente con absorción de calcio?",
+  "answers": [
+    {
+      "text": "vitamina E",
+      "correct": false
+    },
+    {
+      "text": "vitamina C",
+      "correct": false
+    },
+    {
+      "text": "vitamina D",
+      "correct": true
+    },
+    {
+      "text": "hierro",
+      "correct": false
+    }
+  ],
+  "explanation": "vitamina D está relacionado con absorción de calcio.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-d"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

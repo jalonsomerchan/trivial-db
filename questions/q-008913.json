@@ -1,0 +1,42 @@
+{
+  "id": "q-008913",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre pretérito perfecto compuesto, pretérito anterior, perífrasis de gerundio y perífrasis de futuro, qué tiempo verbal aparece en “yo voy a cantar”?",
+  "answers": [
+    {
+      "text": "pretérito perfecto compuesto",
+      "correct": false
+    },
+    {
+      "text": "perífrasis de futuro",
+      "correct": true
+    },
+    {
+      "text": "perífrasis de gerundio",
+      "correct": false
+    },
+    {
+      "text": "pretérito anterior",
+      "correct": false
+    }
+  ],
+  "explanation": "“yo voy a cantar” está en perífrasis de futuro.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "perifrasis-de-futuro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

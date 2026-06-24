@@ -1,0 +1,43 @@
+{
+  "id": "q-007138",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre yogur y pepino, pescado crudo marinado, maíz y masa de pan, qué ingrediente es característico del tzatziki?",
+  "answers": [
+    {
+      "text": "masa de pan",
+      "correct": false
+    },
+    {
+      "text": "pescado crudo marinado",
+      "correct": false
+    },
+    {
+      "text": "maíz",
+      "correct": false
+    },
+    {
+      "text": "yogur y pepino",
+      "correct": true
+    }
+  ],
+  "explanation": "Un ingrediente característico del tzatziki es yogur y pepino.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tzatziki",
+    "yogur-y-pepino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

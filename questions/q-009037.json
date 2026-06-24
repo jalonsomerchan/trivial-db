@@ -1,0 +1,42 @@
+{
+  "id": "q-009037",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 108 + 60?",
+  "answers": [
+    {
+      "text": "168",
+      "correct": true
+    },
+    {
+      "text": "166",
+      "correct": false
+    },
+    {
+      "text": "178",
+      "correct": false
+    },
+    {
+      "text": "170",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 108 y 60 es 168.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

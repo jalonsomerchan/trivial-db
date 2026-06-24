@@ -1,0 +1,43 @@
+{
+  "id": "q-007846",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país tiene frontera terrestre Estonia?",
+  "answers": [
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "Albania",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": true
+    },
+    {
+      "text": "Bélgica",
+      "correct": false
+    }
+  ],
+  "explanation": "Estonia comparte frontera terrestre con Rusia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "fronteras",
+    "estonia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

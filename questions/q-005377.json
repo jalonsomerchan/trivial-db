@@ -1,0 +1,43 @@
+{
+  "id": "q-005377",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué país está el Rijksmuseum?",
+  "answers": [
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Países Bajos",
+      "correct": true
+    }
+  ],
+  "explanation": "El Rijksmuseum está en Países Bajos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "rijksmuseum",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

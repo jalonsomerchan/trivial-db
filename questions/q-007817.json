@@ -1,0 +1,44 @@
+{
+  "id": "q-007817",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: St. Peter Port, Plymouth, Warsaw o Kigali?",
+  "answers": [
+    {
+      "text": "Plymouth",
+      "correct": false
+    },
+    {
+      "text": "Kigali",
+      "correct": false
+    },
+    {
+      "text": "St. Peter Port",
+      "correct": false
+    },
+    {
+      "text": "Warsaw",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre las opciones, Warsaw es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

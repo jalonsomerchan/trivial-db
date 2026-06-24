@@ -1,0 +1,43 @@
+{
+  "id": "q-005210",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Henri Matisse, Pablo Picasso, Gustav Klimt y Miguel Ángel, qué artista se vincula con Modernismo y Austria?",
+  "answers": [
+    {
+      "text": "Pablo Picasso",
+      "correct": false
+    },
+    {
+      "text": "Gustav Klimt",
+      "correct": true
+    },
+    {
+      "text": "Miguel Ángel",
+      "correct": false
+    },
+    {
+      "text": "Henri Matisse",
+      "correct": false
+    }
+  ],
+  "explanation": "Gustav Klimt se vincula con Modernismo y Austria.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "modernismo",
+    "austria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

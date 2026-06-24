@@ -1,0 +1,43 @@
+{
+  "id": "q-006928",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre drama médico, misterio, drama criminal y animación, a qué género se asocia principalmente la serie “House”?",
+  "answers": [
+    {
+      "text": "animación",
+      "correct": false
+    },
+    {
+      "text": "drama criminal",
+      "correct": false
+    },
+    {
+      "text": "drama médico",
+      "correct": true
+    },
+    {
+      "text": "misterio",
+      "correct": false
+    }
+  ],
+  "explanation": "“House” se asocia principalmente con drama médico.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "house",
+    "drama-medico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

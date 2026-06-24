@@ -1,0 +1,42 @@
+{
+  "id": "q-005571",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre gigante helado, gigante gaseoso, rocoso 4 y rocoso, qué tipo de planeta es Tierra?",
+  "answers": [
+    {
+      "text": "rocoso 4",
+      "correct": false
+    },
+    {
+      "text": "gigante helado",
+      "correct": false
+    },
+    {
+      "text": "gigante gaseoso",
+      "correct": false
+    },
+    {
+      "text": "rocoso",
+      "correct": true
+    }
+  ],
+  "explanation": "Tierra se clasifica como rocoso.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "tierra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

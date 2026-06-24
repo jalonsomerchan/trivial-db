@@ -1,0 +1,43 @@
+{
+  "id": "q-006901",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Valve, Santa Monica Studio, Sega y Square, qué compañía o estudio se asocia con “Final Fantasy VII”?",
+  "answers": [
+    {
+      "text": "Santa Monica Studio",
+      "correct": false
+    },
+    {
+      "text": "Sega",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": false
+    },
+    {
+      "text": "Square",
+      "correct": true
+    }
+  ],
+  "explanation": "“Final Fantasy VII” se asocia con Square.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "final-fantasy-vii",
+    "square"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

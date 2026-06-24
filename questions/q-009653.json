@@ -1,0 +1,42 @@
+{
+  "id": "q-009653",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para definir una fila de tabla?",
+  "answers": [
+    {
+      "text": "<button>",
+      "correct": false
+    },
+    {
+      "text": "<textarea>",
+      "correct": false
+    },
+    {
+      "text": "<tr>",
+      "correct": true
+    },
+    {
+      "text": "<input>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <tr> se usa para definir una fila de tabla.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "tr"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

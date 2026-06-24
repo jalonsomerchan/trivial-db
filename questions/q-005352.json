@@ -1,0 +1,43 @@
+{
+  "id": "q-005352",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país era Piet Mondrian?",
+  "answers": [
+    {
+      "text": "Países Bajos",
+      "correct": true
+    },
+    {
+      "text": "Bélgica",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": false
+    }
+  ],
+  "explanation": "Piet Mondrian era de Países Bajos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "piet-mondrian",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

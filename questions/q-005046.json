@@ -1,0 +1,43 @@
+{
+  "id": "q-005046",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Van Gogh Museum?",
+  "answers": [
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Ámsterdam",
+      "correct": true
+    }
+  ],
+  "explanation": "El Van Gogh Museum se encuentra en Ámsterdam.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "van-gogh-museum",
+    "amsterdam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

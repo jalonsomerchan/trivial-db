@@ -1,0 +1,42 @@
+{
+  "id": "q-009868",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre preparar cambios para el siguiente commit, enviar commits al remoto, listar o gestionar ramas y reaplicar commits sobre otra base, para qué sirve principalmente git push?",
+  "answers": [
+    {
+      "text": "reaplicar commits sobre otra base",
+      "correct": false
+    },
+    {
+      "text": "listar o gestionar ramas",
+      "correct": false
+    },
+    {
+      "text": "enviar commits al remoto",
+      "correct": true
+    },
+    {
+      "text": "preparar cambios para el siguiente commit",
+      "correct": false
+    }
+  ],
+  "explanation": "git push sirve para enviar commits al remoto.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-push"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

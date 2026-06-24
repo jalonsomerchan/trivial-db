@@ -1,0 +1,43 @@
+{
+  "id": "q-006940",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre metal industrial, rock, pop y grunge, qué estilo musical se asocia con ABBA?",
+  "answers": [
+    {
+      "text": "metal industrial",
+      "correct": false
+    },
+    {
+      "text": "grunge",
+      "correct": false
+    },
+    {
+      "text": "pop",
+      "correct": true
+    },
+    {
+      "text": "rock",
+      "correct": false
+    }
+  ],
+  "explanation": "ABBA se asocia con pop.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "abba",
+    "pop"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

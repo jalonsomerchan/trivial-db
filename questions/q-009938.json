@@ -1,0 +1,42 @@
+{
+  "id": "q-009938",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué sirve principalmente git stash?",
+  "answers": [
+    {
+      "text": "traer e integrar cambios remotos",
+      "correct": false
+    },
+    {
+      "text": "ver el estado del árbol de trabajo",
+      "correct": false
+    },
+    {
+      "text": "ver el historial de commits",
+      "correct": false
+    },
+    {
+      "text": "guardar cambios temporalmente",
+      "correct": true
+    }
+  ],
+  "explanation": "git stash sirve para guardar cambios temporalmente.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-stash"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

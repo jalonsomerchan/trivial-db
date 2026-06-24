@@ -1,0 +1,42 @@
+{
+  "id": "q-005651",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué órgano se encarga principalmente de almacenar orina?",
+  "answers": [
+    {
+      "text": "diafragma",
+      "correct": false
+    },
+    {
+      "text": "intestino delgado",
+      "correct": false
+    },
+    {
+      "text": "vejiga urinaria",
+      "correct": true
+    },
+    {
+      "text": "tiroides",
+      "correct": false
+    }
+  ],
+  "explanation": "La vejiga urinaria se encarga principalmente de almacenar orina.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "vejiga-urinaria"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

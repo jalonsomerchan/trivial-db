@@ -1,0 +1,42 @@
+{
+  "id": "q-009461",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 35% de 200?",
+  "answers": [
+    {
+      "text": "70",
+      "correct": true
+    },
+    {
+      "text": "80",
+      "correct": false
+    },
+    {
+      "text": "65",
+      "correct": false
+    },
+    {
+      "text": "75",
+      "correct": false
+    }
+  ],
+  "explanation": "El 35% de 200 se calcula como 200 × 35/100 = 70.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

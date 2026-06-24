@@ -1,0 +1,42 @@
+{
+  "id": "q-009557",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <svg>, <article>, <form> y <table>, qué etiqueta HTML se usa para crear una tabla?",
+  "answers": [
+    {
+      "text": "<svg>",
+      "correct": false
+    },
+    {
+      "text": "<table>",
+      "correct": true
+    },
+    {
+      "text": "<article>",
+      "correct": false
+    },
+    {
+      "text": "<form>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <table> se usa para crear una tabla.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "table"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-005211",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Henri Matisse, Piet Mondrian, Paul Cézanne y Jackson Pollock, qué artista se vincula con Fauvismo y Francia?",
+  "answers": [
+    {
+      "text": "Henri Matisse",
+      "correct": true
+    },
+    {
+      "text": "Jackson Pollock",
+      "correct": false
+    },
+    {
+      "text": "Piet Mondrian",
+      "correct": false
+    },
+    {
+      "text": "Paul Cézanne",
+      "correct": false
+    }
+  ],
+  "explanation": "Henri Matisse se vincula con Fauvismo y Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "fauvismo",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009846",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre background-size, text-decoration, opacity y font-weight, qué propiedad CSS define el tamaño de una imagen de fondo?",
+  "answers": [
+    {
+      "text": "font-weight",
+      "correct": false
+    },
+    {
+      "text": "opacity",
+      "correct": false
+    },
+    {
+      "text": "background-size",
+      "correct": true
+    },
+    {
+      "text": "text-decoration",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS background-size define el tamaño de una imagen de fondo.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "background-size"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

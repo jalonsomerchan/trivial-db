@@ -1,0 +1,42 @@
+{
+  "id": "q-006829",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Samus Aran?",
+  "answers": [
+    {
+      "text": "Half-Life",
+      "correct": false
+    },
+    {
+      "text": "Metroid",
+      "correct": true
+    },
+    {
+      "text": "Crash Bandicoot",
+      "correct": false
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    }
+  ],
+  "explanation": "Samus Aran se asocia con “Metroid”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "samus-aran"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

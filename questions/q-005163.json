@@ -1,0 +1,42 @@
+{
+  "id": "q-005163",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué movimiento artístico se caracteriza por interés por la Antigüedad clásica y el humanismo?",
+  "answers": [
+    {
+      "text": "Dadaísmo",
+      "correct": false
+    },
+    {
+      "text": "Minimalismo",
+      "correct": false
+    },
+    {
+      "text": "Renacimiento",
+      "correct": true
+    },
+    {
+      "text": "Realismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El Renacimiento se caracteriza por interés por la Antigüedad clásica y el humanismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

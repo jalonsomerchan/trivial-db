@@ -1,0 +1,42 @@
+{
+  "id": "q-009858",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre find(), sort(), includes() y every(), qué método de JavaScript devuelve el primer elemento que cumple una condición?",
+  "answers": [
+    {
+      "text": "every()",
+      "correct": false
+    },
+    {
+      "text": "includes()",
+      "correct": false
+    },
+    {
+      "text": "sort()",
+      "correct": false
+    },
+    {
+      "text": "find()",
+      "correct": true
+    }
+  ],
+  "explanation": "El método find() devuelve el primer elemento que cumple una condición.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "find"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

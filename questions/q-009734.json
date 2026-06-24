@@ -1,0 +1,42 @@
+{
+  "id": "q-009734",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre divide una cadena en partes, añade elementos al final de un array, elimina el último elemento de un array y sustituye coincidencias en una cadena, qué hace principalmente el método JavaScript pop()?",
+  "answers": [
+    {
+      "text": "elimina el último elemento de un array",
+      "correct": true
+    },
+    {
+      "text": "sustituye coincidencias en una cadena",
+      "correct": false
+    },
+    {
+      "text": "divide una cadena en partes",
+      "correct": false
+    },
+    {
+      "text": "añade elementos al final de un array",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, pop() elimina el último elemento de un array.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "pop"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

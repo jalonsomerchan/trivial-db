@@ -1,0 +1,43 @@
+{
+  "id": "q-005265",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Pierre-Auguste Renoir, Henri Matisse, Andy Warhol y Rafael Sanzio, qué artista se vincula con Pop art y Estados Unidos?",
+  "answers": [
+    {
+      "text": "Andy Warhol",
+      "correct": true
+    },
+    {
+      "text": "Rafael Sanzio",
+      "correct": false
+    },
+    {
+      "text": "Pierre-Auguste Renoir",
+      "correct": false
+    },
+    {
+      "text": "Henri Matisse",
+      "correct": false
+    }
+  ],
+  "explanation": "Andy Warhol se vincula con Pop art y Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pop-art",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

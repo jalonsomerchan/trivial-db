@@ -1,0 +1,42 @@
+{
+  "id": "q-005660",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué órgano se encarga principalmente de participar en la audición?",
+  "answers": [
+    {
+      "text": "cóclea",
+      "correct": true
+    },
+    {
+      "text": "páncreas",
+      "correct": false
+    },
+    {
+      "text": "vejiga urinaria",
+      "correct": false
+    },
+    {
+      "text": "tráquea",
+      "correct": false
+    }
+  ],
+  "explanation": "La cóclea se encarga principalmente de participar en la audición.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "coclea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009899",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <audio>?",
+  "answers": [
+    {
+      "text": "insertar audio",
+      "correct": true
+    },
+    {
+      "text": "definir una opción seleccionable",
+      "correct": false
+    },
+    {
+      "text": "marcar el contenido principal",
+      "correct": false
+    },
+    {
+      "text": "dibujar gráficos por script",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <audio> sirve para insertar audio.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "audio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

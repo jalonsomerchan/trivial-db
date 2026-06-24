@@ -1,0 +1,42 @@
+{
+  "id": "q-009987",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS controla el tratamiento de espacios y saltos?",
+  "answers": [
+    {
+      "text": "animation",
+      "correct": false
+    },
+    {
+      "text": "white-space",
+      "correct": true
+    },
+    {
+      "text": "box-shadow",
+      "correct": false
+    },
+    {
+      "text": "margin",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS white-space controla el tratamiento de espacios y saltos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "white-space"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

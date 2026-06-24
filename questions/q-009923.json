@@ -1,0 +1,42 @@
+{
+  "id": "q-009923",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <th>?",
+  "answers": [
+    {
+      "text": "definir una celda de encabezado",
+      "correct": true
+    },
+    {
+      "text": "crear un botón",
+      "correct": false
+    },
+    {
+      "text": "marcar un pie de página",
+      "correct": false
+    },
+    {
+      "text": "crear un campo de entrada",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <th> sirve para definir una celda de encabezado.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "th"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

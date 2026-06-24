@@ -1,0 +1,42 @@
+{
+  "id": "q-008646",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué signo de puntuación se usa para introducir información aclaratoria?",
+  "answers": [
+    {
+      "text": "paréntesis",
+      "correct": true
+    },
+    {
+      "text": "raya",
+      "correct": false
+    },
+    {
+      "text": "dos puntos",
+      "correct": false
+    },
+    {
+      "text": "punto y coma",
+      "correct": false
+    }
+  ],
+  "explanation": "El signo llamado paréntesis se usa para introducir información aclaratoria.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "parentesis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

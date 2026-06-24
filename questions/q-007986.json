@@ -1,0 +1,43 @@
+{
+  "id": "q-007986",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Santo Tomé y Príncipe?",
+  "answers": [
+    {
+      "text": "shona",
+      "correct": false
+    },
+    {
+      "text": "portugués",
+      "correct": true
+    },
+    {
+      "text": "ndebele meridional",
+      "correct": false
+    },
+    {
+      "text": "turcomano",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Santo Tomé y Príncipe figura el portugués.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "santo-tome-y-principe"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

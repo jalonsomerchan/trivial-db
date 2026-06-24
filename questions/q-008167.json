@@ -1,0 +1,43 @@
+{
+  "id": "q-008167",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje histórico se asocia con presidencia de Estados Unidos?",
+  "answers": [
+    {
+      "text": "Pedro el Grande",
+      "correct": false
+    },
+    {
+      "text": "Napoleón Bonaparte",
+      "correct": false
+    },
+    {
+      "text": "Akbar",
+      "correct": false
+    },
+    {
+      "text": "Abraham Lincoln",
+      "correct": true
+    }
+  ],
+  "explanation": "Abraham Lincoln se asocia con presidencia de Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "abraham-lincoln"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

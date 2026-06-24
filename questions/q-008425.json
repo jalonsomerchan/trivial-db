@@ -1,0 +1,43 @@
+{
+  "id": "q-008425",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se relaciona principalmente Nelson Mandela?",
+  "answers": [
+    {
+      "text": "Inglaterra",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Sudáfrica",
+      "correct": true
+    },
+    {
+      "text": "América del Sur",
+      "correct": false
+    }
+  ],
+  "explanation": "Nelson Mandela se relaciona principalmente con Sudáfrica.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "sudafrica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

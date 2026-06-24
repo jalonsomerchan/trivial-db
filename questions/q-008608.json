@@ -1,0 +1,43 @@
+{
+  "id": "q-008608",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre llana, sobresdrújula, aguda y esdrújula, qué tipo de palabra es “lápiz” según su acentuación?",
+  "answers": [
+    {
+      "text": "llana",
+      "correct": true
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    },
+    {
+      "text": "esdrújula",
+      "correct": false
+    }
+  ],
+  "explanation": "“lápiz” es una palabra llana.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "lapiz",
+    "llana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

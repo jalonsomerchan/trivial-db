@@ -1,0 +1,43 @@
+{
+  "id": "q-006860",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente “El señor de los anillos: la comunidad del anillo”?",
+  "answers": [
+    {
+      "text": "fantasía",
+      "correct": true
+    },
+    {
+      "text": "terror y ciencia ficción",
+      "correct": false
+    },
+    {
+      "text": "superhéroes",
+      "correct": false
+    },
+    {
+      "text": "aventura",
+      "correct": false
+    }
+  ],
+  "explanation": "“El señor de los anillos: la comunidad del anillo” se asocia principalmente con fantasía.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-senor-de-los-anillos-la-comunidad-del-anillo",
+    "fantasia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

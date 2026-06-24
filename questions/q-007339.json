@@ -1,0 +1,43 @@
+{
+  "id": "q-007339",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos alimentos pertenece al grupo fruto seco?",
+  "answers": [
+    {
+      "text": "zanahoria",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": false
+    },
+    {
+      "text": "salmón",
+      "correct": false
+    },
+    {
+      "text": "almendra",
+      "correct": true
+    }
+  ],
+  "explanation": "almendra pertenece al grupo fruto seco.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "fruto-seco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

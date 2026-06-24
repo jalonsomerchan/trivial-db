@@ -1,0 +1,43 @@
+{
+  "id": "q-007991",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Suiza?",
+  "answers": [
+    {
+      "text": "maorí",
+      "correct": false
+    },
+    {
+      "text": "urdu",
+      "correct": false
+    },
+    {
+      "text": "danés",
+      "correct": false
+    },
+    {
+      "text": "alemán",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Suiza figura el alemán.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "suiza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

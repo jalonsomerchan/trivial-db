@@ -1,0 +1,42 @@
+{
+  "id": "q-009920",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <table>?",
+  "answers": [
+    {
+      "text": "vincular recursos externos",
+      "correct": false
+    },
+    {
+      "text": "insertar audio",
+      "correct": false
+    },
+    {
+      "text": "crear una tabla",
+      "correct": true
+    },
+    {
+      "text": "incluir gráficos vectoriales",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <table> sirve para crear una tabla.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "table"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

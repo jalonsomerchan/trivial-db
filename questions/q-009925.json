@@ -1,0 +1,42 @@
+{
+  "id": "q-009925",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <ul>?",
+  "answers": [
+    {
+      "text": "vincular recursos externos",
+      "correct": false
+    },
+    {
+      "text": "definir una fila de tabla",
+      "correct": false
+    },
+    {
+      "text": "crear una lista no ordenada",
+      "correct": true
+    },
+    {
+      "text": "crear una lista desplegable",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <ul> sirve para crear una lista no ordenada.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "ul"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

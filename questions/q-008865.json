@@ -1,0 +1,42 @@
+{
+  "id": "q-008865",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre femenino con artículo el por a tónica, masculino, masculino o ambiguo y femenino, qué género gramatical corresponde a “el día”?",
+  "answers": [
+    {
+      "text": "femenino",
+      "correct": false
+    },
+    {
+      "text": "femenino con artículo el por a tónica",
+      "correct": false
+    },
+    {
+      "text": "masculino o ambiguo",
+      "correct": false
+    },
+    {
+      "text": "masculino",
+      "correct": true
+    }
+  ],
+  "explanation": "La forma “el día” corresponde a masculino.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "genero-gramatical",
+    "el-dia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

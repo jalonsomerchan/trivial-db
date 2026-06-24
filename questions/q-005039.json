@@ -1,0 +1,43 @@
+{
+  "id": "q-005039",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Museo del Louvre?",
+  "answers": [
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": true
+    },
+    {
+      "text": "Bilbao",
+      "correct": false
+    }
+  ],
+  "explanation": "El Museo del Louvre se encuentra en París.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "museo-del-louvre",
+    "paris"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

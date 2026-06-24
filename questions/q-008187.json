@@ -1,0 +1,42 @@
+{
+  "id": "q-008187",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la independencia de México?",
+  "answers": [
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    },
+    {
+      "text": "creación de la Unión Europea por el Tratado de Maastricht",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": true
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    }
+  ],
+  "explanation": "asesinato de Julio César ocurrió antes que la independencia de México.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

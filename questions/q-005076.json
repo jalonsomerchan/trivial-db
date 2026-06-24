@@ -1,0 +1,43 @@
+{
+  "id": "q-005076",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Expresionismo, Romanticismo, Abstracción y Surrealismo, con qué movimiento artístico se asocia Salvador Dalí?",
+  "answers": [
+    {
+      "text": "Romanticismo",
+      "correct": false
+    },
+    {
+      "text": "Surrealismo",
+      "correct": true
+    },
+    {
+      "text": "Expresionismo",
+      "correct": false
+    },
+    {
+      "text": "Abstracción",
+      "correct": false
+    }
+  ],
+  "explanation": "Salvador Dalí se asocia habitualmente con Surrealismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "salvador-dali",
+    "surrealismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

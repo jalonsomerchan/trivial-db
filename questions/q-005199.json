@@ -1,0 +1,43 @@
+{
+  "id": "q-005199",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Georges Braque, Gustav Klimt, Diego Velázquez y Claude Monet, qué artista se vincula con Impresionismo y Francia?",
+  "answers": [
+    {
+      "text": "Diego Velázquez",
+      "correct": false
+    },
+    {
+      "text": "Georges Braque",
+      "correct": false
+    },
+    {
+      "text": "Claude Monet",
+      "correct": true
+    },
+    {
+      "text": "Gustav Klimt",
+      "correct": false
+    }
+  ],
+  "explanation": "Claude Monet se vincula con Impresionismo y Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "impresionismo",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

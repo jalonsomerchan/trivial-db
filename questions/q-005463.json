@@ -1,0 +1,42 @@
+{
+  "id": "q-005463",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre relato de la vida de una persona, narración extensa en prosa, relato breve con moraleja y relato de hechos en orden temporal, qué define principalmente a un biografía?",
+  "answers": [
+    {
+      "text": "relato de la vida de una persona",
+      "correct": true
+    },
+    {
+      "text": "narración extensa en prosa",
+      "correct": false
+    },
+    {
+      "text": "relato de hechos en orden temporal",
+      "correct": false
+    },
+    {
+      "text": "relato breve con moraleja",
+      "correct": false
+    }
+  ],
+  "explanation": "Un biografía se define como relato de la vida de una persona.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "biografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

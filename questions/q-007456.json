@@ -1,0 +1,43 @@
+{
+  "id": "q-007456",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con España y arroz?",
+  "answers": [
+    {
+      "text": "sushi",
+      "correct": false
+    },
+    {
+      "text": "croissant",
+      "correct": false
+    },
+    {
+      "text": "paella",
+      "correct": true
+    },
+    {
+      "text": "feijoada",
+      "correct": false
+    }
+  ],
+  "explanation": "El paella se asocia con España y con arroz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "espana",
+    "arroz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

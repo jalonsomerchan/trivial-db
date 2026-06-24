@@ -1,0 +1,42 @@
+{
+  "id": "q-006719",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Minecraft, Metroid, Assassin’s Creed y Super Mario Bros., qué videojuego se asocia con Altaïr?",
+  "answers": [
+    {
+      "text": "Super Mario Bros.",
+      "correct": false
+    },
+    {
+      "text": "Minecraft",
+      "correct": false
+    },
+    {
+      "text": "Assassin’s Creed",
+      "correct": true
+    },
+    {
+      "text": "Metroid",
+      "correct": false
+    }
+  ],
+  "explanation": "Altaïr se asocia con “Assassin’s Creed”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "altair"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

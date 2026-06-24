@@ -1,0 +1,42 @@
+{
+  "id": "q-008499",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre siglo XX, siglo XI, siglo XV y siglo VIII, a qué siglo pertenece el año 1993?",
+  "answers": [
+    {
+      "text": "siglo XV",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo VIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XI",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1993 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

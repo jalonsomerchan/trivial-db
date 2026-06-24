@@ -1,0 +1,42 @@
+{
+  "id": "q-005886",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal del intestino delgado?",
+  "answers": [
+    {
+      "text": "absorber la mayoría de nutrientes",
+      "correct": true
+    },
+    {
+      "text": "ayudar en la respiración",
+      "correct": false
+    },
+    {
+      "text": "producir enzimas digestivas e insulina",
+      "correct": false
+    },
+    {
+      "text": "iniciar la digestión de proteínas",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del intestino delgado es absorber la mayoría de nutrientes.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "intestino-delgado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

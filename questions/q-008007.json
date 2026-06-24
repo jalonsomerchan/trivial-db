@@ -1,0 +1,43 @@
+{
+  "id": "q-008007",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año se produjo la disolución de la Unión Soviética?",
+  "answers": [
+    {
+      "text": "1215",
+      "correct": false
+    },
+    {
+      "text": "1991",
+      "correct": true
+    },
+    {
+      "text": "1805",
+      "correct": false
+    },
+    {
+      "text": "1588",
+      "correct": false
+    }
+  ],
+  "explanation": "La disolución de la Unión Soviética se produjo en 1991.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "disolucion-de-la-union-sovietica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

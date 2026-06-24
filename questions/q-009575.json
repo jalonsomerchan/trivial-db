@@ -1,0 +1,42 @@
+{
+  "id": "q-009575",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <tr>, <footer>, <textarea> y <button>, qué etiqueta HTML se usa para marcar un pie de página?",
+  "answers": [
+    {
+      "text": "<textarea>",
+      "correct": false
+    },
+    {
+      "text": "<tr>",
+      "correct": false
+    },
+    {
+      "text": "<button>",
+      "correct": false
+    },
+    {
+      "text": "<footer>",
+      "correct": true
+    }
+  ],
+  "explanation": "La etiqueta <footer> se usa para marcar un pie de página.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "footer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

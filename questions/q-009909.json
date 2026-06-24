@@ -1,0 +1,42 @@
+{
+  "id": "q-009909",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <link>?",
+  "answers": [
+    {
+      "text": "insertar o enlazar JavaScript",
+      "correct": false
+    },
+    {
+      "text": "insertar una imagen",
+      "correct": false
+    },
+    {
+      "text": "vincular recursos externos",
+      "correct": true
+    },
+    {
+      "text": "marcar una sección de navegación",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <link> sirve para vincular recursos externos.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "link"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

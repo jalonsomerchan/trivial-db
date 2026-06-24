@@ -1,0 +1,42 @@
+{
+  "id": "q-009493",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 80% de 425?",
+  "answers": [
+    {
+      "text": "350",
+      "correct": false
+    },
+    {
+      "text": "340",
+      "correct": true
+    },
+    {
+      "text": "335",
+      "correct": false
+    },
+    {
+      "text": "345",
+      "correct": false
+    }
+  ],
+  "explanation": "El 80% de 425 se calcula como 425 × 80/100 = 340.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

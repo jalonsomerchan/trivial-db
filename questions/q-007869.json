@@ -1,0 +1,43 @@
+{
+  "id": "q-007869",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Albania?",
+  "answers": [
+    {
+      "text": "Southern Africa",
+      "correct": false
+    },
+    {
+      "text": "Western Asia",
+      "correct": false
+    },
+    {
+      "text": "Southern Europe",
+      "correct": true
+    },
+    {
+      "text": "Polynesia",
+      "correct": false
+    }
+  ],
+  "explanation": "Albania pertenece a la subregión Southern Europe.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "albania"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

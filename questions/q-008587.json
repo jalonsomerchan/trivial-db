@@ -1,0 +1,42 @@
+{
+  "id": "q-008587",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre bajo, morir, lejos y destruir, cuál es un antónimo de “construir”?",
+  "answers": [
+    {
+      "text": "morir",
+      "correct": false
+    },
+    {
+      "text": "bajo",
+      "correct": false
+    },
+    {
+      "text": "destruir",
+      "correct": true
+    },
+    {
+      "text": "lejos",
+      "correct": false
+    }
+  ],
+  "explanation": "“destruir” es un antónimo de “construir”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "construir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

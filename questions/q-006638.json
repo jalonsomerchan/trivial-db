@@ -1,0 +1,43 @@
+{
+  "id": "q-006638",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje protagoniza o representa la saga “Metroid”?",
+  "answers": [
+    {
+      "text": "Gordon Freeman",
+      "correct": false
+    },
+    {
+      "text": "Samus Aran",
+      "correct": true
+    },
+    {
+      "text": "Geralt de Rivia",
+      "correct": false
+    },
+    {
+      "text": "Master Chief",
+      "correct": false
+    }
+  ],
+  "explanation": "Samus Aran es un personaje asociado a “Metroid”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metroid",
+    "samus-aran"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

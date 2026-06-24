@@ -1,0 +1,43 @@
+{
+  "id": "q-006665",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje se asocia con la serie “The Office”?",
+  "answers": [
+    {
+      "text": "Michael Scott",
+      "correct": true
+    },
+    {
+      "text": "Walter White",
+      "correct": false
+    },
+    {
+      "text": "Fox Mulder",
+      "correct": false
+    },
+    {
+      "text": "Rachel Green",
+      "correct": false
+    }
+  ],
+  "explanation": "Michael Scott es un personaje asociado con “The Office”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "the-office",
+    "michael-scott"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

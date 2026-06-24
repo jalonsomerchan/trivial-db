@@ -1,0 +1,42 @@
+{
+  "id": "q-009861",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre listar o gestionar ramas, copiar un repositorio remoto, gestionar etiquetas y ver diferencias entre versiones, para qué sirve principalmente git branch?",
+  "answers": [
+    {
+      "text": "copiar un repositorio remoto",
+      "correct": false
+    },
+    {
+      "text": "listar o gestionar ramas",
+      "correct": true
+    },
+    {
+      "text": "ver diferencias entre versiones",
+      "correct": false
+    },
+    {
+      "text": "gestionar etiquetas",
+      "correct": false
+    }
+  ],
+  "explanation": "git branch sirve para listar o gestionar ramas.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-branch"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

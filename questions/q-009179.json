@@ -1,0 +1,42 @@
+{
+  "id": "q-009179",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el máximo común divisor de 33 y 32?",
+  "answers": [
+    {
+      "text": "7",
+      "correct": false
+    },
+    {
+      "text": "8",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": true
+    },
+    {
+      "text": "30",
+      "correct": false
+    }
+  ],
+  "explanation": "El máximo común divisor de 33 y 32 es 1.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcd",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008964",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “bajar”?",
+  "answers": [
+    {
+      "text": "subir",
+      "correct": true
+    },
+    {
+      "text": "fácil",
+      "correct": false
+    },
+    {
+      "text": "nuevo",
+      "correct": false
+    },
+    {
+      "text": "ganar",
+      "correct": false
+    }
+  ],
+  "explanation": "“subir” y “bajar” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "subir",
+    "bajar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

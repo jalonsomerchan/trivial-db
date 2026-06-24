@@ -1,0 +1,43 @@
+{
+  "id": "q-008085",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Nelson Mandela, Felipe II, Isabel I de Castilla y George Washington, qué personaje histórico se asocia con Reyes Católicos?",
+  "answers": [
+    {
+      "text": "Isabel I de Castilla",
+      "correct": true
+    },
+    {
+      "text": "Felipe II",
+      "correct": false
+    },
+    {
+      "text": "George Washington",
+      "correct": false
+    },
+    {
+      "text": "Nelson Mandela",
+      "correct": false
+    }
+  ],
+  "explanation": "Isabel I de Castilla se asocia con Reyes Católicos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "isabel-i-de-castilla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

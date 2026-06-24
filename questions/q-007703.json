@@ -1,0 +1,43 @@
+{
+  "id": "q-007703",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Guatemala, Nauru, Islas Caimán o Suazilandia?",
+  "answers": [
+    {
+      "text": "Suazilandia",
+      "correct": false
+    },
+    {
+      "text": "Guatemala",
+      "correct": true
+    },
+    {
+      "text": "Islas Caimán",
+      "correct": false
+    },
+    {
+      "text": "Nauru",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Guatemala tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

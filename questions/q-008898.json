@@ -1,0 +1,42 @@
+{
+  "id": "q-008898",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre masculino, femenino con artículo el por a tónica, femenino y masculino o ambiguo, qué género gramatical corresponde a “la sal”?",
+  "answers": [
+    {
+      "text": "masculino o ambiguo",
+      "correct": false
+    },
+    {
+      "text": "femenino con artículo el por a tónica",
+      "correct": false
+    },
+    {
+      "text": "femenino",
+      "correct": true
+    },
+    {
+      "text": "masculino",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “la sal” corresponde a femenino.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "genero-gramatical",
+    "la-sal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

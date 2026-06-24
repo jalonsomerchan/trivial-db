@@ -1,0 +1,43 @@
+{
+  "id": "q-008418",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país o región se relaciona principalmente Isabel I de Castilla?",
+  "answers": [
+    {
+      "text": "China",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Castilla",
+      "correct": true
+    }
+  ],
+  "explanation": "Isabel I de Castilla se relaciona principalmente con Castilla.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "castilla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

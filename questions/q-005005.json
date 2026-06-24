@@ -1,0 +1,43 @@
+{
+  "id": "q-005005",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué movimiento artístico se asocia Diego Velázquez?",
+  "answers": [
+    {
+      "text": "Romanticismo",
+      "correct": false
+    },
+    {
+      "text": "Abstracción",
+      "correct": false
+    },
+    {
+      "text": "Fauvismo",
+      "correct": false
+    },
+    {
+      "text": "Barroco",
+      "correct": true
+    }
+  ],
+  "explanation": "Diego Velázquez se asocia habitualmente con Barroco.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "diego-velazquez",
+    "barroco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

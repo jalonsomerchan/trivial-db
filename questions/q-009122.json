@@ -1,0 +1,42 @@
+{
+  "id": "q-009122",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 71 + 93?",
+  "answers": [
+    {
+      "text": "164",
+      "correct": true
+    },
+    {
+      "text": "166",
+      "correct": false
+    },
+    {
+      "text": "162",
+      "correct": false
+    },
+    {
+      "text": "174",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 71 y 93 es 164.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

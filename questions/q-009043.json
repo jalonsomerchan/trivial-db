@@ -1,0 +1,42 @@
+{
+  "id": "q-009043",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 111 - 81?",
+  "answers": [
+    {
+      "text": "40",
+      "correct": false
+    },
+    {
+      "text": "32",
+      "correct": false
+    },
+    {
+      "text": "30",
+      "correct": true
+    },
+    {
+      "text": "28",
+      "correct": false
+    }
+  ],
+  "explanation": "La resta 111 - 81 da 30.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

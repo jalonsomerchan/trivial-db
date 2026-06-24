@@ -1,0 +1,42 @@
+{
+  "id": "q-009487",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 80% de 275?",
+  "answers": [
+    {
+      "text": "225",
+      "correct": false
+    },
+    {
+      "text": "215",
+      "correct": false
+    },
+    {
+      "text": "220",
+      "correct": true
+    },
+    {
+      "text": "230",
+      "correct": false
+    }
+  ],
+  "explanation": "El 80% de 275 se calcula como 275 × 80/100 = 220.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

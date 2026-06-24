@@ -1,0 +1,42 @@
+{
+  "id": "q-009022",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 100 + 77?",
+  "answers": [
+    {
+      "text": "187",
+      "correct": false
+    },
+    {
+      "text": "175",
+      "correct": false
+    },
+    {
+      "text": "179",
+      "correct": false
+    },
+    {
+      "text": "177",
+      "correct": true
+    }
+  ],
+  "explanation": "La suma de 100 y 77 es 177.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

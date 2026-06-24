@@ -1,0 +1,43 @@
+{
+  "id": "q-009782",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué código HTTP corresponde a “Moved Permanently”?",
+  "answers": [
+    {
+      "text": "301",
+      "correct": true
+    },
+    {
+      "text": "204",
+      "correct": false
+    },
+    {
+      "text": "418",
+      "correct": false
+    },
+    {
+      "text": "404",
+      "correct": false
+    }
+  ],
+  "explanation": "“Moved Permanently” corresponde al código HTTP 301.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "301"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

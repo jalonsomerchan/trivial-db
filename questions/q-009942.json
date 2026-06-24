@@ -1,0 +1,42 @@
+{
+  "id": "q-009942",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué instrucción o cláusula SQL se usa para agrupar resultados?",
+  "answers": [
+    {
+      "text": "GROUP BY",
+      "correct": true
+    },
+    {
+      "text": "COUNT",
+      "correct": false
+    },
+    {
+      "text": "ALTER TABLE",
+      "correct": false
+    },
+    {
+      "text": "JOIN",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, GROUP BY se usa para agrupar resultados.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "group-by"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

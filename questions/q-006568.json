@@ -1,0 +1,43 @@
+{
+  "id": "q-006568",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre John Lasseter, Christopher Nolan, George Miller y Bong Joon-ho, quién dirigió la película “Mad Max: Fury Road”?",
+  "answers": [
+    {
+      "text": "George Miller",
+      "correct": true
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    },
+    {
+      "text": "John Lasseter",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mad Max: Fury Road” fue dirigida por George Miller.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "mad-max-fury-road",
+    "george-miller"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

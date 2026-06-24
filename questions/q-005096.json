@@ -1,0 +1,43 @@
+{
+  "id": "q-005096",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Neoplasticismo, Pop art, Impresionismo y Cubismo, con qué movimiento artístico se asocia Pierre-Auguste Renoir?",
+  "answers": [
+    {
+      "text": "Neoplasticismo",
+      "correct": false
+    },
+    {
+      "text": "Pop art",
+      "correct": false
+    },
+    {
+      "text": "Impresionismo",
+      "correct": true
+    },
+    {
+      "text": "Cubismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Pierre-Auguste Renoir se asocia habitualmente con Impresionismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pierre-auguste-renoir",
+    "impresionismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

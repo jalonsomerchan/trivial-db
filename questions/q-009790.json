@@ -1,0 +1,42 @@
+{
+  "id": "q-009790",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente CREATE TABLE en SQL?",
+  "answers": [
+    {
+      "text": "crear una tabla",
+      "correct": true
+    },
+    {
+      "text": "modificar filas existentes",
+      "correct": false
+    },
+    {
+      "text": "calcular una media",
+      "correct": false
+    },
+    {
+      "text": "combinar filas de tablas relacionadas",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, CREATE TABLE sirve para crear una tabla.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "create-table"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

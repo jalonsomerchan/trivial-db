@@ -1,0 +1,43 @@
+{
+  "id": "q-005119",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre San Petersburgo, París, Madrid y Múnich, en qué ciudad se encuentra el Museo de Orsay?",
+  "answers": [
+    {
+      "text": "Múnich",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": true
+    },
+    {
+      "text": "San Petersburgo",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    }
+  ],
+  "explanation": "El Museo de Orsay se encuentra en París.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "museo-de-orsay",
+    "paris"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

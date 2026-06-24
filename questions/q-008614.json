@@ -1,0 +1,42 @@
+{
+  "id": "q-008614",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre olvidar, vender, separar y oscuro, cuál es un antónimo de “claro”?",
+  "answers": [
+    {
+      "text": "vender",
+      "correct": false
+    },
+    {
+      "text": "separar",
+      "correct": false
+    },
+    {
+      "text": "olvidar",
+      "correct": false
+    },
+    {
+      "text": "oscuro",
+      "correct": true
+    }
+  ],
+  "explanation": "“oscuro” es un antónimo de “claro”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "claro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

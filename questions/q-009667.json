@@ -1,0 +1,42 @@
+{
+  "id": "q-009667",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para marcar una sección temática?",
+  "answers": [
+    {
+      "text": "<canvas>",
+      "correct": false
+    },
+    {
+      "text": "<section>",
+      "correct": true
+    },
+    {
+      "text": "<style>",
+      "correct": false
+    },
+    {
+      "text": "<article>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <section> se usa para marcar una sección temática.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "section"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

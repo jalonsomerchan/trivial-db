@@ -1,0 +1,42 @@
+{
+  "id": "q-006795",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué serie se asocia con Daenerys Targaryen?",
+  "answers": [
+    {
+      "text": "Stranger Things",
+      "correct": false
+    },
+    {
+      "text": "Better Call Saul",
+      "correct": false
+    },
+    {
+      "text": "The Simpsons",
+      "correct": false
+    },
+    {
+      "text": "Game of Thrones",
+      "correct": true
+    }
+  ],
+  "explanation": "Daenerys Targaryen se asocia con “Game of Thrones”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "daenerys-targaryen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

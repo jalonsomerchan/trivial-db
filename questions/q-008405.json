@@ -1,0 +1,43 @@
+{
+  "id": "q-008405",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué contexto histórico se asocia la primera vuelta al mundo completada por Elcano?",
+  "answers": [
+    {
+      "text": "Imperio romano",
+      "correct": false
+    },
+    {
+      "text": "carrera espacial",
+      "correct": false
+    },
+    {
+      "text": "exploraciones",
+      "correct": true
+    },
+    {
+      "text": "siglo XX",
+      "correct": false
+    }
+  ],
+  "explanation": "La primera vuelta al mundo completada por Elcano se asocia con exploraciones.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "exploraciones",
+    "primera-vuelta-al-mundo-completada-por-elcano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

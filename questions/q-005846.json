@@ -1,0 +1,42 @@
+{
+  "id": "q-005846",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué sistema pertenece principalmente la médula espinal?",
+  "answers": [
+    {
+      "text": "sistema nervioso",
+      "correct": true
+    },
+    {
+      "text": "sistema muscular",
+      "correct": false
+    },
+    {
+      "text": "sistema tegumentario",
+      "correct": false
+    },
+    {
+      "text": "sistema auditivo",
+      "correct": false
+    }
+  ],
+  "explanation": "La médula espinal pertenece principalmente al sistema nervioso.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "sistema-nervioso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

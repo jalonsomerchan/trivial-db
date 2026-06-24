@@ -1,0 +1,43 @@
+{
+  "id": "q-008841",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre aparecer, nacer, nuevo y construir, qué palabra tiene significado opuesto a “viejo”?",
+  "answers": [
+    {
+      "text": "nacer",
+      "correct": false
+    },
+    {
+      "text": "aparecer",
+      "correct": false
+    },
+    {
+      "text": "construir",
+      "correct": false
+    },
+    {
+      "text": "nuevo",
+      "correct": true
+    }
+  ],
+  "explanation": "“nuevo” y “viejo” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "nuevo",
+    "viejo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

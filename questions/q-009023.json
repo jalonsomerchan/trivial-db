@@ -1,0 +1,42 @@
+{
+  "id": "q-009023",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 100 - 77?",
+  "answers": [
+    {
+      "text": "25",
+      "correct": false
+    },
+    {
+      "text": "23",
+      "correct": true
+    },
+    {
+      "text": "21",
+      "correct": false
+    },
+    {
+      "text": "33",
+      "correct": false
+    }
+  ],
+  "explanation": "La resta 100 - 77 da 23.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

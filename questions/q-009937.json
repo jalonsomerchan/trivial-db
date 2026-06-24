@@ -1,0 +1,42 @@
+{
+  "id": "q-009937",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué sirve principalmente git rebase?",
+  "answers": [
+    {
+      "text": "reaplicar commits sobre otra base",
+      "correct": true
+    },
+    {
+      "text": "copiar un repositorio remoto",
+      "correct": false
+    },
+    {
+      "text": "ver el estado del árbol de trabajo",
+      "correct": false
+    },
+    {
+      "text": "gestionar etiquetas",
+      "correct": false
+    }
+  ],
+  "explanation": "git rebase sirve para reaplicar commits sobre otra base.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-rebase"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "q-007002",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo alimentario pertenece almendra?",
+  "answers": [
+    {
+      "text": "carne",
+      "correct": false
+    },
+    {
+      "text": "lácteo",
+      "correct": false
+    },
+    {
+      "text": "fruto seco",
+      "correct": true
+    },
+    {
+      "text": "cereal",
+      "correct": false
+    }
+  ],
+  "explanation": "almendra pertenece al grupo de fruto seco.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "almendra",
+    "fruto-seco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

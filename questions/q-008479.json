@@ -1,0 +1,42 @@
+{
+  "id": "q-008479",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre siglo IV, siglo VIII, siglo I y siglo XVII, a qué siglo pertenece el año 800?",
+  "answers": [
+    {
+      "text": "siglo VIII",
+      "correct": true
+    },
+    {
+      "text": "siglo IV",
+      "correct": false
+    },
+    {
+      "text": "siglo I",
+      "correct": false
+    },
+    {
+      "text": "siglo XVII",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 800 pertenece al siglo VIII.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008382",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué contexto histórico se asocia la batalla de Waterloo?",
+  "answers": [
+    {
+      "text": "Antigüedad tardía",
+      "correct": false
+    },
+    {
+      "text": "Guerras napoleónicas",
+      "correct": true
+    },
+    {
+      "text": "Edad Media",
+      "correct": false
+    },
+    {
+      "text": "final de la Guerra Fría",
+      "correct": false
+    }
+  ],
+  "explanation": "La batalla de Waterloo se asocia con Guerras napoleónicas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerras-napoleonicas",
+    "batalla-de-waterloo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

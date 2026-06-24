@@ -1,0 +1,42 @@
+{
+  "id": "q-008183",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la erupción del Vesubio que destruyó Pompeya?",
+  "answers": [
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "unificación alemana",
+      "correct": false
+    },
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": true
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    }
+  ],
+  "explanation": "fundación tradicional de Roma ocurrió antes que la erupción del Vesubio que destruyó Pompeya.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

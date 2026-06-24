@@ -1,0 +1,42 @@
+{
+  "id": "q-009852",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre crear un formulario, marcar un pie de página, crear una tabla y dibujar gráficos por script, para qué se usa principalmente la etiqueta HTML <canvas>?",
+  "answers": [
+    {
+      "text": "dibujar gráficos por script",
+      "correct": true
+    },
+    {
+      "text": "crear una tabla",
+      "correct": false
+    },
+    {
+      "text": "marcar un pie de página",
+      "correct": false
+    },
+    {
+      "text": "crear un formulario",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <canvas> sirve para dibujar gráficos por script.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "canvas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

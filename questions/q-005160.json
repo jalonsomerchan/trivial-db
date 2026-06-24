@@ -1,0 +1,42 @@
+{
+  "id": "q-005160",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué movimiento artístico se caracteriza por fragmentación geométrica de las formas?",
+  "answers": [
+    {
+      "text": "Cubismo",
+      "correct": true
+    },
+    {
+      "text": "Barroco",
+      "correct": false
+    },
+    {
+      "text": "Postimpresionismo",
+      "correct": false
+    },
+    {
+      "text": "Romanticismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El Cubismo se caracteriza por fragmentación geométrica de las formas.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "cubismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

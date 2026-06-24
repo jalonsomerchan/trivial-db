@@ -1,0 +1,43 @@
+{
+  "id": "q-007451",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre zanahoria, lentejas, pistacho y avellana, cuál de estos alimentos pertenece al grupo legumbre?",
+  "answers": [
+    {
+      "text": "pistacho",
+      "correct": false
+    },
+    {
+      "text": "lentejas",
+      "correct": true
+    },
+    {
+      "text": "zanahoria",
+      "correct": false
+    },
+    {
+      "text": "avellana",
+      "correct": false
+    }
+  ],
+  "explanation": "lentejas pertenece al grupo legumbre.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "legumbre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

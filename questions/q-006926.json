@@ -1,0 +1,43 @@
+{
+  "id": "q-006926",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre drama criminal, drama histórico, animación y fantasía, a qué género se asocia principalmente la serie “Game of Thrones”?",
+  "answers": [
+    {
+      "text": "fantasía",
+      "correct": true
+    },
+    {
+      "text": "animación",
+      "correct": false
+    },
+    {
+      "text": "drama criminal",
+      "correct": false
+    },
+    {
+      "text": "drama histórico",
+      "correct": false
+    }
+  ],
+  "explanation": "“Game of Thrones” se asocia principalmente con fantasía.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "game-of-thrones",
+    "fantasia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

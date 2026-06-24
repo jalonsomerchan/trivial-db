@@ -1,0 +1,43 @@
+{
+  "id": "q-007673",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Argentina, Lituania, Guyana o Guinea?",
+  "answers": [
+    {
+      "text": "Argentina",
+      "correct": true
+    },
+    {
+      "text": "Guyana",
+      "correct": false
+    },
+    {
+      "text": "Guinea",
+      "correct": false
+    },
+    {
+      "text": "Lituania",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Argentina tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

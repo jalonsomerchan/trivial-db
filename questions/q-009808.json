@@ -1,0 +1,42 @@
+{
+  "id": "q-009808",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente el método JavaScript map()?",
+  "answers": [
+    {
+      "text": "crea un nuevo array transformando cada elemento",
+      "correct": true
+    },
+    {
+      "text": "comprueba el comienzo de una cadena",
+      "correct": false
+    },
+    {
+      "text": "crea un array con elementos que cumplen una condición",
+      "correct": false
+    },
+    {
+      "text": "elimina espacios al principio y al final",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, map() crea un nuevo array transformando cada elemento.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "map"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

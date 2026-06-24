@@ -1,0 +1,43 @@
+{
+  "id": "q-007721",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Madagascar, Maldivas, Brasil o Malta?",
+  "answers": [
+    {
+      "text": "Malta",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": true
+    },
+    {
+      "text": "Madagascar",
+      "correct": false
+    },
+    {
+      "text": "Maldivas",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Brasil tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

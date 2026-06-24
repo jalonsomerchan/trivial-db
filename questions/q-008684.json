@@ -1,0 +1,42 @@
+{
+  "id": "q-008684",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre prefijo pre-, sufijo -ez, raíz tele- y prefijo des-, qué elemento morfológico destaca en “teléfono”?",
+  "answers": [
+    {
+      "text": "prefijo pre-",
+      "correct": false
+    },
+    {
+      "text": "prefijo des-",
+      "correct": false
+    },
+    {
+      "text": "raíz tele-",
+      "correct": true
+    },
+    {
+      "text": "sufijo -ez",
+      "correct": false
+    }
+  ],
+  "explanation": "En “teléfono” destaca el elemento raíz tele-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "telefono"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

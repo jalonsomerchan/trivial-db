@@ -1,0 +1,43 @@
+{
+  "id": "q-006915",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre ciencia ficción, drama médico, fantasía y misterio, a qué género se asocia principalmente la serie “Stranger Things”?",
+  "answers": [
+    {
+      "text": "ciencia ficción",
+      "correct": true
+    },
+    {
+      "text": "fantasía",
+      "correct": false
+    },
+    {
+      "text": "drama médico",
+      "correct": false
+    },
+    {
+      "text": "misterio",
+      "correct": false
+    }
+  ],
+  "explanation": "“Stranger Things” se asocia principalmente con ciencia ficción.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "stranger-things",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

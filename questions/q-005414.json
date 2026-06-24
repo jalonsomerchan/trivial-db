@@ -1,0 +1,43 @@
+{
+  "id": "q-005414",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre México, Rusia, Italia y Francia, de qué país era Miguel Ángel?",
+  "answers": [
+    {
+      "text": "Italia",
+      "correct": true
+    },
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    }
+  ],
+  "explanation": "Miguel Ángel era de Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "miguel-angel",
+    "italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

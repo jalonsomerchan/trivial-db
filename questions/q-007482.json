@@ -1,0 +1,43 @@
+{
+  "id": "q-007482",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en ablandar o aromatizar en líquido?",
+  "answers": [
+    {
+      "text": "gratinar",
+      "correct": false
+    },
+    {
+      "text": "macerar",
+      "correct": true
+    },
+    {
+      "text": "brasear",
+      "correct": false
+    },
+    {
+      "text": "emulsionar",
+      "correct": false
+    }
+  ],
+  "explanation": "macerar consiste en ablandar o aromatizar en líquido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "macerar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

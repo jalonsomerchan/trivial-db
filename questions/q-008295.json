@@ -1,0 +1,42 @@
+{
+  "id": "q-008295",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre erupción del Vesubio que destruyó Pompeya, batalla de Maratón, asesinato de Julio César y publicación de las 95 tesis de Lutero, cuál de estos hechos ocurrió después que la edicto de Milán?",
+  "answers": [
+    {
+      "text": "batalla de Maratón",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "erupción del Vesubio que destruyó Pompeya",
+      "correct": false
+    },
+    {
+      "text": "publicación de las 95 tesis de Lutero",
+      "correct": true
+    }
+  ],
+  "explanation": "publicación de las 95 tesis de Lutero ocurrió después que la edicto de Milán.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

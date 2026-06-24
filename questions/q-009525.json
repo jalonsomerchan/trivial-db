@@ -1,0 +1,42 @@
+{
+  "id": "q-009525",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <form>, <td>, <section> y <button>, qué etiqueta HTML se usa para definir una celda de tabla?",
+  "answers": [
+    {
+      "text": "<section>",
+      "correct": false
+    },
+    {
+      "text": "<button>",
+      "correct": false
+    },
+    {
+      "text": "<td>",
+      "correct": true
+    },
+    {
+      "text": "<form>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <td> se usa para definir una celda de tabla.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "td"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

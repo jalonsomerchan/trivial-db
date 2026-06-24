@@ -1,0 +1,43 @@
+{
+  "id": "q-007430",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre pizza napolitana, empanada, ceviche y feijoada, qué plato se asocia con Perú y pescado crudo marinado?",
+  "answers": [
+    {
+      "text": "pizza napolitana",
+      "correct": false
+    },
+    {
+      "text": "ceviche",
+      "correct": true
+    },
+    {
+      "text": "feijoada",
+      "correct": false
+    },
+    {
+      "text": "empanada",
+      "correct": false
+    }
+  ],
+  "explanation": "El ceviche se asocia con Perú y con pescado crudo marinado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "peru",
+    "pescado-crudo-marinado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

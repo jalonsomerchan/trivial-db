@@ -1,0 +1,42 @@
+{
+  "id": "q-005468",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre uso de imágenes de la cultura de masas, inspiración en modelos clásicos y equilibrio, captura de la luz y pincelada suelta y imágenes vinculadas al sueño y al inconsciente, qué rasgo se asocia con el Neoclasicismo?",
+  "answers": [
+    {
+      "text": "captura de la luz y pincelada suelta",
+      "correct": false
+    },
+    {
+      "text": "imágenes vinculadas al sueño y al inconsciente",
+      "correct": false
+    },
+    {
+      "text": "uso de imágenes de la cultura de masas",
+      "correct": false
+    },
+    {
+      "text": "inspiración en modelos clásicos y equilibrio",
+      "correct": true
+    }
+  ],
+  "explanation": "Un rasgo del Neoclasicismo es inspiración en modelos clásicos y equilibrio.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "neoclasicismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

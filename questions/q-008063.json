@@ -1,0 +1,43 @@
+{
+  "id": "q-008063",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Felipe II, Isabel I de Inglaterra, Pedro el Grande y Luis XIV, qué personaje histórico se asocia con Tudor?",
+  "answers": [
+    {
+      "text": "Isabel I de Inglaterra",
+      "correct": true
+    },
+    {
+      "text": "Luis XIV",
+      "correct": false
+    },
+    {
+      "text": "Pedro el Grande",
+      "correct": false
+    },
+    {
+      "text": "Felipe II",
+      "correct": false
+    }
+  ],
+  "explanation": "Isabel I de Inglaterra se asocia con Tudor.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "isabel-i-de-inglaterra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

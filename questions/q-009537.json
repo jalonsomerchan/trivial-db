@@ -1,0 +1,42 @@
+{
+  "id": "q-009537",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre <li>, <article>, <img> y <footer>, qué etiqueta HTML se usa para definir un elemento de lista?",
+  "answers": [
+    {
+      "text": "<article>",
+      "correct": false
+    },
+    {
+      "text": "<li>",
+      "correct": true
+    },
+    {
+      "text": "<footer>",
+      "correct": false
+    },
+    {
+      "text": "<img>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <li> se usa para definir un elemento de lista.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "li"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

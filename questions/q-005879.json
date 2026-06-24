@@ -1,0 +1,42 @@
+{
+  "id": "q-005879",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal del corazón?",
+  "answers": [
+    {
+      "text": "bombear sangre",
+      "correct": true
+    },
+    {
+      "text": "ayudar en la respiración",
+      "correct": false
+    },
+    {
+      "text": "participar en la respuesta inmunitaria",
+      "correct": false
+    },
+    {
+      "text": "transmitir señales entre cerebro y cuerpo",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del corazón es bombear sangre.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "corazon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

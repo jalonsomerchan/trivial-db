@@ -1,0 +1,43 @@
+{
+  "id": "q-006569",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Lana y Lilly Wachowski, Andrew Stanton, John Lasseter y Steven Spielberg, quién dirigió la película “Jurassic Park”?",
+  "answers": [
+    {
+      "text": "Steven Spielberg",
+      "correct": true
+    },
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": false
+    },
+    {
+      "text": "Andrew Stanton",
+      "correct": false
+    },
+    {
+      "text": "John Lasseter",
+      "correct": false
+    }
+  ],
+  "explanation": "“Jurassic Park” fue dirigida por Steven Spielberg.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "jurassic-park",
+    "steven-spielberg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

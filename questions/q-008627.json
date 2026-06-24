@@ -1,0 +1,42 @@
+{
+  "id": "q-008627",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre rechazar, recibir, salir y morir, cuál es un antónimo de “aceptar”?",
+  "answers": [
+    {
+      "text": "recibir",
+      "correct": false
+    },
+    {
+      "text": "morir",
+      "correct": false
+    },
+    {
+      "text": "rechazar",
+      "correct": true
+    },
+    {
+      "text": "salir",
+      "correct": false
+    }
+  ],
+  "explanation": "“rechazar” es un antónimo de “aceptar”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "aceptar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

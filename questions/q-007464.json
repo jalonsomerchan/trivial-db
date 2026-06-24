@@ -1,0 +1,43 @@
+{
+  "id": "q-007464",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Hungría y paprika?",
+  "answers": [
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "salmorejo",
+      "correct": false
+    },
+    {
+      "text": "empanada",
+      "correct": false
+    },
+    {
+      "text": "goulash",
+      "correct": true
+    }
+  ],
+  "explanation": "El goulash se asocia con Hungría y con paprika.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "hungria",
+    "paprika"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

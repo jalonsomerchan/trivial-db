@@ -1,0 +1,42 @@
+{
+  "id": "q-009702",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre calcular una media, contar filas o valores, modificar filas existentes y identificar filas de forma única, qué hace principalmente PRIMARY KEY en SQL?",
+  "answers": [
+    {
+      "text": "modificar filas existentes",
+      "correct": false
+    },
+    {
+      "text": "contar filas o valores",
+      "correct": false
+    },
+    {
+      "text": "calcular una media",
+      "correct": false
+    },
+    {
+      "text": "identificar filas de forma única",
+      "correct": true
+    }
+  ],
+  "explanation": "En SQL, PRIMARY KEY sirve para identificar filas de forma única.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "primary-key"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006861",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente “El viaje de Chihiro”?",
+  "answers": [
+    {
+      "text": "terror y ciencia ficción",
+      "correct": false
+    },
+    {
+      "text": "histórica",
+      "correct": false
+    },
+    {
+      "text": "animación",
+      "correct": true
+    },
+    {
+      "text": "musical",
+      "correct": false
+    }
+  ],
+  "explanation": "“El viaje de Chihiro” se asocia principalmente con animación.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-viaje-de-chihiro",
+    "animacion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

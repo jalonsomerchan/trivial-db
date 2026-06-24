@@ -1,0 +1,43 @@
+{
+  "id": "q-006927",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre drama histórico, drama criminal, drama médico y misterio, a qué género se asocia principalmente la serie “Lost”?",
+  "answers": [
+    {
+      "text": "misterio",
+      "correct": true
+    },
+    {
+      "text": "drama criminal",
+      "correct": false
+    },
+    {
+      "text": "drama médico",
+      "correct": false
+    },
+    {
+      "text": "drama histórico",
+      "correct": false
+    }
+  ],
+  "explanation": "“Lost” se asocia principalmente con misterio.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "lost",
+    "misterio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

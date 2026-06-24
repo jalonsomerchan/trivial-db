@@ -1,0 +1,43 @@
+{
+  "id": "q-005628",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué grupo de animales tienen seis patas?",
+  "answers": [
+    {
+      "text": "insectos",
+      "correct": true
+    },
+    {
+      "text": "moluscos",
+      "correct": false
+    },
+    {
+      "text": "arácnidos",
+      "correct": false
+    },
+    {
+      "text": "anfibios",
+      "correct": false
+    }
+  ],
+  "explanation": "Los insectos tienen seis patas.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "insectos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

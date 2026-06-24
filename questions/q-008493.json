@@ -1,0 +1,42 @@
+{
+  "id": "q-008493",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre siglo XVI, siglo XV, siglo XX y siglo XVII, a qué siglo pertenece el año 1914?",
+  "answers": [
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XVI",
+      "correct": false
+    },
+    {
+      "text": "siglo XVII",
+      "correct": false
+    },
+    {
+      "text": "siglo XV",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1914 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

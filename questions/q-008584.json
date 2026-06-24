@@ -1,0 +1,42 @@
+{
+  "id": "q-008584",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre amargo, rechazar, bajo y viejo, cuál es un antónimo de “joven”?",
+  "answers": [
+    {
+      "text": "viejo",
+      "correct": true
+    },
+    {
+      "text": "bajo",
+      "correct": false
+    },
+    {
+      "text": "rechazar",
+      "correct": false
+    },
+    {
+      "text": "amargo",
+      "correct": false
+    }
+  ],
+  "explanation": "“viejo” es un antónimo de “joven”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "joven"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

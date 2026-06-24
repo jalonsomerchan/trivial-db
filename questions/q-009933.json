@@ -1,0 +1,42 @@
+{
+  "id": "q-009933",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué sirve principalmente git log?",
+  "answers": [
+    {
+      "text": "cambiar de rama",
+      "correct": false
+    },
+    {
+      "text": "enviar commits al remoto",
+      "correct": false
+    },
+    {
+      "text": "ver el historial de commits",
+      "correct": true
+    },
+    {
+      "text": "guardar cambios temporalmente",
+      "correct": false
+    }
+  ],
+  "explanation": "git log sirve para ver el historial de commits.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-log"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009983",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS añade sombra a una caja?",
+  "answers": [
+    {
+      "text": "box-shadow",
+      "correct": true
+    },
+    {
+      "text": "transition",
+      "correct": false
+    },
+    {
+      "text": "object-fit",
+      "correct": false
+    },
+    {
+      "text": "visibility",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS box-shadow añade sombra a una caja.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "box-shadow"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

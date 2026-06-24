@@ -1,0 +1,43 @@
+{
+  "id": "q-007670",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Albania, Togo, Pakistán o Níger?",
+  "answers": [
+    {
+      "text": "Pakistán",
+      "correct": false
+    },
+    {
+      "text": "Níger",
+      "correct": true
+    },
+    {
+      "text": "Togo",
+      "correct": false
+    },
+    {
+      "text": "Albania",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Níger tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

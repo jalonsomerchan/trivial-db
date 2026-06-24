@@ -1,0 +1,42 @@
+{
+  "id": "q-008367",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1991?",
+  "answers": [
+    {
+      "text": "siglo XIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": true
+    },
+    {
+      "text": "siglo XIX",
+      "correct": false
+    },
+    {
+      "text": "siglo IV",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1991 pertenece al siglo XX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

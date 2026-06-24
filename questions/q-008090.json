@@ -1,0 +1,43 @@
+{
+  "id": "q-008090",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Qin Shi Huang, Fernando II de Aragón, Napoleón Bonaparte y Simón Bolívar, qué personaje histórico se asocia con Primer Imperio francés?",
+  "answers": [
+    {
+      "text": "Napoleón Bonaparte",
+      "correct": true
+    },
+    {
+      "text": "Fernando II de Aragón",
+      "correct": false
+    },
+    {
+      "text": "Simón Bolívar",
+      "correct": false
+    },
+    {
+      "text": "Qin Shi Huang",
+      "correct": false
+    }
+  ],
+  "explanation": "Napoleón Bonaparte se asocia con Primer Imperio francés.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "napoleon-bonaparte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-006825",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Mega Man?",
+  "answers": [
+    {
+      "text": "Crash Bandicoot",
+      "correct": false
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": false
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": true
+    }
+  ],
+  "explanation": "Mega Man se asocia con “Mega Man”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "mega-man"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

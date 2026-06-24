@@ -1,0 +1,43 @@
+{
+  "id": "q-007145",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del curry verde?",
+  "answers": [
+    {
+      "text": "masa rellena",
+      "correct": false
+    },
+    {
+      "text": "pasta de curry",
+      "correct": true
+    },
+    {
+      "text": "paprika",
+      "correct": false
+    },
+    {
+      "text": "berenjena",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del curry verde es pasta de curry.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "curry-verde",
+    "pasta-de-curry"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

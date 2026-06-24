@@ -1,0 +1,43 @@
+{
+  "id": "q-005416",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Noruega, México, Países Bajos y Bélgica, de qué país era Vincent van Gogh?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "Países Bajos",
+      "correct": true
+    },
+    {
+      "text": "Bélgica",
+      "correct": false
+    },
+    {
+      "text": "Noruega",
+      "correct": false
+    }
+  ],
+  "explanation": "Vincent van Gogh era de Países Bajos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "vincent-van-gogh",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

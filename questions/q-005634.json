@@ -1,0 +1,42 @@
+{
+  "id": "q-005634",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué nutriente se asocia especialmente con función tiroidea?",
+  "answers": [
+    {
+      "text": "ácido fólico",
+      "correct": false
+    },
+    {
+      "text": "vitamina D",
+      "correct": false
+    },
+    {
+      "text": "vitamina B1",
+      "correct": false
+    },
+    {
+      "text": "yodo",
+      "correct": true
+    }
+  ],
+  "explanation": "yodo está relacionado con función tiroidea.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "yodo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

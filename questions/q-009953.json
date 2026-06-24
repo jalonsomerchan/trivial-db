@@ -1,0 +1,42 @@
+{
+  "id": "q-009953",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué instrucción o cláusula SQL se usa para modificar filas existentes?",
+  "answers": [
+    {
+      "text": "SELECT",
+      "correct": false
+    },
+    {
+      "text": "UPDATE",
+      "correct": true
+    },
+    {
+      "text": "FOREIGN KEY",
+      "correct": false
+    },
+    {
+      "text": "AVG",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, UPDATE se usa para modificar filas existentes.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "update"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

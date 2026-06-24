@@ -1,0 +1,42 @@
+{
+  "id": "q-005473",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué define principalmente a un biografía?",
+  "answers": [
+    {
+      "text": "relato de la vida de una persona",
+      "correct": true
+    },
+    {
+      "text": "relato de hechos en orden temporal",
+      "correct": false
+    },
+    {
+      "text": "relato breve con moraleja",
+      "correct": false
+    },
+    {
+      "text": "narración extensa en prosa",
+      "correct": false
+    }
+  ],
+  "explanation": "Un biografía se define como relato de la vida de una persona.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "biografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

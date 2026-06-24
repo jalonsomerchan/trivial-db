@@ -1,0 +1,43 @@
+{
+  "id": "q-005002",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué movimiento artístico se asocia Andy Warhol?",
+  "answers": [
+    {
+      "text": "Impresionismo",
+      "correct": false
+    },
+    {
+      "text": "Pop art",
+      "correct": true
+    },
+    {
+      "text": "Modernismo",
+      "correct": false
+    },
+    {
+      "text": "Abstracción",
+      "correct": false
+    }
+  ],
+  "explanation": "Andy Warhol se asocia habitualmente con Pop art.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "andy-warhol",
+    "pop-art"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

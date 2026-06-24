@@ -1,0 +1,43 @@
+{
+  "id": "q-007730",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Papúa Nueva Guinea, Belice, Sri Lanka o Tanzania?",
+  "answers": [
+    {
+      "text": "Belice",
+      "correct": false
+    },
+    {
+      "text": "Tanzania",
+      "correct": true
+    },
+    {
+      "text": "Papúa Nueva Guinea",
+      "correct": false
+    },
+    {
+      "text": "Sri Lanka",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Tanzania tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

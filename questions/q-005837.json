@@ -1,0 +1,42 @@
+{
+  "id": "q-005837",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué sistema pertenece principalmente el corazón?",
+  "answers": [
+    {
+      "text": "sistema tegumentario",
+      "correct": false
+    },
+    {
+      "text": "sistema muscular",
+      "correct": false
+    },
+    {
+      "text": "sistema respiratorio",
+      "correct": false
+    },
+    {
+      "text": "sistema circulatorio",
+      "correct": true
+    }
+  ],
+  "explanation": "El corazón pertenece principalmente al sistema circulatorio.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "sistema-circulatorio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

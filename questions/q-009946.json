@@ -1,0 +1,42 @@
+{
+  "id": "q-009946",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué instrucción o cláusula SQL se usa para contar filas o valores?",
+  "answers": [
+    {
+      "text": "COUNT",
+      "correct": true
+    },
+    {
+      "text": "DELETE",
+      "correct": false
+    },
+    {
+      "text": "ALTER TABLE",
+      "correct": false
+    },
+    {
+      "text": "UPDATE",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, COUNT se usa para contar filas o valores.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "count"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

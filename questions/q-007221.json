@@ -1,0 +1,43 @@
+{
+  "id": "q-007221",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre cocinar suavemente en líquido caliente sin hervir fuerte, dejar un alimento en un líquido aromático, estirar una masa en capas finas y cocinar en grasa caliente, qué significa laminar en cocina?",
+  "answers": [
+    {
+      "text": "cocinar en grasa caliente",
+      "correct": false
+    },
+    {
+      "text": "dejar un alimento en un líquido aromático",
+      "correct": false
+    },
+    {
+      "text": "cocinar suavemente en líquido caliente sin hervir fuerte",
+      "correct": false
+    },
+    {
+      "text": "estirar una masa en capas finas",
+      "correct": true
+    }
+  ],
+  "explanation": "En cocina, laminar significa estirar una masa en capas finas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "laminar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

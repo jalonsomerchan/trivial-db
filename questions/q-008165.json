@@ -1,0 +1,43 @@
+{
+  "id": "q-008165",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje histórico se asocia con independencia india?",
+  "answers": [
+    {
+      "text": "Mahatma Gandhi",
+      "correct": true
+    },
+    {
+      "text": "George Washington",
+      "correct": false
+    },
+    {
+      "text": "Carlos I de España",
+      "correct": false
+    },
+    {
+      "text": "Luis XIV",
+      "correct": false
+    }
+  ],
+  "explanation": "Mahatma Gandhi se asocia con independencia india.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "mahatma-gandhi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

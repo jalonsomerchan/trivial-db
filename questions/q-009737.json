@@ -1,0 +1,42 @@
+{
+  "id": "q-009737",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre establece separación entre filas o columnas, define el tamaño de una imagen de fondo, define el cursor del puntero y añade sombra a una caja, qué controla principalmente la propiedad CSS cursor?",
+  "answers": [
+    {
+      "text": "establece separación entre filas o columnas",
+      "correct": false
+    },
+    {
+      "text": "define el cursor del puntero",
+      "correct": true
+    },
+    {
+      "text": "define el tamaño de una imagen de fondo",
+      "correct": false
+    },
+    {
+      "text": "añade sombra a una caja",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad cursor define el cursor del puntero.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "cursor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005832",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué magnitud se calcula como un medio de la masa por la velocidad al cuadrado?",
+  "answers": [
+    {
+      "text": "aceleración",
+      "correct": false
+    },
+    {
+      "text": "fuerza neta",
+      "correct": false
+    },
+    {
+      "text": "trabajo mecánico",
+      "correct": false
+    },
+    {
+      "text": "energía cinética",
+      "correct": true
+    }
+  ],
+  "explanation": "energía cinética se calcula como un medio de la masa por la velocidad al cuadrado.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "energia-cinetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

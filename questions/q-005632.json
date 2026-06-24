@@ -1,0 +1,42 @@
+{
+  "id": "q-005632",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué nutriente se asocia especialmente con formación de glóbulos rojos?",
+  "answers": [
+    {
+      "text": "calcio",
+      "correct": false
+    },
+    {
+      "text": "vitamina B12",
+      "correct": true
+    },
+    {
+      "text": "ácido fólico",
+      "correct": false
+    },
+    {
+      "text": "hierro",
+      "correct": false
+    }
+  ],
+  "explanation": "vitamina B12 está relacionado con formación de glóbulos rojos.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-b12"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

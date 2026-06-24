@@ -1,0 +1,42 @@
+{
+  "id": "q-009666",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para marcar una sección de navegación?",
+  "answers": [
+    {
+      "text": "<th>",
+      "correct": false
+    },
+    {
+      "text": "<label>",
+      "correct": false
+    },
+    {
+      "text": "<nav>",
+      "correct": true
+    },
+    {
+      "text": "<li>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <nav> se usa para marcar una sección de navegación.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "nav"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

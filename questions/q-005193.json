@@ -1,0 +1,43 @@
+{
+  "id": "q-005193",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Edvard Munch, Rembrandt, René Magritte y Frida Kahlo, qué artista se vincula con Expresionismo y Noruega?",
+  "answers": [
+    {
+      "text": "Rembrandt",
+      "correct": false
+    },
+    {
+      "text": "René Magritte",
+      "correct": false
+    },
+    {
+      "text": "Frida Kahlo",
+      "correct": false
+    },
+    {
+      "text": "Edvard Munch",
+      "correct": true
+    }
+  ],
+  "explanation": "Edvard Munch se vincula con Expresionismo y Noruega.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "expresionismo",
+    "noruega"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

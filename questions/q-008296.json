@@ -1,0 +1,43 @@
+{
+  "id": "q-008296",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre figura de Aníbal, alfabeto fenicio, democracia ateniense y escritura cuneiforme, qué elemento histórico se asocia con la civilización griega?",
+  "answers": [
+    {
+      "text": "alfabeto fenicio",
+      "correct": false
+    },
+    {
+      "text": "escritura cuneiforme",
+      "correct": false
+    },
+    {
+      "text": "democracia ateniense",
+      "correct": true
+    },
+    {
+      "text": "figura de Aníbal",
+      "correct": false
+    }
+  ],
+  "explanation": "La civilización griega se asocia con democracia ateniense.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "griega"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

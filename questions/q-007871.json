@@ -1,0 +1,43 @@
+{
+  "id": "q-007871",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Anguilla?",
+  "answers": [
+    {
+      "text": "Caribbean",
+      "correct": true
+    },
+    {
+      "text": "Central Asia",
+      "correct": false
+    },
+    {
+      "text": "Australia and New Zealand",
+      "correct": false
+    },
+    {
+      "text": "South America",
+      "correct": false
+    }
+  ],
+  "explanation": "Anguilla pertenece a la subregión Caribbean.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "anguilla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

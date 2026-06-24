@@ -1,0 +1,42 @@
+{
+  "id": "q-005568",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre gigante gaseoso 4, gigante gaseoso, gigante gaseoso 3 y gigante helado, qué tipo de planeta es Júpiter?",
+  "answers": [
+    {
+      "text": "gigante helado",
+      "correct": false
+    },
+    {
+      "text": "gigante gaseoso 4",
+      "correct": false
+    },
+    {
+      "text": "gigante gaseoso",
+      "correct": true
+    },
+    {
+      "text": "gigante gaseoso 3",
+      "correct": false
+    }
+  ],
+  "explanation": "Júpiter se clasifica como gigante gaseoso.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "jupiter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

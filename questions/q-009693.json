@@ -1,0 +1,43 @@
+{
+  "id": "q-009693",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Unauthorized, OK, Method Not Allowed y Moved Permanently, qué significa el código HTTP 405?",
+  "answers": [
+    {
+      "text": "OK",
+      "correct": false
+    },
+    {
+      "text": "Moved Permanently",
+      "correct": false
+    },
+    {
+      "text": "Method Not Allowed",
+      "correct": true
+    },
+    {
+      "text": "Unauthorized",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 405 corresponde a Method Not Allowed.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "405"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

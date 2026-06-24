@@ -1,0 +1,42 @@
+{
+  "id": "q-009098",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 142 + 79?",
+  "answers": [
+    {
+      "text": "221",
+      "correct": true
+    },
+    {
+      "text": "223",
+      "correct": false
+    },
+    {
+      "text": "231",
+      "correct": false
+    },
+    {
+      "text": "219",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 142 y 79 es 221.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

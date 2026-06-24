@@ -1,0 +1,42 @@
+{
+  "id": "q-009743",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre modificar filas existentes, crear una tabla, combinar filas de tablas relacionadas y calcular una media, qué hace principalmente CREATE TABLE en SQL?",
+  "answers": [
+    {
+      "text": "calcular una media",
+      "correct": false
+    },
+    {
+      "text": "crear una tabla",
+      "correct": true
+    },
+    {
+      "text": "modificar filas existentes",
+      "correct": false
+    },
+    {
+      "text": "combinar filas de tablas relacionadas",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, CREATE TABLE sirve para crear una tabla.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "create-table"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005488",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué rasgo se asocia con el Barroco?",
+  "answers": [
+    {
+      "text": "reducción formal y simplicidad extrema",
+      "correct": false
+    },
+    {
+      "text": "exaltación del sentimiento y la libertad",
+      "correct": false
+    },
+    {
+      "text": "contraste, teatralidad y dinamismo",
+      "correct": true
+    },
+    {
+      "text": "deformación expresiva y emoción intensa",
+      "correct": false
+    }
+  ],
+  "explanation": "Un rasgo del Barroco es contraste, teatralidad y dinamismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "barroco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

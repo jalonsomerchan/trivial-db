@@ -1,0 +1,43 @@
+{
+  "id": "q-005297",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Vincent van Gogh, Leonardo da Vinci, Claude Monet y Jackson Pollock, qué artista se vincula con Renacimiento y Italia?",
+  "answers": [
+    {
+      "text": "Leonardo da Vinci",
+      "correct": true
+    },
+    {
+      "text": "Claude Monet",
+      "correct": false
+    },
+    {
+      "text": "Jackson Pollock",
+      "correct": false
+    },
+    {
+      "text": "Vincent van Gogh",
+      "correct": false
+    }
+  ],
+  "explanation": "Leonardo da Vinci se vincula con Renacimiento y Italia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "renacimiento",
+    "italia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008509",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es un antónimo de “comprar”?",
+  "answers": [
+    {
+      "text": "bajo",
+      "correct": false
+    },
+    {
+      "text": "vender",
+      "correct": true
+    },
+    {
+      "text": "caliente",
+      "correct": false
+    },
+    {
+      "text": "lejos",
+      "correct": false
+    }
+  ],
+  "explanation": "“vender” es un antónimo de “comprar”.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "comprar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006548",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Francia, Jamaica, Reino Unido y Alemania, de qué país procede Coldplay?",
+  "answers": [
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Jamaica",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": true
+    },
+    {
+      "text": "Alemania",
+      "correct": false
+    }
+  ],
+  "explanation": "Coldplay procede de Reino Unido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "coldplay",
+    "reino-unido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

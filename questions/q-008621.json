@@ -1,0 +1,42 @@
+{
+  "id": "q-008621",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "puntuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre punto, signos de interrogación, signos de exclamación y punto y coma, qué signo de puntuación se usa para cerrar un enunciado?",
+  "answers": [
+    {
+      "text": "signos de interrogación",
+      "correct": false
+    },
+    {
+      "text": "signos de exclamación",
+      "correct": false
+    },
+    {
+      "text": "punto y coma",
+      "correct": false
+    },
+    {
+      "text": "punto",
+      "correct": true
+    }
+  ],
+  "explanation": "El signo llamado punto se usa para cerrar un enunciado.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "puntuacion",
+    "punto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007364",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre borsch, paella, gazpacho y pierogi, qué plato se asocia con Polonia y masa rellena?",
+  "answers": [
+    {
+      "text": "gazpacho",
+      "correct": false
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    },
+    {
+      "text": "paella",
+      "correct": false
+    },
+    {
+      "text": "pierogi",
+      "correct": true
+    }
+  ],
+  "explanation": "El pierogi se asocia con Polonia y con masa rellena.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "polonia",
+    "masa-rellena"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

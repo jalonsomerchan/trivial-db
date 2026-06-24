@@ -1,0 +1,43 @@
+{
+  "id": "q-007483",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en aromatizar o conservar con humo?",
+  "answers": [
+    {
+      "text": "pochado",
+      "correct": false
+    },
+    {
+      "text": "ahumar",
+      "correct": true
+    },
+    {
+      "text": "amasar",
+      "correct": false
+    },
+    {
+      "text": "brasear",
+      "correct": false
+    }
+  ],
+  "explanation": "ahumar consiste en aromatizar o conservar con humo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "ahumar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

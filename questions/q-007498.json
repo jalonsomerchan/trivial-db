@@ -1,0 +1,43 @@
+{
+  "id": "q-007498",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en sumergir brevemente en agua hirviendo?",
+  "answers": [
+    {
+      "text": "freír",
+      "correct": false
+    },
+    {
+      "text": "gratinar",
+      "correct": false
+    },
+    {
+      "text": "hornear",
+      "correct": false
+    },
+    {
+      "text": "escaldar",
+      "correct": true
+    }
+  ],
+  "explanation": "escaldar consiste en sumergir brevemente en agua hirviendo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "escaldar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

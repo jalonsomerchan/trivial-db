@@ -1,0 +1,43 @@
+{
+  "id": "q-008472",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Revolución francesa, Guerras Médicas, Imperio romano y exploraciones, con qué contexto histórico se asocia la batalla de Salamina?",
+  "answers": [
+    {
+      "text": "exploraciones",
+      "correct": false
+    },
+    {
+      "text": "Imperio romano",
+      "correct": false
+    },
+    {
+      "text": "Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "Guerras Médicas",
+      "correct": true
+    }
+  ],
+  "explanation": "La batalla de Salamina se asocia con Guerras Médicas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "guerras-medicas",
+    "batalla-de-salamina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

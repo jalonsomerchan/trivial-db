@@ -1,0 +1,43 @@
+{
+  "id": "q-005404",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Italia, España, Reino Unido y Países Bajos, en qué país está el Museo Thyssen-Bornemisza?",
+  "answers": [
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Países Bajos",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    }
+  ],
+  "explanation": "El Museo Thyssen-Bornemisza está en España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "museo-thyssen-bornemisza",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

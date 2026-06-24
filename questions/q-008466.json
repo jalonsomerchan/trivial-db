@@ -1,0 +1,43 @@
+{
+  "id": "q-008466",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Imperio romano, Guerra Fría, Reforma protestante y Guerras napoleónicas, con qué contexto histórico se asocia la publicación de las 95 tesis de Lutero?",
+  "answers": [
+    {
+      "text": "Guerra Fría",
+      "correct": false
+    },
+    {
+      "text": "Guerras napoleónicas",
+      "correct": false
+    },
+    {
+      "text": "Imperio romano",
+      "correct": false
+    },
+    {
+      "text": "Reforma protestante",
+      "correct": true
+    }
+  ],
+  "explanation": "La publicación de las 95 tesis de Lutero se asocia con Reforma protestante.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "reforma-protestante",
+    "publicacion-de-las-95-tesis-de-lutero"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

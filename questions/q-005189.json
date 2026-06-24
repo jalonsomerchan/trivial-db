@@ -1,0 +1,43 @@
+{
+  "id": "q-005189",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Diego Velázquez, Frida Kahlo, Caravaggio y Wassily Kandinsky, qué artista se vincula con Barroco y España?",
+  "answers": [
+    {
+      "text": "Caravaggio",
+      "correct": false
+    },
+    {
+      "text": "Frida Kahlo",
+      "correct": false
+    },
+    {
+      "text": "Diego Velázquez",
+      "correct": true
+    },
+    {
+      "text": "Wassily Kandinsky",
+      "correct": false
+    }
+  ],
+  "explanation": "Diego Velázquez se vincula con Barroco y España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "barroco",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

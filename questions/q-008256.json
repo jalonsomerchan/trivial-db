@@ -1,0 +1,43 @@
+{
+  "id": "q-008256",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Tenochtitlan, figura de Aníbal, pirámides de Guiza y alfabeto fenicio, qué elemento histórico se asocia con la civilización azteca?",
+  "answers": [
+    {
+      "text": "pirámides de Guiza",
+      "correct": false
+    },
+    {
+      "text": "alfabeto fenicio",
+      "correct": false
+    },
+    {
+      "text": "Tenochtitlan",
+      "correct": true
+    },
+    {
+      "text": "figura de Aníbal",
+      "correct": false
+    }
+  ],
+  "explanation": "La civilización azteca se asocia con Tenochtitlan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "azteca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

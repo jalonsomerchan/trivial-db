@@ -1,0 +1,43 @@
+{
+  "id": "q-007899",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Indonesia?",
+  "answers": [
+    {
+      "text": "Melanesia",
+      "correct": false
+    },
+    {
+      "text": "Micronesia",
+      "correct": false
+    },
+    {
+      "text": "Southern Africa",
+      "correct": false
+    },
+    {
+      "text": "South-Eastern Asia",
+      "correct": true
+    }
+  ],
+  "explanation": "Indonesia pertenece a la subregión South-Eastern Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "indonesia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

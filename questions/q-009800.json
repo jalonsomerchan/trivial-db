@@ -1,0 +1,42 @@
+{
+  "id": "q-009800",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente UPDATE en SQL?",
+  "answers": [
+    {
+      "text": "ordenar resultados",
+      "correct": false
+    },
+    {
+      "text": "eliminar filas",
+      "correct": false
+    },
+    {
+      "text": "crear una tabla",
+      "correct": false
+    },
+    {
+      "text": "modificar filas existentes",
+      "correct": true
+    }
+  ],
+  "explanation": "En SQL, UPDATE sirve para modificar filas existentes.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "update"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

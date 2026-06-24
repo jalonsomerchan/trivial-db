@@ -1,0 +1,42 @@
+{
+  "id": "q-005485",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué define principalmente a un sátira?",
+  "answers": [
+    {
+      "text": "obra que critica mediante burla o ironía",
+      "correct": true
+    },
+    {
+      "text": "texto expositivo y argumentativo sobre una idea",
+      "correct": false
+    },
+    {
+      "text": "obra dramática con desenlace grave",
+      "correct": false
+    },
+    {
+      "text": "poema de catorce versos",
+      "correct": false
+    }
+  ],
+  "explanation": "Un sátira se define como obra que critica mediante burla o ironía.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "satira"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

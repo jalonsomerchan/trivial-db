@@ -1,0 +1,43 @@
+{
+  "id": "q-006887",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Insomniac Games, Nintendo, Bungie y Naughty Dog, qué compañía o estudio se asocia con “Metroid”?",
+  "answers": [
+    {
+      "text": "Nintendo",
+      "correct": true
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    },
+    {
+      "text": "Insomniac Games",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": false
+    }
+  ],
+  "explanation": "“Metroid” se asocia con Nintendo.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "metroid",
+    "nintendo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

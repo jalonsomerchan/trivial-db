@@ -1,0 +1,42 @@
+{
+  "id": "q-009698",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre añade elementos al final de un array, elimina el último elemento de un array, añade elementos al inicio de un array y elimina el primer elemento de un array, qué hace principalmente el método JavaScript push()?",
+  "answers": [
+    {
+      "text": "elimina el primer elemento de un array",
+      "correct": false
+    },
+    {
+      "text": "elimina el último elemento de un array",
+      "correct": false
+    },
+    {
+      "text": "añade elementos al final de un array",
+      "correct": true
+    },
+    {
+      "text": "añade elementos al inicio de un array",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, push() añade elementos al final de un array.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "push"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

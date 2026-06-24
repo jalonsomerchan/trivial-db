@@ -1,0 +1,43 @@
+{
+  "id": "q-005928",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Urano, Tierra, Júpiter y Saturno, de qué cuerpo celeste es satélite Europa?",
+  "answers": [
+    {
+      "text": "Júpiter",
+      "correct": true
+    },
+    {
+      "text": "Tierra",
+      "correct": false
+    },
+    {
+      "text": "Saturno",
+      "correct": false
+    },
+    {
+      "text": "Urano",
+      "correct": false
+    }
+  ],
+  "explanation": "Europa es un satélite natural de Júpiter.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "europa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

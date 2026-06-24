@@ -1,0 +1,42 @@
+{
+  "id": "q-006175",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "formula-1"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Circuit of the Americas, Interlagos, Hungaroring y Red Bull Ring, qué circuito se asocia con el Gran Premio de Austria?",
+  "answers": [
+    {
+      "text": "Red Bull Ring",
+      "correct": true
+    },
+    {
+      "text": "Hungaroring",
+      "correct": false
+    },
+    {
+      "text": "Interlagos",
+      "correct": false
+    },
+    {
+      "text": "Circuit of the Americas",
+      "correct": false
+    }
+  ],
+  "explanation": "El Gran Premio de Austria se asocia con el circuito de Red Bull Ring.",
+  "sources": [
+    {
+      "title": "Formula 1",
+      "url": "https://www.formula1.com/"
+    }
+  ],
+  "tags": [
+    "formula-1",
+    "red-bull-ring"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

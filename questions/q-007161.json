@@ -1,0 +1,43 @@
+{
+  "id": "q-007161",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del pizza napolitana?",
+  "answers": [
+    {
+      "text": "arroz",
+      "correct": false
+    },
+    {
+      "text": "tomate y pan",
+      "correct": false
+    },
+    {
+      "text": "pescado crudo marinado",
+      "correct": false
+    },
+    {
+      "text": "masa de pan",
+      "correct": true
+    }
+  ],
+  "explanation": "Un ingrediente característico del pizza napolitana es masa de pan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "pizza-napolitana",
+    "masa-de-pan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

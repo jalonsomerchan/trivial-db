@@ -1,0 +1,42 @@
+{
+  "id": "q-006749",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre The Mandalorian, The X-Files, The Simpsons y Lost, qué serie se asocia con Din Djarin?",
+  "answers": [
+    {
+      "text": "The Simpsons",
+      "correct": false
+    },
+    {
+      "text": "The X-Files",
+      "correct": false
+    },
+    {
+      "text": "The Mandalorian",
+      "correct": true
+    },
+    {
+      "text": "Lost",
+      "correct": false
+    }
+  ],
+  "explanation": "Din Djarin se asocia con “The Mandalorian”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "din-djarin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

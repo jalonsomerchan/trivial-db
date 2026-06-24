@@ -1,0 +1,43 @@
+{
+  "id": "q-007746",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: Tanzania, Guernsey, Líbano o Aruba?",
+  "answers": [
+    {
+      "text": "Aruba",
+      "correct": false
+    },
+    {
+      "text": "Líbano",
+      "correct": false
+    },
+    {
+      "text": "Tanzania",
+      "correct": true
+    },
+    {
+      "text": "Guernsey",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Tanzania tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

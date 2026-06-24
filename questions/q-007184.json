@@ -1,0 +1,43 @@
+{
+  "id": "q-007184",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre cocinar con calor seco en horno, cocinar lentamente con algo de líquido, transformar alimentos por acción de microorganismos y dorar la superficie con calor intenso, qué significa hornear en cocina?",
+  "answers": [
+    {
+      "text": "cocinar lentamente con algo de líquido",
+      "correct": false
+    },
+    {
+      "text": "dorar la superficie con calor intenso",
+      "correct": false
+    },
+    {
+      "text": "transformar alimentos por acción de microorganismos",
+      "correct": false
+    },
+    {
+      "text": "cocinar con calor seco en horno",
+      "correct": true
+    }
+  ],
+  "explanation": "En cocina, hornear significa cocinar con calor seco en horno.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "hornear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

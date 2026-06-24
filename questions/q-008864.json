@@ -1,0 +1,42 @@
+{
+  "id": "q-008864",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "gramatica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre femenino con artículo el por a tónica, masculino, femenino y masculino o ambiguo, qué género gramatical corresponde a “la nariz”?",
+  "answers": [
+    {
+      "text": "femenino con artículo el por a tónica",
+      "correct": false
+    },
+    {
+      "text": "masculino o ambiguo",
+      "correct": false
+    },
+    {
+      "text": "femenino",
+      "correct": true
+    },
+    {
+      "text": "masculino",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “la nariz” corresponde a femenino.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "genero-gramatical",
+    "la-nariz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007351",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre amasar, freír, tostar y brasear, qué técnica culinaria consiste en cocinar lentamente con algo de líquido?",
+  "answers": [
+    {
+      "text": "freír",
+      "correct": false
+    },
+    {
+      "text": "amasar",
+      "correct": false
+    },
+    {
+      "text": "tostar",
+      "correct": false
+    },
+    {
+      "text": "brasear",
+      "correct": true
+    }
+  ],
+  "explanation": "brasear consiste en cocinar lentamente con algo de líquido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "brasear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

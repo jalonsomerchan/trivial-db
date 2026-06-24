@@ -1,0 +1,43 @@
+{
+  "id": "q-007472",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con México y tortilla de maíz?",
+  "answers": [
+    {
+      "text": "empanada",
+      "correct": false
+    },
+    {
+      "text": "risotto",
+      "correct": false
+    },
+    {
+      "text": "tacos",
+      "correct": true
+    },
+    {
+      "text": "ratatouille",
+      "correct": false
+    }
+  ],
+  "explanation": "El tacos se asocia con México y con tortilla de maíz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "mexico",
+    "tortilla-de-maiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009370",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "fracciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fracción equivale aproximadamente a 0.6?",
+  "answers": [
+    {
+      "text": "3/6",
+      "correct": false
+    },
+    {
+      "text": "5/3",
+      "correct": false
+    },
+    {
+      "text": "3/5",
+      "correct": true
+    },
+    {
+      "text": "2/5",
+      "correct": false
+    }
+  ],
+  "explanation": "3/5 equivale aproximadamente a 0.6.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "fracciones",
+    "decimales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

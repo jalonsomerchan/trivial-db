@@ -1,0 +1,42 @@
+{
+  "id": "q-009218",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 20 y 69?",
+  "answers": [
+    {
+      "text": "1380",
+      "correct": true
+    },
+    {
+      "text": "69",
+      "correct": false
+    },
+    {
+      "text": "1400",
+      "correct": false
+    },
+    {
+      "text": "1311",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 20 y 69 es 1380.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

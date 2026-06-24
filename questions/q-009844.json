@@ -1,0 +1,42 @@
+{
+  "id": "q-009844",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre asociar una etiqueta a un control, definir un elemento de lista, vincular recursos externos y crear un campo de entrada, para qué se usa principalmente la etiqueta HTML <input>?",
+  "answers": [
+    {
+      "text": "vincular recursos externos",
+      "correct": false
+    },
+    {
+      "text": "definir un elemento de lista",
+      "correct": false
+    },
+    {
+      "text": "asociar una etiqueta a un control",
+      "correct": false
+    },
+    {
+      "text": "crear un campo de entrada",
+      "correct": true
+    }
+  ],
+  "explanation": "En HTML, <input> sirve para crear un campo de entrada.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "input"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

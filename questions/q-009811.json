@@ -1,0 +1,42 @@
+{
+  "id": "q-009811",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente el método JavaScript reduce()?",
+  "answers": [
+    {
+      "text": "reduce un array a un único valor",
+      "correct": true
+    },
+    {
+      "text": "comprueba si algún elemento cumple una condición",
+      "correct": false
+    },
+    {
+      "text": "sustituye coincidencias en una cadena",
+      "correct": false
+    },
+    {
+      "text": "añade elementos al inicio de un array",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, reduce() reduce un array a un único valor.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "reduce"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

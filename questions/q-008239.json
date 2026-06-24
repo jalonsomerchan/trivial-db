@@ -1,0 +1,43 @@
+{
+  "id": "q-008239",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué año se produjo la erupción del Vesubio que destruyó Pompeya?",
+  "answers": [
+    {
+      "text": "79",
+      "correct": true
+    },
+    {
+      "text": "1989",
+      "correct": false
+    },
+    {
+      "text": "1066",
+      "correct": false
+    },
+    {
+      "text": "1492",
+      "correct": false
+    }
+  ],
+  "explanation": "La erupción del Vesubio que destruyó Pompeya se produjo en 79.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "erupcion-del-vesubio-que-destruyo-pompeya"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

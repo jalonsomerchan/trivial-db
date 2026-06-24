@@ -1,0 +1,42 @@
+{
+  "id": "q-009968",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método de JavaScript divide una cadena en partes?",
+  "answers": [
+    {
+      "text": "split()",
+      "correct": true
+    },
+    {
+      "text": "pop()",
+      "correct": false
+    },
+    {
+      "text": "find()",
+      "correct": false
+    },
+    {
+      "text": "join()",
+      "correct": false
+    }
+  ],
+  "explanation": "El método split() divide una cadena en partes.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "split"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

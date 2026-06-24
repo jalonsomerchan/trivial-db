@@ -1,0 +1,43 @@
+{
+  "id": "q-007322",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué significa escaldar en cocina?",
+  "answers": [
+    {
+      "text": "cocinar lentamente en grasa o almíbar",
+      "correct": false
+    },
+    {
+      "text": "cocinar lentamente con algo de líquido",
+      "correct": false
+    },
+    {
+      "text": "sumergir brevemente en agua hirviendo",
+      "correct": true
+    },
+    {
+      "text": "concentrar un líquido evaporando parte del agua",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, escaldar significa sumergir brevemente en agua hirviendo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "escaldar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

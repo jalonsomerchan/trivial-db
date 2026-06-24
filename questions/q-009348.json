@@ -1,0 +1,41 @@
+{
+  "id": "q-009348",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuánto vale el 15% de 560?",
+  "answers": [
+    {
+      "text": "79",
+      "correct": false
+    },
+    {
+      "text": "84",
+      "correct": true
+    },
+    {
+      "text": "94",
+      "correct": false
+    },
+    {
+      "text": "89",
+      "correct": false
+    }
+  ],
+  "explanation": "15% de 560 es 84.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

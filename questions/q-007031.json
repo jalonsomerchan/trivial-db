@@ -1,0 +1,44 @@
+{
+  "id": "q-007031",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo alimentario pertenece trigo?",
+  "answers": [
+    {
+      "text": "fruto seco",
+      "correct": false
+    },
+    {
+      "text": "legumbre",
+      "correct": false
+    },
+    {
+      "text": "cereal",
+      "correct": true
+    },
+    {
+      "text": "hortaliza",
+      "correct": false
+    }
+  ],
+  "explanation": "trigo pertenece al grupo de cereal.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "trigo",
+    "cereal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

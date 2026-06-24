@@ -1,0 +1,43 @@
+{
+  "id": "q-007857",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué país tiene frontera terrestre Mónaco?",
+  "answers": [
+    {
+      "text": "Francia",
+      "correct": true
+    },
+    {
+      "text": "República Checa",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Isla de Man",
+      "correct": false
+    }
+  ],
+  "explanation": "Mónaco comparte frontera terrestre con Francia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "fronteras",
+    "monaco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

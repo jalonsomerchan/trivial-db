@@ -1,0 +1,42 @@
+{
+  "id": "q-006818",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Gordon Freeman?",
+  "answers": [
+    {
+      "text": "Half-Life",
+      "correct": true
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "God of War",
+      "correct": false
+    }
+  ],
+  "explanation": "Gordon Freeman se asocia con “Half-Life”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "gordon-freeman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

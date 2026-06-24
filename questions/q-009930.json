@@ -1,0 +1,42 @@
+{
+  "id": "q-009930",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué sirve principalmente git clone?",
+  "answers": [
+    {
+      "text": "gestionar etiquetas",
+      "correct": false
+    },
+    {
+      "text": "cambiar de rama o restaurar archivos",
+      "correct": false
+    },
+    {
+      "text": "copiar un repositorio remoto",
+      "correct": true
+    },
+    {
+      "text": "ver el estado del árbol de trabajo",
+      "correct": false
+    }
+  ],
+  "explanation": "git clone sirve para copiar un repositorio remoto.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-clone"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

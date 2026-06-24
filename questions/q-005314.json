@@ -1,0 +1,43 @@
+{
+  "id": "q-005314",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista se vincula con Neoplasticismo y Países Bajos?",
+  "answers": [
+    {
+      "text": "Diego Velázquez",
+      "correct": false
+    },
+    {
+      "text": "Miguel Ángel",
+      "correct": false
+    },
+    {
+      "text": "Piet Mondrian",
+      "correct": true
+    },
+    {
+      "text": "Claude Monet",
+      "correct": false
+    }
+  ],
+  "explanation": "Piet Mondrian se vincula con Neoplasticismo y Países Bajos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "neoplasticismo",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

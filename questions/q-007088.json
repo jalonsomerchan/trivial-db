@@ -1,0 +1,44 @@
+{
+  "id": "q-007088",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre fruto seco, legumbre, hortaliza y cereal, a qué grupo alimentario pertenece avena?",
+  "answers": [
+    {
+      "text": "cereal",
+      "correct": true
+    },
+    {
+      "text": "fruto seco",
+      "correct": false
+    },
+    {
+      "text": "hortaliza",
+      "correct": false
+    },
+    {
+      "text": "legumbre",
+      "correct": false
+    }
+  ],
+  "explanation": "avena pertenece al grupo de cereal.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "avena",
+    "cereal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

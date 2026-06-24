@@ -1,0 +1,42 @@
+{
+  "id": "q-005882",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal del estómago?",
+  "answers": [
+    {
+      "text": "conducir alimento hacia el estómago",
+      "correct": false
+    },
+    {
+      "text": "absorber la mayoría de nutrientes",
+      "correct": false
+    },
+    {
+      "text": "iniciar la digestión de proteínas",
+      "correct": true
+    },
+    {
+      "text": "producir hormonas que regulan el metabolismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del estómago es iniciar la digestión de proteínas.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "estomago"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

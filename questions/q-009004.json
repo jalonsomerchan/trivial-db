@@ -1,0 +1,43 @@
+{
+  "id": "q-009004",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "geometria"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el área de un triángulo de base 14 y altura 25?",
+  "answers": [
+    {
+      "text": "200",
+      "correct": false
+    },
+    {
+      "text": "189",
+      "correct": false
+    },
+    {
+      "text": "175",
+      "correct": true
+    },
+    {
+      "text": "350",
+      "correct": false
+    }
+  ],
+  "explanation": "El área de un triángulo es base por altura dividido entre 2: 14 × 25 / 2 = 175.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "geometria",
+    "triangulos",
+    "area"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008475",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Sudáfrica, Reino Unido, Rusia y Imperio otomano, con qué país o región se relaciona principalmente Solimán el Magnífico?",
+  "answers": [
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Imperio otomano",
+      "correct": true
+    }
+  ],
+  "explanation": "Solimán el Magnífico se relaciona principalmente con Imperio otomano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "imperio-otomano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

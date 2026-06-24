@@ -1,0 +1,43 @@
+{
+  "id": "q-006764",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo se asocia con grunge y Estados Unidos?",
+  "answers": [
+    {
+      "text": "U2",
+      "correct": false
+    },
+    {
+      "text": "Pink Floyd",
+      "correct": false
+    },
+    {
+      "text": "Nirvana",
+      "correct": true
+    },
+    {
+      "text": "ABBA",
+      "correct": false
+    }
+  ],
+  "explanation": "Nirvana se asocia con grunge y Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "grunge",
+    "estados-unidos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

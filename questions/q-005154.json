@@ -1,0 +1,42 @@
+{
+  "id": "q-005154",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué movimiento artístico se caracteriza por actitud provocadora contra convenciones artísticas?",
+  "answers": [
+    {
+      "text": "Neoclasicismo",
+      "correct": false
+    },
+    {
+      "text": "Dadaísmo",
+      "correct": true
+    },
+    {
+      "text": "Fauvismo",
+      "correct": false
+    },
+    {
+      "text": "Barroco",
+      "correct": false
+    }
+  ],
+  "explanation": "El Dadaísmo se caracteriza por actitud provocadora contra convenciones artísticas.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "dadaismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

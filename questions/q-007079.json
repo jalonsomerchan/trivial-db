@@ -1,0 +1,44 @@
+{
+  "id": "q-007079",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre fruta, carne, hortaliza y lácteo, a qué grupo alimentario pertenece queso?",
+  "answers": [
+    {
+      "text": "fruta",
+      "correct": false
+    },
+    {
+      "text": "hortaliza",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": false
+    },
+    {
+      "text": "lácteo",
+      "correct": true
+    }
+  ],
+  "explanation": "queso pertenece al grupo de lácteo.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "queso",
+    "lacteo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

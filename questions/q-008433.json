@@ -1,0 +1,43 @@
+{
+  "id": "q-008433",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué año se produjo la batalla de Lepanto?",
+  "answers": [
+    {
+      "text": "-480",
+      "correct": false
+    },
+    {
+      "text": "1914",
+      "correct": false
+    },
+    {
+      "text": "1571",
+      "correct": true
+    },
+    {
+      "text": "1805",
+      "correct": false
+    }
+  ],
+  "explanation": "La batalla de Lepanto se produjo en 1571.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "batalla-de-lepanto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

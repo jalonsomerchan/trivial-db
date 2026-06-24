@@ -1,0 +1,42 @@
+{
+  "id": "q-005236",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Museo Británico, Alte Pinakothek, Museos Vaticanos y Museo del Louvre, qué museo se encuentra en Ciudad del Vaticano?",
+  "answers": [
+    {
+      "text": "Alte Pinakothek",
+      "correct": false
+    },
+    {
+      "text": "Museo Británico",
+      "correct": false
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": false
+    },
+    {
+      "text": "Museos Vaticanos",
+      "correct": true
+    }
+  ],
+  "explanation": "En Ciudad del Vaticano se encuentra el Museos Vaticanos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "ciudad-del-vaticano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

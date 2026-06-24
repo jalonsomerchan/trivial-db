@@ -1,0 +1,42 @@
+{
+  "id": "q-009977",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS ajusta cómo encaja un contenido reemplazado?",
+  "answers": [
+    {
+      "text": "line-height",
+      "correct": false
+    },
+    {
+      "text": "animation",
+      "correct": false
+    },
+    {
+      "text": "margin",
+      "correct": false
+    },
+    {
+      "text": "object-fit",
+      "correct": true
+    }
+  ],
+  "explanation": "La propiedad CSS object-fit ajusta cómo encaja un contenido reemplazado.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "object-fit"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

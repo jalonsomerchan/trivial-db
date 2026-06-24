@@ -1,0 +1,42 @@
+{
+  "id": "q-008168",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió antes que la Paz de Westfalia?",
+  "answers": [
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "toma de la Bastilla",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "batalla de Salamina",
+      "correct": true
+    }
+  ],
+  "explanation": "batalla de Salamina ocurrió antes que la Paz de Westfalia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

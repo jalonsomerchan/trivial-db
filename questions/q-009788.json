@@ -1,0 +1,42 @@
+{
+  "id": "q-009788",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente AVG en SQL?",
+  "answers": [
+    {
+      "text": "eliminar una tabla",
+      "correct": false
+    },
+    {
+      "text": "calcular una media",
+      "correct": true
+    },
+    {
+      "text": "combinar filas de tablas relacionadas",
+      "correct": false
+    },
+    {
+      "text": "eliminar filas",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, AVG sirve para calcular una media.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "avg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

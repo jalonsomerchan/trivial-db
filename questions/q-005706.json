@@ -1,0 +1,42 @@
+{
+  "id": "q-005706",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre P = W/t, a = Δv/Δt, ρ = m/V y P = m·g, qué expresión representa peso?",
+  "answers": [
+    {
+      "text": "P = W/t",
+      "correct": false
+    },
+    {
+      "text": "a = Δv/Δt",
+      "correct": false
+    },
+    {
+      "text": "P = m·g",
+      "correct": true
+    },
+    {
+      "text": "ρ = m/V",
+      "correct": false
+    }
+  ],
+  "explanation": "La expresión habitual de peso es P = m·g.",
+  "sources": [
+    {
+      "title": "OpenStax College Physics 2e",
+      "url": "https://openstax.org/details/books/college-physics-2e"
+    }
+  ],
+  "tags": [
+    "fisica",
+    "peso"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008155",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué personaje histórico se asocia con Casa de Hannover?",
+  "answers": [
+    {
+      "text": "Victoria del Reino Unido",
+      "correct": true
+    },
+    {
+      "text": "George Washington",
+      "correct": false
+    },
+    {
+      "text": "Akbar",
+      "correct": false
+    },
+    {
+      "text": "Catalina la Grande",
+      "correct": false
+    }
+  ],
+  "explanation": "Victoria del Reino Unido se asocia con Casa de Hannover.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "victoria-del-reino-unido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

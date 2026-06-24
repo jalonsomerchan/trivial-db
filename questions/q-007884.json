@@ -1,0 +1,43 @@
+{
+  "id": "q-007884",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Ecuador?",
+  "answers": [
+    {
+      "text": "South America",
+      "correct": true
+    },
+    {
+      "text": "Western Africa",
+      "correct": false
+    },
+    {
+      "text": "Eastern Europe",
+      "correct": false
+    },
+    {
+      "text": "Australia and New Zealand",
+      "correct": false
+    }
+  ],
+  "explanation": "Ecuador pertenece a la subregión South America.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "ecuador"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

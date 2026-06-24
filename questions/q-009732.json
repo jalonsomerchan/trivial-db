@@ -1,0 +1,42 @@
+{
+  "id": "q-009732",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre define una transición entre estados, asocia una animación CSS, define el espacio exterior y añade decoración al texto, qué controla principalmente la propiedad CSS margin?",
+  "answers": [
+    {
+      "text": "asocia una animación CSS",
+      "correct": false
+    },
+    {
+      "text": "define una transición entre estados",
+      "correct": false
+    },
+    {
+      "text": "define el espacio exterior",
+      "correct": true
+    },
+    {
+      "text": "añade decoración al texto",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad margin define el espacio exterior.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "margin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

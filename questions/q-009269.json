@@ -1,0 +1,42 @@
+{
+  "id": "q-009269",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 39304?",
+  "answers": [
+    {
+      "text": "33",
+      "correct": false
+    },
+    {
+      "text": "36",
+      "correct": false
+    },
+    {
+      "text": "34",
+      "correct": true
+    },
+    {
+      "text": "35",
+      "correct": false
+    }
+  ],
+  "explanation": "Como 34³ = 39304, la raíz cúbica de 39304 es 34.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

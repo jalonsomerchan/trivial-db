@@ -1,0 +1,42 @@
+{
+  "id": "q-005478",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué define principalmente a un ensayo?",
+  "answers": [
+    {
+      "text": "composición lírica de lamento",
+      "correct": false
+    },
+    {
+      "text": "relato breve con moraleja",
+      "correct": false
+    },
+    {
+      "text": "relato de la vida de una persona",
+      "correct": false
+    },
+    {
+      "text": "texto expositivo y argumentativo sobre una idea",
+      "correct": true
+    }
+  ],
+  "explanation": "Un ensayo se define como texto expositivo y argumentativo sobre una idea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "ensayo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

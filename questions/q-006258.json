@@ -1,0 +1,43 @@
+{
+  "id": "q-006258",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre jab, power play, ensayo y maillot amarillo, qué término se asocia con hockey sobre hielo?",
+  "answers": [
+    {
+      "text": "jab",
+      "correct": false
+    },
+    {
+      "text": "ensayo",
+      "correct": false
+    },
+    {
+      "text": "maillot amarillo",
+      "correct": false
+    },
+    {
+      "text": "power play",
+      "correct": true
+    }
+  ],
+  "explanation": "“power play” es un término asociado con hockey sobre hielo.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "hockey-sobre-hielo",
+    "power-play"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

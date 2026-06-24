@@ -1,0 +1,43 @@
+{
+  "id": "q-007424",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre pho, guacamole, feijoada y cuscús, qué plato se asocia con Brasil y frijoles negros?",
+  "answers": [
+    {
+      "text": "cuscús",
+      "correct": false
+    },
+    {
+      "text": "pho",
+      "correct": false
+    },
+    {
+      "text": "feijoada",
+      "correct": true
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    }
+  ],
+  "explanation": "El feijoada se asocia con Brasil y con frijoles negros.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "brasil",
+    "frijoles-negros"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

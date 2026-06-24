@@ -1,0 +1,43 @@
+{
+  "id": "q-006882",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre CD Projekt Red, Valve, Core Design y Santa Monica Studio, qué compañía o estudio se asocia con “Tomb Raider”?",
+  "answers": [
+    {
+      "text": "Santa Monica Studio",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": false
+    },
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Core Design",
+      "correct": true
+    }
+  ],
+  "explanation": "“Tomb Raider” se asocia con Core Design.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "tomb-raider",
+    "core-design"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

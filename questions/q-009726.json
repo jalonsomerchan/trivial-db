@@ -1,0 +1,42 @@
+{
+  "id": "q-009726",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre define el cursor del puntero, ajusta cómo encaja un contenido reemplazado, controla la visibilidad sin quitar el espacio y aplica transformaciones visuales, qué controla principalmente la propiedad CSS object-fit?",
+  "answers": [
+    {
+      "text": "controla la visibilidad sin quitar el espacio",
+      "correct": false
+    },
+    {
+      "text": "ajusta cómo encaja un contenido reemplazado",
+      "correct": true
+    },
+    {
+      "text": "define el cursor del puntero",
+      "correct": false
+    },
+    {
+      "text": "aplica transformaciones visuales",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad object-fit ajusta cómo encaja un contenido reemplazado.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "object-fit"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

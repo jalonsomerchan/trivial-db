@@ -1,0 +1,42 @@
+{
+  "id": "q-005650",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué órgano se encarga principalmente de absorber la mayoría de nutrientes?",
+  "answers": [
+    {
+      "text": "médula espinal",
+      "correct": false
+    },
+    {
+      "text": "cerebro",
+      "correct": false
+    },
+    {
+      "text": "cóclea",
+      "correct": false
+    },
+    {
+      "text": "intestino delgado",
+      "correct": true
+    }
+  ],
+  "explanation": "El intestino delgado se encarga principalmente de absorber la mayoría de nutrientes.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "intestino-delgado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-008788",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre yo he cantado, que yo cantara, yo voy a cantar y yo canto, qué forma verbal corresponde a pretérito perfecto compuesto?",
+  "answers": [
+    {
+      "text": "yo canto",
+      "correct": false
+    },
+    {
+      "text": "yo he cantado",
+      "correct": true
+    },
+    {
+      "text": "que yo cantara",
+      "correct": false
+    },
+    {
+      "text": "yo voy a cantar",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma “yo he cantado” corresponde a pretérito perfecto compuesto.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-perfecto-compuesto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

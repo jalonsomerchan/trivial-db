@@ -1,0 +1,43 @@
+{
+  "id": "q-006919",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre crimen, drama, aventura y terror y ciencia ficción, a qué género se asocia principalmente “Roma”?",
+  "answers": [
+    {
+      "text": "terror y ciencia ficción",
+      "correct": false
+    },
+    {
+      "text": "drama",
+      "correct": true
+    },
+    {
+      "text": "aventura",
+      "correct": false
+    },
+    {
+      "text": "crimen",
+      "correct": false
+    }
+  ],
+  "explanation": "“Roma” se asocia principalmente con drama.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "roma",
+    "drama"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

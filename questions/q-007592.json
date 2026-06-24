@@ -1,0 +1,43 @@
+{
+  "id": "q-007592",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "hemisferios"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué hemisferio se encuentra principalmente Islas Tokelau?",
+  "answers": [
+    {
+      "text": "hemisferio oriental",
+      "correct": false
+    },
+    {
+      "text": "ambos hemisferios",
+      "correct": false
+    },
+    {
+      "text": "hemisferio norte",
+      "correct": false
+    },
+    {
+      "text": "hemisferio sur",
+      "correct": true
+    }
+  ],
+  "explanation": "La latitud principal de Islas Tokelau lo sitúa en el hemisferio sur.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "hemisferios",
+    "islas-tokelau"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

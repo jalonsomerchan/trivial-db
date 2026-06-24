@@ -1,0 +1,43 @@
+{
+  "id": "q-007476",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué plato se asocia con Suiza y queso fundido?",
+  "answers": [
+    {
+      "text": "kimchi",
+      "correct": false
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "guacamole",
+      "correct": false
+    },
+    {
+      "text": "fondue",
+      "correct": true
+    }
+  ],
+  "explanation": "El fondue se asocia con Suiza y con queso fundido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "suiza",
+    "queso-fundido"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

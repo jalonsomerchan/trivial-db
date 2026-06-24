@@ -1,0 +1,43 @@
+{
+  "id": "q-007075",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre col fermentada, caldo con fideos, tomate y frijoles negros, qué ingrediente es característico del feijoada?",
+  "answers": [
+    {
+      "text": "frijoles negros",
+      "correct": true
+    },
+    {
+      "text": "col fermentada",
+      "correct": false
+    },
+    {
+      "text": "tomate",
+      "correct": false
+    },
+    {
+      "text": "caldo con fideos",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del feijoada es frijoles negros.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "feijoada",
+    "frijoles-negros"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

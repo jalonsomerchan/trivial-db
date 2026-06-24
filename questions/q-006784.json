@@ -1,0 +1,42 @@
+{
+  "id": "q-006784",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por George Miller?",
+  "answers": [
+    {
+      "text": "Blade Runner",
+      "correct": false
+    },
+    {
+      "text": "Mad Max: Fury Road",
+      "correct": true
+    },
+    {
+      "text": "Ciudadano Kane",
+      "correct": false
+    },
+    {
+      "text": "Apocalypse Now",
+      "correct": false
+    }
+  ],
+  "explanation": "George Miller dirigió “Mad Max: Fury Road”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "george-miller"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

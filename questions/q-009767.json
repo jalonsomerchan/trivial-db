@@ -1,0 +1,42 @@
+{
+  "id": "q-009767",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué controla principalmente la propiedad CSS overflow?",
+  "answers": [
+    {
+      "text": "ordena elementos superpuestos",
+      "correct": false
+    },
+    {
+      "text": "define una transición entre estados",
+      "correct": false
+    },
+    {
+      "text": "controla el desbordamiento",
+      "correct": true
+    },
+    {
+      "text": "aplica transformaciones visuales",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad overflow controla el desbordamiento.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "overflow"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

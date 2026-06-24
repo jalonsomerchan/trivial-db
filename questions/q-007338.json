@@ -1,0 +1,43 @@
+{
+  "id": "q-007338",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos alimentos pertenece al grupo fruta?",
+  "answers": [
+    {
+      "text": "garbanzos",
+      "correct": false
+    },
+    {
+      "text": "manzana",
+      "correct": true
+    },
+    {
+      "text": "trigo",
+      "correct": false
+    },
+    {
+      "text": "pistacho",
+      "correct": false
+    }
+  ],
+  "explanation": "manzana pertenece al grupo fruta.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "fruta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-006743",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre The Crown, Doctor Who, The Mandalorian y Seinfeld, qué serie se asocia con el Doctor?",
+  "answers": [
+    {
+      "text": "Seinfeld",
+      "correct": false
+    },
+    {
+      "text": "Doctor Who",
+      "correct": true
+    },
+    {
+      "text": "The Mandalorian",
+      "correct": false
+    },
+    {
+      "text": "The Crown",
+      "correct": false
+    }
+  ],
+  "explanation": "el Doctor se asocia con “Doctor Who”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "el-doctor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

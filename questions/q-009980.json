@@ -1,0 +1,42 @@
+{
+  "id": "q-009980",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS aplica transformaciones visuales?",
+  "answers": [
+    {
+      "text": "overflow",
+      "correct": false
+    },
+    {
+      "text": "white-space",
+      "correct": false
+    },
+    {
+      "text": "transform",
+      "correct": true
+    },
+    {
+      "text": "transition",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS transform aplica transformaciones visuales.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "transform"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007495",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en dorar la superficie con calor intenso?",
+  "answers": [
+    {
+      "text": "marinar",
+      "correct": false
+    },
+    {
+      "text": "gratinar",
+      "correct": true
+    },
+    {
+      "text": "ahumar",
+      "correct": false
+    },
+    {
+      "text": "reducir",
+      "correct": false
+    }
+  ],
+  "explanation": "gratinar consiste en dorar la superficie con calor intenso.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "gratinar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

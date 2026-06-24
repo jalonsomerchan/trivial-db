@@ -1,0 +1,43 @@
+{
+  "id": "q-005700",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Nereida, Tritón, Ganímedes y Luna, cuál de estas lunas orbita Tierra?",
+  "answers": [
+    {
+      "text": "Ganímedes",
+      "correct": false
+    },
+    {
+      "text": "Luna",
+      "correct": true
+    },
+    {
+      "text": "Nereida",
+      "correct": false
+    },
+    {
+      "text": "Tritón",
+      "correct": false
+    }
+  ],
+  "explanation": "Luna orbita Tierra.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "tierra"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

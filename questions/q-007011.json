@@ -1,0 +1,44 @@
+{
+  "id": "q-007011",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué grupo alimentario pertenece cordero?",
+  "answers": [
+    {
+      "text": "lácteo",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": true
+    },
+    {
+      "text": "fruta",
+      "correct": false
+    },
+    {
+      "text": "pescado",
+      "correct": false
+    }
+  ],
+  "explanation": "cordero pertenece al grupo de carne.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "cordero",
+    "carne"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

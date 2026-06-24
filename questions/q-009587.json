@@ -1,0 +1,42 @@
+{
+  "id": "q-009587",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre git checkout, git add, git switch y git tag, qué comando de Git se usa para gestionar etiquetas?",
+  "answers": [
+    {
+      "text": "git tag",
+      "correct": true
+    },
+    {
+      "text": "git add",
+      "correct": false
+    },
+    {
+      "text": "git checkout",
+      "correct": false
+    },
+    {
+      "text": "git switch",
+      "correct": false
+    }
+  ],
+  "explanation": "El comando git tag se usa para gestionar etiquetas.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-tag"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009382",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 12% de 225?",
+  "answers": [
+    {
+      "text": "37",
+      "correct": false
+    },
+    {
+      "text": "32",
+      "correct": false
+    },
+    {
+      "text": "22",
+      "correct": false
+    },
+    {
+      "text": "27",
+      "correct": true
+    }
+  ],
+  "explanation": "El 12% de 225 se calcula como 225 × 12/100 = 27.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

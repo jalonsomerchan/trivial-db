@@ -1,0 +1,43 @@
+{
+  "id": "q-008316",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre pirámides de Guiza, palacio de Cnosos, figura de Aníbal y democracia ateniense, qué elemento histórico se asocia con la civilización cartaginesa?",
+  "answers": [
+    {
+      "text": "figura de Aníbal",
+      "correct": true
+    },
+    {
+      "text": "palacio de Cnosos",
+      "correct": false
+    },
+    {
+      "text": "democracia ateniense",
+      "correct": false
+    },
+    {
+      "text": "pirámides de Guiza",
+      "correct": false
+    }
+  ],
+  "explanation": "La civilización cartaginesa se asocia con figura de Aníbal.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "cartaginesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

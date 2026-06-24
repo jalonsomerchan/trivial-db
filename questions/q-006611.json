@@ -1,0 +1,43 @@
+{
+  "id": "q-006611",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió la película “Apocalypse Now”?",
+  "answers": [
+    {
+      "text": "Andrew Stanton",
+      "correct": false
+    },
+    {
+      "text": "James Cameron",
+      "correct": false
+    },
+    {
+      "text": "Francis Ford Coppola",
+      "correct": true
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    }
+  ],
+  "explanation": "“Apocalypse Now” fue dirigida por Francis Ford Coppola.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "apocalypse-now",
+    "francis-ford-coppola"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

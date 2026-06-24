@@ -1,0 +1,42 @@
+{
+  "id": "q-009877",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre sort(), split(), reduce() y includes(), qué método de JavaScript ordena los elementos de un array?",
+  "answers": [
+    {
+      "text": "sort()",
+      "correct": true
+    },
+    {
+      "text": "reduce()",
+      "correct": false
+    },
+    {
+      "text": "split()",
+      "correct": false
+    },
+    {
+      "text": "includes()",
+      "correct": false
+    }
+  ],
+  "explanation": "El método sort() ordena los elementos de un array.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "sort"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

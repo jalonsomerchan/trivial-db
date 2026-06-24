@@ -1,0 +1,42 @@
+{
+  "id": "q-006694",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Final Fantasy VII, Spyro the Dragon, Metal Gear Solid y The Last of Us, qué videojuego se asocia con Cloud Strife?",
+  "answers": [
+    {
+      "text": "Spyro the Dragon",
+      "correct": false
+    },
+    {
+      "text": "The Last of Us",
+      "correct": false
+    },
+    {
+      "text": "Metal Gear Solid",
+      "correct": false
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": true
+    }
+  ],
+  "explanation": "Cloud Strife se asocia con “Final Fantasy VII”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "cloud-strife"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

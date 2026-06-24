@@ -1,0 +1,42 @@
+{
+  "id": "q-009362",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "fracciones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué fracción equivale aproximadamente a 0.364?",
+  "answers": [
+    {
+      "text": "11/4",
+      "correct": false
+    },
+    {
+      "text": "7/11",
+      "correct": false
+    },
+    {
+      "text": "4/12",
+      "correct": false
+    },
+    {
+      "text": "4/11",
+      "correct": true
+    }
+  ],
+  "explanation": "4/11 equivale aproximadamente a 0.364.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "fracciones",
+    "decimales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

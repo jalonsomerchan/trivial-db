@@ -1,0 +1,42 @@
+{
+  "id": "q-008729",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "morfologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre sufijo -able, raíz crono-, prefijo re- y raíz bio-, qué elemento morfológico destaca en “cronómetro”?",
+  "answers": [
+    {
+      "text": "sufijo -able",
+      "correct": false
+    },
+    {
+      "text": "prefijo re-",
+      "correct": false
+    },
+    {
+      "text": "raíz bio-",
+      "correct": false
+    },
+    {
+      "text": "raíz crono-",
+      "correct": true
+    }
+  ],
+  "explanation": "En “cronómetro” destaca el elemento raíz crono-.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "morfologia",
+    "cronometro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

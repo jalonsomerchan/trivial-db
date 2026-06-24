@@ -1,0 +1,42 @@
+{
+  "id": "q-005149",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "generos-literarios"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué género literario es un relato breve con moraleja?",
+  "answers": [
+    {
+      "text": "elegía",
+      "correct": false
+    },
+    {
+      "text": "cuento",
+      "correct": false
+    },
+    {
+      "text": "soneto",
+      "correct": false
+    },
+    {
+      "text": "fábula",
+      "correct": true
+    }
+  ],
+  "explanation": "Un fábula es un relato breve con moraleja.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "fabula"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

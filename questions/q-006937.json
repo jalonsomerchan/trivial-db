@@ -1,0 +1,43 @@
+{
+  "id": "q-006937",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre fantasía, superhéroes, musical y animación, a qué género se asocia principalmente “El caballero oscuro”?",
+  "answers": [
+    {
+      "text": "superhéroes",
+      "correct": true
+    },
+    {
+      "text": "musical",
+      "correct": false
+    },
+    {
+      "text": "fantasía",
+      "correct": false
+    },
+    {
+      "text": "animación",
+      "correct": false
+    }
+  ],
+  "explanation": "“El caballero oscuro” se asocia principalmente con superhéroes.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "el-caballero-oscuro",
+    "superheroes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009719",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre controla la altura de línea, establece separación entre filas o columnas, controla el método de posicionamiento y define cómo se muestra una caja, qué controla principalmente la propiedad CSS line-height?",
+  "answers": [
+    {
+      "text": "establece separación entre filas o columnas",
+      "correct": false
+    },
+    {
+      "text": "controla el método de posicionamiento",
+      "correct": false
+    },
+    {
+      "text": "controla la altura de línea",
+      "correct": true
+    },
+    {
+      "text": "define cómo se muestra una caja",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad line-height controla la altura de línea.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "line-height"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

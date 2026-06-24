@@ -1,0 +1,43 @@
+{
+  "id": "q-006845",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente la serie “The Crown”?",
+  "answers": [
+    {
+      "text": "drama histórico",
+      "correct": true
+    },
+    {
+      "text": "animación",
+      "correct": false
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": false
+    },
+    {
+      "text": "misterio",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Crown” se asocia principalmente con drama histórico.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "the-crown",
+    "drama-historico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

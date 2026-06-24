@@ -1,0 +1,42 @@
+{
+  "id": "q-009992",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué propiedad CSS define cómo se muestra una caja?",
+  "answers": [
+    {
+      "text": "display",
+      "correct": true
+    },
+    {
+      "text": "font-weight",
+      "correct": false
+    },
+    {
+      "text": "border-radius",
+      "correct": false
+    },
+    {
+      "text": "white-space",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS display define cómo se muestra una caja.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "display"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

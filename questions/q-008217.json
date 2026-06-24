@@ -1,0 +1,42 @@
+{
+  "id": "q-008217",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió después que la fundación de la ONU?",
+  "answers": [
+    {
+      "text": "coronación de Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": true
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    }
+  ],
+  "explanation": "caída del Muro de Berlín ocurrió después que la fundación de la ONU.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

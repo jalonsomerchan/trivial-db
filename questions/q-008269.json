@@ -1,0 +1,42 @@
+{
+  "id": "q-008269",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre batalla de Trafalgar, caída del Muro de Berlín, firma de la Carta Magna inglesa y edicto de Milán, cuál de estos hechos ocurrió después que la unificación alemana?",
+  "answers": [
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": true
+    },
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "batalla de Trafalgar",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    }
+  ],
+  "explanation": "caída del Muro de Berlín ocurrió después que la unificación alemana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

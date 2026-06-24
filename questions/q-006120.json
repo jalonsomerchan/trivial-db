@@ -1,0 +1,43 @@
+{
+  "id": "q-006120",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "baloncesto"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Sacramento, San Francisco, San Antonio y Salt Lake City, en qué ciudad juega como local San Antonio Spurs?",
+  "answers": [
+    {
+      "text": "San Francisco",
+      "correct": false
+    },
+    {
+      "text": "Salt Lake City",
+      "correct": false
+    },
+    {
+      "text": "San Antonio",
+      "correct": true
+    },
+    {
+      "text": "Sacramento",
+      "correct": false
+    }
+  ],
+  "explanation": "San Antonio Spurs juega como local en San Antonio.",
+  "sources": [
+    {
+      "title": "NBA",
+      "url": "https://www.nba.com/"
+    }
+  ],
+  "tags": [
+    "nba",
+    "san-antonio-spurs",
+    "san-antonio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

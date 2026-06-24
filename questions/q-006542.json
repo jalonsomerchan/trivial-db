@@ -1,0 +1,42 @@
+{
+  "id": "q-006542",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Donkey Kong, Ellie, Chell y Pac-Man, qué personaje protagoniza o representa la saga “Donkey Kong”?",
+  "answers": [
+    {
+      "text": "Chell",
+      "correct": false
+    },
+    {
+      "text": "Ellie",
+      "correct": false
+    },
+    {
+      "text": "Pac-Man",
+      "correct": false
+    },
+    {
+      "text": "Donkey Kong",
+      "correct": true
+    }
+  ],
+  "explanation": "Donkey Kong es un personaje asociado a “Donkey Kong”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "donkey-kong"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

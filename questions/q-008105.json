@@ -1,0 +1,43 @@
+{
+  "id": "q-008105",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "civilizaciones"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre egipcia, china antigua, persa aqueménida y griega, qué civilización se asocia con Camino Real persa?",
+  "answers": [
+    {
+      "text": "egipcia",
+      "correct": false
+    },
+    {
+      "text": "griega",
+      "correct": false
+    },
+    {
+      "text": "china antigua",
+      "correct": false
+    },
+    {
+      "text": "persa aqueménida",
+      "correct": true
+    }
+  ],
+  "explanation": "Camino Real persa se asocia con la civilización persa aqueménida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "civilizaciones",
+    "persa-aquemenida"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

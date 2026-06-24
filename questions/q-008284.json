@@ -1,0 +1,42 @@
+{
+  "id": "q-008284",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre crack bursátil de Wall Street, disolución de la Unión Soviética, edicto de Milán y inicio de la Segunda Guerra Mundial, cuál de estos hechos ocurrió después que la llegada del Apolo 11 a la Luna?",
+  "answers": [
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": true
+    },
+    {
+      "text": "crack bursátil de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    }
+  ],
+  "explanation": "disolución de la Unión Soviética ocurrió después que la llegada del Apolo 11 a la Luna.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-007417",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre moussaka, borsch, salmorejo y biryani, qué plato se asocia con India y arroz especiado?",
+  "answers": [
+    {
+      "text": "salmorejo",
+      "correct": false
+    },
+    {
+      "text": "biryani",
+      "correct": true
+    },
+    {
+      "text": "moussaka",
+      "correct": false
+    },
+    {
+      "text": "borsch",
+      "correct": false
+    }
+  ],
+  "explanation": "El biryani se asocia con India y con arroz especiado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "india",
+    "arroz-especiado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

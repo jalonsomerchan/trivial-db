@@ -1,0 +1,42 @@
+{
+  "id": "q-005170",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Alte Pinakothek, Museo Reina Sofía, Pergamonmuseum y Metropolitan Museum of Art, qué museo se encuentra en Berlín?",
+  "answers": [
+    {
+      "text": "Museo Reina Sofía",
+      "correct": false
+    },
+    {
+      "text": "Alte Pinakothek",
+      "correct": false
+    },
+    {
+      "text": "Pergamonmuseum",
+      "correct": true
+    },
+    {
+      "text": "Metropolitan Museum of Art",
+      "correct": false
+    }
+  ],
+  "explanation": "En Berlín se encuentra el Pergamonmuseum.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "berlin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

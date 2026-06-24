@@ -1,0 +1,43 @@
+{
+  "id": "q-007734",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene mayor superficie: República Checa, Niue, Isla de Man o Islas Tokelau?",
+  "answers": [
+    {
+      "text": "Isla de Man",
+      "correct": false
+    },
+    {
+      "text": "Islas Tokelau",
+      "correct": false
+    },
+    {
+      "text": "República Checa",
+      "correct": true
+    },
+    {
+      "text": "Niue",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, República Checa tiene la mayor superficie registrada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

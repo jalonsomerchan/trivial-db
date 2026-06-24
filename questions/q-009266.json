@@ -1,0 +1,42 @@
+{
+  "id": "q-009266",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 27000?",
+  "answers": [
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "31",
+      "correct": false
+    },
+    {
+      "text": "32",
+      "correct": false
+    },
+    {
+      "text": "30",
+      "correct": true
+    }
+  ],
+  "explanation": "Como 30³ = 27000, la raíz cúbica de 27000 es 30.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

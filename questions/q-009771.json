@@ -1,0 +1,42 @@
+{
+  "id": "q-009771",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué controla principalmente la propiedad CSS transform?",
+  "answers": [
+    {
+      "text": "controla la visibilidad sin quitar el espacio",
+      "correct": false
+    },
+    {
+      "text": "define el cursor del puntero",
+      "correct": false
+    },
+    {
+      "text": "alinea elementos en el eje principal",
+      "correct": false
+    },
+    {
+      "text": "aplica transformaciones visuales",
+      "correct": true
+    }
+  ],
+  "explanation": "La propiedad transform aplica transformaciones visuales.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "transform"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

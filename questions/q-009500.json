@@ -1,0 +1,42 @@
+{
+  "id": "q-009500",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 80% de 600?",
+  "answers": [
+    {
+      "text": "485",
+      "correct": false
+    },
+    {
+      "text": "480",
+      "correct": true
+    },
+    {
+      "text": "490",
+      "correct": false
+    },
+    {
+      "text": "475",
+      "correct": false
+    }
+  ],
+  "explanation": "El 80% de 600 se calcula como 600 × 80/100 = 480.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

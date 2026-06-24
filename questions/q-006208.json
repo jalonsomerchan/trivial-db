@@ -1,0 +1,42 @@
+{
+  "id": "q-006208",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "formula-1"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Silverstone, Interlagos, Autódromo Hermanos Rodríguez y Circuit of the Americas, qué circuito se asocia con el Gran Premio de Estados Unidos?",
+  "answers": [
+    {
+      "text": "Interlagos",
+      "correct": false
+    },
+    {
+      "text": "Circuit of the Americas",
+      "correct": true
+    },
+    {
+      "text": "Silverstone",
+      "correct": false
+    },
+    {
+      "text": "Autódromo Hermanos Rodríguez",
+      "correct": false
+    }
+  ],
+  "explanation": "El Gran Premio de Estados Unidos se asocia con el circuito de Circuit of the Americas.",
+  "sources": [
+    {
+      "title": "Formula 1",
+      "url": "https://www.formula1.com/"
+    }
+  ],
+  "tags": [
+    "formula-1",
+    "circuit-of-the-americas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006921",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre detectives, animación, drama histórico y drama criminal, a qué género se asocia principalmente la serie “Breaking Bad”?",
+  "answers": [
+    {
+      "text": "drama histórico",
+      "correct": false
+    },
+    {
+      "text": "drama criminal",
+      "correct": true
+    },
+    {
+      "text": "detectives",
+      "correct": false
+    },
+    {
+      "text": "animación",
+      "correct": false
+    }
+  ],
+  "explanation": "“Breaking Bad” se asocia principalmente con drama criminal.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "breaking-bad",
+    "drama-criminal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

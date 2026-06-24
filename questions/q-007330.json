@@ -1,0 +1,43 @@
+{
+  "id": "q-007330",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué significa macerar en cocina?",
+  "answers": [
+    {
+      "text": "aromatizar o conservar con humo",
+      "correct": false
+    },
+    {
+      "text": "ablandar o aromatizar en líquido",
+      "correct": true
+    },
+    {
+      "text": "estirar una masa en capas finas",
+      "correct": false
+    },
+    {
+      "text": "cubrir con una capa brillante",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, macerar significa ablandar o aromatizar en líquido.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "macerar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

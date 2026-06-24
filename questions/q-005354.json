@@ -1,0 +1,43 @@
+{
+  "id": "q-005354",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país era Rembrandt?",
+  "answers": [
+    {
+      "text": "Noruega",
+      "correct": false
+    },
+    {
+      "text": "Países Bajos",
+      "correct": true
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "México",
+      "correct": false
+    }
+  ],
+  "explanation": "Rembrandt era de Países Bajos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "rembrandt",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

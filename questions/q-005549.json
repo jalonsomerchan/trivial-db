@@ -1,0 +1,42 @@
+{
+  "id": "q-005549",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre corazón, cerebro, vejiga urinaria y esófago, qué órgano se encarga principalmente de coordinar funciones nerviosas superiores?",
+  "answers": [
+    {
+      "text": "corazón",
+      "correct": false
+    },
+    {
+      "text": "esófago",
+      "correct": false
+    },
+    {
+      "text": "vejiga urinaria",
+      "correct": false
+    },
+    {
+      "text": "cerebro",
+      "correct": true
+    }
+  ],
+  "explanation": "El cerebro se encarga principalmente de coordinar funciones nerviosas superiores.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "cerebro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

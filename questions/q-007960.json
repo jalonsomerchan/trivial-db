@@ -1,0 +1,43 @@
+{
+  "id": "q-007960",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Islas Malvinas?",
+  "answers": [
+    {
+      "text": "islandés",
+      "correct": false
+    },
+    {
+      "text": "chino",
+      "correct": false
+    },
+    {
+      "text": "inglés",
+      "correct": true
+    },
+    {
+      "text": "tongano",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Islas Malvinas figura el inglés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "islas-malvinas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-006789",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué película fue dirigida por Michael Curtiz?",
+  "answers": [
+    {
+      "text": "King Kong",
+      "correct": false
+    },
+    {
+      "text": "Mi vecino Totoro",
+      "correct": false
+    },
+    {
+      "text": "Casablanca",
+      "correct": true
+    },
+    {
+      "text": "Jurassic Park",
+      "correct": false
+    }
+  ],
+  "explanation": "Michael Curtiz dirigió “Casablanca”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "michael-curtiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

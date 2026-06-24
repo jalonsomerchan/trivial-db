@@ -1,0 +1,42 @@
+{
+  "id": "q-005977",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre tiene una gran inclinación axial, es el mayor planeta, no tiene lunas y tiene dos lunas, qué característica se asocia con Mercurio?",
+  "answers": [
+    {
+      "text": "tiene dos lunas",
+      "correct": false
+    },
+    {
+      "text": "es el mayor planeta",
+      "correct": false
+    },
+    {
+      "text": "tiene una gran inclinación axial",
+      "correct": false
+    },
+    {
+      "text": "no tiene lunas",
+      "correct": true
+    }
+  ],
+  "explanation": "Una característica de Mercurio es que no tiene lunas.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "mercurio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

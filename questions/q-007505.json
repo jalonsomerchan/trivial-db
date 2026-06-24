@@ -1,0 +1,43 @@
+{
+  "id": "q-007505",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál de estos países se encuentra en África?",
+  "answers": [
+    {
+      "text": "San Cristóbal y Nieves",
+      "correct": false
+    },
+    {
+      "text": "Bermudas",
+      "correct": false
+    },
+    {
+      "text": "Ghana",
+      "correct": true
+    },
+    {
+      "text": "Chile",
+      "correct": false
+    }
+  ],
+  "explanation": "Ghana se clasifica geográficamente en África.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "continentes",
+    "africa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

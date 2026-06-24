@@ -1,0 +1,43 @@
+{
+  "id": "q-007063",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre arroz especiado, masa hojaldrada, queso fundido y tortilla de maíz, qué ingrediente es característico del tacos?",
+  "answers": [
+    {
+      "text": "masa hojaldrada",
+      "correct": false
+    },
+    {
+      "text": "tortilla de maíz",
+      "correct": true
+    },
+    {
+      "text": "queso fundido",
+      "correct": false
+    },
+    {
+      "text": "arroz especiado",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del tacos es tortilla de maíz.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tacos",
+    "tortilla-de-maiz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005663",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué órgano se encarga principalmente de producir enzimas digestivas e insulina?",
+  "answers": [
+    {
+      "text": "médula espinal",
+      "correct": false
+    },
+    {
+      "text": "intestino grueso",
+      "correct": false
+    },
+    {
+      "text": "páncreas",
+      "correct": true
+    },
+    {
+      "text": "pulmones",
+      "correct": false
+    }
+  ],
+  "explanation": "El páncreas se encarga principalmente de producir enzimas digestivas e insulina.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "pancreas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

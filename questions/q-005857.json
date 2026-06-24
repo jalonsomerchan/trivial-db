@@ -1,0 +1,42 @@
+{
+  "id": "q-005857",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué función se relaciona especialmente la vitamina A?",
+  "answers": [
+    {
+      "text": "formación de ADN",
+      "correct": false
+    },
+    {
+      "text": "transporte de oxígeno",
+      "correct": false
+    },
+    {
+      "text": "visión y piel",
+      "correct": true
+    },
+    {
+      "text": "coagulación sanguínea",
+      "correct": false
+    }
+  ],
+  "explanation": "La vitamina A se relaciona con visión y piel.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "vitamina-a"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

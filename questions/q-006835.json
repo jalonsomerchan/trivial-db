@@ -1,0 +1,43 @@
+{
+  "id": "q-006835",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué género se asocia principalmente la serie “Better Call Saul”?",
+  "answers": [
+    {
+      "text": "drama médico",
+      "correct": false
+    },
+    {
+      "text": "misterio",
+      "correct": false
+    },
+    {
+      "text": "drama criminal",
+      "correct": true
+    },
+    {
+      "text": "ciencia ficción",
+      "correct": false
+    }
+  ],
+  "explanation": "“Better Call Saul” se asocia principalmente con drama criminal.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "better-call-saul",
+    "drama-criminal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005883",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es una función principal del esófago?",
+  "answers": [
+    {
+      "text": "conducir alimento hacia el estómago",
+      "correct": true
+    },
+    {
+      "text": "transmitir señales entre cerebro y cuerpo",
+      "correct": false
+    },
+    {
+      "text": "almacenar orina",
+      "correct": false
+    },
+    {
+      "text": "participar en la respuesta inmunitaria",
+      "correct": false
+    }
+  ],
+  "explanation": "Una función principal del esófago es conducir alimento hacia el estómago.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "esofago"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

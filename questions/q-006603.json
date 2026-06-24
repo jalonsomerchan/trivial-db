@@ -1,0 +1,43 @@
+{
+  "id": "q-006603",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Steven Spielberg, Lana y Lilly Wachowski, Orson Welles y Michael Curtiz, quién dirigió la película “Matrix”?",
+  "answers": [
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": true
+    },
+    {
+      "text": "Orson Welles",
+      "correct": false
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Michael Curtiz",
+      "correct": false
+    }
+  ],
+  "explanation": "“Matrix” fue dirigida por Lana y Lilly Wachowski.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "matrix",
+    "lana-y-lilly-wachowski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

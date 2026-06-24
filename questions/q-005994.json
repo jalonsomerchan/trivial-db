@@ -1,0 +1,42 @@
+{
+  "id": "q-005994",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué característica se asocia con Júpiter?",
+  "answers": [
+    {
+      "text": "es el mayor planeta",
+      "correct": true
+    },
+    {
+      "text": "tiene dos lunas",
+      "correct": false
+    },
+    {
+      "text": "es el planeta más alejado del Sol",
+      "correct": false
+    },
+    {
+      "text": "destaca por sus anillos",
+      "correct": false
+    }
+  ],
+  "explanation": "Una característica de Júpiter es que es el mayor planeta.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "planetas",
+    "jupiter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

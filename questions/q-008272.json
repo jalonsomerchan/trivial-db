@@ -1,0 +1,42 @@
+{
+  "id": "q-008272",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre caída del Imperio romano de Occidente, llegada del Apolo 11 a la Luna, batalla de Hastings y publicación de las 95 tesis de Lutero, cuál de estos hechos ocurrió después que la batalla de Lepanto?",
+  "answers": [
+    {
+      "text": "publicación de las 95 tesis de Lutero",
+      "correct": false
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": true
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "batalla de Hastings",
+      "correct": false
+    }
+  ],
+  "explanation": "llegada del Apolo 11 a la Luna ocurrió después que la batalla de Lepanto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

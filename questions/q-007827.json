@@ -1,0 +1,44 @@
+{
+  "id": "q-007827",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Tunis, Islamabad, Buenos Aires o Rome?",
+  "answers": [
+    {
+      "text": "Rome",
+      "correct": true
+    },
+    {
+      "text": "Buenos Aires",
+      "correct": false
+    },
+    {
+      "text": "Tunis",
+      "correct": false
+    },
+    {
+      "text": "Islamabad",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Rome es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

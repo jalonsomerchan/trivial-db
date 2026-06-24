@@ -1,0 +1,43 @@
+{
+  "id": "q-008464",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Guerras napoleónicas, siglo XIX, final de la Guerra Fría y Guerras Médicas, con qué contexto histórico se asocia la unificación alemana?",
+  "answers": [
+    {
+      "text": "Guerras napoleónicas",
+      "correct": false
+    },
+    {
+      "text": "final de la Guerra Fría",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX",
+      "correct": true
+    },
+    {
+      "text": "Guerras Médicas",
+      "correct": false
+    }
+  ],
+  "explanation": "La unificación alemana se asocia con siglo XIX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglo-xix",
+    "unificacion-alemana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

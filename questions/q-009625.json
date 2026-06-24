@@ -1,0 +1,42 @@
+{
+  "id": "q-009625",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué comando de Git se usa para cambiar de rama?",
+  "answers": [
+    {
+      "text": "git pull",
+      "correct": false
+    },
+    {
+      "text": "git log",
+      "correct": false
+    },
+    {
+      "text": "git checkout",
+      "correct": false
+    },
+    {
+      "text": "git switch",
+      "correct": true
+    }
+  ],
+  "explanation": "El comando git switch se usa para cambiar de rama.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-switch"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

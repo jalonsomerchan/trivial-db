@@ -1,0 +1,43 @@
+{
+  "id": "q-006766",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo se asocia con k-pop y Corea del Sur?",
+  "answers": [
+    {
+      "text": "ABBA",
+      "correct": false
+    },
+    {
+      "text": "Pink Floyd",
+      "correct": false
+    },
+    {
+      "text": "Radiohead",
+      "correct": false
+    },
+    {
+      "text": "BTS",
+      "correct": true
+    }
+  ],
+  "explanation": "BTS se asocia con k-pop y Corea del Sur.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "k-pop",
+    "corea-del-sur"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

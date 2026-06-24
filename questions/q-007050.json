@@ -1,0 +1,43 @@
+{
+  "id": "q-007050",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Brasil, Magreb, Turquía y Oriente Medio y Grecia, con qué país o región se asocia tradicionalmente el plato feijoada?",
+  "answers": [
+    {
+      "text": "Grecia",
+      "correct": false
+    },
+    {
+      "text": "Magreb",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": true
+    },
+    {
+      "text": "Turquía y Oriente Medio",
+      "correct": false
+    }
+  ],
+  "explanation": "El feijoada se asocia tradicionalmente con Brasil.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "feijoada",
+    "brasil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

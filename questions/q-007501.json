@@ -1,0 +1,43 @@
+{
+  "id": "q-007501",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica culinaria consiste en unir líquidos que normalmente no se mezclan?",
+  "answers": [
+    {
+      "text": "emulsionar",
+      "correct": true
+    },
+    {
+      "text": "freír",
+      "correct": false
+    },
+    {
+      "text": "laminar",
+      "correct": false
+    },
+    {
+      "text": "reducir",
+      "correct": false
+    }
+  ],
+  "explanation": "emulsionar consiste en unir líquidos que normalmente no se mezclan.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "emulsionar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

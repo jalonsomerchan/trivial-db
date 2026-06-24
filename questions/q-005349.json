@@ -1,0 +1,43 @@
+{
+  "id": "q-005349",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "medium",
+  "question": "¿De qué país era Pablo Picasso?",
+  "answers": [
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    },
+    {
+      "text": "Países Bajos",
+      "correct": false
+    }
+  ],
+  "explanation": "Pablo Picasso era de España.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "pablo-picasso",
+    "espana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

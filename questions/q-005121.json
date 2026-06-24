@@ -1,0 +1,42 @@
+{
+  "id": "q-005121",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Surrealismo, Dadaísmo, Neoclasicismo y Realismo, qué movimiento artístico se caracteriza por representación de la vida cotidiana sin idealización?",
+  "answers": [
+    {
+      "text": "Realismo",
+      "correct": true
+    },
+    {
+      "text": "Surrealismo",
+      "correct": false
+    },
+    {
+      "text": "Dadaísmo",
+      "correct": false
+    },
+    {
+      "text": "Neoclasicismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El Realismo se caracteriza por representación de la vida cotidiana sin idealización.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "realismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

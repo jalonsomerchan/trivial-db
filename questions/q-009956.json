@@ -1,0 +1,42 @@
+{
+  "id": "q-009956",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sql"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué instrucción o cláusula SQL se usa para referenciar una clave de otra tabla?",
+  "answers": [
+    {
+      "text": "ALTER TABLE",
+      "correct": false
+    },
+    {
+      "text": "FOREIGN KEY",
+      "correct": true
+    },
+    {
+      "text": "DROP TABLE",
+      "correct": false
+    },
+    {
+      "text": "SELECT",
+      "correct": false
+    }
+  ],
+  "explanation": "En SQL, FOREIGN KEY se usa para referenciar una clave de otra tabla.",
+  "sources": [
+    {
+      "title": "PostgreSQL Documentation",
+      "url": "https://www.postgresql.org/docs/"
+    }
+  ],
+  "tags": [
+    "sql",
+    "foreign-key"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

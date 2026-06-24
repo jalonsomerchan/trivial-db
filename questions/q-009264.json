@@ -1,0 +1,42 @@
+{
+  "id": "q-009264",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la raíz cúbica de 21952?",
+  "answers": [
+    {
+      "text": "28",
+      "correct": true
+    },
+    {
+      "text": "30",
+      "correct": false
+    },
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "27",
+      "correct": false
+    }
+  ],
+  "explanation": "Como 28³ = 21952, la raíz cúbica de 21952 es 28.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "raiz-cubica",
+    "potencias"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

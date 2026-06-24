@@ -1,0 +1,43 @@
+{
+  "id": "q-008024",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre 1588, 1914, -490 y 1776, en qué año se produjo la inicio de la Primera Guerra Mundial?",
+  "answers": [
+    {
+      "text": "-490",
+      "correct": false
+    },
+    {
+      "text": "1776",
+      "correct": false
+    },
+    {
+      "text": "1588",
+      "correct": false
+    },
+    {
+      "text": "1914",
+      "correct": true
+    }
+  ],
+  "explanation": "La inicio de la Primera Guerra Mundial se produjo en 1914.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "inicio-de-la-primera-guerra-mundial"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

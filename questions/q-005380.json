@@ -1,0 +1,43 @@
+{
+  "id": "q-005380",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Alemania, Ciudad del Vaticano, Francia y Rusia, en qué país está el Museo de Orsay?",
+  "answers": [
+    {
+      "text": "Ciudad del Vaticano",
+      "correct": false
+    },
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Alemania",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": true
+    }
+  ],
+  "explanation": "El Museo de Orsay está en Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "museo-de-orsay",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

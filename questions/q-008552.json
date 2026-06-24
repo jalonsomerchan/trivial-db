@@ -1,0 +1,42 @@
+{
+  "id": "q-008552",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "silabas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre 1, 2, 3 y 5, cuántas sílabas tiene “sol”?",
+  "answers": [
+    {
+      "text": "1",
+      "correct": true
+    },
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": false
+    }
+  ],
+  "explanation": "“sol” tiene 1 sílabas.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "silabas",
+    "sol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009662",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué etiqueta HTML se usa para marcar contenido independiente?",
+  "answers": [
+    {
+      "text": "<script>",
+      "correct": false
+    },
+    {
+      "text": "<article>",
+      "correct": true
+    },
+    {
+      "text": "<video>",
+      "correct": false
+    },
+    {
+      "text": "<ol>",
+      "correct": false
+    }
+  ],
+  "explanation": "La etiqueta <article> se usa para marcar contenido independiente.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "article"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

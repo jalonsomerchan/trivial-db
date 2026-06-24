@@ -1,0 +1,43 @@
+{
+  "id": "q-005317",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista se vincula con Postimpresionismo y Países Bajos?",
+  "answers": [
+    {
+      "text": "Paul Cézanne",
+      "correct": false
+    },
+    {
+      "text": "Rembrandt",
+      "correct": false
+    },
+    {
+      "text": "Vincent van Gogh",
+      "correct": true
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    }
+  ],
+  "explanation": "Vincent van Gogh se vincula con Postimpresionismo y Países Bajos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "postimpresionismo",
+    "paises-bajos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

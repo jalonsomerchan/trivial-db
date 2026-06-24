@@ -1,0 +1,42 @@
+{
+  "id": "q-006828",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué videojuego se asocia con Ryu?",
+  "answers": [
+    {
+      "text": "Crash Bandicoot",
+      "correct": false
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    },
+    {
+      "text": "Assassin’s Creed",
+      "correct": false
+    },
+    {
+      "text": "Street Fighter II",
+      "correct": true
+    }
+  ],
+  "explanation": "Ryu se asocia con “Street Fighter II”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "ryu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

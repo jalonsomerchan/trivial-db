@@ -1,0 +1,42 @@
+{
+  "id": "q-006692",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre El viaje de Chihiro, El señor de los anillos: la comunidad del anillo, Matrix y Roma, qué película fue dirigida por Alfonso Cuarón?",
+  "answers": [
+    {
+      "text": "Matrix",
+      "correct": false
+    },
+    {
+      "text": "El señor de los anillos: la comunidad del anillo",
+      "correct": false
+    },
+    {
+      "text": "El viaje de Chihiro",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": true
+    }
+  ],
+  "explanation": "Alfonso Cuarón dirigió “Roma”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "alfonso-cuaron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005864",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "nutricion"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué función se relaciona especialmente la yodo?",
+  "answers": [
+    {
+      "text": "función tiroidea",
+      "correct": true
+    },
+    {
+      "text": "transporte de oxígeno",
+      "correct": false
+    },
+    {
+      "text": "formación de ADN",
+      "correct": false
+    },
+    {
+      "text": "síntesis de colágeno",
+      "correct": false
+    }
+  ],
+  "explanation": "La yodo se relaciona con función tiroidea.",
+  "sources": [
+    {
+      "title": "MedlinePlus",
+      "url": "https://medlineplus.gov/"
+    }
+  ],
+  "tags": [
+    "nutricion",
+    "yodo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

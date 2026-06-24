@@ -1,0 +1,43 @@
+{
+  "id": "q-007994",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Turquía?",
+  "answers": [
+    {
+      "text": "estonio",
+      "correct": false
+    },
+    {
+      "text": "quechua",
+      "correct": false
+    },
+    {
+      "text": "rs",
+      "correct": false
+    },
+    {
+      "text": "turco",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Turquía figura el turco.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "turquia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

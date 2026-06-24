@@ -1,0 +1,42 @@
+{
+  "id": "q-009872",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre reaplicar commits sobre otra base, traer e integrar cambios remotos, copiar un repositorio remoto y cambiar de rama o restaurar archivos, para qué sirve principalmente git pull?",
+  "answers": [
+    {
+      "text": "copiar un repositorio remoto",
+      "correct": false
+    },
+    {
+      "text": "reaplicar commits sobre otra base",
+      "correct": false
+    },
+    {
+      "text": "traer e integrar cambios remotos",
+      "correct": true
+    },
+    {
+      "text": "cambiar de rama o restaurar archivos",
+      "correct": false
+    }
+  ],
+  "explanation": "git pull sirve para traer e integrar cambios remotos.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-pull"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

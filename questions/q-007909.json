@@ -1,0 +1,43 @@
+{
+  "id": "q-007909",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Kazajistán?",
+  "answers": [
+    {
+      "text": "Southern Asia",
+      "correct": false
+    },
+    {
+      "text": "Central Asia",
+      "correct": true
+    },
+    {
+      "text": "Northern Africa",
+      "correct": false
+    },
+    {
+      "text": "Eastern Africa",
+      "correct": false
+    }
+  ],
+  "explanation": "Kazajistán pertenece a la subregión Central Asia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "kazajistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009624",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "git"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué comando de Git se usa para cambiar de rama o restaurar archivos?",
+  "answers": [
+    {
+      "text": "git branch",
+      "correct": false
+    },
+    {
+      "text": "git stash",
+      "correct": false
+    },
+    {
+      "text": "git checkout",
+      "correct": true
+    },
+    {
+      "text": "git status",
+      "correct": false
+    }
+  ],
+  "explanation": "El comando git checkout se usa para cambiar de rama o restaurar archivos.",
+  "sources": [
+    {
+      "title": "Git Documentation",
+      "url": "https://git-scm.com/doc"
+    }
+  ],
+  "tags": [
+    "git",
+    "git-checkout"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009046",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 113 + 22?",
+  "answers": [
+    {
+      "text": "133",
+      "correct": false
+    },
+    {
+      "text": "145",
+      "correct": false
+    },
+    {
+      "text": "135",
+      "correct": true
+    },
+    {
+      "text": "137",
+      "correct": false
+    }
+  ],
+  "explanation": "La suma de 113 y 22 es 135.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "suma",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

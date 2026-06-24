@@ -1,0 +1,42 @@
+{
+  "id": "q-009814",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué hace principalmente el método JavaScript slice()?",
+  "answers": [
+    {
+      "text": "extrae una parte sin modificar el original",
+      "correct": true
+    },
+    {
+      "text": "cambia el contenido eliminando o insertando elementos",
+      "correct": false
+    },
+    {
+      "text": "comprueba el final de una cadena",
+      "correct": false
+    },
+    {
+      "text": "comprueba si todos los elementos cumplen una condición",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, slice() extrae una parte sin modificar el original.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "slice"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

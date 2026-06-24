@@ -1,0 +1,43 @@
+{
+  "id": "q-005695",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Fobos, Tritón, Oberón y Ganímedes, cuál de estas lunas orbita Neptuno?",
+  "answers": [
+    {
+      "text": "Oberón",
+      "correct": false
+    },
+    {
+      "text": "Tritón",
+      "correct": true
+    },
+    {
+      "text": "Fobos",
+      "correct": false
+    },
+    {
+      "text": "Ganímedes",
+      "correct": false
+    }
+  ],
+  "explanation": "Tritón orbita Neptuno.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "astronomia",
+    "satelites",
+    "neptuno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

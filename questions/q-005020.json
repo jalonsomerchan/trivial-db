@@ -1,0 +1,43 @@
+{
+  "id": "q-005020",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "artistas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué movimiento artístico se asocia Rafael Sanzio?",
+  "answers": [
+    {
+      "text": "Romanticismo",
+      "correct": false
+    },
+    {
+      "text": "Expresionismo abstracto",
+      "correct": false
+    },
+    {
+      "text": "Postimpresionismo",
+      "correct": false
+    },
+    {
+      "text": "Renacimiento",
+      "correct": true
+    }
+  ],
+  "explanation": "Rafael Sanzio se asocia habitualmente con Renacimiento.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "rafael-sanzio",
+    "renacimiento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

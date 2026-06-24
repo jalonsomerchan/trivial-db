@@ -1,0 +1,43 @@
+{
+  "id": "q-008970",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “difícil”?",
+  "answers": [
+    {
+      "text": "recordar",
+      "correct": false
+    },
+    {
+      "text": "dulce",
+      "correct": false
+    },
+    {
+      "text": "fácil",
+      "correct": true
+    },
+    {
+      "text": "aumentar",
+      "correct": false
+    }
+  ],
+  "explanation": "“fácil” y “difícil” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "facil",
+    "dificil"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

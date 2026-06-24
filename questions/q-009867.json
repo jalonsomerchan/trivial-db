@@ -1,0 +1,42 @@
+{
+  "id": "q-009867",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre overflow, white-space, transition y transform, qué propiedad CSS aplica transformaciones visuales?",
+  "answers": [
+    {
+      "text": "white-space",
+      "correct": false
+    },
+    {
+      "text": "transition",
+      "correct": false
+    },
+    {
+      "text": "transform",
+      "correct": true
+    },
+    {
+      "text": "overflow",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad CSS transform aplica transformaciones visuales.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "transform"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

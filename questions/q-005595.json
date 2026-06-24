@@ -1,0 +1,43 @@
+{
+  "id": "q-005595",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre peces, arácnidos, reptiles y insectos, a qué grupo pertenece el animal llamado escorpión?",
+  "answers": [
+    {
+      "text": "peces",
+      "correct": false
+    },
+    {
+      "text": "insectos",
+      "correct": false
+    },
+    {
+      "text": "reptiles",
+      "correct": false
+    },
+    {
+      "text": "arácnidos",
+      "correct": true
+    }
+  ],
+  "explanation": "El escorpión pertenece al grupo de los arácnidos.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "aracnidos",
+    "escorpion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

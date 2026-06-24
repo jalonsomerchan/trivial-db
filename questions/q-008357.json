@@ -1,0 +1,42 @@
+{
+  "id": "q-008357",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece el año 1871?",
+  "answers": [
+    {
+      "text": "siglo XIX",
+      "correct": true
+    },
+    {
+      "text": "siglo V",
+      "correct": false
+    },
+    {
+      "text": "siglo I",
+      "correct": false
+    },
+    {
+      "text": "siglo VIII a. C.",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1871 pertenece al siglo XIX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "siglos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

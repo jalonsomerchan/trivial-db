@@ -1,0 +1,43 @@
+{
+  "id": "q-007147",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué ingrediente es característico del empanada?",
+  "answers": [
+    {
+      "text": "masa rellena",
+      "correct": true
+    },
+    {
+      "text": "arroz",
+      "correct": false
+    },
+    {
+      "text": "queso fundido",
+      "correct": false
+    },
+    {
+      "text": "frutos secos y masa filo",
+      "correct": false
+    }
+  ],
+  "explanation": "Un ingrediente característico del empanada es masa rellena.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "empanada",
+    "masa-rellena"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

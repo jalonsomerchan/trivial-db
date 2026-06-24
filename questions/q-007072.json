@@ -1,0 +1,44 @@
+{
+  "id": "q-007072",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "alimentos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre cereal, hortaliza, lácteo y carne, a qué grupo alimentario pertenece kéfir?",
+  "answers": [
+    {
+      "text": "carne",
+      "correct": false
+    },
+    {
+      "text": "lácteo",
+      "correct": true
+    },
+    {
+      "text": "cereal",
+      "correct": false
+    },
+    {
+      "text": "hortaliza",
+      "correct": false
+    }
+  ],
+  "explanation": "kéfir pertenece al grupo de lácteo.",
+  "sources": [
+    {
+      "title": "FAO",
+      "url": "https://www.fao.org/"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "alimentos",
+    "kefir",
+    "lacteo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

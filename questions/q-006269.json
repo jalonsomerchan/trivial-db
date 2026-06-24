@@ -1,0 +1,43 @@
+{
+  "id": "q-006269",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre knockout, slalom, break point y touchdown, qué término se asocia con fútbol americano?",
+  "answers": [
+    {
+      "text": "slalom",
+      "correct": false
+    },
+    {
+      "text": "touchdown",
+      "correct": true
+    },
+    {
+      "text": "break point",
+      "correct": false
+    },
+    {
+      "text": "knockout",
+      "correct": false
+    }
+  ],
+  "explanation": "“touchdown” es un término asociado con fútbol americano.",
+  "sources": [
+    {
+      "title": "International Olympic Committee",
+      "url": "https://olympics.com/ioc"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "futbol-americano",
+    "touchdown"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

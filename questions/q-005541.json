@@ -1,0 +1,43 @@
+{
+  "id": "q-005541",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre aves, arácnidos, peces y moluscos, a qué grupo pertenece el animal llamado caballito de mar?",
+  "answers": [
+    {
+      "text": "moluscos",
+      "correct": false
+    },
+    {
+      "text": "peces",
+      "correct": true
+    },
+    {
+      "text": "aves",
+      "correct": false
+    },
+    {
+      "text": "arácnidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El caballito de mar pertenece al grupo de los peces.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "animales",
+    "peces",
+    "caballito-de-mar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

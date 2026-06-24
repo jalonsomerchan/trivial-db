@@ -1,0 +1,43 @@
+{
+  "id": "q-009832",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "http"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué significa el código HTTP 502?",
+  "answers": [
+    {
+      "text": "Gone",
+      "correct": false
+    },
+    {
+      "text": "OK",
+      "correct": false
+    },
+    {
+      "text": "Bad Gateway",
+      "correct": true
+    },
+    {
+      "text": "I’m a teapot",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 502 corresponde a Bad Gateway.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "http",
+    "codigos",
+    "502"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008003",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año se produjo la caída del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "1815",
+      "correct": false
+    },
+    {
+      "text": "1571",
+      "correct": false
+    },
+    {
+      "text": "1789",
+      "correct": false
+    },
+    {
+      "text": "1989",
+      "correct": true
+    }
+  ],
+  "explanation": "La caída del Muro de Berlín se produjo en 1989.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas",
+    "caida-del-muro-de-berlin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

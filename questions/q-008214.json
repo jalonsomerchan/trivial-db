@@ -1,0 +1,42 @@
+{
+  "id": "q-008214",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos hechos ocurrió después que la edicto de Milán?",
+  "answers": [
+    {
+      "text": "publicación de las 95 tesis de Lutero",
+      "correct": true
+    },
+    {
+      "text": "erupción del Vesubio que destruyó Pompeya",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "batalla de Maratón",
+      "correct": false
+    }
+  ],
+  "explanation": "publicación de las 95 tesis de Lutero ocurrió después que la edicto de Milán.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

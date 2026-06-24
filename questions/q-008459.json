@@ -1,0 +1,43 @@
+{
+  "id": "q-008459",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "personajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre Castilla, Francia, India y Imperio otomano, con qué país o región se relaciona principalmente Napoleón Bonaparte?",
+  "answers": [
+    {
+      "text": "Francia",
+      "correct": true
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Imperio otomano",
+      "correct": false
+    },
+    {
+      "text": "Castilla",
+      "correct": false
+    }
+  ],
+  "explanation": "Napoleón Bonaparte se relaciona principalmente con Francia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "personajes",
+    "francia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

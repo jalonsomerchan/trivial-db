@@ -1,0 +1,43 @@
+{
+  "id": "q-005989",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué característica define a los insectos?",
+  "answers": [
+    {
+      "text": "incluyen cangrejos y langostas",
+      "correct": false
+    },
+    {
+      "text": "tienen plumas",
+      "correct": false
+    },
+    {
+      "text": "pasan parte de su vida en el agua y parte en tierra",
+      "correct": false
+    },
+    {
+      "text": "tienen seis patas",
+      "correct": true
+    }
+  ],
+  "explanation": "Los insectos se caracterizan porque tienen seis patas.",
+  "sources": [
+    {
+      "title": "OpenStax Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia",
+    "animales",
+    "insectos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-008404",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "acontecimientos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué contexto histórico se asocia la llegada del Apolo 11 a la Luna?",
+  "answers": [
+    {
+      "text": "Imperio romano",
+      "correct": false
+    },
+    {
+      "text": "Edad Media",
+      "correct": false
+    },
+    {
+      "text": "carrera espacial",
+      "correct": true
+    },
+    {
+      "text": "siglo XX",
+      "correct": false
+    }
+  ],
+  "explanation": "La llegada del Apolo 11 a la Luna se asocia con carrera espacial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "carrera-espacial",
+    "llegada-del-apolo-11-a-la-luna"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

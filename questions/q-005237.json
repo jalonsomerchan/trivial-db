@@ -1,0 +1,42 @@
+{
+  "id": "q-005237",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre Museo Británico, Hermitage, Museo del Louvre y Pergamonmuseum, qué museo se encuentra en Londres?",
+  "answers": [
+    {
+      "text": "Hermitage",
+      "correct": false
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": false
+    },
+    {
+      "text": "Museo Británico",
+      "correct": true
+    },
+    {
+      "text": "Pergamonmuseum",
+      "correct": false
+    }
+  ],
+  "explanation": "En Londres se encuentra el Museo Británico.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "londres"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

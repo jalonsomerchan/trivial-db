@@ -1,0 +1,43 @@
+{
+  "id": "q-006600",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Steve, Nathan Drake, Altaïr y Master Chief, qué personaje protagoniza o representa la saga “Uncharted”?",
+  "answers": [
+    {
+      "text": "Nathan Drake",
+      "correct": true
+    },
+    {
+      "text": "Steve",
+      "correct": false
+    },
+    {
+      "text": "Master Chief",
+      "correct": false
+    },
+    {
+      "text": "Altaïr",
+      "correct": false
+    }
+  ],
+  "explanation": "Nathan Drake es un personaje asociado a “Uncharted”.",
+  "sources": [
+    {
+      "title": "The Strong National Museum of Play",
+      "url": "https://www.museumofplay.org/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "uncharted",
+    "nathan-drake"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

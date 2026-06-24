@@ -1,0 +1,43 @@
+{
+  "id": "q-007039",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente el plato curry verde?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": false
+    },
+    {
+      "text": "Tailandia",
+      "correct": true
+    }
+  ],
+  "explanation": "El curry verde se asocia tradicionalmente con Tailandia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "curry-verde",
+    "tailandia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

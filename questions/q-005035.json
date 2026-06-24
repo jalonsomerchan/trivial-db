@@ -1,0 +1,43 @@
+{
+  "id": "q-005035",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué ciudad se encuentra el Museo Británico?",
+  "answers": [
+    {
+      "text": "Múnich",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "San Petersburgo",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": true
+    }
+  ],
+  "explanation": "El Museo Británico se encuentra en Londres.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "museo-britanico",
+    "londres"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

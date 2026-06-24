@@ -1,0 +1,42 @@
+{
+  "id": "q-009092",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es 138 - 51?",
+  "answers": [
+    {
+      "text": "89",
+      "correct": false
+    },
+    {
+      "text": "87",
+      "correct": true
+    },
+    {
+      "text": "85",
+      "correct": false
+    },
+    {
+      "text": "97",
+      "correct": false
+    }
+  ],
+  "explanation": "La resta 138 - 51 da 87.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "resta",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009773",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "css"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué controla principalmente la propiedad CSS visibility?",
+  "answers": [
+    {
+      "text": "añade sombra a una caja",
+      "correct": false
+    },
+    {
+      "text": "alinea elementos en el eje principal",
+      "correct": false
+    },
+    {
+      "text": "controla la visibilidad sin quitar el espacio",
+      "correct": true
+    },
+    {
+      "text": "define columnas de una cuadrícula",
+      "correct": false
+    }
+  ],
+  "explanation": "La propiedad visibility controla la visibilidad sin quitar el espacio.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "visibility"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

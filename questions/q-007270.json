@@ -1,0 +1,43 @@
+{
+  "id": "q-007270",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre estirar una masa en capas finas, transformar alimentos por acción de microorganismos, cubrir con una capa brillante y cocinar por calor seco directo o indirecto, qué significa glasear en cocina?",
+  "answers": [
+    {
+      "text": "estirar una masa en capas finas",
+      "correct": false
+    },
+    {
+      "text": "cubrir con una capa brillante",
+      "correct": true
+    },
+    {
+      "text": "cocinar por calor seco directo o indirecto",
+      "correct": false
+    },
+    {
+      "text": "transformar alimentos por acción de microorganismos",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, glasear significa cubrir con una capa brillante.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Food",
+      "url": "https://www.britannica.com/topic/food"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "tecnicas",
+    "glasear"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-006602",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Entre Steven Spielberg, Andrew Stanton, Quentin Tarantino y Hayao Miyazaki, quién dirigió la película “Wall·E”?",
+  "answers": [
+    {
+      "text": "Quentin Tarantino",
+      "correct": false
+    },
+    {
+      "text": "Andrew Stanton",
+      "correct": true
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Hayao Miyazaki",
+      "correct": false
+    }
+  ],
+  "explanation": "“Wall·E” fue dirigida por Andrew Stanton.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "wall-e",
+    "andrew-stanton"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

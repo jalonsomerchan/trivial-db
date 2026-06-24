@@ -1,0 +1,43 @@
+{
+  "id": "q-008984",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "lexico"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué palabra tiene significado opuesto a “responder”?",
+  "answers": [
+    {
+      "text": "subir",
+      "correct": false
+    },
+    {
+      "text": "permitir",
+      "correct": false
+    },
+    {
+      "text": "fuerte",
+      "correct": false
+    },
+    {
+      "text": "preguntar",
+      "correct": true
+    }
+  ],
+  "explanation": "“preguntar” y “responder” tienen significados opuestos.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "antonimos",
+    "preguntar",
+    "responder"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-005334",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué museo se encuentra en Ámsterdam?",
+  "answers": [
+    {
+      "text": "Galería Borghese",
+      "correct": false
+    },
+    {
+      "text": "Metropolitan Museum of Art",
+      "correct": false
+    },
+    {
+      "text": "Rijksmuseum",
+      "correct": true
+    },
+    {
+      "text": "Tate Modern",
+      "correct": false
+    }
+  ],
+  "explanation": "En Ámsterdam se encuentra el Rijksmuseum.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "amsterdam"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

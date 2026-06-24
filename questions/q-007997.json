@@ -1,0 +1,43 @@
+{
+  "id": "q-007997",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Uruguay?",
+  "answers": [
+    {
+      "text": "croata",
+      "correct": false
+    },
+    {
+      "text": "shona",
+      "correct": false
+    },
+    {
+      "text": "azerbaiyano",
+      "correct": false
+    },
+    {
+      "text": "español",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Uruguay figura el español.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "uruguay"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

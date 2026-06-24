@@ -1,0 +1,43 @@
+{
+  "id": "q-007964",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "idiomas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué idioma aparece como oficial o principal en Kirguizistán?",
+  "answers": [
+    {
+      "text": "kirguís",
+      "correct": true
+    },
+    {
+      "text": "malayo",
+      "correct": false
+    },
+    {
+      "text": "ndebele septentrional",
+      "correct": false
+    },
+    {
+      "text": "esloveno",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre los idiomas registrados para Kirguizistán figura el kirguís.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "idiomas",
+    "kirguizistan"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

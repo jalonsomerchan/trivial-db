@@ -1,0 +1,43 @@
+{
+  "id": "q-006933",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿Entre fantasía, bélica, acción y drama, a qué género se asocia principalmente “Apocalypse Now”?",
+  "answers": [
+    {
+      "text": "bélica",
+      "correct": true
+    },
+    {
+      "text": "drama",
+      "correct": false
+    },
+    {
+      "text": "fantasía",
+      "correct": false
+    },
+    {
+      "text": "acción",
+      "correct": false
+    }
+  ],
+  "explanation": "“Apocalypse Now” se asocia principalmente con bélica.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "apocalypse-now",
+    "belica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

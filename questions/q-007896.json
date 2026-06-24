@@ -1,0 +1,43 @@
+{
+  "id": "q-007896",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "subregiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué subregión se sitúa Guinea?",
+  "answers": [
+    {
+      "text": "Eastern Africa",
+      "correct": false
+    },
+    {
+      "text": "Northern Africa",
+      "correct": false
+    },
+    {
+      "text": "Western Africa",
+      "correct": true
+    },
+    {
+      "text": "Melanesia",
+      "correct": false
+    }
+  ],
+  "explanation": "Guinea pertenece a la subregión Western Africa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "subregiones",
+    "guinea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

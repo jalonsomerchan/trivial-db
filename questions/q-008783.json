@@ -1,0 +1,42 @@
+{
+  "id": "q-008783",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "verbos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre yo había cantado, yo cantaría, yo cantaba y yo hube cantado, qué forma verbal corresponde a pretérito imperfecto?",
+  "answers": [
+    {
+      "text": "yo hube cantado",
+      "correct": false
+    },
+    {
+      "text": "yo cantaría",
+      "correct": false
+    },
+    {
+      "text": "yo había cantado",
+      "correct": false
+    },
+    {
+      "text": "yo cantaba",
+      "correct": true
+    }
+  ],
+  "explanation": "La forma “yo cantaba” corresponde a pretérito imperfecto.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "verbos",
+    "preterito-imperfecto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-009910",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "html"
+  ],
+  "difficulty": "medium",
+  "question": "¿Para qué se usa principalmente la etiqueta HTML <main>?",
+  "answers": [
+    {
+      "text": "crear un formulario",
+      "correct": false
+    },
+    {
+      "text": "marcar el contenido principal",
+      "correct": true
+    },
+    {
+      "text": "incluir estilos CSS",
+      "correct": false
+    },
+    {
+      "text": "crear un campo de entrada",
+      "correct": false
+    }
+  ],
+  "explanation": "En HTML, <main> sirve para marcar el contenido principal.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "html",
+    "main"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

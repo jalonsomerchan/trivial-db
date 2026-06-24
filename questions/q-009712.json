@@ -1,0 +1,42 @@
+{
+  "id": "q-009712",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "javascript"
+  ],
+  "difficulty": "hard",
+  "question": "¿Entre comprueba si algún elemento cumple una condición, crea un array con elementos que cumplen una condición, elimina el primer elemento de un array y elimina el último elemento de un array, qué hace principalmente el método JavaScript shift()?",
+  "answers": [
+    {
+      "text": "elimina el primer elemento de un array",
+      "correct": true
+    },
+    {
+      "text": "crea un array con elementos que cumplen una condición",
+      "correct": false
+    },
+    {
+      "text": "elimina el último elemento de un array",
+      "correct": false
+    },
+    {
+      "text": "comprueba si algún elemento cumple una condición",
+      "correct": false
+    }
+  ],
+  "explanation": "En JavaScript, shift() elimina el primer elemento de un array.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "javascript",
+    "shift"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

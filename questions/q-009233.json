@@ -1,0 +1,42 @@
+{
+  "id": "q-009233",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "divisibilidad"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el mínimo común múltiplo de 44 y 63?",
+  "answers": [
+    {
+      "text": "2816",
+      "correct": false
+    },
+    {
+      "text": "2772",
+      "correct": true
+    },
+    {
+      "text": "63",
+      "correct": false
+    },
+    {
+      "text": "2709",
+      "correct": false
+    }
+  ],
+  "explanation": "El mínimo común múltiplo de 44 y 63 es 2772.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "mcm",
+    "divisibilidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

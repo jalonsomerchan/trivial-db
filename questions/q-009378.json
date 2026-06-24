@@ -1,0 +1,42 @@
+{
+  "id": "q-009378",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué resultado da calcular el 12% de 125?",
+  "answers": [
+    {
+      "text": "25",
+      "correct": false
+    },
+    {
+      "text": "20",
+      "correct": false
+    },
+    {
+      "text": "10",
+      "correct": false
+    },
+    {
+      "text": "15",
+      "correct": true
+    }
+  ],
+  "explanation": "El 12% de 125 se calcula como 125 × 12/100 = 15.",
+  "sources": [
+    {
+      "title": "OpenStax Algebra and Trigonometry 2e",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "aritmetica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

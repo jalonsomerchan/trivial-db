@@ -1,0 +1,44 @@
+{
+  "id": "q-007758",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales",
+    "latitud"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué capital está más al norte: Bishkek, Kathmandu, Warsaw o Saint-Pierre?",
+  "answers": [
+    {
+      "text": "Saint-Pierre",
+      "correct": false
+    },
+    {
+      "text": "Kathmandu",
+      "correct": false
+    },
+    {
+      "text": "Warsaw",
+      "correct": true
+    },
+    {
+      "text": "Bishkek",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre las opciones, Warsaw es la capital situada a mayor latitud norte.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "geografia",
+    "capitales",
+    "latitud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
