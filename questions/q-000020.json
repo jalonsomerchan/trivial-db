@@ -1,0 +1,43 @@
+{
+  "id": "q-000020",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué saga cinematográfica tiene personajes como Luke Skywalker y Darth Vader?",
+  "answers": [
+    {
+      "text": "Star Trek",
+      "correct": false
+    },
+    {
+      "text": "Star Wars",
+      "correct": true
+    },
+    {
+      "text": "El señor de los anillos",
+      "correct": false
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    }
+  ],
+  "explanation": "Luke Skywalker y Darth Vader son personajes de la saga Star Wars.",
+  "sources": [
+    {
+      "title": "StarWars.com - Databank",
+      "url": "https://www.starwars.com/databank"
+    }
+  ],
+  "tags": [
+    "star-wars",
+    "cine",
+    "ciencia-ficcion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
