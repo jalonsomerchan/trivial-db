@@ -1,0 +1,43 @@
+{
+  "id": "q-000032",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "rock"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué banda británica publicó el álbum Abbey Road?",
+  "answers": [
+    {
+      "text": "The Rolling Stones",
+      "correct": false
+    },
+    {
+      "text": "The Beatles",
+      "correct": true
+    },
+    {
+      "text": "Queen",
+      "correct": false
+    },
+    {
+      "text": "Pink Floyd",
+      "correct": false
+    }
+  ],
+  "explanation": "Abbey Road es un álbum de The Beatles.",
+  "sources": [
+    {
+      "title": "The Beatles - Abbey Road",
+      "url": "https://www.thebeatles.com/album/abbey-road"
+    }
+  ],
+  "tags": [
+    "the-beatles",
+    "abbey-road",
+    "rock"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
