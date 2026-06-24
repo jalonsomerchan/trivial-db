@@ -1,0 +1,25 @@
+{
+  "id": "q-000071",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": ["quimica"],
+  "difficulty": "easy",
+  "question": "¿Qué gas es necesario para la respiración humana?",
+  "answers": [
+    { "text": "Dióxido de carbono", "correct": false },
+    { "text": "Oxígeno", "correct": true },
+    { "text": "Nitrógeno puro", "correct": false },
+    { "text": "Hidrógeno", "correct": false }
+  ],
+  "explanation": "El oxígeno es esencial para la respiración celular humana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica - Oxygen",
+      "url": "https://www.britannica.com/science/oxygen"
+    }
+  ],
+  "tags": ["oxigeno", "respiracion", "quimica"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
