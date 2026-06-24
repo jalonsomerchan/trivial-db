@@ -1,0 +1,25 @@
+{
+  "id": "q-000078",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": ["ecosistemas"],
+  "difficulty": "medium",
+  "question": "¿Cómo se llama el ecosistema dominado por árboles en zonas tropicales muy lluviosas?",
+  "answers": [
+    { "text": "Tundra", "correct": false },
+    { "text": "Selva tropical", "correct": true },
+    { "text": "Taiga", "correct": false },
+    { "text": "Sabana seca", "correct": false }
+  ],
+  "explanation": "La selva tropical es un ecosistema cálido y húmedo con gran densidad de vegetación.",
+  "sources": [
+    {
+      "title": "NASA Earth Observatory - Tropical Rainforests",
+      "url": "https://earthobservatory.nasa.gov/biome/biorainforest.php"
+    }
+  ],
+  "tags": ["selva-tropical", "ecosistemas", "naturaleza"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
