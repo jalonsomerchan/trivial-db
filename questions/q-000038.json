@@ -1,0 +1,25 @@
+{
+  "id": "q-000038",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": ["astronomia"],
+  "difficulty": "medium",
+  "question": "¿Cuál es la estrella más cercana a la Tierra?",
+  "answers": [
+    { "text": "Sirio", "correct": false },
+    { "text": "El Sol", "correct": true },
+    { "text": "Próxima Centauri", "correct": false },
+    { "text": "Betelgeuse", "correct": false }
+  ],
+  "explanation": "El Sol es la estrella más cercana a la Tierra.",
+  "sources": [
+    {
+      "title": "NASA Space Place - The Sun",
+      "url": "https://spaceplace.nasa.gov/sun-compare/en/"
+    }
+  ],
+  "tags": ["sol", "estrellas", "astronomia"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
