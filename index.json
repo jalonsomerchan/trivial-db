@@ -10,5 +10,13 @@
   {
     "id": "q-000003",
     "question": "¿Cuál es la capital de Australia?"
+  },
+  {
+    "id": "q-000004",
+    "question": "¿En qué año llegó el ser humano a la Luna por primera vez?"
+  },
+  {
+    "id": "q-000005",
+    "question": "¿Qué elemento químico tiene el símbolo Au?"
   }
 ]
