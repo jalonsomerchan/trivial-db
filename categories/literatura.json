@@ -1,0 +1,23 @@
+{
+  "id": "literatura",
+  "name": "Literatura",
+  "questions": [
+    "q-000002"
+  ],
+  "subcategories": [
+    {
+      "id": "literatura-espanola",
+      "name": "Literatura Espanola",
+      "questions": [
+        "q-000002"
+      ]
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "easy": 1,
+    "medium": 0,
+    "hard": 0
+  },
+  "updated_at": "2026-06-24"
+}
