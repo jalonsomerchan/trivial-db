@@ -142,5 +142,9 @@
   {
     "id": "q-000041",
     "question": "¿Cuántos jugadores de un equipo de baloncesto están en pista durante el juego?"
+  },
+  {
+    "id": "q-000042",
+    "question": "¿En qué serie aparece el personaje Homer Simpson?"
   }
 ]
