@@ -1,0 +1,25 @@
+{
+  "id": "q-000082",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": ["astronomia"],
+  "difficulty": "medium",
+  "question": "¿Qué planeta es conocido como el planeta rojo?",
+  "answers": [
+    { "text": "Venus", "correct": false },
+    { "text": "Marte", "correct": true },
+    { "text": "Mercurio", "correct": false },
+    { "text": "Urano", "correct": false }
+  ],
+  "explanation": "Marte es conocido como el planeta rojo por su aspecto rojizo.",
+  "sources": [
+    {
+      "title": "NASA Science - Mars",
+      "url": "https://science.nasa.gov/mars/"
+    }
+  ],
+  "tags": ["marte", "planeta-rojo", "astronomia"],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
