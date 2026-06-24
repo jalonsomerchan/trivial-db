@@ -30,5 +30,13 @@
   {
     "id": "q-000008",
     "question": "¿Cuál es la capital de Italia?"
+  },
+  {
+    "id": "q-000009",
+    "question": "¿Qué órgano del cuerpo humano bombea la sangre?"
+  },
+  {
+    "id": "q-000010",
+    "question": "¿Cuál es el océano más grande de la Tierra?"
   }
 ]
