@@ -1,0 +1,43 @@
+{
+  "id": "q-003263",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "farmacologia-basica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué receptor se asocia principalmente con acción de los triptanes en migraña?",
+  "answers": [
+    {
+      "text": "receptores 5-HT1B/1D",
+      "correct": true
+    },
+    {
+      "text": "receptor H3",
+      "correct": false
+    },
+    {
+      "text": "receptor tirosina quinasa de insulina",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    }
+  ],
+  "explanation": "Acción de los triptanes en migraña se asocia principalmente con receptores 5-HT1B/1D.",
+  "sources": [
+    {
+      "title": "Wikipedia - Receptor celular",
+      "url": "https://es.wikipedia.org/wiki/receptores"
+    }
+  ],
+  "tags": [
+    "salud",
+    "farmacologia",
+    "receptores-5-ht1b-1d"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

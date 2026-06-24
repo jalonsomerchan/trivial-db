@@ -1,0 +1,43 @@
+{
+  "id": "q-003983",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "botanica-sistematica"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué familia botánica pertenece cebada?",
+  "answers": [
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Vitaceae",
+      "correct": false
+    },
+    {
+      "text": "Poaceae",
+      "correct": true
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "Cebada pertenece a la familia Poaceae.",
+  "sources": [
+    {
+      "title": "Wikipedia - Familia (biología)",
+      "url": "https://es.wikipedia.org/wiki/familia_bot%C3%A1nica"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "botanica",
+    "poaceae"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

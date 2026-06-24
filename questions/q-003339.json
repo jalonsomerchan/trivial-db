@@ -1,0 +1,43 @@
+{
+  "id": "q-003339",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cereales-y-masas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué base farinácea o cereal se asocia de forma característica con risotto?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "arborio, carnaroli o vialone nano",
+      "correct": true
+    },
+    {
+      "text": "patata y harina",
+      "correct": false
+    },
+    {
+      "text": "chufa",
+      "correct": false
+    }
+  ],
+  "explanation": "Risotto se asocia característicamente con arborio, carnaroli o vialone nano.",
+  "sources": [
+    {
+      "title": "Wikipedia - risotto",
+      "url": "https://es.wikipedia.org/wiki/risotto"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereales",
+    "risotto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

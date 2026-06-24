@@ -1,0 +1,43 @@
+{
+  "id": "q-003920",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentacion"
+  ],
+  "difficulty": "hard",
+  "question": "En organología orquestal, ¿cómo se clasifica normalmente el trompeta?",
+  "answers": [
+    {
+      "text": "viento madera sin lengüeta",
+      "correct": false
+    },
+    {
+      "text": "viento metal",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "cuerda pinzada eléctrica",
+      "correct": false
+    }
+  ],
+  "explanation": "El trompeta se clasifica normalmente como viento metal.",
+  "sources": [
+    {
+      "title": "Wikipedia - trompeta",
+      "url": "https://es.wikipedia.org/wiki/trompeta"
+    }
+  ],
+  "tags": [
+    "musica",
+    "instrumentos",
+    "trompeta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003642",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Alhambra de Granada?",
+  "answers": [
+    {
+      "text": "arquitectura del hierro",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "arquitectura nazarí",
+      "correct": true
+    },
+    {
+      "text": "estilo internacional",
+      "correct": false
+    }
+  ],
+  "explanation": "Alhambra de Granada se asocia con arquitectura nazarí.",
+  "sources": [
+    {
+      "title": "Wikipedia - Alhambra de Granada",
+      "url": "https://es.wikipedia.org/wiki/Alhambra_de_Granada"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "arquitectura-nazari"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

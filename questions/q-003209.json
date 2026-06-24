@@ -1,0 +1,43 @@
+{
+  "id": "q-003209",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "bioquimica-humana"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué enzima participa directamente en la digestión de triglicéridos en el intestino delgado?",
+  "answers": [
+    {
+      "text": "amilasa salival",
+      "correct": false
+    },
+    {
+      "text": "topoisomerasa",
+      "correct": false
+    },
+    {
+      "text": "lipasa pancreática",
+      "correct": true
+    },
+    {
+      "text": "tripsina",
+      "correct": false
+    }
+  ],
+  "explanation": "La enzima asociada a la digestión de triglicéridos en el intestino delgado es lipasa pancreática.",
+  "sources": [
+    {
+      "title": "Wikipedia - Enzima",
+      "url": "https://es.wikipedia.org/wiki/enzimas"
+    }
+  ],
+  "tags": [
+    "salud",
+    "bioquimica",
+    "lipasa-pancreatica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

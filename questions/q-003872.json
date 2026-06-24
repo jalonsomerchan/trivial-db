@@ -1,0 +1,43 @@
+{
+  "id": "q-003872",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "opera-personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué ópera aparece el personaje Turandot?",
+  "answers": [
+    {
+      "text": "Salome",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Turandot",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "Turandot aparece en la ópera Turandot.",
+  "sources": [
+    {
+      "title": "Wikipedia - Turandot",
+      "url": "https://es.wikipedia.org/wiki/Turandot"
+    }
+  ],
+  "tags": [
+    "musica",
+    "opera",
+    "turandot"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

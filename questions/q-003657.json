@@ -1,0 +1,43 @@
+{
+  "id": "q-003657",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Memories of Murder?",
+  "answers": [
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": true
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Fernando Meirelles y Kátia Lund",
+      "correct": false
+    }
+  ],
+  "explanation": "Memories of Murder fue dirigida por Bong Joon-ho.",
+  "sources": [
+    {
+      "title": "Wikipedia - Memories of Murder",
+      "url": "https://es.wikipedia.org/wiki/Memories_of_Murder"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "bong-joon-ho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

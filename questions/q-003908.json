@@ -1,0 +1,43 @@
+{
+  "id": "q-003908",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-discografia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo grabó el álbum de jazz Speak No Evil?",
+  "answers": [
+    {
+      "text": "Stan Getz y João Gilberto",
+      "correct": false
+    },
+    {
+      "text": "Wayne Shorter",
+      "correct": true
+    },
+    {
+      "text": "Ornette Coleman",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    }
+  ],
+  "explanation": "Speak No Evil fue grabado por Wayne Shorter.",
+  "sources": [
+    {
+      "title": "Wikipedia - Speak No Evil",
+      "url": "https://es.wikipedia.org/wiki/Speak_No_Evil"
+    }
+  ],
+  "tags": [
+    "musica",
+    "jazz",
+    "wayne-shorter"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

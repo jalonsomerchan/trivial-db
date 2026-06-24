@@ -1,0 +1,43 @@
+{
+  "id": "q-003909",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-discografia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo grabó el álbum de jazz Idle Moments?",
+  "answers": [
+    {
+      "text": "Eric Dolphy",
+      "correct": false
+    },
+    {
+      "text": "Dave Brubeck Quartet",
+      "correct": false
+    },
+    {
+      "text": "Grant Green",
+      "correct": true
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    }
+  ],
+  "explanation": "Idle Moments fue grabado por Grant Green.",
+  "sources": [
+    {
+      "title": "Wikipedia - Idle Moments",
+      "url": "https://es.wikipedia.org/wiki/Idle_Moments"
+    }
+  ],
+  "tags": [
+    "musica",
+    "jazz",
+    "grant-green"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

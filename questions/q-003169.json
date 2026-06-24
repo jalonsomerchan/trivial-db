@@ -1,0 +1,43 @@
+{
+  "id": "q-003169",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas-avanzadas"
+  ],
+  "difficulty": "hard",
+  "question": "En informática, ¿qué significa o describe la sigla DNSSEC?",
+  "answers": [
+    {
+      "text": "Multi-Version Concurrency Control",
+      "correct": false
+    },
+    {
+      "text": "Domain Name System Security Extensions",
+      "correct": true
+    },
+    {
+      "text": "Cross-Origin Resource Sharing",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "DNSSEC se usa para referirse a Domain Name System Security Extensions.",
+  "sources": [
+    {
+      "title": "Wikipedia - DNSSEC",
+      "url": "https://es.wikipedia.org/wiki/DNSSEC"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "dnssec"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

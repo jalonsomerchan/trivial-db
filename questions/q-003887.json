@@ -1,0 +1,43 @@
+{
+  "id": "q-003887",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "opera-personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué ópera aparece el personaje Eugene Onegin?",
+  "answers": [
+    {
+      "text": "Peter Grimes",
+      "correct": false
+    },
+    {
+      "text": "Don Giovanni",
+      "correct": false
+    },
+    {
+      "text": "Eugene Onegin",
+      "correct": true
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "Eugene Onegin aparece en la ópera Eugene Onegin.",
+  "sources": [
+    {
+      "title": "Wikipedia - Eugene Onegin",
+      "url": "https://es.wikipedia.org/wiki/Eugene_Onegin"
+    }
+  ],
+  "tags": [
+    "musica",
+    "opera",
+    "eugene-onegin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

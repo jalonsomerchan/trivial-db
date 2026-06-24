@@ -1,0 +1,43 @@
+{
+  "id": "q-003889",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-discografia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo grabó el álbum de jazz A Love Supreme?",
+  "answers": [
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Stan Getz y João Gilberto",
+      "correct": false
+    },
+    {
+      "text": "John Coltrane",
+      "correct": true
+    }
+  ],
+  "explanation": "A Love Supreme fue grabado por John Coltrane.",
+  "sources": [
+    {
+      "title": "Wikipedia - A Love Supreme",
+      "url": "https://es.wikipedia.org/wiki/A_Love_Supreme"
+    }
+  ],
+  "tags": [
+    "musica",
+    "jazz",
+    "john-coltrane"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

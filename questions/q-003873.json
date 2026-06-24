@@ -1,0 +1,43 @@
+{
+  "id": "q-003873",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "opera-personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué ópera aparece el personaje Calaf?",
+  "answers": [
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Fidelio",
+      "correct": false
+    },
+    {
+      "text": "Billy Budd",
+      "correct": false
+    },
+    {
+      "text": "Turandot",
+      "correct": true
+    }
+  ],
+  "explanation": "Calaf aparece en la ópera Turandot.",
+  "sources": [
+    {
+      "title": "Wikipedia - Turandot",
+      "url": "https://es.wikipedia.org/wiki/Turandot"
+    }
+  ],
+  "tags": [
+    "musica",
+    "opera",
+    "calaf"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

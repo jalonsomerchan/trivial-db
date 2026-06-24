@@ -1,0 +1,43 @@
+{
+  "id": "q-003702",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “recreación sonora sincronizada en posproducción”?",
+  "answers": [
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "spin-off",
+      "correct": false
+    },
+    {
+      "text": "foley",
+      "correct": true
+    }
+  ],
+  "explanation": "El término audiovisual definido es foley.",
+  "sources": [
+    {
+      "title": "Wikipedia - foley",
+      "url": "https://es.wikipedia.org/wiki/foley"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "foley"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

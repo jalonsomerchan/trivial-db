@@ -1,0 +1,43 @@
+{
+  "id": "q-004048",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante ΔS ≥ 0 en un sistema aislado?",
+  "answers": [
+    {
+      "text": "ley de Gauss para el magnetismo",
+      "correct": false
+    },
+    {
+      "text": "ley de Hess",
+      "correct": false
+    },
+    {
+      "text": "segunda ley de la termodinámica",
+      "correct": true
+    },
+    {
+      "text": "principio de Aufbau",
+      "correct": false
+    }
+  ],
+  "explanation": "ΔS ≥ 0 en un sistema aislado representa segunda ley de la termodinámica.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "segunda-ley-de-la-termodinamica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

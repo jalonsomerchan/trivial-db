@@ -1,0 +1,43 @@
+{
+  "id": "q-003146",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "patrones-de-diseno"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué patrón de diseño se describe como “compartir objetos finos para reducir memoria”?",
+  "answers": [
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Facade",
+      "correct": false
+    },
+    {
+      "text": "Flyweight",
+      "correct": true
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "El patrón descrito es Flyweight.",
+  "sources": [
+    {
+      "title": "Wikipedia - Design Patterns",
+      "url": "https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "patrones-de-diseno",
+    "flyweight"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

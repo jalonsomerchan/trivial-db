@@ -1,0 +1,43 @@
+{
+  "id": "q-003415",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "dinastias"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué dinastía pertenece históricamente Qin Shi Huang?",
+  "answers": [
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "Borbón",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Qin",
+      "correct": true
+    }
+  ],
+  "explanation": "Qin Shi Huang pertenece a la dinastía Qin.",
+  "sources": [
+    {
+      "title": "Wikipedia - Qin Shi Huang",
+      "url": "https://es.wikipedia.org/wiki/Qin_Shi_Huang"
+    }
+  ],
+  "tags": [
+    "historia",
+    "dinastias",
+    "qin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

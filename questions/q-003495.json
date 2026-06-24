@@ -1,0 +1,43 @@
+{
+  "id": "q-003495",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Rayuela Oliveira?",
+  "answers": [
+    {
+      "text": "Luces de bohemia",
+      "correct": false
+    },
+    {
+      "text": "La peste",
+      "correct": false
+    },
+    {
+      "text": "Rayuela",
+      "correct": true
+    },
+    {
+      "text": "El juego de los abalorios",
+      "correct": false
+    }
+  ],
+  "explanation": "Rayuela Oliveira aparece en Rayuela.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rayuela",
+      "url": "https://es.wikipedia.org/wiki/Rayuela"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "rayuela-oliveira"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

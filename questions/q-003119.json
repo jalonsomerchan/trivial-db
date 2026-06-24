@@ -1,0 +1,43 @@
+{
+  "id": "q-003119",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "algoritmos-y-complejidad"
+  ],
+  "difficulty": "hard",
+  "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de recorrido BFS de un grafo?",
+  "answers": [
+    {
+      "text": "O(V + E)",
+      "correct": true
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "O(n + k)",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "La complejidad temporal típica de recorrido BFS de un grafo es O(V + E).",
+  "sources": [
+    {
+      "title": "Wikipedia - Análisis de algoritmos",
+      "url": "https://es.wikipedia.org/wiki/complejidad_computacional"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "algoritmos",
+    "complejidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

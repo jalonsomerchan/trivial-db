@@ -1,0 +1,43 @@
+{
+  "id": "q-003540",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autor escribió la novela El nombre de la rosa?",
+  "answers": [
+    {
+      "text": "Günter Grass",
+      "correct": false
+    },
+    {
+      "text": "Umberto Eco",
+      "correct": true
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    }
+  ],
+  "explanation": "El nombre de la rosa fue escrita por Umberto Eco.",
+  "sources": [
+    {
+      "title": "Wikipedia - El nombre de la rosa",
+      "url": "https://es.wikipedia.org/wiki/El_nombre_de_la_rosa"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "umberto-eco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

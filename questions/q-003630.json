@@ -1,0 +1,43 @@
+{
+  "id": "q-003630",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Catedral de Santiago de Compostela?",
+  "answers": [
+    {
+      "text": "románico",
+      "correct": true
+    },
+    {
+      "text": "arquitectura budista",
+      "correct": false
+    },
+    {
+      "text": "neoclasicismo",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "Catedral de Santiago de Compostela se asocia con románico.",
+  "sources": [
+    {
+      "title": "Wikipedia - Catedral de Santiago de Compostela",
+      "url": "https://es.wikipedia.org/wiki/Catedral_de_Santiago_de_Compostela"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "romanico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

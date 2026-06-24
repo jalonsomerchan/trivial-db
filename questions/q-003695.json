@@ -1,0 +1,43 @@
+{
+  "id": "q-003695",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película El secreto de sus ojos?",
+  "answers": [
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Juan José Campanella",
+      "correct": true
+    },
+    {
+      "text": "Park Chan-wook",
+      "correct": false
+    }
+  ],
+  "explanation": "El secreto de sus ojos fue dirigida por Juan José Campanella.",
+  "sources": [
+    {
+      "title": "Wikipedia - El secreto de sus ojos",
+      "url": "https://es.wikipedia.org/wiki/El_secreto_de_sus_ojos"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "juan-jose-campanella"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003383",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con el fin de la guerra de la Triple Alianza?",
+  "answers": [
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "Tratado de París de 1783",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Asunción",
+      "correct": true
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "Tratado de Asunción se asocia principalmente con el fin de la guerra de la Triple Alianza.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tratado de Asunción",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Asunci%C3%B3n"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "tratado-de-asuncion"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

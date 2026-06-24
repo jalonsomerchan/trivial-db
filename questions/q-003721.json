@@ -1,0 +1,43 @@
+{
+  "id": "q-003721",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “comedia física basada en golpes y persecuciones”?",
+  "answers": [
+    {
+      "text": "cinéma vérité",
+      "correct": false
+    },
+    {
+      "text": "slapstick",
+      "correct": true
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    }
+  ],
+  "explanation": "El término audiovisual definido es slapstick.",
+  "sources": [
+    {
+      "title": "Wikipedia - slapstick",
+      "url": "https://es.wikipedia.org/wiki/slapstick"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "slapstick"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

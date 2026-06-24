@@ -1,0 +1,43 @@
+{
+  "id": "q-003728",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie Better Call Saul?",
+  "answers": [
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Joss Whedon",
+      "correct": false
+    },
+    {
+      "text": "Vince Gilligan y Peter Gould",
+      "correct": true
+    }
+  ],
+  "explanation": "Better Call Saul fue creada o cocreada por Vince Gilligan y Peter Gould.",
+  "sources": [
+    {
+      "title": "Wikipedia - Better Call Saul",
+      "url": "https://es.wikipedia.org/wiki/Better_Call_Saul"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "better-call-saul"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

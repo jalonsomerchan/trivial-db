@@ -1,0 +1,43 @@
+{
+  "id": "q-003741",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie Deadwood?",
+  "answers": [
+    {
+      "text": "Mitchell Hurwitz",
+      "correct": false
+    },
+    {
+      "text": "David Milch",
+      "correct": true
+    },
+    {
+      "text": "Amy Sherman-Palladino",
+      "correct": false
+    },
+    {
+      "text": "Russell T Davies",
+      "correct": false
+    }
+  ],
+  "explanation": "Deadwood fue creada o cocreada por David Milch.",
+  "sources": [
+    {
+      "title": "Wikipedia - Deadwood",
+      "url": "https://es.wikipedia.org/wiki/Deadwood"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "deadwood"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

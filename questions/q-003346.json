@@ -1,0 +1,43 @@
+{
+  "id": "q-003346",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cereales-y-masas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué base farinácea o cereal se asocia de forma característica con polenta?",
+  "answers": [
+    {
+      "text": "trigo verde tostado",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "maíz",
+      "correct": true
+    },
+    {
+      "text": "trigo sarraceno",
+      "correct": false
+    }
+  ],
+  "explanation": "Polenta se asocia característicamente con maíz.",
+  "sources": [
+    {
+      "title": "Wikipedia - polenta",
+      "url": "https://es.wikipedia.org/wiki/polenta"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereales",
+    "polenta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

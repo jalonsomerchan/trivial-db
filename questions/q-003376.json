@@ -1,0 +1,43 @@
+{
+  "id": "q-003376",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con las guerras napoleónicas en Europa?",
+  "answers": [
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Congreso de Viena",
+      "correct": true
+    },
+    {
+      "text": "Tratado del Atlántico Norte",
+      "correct": false
+    }
+  ],
+  "explanation": "Congreso de Viena se asocia principalmente con las guerras napoleónicas en Europa.",
+  "sources": [
+    {
+      "title": "Wikipedia - Congreso de Viena",
+      "url": "https://es.wikipedia.org/wiki/Congreso_de_Viena"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "congreso-de-viena"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

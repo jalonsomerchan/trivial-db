@@ -1,0 +1,43 @@
+{
+  "id": "q-003353",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cereales-y-masas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué base farinácea o cereal se asocia de forma característica con soba?",
+  "answers": [
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "trigo sarraceno",
+      "correct": true
+    },
+    {
+      "text": "patata y harina",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "Soba se asocia característicamente con trigo sarraceno.",
+  "sources": [
+    {
+      "title": "Wikipedia - soba",
+      "url": "https://es.wikipedia.org/wiki/soba"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereales",
+    "soba"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

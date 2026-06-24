@@ -1,0 +1,43 @@
+{
+  "id": "q-003572",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente Guernica?",
+  "answers": [
+    {
+      "text": "Museo Reina Sofía",
+      "correct": true
+    },
+    {
+      "text": "Mauritshuis",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Kunsthaus Zürich",
+      "correct": false
+    }
+  ],
+  "explanation": "Guernica se conserva habitualmente en Museo Reina Sofía.",
+  "sources": [
+    {
+      "title": "Wikipedia - Guernica",
+      "url": "https://es.wikipedia.org/wiki/Guernica"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "guernica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003476",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Frédéric Moreau?",
+  "answers": [
+    {
+      "text": "La peste",
+      "correct": false
+    },
+    {
+      "text": "La educación sentimental",
+      "correct": true
+    },
+    {
+      "text": "Los miserables",
+      "correct": false
+    },
+    {
+      "text": "Cien años de soledad",
+      "correct": false
+    }
+  ],
+  "explanation": "Frédéric Moreau aparece en La educación sentimental.",
+  "sources": [
+    {
+      "title": "Wikipedia - La educación sentimental",
+      "url": "https://es.wikipedia.org/wiki/La_educaci%C3%B3n_sentimental"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "frederic-moreau"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003516",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "teoria-literaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto literario se define como “integración de elementos extraordinarios en un mundo narrativo cotidiano”?",
+  "answers": [
+    {
+      "text": "catarsis",
+      "correct": false
+    },
+    {
+      "text": "metaficción",
+      "correct": false
+    },
+    {
+      "text": "realismo mágico",
+      "correct": true
+    },
+    {
+      "text": "monólogo interior",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto literario definido es realismo mágico.",
+  "sources": [
+    {
+      "title": "Wikipedia - realismo mágico",
+      "url": "https://es.wikipedia.org/wiki/realismo_m%C3%A1gico"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "teoria-literaria",
+    "realismo-magico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

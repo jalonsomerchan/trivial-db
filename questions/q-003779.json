@@ -1,0 +1,43 @@
+{
+  "id": "q-003779",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo Cy Young Award?",
+  "answers": [
+    {
+      "text": "béisbol MLB, mejor lanzador",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "balonmano europeo",
+      "correct": false
+    },
+    {
+      "text": "campeón mundial de ciclismo",
+      "correct": false
+    }
+  ],
+  "explanation": "Cy Young Award se asocia con béisbol MLB, mejor lanzador.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cy Young Award",
+      "url": "https://es.wikipedia.org/wiki/Cy_Young_Award"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "cy-young-award"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

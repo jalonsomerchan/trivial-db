@@ -1,0 +1,43 @@
+{
+  "id": "q-003617",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “relieve con poca proyección respecto al fondo”?",
+  "answers": [
+    {
+      "text": "anamorfosis",
+      "correct": false
+    },
+    {
+      "text": "xilografía",
+      "correct": false
+    },
+    {
+      "text": "pastel",
+      "correct": false
+    },
+    {
+      "text": "bajorrelieve",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica definida es bajorrelieve.",
+  "sources": [
+    {
+      "title": "Wikipedia - bajorrelieve",
+      "url": "https://es.wikipedia.org/wiki/bajorrelieve"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "bajorrelieve"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

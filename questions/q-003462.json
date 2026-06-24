@@ -1,0 +1,43 @@
+{
+  "id": "q-003462",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué país o zona se asocia principalmente Revolución de los Jóvenes Turcos?",
+  "answers": [
+    {
+      "text": "Imperio otomano",
+      "correct": true
+    },
+    {
+      "text": "Egipto",
+      "correct": false
+    },
+    {
+      "text": "Australia",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "Revolución de los Jóvenes Turcos se asocia principalmente con Imperio otomano.",
+  "sources": [
+    {
+      "title": "Wikipedia - Revolución de los Jóvenes Turcos",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_los_J%C3%B3venes_Turcos"
+    }
+  ],
+  "tags": [
+    "historia",
+    "contemporanea",
+    "revolucion-de-los-jovenes-turcos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

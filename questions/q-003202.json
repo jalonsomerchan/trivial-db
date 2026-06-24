@@ -1,0 +1,43 @@
+{
+  "id": "q-003202",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "neuroanatomia"
+  ],
+  "difficulty": "hard",
+  "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano VIII?",
+  "answers": [
+    {
+      "text": "nervio vestibulococlear",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "nervio glosofaríngeo",
+      "correct": false
+    }
+  ],
+  "explanation": "El par craneal VIII corresponde al nervio vestibulococlear.",
+  "sources": [
+    {
+      "title": "Wikipedia - Nervio craneal",
+      "url": "https://es.wikipedia.org/wiki/pares_craneales"
+    }
+  ],
+  "tags": [
+    "salud",
+    "neuroanatomia",
+    "pares-craneales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

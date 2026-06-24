@@ -1,0 +1,43 @@
+{
+  "id": "q-003656",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Parásitos?",
+  "answers": [
+    {
+      "text": "Bong Joon-ho",
+      "correct": true
+    },
+    {
+      "text": "Pedro Almodóvar",
+      "correct": false
+    },
+    {
+      "text": "Claire Denis",
+      "correct": false
+    },
+    {
+      "text": "Paweł Pawlikowski",
+      "correct": false
+    }
+  ],
+  "explanation": "Parásitos fue dirigida por Bong Joon-ho.",
+  "sources": [
+    {
+      "title": "Wikipedia - Parásitos",
+      "url": "https://es.wikipedia.org/wiki/Par%C3%A1sitos"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "bong-joon-ho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004050",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante χ²?",
+  "answers": [
+    {
+      "text": "proceso adiabático reversible",
+      "correct": false
+    },
+    {
+      "text": "estadístico chi-cuadrado",
+      "correct": true
+    },
+    {
+      "text": "energía libre de Gibbs",
+      "correct": false
+    },
+    {
+      "text": "ley de Hooke",
+      "correct": false
+    }
+  ],
+  "explanation": "χ² representa estadístico chi-cuadrado.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "estadistico-chi-cuadrado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

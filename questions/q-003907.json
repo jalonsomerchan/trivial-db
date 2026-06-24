@@ -1,0 +1,43 @@
+{
+  "id": "q-003907",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-discografia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo grabó el álbum de jazz Maiden Voyage?",
+  "answers": [
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Herbie Hancock",
+      "correct": true
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    }
+  ],
+  "explanation": "Maiden Voyage fue grabado por Herbie Hancock.",
+  "sources": [
+    {
+      "title": "Wikipedia - Maiden Voyage",
+      "url": "https://es.wikipedia.org/wiki/Maiden_Voyage"
+    }
+  ],
+  "tags": [
+    "musica",
+    "jazz",
+    "herbie-hancock"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

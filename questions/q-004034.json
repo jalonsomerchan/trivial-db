@@ -1,0 +1,43 @@
+{
+  "id": "q-004034",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-cuantitativa"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico o ambiental se define como “CO₂ liberado por metabolismo de la comunidad”?",
+  "answers": [
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "respiración ecosistémica",
+      "correct": true
+    },
+    {
+      "text": "índice de Shannon",
+      "correct": false
+    },
+    {
+      "text": "albedo",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es respiración ecosistémica.",
+  "sources": [
+    {
+      "title": "Wikipedia - respiración ecosistémica",
+      "url": "https://es.wikipedia.org/wiki/respiraci%C3%B3n_ecosist%C3%A9mica"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "ecologia",
+    "respiracion-ecosistemica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

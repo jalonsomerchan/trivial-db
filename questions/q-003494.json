@@ -1,0 +1,43 @@
+{
+  "id": "q-003494",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Juan Preciado?",
+  "answers": [
+    {
+      "text": "El castillo",
+      "correct": false
+    },
+    {
+      "text": "La montaña mágica",
+      "correct": false
+    },
+    {
+      "text": "Pedro Páramo",
+      "correct": true
+    },
+    {
+      "text": "Beloved",
+      "correct": false
+    }
+  ],
+  "explanation": "Juan Preciado aparece en Pedro Páramo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Pedro Páramo",
+      "url": "https://es.wikipedia.org/wiki/Pedro_P%C3%A1ramo"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "juan-preciado"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

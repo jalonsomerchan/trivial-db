@@ -1,0 +1,43 @@
+{
+  "id": "q-003206",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "neuroanatomia"
+  ],
+  "difficulty": "hard",
+  "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano XII?",
+  "answers": [
+    {
+      "text": "nervio radial",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "nervio hipogloso",
+      "correct": true
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "El par craneal XII corresponde al nervio hipogloso.",
+  "sources": [
+    {
+      "title": "Wikipedia - Nervio craneal",
+      "url": "https://es.wikipedia.org/wiki/pares_craneales"
+    }
+  ],
+  "tags": [
+    "salud",
+    "neuroanatomia",
+    "pares-craneales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

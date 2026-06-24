@@ -1,0 +1,43 @@
+{
+  "id": "q-003762",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo Calcutta Cup?",
+  "answers": [
+    {
+      "text": "rugby union Inglaterra-Escocia",
+      "correct": true
+    },
+    {
+      "text": "balonmano europeo",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "Calcutta Cup se asocia con rugby union Inglaterra-Escocia.",
+  "sources": [
+    {
+      "title": "Wikipedia - Calcutta Cup",
+      "url": "https://es.wikipedia.org/wiki/Calcutta_Cup"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "calcutta-cup"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

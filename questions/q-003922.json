@@ -1,0 +1,43 @@
+{
+  "id": "q-003922",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentacion"
+  ],
+  "difficulty": "hard",
+  "question": "En organología orquestal, ¿cómo se clasifica normalmente el tuba?",
+  "answers": [
+    {
+      "text": "percusión de láminas metálicas",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "viento metal",
+      "correct": true
+    }
+  ],
+  "explanation": "El tuba se clasifica normalmente como viento metal.",
+  "sources": [
+    {
+      "title": "Wikipedia - tuba",
+      "url": "https://es.wikipedia.org/wiki/tuba"
+    }
+  ],
+  "tags": [
+    "musica",
+    "instrumentos",
+    "tuba"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

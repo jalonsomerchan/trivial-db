@@ -1,0 +1,43 @@
+{
+  "id": "q-003672",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Ciudad de Dios?",
+  "answers": [
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Fernando Meirelles y Kátia Lund",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "Ciudad de Dios fue dirigida por Fernando Meirelles y Kátia Lund.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ciudad de Dios",
+      "url": "https://es.wikipedia.org/wiki/Ciudad_de_Dios"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "fernando-meirelles-y-katia-lund"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

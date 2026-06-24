@@ -1,0 +1,43 @@
+{
+  "id": "q-003313",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "bebidas-destiladas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la materia prima característica de baijiu?",
+  "answers": [
+    {
+      "text": "sorgo u otros cereales",
+      "correct": true
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "Baijiu se elabora tradicionalmente a partir de sorgo u otros cereales.",
+  "sources": [
+    {
+      "title": "Wikipedia - baijiu",
+      "url": "https://es.wikipedia.org/wiki/baijiu"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bebidas",
+    "baijiu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

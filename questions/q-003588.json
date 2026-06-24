@@ -1,0 +1,43 @@
+{
+  "id": "q-003588",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente El caminante sobre el mar de nubes?",
+  "answers": [
+    {
+      "text": "Museo del Prado",
+      "correct": false
+    },
+    {
+      "text": "Kunsthalle de Hamburgo",
+      "correct": true
+    },
+    {
+      "text": "Museos Vaticanos",
+      "correct": false
+    },
+    {
+      "text": "Kunsthistorisches Museum de Viena",
+      "correct": false
+    }
+  ],
+  "explanation": "El caminante sobre el mar de nubes se conserva habitualmente en Kunsthalle de Hamburgo.",
+  "sources": [
+    {
+      "title": "Wikipedia - El caminante sobre el mar de nubes",
+      "url": "https://es.wikipedia.org/wiki/El_caminante_sobre_el_mar_de_nubes"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "el-caminante-sobre-el-mar-de-nubes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

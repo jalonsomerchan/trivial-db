@@ -1,0 +1,43 @@
+{
+  "id": "q-003538",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autor escribió la novela El tambor de hojalata?",
+  "answers": [
+    {
+      "text": "Günter Grass",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Milan Kundera",
+      "correct": false
+    }
+  ],
+  "explanation": "El tambor de hojalata fue escrita por Günter Grass.",
+  "sources": [
+    {
+      "title": "Wikipedia - El tambor de hojalata",
+      "url": "https://es.wikipedia.org/wiki/El_tambor_de_hojalata"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "gunter-grass"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003442",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “controversia sobre imágenes religiosas”?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "iconoclasia bizantina",
+      "correct": true
+    },
+    {
+      "text": "sátrapa",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es iconoclasia bizantina.",
+  "sources": [
+    {
+      "title": "Wikipedia - iconoclasia bizantina",
+      "url": "https://es.wikipedia.org/wiki/iconoclasia_bizantina"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "iconoclasia-bizantina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

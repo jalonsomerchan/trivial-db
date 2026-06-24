@@ -1,0 +1,43 @@
+{
+  "id": "q-003916",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentacion"
+  ],
+  "difficulty": "hard",
+  "question": "En organología orquestal, ¿cómo se clasifica normalmente el saxofón?",
+  "answers": [
+    {
+      "text": "viento madera de lengüeta simple",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "teclado de percusión",
+      "correct": false
+    },
+    {
+      "text": "percusión de láminas",
+      "correct": false
+    }
+  ],
+  "explanation": "El saxofón se clasifica normalmente como viento madera de lengüeta simple.",
+  "sources": [
+    {
+      "title": "Wikipedia - saxofón",
+      "url": "https://es.wikipedia.org/wiki/saxof%C3%B3n"
+    }
+  ],
+  "tags": [
+    "musica",
+    "instrumentos",
+    "saxofon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

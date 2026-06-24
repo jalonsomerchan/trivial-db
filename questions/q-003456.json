@@ -1,0 +1,43 @@
+{
+  "id": "q-003456",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “liga comercial de ciudades del norte europeo”?",
+  "answers": [
+    {
+      "text": "hanseática",
+      "correct": true
+    },
+    {
+      "text": "mayorazgo",
+      "correct": false
+    },
+    {
+      "text": "dhimmi",
+      "correct": false
+    },
+    {
+      "text": "foederati",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es hanseática.",
+  "sources": [
+    {
+      "title": "Wikipedia - hanseática",
+      "url": "https://es.wikipedia.org/wiki/hanse%C3%A1tica"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "hanseatica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

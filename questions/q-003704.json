@@ -1,0 +1,43 @@
+{
+  "id": "q-003704",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “sonido que no pertenece al mundo narrativo”?",
+  "answers": [
+    {
+      "text": "film noir",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "sonido extradiegético",
+      "correct": true
+    }
+  ],
+  "explanation": "El término audiovisual definido es sonido extradiegético.",
+  "sources": [
+    {
+      "title": "Wikipedia - sonido extradiegético",
+      "url": "https://es.wikipedia.org/wiki/sonido_extradieg%C3%A9tico"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "sonido-extradiegetico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

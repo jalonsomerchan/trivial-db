@@ -1,0 +1,43 @@
+{
+  "id": "q-003478",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Fabrizio del Dongo?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "El juego de los abalorios",
+      "correct": false
+    },
+    {
+      "text": "La peste",
+      "correct": false
+    },
+    {
+      "text": "La cartuja de Parma",
+      "correct": true
+    }
+  ],
+  "explanation": "Fabrizio del Dongo aparece en La cartuja de Parma.",
+  "sources": [
+    {
+      "title": "Wikipedia - La cartuja de Parma",
+      "url": "https://es.wikipedia.org/wiki/La_cartuja_de_Parma"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "fabrizio-del-dongo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

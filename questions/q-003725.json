@@ -1,0 +1,43 @@
+{
+  "id": "q-003725",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie The Sopranos?",
+  "answers": [
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Ryan Murphy",
+      "correct": false
+    },
+    {
+      "text": "Russell T Davies",
+      "correct": false
+    },
+    {
+      "text": "David Chase",
+      "correct": true
+    }
+  ],
+  "explanation": "The Sopranos fue creada o cocreada por David Chase.",
+  "sources": [
+    {
+      "title": "Wikipedia - The Sopranos",
+      "url": "https://es.wikipedia.org/wiki/The_Sopranos"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "the-sopranos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003364",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tipo o estilo describe mejor al queso Brie de Meaux?",
+  "answers": [
+    {
+      "text": "queso azul",
+      "correct": false
+    },
+    {
+      "text": "pasta blanda de corteza enmohecida",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "Brie de Meaux se clasifica habitualmente como pasta blanda de corteza enmohecida.",
+  "sources": [
+    {
+      "title": "Wikipedia - Brie de Meaux",
+      "url": "https://es.wikipedia.org/wiki/Brie_de_Meaux"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "quesos",
+    "brie-de-meaux"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

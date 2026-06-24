@@ -1,0 +1,43 @@
+{
+  "id": "q-003844",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "juegos-olimpicos-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno de 2010?",
+  "answers": [
+    {
+      "text": "Seúl",
+      "correct": false
+    },
+    {
+      "text": "Roma 1956",
+      "correct": false
+    },
+    {
+      "text": "Vancouver",
+      "correct": true
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    }
+  ],
+  "explanation": "Los Juegos Olímpicos de Invierno de 2010 se celebraron en Vancouver.",
+  "sources": [
+    {
+      "title": "Wikipedia - Juegos Olímpicos",
+      "url": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Invierno_de_2010"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "juegos-olimpicos",
+    "vancouver"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

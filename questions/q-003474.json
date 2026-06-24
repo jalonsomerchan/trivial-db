@@ -1,0 +1,43 @@
+{
+  "id": "q-003474",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Andréi Bolkonski?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Pedro Páramo",
+      "correct": false
+    },
+    {
+      "text": "Guerra y paz",
+      "correct": true
+    },
+    {
+      "text": "El amor en los tiempos del cólera",
+      "correct": false
+    }
+  ],
+  "explanation": "Andréi Bolkonski aparece en Guerra y paz.",
+  "sources": [
+    {
+      "title": "Wikipedia - Guerra y paz",
+      "url": "https://es.wikipedia.org/wiki/Guerra_y_paz"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "andrei-bolkonski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

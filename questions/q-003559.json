@@ -1,0 +1,43 @@
+{
+  "id": "q-003559",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autor escribió la novela El astillero?",
+  "answers": [
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Juan Carlos Onetti",
+      "correct": true
+    },
+    {
+      "text": "William Faulkner",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "El astillero fue escrita por Juan Carlos Onetti.",
+  "sources": [
+    {
+      "title": "Wikipedia - El astillero",
+      "url": "https://es.wikipedia.org/wiki/El_astillero"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "juan-carlos-onetti"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

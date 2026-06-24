@@ -1,0 +1,43 @@
+{
+  "id": "q-003769",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo Balón de Oro?",
+  "answers": [
+    {
+      "text": "golf por equipos Europa-Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "fútbol",
+      "correct": true
+    },
+    {
+      "text": "Eurocopa de fútbol",
+      "correct": false
+    }
+  ],
+  "explanation": "Balón de Oro se asocia con fútbol.",
+  "sources": [
+    {
+      "title": "Wikipedia - Balón de Oro",
+      "url": "https://es.wikipedia.org/wiki/Bal%C3%B3n_de_Oro"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "balon-de-oro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

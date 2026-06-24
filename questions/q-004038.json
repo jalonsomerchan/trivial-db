@@ -1,0 +1,43 @@
+{
+  "id": "q-004038",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-cuantitativa"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico o ambiental se define como “fracción de radiación reflejada por una superficie”?",
+  "answers": [
+    {
+      "text": "índice de Sørensen",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "albedo",
+      "correct": true
+    },
+    {
+      "text": "producción primaria neta",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es albedo.",
+  "sources": [
+    {
+      "title": "Wikipedia - albedo",
+      "url": "https://es.wikipedia.org/wiki/albedo"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "ecologia",
+    "albedo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

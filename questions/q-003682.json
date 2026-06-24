@@ -1,0 +1,43 @@
+{
+  "id": "q-003682",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película La pianista?",
+  "answers": [
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Jane Campion",
+      "correct": false
+    },
+    {
+      "text": "Michael Haneke",
+      "correct": true
+    }
+  ],
+  "explanation": "La pianista fue dirigida por Michael Haneke.",
+  "sources": [
+    {
+      "title": "Wikipedia - La pianista",
+      "url": "https://es.wikipedia.org/wiki/La_pianista"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "michael-haneke"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

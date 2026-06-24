@@ -1,0 +1,43 @@
+{
+  "id": "q-003371",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la guerra de Crimea?",
+  "answers": [
+    {
+      "text": "Tratado de Versalles",
+      "correct": false
+    },
+    {
+      "text": "Tratado de París de 1856",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    }
+  ],
+  "explanation": "Tratado de París de 1856 se asocia principalmente con la guerra de Crimea.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tratado de París de 1856",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Par%C3%ADs_de_1856"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "tratado-de-paris-de-1856"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

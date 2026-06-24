@@ -1,0 +1,43 @@
+{
+  "id": "q-003507",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Humbert Humbert?",
+  "answers": [
+    {
+      "text": "El gran Gatsby",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Lolita",
+      "correct": true
+    },
+    {
+      "text": "Papá Goriot",
+      "correct": false
+    }
+  ],
+  "explanation": "Humbert Humbert aparece en Lolita.",
+  "sources": [
+    {
+      "title": "Wikipedia - Lolita",
+      "url": "https://es.wikipedia.org/wiki/Lolita"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "humbert-humbert"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

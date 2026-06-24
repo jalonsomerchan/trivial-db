@@ -1,0 +1,43 @@
+{
+  "id": "q-003441",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “sistema de gobierno de cuatro emperadores”?",
+  "answers": [
+    {
+      "text": "tetrarquía",
+      "correct": true
+    },
+    {
+      "text": "hoplita",
+      "correct": false
+    },
+    {
+      "text": "dhimmi",
+      "correct": false
+    },
+    {
+      "text": "foederati",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es tetrarquía.",
+  "sources": [
+    {
+      "title": "Wikipedia - tetrarquía",
+      "url": "https://es.wikipedia.org/wiki/tetrarqu%C3%ADa"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "tetrarquia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

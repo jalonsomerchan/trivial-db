@@ -1,0 +1,43 @@
+{
+  "id": "q-003668",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Dolor y gloria?",
+  "answers": [
+    {
+      "text": "Paolo Sorrentino",
+      "correct": false
+    },
+    {
+      "text": "Fernando Meirelles y Kátia Lund",
+      "correct": false
+    },
+    {
+      "text": "Pedro Almodóvar",
+      "correct": true
+    },
+    {
+      "text": "Florian Henckel von Donnersmarck",
+      "correct": false
+    }
+  ],
+  "explanation": "Dolor y gloria fue dirigida por Pedro Almodóvar.",
+  "sources": [
+    {
+      "title": "Wikipedia - Dolor y gloria",
+      "url": "https://es.wikipedia.org/wiki/Dolor_y_gloria"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "pedro-almodovar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

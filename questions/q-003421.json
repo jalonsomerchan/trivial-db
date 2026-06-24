@@ -1,0 +1,43 @@
+{
+  "id": "q-003421",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "dinastias"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué dinastía pertenece históricamente Ashoka?",
+  "answers": [
+    {
+      "text": "Maurya",
+      "correct": true
+    },
+    {
+      "text": "mogol",
+      "correct": false
+    },
+    {
+      "text": "Qin",
+      "correct": false
+    },
+    {
+      "text": "fatimí",
+      "correct": false
+    }
+  ],
+  "explanation": "Ashoka pertenece a la dinastía Maurya.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ashoka",
+      "url": "https://es.wikipedia.org/wiki/Ashoka"
+    }
+  ],
+  "tags": [
+    "historia",
+    "dinastias",
+    "maurya"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003398",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "dinastias"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué dinastía pertenece históricamente Hugo Capeto?",
+  "answers": [
+    {
+      "text": "capeta",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Yuan",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "Hugo Capeto pertenece a la dinastía capeta.",
+  "sources": [
+    {
+      "title": "Wikipedia - Hugo Capeto",
+      "url": "https://es.wikipedia.org/wiki/Hugo_Capeto"
+    }
+  ],
+  "tags": [
+    "historia",
+    "dinastias",
+    "capeta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

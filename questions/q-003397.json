@@ -1,0 +1,43 @@
+{
+  "id": "q-003397",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "dinastias"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué dinastía pertenece históricamente Carlomagno?",
+  "answers": [
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "carolingia",
+      "correct": true
+    },
+    {
+      "text": "Tang",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    }
+  ],
+  "explanation": "Carlomagno pertenece a la dinastía carolingia.",
+  "sources": [
+    {
+      "title": "Wikipedia - Carlomagno",
+      "url": "https://es.wikipedia.org/wiki/Carlomagno"
+    }
+  ],
+  "tags": [
+    "historia",
+    "dinastias",
+    "carolingia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003564",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente La Gioconda?",
+  "answers": [
+    {
+      "text": "Art Institute of Chicago",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Metropolitan Museum of Art",
+      "correct": false
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": true
+    }
+  ],
+  "explanation": "La Gioconda se conserva habitualmente en Museo del Louvre.",
+  "sources": [
+    {
+      "title": "Wikipedia - La Gioconda",
+      "url": "https://es.wikipedia.org/wiki/La_Gioconda"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "la-gioconda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

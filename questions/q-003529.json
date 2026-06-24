@@ -1,0 +1,43 @@
+{
+  "id": "q-003529",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "teoria-literaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto literario se define como “uso de un término para varios elementos de forma elíptica”?",
+  "answers": [
+    {
+      "text": "quiasmo",
+      "correct": false
+    },
+    {
+      "text": "zeugma",
+      "correct": true
+    },
+    {
+      "text": "peripecia",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto literario definido es zeugma.",
+  "sources": [
+    {
+      "title": "Wikipedia - zeugma",
+      "url": "https://es.wikipedia.org/wiki/zeugma"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "teoria-literaria",
+    "zeugma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003742",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie Six Feet Under?",
+  "answers": [
+    {
+      "text": "Joss Whedon",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Alan Ball",
+      "correct": true
+    }
+  ],
+  "explanation": "Six Feet Under fue creada o cocreada por Alan Ball.",
+  "sources": [
+    {
+      "title": "Wikipedia - Six Feet Under",
+      "url": "https://es.wikipedia.org/wiki/Six_Feet_Under"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "six-feet-under"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

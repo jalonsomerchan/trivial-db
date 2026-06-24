@@ -1,0 +1,43 @@
+{
+  "id": "q-003686",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Melancolía?",
+  "answers": [
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Lars von Trier",
+      "correct": true
+    },
+    {
+      "text": "Claire Denis",
+      "correct": false
+    }
+  ],
+  "explanation": "Melancolía fue dirigida por Lars von Trier.",
+  "sources": [
+    {
+      "title": "Wikipedia - Melancolía",
+      "url": "https://es.wikipedia.org/wiki/Melancol%C3%ADa"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "lars-von-trier"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

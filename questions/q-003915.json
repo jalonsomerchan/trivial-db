@@ -1,0 +1,43 @@
+{
+  "id": "q-003915",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentacion"
+  ],
+  "difficulty": "hard",
+  "question": "En organología orquestal, ¿cómo se clasifica normalmente el clarinete?",
+  "answers": [
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "viento madera de lengüeta simple",
+      "correct": true
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    }
+  ],
+  "explanation": "El clarinete se clasifica normalmente como viento madera de lengüeta simple.",
+  "sources": [
+    {
+      "title": "Wikipedia - clarinete",
+      "url": "https://es.wikipedia.org/wiki/clarinete"
+    }
+  ],
+  "tags": [
+    "musica",
+    "instrumentos",
+    "clarinete"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

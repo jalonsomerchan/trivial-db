@@ -1,0 +1,43 @@
+{
+  "id": "q-003430",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “formación cerrada de lanceros”?",
+  "answers": [
+    {
+      "text": "falange",
+      "correct": true
+    },
+    {
+      "text": "tetrarquía",
+      "correct": false
+    },
+    {
+      "text": "corvea",
+      "correct": false
+    },
+    {
+      "text": "encomienda",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es falange.",
+  "sources": [
+    {
+      "title": "Wikipedia - falange",
+      "url": "https://es.wikipedia.org/wiki/falange"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "falange"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

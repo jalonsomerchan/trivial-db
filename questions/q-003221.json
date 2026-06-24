@@ -1,0 +1,43 @@
+{
+  "id": "q-003221",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "bioquimica-humana"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué enzima participa directamente en la descomposición del peróxido de hidrógeno?",
+  "answers": [
+    {
+      "text": "ADN polimerasa",
+      "correct": false
+    },
+    {
+      "text": "catalasa",
+      "correct": true
+    },
+    {
+      "text": "lipasa pancreática",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    }
+  ],
+  "explanation": "La enzima asociada a la descomposición del peróxido de hidrógeno es catalasa.",
+  "sources": [
+    {
+      "title": "Wikipedia - Enzima",
+      "url": "https://es.wikipedia.org/wiki/enzimas"
+    }
+  ],
+  "tags": [
+    "salud",
+    "bioquimica",
+    "catalasa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

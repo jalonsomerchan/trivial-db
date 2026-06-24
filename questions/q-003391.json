@@ -1,0 +1,43 @@
+{
+  "id": "q-003391",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la creación de Naciones Unidas?",
+  "answers": [
+    {
+      "text": "Tratado de Guadalupe Hidalgo",
+      "correct": false
+    },
+    {
+      "text": "Carta de las Naciones Unidas",
+      "correct": true
+    },
+    {
+      "text": "Tratados de Roma",
+      "correct": false
+    },
+    {
+      "text": "Tratado Naval de Washington",
+      "correct": false
+    }
+  ],
+  "explanation": "Carta de las Naciones Unidas se asocia principalmente con la creación de Naciones Unidas.",
+  "sources": [
+    {
+      "title": "Wikipedia - Carta de las Naciones Unidas",
+      "url": "https://es.wikipedia.org/wiki/Carta_de_las_Naciones_Unidas"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "carta-de-las-naciones-unidas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004052",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante Q = mcΔT?",
+  "answers": [
+    {
+      "text": "calor sensible",
+      "correct": true
+    },
+    {
+      "text": "vida media radiactiva",
+      "correct": false
+    },
+    {
+      "text": "tasa proporcional de decrecimiento",
+      "correct": false
+    },
+    {
+      "text": "teorema de Pitágoras",
+      "correct": false
+    }
+  ],
+  "explanation": "Q = mcΔT representa calor sensible.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "calor-sensible"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

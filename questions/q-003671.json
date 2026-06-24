@@ -1,0 +1,43 @@
+{
+  "id": "q-003671",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película El espinazo del diablo?",
+  "answers": [
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Guillermo del Toro",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "El espinazo del diablo fue dirigida por Guillermo del Toro.",
+  "sources": [
+    {
+      "title": "Wikipedia - El espinazo del diablo",
+      "url": "https://es.wikipedia.org/wiki/El_espinazo_del_diablo"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "guillermo-del-toro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003205",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "neuroanatomia"
+  ],
+  "difficulty": "hard",
+  "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano XI?",
+  "answers": [
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "nervio radial",
+      "correct": false
+    },
+    {
+      "text": "nervio accesorio",
+      "correct": true
+    }
+  ],
+  "explanation": "El par craneal XI corresponde al nervio accesorio.",
+  "sources": [
+    {
+      "title": "Wikipedia - Nervio craneal",
+      "url": "https://es.wikipedia.org/wiki/pares_craneales"
+    }
+  ],
+  "tags": [
+    "salud",
+    "neuroanatomia",
+    "pares-craneales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

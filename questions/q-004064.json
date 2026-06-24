@@ -1,0 +1,43 @@
+{
+  "id": "q-004064",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante pV^γ = constante?",
+  "answers": [
+    {
+      "text": "ley de Gauss eléctrica",
+      "correct": false
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "entropía de Shannon",
+      "correct": false
+    },
+    {
+      "text": "proceso adiabático reversible",
+      "correct": true
+    }
+  ],
+  "explanation": "pV^γ = constante representa proceso adiabático reversible.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "proceso-adiabatico-reversible"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003323",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en kimchi?",
+  "answers": [
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "bacterias lácticas",
+      "correct": true
+    }
+  ],
+  "explanation": "En kimchi interviene de forma característica bacterias lácticas.",
+  "sources": [
+    {
+      "title": "Wikipedia - kimchi",
+      "url": "https://es.wikipedia.org/wiki/kimchi"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "kimchi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

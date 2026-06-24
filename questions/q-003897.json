@@ -1,0 +1,43 @@
+{
+  "id": "q-003897",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-discografia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo grabó el álbum de jazz Saxophone Colossus?",
+  "answers": [
+    {
+      "text": "Sonny Rollins",
+      "correct": true
+    },
+    {
+      "text": "Ornette Coleman",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "Saxophone Colossus fue grabado por Sonny Rollins.",
+  "sources": [
+    {
+      "title": "Wikipedia - Saxophone Colossus",
+      "url": "https://es.wikipedia.org/wiki/Saxophone_Colossus"
+    }
+  ],
+  "tags": [
+    "musica",
+    "jazz",
+    "sonny-rollins"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

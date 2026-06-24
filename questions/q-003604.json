@@ -1,0 +1,43 @@
+{
+  "id": "q-003604",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “pintura sobre enlucido húmedo”?",
+  "answers": [
+    {
+      "text": "fresco",
+      "correct": true
+    },
+    {
+      "text": "sfumato",
+      "correct": false
+    },
+    {
+      "text": "grattage",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es fresco.",
+  "sources": [
+    {
+      "title": "Wikipedia - fresco",
+      "url": "https://es.wikipedia.org/wiki/fresco"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "fresco"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

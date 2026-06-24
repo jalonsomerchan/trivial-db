@@ -1,0 +1,43 @@
+{
+  "id": "q-003774",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo Maillot rojo?",
+  "answers": [
+    {
+      "text": "rugby union mundial",
+      "correct": false
+    },
+    {
+      "text": "golf por equipos Europa-Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "líder de la Vuelta a España",
+      "correct": true
+    },
+    {
+      "text": "masters de snooker",
+      "correct": false
+    }
+  ],
+  "explanation": "Maillot rojo se asocia con líder de la Vuelta a España.",
+  "sources": [
+    {
+      "title": "Wikipedia - Maillot rojo",
+      "url": "https://es.wikipedia.org/wiki/Maillot_rojo"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "maillot-rojo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

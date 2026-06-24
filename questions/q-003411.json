@@ -1,0 +1,43 @@
+{
+  "id": "q-003411",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "dinastias"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué dinastía pertenece históricamente Mehmed II?",
+  "answers": [
+    {
+      "text": "otomana",
+      "correct": true
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "seléucida",
+      "correct": false
+    },
+    {
+      "text": "abasí",
+      "correct": false
+    }
+  ],
+  "explanation": "Mehmed II pertenece a la dinastía otomana.",
+  "sources": [
+    {
+      "title": "Wikipedia - Mehmed II",
+      "url": "https://es.wikipedia.org/wiki/Mehmed_II"
+    }
+  ],
+  "tags": [
+    "historia",
+    "dinastias",
+    "otomana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003265",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "farmacologia-basica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué receptor se asocia principalmente con efecto de glucocorticoides?",
+  "answers": [
+    {
+      "text": "receptor intracelular glucocorticoide",
+      "correct": true
+    },
+    {
+      "text": "receptor P2X",
+      "correct": false
+    },
+    {
+      "text": "receptor H1",
+      "correct": false
+    },
+    {
+      "text": "receptor de estrógeno",
+      "correct": false
+    }
+  ],
+  "explanation": "Efecto de glucocorticoides se asocia principalmente con receptor intracelular glucocorticoide.",
+  "sources": [
+    {
+      "title": "Wikipedia - Receptor celular",
+      "url": "https://es.wikipedia.org/wiki/receptores"
+    }
+  ],
+  "tags": [
+    "salud",
+    "farmacologia",
+    "receptor-intracelular-glucocorticoide"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

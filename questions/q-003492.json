@@ -1,0 +1,43 @@
+{
+  "id": "q-003492",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Artemio Cruz?",
+  "answers": [
+    {
+      "text": "Los miserables",
+      "correct": false
+    },
+    {
+      "text": "Rojo y negro",
+      "correct": false
+    },
+    {
+      "text": "La muerte de Artemio Cruz",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "Artemio Cruz aparece en La muerte de Artemio Cruz.",
+  "sources": [
+    {
+      "title": "Wikipedia - La muerte de Artemio Cruz",
+      "url": "https://es.wikipedia.org/wiki/La_muerte_de_Artemio_Cruz"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "artemio-cruz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

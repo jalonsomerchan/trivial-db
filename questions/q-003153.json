@@ -1,0 +1,43 @@
+{
+  "id": "q-003153",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas-avanzadas"
+  ],
+  "difficulty": "hard",
+  "question": "En informática, ¿qué significa o describe la sigla CRUD?",
+  "answers": [
+    {
+      "text": "Cross-Site Scripting",
+      "correct": false
+    },
+    {
+      "text": "Conflict-free Replicated Data Type",
+      "correct": false
+    },
+    {
+      "text": "Crear, Leer, Actualizar y Borrar",
+      "correct": true
+    },
+    {
+      "text": "Security Assertion Markup Language",
+      "correct": false
+    }
+  ],
+  "explanation": "CRUD se usa para referirse a Crear, Leer, Actualizar y Borrar.",
+  "sources": [
+    {
+      "title": "Wikipedia - CRUD",
+      "url": "https://es.wikipedia.org/wiki/CRUD"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "crud"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003654",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Habitat 67?",
+  "answers": [
+    {
+      "text": "metabolismo o arquitectura modular",
+      "correct": true
+    },
+    {
+      "text": "orden dórico clásico",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "arquitectura budista",
+      "correct": false
+    }
+  ],
+  "explanation": "Habitat 67 se asocia con metabolismo o arquitectura modular.",
+  "sources": [
+    {
+      "title": "Wikipedia - Habitat 67",
+      "url": "https://es.wikipedia.org/wiki/Habitat_67"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "metabolismo-o-arquitectura-modular"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

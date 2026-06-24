@@ -1,0 +1,43 @@
+{
+  "id": "q-003578",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente El beso de Klimt?",
+  "answers": [
+    {
+      "text": "Kunsthistorisches Museum de Viena",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Galería Belvedere",
+      "correct": true
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "El beso de Klimt se conserva habitualmente en Galería Belvedere.",
+  "sources": [
+    {
+      "title": "Wikipedia - El beso de Klimt",
+      "url": "https://es.wikipedia.org/wiki/El_beso_de_Klimt"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "el-beso-de-klimt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

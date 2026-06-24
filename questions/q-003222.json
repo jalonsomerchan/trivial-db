@@ -1,0 +1,43 @@
+{
+  "id": "q-003222",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "bioquimica-humana"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué enzima participa directamente en la conversión reversible de CO₂ y agua en bicarbonato?",
+  "answers": [
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "anhidrasa carbónica",
+      "correct": true
+    },
+    {
+      "text": "fosfatasa",
+      "correct": false
+    },
+    {
+      "text": "lactato deshidrogenasa",
+      "correct": false
+    }
+  ],
+  "explanation": "La enzima asociada a la conversión reversible de CO₂ y agua en bicarbonato es anhidrasa carbónica.",
+  "sources": [
+    {
+      "title": "Wikipedia - Enzima",
+      "url": "https://es.wikipedia.org/wiki/enzimas"
+    }
+  ],
+  "tags": [
+    "salud",
+    "bioquimica",
+    "anhidrasa-carbonica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

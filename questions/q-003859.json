@@ -1,0 +1,43 @@
+{
+  "id": "q-003859",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "opera-personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué ópera aparece el personaje Leporello?",
+  "answers": [
+    {
+      "text": "Peter Grimes",
+      "correct": false
+    },
+    {
+      "text": "Don Giovanni",
+      "correct": true
+    },
+    {
+      "text": "Salome",
+      "correct": false
+    },
+    {
+      "text": "Rigoletto",
+      "correct": false
+    }
+  ],
+  "explanation": "Leporello aparece en la ópera Don Giovanni.",
+  "sources": [
+    {
+      "title": "Wikipedia - Don Giovanni",
+      "url": "https://es.wikipedia.org/wiki/Don_Giovanni"
+    }
+  ],
+  "tags": [
+    "musica",
+    "opera",
+    "leporello"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

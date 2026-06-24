@@ -1,0 +1,43 @@
+{
+  "id": "q-003895",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-discografia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo grabó el álbum de jazz The Köln Concert?",
+  "answers": [
+    {
+      "text": "John Coltrane",
+      "correct": false
+    },
+    {
+      "text": "Eric Dolphy",
+      "correct": false
+    },
+    {
+      "text": "Keith Jarrett",
+      "correct": true
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    }
+  ],
+  "explanation": "The Köln Concert fue grabado por Keith Jarrett.",
+  "sources": [
+    {
+      "title": "Wikipedia - The Köln Concert",
+      "url": "https://es.wikipedia.org/wiki/The_K%C3%B6ln_Concert"
+    }
+  ],
+  "tags": [
+    "musica",
+    "jazz",
+    "keith-jarrett"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

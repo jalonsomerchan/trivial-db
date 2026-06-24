@@ -1,0 +1,43 @@
+{
+  "id": "q-003293",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quimica-culinaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compuesto aromático se asocia especialmente con eneldo?",
+  "answers": [
+    {
+      "text": "carvona",
+      "correct": true
+    },
+    {
+      "text": "cinamaldehído",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "vainillina",
+      "correct": false
+    }
+  ],
+  "explanation": "Carvona se asocia de forma destacada con el aroma de eneldo.",
+  "sources": [
+    {
+      "title": "Wikipedia - eneldo",
+      "url": "https://es.wikipedia.org/wiki/eneldo"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "quimica-culinaria",
+    "eneldo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

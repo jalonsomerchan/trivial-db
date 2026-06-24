@@ -1,0 +1,43 @@
+{
+  "id": "q-003987",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "botanica-sistematica"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué familia botánica pertenece guisante?",
+  "answers": [
+    {
+      "text": "Musaceae",
+      "correct": false
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "Rosaceae",
+      "correct": false
+    },
+    {
+      "text": "Fabaceae",
+      "correct": true
+    }
+  ],
+  "explanation": "Guisante pertenece a la familia Fabaceae.",
+  "sources": [
+    {
+      "title": "Wikipedia - Familia (biología)",
+      "url": "https://es.wikipedia.org/wiki/familia_bot%C3%A1nica"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "botanica",
+    "fabaceae"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003621",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “imagen deformada que se corrige desde un punto de vista”?",
+  "answers": [
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "tenebrismo",
+      "correct": false
+    },
+    {
+      "text": "anamorfosis",
+      "correct": true
+    },
+    {
+      "text": "sfumato",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es anamorfosis.",
+  "sources": [
+    {
+      "title": "Wikipedia - anamorfosis",
+      "url": "https://es.wikipedia.org/wiki/anamorfosis"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "anamorfosis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

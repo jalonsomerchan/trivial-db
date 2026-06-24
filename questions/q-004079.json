@@ -1,0 +1,43 @@
+{
+  "id": "q-004079",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "exploracion-clinica"
+  ],
+  "difficulty": "hard",
+  "question": "En exploración clínica, ¿con qué se relaciona principalmente la prueba de Allen?",
+  "answers": [
+    {
+      "text": "permeabilidad de arterias radial y cubital",
+      "correct": true
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    }
+  ],
+  "explanation": "La prueba de allen se relaciona principalmente con permeabilidad de arterias radial y cubital.",
+  "sources": [
+    {
+      "title": "Wikipedia - Exploración física",
+      "url": "https://es.wikipedia.org/wiki/la_prueba_de_Allen"
+    }
+  ],
+  "tags": [
+    "salud",
+    "exploracion-clinica",
+    "la-prueba-de-allen"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

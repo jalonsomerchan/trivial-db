@@ -1,0 +1,43 @@
+{
+  "id": "q-004037",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-cuantitativa"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico o ambiental se define como “capacidad de recuperarse tras perturbaciones”?",
+  "answers": [
+    {
+      "text": "resiliencia ecológica",
+      "correct": true
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "endemismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es resiliencia ecológica.",
+  "sources": [
+    {
+      "title": "Wikipedia - resiliencia ecológica",
+      "url": "https://es.wikipedia.org/wiki/resiliencia_ecol%C3%B3gica"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "ecologia",
+    "resiliencia-ecologica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

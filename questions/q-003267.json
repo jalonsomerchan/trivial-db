@@ -1,0 +1,43 @@
+{
+  "id": "q-003267",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "farmacologia-basica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué receptor se asocia principalmente con acción de estradiol?",
+  "answers": [
+    {
+      "text": "receptor de estrógeno",
+      "correct": true
+    },
+    {
+      "text": "receptores alfa-1 adrenérgicos",
+      "correct": false
+    },
+    {
+      "text": "receptor mineralocorticoide",
+      "correct": false
+    },
+    {
+      "text": "receptor H3",
+      "correct": false
+    }
+  ],
+  "explanation": "Acción de estradiol se asocia principalmente con receptor de estrógeno.",
+  "sources": [
+    {
+      "title": "Wikipedia - Receptor celular",
+      "url": "https://es.wikipedia.org/wiki/receptores"
+    }
+  ],
+  "tags": [
+    "salud",
+    "farmacologia",
+    "receptor-de-estrogeno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

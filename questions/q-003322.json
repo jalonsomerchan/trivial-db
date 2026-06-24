@@ -1,0 +1,43 @@
+{
+  "id": "q-003322",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en chucrut?",
+  "answers": [
+    {
+      "text": "bacterias lácticas",
+      "correct": true
+    },
+    {
+      "text": "comunidad de bacterias lácticas y levaduras",
+      "correct": false
+    },
+    {
+      "text": "bacterias lácticas y micrococos",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "En chucrut interviene de forma característica bacterias lácticas.",
+  "sources": [
+    {
+      "title": "Wikipedia - chucrut",
+      "url": "https://es.wikipedia.org/wiki/chucrut"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "chucrut"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

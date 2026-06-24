@@ -1,0 +1,43 @@
+{
+  "id": "q-003337",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en injera?",
+  "answers": [
+    {
+      "text": "fermentación láctica y levaduras",
+      "correct": true
+    },
+    {
+      "text": "Geotrichum candidum",
+      "correct": false
+    },
+    {
+      "text": "bacterias lácticas y levaduras",
+      "correct": false
+    },
+    {
+      "text": "Candida albicans",
+      "correct": false
+    }
+  ],
+  "explanation": "En injera interviene de forma característica fermentación láctica y levaduras.",
+  "sources": [
+    {
+      "title": "Wikipedia - injera",
+      "url": "https://es.wikipedia.org/wiki/injera"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "injera"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

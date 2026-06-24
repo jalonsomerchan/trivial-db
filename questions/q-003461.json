@@ -1,0 +1,43 @@
+{
+  "id": "q-003461",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué país o zona se asocia principalmente Primavera de Praga?",
+  "answers": [
+    {
+      "text": "Checoslovaquia",
+      "correct": true
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Portugal",
+      "correct": false
+    }
+  ],
+  "explanation": "Primavera de Praga se asocia principalmente con Checoslovaquia.",
+  "sources": [
+    {
+      "title": "Wikipedia - Primavera de Praga",
+      "url": "https://es.wikipedia.org/wiki/Primavera_de_Praga"
+    }
+  ],
+  "tags": [
+    "historia",
+    "contemporanea",
+    "primavera-de-praga"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

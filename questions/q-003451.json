@@ -1,0 +1,43 @@
+{
+  "id": "q-003451",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “sistema de vinculación hereditaria de bienes”?",
+  "answers": [
+    {
+      "text": "dhimmi",
+      "correct": false
+    },
+    {
+      "text": "falange",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "mayorazgo",
+      "correct": true
+    }
+  ],
+  "explanation": "El término histórico definido es mayorazgo.",
+  "sources": [
+    {
+      "title": "Wikipedia - mayorazgo",
+      "url": "https://es.wikipedia.org/wiki/mayorazgo"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "mayorazgo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

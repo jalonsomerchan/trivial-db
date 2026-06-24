@@ -1,0 +1,43 @@
+{
+  "id": "q-003305",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "bebidas-destiladas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la materia prima característica de orujo gallego?",
+  "answers": [
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "bagazo de uva",
+      "correct": true
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "jugo de caña de azúcar",
+      "correct": false
+    }
+  ],
+  "explanation": "Orujo gallego se elabora tradicionalmente a partir de bagazo de uva.",
+  "sources": [
+    {
+      "title": "Wikipedia - orujo gallego",
+      "url": "https://es.wikipedia.org/wiki/orujo_gallego"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bebidas",
+    "orujo-gallego"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

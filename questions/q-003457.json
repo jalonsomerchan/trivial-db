@@ -1,0 +1,43 @@
+{
+  "id": "q-003457",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “revuelta campesina francesa medieval”?",
+  "answers": [
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "tetrarquía",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "jacquerie",
+      "correct": true
+    }
+  ],
+  "explanation": "El término histórico definido es jacquerie.",
+  "sources": [
+    {
+      "title": "Wikipedia - jacquerie",
+      "url": "https://es.wikipedia.org/wiki/jacquerie"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "jacquerie"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003813",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué deporte se usa especialmente el término clean and jerk?",
+  "answers": [
+    {
+      "text": "halterofilia",
+      "correct": true
+    },
+    {
+      "text": "patinaje artístico",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "El término clean and jerk se usa especialmente en halterofilia.",
+  "sources": [
+    {
+      "title": "Wikipedia - clean and jerk",
+      "url": "https://es.wikipedia.org/wiki/clean_and_jerk"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "terminologia",
+    "clean-and-jerk"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

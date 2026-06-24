@@ -1,0 +1,43 @@
+{
+  "id": "q-003365",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tipo o estilo describe mejor al queso Camembert?",
+  "answers": [
+    {
+      "text": "pasta blanda de corteza enmohecida",
+      "correct": true
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "pasta prensada no cocida",
+      "correct": false
+    },
+    {
+      "text": "queso fresco granulado",
+      "correct": false
+    }
+  ],
+  "explanation": "Camembert se clasifica habitualmente como pasta blanda de corteza enmohecida.",
+  "sources": [
+    {
+      "title": "Wikipedia - Camembert",
+      "url": "https://es.wikipedia.org/wiki/Camembert"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "quesos",
+    "camembert"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003370",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la guerra ruso-japonesa?",
+  "answers": [
+    {
+      "text": "Tratado de Fráncfort",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Portsmouth",
+      "correct": true
+    },
+    {
+      "text": "Tratado de No Proliferación Nuclear",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Londres de 1839",
+      "correct": false
+    }
+  ],
+  "explanation": "Tratado de Portsmouth se asocia principalmente con la guerra ruso-japonesa.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tratado de Portsmouth",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Portsmouth"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "tratado-de-portsmouth"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

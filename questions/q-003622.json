@@ -1,0 +1,43 @@
+{
+  "id": "q-003622",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “imagen formada por teselas”?",
+  "answers": [
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "mosaico",
+      "correct": true
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "trompe-l’œil",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es mosaico.",
+  "sources": [
+    {
+      "title": "Wikipedia - mosaico",
+      "url": "https://es.wikipedia.org/wiki/mosaico"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "mosaico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

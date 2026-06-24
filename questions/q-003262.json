@@ -1,0 +1,43 @@
+{
+  "id": "q-003262",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "farmacologia-basica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué receptor se asocia principalmente con secreción ácida gástrica estimulada por histamina?",
+  "answers": [
+    {
+      "text": "receptores beta-2 adrenérgicos",
+      "correct": false
+    },
+    {
+      "text": "receptores alfa-1 adrenérgicos",
+      "correct": false
+    },
+    {
+      "text": "receptor H2",
+      "correct": true
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "Secreción ácida gástrica estimulada por histamina se asocia principalmente con receptor H2.",
+  "sources": [
+    {
+      "title": "Wikipedia - Receptor celular",
+      "url": "https://es.wikipedia.org/wiki/receptores"
+    }
+  ],
+  "tags": [
+    "salud",
+    "farmacologia",
+    "receptor-h2"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

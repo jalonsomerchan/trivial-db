@@ -1,0 +1,43 @@
+{
+  "id": "q-003460",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué país o zona se asocia principalmente Revolución de los Claveles?",
+  "answers": [
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Portugal",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Manchuria",
+      "correct": false
+    }
+  ],
+  "explanation": "Revolución de los Claveles se asocia principalmente con Portugal.",
+  "sources": [
+    {
+      "title": "Wikipedia - Revolución de los Claveles",
+      "url": "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_de_los_Claveles"
+    }
+  ],
+  "tags": [
+    "historia",
+    "contemporanea",
+    "revolucion-de-los-claveles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

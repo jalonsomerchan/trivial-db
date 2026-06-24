@@ -1,0 +1,43 @@
+{
+  "id": "q-003328",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en pan de masa madre?",
+  "answers": [
+    {
+      "text": "Aspergillus oryzae o sojae",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "levaduras y bacterias lácticas",
+      "correct": true
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "En pan de masa madre interviene de forma característica levaduras y bacterias lácticas.",
+  "sources": [
+    {
+      "title": "Wikipedia - pan de masa madre",
+      "url": "https://es.wikipedia.org/wiki/pan_de_masa_madre"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "pan-de-masa-madre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

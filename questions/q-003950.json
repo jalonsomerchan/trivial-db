@@ -1,0 +1,43 @@
+{
+  "id": "q-003950",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué orden taxonómico pertenecen principalmente ciervos, vacas y jirafas?",
+  "answers": [
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Artiodactyla",
+      "correct": true
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Accipitriformes",
+      "correct": false
+    }
+  ],
+  "explanation": "Ciervos, vacas y jirafas pertenecen principalmente al orden Artiodactyla.",
+  "sources": [
+    {
+      "title": "Wikipedia - Taxonomía",
+      "url": "https://es.wikipedia.org/wiki/taxonomia"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "taxonomia",
+    "artiodactyla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

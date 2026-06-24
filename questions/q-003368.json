@@ -1,0 +1,43 @@
+{
+  "id": "q-003368",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la guerra franco-prusiana?",
+  "answers": [
+    {
+      "text": "Tratado INF",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Fráncfort",
+      "correct": true
+    },
+    {
+      "text": "Tratado de Madrid",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Portsmouth",
+      "correct": false
+    }
+  ],
+  "explanation": "Tratado de Fráncfort se asocia principalmente con la guerra franco-prusiana.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tratado de Fráncfort",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Fr%C3%A1ncfort"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "tratado-de-francfort"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003935",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentacion"
+  ],
+  "difficulty": "hard",
+  "question": "En organología orquestal, ¿cómo se clasifica normalmente el gong?",
+  "answers": [
+    {
+      "text": "viento madera de lengüeta simple",
+      "correct": false
+    },
+    {
+      "text": "percusión idiòfona",
+      "correct": true
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "viento metal",
+      "correct": false
+    }
+  ],
+  "explanation": "El gong se clasifica normalmente como percusión idiòfona.",
+  "sources": [
+    {
+      "title": "Wikipedia - gong",
+      "url": "https://es.wikipedia.org/wiki/gong"
+    }
+  ],
+  "tags": [
+    "musica",
+    "instrumentos",
+    "gong"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

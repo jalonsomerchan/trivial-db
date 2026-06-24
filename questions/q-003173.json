@@ -1,0 +1,43 @@
+{
+  "id": "q-003173",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas-avanzadas"
+  ],
+  "difficulty": "hard",
+  "question": "En informática, ¿qué significa o describe la sigla YAML?",
+  "answers": [
+    {
+      "text": "lenguaje ensamblador",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Cross-Origin Resource Sharing",
+      "correct": false
+    },
+    {
+      "text": "YAML Ain’t Markup Language",
+      "correct": true
+    }
+  ],
+  "explanation": "YAML se usa para referirse a YAML Ain’t Markup Language.",
+  "sources": [
+    {
+      "title": "Wikipedia - YAML",
+      "url": "https://es.wikipedia.org/wiki/YAML"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "yaml"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

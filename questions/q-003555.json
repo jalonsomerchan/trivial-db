@@ -1,0 +1,43 @@
+{
+  "id": "q-003555",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autor escribió la novela Esperando a los bárbaros?",
+  "answers": [
+    {
+      "text": "Italo Calvino",
+      "correct": false
+    },
+    {
+      "text": "J. M. Coetzee",
+      "correct": true
+    },
+    {
+      "text": "Günter Grass",
+      "correct": false
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    }
+  ],
+  "explanation": "Esperando a los bárbaros fue escrita por J. M. Coetzee.",
+  "sources": [
+    {
+      "title": "Wikipedia - Esperando a los bárbaros",
+      "url": "https://es.wikipedia.org/wiki/Esperando_a_los_b%C3%A1rbaros"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "j-m-coetzee"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

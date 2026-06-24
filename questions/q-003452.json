@@ -1,0 +1,43 @@
+{
+  "id": "q-003452",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “prestación laboral obligatoria”?",
+  "answers": [
+    {
+      "text": "hoplita",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "corvea",
+      "correct": true
+    },
+    {
+      "text": "alodio",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es corvea.",
+  "sources": [
+    {
+      "title": "Wikipedia - corvea",
+      "url": "https://es.wikipedia.org/wiki/corvea"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "corvea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

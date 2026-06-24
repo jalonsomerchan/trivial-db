@@ -1,0 +1,43 @@
+{
+  "id": "q-004043",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante V = IR?",
+  "answers": [
+    {
+      "text": "energía cinética clásica",
+      "correct": false
+    },
+    {
+      "text": "ley de Beer-Lambert",
+      "correct": false
+    },
+    {
+      "text": "número de Reynolds",
+      "correct": false
+    },
+    {
+      "text": "ley de Ohm",
+      "correct": true
+    }
+  ],
+  "explanation": "V = IR representa ley de Ohm.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "ley-de-ohm"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

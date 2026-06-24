@@ -1,0 +1,43 @@
+{
+  "id": "q-003259",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "farmacologia-basica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué receptor se asocia principalmente con respuesta al glutamato en receptores NMDA?",
+  "answers": [
+    {
+      "text": "receptor mineralocorticoide",
+      "correct": false
+    },
+    {
+      "text": "receptor GABA-A",
+      "correct": false
+    },
+    {
+      "text": "receptor NMDA",
+      "correct": true
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    }
+  ],
+  "explanation": "Respuesta al glutamato en receptores nmda se asocia principalmente con receptor NMDA.",
+  "sources": [
+    {
+      "title": "Wikipedia - Receptor celular",
+      "url": "https://es.wikipedia.org/wiki/receptores"
+    }
+  ],
+  "tags": [
+    "salud",
+    "farmacologia",
+    "receptor-nmda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

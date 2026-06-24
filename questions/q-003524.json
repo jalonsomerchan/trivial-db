@@ -1,0 +1,43 @@
+{
+  "id": "q-003524",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "teoria-literaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto literario se define como “reconocimiento decisivo en una trama”?",
+  "answers": [
+    {
+      "text": "prosopopeya",
+      "correct": false
+    },
+    {
+      "text": "anagnórisis",
+      "correct": true
+    },
+    {
+      "text": "bildungsroman",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto literario definido es anagnórisis.",
+  "sources": [
+    {
+      "title": "Wikipedia - anagnórisis",
+      "url": "https://es.wikipedia.org/wiki/anagn%C3%B3risis"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "teoria-literaria",
+    "anagnorisis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

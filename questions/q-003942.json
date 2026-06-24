@@ -1,0 +1,43 @@
+{
+  "id": "q-003942",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "afinaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la afinación estándar más habitual de mandolina, de grave a agudo?",
+  "answers": [
+    {
+      "text": "re-sol-si-mi",
+      "correct": false
+    },
+    {
+      "text": "sol-re-la-mi",
+      "correct": true
+    },
+    {
+      "text": "sol-do-mi-la",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "La afinación estándar más habitual de mandolina es sol-re-la-mi.",
+  "sources": [
+    {
+      "title": "Wikipedia - mandolina",
+      "url": "https://es.wikipedia.org/wiki/mandolina"
+    }
+  ],
+  "tags": [
+    "musica",
+    "afinacion",
+    "mandolina"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

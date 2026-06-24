@@ -1,0 +1,43 @@
+{
+  "id": "q-003409",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "dinastias"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué dinastía pertenece históricamente Pedro I el Grande?",
+  "answers": [
+    {
+      "text": "Románov",
+      "correct": true
+    },
+    {
+      "text": "Habsburgo",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Tudor",
+      "correct": false
+    }
+  ],
+  "explanation": "Pedro I el Grande pertenece a la dinastía Románov.",
+  "sources": [
+    {
+      "title": "Wikipedia - Pedro I el Grande",
+      "url": "https://es.wikipedia.org/wiki/Pedro_I_el_Grande"
+    }
+  ],
+  "tags": [
+    "historia",
+    "dinastias",
+    "romanov"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

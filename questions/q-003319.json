@@ -1,0 +1,43 @@
+{
+  "id": "q-003319",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en yogur tradicional?",
+  "answers": [
+    {
+      "text": "Lactobacillus delbrueckii subsp. bulgaricus y Streptococcus thermophilus",
+      "correct": true
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Saccharomyces cerevisiae",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "En yogur tradicional interviene de forma característica Lactobacillus delbrueckii subsp. bulgaricus y Streptococcus thermophilus.",
+  "sources": [
+    {
+      "title": "Wikipedia - yogur tradicional",
+      "url": "https://es.wikipedia.org/wiki/yogur_tradicional"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "yogur-tradicional"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

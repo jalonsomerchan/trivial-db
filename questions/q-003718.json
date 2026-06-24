@@ -1,0 +1,43 @@
+{
+  "id": "q-003718",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “cine documental de observación con intervención mínima”?",
+  "answers": [
+    {
+      "text": "raccord",
+      "correct": false
+    },
+    {
+      "text": "blooper",
+      "correct": false
+    },
+    {
+      "text": "montaje paralelo",
+      "correct": false
+    },
+    {
+      "text": "cinéma vérité",
+      "correct": true
+    }
+  ],
+  "explanation": "El término audiovisual definido es cinéma vérité.",
+  "sources": [
+    {
+      "title": "Wikipedia - cinéma vérité",
+      "url": "https://es.wikipedia.org/wiki/cin%C3%A9ma_v%C3%A9rit%C3%A9"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "cinema-verite"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

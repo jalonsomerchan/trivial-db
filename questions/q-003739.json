@@ -1,0 +1,43 @@
+{
+  "id": "q-003739",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie Arrested Development?",
+  "answers": [
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Mitchell Hurwitz",
+      "correct": true
+    },
+    {
+      "text": "David Chase",
+      "correct": false
+    },
+    {
+      "text": "Aaron Sorkin",
+      "correct": false
+    }
+  ],
+  "explanation": "Arrested Development fue creada o cocreada por Mitchell Hurwitz.",
+  "sources": [
+    {
+      "title": "Wikipedia - Arrested Development",
+      "url": "https://es.wikipedia.org/wiki/Arrested_Development"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "arrested-development"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

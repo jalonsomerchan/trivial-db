@@ -1,0 +1,43 @@
+{
+  "id": "q-003941",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "afinaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la afinación estándar más habitual de ukelele soprano, de grave a agudo?",
+  "answers": [
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "sol-do-mi-la",
+      "correct": true
+    },
+    {
+      "text": "do-fa-la-re",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "La afinación estándar más habitual de ukelele soprano es sol-do-mi-la.",
+  "sources": [
+    {
+      "title": "Wikipedia - ukelele soprano",
+      "url": "https://es.wikipedia.org/wiki/ukelele_soprano"
+    }
+  ],
+  "tags": [
+    "musica",
+    "afinacion",
+    "ukelele-soprano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

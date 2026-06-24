@@ -1,0 +1,43 @@
+{
+  "id": "q-003752",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo Copa Davis?",
+  "answers": [
+    {
+      "text": "tenis masculino por equipos",
+      "correct": true
+    },
+    {
+      "text": "balonmano europeo",
+      "correct": false
+    },
+    {
+      "text": "portero menos goleado de LaLiga",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "Copa Davis se asocia con tenis masculino por equipos.",
+  "sources": [
+    {
+      "title": "Wikipedia - Copa Davis",
+      "url": "https://es.wikipedia.org/wiki/Copa_Davis"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "copa-davis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

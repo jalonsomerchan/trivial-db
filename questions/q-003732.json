@@ -1,0 +1,43 @@
+{
+  "id": "q-003732",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie Fleabag?",
+  "answers": [
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Vince Gilligan",
+      "correct": false
+    },
+    {
+      "text": "Phoebe Waller-Bridge",
+      "correct": true
+    },
+    {
+      "text": "J. J. Abrams, Damon Lindelof y Jeffrey Lieber",
+      "correct": false
+    }
+  ],
+  "explanation": "Fleabag fue creada o cocreada por Phoebe Waller-Bridge.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fleabag",
+      "url": "https://es.wikipedia.org/wiki/Fleabag"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "fleabag"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

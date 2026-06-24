@@ -1,0 +1,43 @@
+{
+  "id": "q-003730",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie The X-Files?",
+  "answers": [
+    {
+      "text": "Vince Gilligan y Peter Gould",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Chris Carter",
+      "correct": true
+    },
+    {
+      "text": "Ryan Murphy",
+      "correct": false
+    }
+  ],
+  "explanation": "The X-Files fue creada o cocreada por Chris Carter.",
+  "sources": [
+    {
+      "title": "Wikipedia - The X-Files",
+      "url": "https://es.wikipedia.org/wiki/The_X-Files"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "the-x-files"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

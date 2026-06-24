@@ -1,0 +1,43 @@
+{
+  "id": "q-004026",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "tiempo-geologico"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué era geológica pertenece el período Neógeno?",
+  "answers": [
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Mesozoico",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Cenozoico",
+      "correct": true
+    }
+  ],
+  "explanation": "El período Neógeno pertenece a la era Cenozoico.",
+  "sources": [
+    {
+      "title": "Wikipedia - Escala temporal geológica",
+      "url": "https://es.wikipedia.org/wiki/tiempo_geol%C3%B3gico"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "geologia",
+    "neogeno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

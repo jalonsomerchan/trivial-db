@@ -1,0 +1,43 @@
+{
+  "id": "q-003747",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie BoJack Horseman?",
+  "answers": [
+    {
+      "text": "Raphael Bob-Waksberg",
+      "correct": true
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "David Lynch y Mark Frost",
+      "correct": false
+    },
+    {
+      "text": "Phoebe Waller-Bridge",
+      "correct": false
+    }
+  ],
+  "explanation": "BoJack Horseman fue creada o cocreada por Raphael Bob-Waksberg.",
+  "sources": [
+    {
+      "title": "Wikipedia - BoJack Horseman",
+      "url": "https://es.wikipedia.org/wiki/BoJack_Horseman"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "bojack-horseman"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

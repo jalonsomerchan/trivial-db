@@ -1,0 +1,43 @@
+{
+  "id": "q-004030",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-cuantitativa"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico o ambiental se define como “similitud entre conjuntos de especies”?",
+  "answers": [
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "respiración ecosistémica",
+      "correct": false
+    },
+    {
+      "text": "producción primaria bruta",
+      "correct": false
+    },
+    {
+      "text": "índice de Jaccard",
+      "correct": true
+    }
+  ],
+  "explanation": "El concepto definido es índice de Jaccard.",
+  "sources": [
+    {
+      "title": "Wikipedia - índice de Jaccard",
+      "url": "https://es.wikipedia.org/wiki/%C3%ADndice_de_Jaccard"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "ecologia",
+    "indice-de-jaccard"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

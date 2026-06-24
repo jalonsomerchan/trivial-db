@@ -1,0 +1,43 @@
+{
+  "id": "q-003488",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Joseph Knecht?",
+  "answers": [
+    {
+      "text": "La colmena",
+      "correct": false
+    },
+    {
+      "text": "Rayuela",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "El juego de los abalorios",
+      "correct": true
+    }
+  ],
+  "explanation": "Joseph Knecht aparece en El juego de los abalorios.",
+  "sources": [
+    {
+      "title": "Wikipedia - El juego de los abalorios",
+      "url": "https://es.wikipedia.org/wiki/El_juego_de_los_abalorios"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "joseph-knecht"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003670",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película La forma del agua?",
+  "answers": [
+    {
+      "text": "Walter Salles",
+      "correct": false
+    },
+    {
+      "text": "Paweł Pawlikowski",
+      "correct": false
+    },
+    {
+      "text": "Guillermo del Toro",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    }
+  ],
+  "explanation": "La forma del agua fue dirigida por Guillermo del Toro.",
+  "sources": [
+    {
+      "title": "Wikipedia - La forma del agua",
+      "url": "https://es.wikipedia.org/wiki/La_forma_del_agua"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "guillermo-del-toro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

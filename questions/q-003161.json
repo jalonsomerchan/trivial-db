@@ -1,0 +1,43 @@
+{
+  "id": "q-003161",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas-avanzadas"
+  ],
+  "difficulty": "hard",
+  "question": "En informática, ¿qué significa o describe la sigla XSS?",
+  "answers": [
+    {
+      "text": "Cross-Site Scripting",
+      "correct": true
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Border Gateway Protocol",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "XSS se usa para referirse a Cross-Site Scripting.",
+  "sources": [
+    {
+      "title": "Wikipedia - XSS",
+      "url": "https://es.wikipedia.org/wiki/XSS"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "xss"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

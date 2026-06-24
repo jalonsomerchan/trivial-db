@@ -1,0 +1,43 @@
+{
+  "id": "q-003628",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Santa Sofía de Constantinopla?",
+  "answers": [
+    {
+      "text": "posmodernismo",
+      "correct": false
+    },
+    {
+      "text": "románico",
+      "correct": false
+    },
+    {
+      "text": "gótico",
+      "correct": false
+    },
+    {
+      "text": "bizantino",
+      "correct": true
+    }
+  ],
+  "explanation": "Santa Sofía de Constantinopla se asocia con bizantino.",
+  "sources": [
+    {
+      "title": "Wikipedia - Santa Sofía de Constantinopla",
+      "url": "https://es.wikipedia.org/wiki/Santa_Sof%C3%ADa_de_Constantinopla"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "bizantino"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

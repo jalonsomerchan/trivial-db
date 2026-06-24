@@ -1,0 +1,43 @@
+{
+  "id": "q-003746",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie Black Mirror?",
+  "answers": [
+    {
+      "text": "Russell T Davies",
+      "correct": false
+    },
+    {
+      "text": "Ricky Gervais y Stephen Merchant",
+      "correct": false
+    },
+    {
+      "text": "Larry David",
+      "correct": false
+    },
+    {
+      "text": "Charlie Brooker",
+      "correct": true
+    }
+  ],
+  "explanation": "Black Mirror fue creada o cocreada por Charlie Brooker.",
+  "sources": [
+    {
+      "title": "Wikipedia - Black Mirror",
+      "url": "https://es.wikipedia.org/wiki/Black_Mirror"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "black-mirror"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

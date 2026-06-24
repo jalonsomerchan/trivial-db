@@ -1,0 +1,43 @@
+{
+  "id": "q-003593",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente La maja desnuda?",
+  "answers": [
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Museo del Prado",
+      "correct": true
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Museum of Modern Art de Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "La maja desnuda se conserva habitualmente en Museo del Prado.",
+  "sources": [
+    {
+      "title": "Wikipedia - La maja desnuda",
+      "url": "https://es.wikipedia.org/wiki/La_maja_desnuda"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "la-maja-desnuda"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

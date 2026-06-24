@@ -1,0 +1,43 @@
+{
+  "id": "q-003600",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “transición suave y difuminada entre tonos”?",
+  "answers": [
+    {
+      "text": "sfumato",
+      "correct": true
+    },
+    {
+      "text": "fresco",
+      "correct": false
+    },
+    {
+      "text": "encáustica",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es sfumato.",
+  "sources": [
+    {
+      "title": "Wikipedia - sfumato",
+      "url": "https://es.wikipedia.org/wiki/sfumato"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "sfumato"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

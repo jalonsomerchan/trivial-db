@@ -1,0 +1,43 @@
+{
+  "id": "q-003496",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje La Maga?",
+  "answers": [
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": false
+    },
+    {
+      "text": "La peste",
+      "correct": false
+    },
+    {
+      "text": "El extranjero",
+      "correct": false
+    },
+    {
+      "text": "Rayuela",
+      "correct": true
+    }
+  ],
+  "explanation": "La Maga aparece en Rayuela.",
+  "sources": [
+    {
+      "title": "Wikipedia - Rayuela",
+      "url": "https://es.wikipedia.org/wiki/Rayuela"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "la-maga"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

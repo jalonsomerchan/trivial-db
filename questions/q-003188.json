@@ -1,0 +1,43 @@
+{
+  "id": "q-003188",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "nutricion-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué déficit nutricional se asocia clásicamente con glositis y queilosis por déficit?",
+  "answers": [
+    {
+      "text": "vitamina B12",
+      "correct": false
+    },
+    {
+      "text": "vitamina B12 o folato",
+      "correct": false
+    },
+    {
+      "text": "riboflavina",
+      "correct": true
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    }
+  ],
+  "explanation": "Glositis y queilosis por déficit se asocia clásicamente al déficit de riboflavina.",
+  "sources": [
+    {
+      "title": "Wikipedia - Manual MSD - Vitaminas",
+      "url": "https://es.wikipedia.org/wiki/vitaminas"
+    }
+  ],
+  "tags": [
+    "salud",
+    "nutricion",
+    "glositis-y-queilosis-por-deficit"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

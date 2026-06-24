@@ -1,0 +1,43 @@
+{
+  "id": "q-003658",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Burning?",
+  "answers": [
+    {
+      "text": "Pedro Almodóvar",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Lee Chang-dong",
+      "correct": true
+    },
+    {
+      "text": "Abbas Kiarostami",
+      "correct": false
+    }
+  ],
+  "explanation": "Burning fue dirigida por Lee Chang-dong.",
+  "sources": [
+    {
+      "title": "Wikipedia - Burning",
+      "url": "https://es.wikipedia.org/wiki/Burning"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "lee-chang-dong"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

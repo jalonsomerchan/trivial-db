@@ -1,0 +1,43 @@
+{
+  "id": "q-003533",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "teoria-literaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto literario se define como “repetición de una palabra al inicio y final de un enunciado”?",
+  "answers": [
+    {
+      "text": "epanadiplosis",
+      "correct": true
+    },
+    {
+      "text": "quiasmo",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": false
+    },
+    {
+      "text": "anáfora",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto literario definido es epanadiplosis.",
+  "sources": [
+    {
+      "title": "Wikipedia - epanadiplosis",
+      "url": "https://es.wikipedia.org/wiki/epanadiplosis"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "teoria-literaria",
+    "epanadiplosis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

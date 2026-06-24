@@ -1,0 +1,43 @@
+{
+  "id": "q-003158",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas-avanzadas"
+  ],
+  "difficulty": "hard",
+  "question": "En informática, ¿qué significa o describe la sigla JWT?",
+  "answers": [
+    {
+      "text": "JSON Web Token",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "lenguaje ensamblador",
+      "correct": false
+    },
+    {
+      "text": "Crear, Leer, Actualizar y Borrar",
+      "correct": false
+    }
+  ],
+  "explanation": "JWT se usa para referirse a JSON Web Token.",
+  "sources": [
+    {
+      "title": "Wikipedia - JWT",
+      "url": "https://es.wikipedia.org/wiki/JWT"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "jwt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

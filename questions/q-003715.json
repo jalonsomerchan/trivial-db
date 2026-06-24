@@ -1,0 +1,43 @@
+{
+  "id": "q-003715",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “montaje orientado a la continuidad narrativa”?",
+  "answers": [
+    {
+      "text": "cliffhanger",
+      "correct": false
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "foley",
+      "correct": false
+    },
+    {
+      "text": "continuity editing",
+      "correct": true
+    }
+  ],
+  "explanation": "El término audiovisual definido es continuity editing.",
+  "sources": [
+    {
+      "title": "Wikipedia - continuity editing",
+      "url": "https://es.wikipedia.org/wiki/continuity_editing"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "continuity-editing"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

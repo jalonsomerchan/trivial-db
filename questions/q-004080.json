@@ -1,0 +1,43 @@
+{
+  "id": "q-004080",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "exploracion-clinica"
+  ],
+  "difficulty": "hard",
+  "question": "En exploración clínica, ¿con qué se relaciona principalmente el signo de Babinski?",
+  "answers": [
+    {
+      "text": "raíces C5-C6",
+      "correct": false
+    },
+    {
+      "text": "permeabilidad de arterias radial y cubital",
+      "correct": false
+    },
+    {
+      "text": "respuesta plantar extensora",
+      "correct": true
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "El signo de babinski se relaciona principalmente con respuesta plantar extensora.",
+  "sources": [
+    {
+      "title": "Wikipedia - Exploración física",
+      "url": "https://es.wikipedia.org/wiki/el_signo_de_Babinski"
+    }
+  ],
+  "tags": [
+    "salud",
+    "exploracion-clinica",
+    "el-signo-de-babinski"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

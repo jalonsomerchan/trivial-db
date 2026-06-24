@@ -1,0 +1,43 @@
+{
+  "id": "q-003465",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Stephen Dedalus?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "Ulises",
+      "correct": true
+    }
+  ],
+  "explanation": "Stephen Dedalus aparece en Ulises.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ulises",
+      "url": "https://es.wikipedia.org/wiki/Ulises"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "stephen-dedalus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

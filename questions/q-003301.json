@@ -1,0 +1,43 @@
+{
+  "id": "q-003301",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "bebidas-destiladas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la materia prima característica de tequila?",
+  "answers": [
+    {
+      "text": "agave azul",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "dátiles",
+      "correct": false
+    },
+    {
+      "text": "jugo de caña de azúcar",
+      "correct": false
+    }
+  ],
+  "explanation": "Tequila se elabora tradicionalmente a partir de agave azul.",
+  "sources": [
+    {
+      "title": "Wikipedia - tequila",
+      "url": "https://es.wikipedia.org/wiki/tequila"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bebidas",
+    "tequila"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

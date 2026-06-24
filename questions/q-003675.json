@@ -1,0 +1,43 @@
+{
+  "id": "q-003675",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Una separación?",
+  "answers": [
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Paweł Pawlikowski",
+      "correct": false
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Asghar Farhadi",
+      "correct": true
+    }
+  ],
+  "explanation": "Una separación fue dirigida por Asghar Farhadi.",
+  "sources": [
+    {
+      "title": "Wikipedia - Una separación",
+      "url": "https://es.wikipedia.org/wiki/Una_separaci%C3%B3n"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "asghar-farhadi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

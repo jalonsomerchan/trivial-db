@@ -1,0 +1,43 @@
+{
+  "id": "q-003363",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tipo o estilo describe mejor al queso Comté?",
+  "answers": [
+    {
+      "text": "pasta hilada rellena",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "pasta prensada cocida",
+      "correct": true
+    }
+  ],
+  "explanation": "Comté se clasifica habitualmente como pasta prensada cocida.",
+  "sources": [
+    {
+      "title": "Wikipedia - Comté",
+      "url": "https://es.wikipedia.org/wiki/Comt%C3%A9"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "quesos",
+    "comte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

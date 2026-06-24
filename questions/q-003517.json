@@ -1,0 +1,43 @@
+{
+  "id": "q-003517",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "teoria-literaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto literario se define como “deformación grotesca de la realidad asociada a Valle-Inclán”?",
+  "answers": [
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "pleonasmo",
+      "correct": false
+    },
+    {
+      "text": "esperpento",
+      "correct": true
+    },
+    {
+      "text": "realismo mágico",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto literario definido es esperpento.",
+  "sources": [
+    {
+      "title": "Wikipedia - esperpento",
+      "url": "https://es.wikipedia.org/wiki/esperpento"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "teoria-literaria",
+    "esperpento"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

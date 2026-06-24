@@ -1,0 +1,43 @@
+{
+  "id": "q-003333",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en quesos azules?",
+  "answers": [
+    {
+      "text": "SCOBY de bacterias acéticas y levaduras",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Penicillium roqueforti",
+      "correct": true
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "En quesos azules interviene de forma característica Penicillium roqueforti.",
+  "sources": [
+    {
+      "title": "Wikipedia - quesos azules",
+      "url": "https://es.wikipedia.org/wiki/quesos_azules"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "quesos-azules"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

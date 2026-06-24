@@ -1,0 +1,43 @@
+{
+  "id": "q-003797",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué deporte se usa especialmente el término eagle?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": true
+    },
+    {
+      "text": "esgrima",
+      "correct": false
+    }
+  ],
+  "explanation": "El término eagle se usa especialmente en golf.",
+  "sources": [
+    {
+      "title": "Wikipedia - eagle",
+      "url": "https://es.wikipedia.org/wiki/eagle"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "terminologia",
+    "eagle"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

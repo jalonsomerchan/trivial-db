@@ -1,0 +1,43 @@
+{
+  "id": "q-003178",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas-avanzadas"
+  ],
+  "difficulty": "hard",
+  "question": "En informática, ¿qué significa o describe la sigla OLTP?",
+  "answers": [
+    {
+      "text": "JSON Web Token",
+      "correct": false
+    },
+    {
+      "text": "Cross-Origin Resource Sharing",
+      "correct": false
+    },
+    {
+      "text": "Conflict-free Replicated Data Type",
+      "correct": false
+    },
+    {
+      "text": "Online Transaction Processing",
+      "correct": true
+    }
+  ],
+  "explanation": "OLTP se usa para referirse a Online Transaction Processing.",
+  "sources": [
+    {
+      "title": "Wikipedia - OLTP",
+      "url": "https://es.wikipedia.org/wiki/OLTP"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "oltp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

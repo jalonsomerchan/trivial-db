@@ -1,0 +1,43 @@
+{
+  "id": "q-004033",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-cuantitativa"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico o ambiental se define como “carbono fijado menos respiración de productores”?",
+  "answers": [
+    {
+      "text": "biocapacidad",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "resiliencia ecológica",
+      "correct": false
+    },
+    {
+      "text": "producción primaria neta",
+      "correct": true
+    }
+  ],
+  "explanation": "El concepto definido es producción primaria neta.",
+  "sources": [
+    {
+      "title": "Wikipedia - producción primaria neta",
+      "url": "https://es.wikipedia.org/wiki/producci%C3%B3n_primaria_neta"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "ecologia",
+    "produccion-primaria-neta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004063",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante E = qV?",
+  "answers": [
+    {
+      "text": "calor sensible",
+      "correct": false
+    },
+    {
+      "text": "definición de pH",
+      "correct": false
+    },
+    {
+      "text": "energía de una carga en un potencial",
+      "correct": true
+    },
+    {
+      "text": "ley de Bragg",
+      "correct": false
+    }
+  ],
+  "explanation": "E = qV representa energía de una carga en un potencial.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "energia-de-una-carga-en-un-potencial"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

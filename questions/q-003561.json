@@ -1,0 +1,43 @@
+{
+  "id": "q-003561",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente La primavera?",
+  "answers": [
+    {
+      "text": "Galería Uffizi",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Kunsthaus Zürich",
+      "correct": false
+    },
+    {
+      "text": "Galería de la Academia de Venecia",
+      "correct": false
+    }
+  ],
+  "explanation": "La primavera se conserva habitualmente en Galería Uffizi.",
+  "sources": [
+    {
+      "title": "Wikipedia - La primavera",
+      "url": "https://es.wikipedia.org/wiki/La_primavera"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "la-primavera"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

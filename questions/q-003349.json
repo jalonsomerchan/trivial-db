@@ -1,0 +1,43 @@
+{
+  "id": "q-003349",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cereales-y-masas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué base farinácea o cereal se asocia de forma característica con freekeh?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "harina y huevo",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "trigo verde tostado",
+      "correct": true
+    }
+  ],
+  "explanation": "Freekeh se asocia característicamente con trigo verde tostado.",
+  "sources": [
+    {
+      "title": "Wikipedia - freekeh",
+      "url": "https://es.wikipedia.org/wiki/freekeh"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereales",
+    "freekeh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

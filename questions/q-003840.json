@@ -1,0 +1,43 @@
+{
+  "id": "q-003840",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "juegos-olimpicos-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno de 1994?",
+  "answers": [
+    {
+      "text": "Turín",
+      "correct": false
+    },
+    {
+      "text": "Lillehammer",
+      "correct": true
+    },
+    {
+      "text": "Salt Lake City",
+      "correct": false
+    },
+    {
+      "text": "Ciudad de México",
+      "correct": false
+    }
+  ],
+  "explanation": "Los Juegos Olímpicos de Invierno de 1994 se celebraron en Lillehammer.",
+  "sources": [
+    {
+      "title": "Wikipedia - Juegos Olímpicos",
+      "url": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_Invierno_de_1994"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "juegos-olimpicos",
+    "lillehammer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003635",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Villa Savoye?",
+  "answers": [
+    {
+      "text": "gótico",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "movimiento moderno",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "Villa Savoye se asocia con movimiento moderno.",
+  "sources": [
+    {
+      "title": "Wikipedia - Villa Savoye",
+      "url": "https://es.wikipedia.org/wiki/Villa_Savoye"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "movimiento-moderno"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

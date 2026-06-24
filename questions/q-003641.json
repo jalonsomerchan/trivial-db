@@ -1,0 +1,43 @@
+{
+  "id": "q-003641",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Taj Mahal?",
+  "answers": [
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "arquitectura mogol",
+      "correct": true
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    }
+  ],
+  "explanation": "Taj Mahal se asocia con arquitectura mogol.",
+  "sources": [
+    {
+      "title": "Wikipedia - Taj Mahal",
+      "url": "https://es.wikipedia.org/wiki/Taj_Mahal"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "arquitectura-mogol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

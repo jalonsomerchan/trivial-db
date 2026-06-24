@@ -1,0 +1,43 @@
+{
+  "id": "q-003783",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué deporte se usa especialmente el término pick and roll?",
+  "answers": [
+    {
+      "text": "baloncesto",
+      "correct": true
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "El término pick and roll se usa especialmente en baloncesto.",
+  "sources": [
+    {
+      "title": "Wikipedia - pick and roll",
+      "url": "https://es.wikipedia.org/wiki/pick_and_roll"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "terminologia",
+    "pick-and-roll"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

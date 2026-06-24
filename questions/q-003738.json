@@ -1,0 +1,43 @@
+{
+  "id": "q-003738",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie Parks and Recreation?",
+  "answers": [
+    {
+      "text": "Vince Gilligan y Peter Gould",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Greg Daniels y Michael Schur",
+      "correct": true
+    }
+  ],
+  "explanation": "Parks and Recreation fue creada o cocreada por Greg Daniels y Michael Schur.",
+  "sources": [
+    {
+      "title": "Wikipedia - Parks and Recreation",
+      "url": "https://es.wikipedia.org/wiki/Parks_and_Recreation"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "parks-and-recreation"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

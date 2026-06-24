@@ -1,0 +1,43 @@
+{
+  "id": "q-003603",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “aplicación espesa de pintura con relieve”?",
+  "answers": [
+    {
+      "text": "impasto",
+      "correct": true
+    },
+    {
+      "text": "grattage",
+      "correct": false
+    },
+    {
+      "text": "carboncillo",
+      "correct": false
+    },
+    {
+      "text": "assemblage",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es impasto.",
+  "sources": [
+    {
+      "title": "Wikipedia - impasto",
+      "url": "https://es.wikipedia.org/wiki/impasto"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "impasto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

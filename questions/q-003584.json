@@ -1,0 +1,43 @@
+{
+  "id": "q-003584",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente Los jugadores de cartas?",
+  "answers": [
+    {
+      "text": "Musée d’Orsay",
+      "correct": true
+    },
+    {
+      "text": "Museo Thyssen-Bornemisza",
+      "correct": false
+    },
+    {
+      "text": "Musée Marmottan Monet",
+      "correct": false
+    },
+    {
+      "text": "Rijksmuseum",
+      "correct": false
+    }
+  ],
+  "explanation": "Los jugadores de cartas se conserva habitualmente en Musée d’Orsay.",
+  "sources": [
+    {
+      "title": "Wikipedia - Los jugadores de cartas",
+      "url": "https://es.wikipedia.org/wiki/Los_jugadores_de_cartas"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "los-jugadores-de-cartas"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

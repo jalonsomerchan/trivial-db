@@ -1,0 +1,43 @@
+{
+  "id": "q-003648",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Pagoda Hōryū-ji?",
+  "answers": [
+    {
+      "text": "arquitectura islámica",
+      "correct": false
+    },
+    {
+      "text": "racionalismo estructural",
+      "correct": false
+    },
+    {
+      "text": "arquitectura budista japonesa",
+      "correct": true
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    }
+  ],
+  "explanation": "Pagoda Hōryū-ji se asocia con arquitectura budista japonesa.",
+  "sources": [
+    {
+      "title": "Wikipedia - Pagoda Hōryū-ji",
+      "url": "https://es.wikipedia.org/wiki/Pagoda_H%C5%8Dry%C5%AB-ji"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "arquitectura-budista-japonesa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

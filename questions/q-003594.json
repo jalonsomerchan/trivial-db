@@ -1,0 +1,43 @@
+{
+  "id": "q-003594",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente El entierro del conde de Orgaz?",
+  "answers": [
+    {
+      "text": "Museum of Modern Art de Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Iglesia de Santo Tomé de Toledo",
+      "correct": true
+    },
+    {
+      "text": "National Gallery de Londres",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    }
+  ],
+  "explanation": "El entierro del conde de Orgaz se conserva habitualmente en Iglesia de Santo Tomé de Toledo.",
+  "sources": [
+    {
+      "title": "Wikipedia - El entierro del conde de Orgaz",
+      "url": "https://es.wikipedia.org/wiki/El_entierro_del_conde_de_Orgaz"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "el-entierro-del-conde-de-orgaz"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

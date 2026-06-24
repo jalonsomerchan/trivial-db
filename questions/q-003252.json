@@ -1,0 +1,43 @@
+{
+  "id": "q-003252",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "farmacologia-basica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué receptor se asocia principalmente con broncodilatación por agonistas simpáticos?",
+  "answers": [
+    {
+      "text": "receptor AMPA",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "receptores beta-2 adrenérgicos",
+      "correct": true
+    },
+    {
+      "text": "receptor de estrógeno",
+      "correct": false
+    }
+  ],
+  "explanation": "Broncodilatación por agonistas simpáticos se asocia principalmente con receptores beta-2 adrenérgicos.",
+  "sources": [
+    {
+      "title": "Wikipedia - Receptor celular",
+      "url": "https://es.wikipedia.org/wiki/receptores"
+    }
+  ],
+  "tags": [
+    "salud",
+    "farmacologia",
+    "receptores-beta-2-adrenergicos"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

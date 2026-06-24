@@ -1,0 +1,43 @@
+{
+  "id": "q-003482",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Rastignac?",
+  "answers": [
+    {
+      "text": "Orlando",
+      "correct": false
+    },
+    {
+      "text": "La educación sentimental",
+      "correct": false
+    },
+    {
+      "text": "Lolita",
+      "correct": false
+    },
+    {
+      "text": "Papá Goriot",
+      "correct": true
+    }
+  ],
+  "explanation": "Rastignac aparece en Papá Goriot.",
+  "sources": [
+    {
+      "title": "Wikipedia - Papá Goriot",
+      "url": "https://es.wikipedia.org/wiki/Pap%C3%A1_Goriot"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "rastignac"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

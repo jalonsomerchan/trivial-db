@@ -1,0 +1,43 @@
+{
+  "id": "q-003449",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “sistema agrícola mesoamericano en zonas lacustres”?",
+  "answers": [
+    {
+      "text": "chinampa",
+      "correct": true
+    },
+    {
+      "text": "comendador",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "encomienda",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es chinampa.",
+  "sources": [
+    {
+      "title": "Wikipedia - chinampa",
+      "url": "https://es.wikipedia.org/wiki/chinampa"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "chinampa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003789",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué deporte se usa especialmente el término safety?",
+  "answers": [
+    {
+      "text": "hockey hierba",
+      "correct": false
+    },
+    {
+      "text": "boxeo",
+      "correct": false
+    },
+    {
+      "text": "fútbol americano",
+      "correct": true
+    },
+    {
+      "text": "patinaje artístico",
+      "correct": false
+    }
+  ],
+  "explanation": "El término safety se usa especialmente en fútbol americano.",
+  "sources": [
+    {
+      "title": "Wikipedia - safety",
+      "url": "https://es.wikipedia.org/wiki/safety"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "terminologia",
+    "safety"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003579",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente La noche estrellada?",
+  "answers": [
+    {
+      "text": "Museo Thyssen-Bornemisza",
+      "correct": false
+    },
+    {
+      "text": "Rijksmuseum",
+      "correct": false
+    },
+    {
+      "text": "Galería de la Academia de Venecia",
+      "correct": false
+    },
+    {
+      "text": "Museum of Modern Art de Nueva York",
+      "correct": true
+    }
+  ],
+  "explanation": "La noche estrellada se conserva habitualmente en Museum of Modern Art de Nueva York.",
+  "sources": [
+    {
+      "title": "Wikipedia - La noche estrellada",
+      "url": "https://es.wikipedia.org/wiki/La_noche_estrellada"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "la-noche-estrellada"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

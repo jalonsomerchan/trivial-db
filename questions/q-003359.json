@@ -1,0 +1,43 @@
+{
+  "id": "q-003359",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cereales-y-masas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué base farinácea o cereal se asocia de forma característica con pierogi?",
+  "answers": [
+    {
+      "text": "masa de harina rellena",
+      "correct": true
+    },
+    {
+      "text": "centeno",
+      "correct": false
+    },
+    {
+      "text": "harina y huevo",
+      "correct": false
+    },
+    {
+      "text": "quinoa",
+      "correct": false
+    }
+  ],
+  "explanation": "Pierogi se asocia característicamente con masa de harina rellena.",
+  "sources": [
+    {
+      "title": "Wikipedia - pierogi",
+      "url": "https://es.wikipedia.org/wiki/pierogi"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereales",
+    "pierogi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

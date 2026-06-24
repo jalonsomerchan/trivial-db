@@ -1,0 +1,43 @@
+{
+  "id": "q-003463",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué país o zona se asocia principalmente Gran Salto Adelante?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "China",
+      "correct": true
+    },
+    {
+      "text": "Portugal",
+      "correct": false
+    },
+    {
+      "text": "Vietnam",
+      "correct": false
+    }
+  ],
+  "explanation": "Gran Salto Adelante se asocia principalmente con China.",
+  "sources": [
+    {
+      "title": "Wikipedia - Gran Salto Adelante",
+      "url": "https://es.wikipedia.org/wiki/Gran_Salto_Adelante"
+    }
+  ],
+  "tags": [
+    "historia",
+    "contemporanea",
+    "gran-salto-adelante"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003500",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Clarissa Dalloway?",
+  "answers": [
+    {
+      "text": "El juego de los abalorios",
+      "correct": false
+    },
+    {
+      "text": "La señora Dalloway",
+      "correct": true
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "El guardián entre el centeno",
+      "correct": false
+    }
+  ],
+  "explanation": "Clarissa Dalloway aparece en La señora Dalloway.",
+  "sources": [
+    {
+      "title": "Wikipedia - La señora Dalloway",
+      "url": "https://es.wikipedia.org/wiki/La_se%C3%B1ora_Dalloway"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "clarissa-dalloway"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

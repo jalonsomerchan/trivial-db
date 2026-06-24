@@ -1,0 +1,43 @@
+{
+  "id": "q-003699",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “corte abrupto que rompe continuidad temporal”?",
+  "answers": [
+    {
+      "text": "plano secuencia",
+      "correct": false
+    },
+    {
+      "text": "raccord",
+      "correct": false
+    },
+    {
+      "text": "blooper",
+      "correct": false
+    },
+    {
+      "text": "jump cut",
+      "correct": true
+    }
+  ],
+  "explanation": "El término audiovisual definido es jump cut.",
+  "sources": [
+    {
+      "title": "Wikipedia - jump cut",
+      "url": "https://es.wikipedia.org/wiki/jump_cut"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "jump-cut"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

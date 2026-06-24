@@ -1,0 +1,43 @@
+{
+  "id": "q-003163",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas-avanzadas"
+  ],
+  "difficulty": "hard",
+  "question": "En informática, ¿qué significa o describe la sigla ORM?",
+  "answers": [
+    {
+      "text": "Content Delivery Network",
+      "correct": false
+    },
+    {
+      "text": "modelo de cajas CSS",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Object-Relational Mapping",
+      "correct": true
+    }
+  ],
+  "explanation": "ORM se usa para referirse a Object-Relational Mapping.",
+  "sources": [
+    {
+      "title": "Wikipedia - ORM",
+      "url": "https://es.wikipedia.org/wiki/ORM"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "orm"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

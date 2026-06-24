@@ -1,0 +1,43 @@
+{
+  "id": "q-003447",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “sistema andino de registro con cuerdas y nudos”?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "quipu",
+      "correct": true
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es quipu.",
+  "sources": [
+    {
+      "title": "Wikipedia - quipu",
+      "url": "https://es.wikipedia.org/wiki/quipu"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "quipu"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

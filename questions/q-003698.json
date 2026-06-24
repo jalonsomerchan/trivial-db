@@ -1,0 +1,43 @@
+{
+  "id": "q-003698",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “corte que enlaza dos planos por similitud visual o sonora”?",
+  "answers": [
+    {
+      "text": "film noir",
+      "correct": false
+    },
+    {
+      "text": "match cut",
+      "correct": true
+    },
+    {
+      "text": "slapstick",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    }
+  ],
+  "explanation": "El término audiovisual definido es match cut.",
+  "sources": [
+    {
+      "title": "Wikipedia - match cut",
+      "url": "https://es.wikipedia.org/wiki/match_cut"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "match-cut"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

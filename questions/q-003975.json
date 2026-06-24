@@ -1,0 +1,43 @@
+{
+  "id": "q-003975",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué orden taxonómico pertenecen principalmente abejas, avispas y hormigas?",
+  "answers": [
+    {
+      "text": "Hymenoptera",
+      "correct": true
+    },
+    {
+      "text": "Crocodylia",
+      "correct": false
+    },
+    {
+      "text": "Testudines",
+      "correct": false
+    },
+    {
+      "text": "Galliformes",
+      "correct": false
+    }
+  ],
+  "explanation": "Abejas, avispas y hormigas pertenecen principalmente al orden Hymenoptera.",
+  "sources": [
+    {
+      "title": "Wikipedia - Taxonomía",
+      "url": "https://es.wikipedia.org/wiki/taxonomia"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "taxonomia",
+    "hymenoptera"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

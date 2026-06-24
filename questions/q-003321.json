@@ -1,0 +1,43 @@
+{
+  "id": "q-003321",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en kombucha?",
+  "answers": [
+    {
+      "text": "Brettanomyces bruxellensis",
+      "correct": false
+    },
+    {
+      "text": "SCOBY de bacterias acéticas y levaduras",
+      "correct": true
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    }
+  ],
+  "explanation": "En kombucha interviene de forma característica SCOBY de bacterias acéticas y levaduras.",
+  "sources": [
+    {
+      "title": "Wikipedia - kombucha",
+      "url": "https://es.wikipedia.org/wiki/kombucha"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "kombucha"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

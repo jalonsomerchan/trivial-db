@@ -1,0 +1,43 @@
+{
+  "id": "q-003903",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-discografia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo grabó el álbum de jazz Getz/Gilberto?",
+  "answers": [
+    {
+      "text": "Stan Getz y João Gilberto",
+      "correct": true
+    },
+    {
+      "text": "Art Blakey and the Jazz Messengers",
+      "correct": false
+    },
+    {
+      "text": "Count Basie",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "Getz/Gilberto fue grabado por Stan Getz y João Gilberto.",
+  "sources": [
+    {
+      "title": "Wikipedia - Getz/Gilberto",
+      "url": "https://es.wikipedia.org/wiki/Getz/Gilberto"
+    }
+  ],
+  "tags": [
+    "musica",
+    "jazz",
+    "stan-getz-y-joao-gilberto"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

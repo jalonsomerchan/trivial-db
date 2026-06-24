@@ -1,0 +1,43 @@
+{
+  "id": "q-003776",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo Collar verde?",
+  "answers": [
+    {
+      "text": "fútbol sudamericano de clubes",
+      "correct": false
+    },
+    {
+      "text": "fútbol americano",
+      "correct": false
+    },
+    {
+      "text": "fútbol canadiense",
+      "correct": false
+    },
+    {
+      "text": "masters de snooker",
+      "correct": true
+    }
+  ],
+  "explanation": "Collar verde se asocia con masters de snooker.",
+  "sources": [
+    {
+      "title": "Wikipedia - Collar verde",
+      "url": "https://es.wikipedia.org/wiki/Collar_verde"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "collar-verde"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

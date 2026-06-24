@@ -1,0 +1,43 @@
+{
+  "id": "q-003899",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-discografia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo grabó el álbum de jazz Ella and Louis?",
+  "answers": [
+    {
+      "text": "Ella Fitzgerald y Louis Armstrong",
+      "correct": true
+    },
+    {
+      "text": "Dave Brubeck Quartet",
+      "correct": false
+    },
+    {
+      "text": "Chet Baker",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    }
+  ],
+  "explanation": "Ella and Louis fue grabado por Ella Fitzgerald y Louis Armstrong.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ella and Louis",
+      "url": "https://es.wikipedia.org/wiki/Ella_and_Louis"
+    }
+  ],
+  "tags": [
+    "musica",
+    "jazz",
+    "ella-fitzgerald-y-louis-armstrong"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

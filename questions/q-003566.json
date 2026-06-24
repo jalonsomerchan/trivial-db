@@ -1,0 +1,43 @@
+{
+  "id": "q-003566",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente La balsa de la Medusa?",
+  "answers": [
+    {
+      "text": "Musée Marmottan Monet",
+      "correct": false
+    },
+    {
+      "text": "National Gallery de Londres",
+      "correct": false
+    },
+    {
+      "text": "Kunsthistorisches Museum de Viena",
+      "correct": false
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": true
+    }
+  ],
+  "explanation": "La balsa de la Medusa se conserva habitualmente en Museo del Louvre.",
+  "sources": [
+    {
+      "title": "Wikipedia - La balsa de la Medusa",
+      "url": "https://es.wikipedia.org/wiki/La_balsa_de_la_Medusa"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "la-balsa-de-la-medusa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

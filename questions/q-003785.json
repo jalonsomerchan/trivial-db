@@ -1,0 +1,43 @@
+{
+  "id": "q-003785",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué deporte se usa especialmente el término hat-trick?",
+  "answers": [
+    {
+      "text": "hockey hierba",
+      "correct": false
+    },
+    {
+      "text": "tenis",
+      "correct": false
+    },
+    {
+      "text": "fútbol y otros deportes",
+      "correct": true
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    }
+  ],
+  "explanation": "El término hat-trick se usa especialmente en fútbol y otros deportes.",
+  "sources": [
+    {
+      "title": "Wikipedia - hat-trick",
+      "url": "https://es.wikipedia.org/wiki/hat-trick"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "terminologia",
+    "hat-trick"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

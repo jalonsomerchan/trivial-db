@@ -1,0 +1,43 @@
+{
+  "id": "q-003625",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “grabado químico con ácido sobre metal”?",
+  "answers": [
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "aguafuerte",
+      "correct": true
+    },
+    {
+      "text": "linograbado",
+      "correct": false
+    },
+    {
+      "text": "trompe-l’œil",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es aguafuerte.",
+  "sources": [
+    {
+      "title": "Wikipedia - aguafuerte",
+      "url": "https://es.wikipedia.org/wiki/aguafuerte"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "aguafuerte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

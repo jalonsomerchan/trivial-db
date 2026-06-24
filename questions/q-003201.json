@@ -1,0 +1,43 @@
+{
+  "id": "q-003201",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "neuroanatomia"
+  ],
+  "difficulty": "hard",
+  "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano VII?",
+  "answers": [
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "nervio vago",
+      "correct": false
+    },
+    {
+      "text": "nervio facial",
+      "correct": true
+    },
+    {
+      "text": "nervio frénico",
+      "correct": false
+    }
+  ],
+  "explanation": "El par craneal VII corresponde al nervio facial.",
+  "sources": [
+    {
+      "title": "Wikipedia - Nervio craneal",
+      "url": "https://es.wikipedia.org/wiki/pares_craneales"
+    }
+  ],
+  "tags": [
+    "salud",
+    "neuroanatomia",
+    "pares-craneales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

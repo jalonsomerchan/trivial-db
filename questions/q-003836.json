@@ -1,0 +1,43 @@
+{
+  "id": "q-003836",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "juegos-olimpicos-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 2016?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Lillehammer",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Río de Janeiro",
+      "correct": true
+    }
+  ],
+  "explanation": "Los Juegos Olímpicos de verano de 2016 se celebraron en Río de Janeiro.",
+  "sources": [
+    {
+      "title": "Wikipedia - Juegos Olímpicos",
+      "url": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_verano_de_2016"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "juegos-olimpicos",
+    "rio-de-janeiro"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

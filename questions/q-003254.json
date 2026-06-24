@@ -1,0 +1,43 @@
+{
+  "id": "q-003254",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "farmacologia-basica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué receptor se asocia principalmente con efecto parasimpático sobre el corazón?",
+  "answers": [
+    {
+      "text": "receptor H2",
+      "correct": false
+    },
+    {
+      "text": "receptor de estrógeno",
+      "correct": false
+    },
+    {
+      "text": "receptores muscarínicos M3",
+      "correct": false
+    },
+    {
+      "text": "receptores muscarínicos M2",
+      "correct": true
+    }
+  ],
+  "explanation": "Efecto parasimpático sobre el corazón se asocia principalmente con receptores muscarínicos M2.",
+  "sources": [
+    {
+      "title": "Wikipedia - Receptor celular",
+      "url": "https://es.wikipedia.org/wiki/receptores"
+    }
+  ],
+  "tags": [
+    "salud",
+    "farmacologia",
+    "receptores-muscarinicos-m2"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

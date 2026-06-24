@@ -1,0 +1,43 @@
+{
+  "id": "q-003674",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Diarios de motocicleta?",
+  "answers": [
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Alfonso Cuarón",
+      "correct": false
+    },
+    {
+      "text": "Walter Salles",
+      "correct": true
+    }
+  ],
+  "explanation": "Diarios de motocicleta fue dirigida por Walter Salles.",
+  "sources": [
+    {
+      "title": "Wikipedia - Diarios de motocicleta",
+      "url": "https://es.wikipedia.org/wiki/Diarios_de_motocicleta"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "walter-salles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

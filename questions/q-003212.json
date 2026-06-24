@@ -1,0 +1,43 @@
+{
+  "id": "q-003212",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "bioquimica-humana"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué enzima participa directamente en la conversión de maltosa en glucosa?",
+  "answers": [
+    {
+      "text": "maltasa",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "transcriptasa inversa",
+      "correct": false
+    },
+    {
+      "text": "lactato deshidrogenasa",
+      "correct": false
+    }
+  ],
+  "explanation": "La enzima asociada a la conversión de maltosa en glucosa es maltasa.",
+  "sources": [
+    {
+      "title": "Wikipedia - Enzima",
+      "url": "https://es.wikipedia.org/wiki/enzimas"
+    }
+  ],
+  "tags": [
+    "salud",
+    "bioquimica",
+    "maltasa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

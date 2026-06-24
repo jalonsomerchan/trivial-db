@@ -1,0 +1,43 @@
+{
+  "id": "q-003389",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la reforma institucional europea de 2007?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Lisboa",
+      "correct": true
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Londres de 1839",
+      "correct": false
+    }
+  ],
+  "explanation": "Tratado de Lisboa se asocia principalmente con la reforma institucional europea de 2007.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tratado de Lisboa",
+      "url": "https://es.wikipedia.org/wiki/Tratado_de_Lisboa"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "tratado-de-lisboa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

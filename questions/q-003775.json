@@ -1,0 +1,43 @@
+{
+  "id": "q-003775",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo Maillot amarillo?",
+  "answers": [
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "líder del Tour de Francia",
+      "correct": true
+    },
+    {
+      "text": "rugby league",
+      "correct": false
+    },
+    {
+      "text": "atletismo universitario",
+      "correct": false
+    }
+  ],
+  "explanation": "Maillot amarillo se asocia con líder del Tour de Francia.",
+  "sources": [
+    {
+      "title": "Wikipedia - Maillot amarillo",
+      "url": "https://es.wikipedia.org/wiki/Maillot_amarillo"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "maillot-amarillo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

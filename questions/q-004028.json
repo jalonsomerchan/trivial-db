@@ -1,0 +1,43 @@
+{
+  "id": "q-004028",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-cuantitativa"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico o ambiental se define como “diversidad específica considerando riqueza y equidad”?",
+  "answers": [
+    {
+      "text": "índice de Shannon",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es índice de Shannon.",
+  "sources": [
+    {
+      "title": "Wikipedia - índice de Shannon",
+      "url": "https://es.wikipedia.org/wiki/%C3%ADndice_de_Shannon"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "ecologia",
+    "indice-de-shannon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

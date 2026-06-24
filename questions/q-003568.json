@@ -1,0 +1,43 @@
+{
+  "id": "q-003568",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente La ronda de noche?",
+  "answers": [
+    {
+      "text": "Galería Uffizi",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Rijksmuseum",
+      "correct": true
+    },
+    {
+      "text": "Museo Thyssen-Bornemisza",
+      "correct": false
+    }
+  ],
+  "explanation": "La ronda de noche se conserva habitualmente en Rijksmuseum.",
+  "sources": [
+    {
+      "title": "Wikipedia - La ronda de noche",
+      "url": "https://es.wikipedia.org/wiki/La_ronda_de_noche"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "la-ronda-de-noche"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

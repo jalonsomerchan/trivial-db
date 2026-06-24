@@ -1,0 +1,43 @@
+{
+  "id": "q-004062",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante t1/2 = ln2/λ?",
+  "answers": [
+    {
+      "text": "ley de Beer-Lambert",
+      "correct": false
+    },
+    {
+      "text": "energía cinética clásica",
+      "correct": false
+    },
+    {
+      "text": "vida media radiactiva",
+      "correct": true
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    }
+  ],
+  "explanation": "t1/2 = ln2/λ representa vida media radiactiva.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "vida-media-radiactiva"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

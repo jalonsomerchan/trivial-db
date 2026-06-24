@@ -1,0 +1,43 @@
+{
+  "id": "q-003808",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué deporte se usa especialmente el término touché?",
+  "answers": [
+    {
+      "text": "esgrima",
+      "correct": true
+    },
+    {
+      "text": "boxeo",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    }
+  ],
+  "explanation": "El término touché se usa especialmente en esgrima.",
+  "sources": [
+    {
+      "title": "Wikipedia - touché",
+      "url": "https://es.wikipedia.org/wiki/touch%C3%A9"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "terminologia",
+    "touche"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

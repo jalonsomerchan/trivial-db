@@ -1,0 +1,43 @@
+{
+  "id": "q-003387",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la fundación de la Comunidad Económica Europea?",
+  "answers": [
+    {
+      "text": "Tratados de Roma",
+      "correct": true
+    },
+    {
+      "text": "Acuerdos de Ginebra de 1962",
+      "correct": false
+    },
+    {
+      "text": "Tratado de París de 1898",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "Tratados de Roma se asocia principalmente con la fundación de la Comunidad Económica Europea.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tratados de Roma",
+      "url": "https://es.wikipedia.org/wiki/Tratados_de_Roma"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "tratados-de-roma"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

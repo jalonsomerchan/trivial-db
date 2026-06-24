@@ -1,0 +1,43 @@
+{
+  "id": "q-003354",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cereales-y-masas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué base farinácea o cereal se asocia de forma característica con udon?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "trigo",
+      "correct": true
+    },
+    {
+      "text": "maíz nixtamalizado",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "Udon se asocia característicamente con trigo.",
+  "sources": [
+    {
+      "title": "Wikipedia - udon",
+      "url": "https://es.wikipedia.org/wiki/udon"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereales",
+    "udon"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

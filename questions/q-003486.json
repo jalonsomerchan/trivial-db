@@ -1,0 +1,43 @@
+{
+  "id": "q-003486",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Hans Castorp?",
+  "answers": [
+    {
+      "text": "La muerte de Artemio Cruz",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "La montaña mágica",
+      "correct": true
+    },
+    {
+      "text": "Ulises",
+      "correct": false
+    }
+  ],
+  "explanation": "Hans Castorp aparece en La montaña mágica.",
+  "sources": [
+    {
+      "title": "Wikipedia - La montaña mágica",
+      "url": "https://es.wikipedia.org/wiki/La_monta%C3%B1a_m%C3%A1gica"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "hans-castorp"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003414",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "dinastias"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué dinastía pertenece históricamente Shah Jahan?",
+  "answers": [
+    {
+      "text": "aqueménida",
+      "correct": false
+    },
+    {
+      "text": "mogol",
+      "correct": true
+    },
+    {
+      "text": "Tang",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "Shah Jahan pertenece a la dinastía mogol.",
+  "sources": [
+    {
+      "title": "Wikipedia - Shah Jahan",
+      "url": "https://es.wikipedia.org/wiki/Shah_Jahan"
+    }
+  ],
+  "tags": [
+    "historia",
+    "dinastias",
+    "mogol"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

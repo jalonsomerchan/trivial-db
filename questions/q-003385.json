@@ -1,0 +1,43 @@
+{
+  "id": "q-003385",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la partición de la India británica?",
+  "answers": [
+    {
+      "text": "Tratado de Guadalupe Hidalgo",
+      "correct": false
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "Tratado INF",
+      "correct": false
+    },
+    {
+      "text": "Indian Independence Act",
+      "correct": true
+    }
+  ],
+  "explanation": "Indian Independence Act se asocia principalmente con la partición de la India británica.",
+  "sources": [
+    {
+      "title": "Wikipedia - Indian Independence Act",
+      "url": "https://es.wikipedia.org/wiki/Indian_Independence_Act"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "indian-independence-act"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

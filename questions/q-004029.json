@@ -1,0 +1,43 @@
+{
+  "id": "q-004029",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "ecologia-cuantitativa"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto ecológico o ambiental se define como “probabilidad de que dos individuos pertenezcan a la misma especie”?",
+  "answers": [
+    {
+      "text": "evapotranspiración",
+      "correct": false
+    },
+    {
+      "text": "índice de Simpson",
+      "correct": true
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "resiliencia ecológica",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto definido es índice de Simpson.",
+  "sources": [
+    {
+      "title": "Wikipedia - índice de Simpson",
+      "url": "https://es.wikipedia.org/wiki/%C3%ADndice_de_Simpson"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "ecologia",
+    "indice-de-simpson"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

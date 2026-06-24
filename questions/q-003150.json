@@ -1,0 +1,43 @@
+{
+  "id": "q-003150",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "patrones-de-diseno"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué patrón de diseño se describe como “definir una interfaz para crear objetos dejando decidir a subclases”?",
+  "answers": [
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Factory Method",
+      "correct": true
+    },
+    {
+      "text": "Composite",
+      "correct": false
+    },
+    {
+      "text": "Visitor",
+      "correct": false
+    }
+  ],
+  "explanation": "El patrón descrito es Factory Method.",
+  "sources": [
+    {
+      "title": "Wikipedia - Design Patterns",
+      "url": "https://es.wikipedia.org/wiki/Patr%C3%B3n_de_dise%C3%B1o"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "patrones-de-diseno",
+    "factory-method"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

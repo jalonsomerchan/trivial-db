@@ -1,0 +1,43 @@
+{
+  "id": "q-003225",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "bioquimica-humana"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué enzima participa directamente en la hidrolizar acetilcolina en la sinapsis?",
+  "answers": [
+    {
+      "text": "acetilcolinesterasa",
+      "correct": true
+    },
+    {
+      "text": "aldolasa",
+      "correct": false
+    },
+    {
+      "text": "lipasa pancreática",
+      "correct": false
+    },
+    {
+      "text": "ADN polimerasa",
+      "correct": false
+    }
+  ],
+  "explanation": "La enzima asociada a la hidrolizar acetilcolina en la sinapsis es acetilcolinesterasa.",
+  "sources": [
+    {
+      "title": "Wikipedia - Enzima",
+      "url": "https://es.wikipedia.org/wiki/enzimas"
+    }
+  ],
+  "tags": [
+    "salud",
+    "bioquimica",
+    "acetilcolinesterasa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

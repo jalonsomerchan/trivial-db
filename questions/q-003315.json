@@ -1,0 +1,43 @@
+{
+  "id": "q-003315",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "bebidas-destiladas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la materia prima característica de poitín irlandés?",
+  "answers": [
+    {
+      "text": "cebada, patata u otros cereales",
+      "correct": true
+    },
+    {
+      "text": "uva y anís",
+      "correct": false
+    },
+    {
+      "text": "ciruela",
+      "correct": false
+    },
+    {
+      "text": "batata",
+      "correct": false
+    }
+  ],
+  "explanation": "Poitín irlandés se elabora tradicionalmente a partir de cebada, patata u otros cereales.",
+  "sources": [
+    {
+      "title": "Wikipedia - poitín irlandés",
+      "url": "https://es.wikipedia.org/wiki/poit%C3%ADn_irland%C3%A9s"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bebidas",
+    "poitin-irlandes"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

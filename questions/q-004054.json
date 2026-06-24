@@ -1,0 +1,43 @@
+{
+  "id": "q-004054",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante nλ = 2d sin θ?",
+  "answers": [
+    {
+      "text": "ley de Bragg",
+      "correct": true
+    },
+    {
+      "text": "relación de Planck-Einstein",
+      "correct": false
+    },
+    {
+      "text": "ley de Faraday-Maxwell",
+      "correct": false
+    },
+    {
+      "text": "producto de solubilidad",
+      "correct": false
+    }
+  ],
+  "explanation": "nλ = 2d sin θ representa ley de Bragg.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "ley-de-bragg"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

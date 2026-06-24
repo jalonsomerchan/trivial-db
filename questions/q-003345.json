@@ -1,0 +1,43 @@
+{
+  "id": "q-003345",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cereales-y-masas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué base farinácea o cereal se asocia de forma característica con horchata valenciana?",
+  "answers": [
+    {
+      "text": "chufa",
+      "correct": true
+    },
+    {
+      "text": "masa de harina rellena",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "sémola de trigo duro",
+      "correct": false
+    }
+  ],
+  "explanation": "Horchata valenciana se asocia característicamente con chufa.",
+  "sources": [
+    {
+      "title": "Wikipedia - horchata valenciana",
+      "url": "https://es.wikipedia.org/wiki/horchata_valenciana"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereales",
+    "horchata-valenciana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

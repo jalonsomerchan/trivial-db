@@ -1,0 +1,43 @@
+{
+  "id": "q-003424",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "dinastias"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué dinastía pertenece históricamente Darío I?",
+  "answers": [
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Borbón",
+      "correct": false
+    },
+    {
+      "text": "aqueménida",
+      "correct": true
+    },
+    {
+      "text": "Tudor",
+      "correct": false
+    }
+  ],
+  "explanation": "Darío I pertenece a la dinastía aqueménida.",
+  "sources": [
+    {
+      "title": "Wikipedia - Darío I",
+      "url": "https://es.wikipedia.org/wiki/Dar%C3%ADo_I"
+    }
+  ],
+  "tags": [
+    "historia",
+    "dinastias",
+    "aquemenida"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

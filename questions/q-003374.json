@@ -1,0 +1,43 @@
+{
+  "id": "q-003374",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la venta de Luisiana a Estados Unidos?",
+  "answers": [
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Versalles",
+      "correct": false
+    },
+    {
+      "text": "Compra de Luisiana",
+      "correct": true
+    }
+  ],
+  "explanation": "Compra de Luisiana se asocia principalmente con la venta de Luisiana a Estados Unidos.",
+  "sources": [
+    {
+      "title": "Wikipedia - Compra de Luisiana",
+      "url": "https://es.wikipedia.org/wiki/Compra_de_Luisiana"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "compra-de-luisiana"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

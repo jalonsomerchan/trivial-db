@@ -1,0 +1,43 @@
+{
+  "id": "q-003627",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “impresión mediante pantalla de seda o malla”?",
+  "answers": [
+    {
+      "text": "assemblage",
+      "correct": false
+    },
+    {
+      "text": "serigrafía",
+      "correct": true
+    },
+    {
+      "text": "claroscuro",
+      "correct": false
+    },
+    {
+      "text": "dripping",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es serigrafía.",
+  "sources": [
+    {
+      "title": "Wikipedia - serigrafía",
+      "url": "https://es.wikipedia.org/wiki/serigraf%C3%ADa"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "serigrafia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003338",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en poi hawaiano?",
+  "answers": [
+    {
+      "text": "fermentación láctica del taro",
+      "correct": true
+    },
+    {
+      "text": "Saccharomyces cerevisiae",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "En poi hawaiano interviene de forma característica fermentación láctica del taro.",
+  "sources": [
+    {
+      "title": "Wikipedia - poi hawaiano",
+      "url": "https://es.wikipedia.org/wiki/poi_hawaiano"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "poi-hawaiano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

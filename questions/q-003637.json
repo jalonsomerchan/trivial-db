@@ -1,0 +1,43 @@
+{
+  "id": "q-003637",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Ópera de Sídney?",
+  "answers": [
+    {
+      "text": "expresionismo estructural",
+      "correct": true
+    },
+    {
+      "text": "modernismo catalán",
+      "correct": false
+    },
+    {
+      "text": "art déco",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "Ópera de Sídney se asocia con expresionismo estructural.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ópera de Sídney",
+      "url": "https://es.wikipedia.org/wiki/%C3%93pera_de_S%C3%ADdney"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "expresionismo-estructural"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

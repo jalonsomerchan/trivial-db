@@ -1,0 +1,43 @@
+{
+  "id": "q-003491",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Florentino Ariza?",
+  "answers": [
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "El amor en los tiempos del cólera",
+      "correct": true
+    },
+    {
+      "text": "La comedia humana",
+      "correct": false
+    },
+    {
+      "text": "El guardián entre el centeno",
+      "correct": false
+    }
+  ],
+  "explanation": "Florentino Ariza aparece en El amor en los tiempos del cólera.",
+  "sources": [
+    {
+      "title": "Wikipedia - El amor en los tiempos del cólera",
+      "url": "https://es.wikipedia.org/wiki/El_amor_en_los_tiempos_del_c%C3%B3lera"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "florentino-ariza"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

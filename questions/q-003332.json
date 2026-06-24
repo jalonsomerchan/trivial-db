@@ -1,0 +1,43 @@
+{
+  "id": "q-003332",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en vinagre?",
+  "answers": [
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "bacterias acéticas",
+      "correct": true
+    },
+    {
+      "text": "Penicillium roqueforti",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "En vinagre interviene de forma característica bacterias acéticas.",
+  "sources": [
+    {
+      "title": "Wikipedia - vinagre",
+      "url": "https://es.wikipedia.org/wiki/vinagre"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "vinagre"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

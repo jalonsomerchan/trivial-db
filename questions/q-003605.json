@@ -1,0 +1,43 @@
+{
+  "id": "q-003605",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “pintura con pigmento ligado con yema”?",
+  "answers": [
+    {
+      "text": "temple al huevo",
+      "correct": true
+    },
+    {
+      "text": "contrapposto",
+      "correct": false
+    },
+    {
+      "text": "trompe-l’œil",
+      "correct": false
+    },
+    {
+      "text": "anamorfosis",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es temple al huevo.",
+  "sources": [
+    {
+      "title": "Wikipedia - temple al huevo",
+      "url": "https://es.wikipedia.org/wiki/temple_al_huevo"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "temple-al-huevo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

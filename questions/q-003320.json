@@ -1,0 +1,43 @@
+{
+  "id": "q-003320",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en kéfir?",
+  "answers": [
+    {
+      "text": "Penicillium roqueforti",
+      "correct": false
+    },
+    {
+      "text": "comunidad de bacterias lácticas y levaduras",
+      "correct": true
+    },
+    {
+      "text": "Rhizopus oligosporus",
+      "correct": false
+    },
+    {
+      "text": "levaduras y bacterias lácticas",
+      "correct": false
+    }
+  ],
+  "explanation": "En kéfir interviene de forma característica comunidad de bacterias lácticas y levaduras.",
+  "sources": [
+    {
+      "title": "Wikipedia - kéfir",
+      "url": "https://es.wikipedia.org/wiki/k%C3%A9fir"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "kefir"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

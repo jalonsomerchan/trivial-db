@@ -1,0 +1,43 @@
+{
+  "id": "q-003289",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quimica-culinaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compuesto aromático se asocia especialmente con cardamomo?",
+  "answers": [
+    {
+      "text": "eugenol",
+      "correct": false
+    },
+    {
+      "text": "cineol",
+      "correct": true
+    },
+    {
+      "text": "cinamaldehído",
+      "correct": false
+    },
+    {
+      "text": "ácido rosmarínico",
+      "correct": false
+    }
+  ],
+  "explanation": "Cineol se asocia de forma destacada con el aroma de cardamomo.",
+  "sources": [
+    {
+      "title": "Wikipedia - cardamomo",
+      "url": "https://es.wikipedia.org/wiki/cardamomo"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "quimica-culinaria",
+    "cardamomo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

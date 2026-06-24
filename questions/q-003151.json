@@ -1,0 +1,43 @@
+{
+  "id": "q-003151",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas-avanzadas"
+  ],
+  "difficulty": "hard",
+  "question": "En informática, ¿qué significa o describe la sigla ACID?",
+  "answers": [
+    {
+      "text": "Online Transaction Processing",
+      "correct": false
+    },
+    {
+      "text": "Network Address Translation",
+      "correct": false
+    },
+    {
+      "text": "Content Delivery Network",
+      "correct": false
+    },
+    {
+      "text": "Atomicidad, Consistencia, Aislamiento y Durabilidad",
+      "correct": true
+    }
+  ],
+  "explanation": "ACID se usa para referirse a Atomicidad, Consistencia, Aislamiento y Durabilidad.",
+  "sources": [
+    {
+      "title": "Wikipedia - ACID",
+      "url": "https://es.wikipedia.org/wiki/ACID"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "acid"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

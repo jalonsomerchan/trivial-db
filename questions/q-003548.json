@@ -1,0 +1,43 @@
+{
+  "id": "q-003548",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autor escribió la novela Absalón, Absalón!?",
+  "answers": [
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "William Faulkner",
+      "correct": true
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    }
+  ],
+  "explanation": "Absalón, Absalón! fue escrita por William Faulkner.",
+  "sources": [
+    {
+      "title": "Wikipedia - Absalón, Absalón!",
+      "url": "https://es.wikipedia.org/wiki/Absal%C3%B3n%2C_Absal%C3%B3n%21"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "william-faulkner"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

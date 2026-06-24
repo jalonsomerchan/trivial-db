@@ -1,0 +1,43 @@
+{
+  "id": "q-003583",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente Almuerzo sobre la hierba?",
+  "answers": [
+    {
+      "text": "Kunsthistorisches Museum de Viena",
+      "correct": false
+    },
+    {
+      "text": "Musée d’Orsay",
+      "correct": true
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "Almuerzo sobre la hierba se conserva habitualmente en Musée d’Orsay.",
+  "sources": [
+    {
+      "title": "Wikipedia - Almuerzo sobre la hierba",
+      "url": "https://es.wikipedia.org/wiki/Almuerzo_sobre_la_hierba"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "almuerzo-sobre-la-hierba"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

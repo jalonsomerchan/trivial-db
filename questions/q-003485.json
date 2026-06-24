@@ -1,0 +1,43 @@
+{
+  "id": "q-003485",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje K.?",
+  "answers": [
+    {
+      "text": "El castillo",
+      "correct": true
+    },
+    {
+      "text": "El gran Gatsby",
+      "correct": false
+    },
+    {
+      "text": "El juego de los abalorios",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "K. aparece en El castillo.",
+  "sources": [
+    {
+      "title": "Wikipedia - El castillo",
+      "url": "https://es.wikipedia.org/wiki/El_castillo"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "k"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

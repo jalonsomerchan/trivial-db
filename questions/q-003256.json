@@ -1,0 +1,43 @@
+{
+  "id": "q-003256",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "farmacologia-basica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué receptor se asocia principalmente con placa neuromuscular esquelética?",
+  "answers": [
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "receptor GABA-A",
+      "correct": false
+    },
+    {
+      "text": "receptor nuclear tiroideo",
+      "correct": false
+    },
+    {
+      "text": "receptores nicotínicos musculares",
+      "correct": true
+    }
+  ],
+  "explanation": "Placa neuromuscular esquelética se asocia principalmente con receptores nicotínicos musculares.",
+  "sources": [
+    {
+      "title": "Wikipedia - Receptor celular",
+      "url": "https://es.wikipedia.org/wiki/receptores"
+    }
+  ],
+  "tags": [
+    "salud",
+    "farmacologia",
+    "receptores-nicotinicos-musculares"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

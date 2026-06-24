@@ -1,0 +1,43 @@
+{
+  "id": "q-003245",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "histologia"
+  ],
+  "difficulty": "hard",
+  "question": "En histología, ¿cómo se llaman las células gástricas que secretan pepsinógeno?",
+  "answers": [
+    {
+      "text": "células principales",
+      "correct": true
+    },
+    {
+      "text": "células de Kupffer",
+      "correct": false
+    },
+    {
+      "text": "hepatocitos",
+      "correct": false
+    },
+    {
+      "text": "basófilos",
+      "correct": false
+    }
+  ],
+  "explanation": "Las células gástricas que secretan pepsinógeno se llaman células principales.",
+  "sources": [
+    {
+      "title": "Wikipedia - Histología",
+      "url": "https://es.wikipedia.org/wiki/histologia"
+    }
+  ],
+  "tags": [
+    "salud",
+    "histologia",
+    "celulas-principales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

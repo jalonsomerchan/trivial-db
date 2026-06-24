@@ -1,0 +1,43 @@
+{
+  "id": "q-003423",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "dinastias"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué dinastía pertenece históricamente Ciro II el Grande?",
+  "answers": [
+    {
+      "text": "ptolemaica",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "aqueménida",
+      "correct": true
+    }
+  ],
+  "explanation": "Ciro II el Grande pertenece a la dinastía aqueménida.",
+  "sources": [
+    {
+      "title": "Wikipedia - Ciro II el Grande",
+      "url": "https://es.wikipedia.org/wiki/Ciro_II_el_Grande"
+    }
+  ],
+  "tags": [
+    "historia",
+    "dinastias",
+    "aquemenida"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

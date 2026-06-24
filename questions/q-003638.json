@@ -1,0 +1,43 @@
+{
+  "id": "q-003638",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Centro Pompidou?",
+  "answers": [
+    {
+      "text": "gótico",
+      "correct": false
+    },
+    {
+      "text": "high-tech",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "expresionismo estructural",
+      "correct": false
+    }
+  ],
+  "explanation": "Centro Pompidou se asocia con high-tech.",
+  "sources": [
+    {
+      "title": "Wikipedia - Centro Pompidou",
+      "url": "https://es.wikipedia.org/wiki/Centro_Pompidou"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "high-tech"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

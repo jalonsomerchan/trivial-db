@@ -1,0 +1,43 @@
+{
+  "id": "q-003261",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "farmacologia-basica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué receptor se asocia principalmente con acción de muchos antihistamínicos contra alergia?",
+  "answers": [
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "receptor H1",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    }
+  ],
+  "explanation": "Acción de muchos antihistamínicos contra alergia se asocia principalmente con receptor H1.",
+  "sources": [
+    {
+      "title": "Wikipedia - Receptor celular",
+      "url": "https://es.wikipedia.org/wiki/receptores"
+    }
+  ],
+  "tags": [
+    "salud",
+    "farmacologia",
+    "receptor-h1"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

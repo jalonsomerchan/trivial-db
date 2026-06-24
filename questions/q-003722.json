@@ -1,0 +1,43 @@
+{
+  "id": "q-003722",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “comedia de enredo ágil con diálogos rápidos”?",
+  "answers": [
+    {
+      "text": "screwball comedy",
+      "correct": true
+    },
+    {
+      "text": "tilt",
+      "correct": false
+    },
+    {
+      "text": "montaje soviético",
+      "correct": false
+    },
+    {
+      "text": "mise-en-scène",
+      "correct": false
+    }
+  ],
+  "explanation": "El término audiovisual definido es screwball comedy.",
+  "sources": [
+    {
+      "title": "Wikipedia - screwball comedy",
+      "url": "https://es.wikipedia.org/wiki/screwball_comedy"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "screwball-comedy"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

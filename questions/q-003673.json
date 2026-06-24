@@ -1,0 +1,43 @@
+{
+  "id": "q-003673",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Estación Central de Brasil?",
+  "answers": [
+    {
+      "text": "Walter Salles",
+      "correct": true
+    },
+    {
+      "text": "Jane Campion",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Juan José Campanella",
+      "correct": false
+    }
+  ],
+  "explanation": "Estación Central de Brasil fue dirigida por Walter Salles.",
+  "sources": [
+    {
+      "title": "Wikipedia - Estación Central de Brasil",
+      "url": "https://es.wikipedia.org/wiki/Estaci%C3%B3n_Central_de_Brasil"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "walter-salles"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

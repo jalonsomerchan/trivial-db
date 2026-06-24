@@ -1,0 +1,43 @@
+{
+  "id": "q-003510",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Bernarda Alba?",
+  "answers": [
+    {
+      "text": "Anna Karénina",
+      "correct": false
+    },
+    {
+      "text": "Luces de bohemia",
+      "correct": false
+    },
+    {
+      "text": "La casa de Bernarda Alba",
+      "correct": true
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    }
+  ],
+  "explanation": "Bernarda Alba aparece en La casa de Bernarda Alba.",
+  "sources": [
+    {
+      "title": "Wikipedia - La casa de Bernarda Alba",
+      "url": "https://es.wikipedia.org/wiki/La_casa_de_Bernarda_Alba"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "bernarda-alba"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

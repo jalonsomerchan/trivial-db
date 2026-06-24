@@ -1,0 +1,43 @@
+{
+  "id": "q-003650",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Palacio de Cristal de Londres?",
+  "answers": [
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "arquitectura del hierro y vidrio",
+      "correct": true
+    },
+    {
+      "text": "arquitectura mogol",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "Palacio de Cristal de Londres se asocia con arquitectura del hierro y vidrio.",
+  "sources": [
+    {
+      "title": "Wikipedia - Palacio de Cristal de Londres",
+      "url": "https://es.wikipedia.org/wiki/Palacio_de_Cristal_de_Londres"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "arquitectura-del-hierro-y-vidrio"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003512",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Pascual Duarte?",
+  "answers": [
+    {
+      "text": "Rojo y negro",
+      "correct": false
+    },
+    {
+      "text": "La familia de Pascual Duarte",
+      "correct": true
+    },
+    {
+      "text": "Ulises",
+      "correct": false
+    },
+    {
+      "text": "La educación sentimental",
+      "correct": false
+    }
+  ],
+  "explanation": "Pascual Duarte aparece en La familia de Pascual Duarte.",
+  "sources": [
+    {
+      "title": "Wikipedia - La familia de Pascual Duarte",
+      "url": "https://es.wikipedia.org/wiki/La_familia_de_Pascual_Duarte"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "pascual-duarte"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

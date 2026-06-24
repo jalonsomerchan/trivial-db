@@ -1,0 +1,43 @@
+{
+  "id": "q-003511",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Max Estrella?",
+  "answers": [
+    {
+      "text": "Luces de bohemia",
+      "correct": true
+    },
+    {
+      "text": "La cartuja de Parma",
+      "correct": false
+    },
+    {
+      "text": "Ficciones",
+      "correct": false
+    },
+    {
+      "text": "La comedia humana",
+      "correct": false
+    }
+  ],
+  "explanation": "Max Estrella aparece en Luces de bohemia.",
+  "sources": [
+    {
+      "title": "Wikipedia - Luces de bohemia",
+      "url": "https://es.wikipedia.org/wiki/Luces_de_bohemia"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "max-estrella"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

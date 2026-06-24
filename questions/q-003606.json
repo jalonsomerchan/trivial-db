@@ -1,0 +1,43 @@
+{
+  "id": "q-003606",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “pintura con cera caliente como aglutinante”?",
+  "answers": [
+    {
+      "text": "dripping",
+      "correct": false
+    },
+    {
+      "text": "carboncillo",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "encáustica",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica definida es encáustica.",
+  "sources": [
+    {
+      "title": "Wikipedia - encáustica",
+      "url": "https://es.wikipedia.org/wiki/enc%C3%A1ustica"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "encaustica"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

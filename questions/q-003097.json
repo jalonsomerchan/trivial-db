@@ -1,0 +1,43 @@
+{
+  "id": "q-003097",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes-y-puertos"
+  ],
+  "difficulty": "hard",
+  "question": "En redes, ¿qué puerto se asocia por defecto con LDAP?",
+  "answers": [
+    {
+      "text": "993/TCP",
+      "correct": false
+    },
+    {
+      "text": "389/TCP",
+      "correct": true
+    },
+    {
+      "text": "2049/TCP",
+      "correct": false
+    },
+    {
+      "text": "69/UDP",
+      "correct": false
+    }
+  ],
+  "explanation": "LDAP usa de forma habitual el puerto 389/TCP.",
+  "sources": [
+    {
+      "title": "Wikipedia - List of TCP and UDP port numbers",
+      "url": "https://es.wikipedia.org/wiki/redes"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "redes",
+    "ldap"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003848",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "opera-personajes"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué ópera aparece el personaje Violetta Valéry?",
+  "answers": [
+    {
+      "text": "Boris Godunov",
+      "correct": false
+    },
+    {
+      "text": "La traviata",
+      "correct": true
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Lucia di Lammermoor",
+      "correct": false
+    }
+  ],
+  "explanation": "Violetta Valéry aparece en la ópera La traviata.",
+  "sources": [
+    {
+      "title": "Wikipedia - La traviata",
+      "url": "https://es.wikipedia.org/wiki/La_traviata"
+    }
+  ],
+  "tags": [
+    "musica",
+    "opera",
+    "violetta-valery"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

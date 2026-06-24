@@ -1,0 +1,43 @@
+{
+  "id": "q-003582",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente Olympia?",
+  "answers": [
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Galería Belvedere",
+      "correct": false
+    },
+    {
+      "text": "Musée d’Orsay",
+      "correct": true
+    }
+  ],
+  "explanation": "Olympia se conserva habitualmente en Musée d’Orsay.",
+  "sources": [
+    {
+      "title": "Wikipedia - Olympia",
+      "url": "https://es.wikipedia.org/wiki/Olympia"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "olympia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

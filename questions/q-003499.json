@@ -1,0 +1,43 @@
+{
+  "id": "q-003499",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Zeno Cosini?",
+  "answers": [
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "La colmena",
+      "correct": false
+    },
+    {
+      "text": "El castillo",
+      "correct": false
+    },
+    {
+      "text": "La conciencia de Zeno",
+      "correct": true
+    }
+  ],
+  "explanation": "Zeno Cosini aparece en La conciencia de Zeno.",
+  "sources": [
+    {
+      "title": "Wikipedia - La conciencia de Zeno",
+      "url": "https://es.wikipedia.org/wiki/La_conciencia_de_Zeno"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "zeno-cosini"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004081",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "exploracion-clinica"
+  ],
+  "difficulty": "hard",
+  "question": "En exploración clínica, ¿con qué se relaciona principalmente el reflejo aquiliano?",
+  "answers": [
+    {
+      "text": "raíces S1-S2",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    }
+  ],
+  "explanation": "El reflejo aquiliano se relaciona principalmente con raíces S1-S2.",
+  "sources": [
+    {
+      "title": "Wikipedia - Exploración física",
+      "url": "https://es.wikipedia.org/wiki/el_reflejo_aquiliano"
+    }
+  ],
+  "tags": [
+    "salud",
+    "exploracion-clinica",
+    "el-reflejo-aquiliano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

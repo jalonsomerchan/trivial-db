@@ -1,0 +1,43 @@
+{
+  "id": "q-003443",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “distritos militares y administrativos bizantinos”?",
+  "answers": [
+    {
+      "text": "themata",
+      "correct": true
+    },
+    {
+      "text": "trierarca",
+      "correct": false
+    },
+    {
+      "text": "zigurat",
+      "correct": false
+    },
+    {
+      "text": "foederati",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es themata.",
+  "sources": [
+    {
+      "title": "Wikipedia - themata",
+      "url": "https://es.wikipedia.org/wiki/themata"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "themata"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

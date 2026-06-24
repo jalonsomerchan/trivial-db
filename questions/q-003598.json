@@ -1,0 +1,43 @@
+{
+  "id": "q-003598",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente La tempestad de Giorgione?",
+  "answers": [
+    {
+      "text": "Galería Uffizi",
+      "correct": false
+    },
+    {
+      "text": "Galería de la Academia de Venecia",
+      "correct": true
+    },
+    {
+      "text": "Rijksmuseum",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "La tempestad de Giorgione se conserva habitualmente en Galería de la Academia de Venecia.",
+  "sources": [
+    {
+      "title": "Wikipedia - La tempestad de Giorgione",
+      "url": "https://es.wikipedia.org/wiki/La_tempestad_de_Giorgione"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "la-tempestad-de-giorgione"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

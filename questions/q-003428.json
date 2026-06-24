@@ -1,0 +1,43 @@
+{
+  "id": "q-003428",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “ciudadano rico que financiaba una trirreme en Atenas”?",
+  "answers": [
+    {
+      "text": "dhimmi",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "trierarca",
+      "correct": true
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es trierarca.",
+  "sources": [
+    {
+      "title": "Wikipedia - trierarca",
+      "url": "https://es.wikipedia.org/wiki/trierarca"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "trierarca"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003230",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "bioquimica-humana"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué enzima participa directamente en la producir óxido nítrico desde arginina?",
+  "answers": [
+    {
+      "text": "óxido nítrico sintasa",
+      "correct": true
+    },
+    {
+      "text": "ARN polimerasa",
+      "correct": false
+    },
+    {
+      "text": "lipasa pancreática",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "La enzima asociada a la producir óxido nítrico desde arginina es óxido nítrico sintasa.",
+  "sources": [
+    {
+      "title": "Wikipedia - Enzima",
+      "url": "https://es.wikipedia.org/wiki/enzimas"
+    }
+  ],
+  "tags": [
+    "salud",
+    "bioquimica",
+    "oxido-nitrico-sintasa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

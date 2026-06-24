@@ -1,0 +1,43 @@
+{
+  "id": "q-003904",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "jazz-discografia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo grabó el álbum de jazz Birth of the Cool?",
+  "answers": [
+    {
+      "text": "Miles Davis",
+      "correct": true
+    },
+    {
+      "text": "John Coltrane",
+      "correct": false
+    },
+    {
+      "text": "Eric Dolphy",
+      "correct": false
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    }
+  ],
+  "explanation": "Birth of the Cool fue grabado por Miles Davis.",
+  "sources": [
+    {
+      "title": "Wikipedia - Birth of the Cool",
+      "url": "https://es.wikipedia.org/wiki/Birth_of_the_Cool"
+    }
+  ],
+  "tags": [
+    "musica",
+    "jazz",
+    "miles-davis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

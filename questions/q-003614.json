@@ -1,0 +1,43 @@
+{
+  "id": "q-003614",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “goteo o salpicadura controlada de pintura”?",
+  "answers": [
+    {
+      "text": "linograbado",
+      "correct": false
+    },
+    {
+      "text": "dripping",
+      "correct": true
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "xilografía",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es dripping.",
+  "sources": [
+    {
+      "title": "Wikipedia - dripping",
+      "url": "https://es.wikipedia.org/wiki/dripping"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "dripping"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

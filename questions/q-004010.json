@@ -1,0 +1,43 @@
+{
+  "id": "q-004010",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "botanica-sistematica"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué familia botánica pertenece pepino?",
+  "answers": [
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Cucurbitaceae",
+      "correct": true
+    },
+    {
+      "text": "Poaceae",
+      "correct": false
+    },
+    {
+      "text": "Rubiaceae",
+      "correct": false
+    }
+  ],
+  "explanation": "Pepino pertenece a la familia Cucurbitaceae.",
+  "sources": [
+    {
+      "title": "Wikipedia - Familia (biología)",
+      "url": "https://es.wikipedia.org/wiki/familia_bot%C3%A1nica"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "botanica",
+    "cucurbitaceae"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

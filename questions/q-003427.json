@@ -1,0 +1,43 @@
+{
+  "id": "q-003427",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “mecanismo ateniense de exilio temporal por votación”?",
+  "answers": [
+    {
+      "text": "druzhina",
+      "correct": false
+    },
+    {
+      "text": "ostracismo",
+      "correct": true
+    },
+    {
+      "text": "mayorazgo",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es ostracismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - ostracismo",
+      "url": "https://es.wikipedia.org/wiki/ostracismo"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "ostracismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

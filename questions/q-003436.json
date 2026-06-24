@@ -1,0 +1,43 @@
+{
+  "id": "q-003436",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “magistrado romano con funciones judiciales”?",
+  "answers": [
+    {
+      "text": "pretor",
+      "correct": true
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "hoplita",
+      "correct": false
+    },
+    {
+      "text": "ostracismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es pretor.",
+  "sources": [
+    {
+      "title": "Wikipedia - pretor",
+      "url": "https://es.wikipedia.org/wiki/pretor"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "pretor"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

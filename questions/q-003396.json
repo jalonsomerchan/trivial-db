@@ -1,0 +1,43 @@
+{
+  "id": "q-003396",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados-y-conferencias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tratado, acuerdo o conferencia se asocia principalmente con la limitación naval de entreguerras?",
+  "answers": [
+    {
+      "text": "Tratado Naval de Washington",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Tratado de Tordesillas",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "Tratado Naval de Washington se asocia principalmente con la limitación naval de entreguerras.",
+  "sources": [
+    {
+      "title": "Wikipedia - Tratado Naval de Washington",
+      "url": "https://es.wikipedia.org/wiki/Tratado_Naval_de_Washington"
+    }
+  ],
+  "tags": [
+    "historia",
+    "tratados",
+    "tratado-naval-de-washington"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003207",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "bioquimica-humana"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué enzima participa directamente en la degradación inicial de almidón en la boca?",
+  "answers": [
+    {
+      "text": "enzima convertidora de angiotensina",
+      "correct": false
+    },
+    {
+      "text": "ADN ligasa",
+      "correct": false
+    },
+    {
+      "text": "ureasa",
+      "correct": false
+    },
+    {
+      "text": "amilasa salival",
+      "correct": true
+    }
+  ],
+  "explanation": "La enzima asociada a la degradación inicial de almidón en la boca es amilasa salival.",
+  "sources": [
+    {
+      "title": "Wikipedia - Enzima",
+      "url": "https://es.wikipedia.org/wiki/enzimas"
+    }
+  ],
+  "tags": [
+    "salud",
+    "bioquimica",
+    "amilasa-salival"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003731",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "series-creadores"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién creó o cocreó la serie Buffy the Vampire Slayer?",
+  "answers": [
+    {
+      "text": "Matthew Groening",
+      "correct": false
+    },
+    {
+      "text": "Joss Whedon",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Shonda Rhimes",
+      "correct": false
+    }
+  ],
+  "explanation": "Buffy the Vampire Slayer fue creada o cocreada por Joss Whedon.",
+  "sources": [
+    {
+      "title": "Wikipedia - Buffy the Vampire Slayer",
+      "url": "https://es.wikipedia.org/wiki/Buffy_the_Vampire_Slayer"
+    }
+  ],
+  "tags": [
+    "television",
+    "series",
+    "buffy-the-vampire-slayer"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

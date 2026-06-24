@@ -1,0 +1,43 @@
+{
+  "id": "q-003707",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “giro vertical de cámara sobre su eje”?",
+  "answers": [
+    {
+      "text": "mise-en-scène",
+      "correct": false
+    },
+    {
+      "text": "tilt",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "El término audiovisual definido es tilt.",
+  "sources": [
+    {
+      "title": "Wikipedia - tilt",
+      "url": "https://es.wikipedia.org/wiki/tilt"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "tilt"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

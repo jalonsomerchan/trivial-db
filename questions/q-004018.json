@@ -1,0 +1,43 @@
+{
+  "id": "q-004018",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "tiempo-geologico"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué era geológica pertenece el período Silúrico?",
+  "answers": [
+    {
+      "text": "Paleozoico",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Arcaico",
+      "correct": false
+    }
+  ],
+  "explanation": "El período Silúrico pertenece a la era Paleozoico.",
+  "sources": [
+    {
+      "title": "Wikipedia - Escala temporal geológica",
+      "url": "https://es.wikipedia.org/wiki/tiempo_geol%C3%B3gico"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "geologia",
+    "silurico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

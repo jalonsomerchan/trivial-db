@@ -1,0 +1,43 @@
+{
+  "id": "q-003607",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “ilusión pictórica que engaña al ojo”?",
+  "answers": [
+    {
+      "text": "mosaico",
+      "correct": false
+    },
+    {
+      "text": "frottage",
+      "correct": false
+    },
+    {
+      "text": "trompe-l’œil",
+      "correct": true
+    },
+    {
+      "text": "litografía",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es trompe-l’œil.",
+  "sources": [
+    {
+      "title": "Wikipedia - trompe-l’œil",
+      "url": "https://es.wikipedia.org/wiki/trompe-l%E2%80%99%C5%93il"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "trompe-l-il"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

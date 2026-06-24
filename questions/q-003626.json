@@ -1,0 +1,43 @@
+{
+  "id": "q-003626",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “impresión basada en repulsión entre agua y grasa”?",
+  "answers": [
+    {
+      "text": "bajorrelieve",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "collage",
+      "correct": false
+    },
+    {
+      "text": "litografía",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica definida es litografía.",
+  "sources": [
+    {
+      "title": "Wikipedia - litografía",
+      "url": "https://es.wikipedia.org/wiki/litograf%C3%ADa"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "litografia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

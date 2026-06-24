@@ -1,0 +1,43 @@
+{
+  "id": "q-003586",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente Composición con rojo, azul y amarillo?",
+  "answers": [
+    {
+      "text": "Museos Vaticanos",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Kunsthaus Zürich",
+      "correct": true
+    },
+    {
+      "text": "Tate Modern",
+      "correct": false
+    }
+  ],
+  "explanation": "Composición con rojo, azul y amarillo se conserva habitualmente en Kunsthaus Zürich.",
+  "sources": [
+    {
+      "title": "Wikipedia - Composición con rojo, azul y amarillo",
+      "url": "https://es.wikipedia.org/wiki/Composici%C3%B3n_con_rojo%2C_azul_y_amarillo"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "composicion-con-rojo-azul-y-amarillo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

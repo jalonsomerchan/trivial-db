@@ -1,0 +1,43 @@
+{
+  "id": "q-003454",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “noble de territorios eslavos orientales”?",
+  "answers": [
+    {
+      "text": "boyardo",
+      "correct": true
+    },
+    {
+      "text": "alodio",
+      "correct": false
+    },
+    {
+      "text": "mayorazgo",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es boyardo.",
+  "sources": [
+    {
+      "title": "Wikipedia - boyardo",
+      "url": "https://es.wikipedia.org/wiki/boyardo"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "boyardo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

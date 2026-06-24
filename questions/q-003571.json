@@ -1,0 +1,43 @@
+{
+  "id": "q-003571",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente El caballero de la mano en el pecho?",
+  "answers": [
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "Museo del Prado",
+      "correct": true
+    },
+    {
+      "text": "Mauritshuis",
+      "correct": false
+    }
+  ],
+  "explanation": "El caballero de la mano en el pecho se conserva habitualmente en Museo del Prado.",
+  "sources": [
+    {
+      "title": "Wikipedia - El caballero de la mano en el pecho",
+      "url": "https://es.wikipedia.org/wiki/El_caballero_de_la_mano_en_el_pecho"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "el-caballero-de-la-mano-en-el-pecho"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

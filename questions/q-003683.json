@@ -1,0 +1,43 @@
+{
+  "id": "q-003683",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Caché?",
+  "answers": [
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Michael Haneke",
+      "correct": true
+    }
+  ],
+  "explanation": "Caché fue dirigida por Michael Haneke.",
+  "sources": [
+    {
+      "title": "Wikipedia - Caché",
+      "url": "https://es.wikipedia.org/wiki/Cach%C3%A9"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "michael-haneke"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

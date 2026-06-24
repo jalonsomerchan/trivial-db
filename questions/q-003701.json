@@ -1,0 +1,43 @@
+{
+  "id": "q-003701",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “elemento de trama que impulsa la acción aunque su naturaleza importe poco”?",
+  "answers": [
+    {
+      "text": "spin-off",
+      "correct": false
+    },
+    {
+      "text": "macguffin",
+      "correct": true
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "giallo",
+      "correct": false
+    }
+  ],
+  "explanation": "El término audiovisual definido es macguffin.",
+  "sources": [
+    {
+      "title": "Wikipedia - macguffin",
+      "url": "https://es.wikipedia.org/wiki/macguffin"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "macguffin"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

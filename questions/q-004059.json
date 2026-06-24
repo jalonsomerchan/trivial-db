@@ -1,0 +1,43 @@
+{
+  "id": "q-004059",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante Ka?",
+  "answers": [
+    {
+      "text": "forma de la ley de Ohm",
+      "correct": false
+    },
+    {
+      "text": "ley de Beer-Lambert",
+      "correct": false
+    },
+    {
+      "text": "constante de acidez",
+      "correct": true
+    },
+    {
+      "text": "definición de pH",
+      "correct": false
+    }
+  ],
+  "explanation": "Ka representa constante de acidez.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "constante-de-acidez"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003489",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Aureliano Buendía?",
+  "answers": [
+    {
+      "text": "Pedro Páramo",
+      "correct": false
+    },
+    {
+      "text": "Cien años de soledad",
+      "correct": true
+    },
+    {
+      "text": "Beloved",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "Aureliano Buendía aparece en Cien años de soledad.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cien años de soledad",
+      "url": "https://es.wikipedia.org/wiki/Cien_a%C3%B1os_de_soledad"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "aureliano-buendia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

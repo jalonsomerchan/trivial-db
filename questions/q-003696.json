@@ -1,0 +1,43 @@
+{
+  "id": "q-003696",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “toma larga sin cortes aparentes”?",
+  "answers": [
+    {
+      "text": "plano secuencia",
+      "correct": true
+    },
+    {
+      "text": "foley",
+      "correct": false
+    },
+    {
+      "text": "travelling",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    }
+  ],
+  "explanation": "El término audiovisual definido es plano secuencia.",
+  "sources": [
+    {
+      "title": "Wikipedia - plano secuencia",
+      "url": "https://es.wikipedia.org/wiki/plano_secuencia"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "plano-secuencia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

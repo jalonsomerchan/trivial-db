@@ -1,0 +1,43 @@
+{
+  "id": "q-003765",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo Jules Rimet Trophy?",
+  "answers": [
+    {
+      "text": "Madrid",
+      "correct": false
+    },
+    {
+      "text": "fútbol mundial histórico",
+      "correct": true
+    },
+    {
+      "text": "golf, The Open Championship",
+      "correct": false
+    },
+    {
+      "text": "líder del Tour de Francia",
+      "correct": false
+    }
+  ],
+  "explanation": "Jules Rimet Trophy se asocia con fútbol mundial histórico.",
+  "sources": [
+    {
+      "title": "Wikipedia - Jules Rimet Trophy",
+      "url": "https://es.wikipedia.org/wiki/Jules_Rimet_Trophy"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "jules-rimet-trophy"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

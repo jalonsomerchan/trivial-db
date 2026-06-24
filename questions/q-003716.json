@@ -1,0 +1,43 @@
+{
+  "id": "q-003716",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “teoría que enfatiza choque y asociación entre planos”?",
+  "answers": [
+    {
+      "text": "chroma key",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "montaje soviético",
+      "correct": true
+    },
+    {
+      "text": "match cut",
+      "correct": false
+    }
+  ],
+  "explanation": "El término audiovisual definido es montaje soviético.",
+  "sources": [
+    {
+      "title": "Wikipedia - montaje soviético",
+      "url": "https://es.wikipedia.org/wiki/montaje_sovi%C3%A9tico"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "montaje-sovietico"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

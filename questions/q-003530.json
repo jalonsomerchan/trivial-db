@@ -1,0 +1,43 @@
+{
+  "id": "q-003530",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "teoria-literaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto literario se define como “estructura cruzada de elementos”?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "esperpento",
+      "correct": false
+    },
+    {
+      "text": "anadiplosis",
+      "correct": false
+    },
+    {
+      "text": "quiasmo",
+      "correct": true
+    }
+  ],
+  "explanation": "El concepto literario definido es quiasmo.",
+  "sources": [
+    {
+      "title": "Wikipedia - quiasmo",
+      "url": "https://es.wikipedia.org/wiki/quiasmo"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "teoria-literaria",
+    "quiasmo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003928",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "instrumentacion"
+  ],
+  "difficulty": "hard",
+  "question": "En organología orquestal, ¿cómo se clasifica normalmente el clave?",
+  "answers": [
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "teclado de cuerda pulsada",
+      "correct": true
+    },
+    {
+      "text": "percusión de láminas metálicas",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "El clave se clasifica normalmente como teclado de cuerda pulsada.",
+  "sources": [
+    {
+      "title": "Wikipedia - clave",
+      "url": "https://es.wikipedia.org/wiki/clave"
+    }
+  ],
+  "tags": [
+    "musica",
+    "instrumentos",
+    "clave"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

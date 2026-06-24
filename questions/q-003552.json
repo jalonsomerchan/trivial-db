@@ -1,0 +1,43 @@
+{
+  "id": "q-003552",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autor escribió la novela Vergüenza?",
+  "answers": [
+    {
+      "text": "J. M. Coetzee",
+      "correct": false
+    },
+    {
+      "text": "Umberto Eco",
+      "correct": false
+    },
+    {
+      "text": "Thomas Pynchon",
+      "correct": false
+    },
+    {
+      "text": "Salman Rushdie",
+      "correct": true
+    }
+  ],
+  "explanation": "Vergüenza fue escrita por Salman Rushdie.",
+  "sources": [
+    {
+      "title": "Wikipedia - Vergüenza",
+      "url": "https://es.wikipedia.org/wiki/Verg%C3%BCenza"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "salman-rushdie"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

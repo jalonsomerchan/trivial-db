@@ -1,0 +1,43 @@
+{
+  "id": "q-003179",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "nutricion-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué déficit nutricional se asocia clásicamente con beriberi?",
+  "answers": [
+    {
+      "text": "vitamina B1 o tiamina",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "vitamina B5",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "Beriberi se asocia clásicamente al déficit de vitamina B1 o tiamina.",
+  "sources": [
+    {
+      "title": "Wikipedia - Manual MSD - Vitaminas",
+      "url": "https://es.wikipedia.org/wiki/vitaminas"
+    }
+  ],
+  "tags": [
+    "salud",
+    "nutricion",
+    "beriberi"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

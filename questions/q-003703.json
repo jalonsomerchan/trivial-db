@@ -1,0 +1,43 @@
+{
+  "id": "q-003703",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "lenguaje-cinematografico"
+  ],
+  "difficulty": "hard",
+  "question": "En lenguaje audiovisual, ¿qué término se define como “universo narrativo de la obra”?",
+  "answers": [
+    {
+      "text": "screwball comedy",
+      "correct": false
+    },
+    {
+      "text": "diegesis",
+      "correct": true
+    },
+    {
+      "text": "remake",
+      "correct": false
+    },
+    {
+      "text": "travelling",
+      "correct": false
+    }
+  ],
+  "explanation": "El término audiovisual definido es diegesis.",
+  "sources": [
+    {
+      "title": "Wikipedia - diegesis",
+      "url": "https://es.wikipedia.org/wiki/diegesis"
+    }
+  ],
+  "tags": [
+    "cine",
+    "lenguaje-audiovisual",
+    "diegesis"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003343",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cereales-y-masas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué base farinácea o cereal se asocia de forma característica con pilaf persa?",
+  "answers": [
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "arroz de grano largo",
+      "correct": true
+    },
+    {
+      "text": "patata y harina",
+      "correct": false
+    },
+    {
+      "text": "trigo verde tostado",
+      "correct": false
+    }
+  ],
+  "explanation": "Pilaf persa se asocia característicamente con arroz de grano largo.",
+  "sources": [
+    {
+      "title": "Wikipedia - pilaf persa",
+      "url": "https://es.wikipedia.org/wiki/pilaf_persa"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereales",
+    "pilaf-persa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003551",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autor escribió la novela Hijos de la medianoche?",
+  "answers": [
+    {
+      "text": "Italo Calvino",
+      "correct": false
+    },
+    {
+      "text": "Juan Carlos Onetti",
+      "correct": false
+    },
+    {
+      "text": "Salman Rushdie",
+      "correct": true
+    },
+    {
+      "text": "Roberto Bolaño",
+      "correct": false
+    }
+  ],
+  "explanation": "Hijos de la medianoche fue escrita por Salman Rushdie.",
+  "sources": [
+    {
+      "title": "Wikipedia - Hijos de la medianoche",
+      "url": "https://es.wikipedia.org/wiki/Hijos_de_la_medianoche"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "salman-rushdie"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

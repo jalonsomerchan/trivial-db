@@ -1,0 +1,43 @@
+{
+  "id": "q-003562",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente El nacimiento de Venus?",
+  "answers": [
+    {
+      "text": "Mauritshuis",
+      "correct": false
+    },
+    {
+      "text": "Galería Uffizi",
+      "correct": true
+    },
+    {
+      "text": "Metropolitan Museum of Art",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "El nacimiento de Venus se conserva habitualmente en Galería Uffizi.",
+  "sources": [
+    {
+      "title": "Wikipedia - El nacimiento de Venus",
+      "url": "https://es.wikipedia.org/wiki/El_nacimiento_de_Venus"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "el-nacimiento-de-venus"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

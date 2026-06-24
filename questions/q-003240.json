@@ -1,0 +1,43 @@
+{
+  "id": "q-003240",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "histologia"
+  ],
+  "difficulty": "hard",
+  "question": "En histología, ¿cómo se llaman las células presentadoras de antígeno en epidermis?",
+  "answers": [
+    {
+      "text": "células ependimarias",
+      "correct": false
+    },
+    {
+      "text": "células principales",
+      "correct": false
+    },
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "células de Langerhans",
+      "correct": true
+    }
+  ],
+  "explanation": "Las células presentadoras de antígeno en epidermis se llaman células de Langerhans.",
+  "sources": [
+    {
+      "title": "Wikipedia - Histología",
+      "url": "https://es.wikipedia.org/wiki/histologia"
+    }
+  ],
+  "tags": [
+    "salud",
+    "histologia",
+    "celulas-de-langerhans"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

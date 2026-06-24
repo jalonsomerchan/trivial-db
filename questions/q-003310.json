@@ -1,0 +1,43 @@
+{
+  "id": "q-003310",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "bebidas-destiladas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la materia prima característica de vodka tradicional eslavo?",
+  "answers": [
+    {
+      "text": "cereal o patata",
+      "correct": true
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "miel fermentada",
+      "correct": false
+    }
+  ],
+  "explanation": "Vodka tradicional eslavo se elabora tradicionalmente a partir de cereal o patata.",
+  "sources": [
+    {
+      "title": "Wikipedia - vodka tradicional eslavo",
+      "url": "https://es.wikipedia.org/wiki/vodka_tradicional_eslavo"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bebidas",
+    "vodka-tradicional-eslavo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

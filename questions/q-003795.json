@@ -1,0 +1,43 @@
+{
+  "id": "q-003795",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "terminologia-deportiva-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué deporte se usa especialmente el término silly point?",
+  "answers": [
+    {
+      "text": "críquet",
+      "correct": true
+    },
+    {
+      "text": "fútbol y otros deportes",
+      "correct": false
+    },
+    {
+      "text": "golf",
+      "correct": false
+    },
+    {
+      "text": "halterofilia",
+      "correct": false
+    }
+  ],
+  "explanation": "El término silly point se usa especialmente en críquet.",
+  "sources": [
+    {
+      "title": "Wikipedia - silly point",
+      "url": "https://es.wikipedia.org/wiki/silly_point"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "terminologia",
+    "silly-point"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

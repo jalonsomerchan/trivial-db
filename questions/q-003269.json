@@ -1,0 +1,43 @@
+{
+  "id": "q-003269",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "farmacologia-basica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué receptor se asocia principalmente con acción de aldosterona?",
+  "answers": [
+    {
+      "text": "receptor AMPA",
+      "correct": false
+    },
+    {
+      "text": "receptor mineralocorticoide",
+      "correct": true
+    },
+    {
+      "text": "receptores nicotínicos musculares",
+      "correct": false
+    },
+    {
+      "text": "receptor H3",
+      "correct": false
+    }
+  ],
+  "explanation": "Acción de aldosterona se asocia principalmente con receptor mineralocorticoide.",
+  "sources": [
+    {
+      "title": "Wikipedia - Receptor celular",
+      "url": "https://es.wikipedia.org/wiki/receptores"
+    }
+  ],
+  "tags": [
+    "salud",
+    "farmacologia",
+    "receptor-mineralocorticoide"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

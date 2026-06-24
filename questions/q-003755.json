@@ -1,0 +1,43 @@
+{
+  "id": "q-003755",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo America’s Cup?",
+  "answers": [
+    {
+      "text": "críquet Inglaterra-Australia",
+      "correct": false
+    },
+    {
+      "text": "automovilismo, Indianapolis 500",
+      "correct": false
+    },
+    {
+      "text": "vela",
+      "correct": true
+    },
+    {
+      "text": "tenis femenino por equipos",
+      "correct": false
+    }
+  ],
+  "explanation": "America’s Cup se asocia con vela.",
+  "sources": [
+    {
+      "title": "Wikipedia - America’s Cup",
+      "url": "https://es.wikipedia.org/wiki/America%E2%80%99s_Cup"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "america-s-cup"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

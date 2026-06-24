@@ -1,0 +1,43 @@
+{
+  "id": "q-003550",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "autores-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autor escribió la novela Canto de Salomón?",
+  "answers": [
+    {
+      "text": "Roberto Bolaño",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Toni Morrison",
+      "correct": true
+    }
+  ],
+  "explanation": "Canto de Salomón fue escrita por Toni Morrison.",
+  "sources": [
+    {
+      "title": "Wikipedia - Canto de Salomón",
+      "url": "https://es.wikipedia.org/wiki/Canto_de_Salom%C3%B3n"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autores",
+    "toni-morrison"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

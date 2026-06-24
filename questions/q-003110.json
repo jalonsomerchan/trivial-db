@@ -1,0 +1,43 @@
+{
+  "id": "q-003110",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "algoritmos-y-complejidad"
+  ],
+  "difficulty": "hard",
+  "question": "En análisis de algoritmos, ¿cuál es la complejidad temporal típica de acceso por índice en un array?",
+  "answers": [
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "O(1)",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    }
+  ],
+  "explanation": "La complejidad temporal típica de acceso por índice en un array es O(1).",
+  "sources": [
+    {
+      "title": "Wikipedia - Análisis de algoritmos",
+      "url": "https://es.wikipedia.org/wiki/complejidad_computacional"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "algoritmos",
+    "complejidad"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

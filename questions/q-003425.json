@@ -1,0 +1,43 @@
+{
+  "id": "q-003425",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "dinastias"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué dinastía pertenece históricamente Cosroes I?",
+  "answers": [
+    {
+      "text": "sasánida",
+      "correct": true
+    },
+    {
+      "text": "mogol",
+      "correct": false
+    },
+    {
+      "text": "otomana",
+      "correct": false
+    },
+    {
+      "text": "Tudor",
+      "correct": false
+    }
+  ],
+  "explanation": "Cosroes I pertenece a la dinastía sasánida.",
+  "sources": [
+    {
+      "title": "Wikipedia - Cosroes I",
+      "url": "https://es.wikipedia.org/wiki/Cosroes_I"
+    }
+  ],
+  "tags": [
+    "historia",
+    "dinastias",
+    "sasanida"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

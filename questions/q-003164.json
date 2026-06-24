@@ -1,0 +1,43 @@
+{
+  "id": "q-003164",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "siglas-avanzadas"
+  ],
+  "difficulty": "hard",
+  "question": "En informática, ¿qué significa o describe la sigla REST?",
+  "answers": [
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Crear, Leer, Actualizar y Borrar",
+      "correct": false
+    },
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Representational State Transfer",
+      "correct": true
+    }
+  ],
+  "explanation": "REST se usa para referirse a Representational State Transfer.",
+  "sources": [
+    {
+      "title": "Wikipedia - REST",
+      "url": "https://es.wikipedia.org/wiki/REST"
+    }
+  ],
+  "tags": [
+    "tecnologia",
+    "siglas",
+    "rest"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

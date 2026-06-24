@@ -1,0 +1,43 @@
+{
+  "id": "q-003523",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "teoria-literaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto literario se define como “género híbrido burlesco de ideas y estilos”?",
+  "answers": [
+    {
+      "text": "monólogo interior",
+      "correct": false
+    },
+    {
+      "text": "sátira menipea",
+      "correct": true
+    },
+    {
+      "text": "mise en abyme",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto literario definido es sátira menipea.",
+  "sources": [
+    {
+      "title": "Wikipedia - sátira menipea",
+      "url": "https://es.wikipedia.org/wiki/s%C3%A1tira_menipea"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "teoria-literaria",
+    "satira-menipea"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

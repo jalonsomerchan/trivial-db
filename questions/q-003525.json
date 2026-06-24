@@ -1,0 +1,43 @@
+{
+  "id": "q-003525",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "teoria-literaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto literario se define como “giro de fortuna en una acción dramática”?",
+  "answers": [
+    {
+      "text": "epanadiplosis",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "peripecia",
+      "correct": true
+    },
+    {
+      "text": "mise en abyme",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto literario definido es peripecia.",
+  "sources": [
+    {
+      "title": "Wikipedia - peripecia",
+      "url": "https://es.wikipedia.org/wiki/peripecia"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "teoria-literaria",
+    "peripecia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

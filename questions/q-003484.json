@@ -1,0 +1,43 @@
+{
+  "id": "q-003484",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "personajes-literarios"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué obra literaria aparece el personaje Josef K.?",
+  "answers": [
+    {
+      "text": "El proceso",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "Madame Bovary",
+      "correct": false
+    }
+  ],
+  "explanation": "Josef K. aparece en El proceso.",
+  "sources": [
+    {
+      "title": "Wikipedia - El proceso",
+      "url": "https://es.wikipedia.org/wiki/El_proceso"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes",
+    "josef-k"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

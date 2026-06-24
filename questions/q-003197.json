@@ -1,0 +1,43 @@
+{
+  "id": "q-003197",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "neuroanatomia"
+  ],
+  "difficulty": "hard",
+  "question": "En neuroanatomía, ¿qué par craneal corresponde al número romano III?",
+  "answers": [
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "nervio accesorio",
+      "correct": false
+    },
+    {
+      "text": "nervio oculomotor",
+      "correct": true
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "El par craneal III corresponde al nervio oculomotor.",
+  "sources": [
+    {
+      "title": "Wikipedia - Nervio craneal",
+      "url": "https://es.wikipedia.org/wiki/pares_craneales"
+    }
+  ],
+  "tags": [
+    "salud",
+    "neuroanatomia",
+    "pares-craneales"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

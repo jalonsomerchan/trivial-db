@@ -1,0 +1,43 @@
+{
+  "id": "q-003273",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quimica-culinaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compuesto aromático se asocia especialmente con canela?",
+  "answers": [
+    {
+      "text": "cineol",
+      "correct": false
+    },
+    {
+      "text": "anetol",
+      "correct": false
+    },
+    {
+      "text": "linalool",
+      "correct": false
+    },
+    {
+      "text": "cinamaldehído",
+      "correct": true
+    }
+  ],
+  "explanation": "Cinamaldehído se asocia de forma destacada con el aroma de canela.",
+  "sources": [
+    {
+      "title": "Wikipedia - canela",
+      "url": "https://es.wikipedia.org/wiki/canela"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "quimica-culinaria",
+    "canela"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

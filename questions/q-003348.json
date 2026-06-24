@@ -1,0 +1,43 @@
+{
+  "id": "q-003348",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cereales-y-masas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué base farinácea o cereal se asocia de forma característica con bulgur?",
+  "answers": [
+    {
+      "text": "trigo partido precocido",
+      "correct": true
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "Bulgur se asocia característicamente con trigo partido precocido.",
+  "sources": [
+    {
+      "title": "Wikipedia - bulgur",
+      "url": "https://es.wikipedia.org/wiki/bulgur"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereales",
+    "bulgur"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003514",
+  "status": "published",
+  "language": "es",
+  "category": "literatura",
+  "subcategories": [
+    "teoria-literaria"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué concepto literario se define como “representación asociativa de la vida mental”?",
+  "answers": [
+    {
+      "text": "corriente de conciencia",
+      "correct": true
+    },
+    {
+      "text": "monólogo interior",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    }
+  ],
+  "explanation": "El concepto literario definido es corriente de conciencia.",
+  "sources": [
+    {
+      "title": "Wikipedia - corriente de conciencia",
+      "url": "https://es.wikipedia.org/wiki/corriente_de_conciencia"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "teoria-literaria",
+    "corriente-de-conciencia"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

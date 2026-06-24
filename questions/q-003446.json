@@ -1,0 +1,43 @@
+{
+  "id": "q-003446",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “sistema de trabajo rotativo andino”?",
+  "answers": [
+    {
+      "text": "cartucho egipcio",
+      "correct": false
+    },
+    {
+      "text": "mita",
+      "correct": true
+    },
+    {
+      "text": "boyardo",
+      "correct": false
+    },
+    {
+      "text": "falange",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es mita.",
+  "sources": [
+    {
+      "title": "Wikipedia - mita",
+      "url": "https://es.wikipedia.org/wiki/mita"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "mita"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

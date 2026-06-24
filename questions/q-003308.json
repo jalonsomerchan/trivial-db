@@ -1,0 +1,43 @@
+{
+  "id": "q-003308",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "bebidas-destiladas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la materia prima característica de whisky escocés de malta?",
+  "answers": [
+    {
+      "text": "cebada malteada",
+      "correct": true
+    },
+    {
+      "text": "maíz mayoritario",
+      "correct": false
+    },
+    {
+      "text": "centeno",
+      "correct": false
+    },
+    {
+      "text": "cereal o patata",
+      "correct": false
+    }
+  ],
+  "explanation": "Whisky escocés de malta se elabora tradicionalmente a partir de cebada malteada.",
+  "sources": [
+    {
+      "title": "Wikipedia - whisky escocés de malta",
+      "url": "https://es.wikipedia.org/wiki/whisky_escoc%C3%A9s_de_malta"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bebidas",
+    "whisky-escoces-de-malta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

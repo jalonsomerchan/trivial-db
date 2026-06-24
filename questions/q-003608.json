@@ -1,0 +1,43 @@
+{
+  "id": "q-003608",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “pintura en gama de grises que imita relieve”?",
+  "answers": [
+    {
+      "text": "grisalla",
+      "correct": true
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "impasto",
+      "correct": false
+    },
+    {
+      "text": "contrapposto",
+      "correct": false
+    }
+  ],
+  "explanation": "La técnica definida es grisalla.",
+  "sources": [
+    {
+      "title": "Wikipedia - grisalla",
+      "url": "https://es.wikipedia.org/wiki/grisalla"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "grisalla"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

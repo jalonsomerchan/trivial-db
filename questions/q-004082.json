@@ -1,0 +1,43 @@
+{
+  "id": "q-004082",
+  "status": "published",
+  "language": "es",
+  "category": "salud",
+  "subcategories": [
+    "exploracion-clinica"
+  ],
+  "difficulty": "hard",
+  "question": "En exploración clínica, ¿con qué se relaciona principalmente el reflejo rotuliano?",
+  "answers": [
+    {
+      "text": "raíces C5-C6",
+      "correct": false
+    },
+    {
+      "text": "raíces L3-L4",
+      "correct": true
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "El reflejo rotuliano se relaciona principalmente con raíces L3-L4.",
+  "sources": [
+    {
+      "title": "Wikipedia - Exploración física",
+      "url": "https://es.wikipedia.org/wiki/el_reflejo_rotuliano"
+    }
+  ],
+  "tags": [
+    "salud",
+    "exploracion-clinica",
+    "el-reflejo-rotuliano"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

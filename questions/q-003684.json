@@ -1,0 +1,43 @@
+{
+  "id": "q-003684",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Dogville?",
+  "answers": [
+    {
+      "text": "Lars von Trier",
+      "correct": true
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "Guillermo del Toro",
+      "correct": false
+    }
+  ],
+  "explanation": "Dogville fue dirigida por Lars von Trier.",
+  "sources": [
+    {
+      "title": "Wikipedia - Dogville",
+      "url": "https://es.wikipedia.org/wiki/Dogville"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "lars-von-trier"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-004040",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante E = hν?",
+  "answers": [
+    {
+      "text": "Atenas",
+      "correct": false
+    },
+    {
+      "text": "Londres",
+      "correct": false
+    },
+    {
+      "text": "relación de Planck-Einstein",
+      "correct": true
+    },
+    {
+      "text": "tasa proporcional de decrecimiento",
+      "correct": false
+    }
+  ],
+  "explanation": "E = hν representa relación de Planck-Einstein.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "relacion-de-planck-einstein"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

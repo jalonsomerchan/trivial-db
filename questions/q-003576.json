@@ -1,0 +1,43 @@
+{
+  "id": "q-003576",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "obras-y-museos"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué museo o institución se conserva habitualmente American Gothic?",
+  "answers": [
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Art Institute of Chicago",
+      "correct": true
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "American Gothic se conserva habitualmente en Art Institute of Chicago.",
+  "sources": [
+    {
+      "title": "Wikipedia - American Gothic",
+      "url": "https://es.wikipedia.org/wiki/American_Gothic"
+    }
+  ],
+  "tags": [
+    "arte",
+    "museos",
+    "american-gothic"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

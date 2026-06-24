@@ -1,0 +1,43 @@
+{
+  "id": "q-003304",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "bebidas-destiladas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la materia prima característica de grappa?",
+  "answers": [
+    {
+      "text": "orujo de uva",
+      "correct": true
+    },
+    {
+      "text": "cereal o patata aromatizado",
+      "correct": false
+    },
+    {
+      "text": "sorgo u otros cereales",
+      "correct": false
+    },
+    {
+      "text": "Lisboa",
+      "correct": false
+    }
+  ],
+  "explanation": "Grappa se elabora tradicionalmente a partir de orujo de uva.",
+  "sources": [
+    {
+      "title": "Wikipedia - grappa",
+      "url": "https://es.wikipedia.org/wiki/grappa"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bebidas",
+    "grappa"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

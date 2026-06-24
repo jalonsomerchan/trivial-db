@@ -1,0 +1,43 @@
+{
+  "id": "q-003438",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "conceptos-historicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué término histórico se define como “magistrado defensor de la plebe romana”?",
+  "answers": [
+    {
+      "text": "Roma",
+      "correct": false
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "tribuno de la plebe",
+      "correct": true
+    },
+    {
+      "text": "foederati",
+      "correct": false
+    }
+  ],
+  "explanation": "El término histórico definido es tribuno de la plebe.",
+  "sources": [
+    {
+      "title": "Wikipedia - tribuno de la plebe",
+      "url": "https://es.wikipedia.org/wiki/tribuno_de_la_plebe"
+    }
+  ],
+  "tags": [
+    "historia",
+    "conceptos",
+    "tribuno-de-la-plebe"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

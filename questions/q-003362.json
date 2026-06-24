@@ -1,0 +1,43 @@
+{
+  "id": "q-003362",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "cereales-y-masas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué base farinácea o cereal se asocia de forma característica con kibbeh?",
+  "answers": [
+    {
+      "text": "centeno",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "bulgur y carne",
+      "correct": true
+    },
+    {
+      "text": "Madrid",
+      "correct": false
+    }
+  ],
+  "explanation": "Kibbeh se asocia característicamente con bulgur y carne.",
+  "sources": [
+    {
+      "title": "Wikipedia - kibbeh",
+      "url": "https://es.wikipedia.org/wiki/kibbeh"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "cereales",
+    "kibbeh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

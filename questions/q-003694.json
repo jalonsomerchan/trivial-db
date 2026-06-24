@@ -1,0 +1,43 @@
+{
+  "id": "q-003694",
+  "status": "published",
+  "language": "es",
+  "category": "cine-tv",
+  "subcategories": [
+    "cine-contemporaneo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué cineasta dirigió la película Relatos salvajes?",
+  "answers": [
+    {
+      "text": "Asghar Farhadi",
+      "correct": false
+    },
+    {
+      "text": "Damián Szifron",
+      "correct": true
+    },
+    {
+      "text": "Venecia",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "Relatos salvajes fue dirigida por Damián Szifron.",
+  "sources": [
+    {
+      "title": "Wikipedia - Relatos salvajes",
+      "url": "https://es.wikipedia.org/wiki/Relatos_salvajes"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores",
+    "damian-szifron"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

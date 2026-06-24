@@ -1,0 +1,43 @@
+{
+  "id": "q-003326",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "fermentaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué microorganismo o comunidad microbiana interviene de forma característica en tempeh?",
+  "answers": [
+    {
+      "text": "Aspergillus oryzae",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Rhizopus oligosporus",
+      "correct": true
+    },
+    {
+      "text": "Saccharomyces cerevisiae",
+      "correct": false
+    }
+  ],
+  "explanation": "En tempeh interviene de forma característica Rhizopus oligosporus.",
+  "sources": [
+    {
+      "title": "Wikipedia - tempeh",
+      "url": "https://es.wikipedia.org/wiki/tempeh"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "fermentacion",
+    "tempeh"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

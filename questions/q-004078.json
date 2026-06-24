@@ -1,0 +1,43 @@
+{
+  "id": "q-004078",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "leyes-y-formulas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ley, magnitud o relación científica se representa mediante Re = ρvL/μ?",
+  "answers": [
+    {
+      "text": "número de Reynolds",
+      "correct": true
+    },
+    {
+      "text": "ley de decaimiento radiactivo",
+      "correct": false
+    },
+    {
+      "text": "Florencia",
+      "correct": false
+    },
+    {
+      "text": "ley de gravitación universal de Newton",
+      "correct": false
+    }
+  ],
+  "explanation": "Re = ρvL/μ representa número de Reynolds.",
+  "sources": [
+    {
+      "title": "Wikipedia - Fórmula científica",
+      "url": "https://es.wikipedia.org/wiki/f%C3%ADsica"
+    }
+  ],
+  "tags": [
+    "ciencia",
+    "formulas",
+    "numero-de-reynolds"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

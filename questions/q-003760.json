@@ -1,0 +1,43 @@
+{
+  "id": "q-003760",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo Borg-Warner Trophy?",
+  "answers": [
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "automovilismo, Indianapolis 500",
+      "correct": true
+    },
+    {
+      "text": "atletismo universitario",
+      "correct": false
+    },
+    {
+      "text": "Tokio",
+      "correct": false
+    }
+  ],
+  "explanation": "Borg-Warner Trophy se asocia con automovilismo, Indianapolis 500.",
+  "sources": [
+    {
+      "title": "Wikipedia - Borg-Warner Trophy",
+      "url": "https://es.wikipedia.org/wiki/Borg-Warner_Trophy"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "borg-warner-trophy"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

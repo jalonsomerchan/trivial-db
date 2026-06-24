@@ -1,0 +1,43 @@
+{
+  "id": "q-003646",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "arquitectura-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estilo o corriente arquitectónica se asocia con Templo de Borobudur?",
+  "answers": [
+    {
+      "text": "gótico",
+      "correct": false
+    },
+    {
+      "text": "arquitectura budista",
+      "correct": true
+    },
+    {
+      "text": "racionalismo estructural",
+      "correct": false
+    },
+    {
+      "text": "movimiento moderno",
+      "correct": false
+    }
+  ],
+  "explanation": "Templo de Borobudur se asocia con arquitectura budista.",
+  "sources": [
+    {
+      "title": "Wikipedia - Templo de Borobudur",
+      "url": "https://es.wikipedia.org/wiki/Templo_de_Borobudur"
+    }
+  ],
+  "tags": [
+    "arte",
+    "arquitectura",
+    "arquitectura-budista"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

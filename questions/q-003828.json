@@ -1,0 +1,43 @@
+{
+  "id": "q-003828",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "juegos-olimpicos-avanzado"
+  ],
+  "difficulty": "hard",
+  "question": "¿Dónde se celebraron los Juegos Olímpicos de verano de 1976?",
+  "answers": [
+    {
+      "text": "Roma 1956",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Oslo 2002",
+      "correct": false
+    },
+    {
+      "text": "Montreal",
+      "correct": true
+    }
+  ],
+  "explanation": "Los Juegos Olímpicos de verano de 1976 se celebraron en Montreal.",
+  "sources": [
+    {
+      "title": "Wikipedia - Juegos Olímpicos",
+      "url": "https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos_de_verano_de_1976"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "juegos-olimpicos",
+    "montreal"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

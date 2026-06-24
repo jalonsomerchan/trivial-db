@@ -1,0 +1,43 @@
+{
+  "id": "q-003772",
+  "status": "published",
+  "language": "es",
+  "category": "deportes",
+  "subcategories": [
+    "trofeos-y-competiciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con qué deporte o competición se asocia el trofeo Maillot arcoíris?",
+  "answers": [
+    {
+      "text": "fútbol",
+      "correct": false
+    },
+    {
+      "text": "béisbol MLB, mejor lanzador",
+      "correct": false
+    },
+    {
+      "text": "baloncesto NBA",
+      "correct": false
+    },
+    {
+      "text": "campeón mundial de ciclismo",
+      "correct": true
+    }
+  ],
+  "explanation": "Maillot arcoíris se asocia con campeón mundial de ciclismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - Maillot arcoíris",
+      "url": "https://es.wikipedia.org/wiki/Maillot_arco%C3%ADris"
+    }
+  ],
+  "tags": [
+    "deportes",
+    "trofeos",
+    "maillot-arcoiris"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

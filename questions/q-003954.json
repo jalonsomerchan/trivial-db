@@ -1,0 +1,43 @@
+{
+  "id": "q-003954",
+  "status": "published",
+  "language": "es",
+  "category": "naturaleza",
+  "subcategories": [
+    "taxonomia-avanzada"
+  ],
+  "difficulty": "hard",
+  "question": "¿A qué orden taxonómico pertenecen principalmente conejos y liebres?",
+  "answers": [
+    {
+      "text": "Sphenisciformes",
+      "correct": false
+    },
+    {
+      "text": "Lagomorpha",
+      "correct": true
+    },
+    {
+      "text": "París",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    }
+  ],
+  "explanation": "Conejos y liebres pertenecen principalmente al orden Lagomorpha.",
+  "sources": [
+    {
+      "title": "Wikipedia - Taxonomía",
+      "url": "https://es.wikipedia.org/wiki/taxonomia"
+    }
+  ],
+  "tags": [
+    "naturaleza",
+    "taxonomia",
+    "lagomorpha"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

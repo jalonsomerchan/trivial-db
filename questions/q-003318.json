@@ -1,0 +1,43 @@
+{
+  "id": "q-003318",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "bebidas-destiladas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la materia prima característica de absenta?",
+  "answers": [
+    {
+      "text": "centeno",
+      "correct": false
+    },
+    {
+      "text": "Praga",
+      "correct": false
+    },
+    {
+      "text": "cereal o patata aromatizado",
+      "correct": false
+    },
+    {
+      "text": "ajenjo y anís",
+      "correct": true
+    }
+  ],
+  "explanation": "Absenta se elabora tradicionalmente a partir de ajenjo y anís.",
+  "sources": [
+    {
+      "title": "Wikipedia - absenta",
+      "url": "https://es.wikipedia.org/wiki/absenta"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "bebidas",
+    "absenta"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-003943",
+  "status": "published",
+  "language": "es",
+  "category": "musica",
+  "subcategories": [
+    "afinaciones"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es la afinación estándar más habitual de banjo de cinco cuerdas estándar, de grave a agudo?",
+  "answers": [
+    {
+      "text": "sol-re-sol-si-re",
+      "correct": true
+    },
+    {
+      "text": "sol-re-la-mi",
+      "correct": false
+    },
+    {
+      "text": "do-sol-re-la",
+      "correct": false
+    },
+    {
+      "text": "sol-do-mi-la",
+      "correct": false
+    }
+  ],
+  "explanation": "La afinación estándar más habitual de banjo de cinco cuerdas estándar es sol-re-sol-si-re.",
+  "sources": [
+    {
+      "title": "Wikipedia - banjo de cinco cuerdas estándar",
+      "url": "https://es.wikipedia.org/wiki/banjo_de_cinco_cuerdas_est%C3%A1ndar"
+    }
+  ],
+  "tags": [
+    "musica",
+    "afinacion",
+    "banjo-de-cinco-cuerdas-estandar"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}

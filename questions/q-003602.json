@@ -1,0 +1,43 @@
+{
+  "id": "q-003602",
+  "status": "published",
+  "language": "es",
+  "category": "arte",
+  "subcategories": [
+    "tecnicas-artisticas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué técnica artística se define como “uso dramático de sombras profundas y focos de luz”?",
+  "answers": [
+    {
+      "text": "contrapposto",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": false
+    },
+    {
+      "text": "escorzo",
+      "correct": false
+    },
+    {
+      "text": "tenebrismo",
+      "correct": true
+    }
+  ],
+  "explanation": "La técnica definida es tenebrismo.",
+  "sources": [
+    {
+      "title": "Wikipedia - tenebrismo",
+      "url": "https://es.wikipedia.org/wiki/tenebrismo"
+    }
+  ],
+  "tags": [
+    "arte",
+    "tecnicas",
+    "tenebrismo"
+  ],
+  "created_at": "2026-06-24",
+  "updated_at": "2026-06-24"
+}
