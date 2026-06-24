@@ -2,9 +2,17 @@
   "id": "historia",
   "name": "Historia",
   "questions": [
-    "q-000004"
+    "q-000004",
+    "q-000013"
   ],
   "subcategories": [
+    {
+      "id": "edad-antigua",
+      "name": "Edad Antigua",
+      "questions": [
+        "q-000013"
+      ]
+    },
     {
       "id": "exploracion-espacial",
       "name": "Exploracion Espacial",
@@ -21,8 +29,8 @@
     }
   ],
   "stats": {
-    "total": 1,
-    "easy": 1,
+    "total": 2,
+    "easy": 2,
     "medium": 0,
     "hard": 0
   },
