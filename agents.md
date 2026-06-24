@@ -248,6 +248,8 @@ Tarea:
 - Cada archivo debe llamarse exactamente igual que el campo `id`, por ejemplo `questions/q-000123.json`.
 - Todas las preguntas deben estar en español salvo que se indique otro idioma.
 - Todas las preguntas deben tener una sola respuesta correcta.
+- MUY IMPORTANTE: las respuestas incorrectas deben estar relacionadas con la pregunta y ser distractores plausibles dentro del mismo tema, aunque no sean la opción correcta; evita respuestas absurdas, aleatorias o claramente fuera de contexto.
+
 - No añadas campo `type`.
 - No añadas campo `id` dentro de las respuestas.
 - Cada respuesta debe tener solo `text` y `correct`.
@@ -314,3 +316,4 @@ Antes de aceptar nuevas preguntas o cambios:
 - Que cada `id` coincide con el nombre del archivo.
 - Que cada pregunta tiene `category`.
 - Que `index.json` solo contiene `id` y `question`.
+- Que las respuestas incorrectas están relacionadas con la pregunta y no son opciones absurdas o fuera de tema.
