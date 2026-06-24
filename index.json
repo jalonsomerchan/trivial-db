@@ -42,5 +42,9 @@
   {
     "id": "q-000011",
     "question": "¿Cuál es la capital de Canadá?"
+  },
+  {
+    "id": "q-000012",
+    "question": "¿Qué río atraviesa la ciudad de Londres?"
   }
 ]
