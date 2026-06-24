@@ -258,5 +258,13 @@
   {
     "id": "q-000073",
     "question": "¿En qué ciudad se encuentra el Museo del Prado?"
+  },
+  {
+    "id": "q-000074",
+    "question": "¿En qué deporte compitió Fernando Alonso como campeón mundial?"
+  },
+  {
+    "id": "q-000075",
+    "question": "¿Qué director dirigió El señor de los anillos: La comunidad del anillo?"
   }
 ]
