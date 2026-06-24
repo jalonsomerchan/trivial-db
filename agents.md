@@ -6,7 +6,7 @@ Instrucciones para agentes o automatizaciones que trabajen en este repositorio.
 
 Este repositorio contiene una base de datos de preguntas para juegos tipo trivial.
 
-Las preguntas se guardan como JSON individuales en `questions/` y las categorías se guardan como índices en `categories/`.
+Las preguntas se guardan como JSON individuales en `questions/`. Los índices de categorías en `categories/` y el índice global `index.json` se generan automáticamente a partir de esas preguntas.
 
 ## Estructura obligatoria
 
@@ -18,6 +18,16 @@ questions/
 categories/
   historia.json
   geografia.json
+
+index.json
+
+scripts/
+  generate-categories.mjs
+  generate-index.mjs
+
+.github/workflows/
+  generate-categories.yml
+  generate-index.yml
 ```
 
 ## Formato de pregunta
@@ -76,16 +86,24 @@ Ejemplo:
 - Debe existir exactamente una respuesta con `"correct": true`.
 - El resto de respuestas deben llevar `"correct": false`.
 - Se recomiendan 4 respuestas por pregunta.
-- El campo `category` debe apuntar a una categoría existente en `categories/`.
-- La pregunta debe estar incluida en el array `questions` de su categoría.
+- El campo `category` debe ser un identificador en minúsculas, sin espacios y con guiones si hace falta.
+- `subcategories`, si existe, debe ser un array de identificadores en minúsculas, sin espacios y con guiones si hace falta.
 - Usar fechas en formato `YYYY-MM-DD`.
 - Formatear los JSON con 2 espacios.
 
-## Formato de categoría
+## Categorías generadas
 
-Cada categoría debe guardarse en `categories/{id}.json`.
+Los archivos de `categories/` no se mantienen manualmente pregunta a pregunta.
 
-Ejemplo:
+Se generan con:
+
+```bash
+node scripts/generate-categories.mjs
+```
+
+El script lee todos los archivos `questions/*.json` y genera un archivo por cada categoría encontrada en el campo `category`.
+
+Ejemplo de salida:
 
 ```json
 {
@@ -102,7 +120,7 @@ Ejemplo:
   "subcategories": [
     {
       "id": "siglo-xx",
-      "name": "Siglo XX",
+      "name": "Siglo Xx",
       "questions": ["q-000001", "q-000015"]
     }
   ],
@@ -116,23 +134,109 @@ Ejemplo:
 }
 ```
 
-## Reglas para categorías
+Reglas:
 
-- El campo `id` de la categoría debe coincidir con el nombre del archivo.
-- Los IDs de categoría deben escribirse en minúsculas, sin espacios y usando guiones cuando sea necesario.
-- El array `questions` contiene IDs de preguntas, no rutas de archivo.
-- Si se usan `subcategories`, cada subcategoría debe tener `id`, `name` y `questions`.
-- `stats` puede usarse como caché para frontends, pero debe mantenerse coherente con las preguntas reales.
+- No añadir manualmente preguntas al array `questions` de una categoría.
+- Para cambiar la categoría de una pregunta, cambiar el campo `category` de esa pregunta.
+- Para cambiar subcategorías, cambiar el campo `subcategories` de la pregunta.
+- El script conserva metadatos existentes de categoría: `name`, `description`, `icon` y `color`.
+- El script recalcula siempre `questions`, `subcategories`, `stats` y `updated_at`.
+- Si una categoría ya no tiene preguntas, el script elimina su archivo JSON.
+
+## Índice global generado
+
+El archivo `index.json` se genera con:
+
+```bash
+node scripts/generate-index.mjs
+```
+
+Formato:
+
+```json
+[
+  {
+    "id": "q-000001",
+    "question": "¿En qué año comenzó la Primera Guerra Mundial?"
+  }
+]
+```
+
+Reglas:
+
+- `index.json` es generado: no editarlo manualmente.
+- Solo debe contener `id` y `question` de cada pregunta.
+- Sirve para consultar rápidamente si una pregunta existe sin cargar todos los JSON completos.
+
+## GitHub Actions
+
+Hay dos workflows:
+
+```txt
+.github/workflows/generate-categories.yml
+.github/workflows/generate-index.yml
+```
+
+### Generate categories
+
+Ejecuta:
+
+```bash
+node scripts/generate-categories.mjs
+```
+
+Se lanza cuando cambian:
+
+```txt
+questions/**/*.json
+scripts/generate-categories.mjs
+.github/workflows/generate-categories.yml
+```
+
+Si hay cambios, hace commit automático de `categories/`.
+
+### Generate question index
+
+Ejecuta:
+
+```bash
+node scripts/generate-index.mjs
+```
+
+Se lanza cuando cambian:
+
+```txt
+questions/**/*.json
+scripts/generate-index.mjs
+.github/workflows/generate-index.yml
+```
+
+Si hay cambios, hace commit automático de `index.json`.
+
+## Flujo recomendado para agentes
+
+Antes de aceptar cambios en preguntas:
+
+```bash
+node scripts/generate-categories.mjs
+node scripts/generate-index.mjs
+```
+
+Después, comprobar que solo han cambiado los archivos esperados:
+
+- Nuevas preguntas o preguntas editadas en `questions/`.
+- Categorías generadas en `categories/`.
+- Índice generado en `index.json`.
 
 ## Validaciones recomendadas
 
-Antes de aceptar nuevas preguntas o categorías, comprobar:
+Antes de aceptar nuevas preguntas o cambios:
 
 - Que el JSON es válido.
 - Que no hay IDs duplicados.
 - Que cada pregunta tiene exactamente una respuesta correcta.
 - Que ninguna respuesta tiene campo `id`.
 - Que ninguna pregunta tiene campo `type`.
-- Que todas las categorías referenciadas existen.
-- Que cada pregunta aparece en su índice de categoría.
-- Que los IDs incluidos en categorías existen en `questions/`.
+- Que cada `id` coincide con el nombre del archivo.
+- Que cada pregunta tiene `category`.
+- Que `index.json` solo contiene `id` y `question`.
