@@ -1,0 +1,42 @@
+{
+  "id": "q-018111",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos-xix-xx"
+  ],
+  "difficulty": "medium",
+  "question": "¿Dónde tuvo lugar o se celebró principalmente la Crisis de Suez?",
+  "answers": [
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": false
+    },
+    {
+      "text": "Egipto",
+      "correct": true
+    }
+  ],
+  "explanation": "La Crisis de Suez se asocia principalmente con Egipto en 1956.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "crisis-de-suez"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

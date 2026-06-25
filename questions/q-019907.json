@@ -1,0 +1,42 @@
+{
+  "id": "q-019907",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar AND bit a bit entre 98 y 174?",
+  "answers": [
+    {
+      "text": "238",
+      "correct": false
+    },
+    {
+      "text": "204",
+      "correct": false
+    },
+    {
+      "text": "34",
+      "correct": true
+    },
+    {
+      "text": "16",
+      "correct": false
+    }
+  ],
+  "explanation": "El operador AND bit a bit conserva solo los bits que están activos en ambos números; 98 AND 174 = 34.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "operadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

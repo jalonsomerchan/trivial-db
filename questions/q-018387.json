@@ -1,0 +1,42 @@
+{
+  "id": "q-018387",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Concilio de Trento” y “Unificación italiana”?",
+  "answers": [
+    {
+      "text": "Unificación italiana antes que Concilio de Trento",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Trento antes que Unificación italiana",
+      "correct": true
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Trento después que Unificación italiana",
+      "correct": false
+    }
+  ],
+  "explanation": "Concilio de Trento ocurrió antes que Unificación italiana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

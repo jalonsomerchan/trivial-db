@@ -1,0 +1,42 @@
+{
+  "id": "q-023162",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1789?",
+  "answers": [
+    {
+      "text": "inicio de la Revolución francesa",
+      "correct": true
+    },
+    {
+      "text": "Primera Guerra del Opio",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1789 se asocia con inicio de la Revolución francesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

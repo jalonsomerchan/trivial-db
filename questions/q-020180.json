@@ -1,0 +1,42 @@
+{
+  "id": "q-020180",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué planteamiento visual caracteriza al dadaísmo?",
+  "answers": [
+    {
+      "text": "reducción formal y austeridad",
+      "correct": false
+    },
+    {
+      "text": "actitud antiarte y provocación",
+      "correct": true
+    },
+    {
+      "text": "uso de imágenes de la cultura de masas",
+      "correct": false
+    },
+    {
+      "text": "referencias a la Antigüedad clásica y sobriedad",
+      "correct": false
+    }
+  ],
+  "explanation": "El dadaísmo se asocia con actitud antiarte y provocación.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

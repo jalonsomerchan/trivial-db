@@ -1,0 +1,42 @@
+{
+  "id": "q-023237",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: firma de la Carta Magna inglesa, inicio de la Reforma protestante, derrota de la Armada Invencible o Revolución Gloriosa inglesa?",
+  "answers": [
+    {
+      "text": "inicio de la Reforma protestante",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": true
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    },
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": false
+    }
+  ],
+  "explanation": "firma de la Carta Magna inglesa es la opción correcta porque su fecha asociada es 1215.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

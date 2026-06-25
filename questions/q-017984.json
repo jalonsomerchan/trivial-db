@@ -1,0 +1,42 @@
+{
+  "id": "q-017984",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Eritrea, Bahrein, Namibia, Emiratos Árabes Unidos?",
+  "answers": [
+    {
+      "text": "Bahrein",
+      "correct": false
+    },
+    {
+      "text": "Eritrea",
+      "correct": false
+    },
+    {
+      "text": "Namibia",
+      "correct": true
+    },
+    {
+      "text": "Emiratos Árabes Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Namibia es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

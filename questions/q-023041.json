@@ -1,0 +1,42 @@
+{
+  "id": "q-023041",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió crac de Wall Street?",
+  "answers": [
+    {
+      "text": "1928",
+      "correct": false
+    },
+    {
+      "text": "1939",
+      "correct": false
+    },
+    {
+      "text": "1930",
+      "correct": false
+    },
+    {
+      "text": "1929",
+      "correct": true
+    }
+  ],
+  "explanation": "Crac de wall street ocurrió en 1929.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

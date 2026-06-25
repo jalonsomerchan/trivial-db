@@ -1,0 +1,43 @@
+{
+  "id": "q-022390",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para tempura?",
+  "answers": [
+    {
+      "text": "tempura — España — patata y huevo",
+      "correct": false
+    },
+    {
+      "text": "tempura — México — tortilla de maíz",
+      "correct": false
+    },
+    {
+      "text": "tempura — Escocia — vísceras de cordero",
+      "correct": false
+    },
+    {
+      "text": "tempura — Japón — rebozado ligero",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para tempura es Japón y rebozado ligero.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

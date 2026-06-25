@@ -1,0 +1,42 @@
+{
+  "id": "q-019636",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "desarrollo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hace principalmente el comando git cherry-pick?",
+  "answers": [
+    {
+      "text": "marcar un commit con una etiqueta",
+      "correct": false
+    },
+    {
+      "text": "buscar el commit que introdujo un fallo mediante bisección",
+      "correct": false
+    },
+    {
+      "text": "reaplicar commits sobre otra base",
+      "correct": false
+    },
+    {
+      "text": "aplicar un commit concreto en otra rama",
+      "correct": true
+    }
+  ],
+  "explanation": "git cherry-pick se usa principalmente para aplicar un commit concreto en otra rama.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "git",
+    "versionado"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

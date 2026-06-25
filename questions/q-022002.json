@@ -1,0 +1,42 @@
+{
+  "id": "q-022002",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente paella?",
+  "answers": [
+    {
+      "text": "Mediterráneo oriental",
+      "correct": false
+    },
+    {
+      "text": "Indonesia",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": true
+    },
+    {
+      "text": "Sudeste asiático",
+      "correct": false
+    }
+  ],
+  "explanation": "paella se asocia tradicionalmente con España.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "espana"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

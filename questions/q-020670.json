@@ -1,0 +1,42 @@
+{
+  "id": "q-020670",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué corriente circula por una resistencia de 4 Ω conectada a 13 V?",
+  "answers": [
+    {
+      "text": "17 A",
+      "correct": false
+    },
+    {
+      "text": "0.31 A",
+      "correct": false
+    },
+    {
+      "text": "52 A",
+      "correct": false
+    },
+    {
+      "text": "3.25 A",
+      "correct": true
+    }
+  ],
+  "explanation": "Por la ley de Ohm, I = V/R = 13/4 = 3.25 A.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "ley-de-ohm",
+    "electricidad"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

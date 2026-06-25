@@ -1,0 +1,42 @@
+{
+  "id": "q-018135",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué explicación corresponde a la Comuna de París?",
+  "answers": [
+    {
+      "text": "gobierno revolucionario breve tras la guerra franco-prusiana",
+      "correct": true
+    },
+    {
+      "text": "caída de la monarquía de Julio y proclamación de la Segunda República",
+      "correct": false
+    },
+    {
+      "text": "proceso de negociación entre Israel y la OLP",
+      "correct": false
+    },
+    {
+      "text": "represión de manifestantes que aceleró la revolución rusa de 1905",
+      "correct": false
+    }
+  ],
+  "explanation": "La Comuna de París se relaciona con gobierno revolucionario breve tras la guerra franco-prusiana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "comuna-de-paris"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

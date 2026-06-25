@@ -1,0 +1,42 @@
+{
+  "id": "q-015264",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué compositor creó “El anillo del nibelungo”?",
+  "answers": [
+    {
+      "text": "Claude Debussy",
+      "correct": false
+    },
+    {
+      "text": "Richard Wagner",
+      "correct": true
+    },
+    {
+      "text": "Carl Orff",
+      "correct": false
+    },
+    {
+      "text": "Giuseppe Verdi",
+      "correct": false
+    }
+  ],
+  "explanation": "“El anillo del nibelungo” es una obra de Richard Wagner.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "compositores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

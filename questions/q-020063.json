@@ -1,0 +1,43 @@
+{
+  "id": "q-020063",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura",
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué siglo se creó o publicó “Los viajes de Gulliver”?",
+  "answers": [
+    {
+      "text": "siglo XIX",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": false
+    },
+    {
+      "text": "siglo XVII",
+      "correct": false
+    },
+    {
+      "text": "siglo XVIII",
+      "correct": true
+    }
+  ],
+  "explanation": "“Los viajes de Gulliver” se sitúa en torno a 1726, por lo que corresponde a siglo XVIII.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

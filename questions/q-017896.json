@@ -1,0 +1,42 @@
+{
+  "id": "q-017896",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Madagascar, Bosnia y Herzegovina, India, Kenia?",
+  "answers": [
+    {
+      "text": "Bosnia y Herzegovina",
+      "correct": false
+    },
+    {
+      "text": "Madagascar",
+      "correct": false
+    },
+    {
+      "text": "Kenia",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, India es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

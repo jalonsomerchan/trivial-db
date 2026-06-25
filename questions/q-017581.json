@@ -1,0 +1,42 @@
+{
+  "id": "q-017581",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el prefijo telefónico internacional de Isla de Navidad?",
+  "answers": [
+    {
+      "text": "+61",
+      "correct": true
+    },
+    {
+      "text": "+33",
+      "correct": false
+    },
+    {
+      "text": "+856",
+      "correct": false
+    },
+    {
+      "text": "+352",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Isla de Navidad es +61.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

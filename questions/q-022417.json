@@ -1,0 +1,43 @@
+{
+  "id": "q-022417",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para rendang?",
+  "answers": [
+    {
+      "text": "rendang — Japón — arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "rendang — Etiopía — teff",
+      "correct": false
+    },
+    {
+      "text": "rendang — México — tortilla de maíz",
+      "correct": false
+    },
+    {
+      "text": "rendang — Indonesia — carne",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para rendang es Indonesia y carne.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017483",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción especializada corresponde a feijoada?",
+  "answers": [
+    {
+      "text": "guiso brasileño de alubias negras y carnes",
+      "correct": true
+    },
+    {
+      "text": "tortilla japonesa salada con múltiples ingredientes",
+      "correct": false
+    },
+    {
+      "text": "queso vasco-navarro de oveja",
+      "correct": false
+    },
+    {
+      "text": "sopa de remolacha de Europa oriental",
+      "correct": false
+    }
+  ],
+  "explanation": "feijoada se describe como guiso brasileño de alubias negras y carnes.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015054",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué obra literaria incluye a Meursault?",
+  "answers": [
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "Moby-Dick",
+      "correct": false
+    },
+    {
+      "text": "Ulises",
+      "correct": false
+    },
+    {
+      "text": "El extranjero",
+      "correct": true
+    }
+  ],
+  "explanation": "Meursault es un personaje de “El extranjero”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

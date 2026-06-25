@@ -1,0 +1,42 @@
+{
+  "id": "q-017599",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué prefijo internacional se marca para llamar a San Pedro y Miquelón?",
+  "answers": [
+    {
+      "text": "+82",
+      "correct": false
+    },
+    {
+      "text": "+244",
+      "correct": false
+    },
+    {
+      "text": "+352",
+      "correct": false
+    },
+    {
+      "text": "+508",
+      "correct": true
+    }
+  ],
+  "explanation": "El indicativo telefónico internacional de San Pedro y Miquelón es +508.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

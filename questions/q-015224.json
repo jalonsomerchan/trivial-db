@@ -1,0 +1,42 @@
+{
+  "id": "q-015224",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué pintor se asocia con “Las meninas” en una pregunta de autoría?",
+  "answers": [
+    {
+      "text": "Vasili Kandinski",
+      "correct": false
+    },
+    {
+      "text": "Gustav Klimt",
+      "correct": false
+    },
+    {
+      "text": "Diego Velázquez",
+      "correct": true
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    }
+  ],
+  "explanation": "“Las meninas” es una obra de Diego Velázquez.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

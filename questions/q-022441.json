@@ -1,0 +1,43 @@
+{
+  "id": "q-022441",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien kimchi con su origen y base?",
+  "answers": [
+    {
+      "text": "kimchi — Indonesia — carne",
+      "correct": false
+    },
+    {
+      "text": "kimchi — Polonia — masa rellena",
+      "correct": false
+    },
+    {
+      "text": "kimchi — México — chiles y cacao",
+      "correct": false
+    },
+    {
+      "text": "kimchi — Corea — col china",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para kimchi es Corea y col china.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

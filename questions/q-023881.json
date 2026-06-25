@@ -1,0 +1,42 @@
+{
+  "id": "q-023881",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso poético identifica “Es hielo abrasador”?",
+  "answers": [
+    {
+      "text": "hipérbaton",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": true
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "sinécdoque",
+      "correct": false
+    }
+  ],
+  "explanation": "“Es hielo abrasador” se clasifica como oxímoron.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

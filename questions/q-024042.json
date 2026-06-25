@@ -1,0 +1,42 @@
+{
+  "id": "q-024042",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 56 al cuadrado?",
+  "answers": [
+    {
+      "text": "112",
+      "correct": false
+    },
+    {
+      "text": "3080",
+      "correct": false
+    },
+    {
+      "text": "3192",
+      "correct": false
+    },
+    {
+      "text": "3136",
+      "correct": true
+    }
+  ],
+  "explanation": "Elevar 56 al cuadrado equivale a multiplicar 56 por sí mismo: 3136.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

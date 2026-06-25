@@ -1,0 +1,42 @@
+{
+  "id": "q-020601",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué corriente circula por una resistencia de 20 Ω conectada a 5 V?",
+  "answers": [
+    {
+      "text": "0.25 A",
+      "correct": true
+    },
+    {
+      "text": "100 A",
+      "correct": false
+    },
+    {
+      "text": "25 A",
+      "correct": false
+    },
+    {
+      "text": "4 A",
+      "correct": false
+    }
+  ],
+  "explanation": "Por la ley de Ohm, I = V/R = 5/20 = 0.25 A.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "ley-de-ohm",
+    "electricidad"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

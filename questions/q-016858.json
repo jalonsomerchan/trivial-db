@@ -1,0 +1,42 @@
+{
+  "id": "q-016858",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué nombre está vinculado a “Metal Gear” en videojuegos?",
+  "answers": [
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    },
+    {
+      "text": "Hideo Kojima",
+      "correct": true
+    },
+    {
+      "text": "Sid Meier",
+      "correct": false
+    },
+    {
+      "text": "Ken Levine",
+      "correct": false
+    }
+  ],
+  "explanation": "“Metal Gear” se asocia con Hideo Kojima.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

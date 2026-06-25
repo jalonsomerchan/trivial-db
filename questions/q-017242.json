@@ -1,0 +1,42 @@
+{
+  "id": "q-017242",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué ingredientes describen mejor salsa verde mexicana?",
+  "answers": [
+    {
+      "text": "soja, mirin y azúcar",
+      "correct": false
+    },
+    {
+      "text": "caldo japonés de kombu y katsuobushi",
+      "correct": false
+    },
+    {
+      "text": "fondo claro ligado con roux",
+      "correct": false
+    },
+    {
+      "text": "tomatillo y chile verde",
+      "correct": true
+    }
+  ],
+  "explanation": "salsa verde mexicana se caracteriza por tomatillo y chile verde.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-021861",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: 2001: Una odisea del espacio (película), E.T. (película), Matrix (película) o Origen (película)?",
+  "answers": [
+    {
+      "text": "Matrix (película)",
+      "correct": false
+    },
+    {
+      "text": "Origen (película)",
+      "correct": false
+    },
+    {
+      "text": "2001: Una odisea del espacio (película)",
+      "correct": true
+    },
+    {
+      "text": "E.T. (película)",
+      "correct": false
+    }
+  ],
+  "explanation": "2001: Una odisea del espacio (película) es la opción correcta porque su fecha asociada es 1968.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

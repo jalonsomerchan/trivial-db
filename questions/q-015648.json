@@ -1,0 +1,42 @@
+{
+  "id": "q-015648",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Alrededor de qué cuerpo del sistema solar orbita Encélado?",
+  "answers": [
+    {
+      "text": "Urano",
+      "correct": false
+    },
+    {
+      "text": "Plutón",
+      "correct": false
+    },
+    {
+      "text": "Saturno",
+      "correct": true
+    },
+    {
+      "text": "Marte",
+      "correct": false
+    }
+  ],
+  "explanation": "Encélado es un satélite natural que orbita alrededor de Saturno.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "satelites",
+    "sistema-solar"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

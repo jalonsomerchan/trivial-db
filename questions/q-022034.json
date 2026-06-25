@@ -1,0 +1,42 @@
+{
+  "id": "q-022034",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente poutine?",
+  "answers": [
+    {
+      "text": "Escocia",
+      "correct": false
+    },
+    {
+      "text": "Marruecos",
+      "correct": false
+    },
+    {
+      "text": "Canadá",
+      "correct": true
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    }
+  ],
+  "explanation": "poutine se asocia tradicionalmente con Canadá.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "canada"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

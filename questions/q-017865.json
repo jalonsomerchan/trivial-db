@@ -1,0 +1,42 @@
+{
+  "id": "q-017865",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Botswana, Argelia, Surinam, Sri Lanka?",
+  "answers": [
+    {
+      "text": "Sri Lanka",
+      "correct": true
+    },
+    {
+      "text": "Botswana",
+      "correct": false
+    },
+    {
+      "text": "Argelia",
+      "correct": false
+    },
+    {
+      "text": "Surinam",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Sri Lanka es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017718",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Malawi?",
+  "answers": [
+    {
+      "text": "Tanzania",
+      "correct": true
+    },
+    {
+      "text": "Madagascar",
+      "correct": false
+    },
+    {
+      "text": "Sierra Leone",
+      "correct": false
+    },
+    {
+      "text": "Benín",
+      "correct": false
+    }
+  ],
+  "explanation": "Tanzania comparte frontera terrestre con Malawi.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

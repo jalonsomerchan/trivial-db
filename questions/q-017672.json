@@ -1,0 +1,42 @@
+{
+  "id": "q-017672",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Moldavia?",
+  "answers": [
+    {
+      "text": "Países Bajos",
+      "correct": false
+    },
+    {
+      "text": "Suiza",
+      "correct": false
+    },
+    {
+      "text": "Rumania",
+      "correct": true
+    },
+    {
+      "text": "Portugal",
+      "correct": false
+    }
+  ],
+  "explanation": "Rumania comparte frontera terrestre con Moldavia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

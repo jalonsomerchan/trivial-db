@@ -1,0 +1,42 @@
+{
+  "id": "q-023151",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1215?",
+  "answers": [
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": true
+    },
+    {
+      "text": "coronación de Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "ampliación de la Unión Europea hacia el este",
+      "correct": false
+    },
+    {
+      "text": "batalla de Maratón",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1215 se asocia con firma de la Carta Magna inglesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

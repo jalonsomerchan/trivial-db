@@ -1,0 +1,42 @@
+{
+  "id": "q-021505",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió “Cantando bajo la lluvia”?",
+  "answers": [
+    {
+      "text": "James Cameron",
+      "correct": false
+    },
+    {
+      "text": "Stanley Donen y Gene Kelly",
+      "correct": true
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    },
+    {
+      "text": "Peter Jackson",
+      "correct": false
+    }
+  ],
+  "explanation": "“Cantando bajo la lluvia” fue dirigida por Stanley Donen y Gene Kelly.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

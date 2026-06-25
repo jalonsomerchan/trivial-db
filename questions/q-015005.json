@@ -1,0 +1,42 @@
+{
+  "id": "q-015005",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué obra aparece el personaje Gregor Samsa?",
+  "answers": [
+    {
+      "text": "Las uvas de la ira",
+      "correct": false
+    },
+    {
+      "text": "El extranjero",
+      "correct": false
+    },
+    {
+      "text": "El retrato de Dorian Gray",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": true
+    }
+  ],
+  "explanation": "Gregor Samsa es un personaje de “La metamorfosis”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

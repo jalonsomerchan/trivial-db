@@ -1,0 +1,42 @@
+{
+  "id": "q-022548",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Nueva Zelanda?",
+  "answers": [
+    {
+      "text": "Apia",
+      "correct": false
+    },
+    {
+      "text": "Canberra",
+      "correct": false
+    },
+    {
+      "text": "Wellington",
+      "correct": true
+    },
+    {
+      "text": "Puerto Moresby",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Nueva Zelanda es Wellington.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "oceania"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-022324",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación gastronómica identifica mejor a clam chowder?",
+  "answers": [
+    {
+      "text": "clam chowder — Corea — col china",
+      "correct": false
+    },
+    {
+      "text": "clam chowder — Canadá — patatas fritas",
+      "correct": false
+    },
+    {
+      "text": "clam chowder — Perú — pescado",
+      "correct": false
+    },
+    {
+      "text": "clam chowder — Estados Unidos — almejas",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para clam chowder es Estados Unidos y almejas.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

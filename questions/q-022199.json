@@ -1,0 +1,42 @@
+{
+  "id": "q-022199",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué preparación describe mejor clam chowder?",
+  "answers": [
+    {
+      "text": "cocción lenta con especias",
+      "correct": false
+    },
+    {
+      "text": "cocción y salteado",
+      "correct": false
+    },
+    {
+      "text": "sopa cremosa",
+      "correct": true
+    },
+    {
+      "text": "fermentación",
+      "correct": false
+    }
+  ],
+  "explanation": "clam chowder se caracteriza por sopa cremosa.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

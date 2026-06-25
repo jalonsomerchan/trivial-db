@@ -1,0 +1,42 @@
+{
+  "id": "q-018501",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Unificación italiana” y “Unificación alemana”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Unificación alemana antes que Unificación italiana",
+      "correct": false
+    },
+    {
+      "text": "Unificación italiana antes que Unificación alemana",
+      "correct": true
+    },
+    {
+      "text": "Unificación italiana después que Unificación alemana",
+      "correct": false
+    }
+  ],
+  "explanation": "Unificación italiana ocurrió antes que Unificación alemana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

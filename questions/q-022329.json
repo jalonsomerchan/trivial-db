@@ -1,0 +1,43 @@
+{
+  "id": "q-022329",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de origen e ingrediente corresponde a tortilla de patatas?",
+  "answers": [
+    {
+      "text": "tortilla de patatas — Marruecos — carne o verduras",
+      "correct": false
+    },
+    {
+      "text": "tortilla de patatas — España — patata y huevo",
+      "correct": true
+    },
+    {
+      "text": "tortilla de patatas — México — tortilla de maíz",
+      "correct": false
+    },
+    {
+      "text": "tortilla de patatas — Tailandia — caldo especiado",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para tortilla de patatas es España y patata y huevo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

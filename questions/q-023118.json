@@ -1,0 +1,42 @@
+{
+  "id": "q-023118",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1861?",
+  "answers": [
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": false
+    },
+    {
+      "text": "tratados de Roma de la CEE",
+      "correct": false
+    },
+    {
+      "text": "Conferencia de Berlín sobre África",
+      "correct": false
+    },
+    {
+      "text": "unificación italiana",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1861 se asocia con unificación italiana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

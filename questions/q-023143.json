@@ -1,0 +1,42 @@
+{
+  "id": "q-023143",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 2004?",
+  "answers": [
+    {
+      "text": "coronación de Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "ampliación de la Unión Europea hacia el este",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 2004 se asocia con ampliación de la Unión Europea hacia el este.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

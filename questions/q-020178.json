@@ -1,0 +1,42 @@
+{
+  "id": "q-020178",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué planteamiento visual caracteriza al expresionismo?",
+  "answers": [
+    {
+      "text": "actitud antiarte y provocación",
+      "correct": false
+    },
+    {
+      "text": "distorsión expresiva de la realidad",
+      "correct": true
+    },
+    {
+      "text": "uso intenso y libre del color",
+      "correct": false
+    },
+    {
+      "text": "exaltación de la emoción y lo sublime",
+      "correct": false
+    }
+  ],
+  "explanation": "El expresionismo se asocia con distorsión expresiva de la realidad.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

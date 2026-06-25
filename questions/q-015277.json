@@ -1,0 +1,42 @@
+{
+  "id": "q-015277",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación obra-compositor es correcta para “Las cuatro estaciones”?",
+  "answers": [
+    {
+      "text": "Las cuatro estaciones — Ígor Stravinski",
+      "correct": false
+    },
+    {
+      "text": "Las cuatro estaciones — Antonín Dvořák",
+      "correct": false
+    },
+    {
+      "text": "Las cuatro estaciones — Richard Wagner",
+      "correct": false
+    },
+    {
+      "text": "Las cuatro estaciones — Antonio Vivaldi",
+      "correct": true
+    }
+  ],
+  "explanation": "“Las cuatro estaciones” es una obra de Antonio Vivaldi.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "compositores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016923",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué estudio o diseñador se relaciona con “Final Fantasy”?",
+  "answers": [
+    {
+      "text": "Bungie",
+      "correct": false
+    },
+    {
+      "text": "Hironobu Sakaguchi",
+      "correct": true
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    },
+    {
+      "text": "Hideo Kojima",
+      "correct": false
+    }
+  ],
+  "explanation": "“Final Fantasy” se asocia con Hironobu Sakaguchi.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

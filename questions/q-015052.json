@@ -1,0 +1,42 @@
+{
+  "id": "q-015052",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué obra literaria incluye a Anna Karénina?",
+  "answers": [
+    {
+      "text": "Las uvas de la ira",
+      "correct": false
+    },
+    {
+      "text": "Anna Karénina",
+      "correct": true
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "El extranjero",
+      "correct": false
+    }
+  ],
+  "explanation": "Anna Karénina es un personaje de “Anna Karénina”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023108",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1618?",
+  "answers": [
+    {
+      "text": "inicio de la Guerra de los Treinta Años",
+      "correct": true
+    },
+    {
+      "text": "coronación de Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": false
+    },
+    {
+      "text": "destrucción de Cartago en la tercera guerra púnica",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1618 se asocia con inicio de la Guerra de los Treinta Años.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

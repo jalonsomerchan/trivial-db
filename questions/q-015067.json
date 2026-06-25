@@ -1,0 +1,42 @@
+{
+  "id": "q-015067",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué libro es relevante el personaje Elizabeth Bennet?",
+  "answers": [
+    {
+      "text": "Los miserables",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": true
+    },
+    {
+      "text": "El cuento de la criada",
+      "correct": false
+    }
+  ],
+  "explanation": "Elizabeth Bennet es un personaje de “Orgullo y prejuicio”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

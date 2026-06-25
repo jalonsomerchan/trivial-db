@@ -1,0 +1,42 @@
+{
+  "id": "q-017694",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Rusia?",
+  "answers": [
+    {
+      "text": "Malta",
+      "correct": false
+    },
+    {
+      "text": "Islandia",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Letonia",
+      "correct": true
+    }
+  ],
+  "explanation": "Letonia comparte frontera terrestre con Rusia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

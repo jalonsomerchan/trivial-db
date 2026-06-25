@@ -1,0 +1,42 @@
+{
+  "id": "q-015150",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación obra-artista es correcta para “Autorretrato con collar de espinas”?",
+  "answers": [
+    {
+      "text": "Autorretrato con collar de espinas — Frida Kahlo",
+      "correct": true
+    },
+    {
+      "text": "Autorretrato con collar de espinas — Edvard Munch",
+      "correct": false
+    },
+    {
+      "text": "Autorretrato con collar de espinas — Pablo Picasso",
+      "correct": false
+    },
+    {
+      "text": "Autorretrato con collar de espinas — Salvador Dalí",
+      "correct": false
+    }
+  ],
+  "explanation": "“Autorretrato con collar de espinas” es una obra de Frida Kahlo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

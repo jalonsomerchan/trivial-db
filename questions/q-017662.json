@@ -1,0 +1,42 @@
+{
+  "id": "q-017662",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Gabón?",
+  "answers": [
+    {
+      "text": "Egipto",
+      "correct": false
+    },
+    {
+      "text": "Camerún",
+      "correct": true
+    },
+    {
+      "text": "Cabo Verde",
+      "correct": false
+    },
+    {
+      "text": "Ruanda",
+      "correct": false
+    }
+  ],
+  "explanation": "Camerún comparte frontera terrestre con Gabón.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016871",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué nombre está vinculado a “Civilization” en videojuegos?",
+  "answers": [
+    {
+      "text": "Hideo Kojima",
+      "correct": false
+    },
+    {
+      "text": "Shigeru Miyamoto",
+      "correct": false
+    },
+    {
+      "text": "Sid Meier",
+      "correct": true
+    },
+    {
+      "text": "Hidetaka Miyazaki",
+      "correct": false
+    }
+  ],
+  "explanation": "“Civilization” se asocia con Sid Meier.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

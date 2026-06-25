@@ -1,0 +1,42 @@
+{
+  "id": "q-016610",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué videojuego o saga aparece el lugar ficticio “Green Hill Zone”?",
+  "answers": [
+    {
+      "text": "Donkey Kong",
+      "correct": false
+    },
+    {
+      "text": "Mega Man",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": true
+    },
+    {
+      "text": "Super Mario",
+      "correct": false
+    }
+  ],
+  "explanation": "“Green Hill Zone” es un lugar asociado a Sonic the Hedgehog.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "ficcion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

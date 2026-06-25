@@ -1,0 +1,42 @@
+{
+  "id": "q-016257",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "atletismo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción corresponde a la prueba de atletismo “salto con pértiga”?",
+  "answers": [
+    {
+      "text": "salto vertical con ayuda de una pértiga",
+      "correct": true
+    },
+    {
+      "text": "lanzamiento rotatorio",
+      "correct": false
+    },
+    {
+      "text": "prueba de fondo en campo a través",
+      "correct": false
+    },
+    {
+      "text": "salto horizontal sin carrera",
+      "correct": false
+    }
+  ],
+  "explanation": "La prueba “salto con pértiga” se describe como salto vertical con ayuda de una pértiga.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "atletismo",
+    "salto-con-pertiga"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

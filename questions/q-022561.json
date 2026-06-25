@@ -1,0 +1,42 @@
+{
+  "id": "q-022561",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Copenhague?",
+  "answers": [
+    {
+      "text": "Dinamarca",
+      "correct": true
+    },
+    {
+      "text": "Islandia",
+      "correct": false
+    },
+    {
+      "text": "Finlandia",
+      "correct": false
+    },
+    {
+      "text": "Bélgica",
+      "correct": false
+    }
+  ],
+  "explanation": "Copenhague es la capital de Dinamarca.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "europa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

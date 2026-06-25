@@ -1,0 +1,42 @@
+{
+  "id": "q-021135",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué detalle de juego pertenece a fútbol sala?",
+  "answers": [
+    {
+      "text": "el par indica los golpes esperados",
+      "correct": false
+    },
+    {
+      "text": "siete jugadores por equipo",
+      "correct": false
+    },
+    {
+      "text": "nueve entradas en un partido estándar",
+      "correct": false
+    },
+    {
+      "text": "cinco jugadores por equipo",
+      "correct": true
+    }
+  ],
+  "explanation": "La descripción correcta para fútbol sala es: cinco jugadores por equipo.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "deporte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

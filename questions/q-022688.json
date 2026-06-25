@@ -1,0 +1,42 @@
+{
+  "id": "q-022688",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Chile?",
+  "answers": [
+    {
+      "text": "dólar canadiense",
+      "correct": false
+    },
+    {
+      "text": "peso chileno",
+      "correct": true
+    },
+    {
+      "text": "dólar estadounidense",
+      "correct": false
+    },
+    {
+      "text": "peso dominicano",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Chile es peso chileno.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

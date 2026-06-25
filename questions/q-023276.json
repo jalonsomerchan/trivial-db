@@ -1,0 +1,42 @@
+{
+  "id": "q-023276",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: fundación tradicional de Roma, destrucción de Cartago en la tercera guerra púnica, fin del apartheid con elecciones multirraciales en Sudáfrica o ampliación de la Unión Europea hacia el este?",
+  "answers": [
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": true
+    },
+    {
+      "text": "ampliación de la Unión Europea hacia el este",
+      "correct": false
+    },
+    {
+      "text": "fin del apartheid con elecciones multirraciales en Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "destrucción de Cartago en la tercera guerra púnica",
+      "correct": false
+    }
+  ],
+  "explanation": "fundación tradicional de Roma es la opción correcta porque su fecha asociada es -753.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

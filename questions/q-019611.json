@@ -1,0 +1,42 @@
+{
+  "id": "q-019611",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántas direcciones IPv4 totales contiene una red /29?",
+  "answers": [
+    {
+      "text": "6",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": false
+    },
+    {
+      "text": "16",
+      "correct": false
+    },
+    {
+      "text": "8",
+      "correct": true
+    }
+  ],
+  "explanation": "En IPv4, una red /29 deja 3 bits para direcciones; por tanto contiene 2^3 = 8 direcciones.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "ipv4",
+    "cidr"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

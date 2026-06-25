@@ -1,0 +1,42 @@
+{
+  "id": "q-017819",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con México?",
+  "answers": [
+    {
+      "text": "Guatemala",
+      "correct": false
+    },
+    {
+      "text": "Belice",
+      "correct": false
+    },
+    {
+      "text": "Venezuela",
+      "correct": true
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "Venezuela no figura entre los países que comparten frontera terrestre con México, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

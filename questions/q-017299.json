@@ -1,0 +1,42 @@
+{
+  "id": "q-017299",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cómo se describe mejor Stilton?",
+  "answers": [
+    {
+      "text": "queso azul inglés",
+      "correct": true
+    },
+    {
+      "text": "queso azul francés de leche de oveja",
+      "correct": false
+    },
+    {
+      "text": "queso francés de leche de vaca del Jura",
+      "correct": false
+    },
+    {
+      "text": "queso griego en salmuera",
+      "correct": false
+    }
+  ],
+  "explanation": "Stilton se describe como queso azul inglés.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

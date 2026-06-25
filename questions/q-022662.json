@@ -1,0 +1,42 @@
+{
+  "id": "q-022662",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Bangladés?",
+  "answers": [
+    {
+      "text": "taka",
+      "correct": true
+    },
+    {
+      "text": "baht",
+      "correct": false
+    },
+    {
+      "text": "dinar iraquí",
+      "correct": false
+    },
+    {
+      "text": "dólar de Singapur",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Bangladés es taka.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

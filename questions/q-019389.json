@@ -1,0 +1,42 @@
+{
+  "id": "q-019389",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica-modular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resto de dividir (44 × 74 + 74) entre 9?",
+  "answers": [
+    {
+      "text": "2",
+      "correct": false
+    },
+    {
+      "text": "8",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "0",
+      "correct": true
+    }
+  ],
+  "explanation": "Se calcula 44 × 74 + 74 y después se toma el resto de la división entre 9; el resto es 0.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "modulos",
+    "restos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

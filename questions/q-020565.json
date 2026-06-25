@@ -1,0 +1,42 @@
+{
+  "id": "q-020565",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el número atómico del uranio?",
+  "answers": [
+    {
+      "text": "91",
+      "correct": false
+    },
+    {
+      "text": "93",
+      "correct": false
+    },
+    {
+      "text": "92",
+      "correct": true
+    },
+    {
+      "text": "94",
+      "correct": false
+    }
+  ],
+  "explanation": "El número atómico del uranio es 92.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "tabla-periodica",
+    "numero-atomico"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

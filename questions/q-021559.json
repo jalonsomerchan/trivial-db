@@ -1,0 +1,42 @@
+{
+  "id": "q-021559",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o creador se asocia con “Tetris”?",
+  "answers": [
+    {
+      "text": "Square",
+      "correct": false
+    },
+    {
+      "text": "Mojang",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": false
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": true
+    }
+  ],
+  "explanation": "“Tetris” se asocia con Alekséi Pázhitnov.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

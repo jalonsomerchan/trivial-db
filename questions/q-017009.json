@@ -1,0 +1,42 @@
+{
+  "id": "q-017009",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué significa la técnica culinaria “macerar”?",
+  "answers": [
+    {
+      "text": "amasar hasta desarrollar gluten",
+      "correct": false
+    },
+    {
+      "text": "dejar un alimento en líquido o condimento para aromatizarlo",
+      "correct": true
+    },
+    {
+      "text": "sellar al vacío con nitrógeno",
+      "correct": false
+    },
+    {
+      "text": "gratinar con salamandra",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, “macerar” significa dejar un alimento en líquido o condimento para aromatizarlo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "cocina"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

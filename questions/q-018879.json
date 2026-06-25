@@ -1,0 +1,42 @@
+{
+  "id": "q-018879",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué denominación corresponde a “Es tan alto que toca el techo”?",
+  "answers": [
+    {
+      "text": "paradoja",
+      "correct": false
+    },
+    {
+      "text": "subordinada modal",
+      "correct": false
+    },
+    {
+      "text": "subordinada consecutiva",
+      "correct": true
+    },
+    {
+      "text": "subordinada final",
+      "correct": false
+    }
+  ],
+  "explanation": "“Es tan alto que toca el techo” se clasifica como subordinada consecutiva.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

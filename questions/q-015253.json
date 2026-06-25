@@ -1,0 +1,42 @@
+{
+  "id": "q-015253",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué rasgo caracteriza mejor al dadaísmo?",
+  "answers": [
+    {
+      "text": "rechazo provocador de la lógica artística tradicional",
+      "correct": true
+    },
+    {
+      "text": "representación fiel del paisaje rural",
+      "correct": false
+    },
+    {
+      "text": "pintura de escenas mitológicas serenas",
+      "correct": false
+    },
+    {
+      "text": "culto a la proporción clásica",
+      "correct": false
+    }
+  ],
+  "explanation": "El dadaísmo se caracteriza por rechazo provocador de la lógica artística tradicional.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "dadaismo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

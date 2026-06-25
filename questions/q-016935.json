@@ -1,0 +1,42 @@
+{
+  "id": "q-016935",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué referencia creativa corresponde a “Minecraft”?",
+  "answers": [
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": false
+    },
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Markus Persson",
+      "correct": true
+    }
+  ],
+  "explanation": "“Minecraft” se asocia con Markus Persson.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

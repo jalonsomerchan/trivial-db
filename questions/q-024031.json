@@ -1,0 +1,42 @@
+{
+  "id": "q-024031",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 45 al cuadrado?",
+  "answers": [
+    {
+      "text": "2070",
+      "correct": false
+    },
+    {
+      "text": "90",
+      "correct": false
+    },
+    {
+      "text": "1980",
+      "correct": false
+    },
+    {
+      "text": "2025",
+      "correct": true
+    }
+  ],
+  "explanation": "Elevar 45 al cuadrado equivale a multiplicar 45 por sí mismo: 2025.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

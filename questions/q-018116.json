@@ -1,0 +1,42 @@
+{
+  "id": "q-018116",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos-xix-xx"
+  ],
+  "difficulty": "medium",
+  "question": "¿Dónde tuvo lugar o se celebró principalmente la Acuerdos de Oslo?",
+  "answers": [
+    {
+      "text": "Noruega",
+      "correct": true
+    },
+    {
+      "text": "Berlín",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "La Acuerdos de Oslo se asocia principalmente con Noruega en 1993.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "acuerdos-de-oslo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

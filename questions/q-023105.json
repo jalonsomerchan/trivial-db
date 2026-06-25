@@ -1,0 +1,42 @@
+{
+  "id": "q-023105",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1522?",
+  "answers": [
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "unificación italiana",
+      "correct": false
+    },
+    {
+      "text": "primera vuelta al mundo completada por la expedición de Magallanes-Elcano",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1522 se asocia con primera vuelta al mundo completada por la expedición de Magallanes-Elcano.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

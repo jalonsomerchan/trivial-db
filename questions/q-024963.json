@@ -1,0 +1,42 @@
+{
+  "id": "q-024963",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 94 AND 188 a nivel de bits?",
+  "answers": [
+    {
+      "text": "26",
+      "correct": false
+    },
+    {
+      "text": "29",
+      "correct": false
+    },
+    {
+      "text": "28",
+      "correct": true
+    },
+    {
+      "text": "226",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 94 y 188, el resultado decimal es 28.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

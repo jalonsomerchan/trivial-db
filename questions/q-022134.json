@@ -1,0 +1,42 @@
+{
+  "id": "q-022134",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué ingrediente destaca en poutine?",
+  "answers": [
+    {
+      "text": "sémola de trigo",
+      "correct": false
+    },
+    {
+      "text": "pan",
+      "correct": false
+    },
+    {
+      "text": "verduras",
+      "correct": false
+    },
+    {
+      "text": "patatas fritas",
+      "correct": true
+    }
+  ],
+  "explanation": "poutine se relaciona especialmente con patatas fritas.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

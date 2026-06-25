@@ -1,0 +1,42 @@
+{
+  "id": "q-024937",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 87 OR 144 a nivel de bits?",
+  "answers": [
+    {
+      "text": "199",
+      "correct": false
+    },
+    {
+      "text": "215",
+      "correct": true
+    },
+    {
+      "text": "214",
+      "correct": false
+    },
+    {
+      "text": "231",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 87 y 144, el resultado decimal es 215.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

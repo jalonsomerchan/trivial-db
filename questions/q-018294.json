@@ -1,0 +1,42 @@
+{
+  "id": "q-018294",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Carta Magna inglesa” y “Primavera de los Pueblos”?",
+  "answers": [
+    {
+      "text": "Carta Magna inglesa después que Primavera de los Pueblos",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Primavera de los Pueblos antes que Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "Carta Magna inglesa antes que Primavera de los Pueblos",
+      "correct": true
+    }
+  ],
+  "explanation": "Carta Magna inglesa ocurrió antes que Primavera de los Pueblos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

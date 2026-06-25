@@ -1,0 +1,42 @@
+{
+  "id": "q-020207",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué orientación artística corresponde al surrealismo?",
+  "answers": [
+    {
+      "text": "exaltación de la emoción y lo sublime",
+      "correct": false
+    },
+    {
+      "text": "exploración de lo onírico y del inconsciente",
+      "correct": true
+    },
+    {
+      "text": "referencias a la Antigüedad clásica y sobriedad",
+      "correct": false
+    },
+    {
+      "text": "captura de la luz mediante pincelada suelta",
+      "correct": false
+    }
+  ],
+  "explanation": "El surrealismo se asocia con exploración de lo onírico y del inconsciente.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

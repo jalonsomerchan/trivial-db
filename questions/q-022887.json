@@ -1,0 +1,42 @@
+{
+  "id": "q-022887",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación país-capital-moneda corresponde a Grecia?",
+  "answers": [
+    {
+      "text": "Grecia — Praga — corona checa",
+      "correct": false
+    },
+    {
+      "text": "Grecia — Berna — franco suizo",
+      "correct": false
+    },
+    {
+      "text": "Grecia — Atenas — euro",
+      "correct": true
+    },
+    {
+      "text": "Grecia — Roma — euro",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta es Grecia — Atenas — euro.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

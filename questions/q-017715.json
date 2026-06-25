@@ -1,0 +1,42 @@
+{
+  "id": "q-017715",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con República Centroafricana?",
+  "answers": [
+    {
+      "text": "Zambia",
+      "correct": false
+    },
+    {
+      "text": "Madagascar",
+      "correct": false
+    },
+    {
+      "text": "Chad",
+      "correct": true
+    },
+    {
+      "text": "Mali",
+      "correct": false
+    }
+  ],
+  "explanation": "Chad comparte frontera terrestre con República Centroafricana.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

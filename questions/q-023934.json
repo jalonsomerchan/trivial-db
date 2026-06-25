@@ -1,0 +1,42 @@
+{
+  "id": "q-023934",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué nombre recibe el recurso de “Del salón en el ángulo oscuro”?",
+  "answers": [
+    {
+      "text": "sinécdoque",
+      "correct": false
+    },
+    {
+      "text": "paralelismo",
+      "correct": false
+    },
+    {
+      "text": "hipérbaton",
+      "correct": true
+    },
+    {
+      "text": "metonimia",
+      "correct": false
+    }
+  ],
+  "explanation": "“Del salón en el ángulo oscuro” se clasifica como hipérbaton.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

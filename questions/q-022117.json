@@ -1,0 +1,42 @@
+{
+  "id": "q-022117",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método culinario se asocia con bibimbap?",
+  "answers": [
+    {
+      "text": "horneado rápido",
+      "correct": false
+    },
+    {
+      "text": "mezcla con vegetales",
+      "correct": true
+    },
+    {
+      "text": "preparación con pescado o vegetales",
+      "correct": false
+    },
+    {
+      "text": "horneado con frutos secos",
+      "correct": false
+    }
+  ],
+  "explanation": "bibimbap se caracteriza por mezcla con vegetales.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

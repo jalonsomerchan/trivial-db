@@ -1,0 +1,42 @@
+{
+  "id": "q-020019",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién creó “Crimen y castigo”?",
+  "answers": [
+    {
+      "text": "Jonathan Swift",
+      "correct": false
+    },
+    {
+      "text": "Fiódor Dostoyevski",
+      "correct": true
+    },
+    {
+      "text": "Daniel Defoe",
+      "correct": false
+    },
+    {
+      "text": "Vasili Kandinski",
+      "correct": false
+    }
+  ],
+  "explanation": "“Crimen y castigo” fue creada por Fiódor Dostoyevski.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

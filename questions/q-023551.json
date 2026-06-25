@@ -1,0 +1,42 @@
+{
+  "id": "q-023551",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué clasificación acentual recibe “médico”?",
+  "answers": [
+    {
+      "text": "aguda",
+      "correct": false
+    },
+    {
+      "text": "esdrújula",
+      "correct": true
+    },
+    {
+      "text": "llana",
+      "correct": false
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    }
+  ],
+  "explanation": "“médico” es una palabra esdrújula según su acentuación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "esdrujula"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022108",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué ingrediente destaca en ratatouille?",
+  "answers": [
+    {
+      "text": "verduras",
+      "correct": true
+    },
+    {
+      "text": "carne",
+      "correct": false
+    },
+    {
+      "text": "fideos de arroz",
+      "correct": false
+    },
+    {
+      "text": "pescado",
+      "correct": false
+    }
+  ],
+  "explanation": "ratatouille se relaciona especialmente con verduras.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

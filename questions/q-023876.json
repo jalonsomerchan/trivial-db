@@ -1,0 +1,42 @@
+{
+  "id": "q-023876",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura del lenguaje se aprecia en “Un no sé qué que quedan balbuciendo”?",
+  "answers": [
+    {
+      "text": "asíndeton",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": true
+    },
+    {
+      "text": "comparación",
+      "correct": false
+    },
+    {
+      "text": "sinécdoque",
+      "correct": false
+    }
+  ],
+  "explanation": "“Un no sé qué que quedan balbuciendo” se clasifica como paradoja.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

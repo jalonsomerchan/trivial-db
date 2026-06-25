@@ -1,0 +1,43 @@
+{
+  "id": "q-022355",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de origen e ingrediente corresponde a falafel?",
+  "answers": [
+    {
+      "text": "falafel — Oriente Medio — garbanzo o haba",
+      "correct": true
+    },
+    {
+      "text": "falafel — Japón — rebozado ligero",
+      "correct": false
+    },
+    {
+      "text": "falafel — Canadá — patatas fritas",
+      "correct": false
+    },
+    {
+      "text": "falafel — Polonia — masa rellena",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para falafel es Oriente Medio y garbanzo o haba.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

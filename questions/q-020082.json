@@ -1,0 +1,43 @@
+{
+  "id": "q-020082",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura",
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué siglo se creó o publicó “Impresión, sol naciente”?",
+  "answers": [
+    {
+      "text": "siglo XVIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": false
+    },
+    {
+      "text": "siglo XXI",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX",
+      "correct": true
+    }
+  ],
+  "explanation": "“Impresión, sol naciente” se sitúa en torno a 1872, por lo que corresponde a siglo XIX.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-020035",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién creó “La ronda de noche”?",
+  "answers": [
+    {
+      "text": "Dante Alighieri",
+      "correct": false
+    },
+    {
+      "text": "Claude Monet",
+      "correct": false
+    },
+    {
+      "text": "Johann Wolfgang von Goethe",
+      "correct": false
+    },
+    {
+      "text": "Rembrandt",
+      "correct": true
+    }
+  ],
+  "explanation": "“La ronda de noche” fue creada por Rembrandt.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022782",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación entre país, capital y moneda es correcta para Canadá?",
+  "answers": [
+    {
+      "text": "Canadá — San José — colón costarricense",
+      "correct": false
+    },
+    {
+      "text": "Canadá — Santiago — peso chileno",
+      "correct": false
+    },
+    {
+      "text": "Canadá — Quito — dólar estadounidense",
+      "correct": false
+    },
+    {
+      "text": "Canadá — Ottawa — dólar canadiense",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta es Canadá — Ottawa — dólar canadiense.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

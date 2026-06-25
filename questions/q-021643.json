@@ -1,0 +1,42 @@
+{
+  "id": "q-021643",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o autor corresponde a “Final Fantasy VII”?",
+  "answers": [
+    {
+      "text": "Capcom",
+      "correct": false
+    },
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Square",
+      "correct": true
+    },
+    {
+      "text": "Atari",
+      "correct": false
+    }
+  ],
+  "explanation": "“Final Fantasy VII” se asocia con Square.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015676",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 120 g de dióxido de carbono si su masa molar es 44 g/mol?",
+  "answers": [
+    {
+      "text": "3.727",
+      "correct": false
+    },
+    {
+      "text": "5.455",
+      "correct": false
+    },
+    {
+      "text": "2.727",
+      "correct": true
+    },
+    {
+      "text": "1.364",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 120/44, aproximadamente 2.727 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

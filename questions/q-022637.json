@@ -1,0 +1,42 @@
+{
+  "id": "q-022637",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Bulgaria?",
+  "answers": [
+    {
+      "text": "corona sueca",
+      "correct": false
+    },
+    {
+      "text": "lev",
+      "correct": true
+    },
+    {
+      "text": "libra esterlina",
+      "correct": false
+    },
+    {
+      "text": "corona noruega",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Bulgaria es lev.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "europa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

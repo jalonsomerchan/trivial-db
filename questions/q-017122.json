@@ -1,0 +1,42 @@
+{
+  "id": "q-017122",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base corresponde a salsa verde mexicana?",
+  "answers": [
+    {
+      "text": "yogur, pepino y ajo",
+      "correct": false
+    },
+    {
+      "text": "albahaca, piñones, ajo, queso y aceite",
+      "correct": false
+    },
+    {
+      "text": "tomatillo y chile verde",
+      "correct": true
+    },
+    {
+      "text": "ñora, tomate, frutos secos y aceite",
+      "correct": false
+    }
+  ],
+  "explanation": "salsa verde mexicana se caracteriza por tomatillo y chile verde.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

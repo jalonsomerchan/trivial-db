@@ -1,0 +1,42 @@
+{
+  "id": "q-015677",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 180 g de dióxido de carbono si su masa molar es 44 g/mol?",
+  "answers": [
+    {
+      "text": "4.091",
+      "correct": true
+    },
+    {
+      "text": "8.182",
+      "correct": false
+    },
+    {
+      "text": "5.091",
+      "correct": false
+    },
+    {
+      "text": "2.045",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 180/44, aproximadamente 4.091 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

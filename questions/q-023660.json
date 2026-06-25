@@ -1,0 +1,42 @@
+{
+  "id": "q-023660",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué análisis funcional se aplica a “en el cajón” en “Guardé las llaves en el cajón”?",
+  "answers": [
+    {
+      "text": "sujeto",
+      "correct": false
+    },
+    {
+      "text": "complemento circunstancial",
+      "correct": true
+    },
+    {
+      "text": "complemento directo",
+      "correct": false
+    },
+    {
+      "text": "complemento indirecto",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Guardé las llaves en el cajón”, “en el cajón” cumple la función de complemento circunstancial.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

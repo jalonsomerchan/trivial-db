@@ -1,0 +1,42 @@
+{
+  "id": "q-015066",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué libro es relevante el personaje Jay Gatsby?",
+  "answers": [
+    {
+      "text": "El gran Gatsby",
+      "correct": true
+    },
+    {
+      "text": "Las uvas de la ira",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": false
+    },
+    {
+      "text": "Anna Karénina",
+      "correct": false
+    }
+  ],
+  "explanation": "Jay Gatsby es un personaje de “El gran Gatsby”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

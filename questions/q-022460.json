@@ -1,0 +1,43 @@
+{
+  "id": "q-022460",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien pierogi con su origen y base?",
+  "answers": [
+    {
+      "text": "pierogi — Japón — fideos",
+      "correct": false
+    },
+    {
+      "text": "pierogi — Japón — arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "pierogi — Indonesia — carne",
+      "correct": false
+    },
+    {
+      "text": "pierogi — Polonia — masa rellena",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para pierogi es Polonia y masa rellena.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

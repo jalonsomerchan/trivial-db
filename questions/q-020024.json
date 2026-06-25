@@ -1,0 +1,42 @@
+{
+  "id": "q-020024",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién creó “Ulises”?",
+  "answers": [
+    {
+      "text": "James Joyce",
+      "correct": true
+    },
+    {
+      "text": "Paul Cézanne",
+      "correct": false
+    },
+    {
+      "text": "Gustave Flaubert",
+      "correct": false
+    },
+    {
+      "text": "Édouard Manet",
+      "correct": false
+    }
+  ],
+  "explanation": "“Ulises” fue creada por James Joyce.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

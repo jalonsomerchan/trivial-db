@@ -1,0 +1,42 @@
+{
+  "id": "q-015289",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación obra-compositor es correcta para “El lago de los cisnes”?",
+  "answers": [
+    {
+      "text": "El lago de los cisnes — Wolfgang Amadeus Mozart",
+      "correct": false
+    },
+    {
+      "text": "El lago de los cisnes — Piotr Ilich Chaikovski",
+      "correct": true
+    },
+    {
+      "text": "El lago de los cisnes — Modest Músorgski",
+      "correct": false
+    },
+    {
+      "text": "El lago de los cisnes — Richard Wagner",
+      "correct": false
+    }
+  ],
+  "explanation": "“El lago de los cisnes” es una obra de Piotr Ilich Chaikovski.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "compositores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

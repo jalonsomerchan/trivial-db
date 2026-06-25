@@ -1,0 +1,42 @@
+{
+  "id": "q-015276",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se define mejor por “provocación antiarte y rechazo de la lógica tradicional”?",
+  "answers": [
+    {
+      "text": "barroco",
+      "correct": false
+    },
+    {
+      "text": "dadaísmo",
+      "correct": true
+    },
+    {
+      "text": "arte pop",
+      "correct": false
+    },
+    {
+      "text": "surrealismo",
+      "correct": false
+    }
+  ],
+  "explanation": "El movimiento asociado a “provocación antiarte y rechazo de la lógica tradicional” es el dadaísmo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-022314",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación gastronómica identifica mejor a haggis?",
+  "answers": [
+    {
+      "text": "haggis — Escocia — vísceras de cordero",
+      "correct": true
+    },
+    {
+      "text": "haggis — Mediterráneo oriental — masa filo",
+      "correct": false
+    },
+    {
+      "text": "haggis — Reino Unido — pescado",
+      "correct": false
+    },
+    {
+      "text": "haggis — Francia — alubias",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para haggis es Escocia y vísceras de cordero.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-020613",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué corriente circula por una resistencia de 4 Ω conectada a 7 V?",
+  "answers": [
+    {
+      "text": "1.75 A",
+      "correct": true
+    },
+    {
+      "text": "28 A",
+      "correct": false
+    },
+    {
+      "text": "0.57 A",
+      "correct": false
+    },
+    {
+      "text": "11 A",
+      "correct": false
+    }
+  ],
+  "explanation": "Por la ley de Ohm, I = V/R = 7/4 = 1.75 A.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "ley-de-ohm",
+    "electricidad"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

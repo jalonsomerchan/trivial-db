@@ -1,0 +1,42 @@
+{
+  "id": "q-020543",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué nombre recibe el elemento de símbolo O?",
+  "answers": [
+    {
+      "text": "argón",
+      "correct": false
+    },
+    {
+      "text": "plomo",
+      "correct": false
+    },
+    {
+      "text": "oxígeno",
+      "correct": true
+    },
+    {
+      "text": "cobre",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico O corresponde al oxígeno.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "simbolos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018659",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué etiqueta sintáctica corresponde a “a Clara” en “Dieron un premio a Clara”?",
+  "answers": [
+    {
+      "text": "complemento circunstancial de lugar",
+      "correct": false
+    },
+    {
+      "text": "complemento circunstancial",
+      "correct": false
+    },
+    {
+      "text": "complemento indirecto",
+      "correct": true
+    },
+    {
+      "text": "complemento del nombre",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Dieron un premio a Clara”, “a Clara” funciona como complemento indirecto.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

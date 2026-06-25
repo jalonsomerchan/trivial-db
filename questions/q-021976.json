@@ -1,0 +1,42 @@
+{
+  "id": "q-021976",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Origen (película), Tetris (videojuego), Pokémon Rojo y Verde (videojuego) o Minecraft (videojuego)?",
+  "answers": [
+    {
+      "text": "Pokémon Rojo y Verde (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Minecraft (videojuego)",
+      "correct": true
+    },
+    {
+      "text": "Tetris (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Origen (película)",
+      "correct": false
+    }
+  ],
+  "explanation": "Minecraft (videojuego) es la opción correcta porque su fecha asociada es 2011.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

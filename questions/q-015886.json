@@ -1,0 +1,42 @@
+{
+  "id": "q-015886",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 102 V y 4 A?",
+  "answers": [
+    {
+      "text": "25.5 W",
+      "correct": false
+    },
+    {
+      "text": "816 W",
+      "correct": false
+    },
+    {
+      "text": "408 W",
+      "correct": true
+    },
+    {
+      "text": "106 W",
+      "correct": false
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 102 × 4 = 408 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

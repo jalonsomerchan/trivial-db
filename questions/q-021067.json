@@ -1,0 +1,42 @@
+{
+  "id": "q-021067",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción técnica encaja con rugby union?",
+  "answers": [
+    {
+      "text": "puntuación tradicional de 15, 30, 40 y juego",
+      "correct": false
+    },
+    {
+      "text": "quince jugadores por equipo",
+      "correct": true
+    },
+    {
+      "text": "el torso es blanco válido principal",
+      "correct": false
+    },
+    {
+      "text": "juegos habitualmente a 21 puntos",
+      "correct": false
+    }
+  ],
+  "explanation": "La descripción correcta para rugby union es: quince jugadores por equipo.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "deporte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

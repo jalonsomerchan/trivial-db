@@ -1,0 +1,42 @@
+{
+  "id": "q-017985",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Irlanda, Camerún, Corea del Sur, República Centroafricana?",
+  "answers": [
+    {
+      "text": "Camerún",
+      "correct": false
+    },
+    {
+      "text": "Irlanda",
+      "correct": true
+    },
+    {
+      "text": "República Centroafricana",
+      "correct": false
+    },
+    {
+      "text": "Corea del Sur",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Irlanda es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024836",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 52 AND 78 a nivel de bits?",
+  "answers": [
+    {
+      "text": "4",
+      "correct": true
+    },
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "122",
+      "correct": false
+    },
+    {
+      "text": "130",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 52 y 78, el resultado decimal es 4.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

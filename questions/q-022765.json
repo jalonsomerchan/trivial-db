@@ -1,0 +1,42 @@
+{
+  "id": "q-022765",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación entre país, capital y moneda es correcta para Japón?",
+  "answers": [
+    {
+      "text": "Japón — Jerusalén — nuevo séquel",
+      "correct": false
+    },
+    {
+      "text": "Japón — Tokio — yen",
+      "correct": true
+    },
+    {
+      "text": "Japón — Manila — peso filipino",
+      "correct": false
+    },
+    {
+      "text": "Japón — Nueva Delhi — rupia india",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta es Japón — Tokio — yen.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

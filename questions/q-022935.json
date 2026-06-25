@@ -1,0 +1,42 @@
+{
+  "id": "q-022935",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación país-capital-moneda corresponde a Arabia Saudí?",
+  "answers": [
+    {
+      "text": "Arabia Saudí — Bangkok — baht",
+      "correct": false
+    },
+    {
+      "text": "Arabia Saudí — Amán — dinar jordano",
+      "correct": false
+    },
+    {
+      "text": "Arabia Saudí — Kuala Lumpur — ringgit",
+      "correct": false
+    },
+    {
+      "text": "Arabia Saudí — Riad — riyal saudí",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta es Arabia Saudí — Riad — riyal saudí.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

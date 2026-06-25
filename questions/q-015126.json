@@ -1,0 +1,42 @@
+{
+  "id": "q-015126",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué institución se conserva habitualmente “El matrimonio Arnolfini”?",
+  "answers": [
+    {
+      "text": "National Gallery de Londres",
+      "correct": true
+    },
+    {
+      "text": "Art Institute of Chicago",
+      "correct": false
+    },
+    {
+      "text": "Rijksmuseum",
+      "correct": false
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": false
+    }
+  ],
+  "explanation": "“El matrimonio Arnolfini” se conserva habitualmente en National Gallery de Londres.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "pintura"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

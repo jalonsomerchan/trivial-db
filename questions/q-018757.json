@@ -1,0 +1,42 @@
+{
+  "id": "q-018757",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura retórica predomina en “Vivo sin vivir en mí”?",
+  "answers": [
+    {
+      "text": "epíteto",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": true
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "metonimia",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Vivo sin vivir en mí” predomina la figura retórica llamada paradoja.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "figuras-retoricas",
+    "literatura"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

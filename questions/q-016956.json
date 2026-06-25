@@ -1,0 +1,42 @@
+{
+  "id": "q-016956",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autoría lúdica se asocia a “Halo”?",
+  "answers": [
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Hironobu Sakaguchi",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": true
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    }
+  ],
+  "explanation": "“Halo” se asocia con Bungie.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

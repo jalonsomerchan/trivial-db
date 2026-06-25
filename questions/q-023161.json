@@ -1,0 +1,42 @@
+{
+  "id": "q-023161",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1776?",
+  "answers": [
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": false
+    },
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1776 se asocia con Declaración de Independencia de Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

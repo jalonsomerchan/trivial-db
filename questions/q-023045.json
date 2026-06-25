@@ -1,0 +1,42 @@
+{
+  "id": "q-023045",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió edicto de Milán?",
+  "answers": [
+    {
+      "text": "313",
+      "correct": true
+    },
+    {
+      "text": "314",
+      "correct": false
+    },
+    {
+      "text": "323",
+      "correct": false
+    },
+    {
+      "text": "312",
+      "correct": false
+    }
+  ],
+  "explanation": "Edicto de milán ocurrió en 313.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

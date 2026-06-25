@@ -1,0 +1,42 @@
+{
+  "id": "q-017957",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Mónaco, Reino Unido, Islas Tokelau, Bahrein?",
+  "answers": [
+    {
+      "text": "Mónaco",
+      "correct": true
+    },
+    {
+      "text": "Bahrein",
+      "correct": false
+    },
+    {
+      "text": "Islas Tokelau",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Mónaco es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

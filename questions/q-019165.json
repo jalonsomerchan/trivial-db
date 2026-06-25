@@ -1,0 +1,42 @@
+{
+  "id": "q-019165",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuáles son las raíces de la ecuación x² +7x -30 = 0?",
+  "answers": [
+    {
+      "text": "-10 y -3",
+      "correct": false
+    },
+    {
+      "text": "10 y -3",
+      "correct": false
+    },
+    {
+      "text": "-10 y 3",
+      "correct": true
+    },
+    {
+      "text": "-9 y 2",
+      "correct": false
+    }
+  ],
+  "explanation": "La ecuación se factoriza como (x - -10)(x - 3) = 0, por lo que las raíces son -10 y 3.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

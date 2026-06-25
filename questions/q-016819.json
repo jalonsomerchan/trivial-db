@@ -1,0 +1,42 @@
+{
+  "id": "q-016819",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué creador o estudio se asocia con “Doom”?",
+  "answers": [
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "id Software",
+      "correct": true
+    },
+    {
+      "text": "Hironobu Sakaguchi",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": false
+    }
+  ],
+  "explanation": "“Doom” se asocia con id Software.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

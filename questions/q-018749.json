@@ -1,0 +1,42 @@
+{
+  "id": "q-018749",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué análisis sintáctico corresponde al fragmento “por mensajería” en “El paquete fue enviado por mensajería”?",
+  "answers": [
+    {
+      "text": "complemento directo",
+      "correct": false
+    },
+    {
+      "text": "complemento indirecto",
+      "correct": false
+    },
+    {
+      "text": "complemento circunstancial",
+      "correct": true
+    },
+    {
+      "text": "complemento predicativo",
+      "correct": false
+    }
+  ],
+  "explanation": "En “El paquete fue enviado por mensajería”, “por mensajería” funciona como complemento circunstancial.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

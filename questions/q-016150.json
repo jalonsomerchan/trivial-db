@@ -1,0 +1,42 @@
+{
+  "id": "q-016150",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "olimpismo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación sede-país corresponde a los Juegos Olímpicos de verano de 1968?",
+  "answers": [
+    {
+      "text": "Ciudad de México — Canadá",
+      "correct": false
+    },
+    {
+      "text": "Ciudad de México — México",
+      "correct": true
+    },
+    {
+      "text": "Ciudad de México — Grecia",
+      "correct": false
+    },
+    {
+      "text": "Ciudad de México — Corea del Sur",
+      "correct": false
+    }
+  ],
+  "explanation": "La sede de los Juegos Olímpicos de verano de 1968 fue Ciudad de México, en México.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "sedes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

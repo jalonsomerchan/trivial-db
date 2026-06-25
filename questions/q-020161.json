@@ -1,0 +1,42 @@
+{
+  "id": "q-020161",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué definición se ajusta al romanticismo?",
+  "answers": [
+    {
+      "text": "actitud antiarte y provocación",
+      "correct": false
+    },
+    {
+      "text": "exaltación de la emoción y lo sublime",
+      "correct": true
+    },
+    {
+      "text": "descomposición de las formas en planos geométricos",
+      "correct": false
+    },
+    {
+      "text": "reducción formal y austeridad",
+      "correct": false
+    }
+  ],
+  "explanation": "El romanticismo se asocia con exaltación de la emoción y lo sublime.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

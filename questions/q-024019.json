@@ -1,0 +1,42 @@
+{
+  "id": "q-024019",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 33 al cuadrado?",
+  "answers": [
+    {
+      "text": "1122",
+      "correct": false
+    },
+    {
+      "text": "1089",
+      "correct": true
+    },
+    {
+      "text": "66",
+      "correct": false
+    },
+    {
+      "text": "1056",
+      "correct": false
+    }
+  ],
+  "explanation": "Elevar 33 al cuadrado equivale a multiplicar 33 por sí mismo: 1089.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

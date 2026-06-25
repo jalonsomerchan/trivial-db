@@ -1,0 +1,42 @@
+{
+  "id": "q-015086",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué título se relaciona con el personaje Jay Gatsby?",
+  "answers": [
+    {
+      "text": "La metamorfosis",
+      "correct": false
+    },
+    {
+      "text": "El gran Gatsby",
+      "correct": true
+    },
+    {
+      "text": "Moby-Dick",
+      "correct": false
+    },
+    {
+      "text": "Ulises",
+      "correct": false
+    }
+  ],
+  "explanation": "Jay Gatsby es un personaje de “El gran Gatsby”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

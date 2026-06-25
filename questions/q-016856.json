@@ -1,0 +1,42 @@
+{
+  "id": "q-016856",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Con quién se relaciona el desarrollo de “Civilization”?",
+  "answers": [
+    {
+      "text": "Markus Persson",
+      "correct": false
+    },
+    {
+      "text": "Ken Levine",
+      "correct": false
+    },
+    {
+      "text": "Sid Meier",
+      "correct": true
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    }
+  ],
+  "explanation": "“Civilization” se asocia con Sid Meier.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

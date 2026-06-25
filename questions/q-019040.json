@@ -1,0 +1,42 @@
+{
+  "id": "q-019040",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 20% de 130?",
+  "answers": [
+    {
+      "text": "32",
+      "correct": false
+    },
+    {
+      "text": "19",
+      "correct": false
+    },
+    {
+      "text": "39",
+      "correct": false
+    },
+    {
+      "text": "26",
+      "correct": true
+    }
+  ],
+  "explanation": "El 20% de 130 se calcula multiplicando 130 por 20/100, lo que da 26.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023291",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: batalla de Hastings, inicio de la Reforma protestante, inicio de la Guerra de los Treinta Años o inicio de la Revolución francesa?",
+  "answers": [
+    {
+      "text": "inicio de la Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de los Treinta Años",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Reforma protestante",
+      "correct": false
+    },
+    {
+      "text": "batalla de Hastings",
+      "correct": true
+    }
+  ],
+  "explanation": "batalla de Hastings es la opción correcta porque su fecha asociada es 1066.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

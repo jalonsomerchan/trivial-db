@@ -1,0 +1,42 @@
+{
+  "id": "q-019245",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "sucesiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el término 6 de una progresión geométrica con primer término 8 y razón 3?",
+  "answers": [
+    {
+      "text": "144",
+      "correct": false
+    },
+    {
+      "text": "1944",
+      "correct": true
+    },
+    {
+      "text": "5832",
+      "correct": false
+    },
+    {
+      "text": "648",
+      "correct": false
+    }
+  ],
+  "explanation": "En una progresión geométrica, aₙ = a₁·r^(n-1); el término 6 vale 1944.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "progresiones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024597",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sistemas-numericos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la notación hexadecimal del número decimal 109?",
+  "answers": [
+    {
+      "text": "0x6D",
+      "correct": true
+    },
+    {
+      "text": "0x6E",
+      "correct": false
+    },
+    {
+      "text": "0x6C",
+      "correct": false
+    },
+    {
+      "text": "0xDA",
+      "correct": false
+    }
+  ],
+  "explanation": "Al convertir 109 a base 16 se obtiene 0x6D.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "hexadecimal",
+    "conversion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

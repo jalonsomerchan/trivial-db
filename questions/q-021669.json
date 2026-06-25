@@ -1,0 +1,42 @@
+{
+  "id": "q-021669",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Quién se asocia con el videojuego “Super Mario Bros.”?",
+  "answers": [
+    {
+      "text": "Nintendo",
+      "correct": true
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    },
+    {
+      "text": "Blizzard Entertainment",
+      "correct": false
+    },
+    {
+      "text": "Mojang",
+      "correct": false
+    }
+  ],
+  "explanation": "“Super Mario Bros.” se asocia con Nintendo.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023121",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1898?",
+  "answers": [
+    {
+      "text": "independencia de India",
+      "correct": false
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": true
+    },
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1898 se asocia con guerra hispano-estadounidense.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

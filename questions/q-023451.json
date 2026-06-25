@@ -1,0 +1,42 @@
+{
+  "id": "q-023451",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Conferencia de Berlín sobre África, crac de Wall Street, independencia de India o construcción del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "independencia de India",
+      "correct": false
+    },
+    {
+      "text": "crac de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": true
+    },
+    {
+      "text": "Conferencia de Berlín sobre África",
+      "correct": false
+    }
+  ],
+  "explanation": "construcción del Muro de Berlín es la opción correcta porque su fecha asociada es 1961.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-022288",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación gastronómica identifica mejor a sushi?",
+  "answers": [
+    {
+      "text": "sushi — Europa oriental — remolacha",
+      "correct": false
+    },
+    {
+      "text": "sushi — Alsacia — col fermentada",
+      "correct": false
+    },
+    {
+      "text": "sushi — Indonesia — carne",
+      "correct": false
+    },
+    {
+      "text": "sushi — Japón — arroz avinagrado",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para sushi es Japón y arroz avinagrado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

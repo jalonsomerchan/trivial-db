@@ -1,0 +1,42 @@
+{
+  "id": "q-023032",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió Primera Guerra del Opio?",
+  "answers": [
+    {
+      "text": "1839",
+      "correct": true
+    },
+    {
+      "text": "1838",
+      "correct": false
+    },
+    {
+      "text": "1840",
+      "correct": false
+    },
+    {
+      "text": "1849",
+      "correct": false
+    }
+  ],
+  "explanation": "Primera guerra del opio ocurrió en 1839.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

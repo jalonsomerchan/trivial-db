@@ -1,0 +1,42 @@
+{
+  "id": "q-022650",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Ghana?",
+  "answers": [
+    {
+      "text": "libra egipcia",
+      "correct": false
+    },
+    {
+      "text": "cedi",
+      "correct": true
+    },
+    {
+      "text": "dinar tunecino",
+      "correct": false
+    },
+    {
+      "text": "metical",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Ghana es cedi.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "africa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

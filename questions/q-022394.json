@@ -1,0 +1,43 @@
+{
+  "id": "q-022394",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para tom yum?",
+  "answers": [
+    {
+      "text": "tom yum — Perú — pescado",
+      "correct": false
+    },
+    {
+      "text": "tom yum — Tailandia — caldo especiado",
+      "correct": true
+    },
+    {
+      "text": "tom yum — Italia — huevo y queso pecorino",
+      "correct": false
+    },
+    {
+      "text": "tom yum — Argentina — carne",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para tom yum es Tailandia y caldo especiado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

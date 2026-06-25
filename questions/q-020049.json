@@ -1,0 +1,42 @@
+{
+  "id": "q-020049",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor se asocia con “La Eneida”?",
+  "answers": [
+    {
+      "text": "Edward Hopper",
+      "correct": false
+    },
+    {
+      "text": "John Milton",
+      "correct": false
+    },
+    {
+      "text": "Virgilio",
+      "correct": true
+    },
+    {
+      "text": "Alexandre Dumas hijo",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Eneida” fue creada por Virgilio.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

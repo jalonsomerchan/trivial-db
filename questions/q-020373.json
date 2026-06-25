@@ -1,0 +1,43 @@
+{
+  "id": "q-020373",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "cronologia-cultural"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: El burlador de Sevilla (literatura), Rojo y negro (literatura), Drácula (literatura) o La casa de los espíritus (literatura)?",
+  "answers": [
+    {
+      "text": "La casa de los espíritus (literatura)",
+      "correct": false
+    },
+    {
+      "text": "El burlador de Sevilla (literatura)",
+      "correct": true
+    },
+    {
+      "text": "Drácula (literatura)",
+      "correct": false
+    },
+    {
+      "text": "Rojo y negro (literatura)",
+      "correct": false
+    }
+  ],
+  "explanation": "El burlador de Sevilla (literatura) es la opción correcta porque su fecha asociada es 1630.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

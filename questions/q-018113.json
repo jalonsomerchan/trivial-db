@@ -1,0 +1,42 @@
+{
+  "id": "q-018113",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos-xix-xx"
+  ],
+  "difficulty": "medium",
+  "question": "¿Dónde tuvo lugar o se celebró principalmente la Revolución de los Claveles?",
+  "answers": [
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "San Petersburgo",
+      "correct": false
+    },
+    {
+      "text": "Saint-Domingue",
+      "correct": false
+    },
+    {
+      "text": "Portugal",
+      "correct": true
+    }
+  ],
+  "explanation": "La Revolución de los Claveles se asocia principalmente con Portugal en 1974.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "revolucion-de-los-claveles"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

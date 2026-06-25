@@ -1,0 +1,42 @@
+{
+  "id": "q-017423",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué explicación culinaria corresponde a feijoada?",
+  "answers": [
+    {
+      "text": "guiso brasileño de alubias negras y carnes",
+      "correct": true
+    },
+    {
+      "text": "queso azul inglés",
+      "correct": false
+    },
+    {
+      "text": "pan plano etíope de teff",
+      "correct": false
+    },
+    {
+      "text": "queso español de leche de oveja manchega",
+      "correct": false
+    }
+  ],
+  "explanation": "feijoada se describe como guiso brasileño de alubias negras y carnes.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-022396",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para bánh mì?",
+  "answers": [
+    {
+      "text": "bánh mì — Italia — masa de trigo",
+      "correct": false
+    },
+    {
+      "text": "bánh mì — Vietnam — pan",
+      "correct": true
+    },
+    {
+      "text": "bánh mì — Alsacia — col fermentada",
+      "correct": false
+    },
+    {
+      "text": "bánh mì — Cuba — carne deshebrada",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para bánh mì es Vietnam y pan.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

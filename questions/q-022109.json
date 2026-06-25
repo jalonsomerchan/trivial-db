@@ -1,0 +1,42 @@
+{
+  "id": "q-022109",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método culinario se asocia con bouillabaisse?",
+  "answers": [
+    {
+      "text": "sopa marinera",
+      "correct": true
+    },
+    {
+      "text": "salsa gravy y queso",
+      "correct": false
+    },
+    {
+      "text": "sopa",
+      "correct": false
+    },
+    {
+      "text": "salsa compleja",
+      "correct": false
+    }
+  ],
+  "explanation": "bouillabaisse se caracteriza por sopa marinera.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

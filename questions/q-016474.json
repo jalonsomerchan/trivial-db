@@ -1,0 +1,42 @@
+{
+  "id": "q-016474",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "olimpismo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué sede olímpica de verano fue anterior: Berlín 1936 o Montreal 1976?",
+  "answers": [
+    {
+      "text": "fueron en el mismo año",
+      "correct": false
+    },
+    {
+      "text": "Montreal 1976",
+      "correct": false
+    },
+    {
+      "text": "no pertenecen a Juegos Olímpicos de verano",
+      "correct": false
+    },
+    {
+      "text": "Berlín 1936",
+      "correct": true
+    }
+  ],
+  "explanation": "Berlín 1936 se celebró antes que Montreal 1976.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

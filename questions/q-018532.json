@@ -1,0 +1,42 @@
+{
+  "id": "q-018532",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "conectores"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué función textual suele cumplir “aunque”?",
+  "answers": [
+    {
+      "text": "consecuencia",
+      "correct": false
+    },
+    {
+      "text": "concesión",
+      "correct": true
+    },
+    {
+      "text": "condición",
+      "correct": false
+    },
+    {
+      "text": "causa",
+      "correct": false
+    }
+  ],
+  "explanation": "El conector “aunque” suele expresar concesión.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "conectores",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

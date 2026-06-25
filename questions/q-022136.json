@@ -1,0 +1,42 @@
+{
+  "id": "q-022136",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué ingrediente destaca en borsch?",
+  "answers": [
+    {
+      "text": "remolacha",
+      "correct": true
+    },
+    {
+      "text": "tomate",
+      "correct": false
+    },
+    {
+      "text": "alubias",
+      "correct": false
+    },
+    {
+      "text": "frijoles negros",
+      "correct": false
+    }
+  ],
+  "explanation": "borsch se relaciona especialmente con remolacha.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

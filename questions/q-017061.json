@@ -1,0 +1,42 @@
+{
+  "id": "q-017061",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué se hace al “pochar” un alimento?",
+  "answers": [
+    {
+      "text": "cocinar suavemente hasta ablandar sin dorar en exceso",
+      "correct": true
+    },
+    {
+      "text": "solidificar con gelatina",
+      "correct": false
+    },
+    {
+      "text": "carbonatar una bebida",
+      "correct": false
+    },
+    {
+      "text": "ahumar en frío",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, “pochar” significa cocinar suavemente hasta ablandar sin dorar en exceso.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "cocina"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

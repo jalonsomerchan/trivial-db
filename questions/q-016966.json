@@ -1,0 +1,42 @@
+{
+  "id": "q-016966",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción completa correctamente “Super Mario Bros.” y su creador?",
+  "answers": [
+    {
+      "text": "Sid Meier",
+      "correct": false
+    },
+    {
+      "text": "Hidetaka Miyazaki",
+      "correct": false
+    },
+    {
+      "text": "Shigeru Miyamoto",
+      "correct": true
+    },
+    {
+      "text": "Ken Levine",
+      "correct": false
+    }
+  ],
+  "explanation": "“Super Mario Bros.” se asocia con Shigeru Miyamoto.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

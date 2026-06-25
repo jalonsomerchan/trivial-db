@@ -1,0 +1,42 @@
+{
+  "id": "q-023340",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: destrucción de Cartago en la tercera guerra púnica, coronación de Carlomagno, inicio de la Reforma protestante o Paz de Westfalia?",
+  "answers": [
+    {
+      "text": "destrucción de Cartago en la tercera guerra púnica",
+      "correct": true
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Reforma protestante",
+      "correct": false
+    },
+    {
+      "text": "coronación de Carlomagno",
+      "correct": false
+    }
+  ],
+  "explanation": "destrucción de Cartago en la tercera guerra púnica es la opción correcta porque su fecha asociada es -146.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

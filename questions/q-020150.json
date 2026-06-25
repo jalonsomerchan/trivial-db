@@ -1,0 +1,42 @@
+{
+  "id": "q-020150",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué clave artística pertenece al realismo?",
+  "answers": [
+    {
+      "text": "dramaticidad, movimiento y fuertes contrastes",
+      "correct": false
+    },
+    {
+      "text": "exaltación de la emoción y lo sublime",
+      "correct": false
+    },
+    {
+      "text": "representación de la vida cotidiana sin idealización",
+      "correct": true
+    },
+    {
+      "text": "descomposición de las formas en planos geométricos",
+      "correct": false
+    }
+  ],
+  "explanation": "El realismo se asocia con representación de la vida cotidiana sin idealización.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

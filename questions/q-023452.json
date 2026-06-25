@@ -1,0 +1,42 @@
+{
+  "id": "q-023452",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: guerra hispano-estadounidense, inicio de la Segunda Guerra Mundial, creación del Estado de Israel o crisis de los misiles de Cuba?",
+  "answers": [
+    {
+      "text": "creación del Estado de Israel",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": false
+    },
+    {
+      "text": "crisis de los misiles de Cuba",
+      "correct": true
+    }
+  ],
+  "explanation": "crisis de los misiles de Cuba es la opción correcta porque su fecha asociada es 1962.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

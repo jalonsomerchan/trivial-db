@@ -1,0 +1,42 @@
+{
+  "id": "q-015138",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación obra-artista es correcta para “American Gothic”?",
+  "answers": [
+    {
+      "text": "American Gothic — Vincent van Gogh",
+      "correct": false
+    },
+    {
+      "text": "American Gothic — Rafael Sanzio",
+      "correct": false
+    },
+    {
+      "text": "American Gothic — Grant Wood",
+      "correct": true
+    },
+    {
+      "text": "American Gothic — Diego Velázquez",
+      "correct": false
+    }
+  ],
+  "explanation": "“American Gothic” es una obra de Grant Wood.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

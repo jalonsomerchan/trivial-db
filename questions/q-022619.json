@@ -1,0 +1,42 @@
+{
+  "id": "q-022619",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Apia?",
+  "answers": [
+    {
+      "text": "Australia",
+      "correct": false
+    },
+    {
+      "text": "Nueva Zelanda",
+      "correct": false
+    },
+    {
+      "text": "Samoa",
+      "correct": true
+    },
+    {
+      "text": "Fiyi",
+      "correct": false
+    }
+  ],
+  "explanation": "Apia es la capital de Samoa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "oceania"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

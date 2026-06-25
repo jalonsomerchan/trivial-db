@@ -1,0 +1,42 @@
+{
+  "id": "q-016725",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué franquicia contiene “Green Hill Zone”?",
+  "answers": [
+    {
+      "text": "Half-Life 2",
+      "correct": false
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": true
+    },
+    {
+      "text": "Bloodborne",
+      "correct": false
+    }
+  ],
+  "explanation": "“Green Hill Zone” aparece en Sonic the Hedgehog.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

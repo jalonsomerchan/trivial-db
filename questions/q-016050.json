@@ -1,0 +1,42 @@
+{
+  "id": "q-016050",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué deporte usa habitualmente la expresión “maillot amarillo”?",
+  "answers": [
+    {
+      "text": "ciclismo",
+      "correct": true
+    },
+    {
+      "text": "béisbol",
+      "correct": false
+    },
+    {
+      "text": "judo",
+      "correct": false
+    },
+    {
+      "text": "voleibol",
+      "correct": false
+    }
+  ],
+  "explanation": "“maillot amarillo” es un término asociado al ciclismo.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "terminologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

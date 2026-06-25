@@ -1,0 +1,42 @@
+{
+  "id": "q-022567",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Londres?",
+  "answers": [
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": true
+    },
+    {
+      "text": "Islandia",
+      "correct": false
+    },
+    {
+      "text": "Finlandia",
+      "correct": false
+    }
+  ],
+  "explanation": "Londres es la capital de Reino Unido.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "europa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

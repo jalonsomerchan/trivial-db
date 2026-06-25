@@ -1,0 +1,42 @@
+{
+  "id": "q-023332",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: destrucción de Cartago en la tercera guerra púnica, caída del Imperio romano de Occidente, atentados del 11 de septiembre o acuerdo de París sobre el clima?",
+  "answers": [
+    {
+      "text": "atentados del 11 de septiembre",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "destrucción de Cartago en la tercera guerra púnica",
+      "correct": true
+    },
+    {
+      "text": "acuerdo de París sobre el clima",
+      "correct": false
+    }
+  ],
+  "explanation": "destrucción de Cartago en la tercera guerra púnica es la opción correcta porque su fecha asociada es -146.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

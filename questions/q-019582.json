@@ -1,0 +1,42 @@
+{
+  "id": "q-019582",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué se centra principalmente HTML?",
+  "answers": [
+    {
+      "text": "estructurar el contenido de una página web",
+      "correct": true
+    },
+    {
+      "text": "cifrar discos duros",
+      "correct": false
+    },
+    {
+      "text": "entrenar redes neuronales",
+      "correct": false
+    },
+    {
+      "text": "administrar permisos Unix",
+      "correct": false
+    }
+  ],
+  "explanation": "HTML se usa principalmente para estructurar el contenido de una página web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "web",
+    "informatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024721",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sistemas-numericos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la notación hexadecimal del número decimal 233?",
+  "answers": [
+    {
+      "text": "0xE8",
+      "correct": false
+    },
+    {
+      "text": "0x1D2",
+      "correct": false
+    },
+    {
+      "text": "0xEA",
+      "correct": false
+    },
+    {
+      "text": "0xE9",
+      "correct": true
+    }
+  ],
+  "explanation": "Al convertir 233 a base 16 se obtiene 0xE9.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "hexadecimal",
+    "conversion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

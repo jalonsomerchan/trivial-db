@@ -1,0 +1,43 @@
+{
+  "id": "q-022383",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para ratatouille?",
+  "answers": [
+    {
+      "text": "ratatouille — Oriente Medio — carne",
+      "correct": false
+    },
+    {
+      "text": "ratatouille — Italia — arroz arborio",
+      "correct": false
+    },
+    {
+      "text": "ratatouille — Francia — verduras",
+      "correct": true
+    },
+    {
+      "text": "ratatouille — Indonesia — carne",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para ratatouille es Francia y verduras.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

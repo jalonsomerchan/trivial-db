@@ -1,0 +1,42 @@
+{
+  "id": "q-022616",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Wellington?",
+  "answers": [
+    {
+      "text": "Samoa",
+      "correct": false
+    },
+    {
+      "text": "Nueva Zelanda",
+      "correct": true
+    },
+    {
+      "text": "Papúa Nueva Guinea",
+      "correct": false
+    },
+    {
+      "text": "Australia",
+      "correct": false
+    }
+  ],
+  "explanation": "Wellington es la capital de Nueva Zelanda.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "oceania"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

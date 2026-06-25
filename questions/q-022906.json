@@ -1,0 +1,42 @@
+{
+  "id": "q-022906",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación país-capital-moneda corresponde a Argelia?",
+  "answers": [
+    {
+      "text": "Argelia — El Cairo — libra egipcia",
+      "correct": false
+    },
+    {
+      "text": "Argelia — Túnez — dinar tunecino",
+      "correct": false
+    },
+    {
+      "text": "Argelia — Nairobi — chelín keniano",
+      "correct": false
+    },
+    {
+      "text": "Argelia — Argel — dinar argelino",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta es Argelia — Argel — dinar argelino.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

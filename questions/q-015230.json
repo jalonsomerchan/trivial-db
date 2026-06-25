@@ -1,0 +1,42 @@
+{
+  "id": "q-015230",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué pintor se asocia con “La libertad guiando al pueblo” en una pregunta de autoría?",
+  "answers": [
+    {
+      "text": "Eugène Delacroix",
+      "correct": true
+    },
+    {
+      "text": "Vincent van Gogh",
+      "correct": false
+    },
+    {
+      "text": "Rembrandt",
+      "correct": false
+    },
+    {
+      "text": "Vasili Kandinski",
+      "correct": false
+    }
+  ],
+  "explanation": "“La libertad guiando al pueblo” es una obra de Eugène Delacroix.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

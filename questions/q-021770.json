@@ -1,0 +1,42 @@
+{
+  "id": "q-021770",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: El mago de Oz (película), Psicosis (película), Star Wars (película) o Regreso al futuro (película)?",
+  "answers": [
+    {
+      "text": "Psicosis (película)",
+      "correct": false
+    },
+    {
+      "text": "Regreso al futuro (película)",
+      "correct": false
+    },
+    {
+      "text": "Star Wars (película)",
+      "correct": false
+    },
+    {
+      "text": "El mago de Oz (película)",
+      "correct": true
+    }
+  ],
+  "explanation": "El mago de Oz (película) es la opción correcta porque su fecha asociada es 1939.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

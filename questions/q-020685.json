@@ -1,0 +1,42 @@
+{
+  "id": "q-020685",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué corriente circula por una resistencia de 12 Ω conectada a 14 V?",
+  "answers": [
+    {
+      "text": "26 A",
+      "correct": false
+    },
+    {
+      "text": "0.86 A",
+      "correct": false
+    },
+    {
+      "text": "168 A",
+      "correct": false
+    },
+    {
+      "text": "1.17 A",
+      "correct": true
+    }
+  ],
+  "explanation": "Por la ley de Ohm, I = V/R = 14/12 = 1.17 A.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "ley-de-ohm",
+    "electricidad"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

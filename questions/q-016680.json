@@ -1,0 +1,42 @@
+{
+  "id": "q-016680",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué saga aparece el enclave “Green Hill Zone”?",
+  "answers": [
+    {
+      "text": "BioShock",
+      "correct": false
+    },
+    {
+      "text": "BioShock Infinite",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": true
+    },
+    {
+      "text": "The Elder Scrolls V: Skyrim",
+      "correct": false
+    }
+  ],
+  "explanation": "“Green Hill Zone” aparece en Sonic the Hedgehog.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-019607",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántas direcciones IPv4 totales contiene una red /25?",
+  "answers": [
+    {
+      "text": "126",
+      "correct": false
+    },
+    {
+      "text": "64",
+      "correct": false
+    },
+    {
+      "text": "256",
+      "correct": false
+    },
+    {
+      "text": "128",
+      "correct": true
+    }
+  ],
+  "explanation": "En IPv4, una red /25 deja 7 bits para direcciones; por tanto contiene 2^7 = 128 direcciones.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "ipv4",
+    "cidr"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

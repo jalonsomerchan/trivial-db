@@ -1,0 +1,42 @@
+{
+  "id": "q-024509",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "apis"
+  ],
+  "difficulty": "easy",
+  "question": "¿Para qué se utiliza principalmente API REST?",
+  "answers": [
+    {
+      "text": "codificar imágenes RAW",
+      "correct": false
+    },
+    {
+      "text": "sustituir el firmware UEFI",
+      "correct": false
+    },
+    {
+      "text": "exponer recursos mediante operaciones HTTP",
+      "correct": true
+    },
+    {
+      "text": "aumentar físicamente la RAM",
+      "correct": false
+    }
+  ],
+  "explanation": "API REST se usa principalmente para exponer recursos mediante operaciones HTTP.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "apis",
+    "tecnologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

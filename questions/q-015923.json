@@ -1,0 +1,42 @@
+{
+  "id": "q-015923",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 132 V y 1.5 A?",
+  "answers": [
+    {
+      "text": "198 W",
+      "correct": true
+    },
+    {
+      "text": "88 W",
+      "correct": false
+    },
+    {
+      "text": "396 W",
+      "correct": false
+    },
+    {
+      "text": "133.5 W",
+      "correct": false
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 132 × 1.5 = 198 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

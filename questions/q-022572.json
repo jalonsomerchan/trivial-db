@@ -1,0 +1,42 @@
+{
+  "id": "q-022572",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital El Cairo?",
+  "answers": [
+    {
+      "text": "Túnez",
+      "correct": false
+    },
+    {
+      "text": "Egipto",
+      "correct": true
+    },
+    {
+      "text": "Marruecos",
+      "correct": false
+    },
+    {
+      "text": "Kenia",
+      "correct": false
+    }
+  ],
+  "explanation": "El Cairo es la capital de Egipto.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "africa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

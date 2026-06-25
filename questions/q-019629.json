@@ -1,0 +1,42 @@
+{
+  "id": "q-019629",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "desarrollo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hace principalmente el comando git branch?",
+  "answers": [
+    {
+      "text": "reaplicar commits sobre otra base",
+      "correct": false
+    },
+    {
+      "text": "marcar un commit con una etiqueta",
+      "correct": false
+    },
+    {
+      "text": "registrar cambios en el historial local",
+      "correct": false
+    },
+    {
+      "text": "listar o crear ramas",
+      "correct": true
+    }
+  ],
+  "explanation": "git branch se usa principalmente para listar o crear ramas.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "git",
+    "versionado"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

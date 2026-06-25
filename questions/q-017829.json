@@ -1,0 +1,42 @@
+{
+  "id": "q-017829",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con Togo?",
+  "answers": [
+    {
+      "text": "Lesotho",
+      "correct": true
+    },
+    {
+      "text": "Burkina Faso",
+      "correct": false
+    },
+    {
+      "text": "Benín",
+      "correct": false
+    },
+    {
+      "text": "Ghana",
+      "correct": false
+    }
+  ],
+  "explanation": "Lesotho no figura entre los países que comparten frontera terrestre con Togo, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-021550",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director se asocia con “Origen”?",
+  "answers": [
+    {
+      "text": "Christopher Nolan",
+      "correct": true
+    },
+    {
+      "text": "Francis Ford Coppola",
+      "correct": false
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": false
+    },
+    {
+      "text": "Stanley Donen y Gene Kelly",
+      "correct": false
+    }
+  ],
+  "explanation": "“Origen” fue dirigida por Christopher Nolan.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

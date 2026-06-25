@@ -1,0 +1,42 @@
+{
+  "id": "q-015023",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué novela pertenece Raskólnikov?",
+  "answers": [
+    {
+      "text": "Ulises",
+      "correct": false
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": false
+    },
+    {
+      "text": "El guardián entre el centeno",
+      "correct": false
+    },
+    {
+      "text": "Crimen y castigo",
+      "correct": true
+    }
+  ],
+  "explanation": "Raskólnikov es un personaje de “Crimen y castigo”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

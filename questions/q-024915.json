@@ -1,0 +1,42 @@
+{
+  "id": "q-024915",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 80 AND 122 a nivel de bits?",
+  "answers": [
+    {
+      "text": "42",
+      "correct": false
+    },
+    {
+      "text": "202",
+      "correct": false
+    },
+    {
+      "text": "81",
+      "correct": false
+    },
+    {
+      "text": "80",
+      "correct": true
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 80 y 122, el resultado decimal es 80.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

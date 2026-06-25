@@ -1,0 +1,42 @@
+{
+  "id": "q-016677",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué saga aparece el enclave “Los Santos”?",
+  "answers": [
+    {
+      "text": "Grand Theft Auto V",
+      "correct": true
+    },
+    {
+      "text": "BioShock",
+      "correct": false
+    },
+    {
+      "text": "Dishonored",
+      "correct": false
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    }
+  ],
+  "explanation": "“Los Santos” aparece en Grand Theft Auto V.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

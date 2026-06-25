@@ -1,0 +1,42 @@
+{
+  "id": "q-015136",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación obra-artista es correcta para “La libertad guiando al pueblo”?",
+  "answers": [
+    {
+      "text": "La libertad guiando al pueblo — Vasili Kandinski",
+      "correct": false
+    },
+    {
+      "text": "La libertad guiando al pueblo — Claude Monet",
+      "correct": false
+    },
+    {
+      "text": "La libertad guiando al pueblo — Francisco de Goya",
+      "correct": false
+    },
+    {
+      "text": "La libertad guiando al pueblo — Eugène Delacroix",
+      "correct": true
+    }
+  ],
+  "explanation": "“La libertad guiando al pueblo” es una obra de Eugène Delacroix.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

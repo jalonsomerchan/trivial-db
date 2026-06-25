@@ -1,0 +1,42 @@
+{
+  "id": "q-018056",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué asunto histórico abordó el Tratado de Brest-Litovsk?",
+  "answers": [
+    {
+      "text": "entrada de Japón en la ONU",
+      "correct": false
+    },
+    {
+      "text": "unificación alemana de 1990",
+      "correct": false
+    },
+    {
+      "text": "salida rusa de la Primera Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "fin del Imperio romano",
+      "correct": false
+    }
+  ],
+  "explanation": "El Tratado de Brest-Litovsk, firmado en 1918, se vincula con salida rusa de la Primera Guerra Mundial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "tratados",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

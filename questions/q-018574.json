@@ -1,0 +1,42 @@
+{
+  "id": "q-018574",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "conectores"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué matiz aporta normalmente “por tanto”?",
+  "answers": [
+    {
+      "text": "comparación",
+      "correct": false
+    },
+    {
+      "text": "condición",
+      "correct": false
+    },
+    {
+      "text": "concesión",
+      "correct": false
+    },
+    {
+      "text": "consecuencia",
+      "correct": true
+    }
+  ],
+  "explanation": "El conector “por tanto” suele expresar consecuencia.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "conectores",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

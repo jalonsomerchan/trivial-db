@@ -1,0 +1,42 @@
+{
+  "id": "q-019284",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica-modular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resto de dividir (37 × 63 + 63) entre 7?",
+  "answers": [
+    {
+      "text": "0",
+      "correct": true
+    },
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": false
+    },
+    {
+      "text": "6",
+      "correct": false
+    }
+  ],
+  "explanation": "Se calcula 37 × 63 + 63 y después se toma el resto de la división entre 7; el resto es 0.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "modulos",
+    "restos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

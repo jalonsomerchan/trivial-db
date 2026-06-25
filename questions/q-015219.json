@@ -1,0 +1,42 @@
+{
+  "id": "q-015219",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué museo se asocia con la conservación de “Composición VIII”?",
+  "answers": [
+    {
+      "text": "Mauritshuis",
+      "correct": false
+    },
+    {
+      "text": "Rijksmuseum",
+      "correct": false
+    },
+    {
+      "text": "Museo Guggenheim de Nueva York",
+      "correct": true
+    },
+    {
+      "text": "Galería Uffizi",
+      "correct": false
+    }
+  ],
+  "explanation": "“Composición VIII” se asocia con Museo Guggenheim de Nueva York.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-019638",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el código hexadecimal del color RGB(16, 45, 106)?",
+  "answers": [
+    {
+      "text": "#102D6A",
+      "correct": true
+    },
+    {
+      "text": "#106A2D",
+      "correct": false
+    },
+    {
+      "text": "#6A2D10",
+      "correct": false
+    },
+    {
+      "text": "#2D106A",
+      "correct": false
+    }
+  ],
+  "explanation": "Cada componente RGB se convierte a dos dígitos hexadecimales: 10, 2D y 6A.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "colores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

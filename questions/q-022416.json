@@ -1,0 +1,43 @@
+{
+  "id": "q-022416",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para khachapuri?",
+  "answers": [
+    {
+      "text": "khachapuri — Japón — rebozado ligero",
+      "correct": false
+    },
+    {
+      "text": "khachapuri — Argentina — masa rellena",
+      "correct": false
+    },
+    {
+      "text": "khachapuri — Georgia — queso",
+      "correct": true
+    },
+    {
+      "text": "khachapuri — Brasil — frijoles negros",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para khachapuri es Georgia y queso.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

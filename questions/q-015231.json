@@ -1,0 +1,42 @@
+{
+  "id": "q-015231",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué pintor se asocia con “El beso” en una pregunta de autoría?",
+  "answers": [
+    {
+      "text": "Johannes Vermeer",
+      "correct": false
+    },
+    {
+      "text": "Gustav Klimt",
+      "correct": true
+    },
+    {
+      "text": "Edward Hopper",
+      "correct": false
+    },
+    {
+      "text": "Pablo Picasso",
+      "correct": false
+    }
+  ],
+  "explanation": "“El beso” es una obra de Gustav Klimt.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

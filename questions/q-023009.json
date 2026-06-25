@@ -1,0 +1,42 @@
+{
+  "id": "q-023009",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió coronación de Carlomagno?",
+  "answers": [
+    {
+      "text": "810",
+      "correct": false
+    },
+    {
+      "text": "799",
+      "correct": false
+    },
+    {
+      "text": "801",
+      "correct": false
+    },
+    {
+      "text": "800",
+      "correct": true
+    }
+  ],
+  "explanation": "Coronación de carlomagno ocurrió en 800.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

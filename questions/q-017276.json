@@ -1,0 +1,42 @@
+{
+  "id": "q-017276",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción gastronómica corresponde a Gouda?",
+  "answers": [
+    {
+      "text": "verduras fermentadas coreanas",
+      "correct": false
+    },
+    {
+      "text": "queso neerlandés de pasta prensada",
+      "correct": true
+    },
+    {
+      "text": "tiburón fermentado islandés",
+      "correct": false
+    },
+    {
+      "text": "queso azul inglés",
+      "correct": false
+    }
+  ],
+  "explanation": "Gouda se describe como queso neerlandés de pasta prensada.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-021529",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director se asocia con “Ciudadano Kane”?",
+  "answers": [
+    {
+      "text": "Orson Welles",
+      "correct": true
+    },
+    {
+      "text": "Steven Spielberg",
+      "correct": false
+    },
+    {
+      "text": "Francis Ford Coppola",
+      "correct": false
+    },
+    {
+      "text": "Stanley Donen y Gene Kelly",
+      "correct": false
+    }
+  ],
+  "explanation": "“Ciudadano Kane” fue dirigida por Orson Welles.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

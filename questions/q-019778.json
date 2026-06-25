@@ -1,0 +1,42 @@
+{
+  "id": "q-019778",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar AND bit a bit entre 26 y 239?",
+  "answers": [
+    {
+      "text": "9",
+      "correct": false
+    },
+    {
+      "text": "255",
+      "correct": false
+    },
+    {
+      "text": "10",
+      "correct": true
+    },
+    {
+      "text": "245",
+      "correct": false
+    }
+  ],
+  "explanation": "El operador AND bit a bit conserva solo los bits que están activos en ambos números; 26 AND 239 = 10.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "operadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

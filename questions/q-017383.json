@@ -1,0 +1,42 @@
+{
+  "id": "q-017383",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción define correctamente feijoada?",
+  "answers": [
+    {
+      "text": "arroz coreano mezclado con verduras",
+      "correct": false
+    },
+    {
+      "text": "queso suizo usado habitualmente en fondue",
+      "correct": false
+    },
+    {
+      "text": "guiso brasileño de alubias negras y carnes",
+      "correct": true
+    },
+    {
+      "text": "verduras fermentadas coreanas",
+      "correct": false
+    }
+  ],
+  "explanation": "feijoada se describe como guiso brasileño de alubias negras y carnes.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

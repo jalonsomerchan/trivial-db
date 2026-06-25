@@ -1,0 +1,42 @@
+{
+  "id": "q-018298",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Carta Magna inglesa” y “Llegada de Colón a América”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Carta Magna inglesa después que Llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "Carta Magna inglesa antes que Llegada de Colón a América",
+      "correct": true
+    },
+    {
+      "text": "Llegada de Colón a América antes que Carta Magna inglesa",
+      "correct": false
+    }
+  ],
+  "explanation": "Carta Magna inglesa ocurrió antes que Llegada de Colón a América.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

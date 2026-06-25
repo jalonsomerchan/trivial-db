@@ -1,0 +1,42 @@
+{
+  "id": "q-015316",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué rasgo permite reconocer el fauvismo?",
+  "answers": [
+    {
+      "text": "iconografía de consumo y cultura de masas",
+      "correct": false
+    },
+    {
+      "text": "color intenso y libertad expresiva",
+      "correct": true
+    },
+    {
+      "text": "imágenes del sueño y del inconsciente",
+      "correct": false
+    },
+    {
+      "text": "velocidad, máquina y dinamismo moderno",
+      "correct": false
+    }
+  ],
+  "explanation": "El fauvismo se reconoce por color intenso y libertad expresiva.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

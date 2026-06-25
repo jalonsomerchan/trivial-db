@@ -1,0 +1,42 @@
+{
+  "id": "q-024218",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué valor de x satisface la ecuación 9x + 18 = 225?",
+  "answers": [
+    {
+      "text": "-23",
+      "correct": false
+    },
+    {
+      "text": "22",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": false
+    },
+    {
+      "text": "23",
+      "correct": true
+    }
+  ],
+  "explanation": "Al despejar, 9x = 207, por lo que x = 23.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015071",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué libro es relevante el personaje Aureliano Buendía?",
+  "answers": [
+    {
+      "text": "Cien años de soledad",
+      "correct": true
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": false
+    },
+    {
+      "text": "El cuento de la criada",
+      "correct": false
+    },
+    {
+      "text": "Moby-Dick",
+      "correct": false
+    }
+  ],
+  "explanation": "Aureliano Buendía es un personaje de “Cien años de soledad”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

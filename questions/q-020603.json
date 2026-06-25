@@ -1,0 +1,42 @@
+{
+  "id": "q-020603",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué corriente circula por una resistencia de 3 Ω conectada a 6 V?",
+  "answers": [
+    {
+      "text": "9 A",
+      "correct": false
+    },
+    {
+      "text": "2 A",
+      "correct": true
+    },
+    {
+      "text": "18 A",
+      "correct": false
+    },
+    {
+      "text": "0.5 A",
+      "correct": false
+    }
+  ],
+  "explanation": "Por la ley de Ohm, I = V/R = 6/3 = 2 A.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "ley-de-ohm",
+    "electricidad"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

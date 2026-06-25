@@ -1,0 +1,42 @@
+{
+  "id": "q-017605",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Venezuela?",
+  "answers": [
+    {
+      "text": "Guyana",
+      "correct": true
+    },
+    {
+      "text": "Bolivia",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    },
+    {
+      "text": "Groenlandia",
+      "correct": false
+    }
+  ],
+  "explanation": "Guyana comparte frontera terrestre con Venezuela.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

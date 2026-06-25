@@ -1,0 +1,42 @@
+{
+  "id": "q-019586",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "seguridad"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué se centra principalmente TLS?",
+  "answers": [
+    {
+      "text": "calcular rutas de tren",
+      "correct": false
+    },
+    {
+      "text": "ordenar físicamente los píxeles",
+      "correct": false
+    },
+    {
+      "text": "proteger comunicaciones mediante cifrado y autenticación",
+      "correct": true
+    },
+    {
+      "text": "desfragmentar discos ópticos",
+      "correct": false
+    }
+  ],
+  "explanation": "TLS se usa principalmente para proteger comunicaciones mediante cifrado y autenticación.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "seguridad",
+    "informatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

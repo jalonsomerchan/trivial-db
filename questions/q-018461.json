@@ -1,0 +1,42 @@
+{
+  "id": "q-018461",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Revolución Gloriosa” y “Unificación italiana”?",
+  "answers": [
+    {
+      "text": "Revolución Gloriosa antes que Unificación italiana",
+      "correct": true
+    },
+    {
+      "text": "Unificación italiana antes que Revolución Gloriosa",
+      "correct": false
+    },
+    {
+      "text": "Revolución Gloriosa después que Unificación italiana",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    }
+  ],
+  "explanation": "Revolución Gloriosa ocurrió antes que Unificación italiana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

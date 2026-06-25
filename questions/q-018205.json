@@ -1,0 +1,42 @@
+{
+  "id": "q-018205",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho se asocia con la Caída del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "revolución de esclavos que condujo a la independencia de Haití",
+      "correct": false
+    },
+    {
+      "text": "modernización y centralización política japonesa",
+      "correct": false
+    },
+    {
+      "text": "reordenación europea tras las guerras napoleónicas",
+      "correct": false
+    },
+    {
+      "text": "apertura simbólica que aceleró la reunificación alemana",
+      "correct": true
+    }
+  ],
+  "explanation": "La Caída del Muro de Berlín se relaciona con apertura simbólica que aceleró la reunificación alemana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "caida-del-muro-de-berlin"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

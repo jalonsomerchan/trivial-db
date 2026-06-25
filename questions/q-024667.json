@@ -1,0 +1,42 @@
+{
+  "id": "q-024667",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sistemas-numericos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la notación hexadecimal del número decimal 179?",
+  "answers": [
+    {
+      "text": "0x166",
+      "correct": false
+    },
+    {
+      "text": "0xB3",
+      "correct": true
+    },
+    {
+      "text": "0xB2",
+      "correct": false
+    },
+    {
+      "text": "0xB4",
+      "correct": false
+    }
+  ],
+  "explanation": "Al convertir 179 a base 16 se obtiene 0xB3.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "hexadecimal",
+    "conversion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

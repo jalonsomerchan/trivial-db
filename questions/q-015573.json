@@ -1,0 +1,42 @@
+{
+  "id": "q-015573",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia-celular"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tarea realiza de forma característica ribosoma?",
+  "answers": [
+    {
+      "text": "sintetizar proteínas",
+      "correct": true
+    },
+    {
+      "text": "almacenar lípidos",
+      "correct": false
+    },
+    {
+      "text": "duplicar cromosomas",
+      "correct": false
+    },
+    {
+      "text": "bombear sangre",
+      "correct": false
+    }
+  ],
+  "explanation": "Ribosoma se asocia principalmente con sintetizar proteínas.",
+  "sources": [
+    {
+      "title": "OpenStax - Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia-celular",
+    "biologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

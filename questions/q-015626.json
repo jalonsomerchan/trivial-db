@@ -1,0 +1,42 @@
+{
+  "id": "q-015626",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué familia de la tabla periódica pertenece principalmente el hierro?",
+  "answers": [
+    {
+      "text": "lantánido",
+      "correct": false
+    },
+    {
+      "text": "actínido",
+      "correct": false
+    },
+    {
+      "text": "gas noble",
+      "correct": false
+    },
+    {
+      "text": "metal de transición",
+      "correct": true
+    }
+  ],
+  "explanation": "El hierro se clasifica como metal de transición dentro de la tabla periódica.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "tabla-periodica",
+    "elementos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

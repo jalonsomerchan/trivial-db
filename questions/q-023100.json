@@ -1,0 +1,42 @@
+{
+  "id": "q-023100",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1066?",
+  "answers": [
+    {
+      "text": "Revolución rusa",
+      "correct": false
+    },
+    {
+      "text": "batalla de Hastings",
+      "correct": true
+    },
+    {
+      "text": "llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1066 se asocia con batalla de Hastings.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

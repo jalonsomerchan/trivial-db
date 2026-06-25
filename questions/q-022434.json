@@ -1,0 +1,43 @@
+{
+  "id": "q-022434",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien bouillabaisse con su origen y base?",
+  "answers": [
+    {
+      "text": "bouillabaisse — Argentina — masa rellena",
+      "correct": false
+    },
+    {
+      "text": "bouillabaisse — Francia — pescado",
+      "correct": true
+    },
+    {
+      "text": "bouillabaisse — Sudeste asiático — fideos",
+      "correct": false
+    },
+    {
+      "text": "bouillabaisse — Corea — col china",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para bouillabaisse es Francia y pescado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

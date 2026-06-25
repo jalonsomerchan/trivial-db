@@ -1,0 +1,42 @@
+{
+  "id": "q-021510",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió “Star Wars”?",
+  "answers": [
+    {
+      "text": "George Lucas",
+      "correct": true
+    },
+    {
+      "text": "Quentin Tarantino",
+      "correct": false
+    },
+    {
+      "text": "Francis Ford Coppola",
+      "correct": false
+    },
+    {
+      "text": "Stanley Kubrick",
+      "correct": false
+    }
+  ],
+  "explanation": "“Star Wars” fue dirigida por George Lucas.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

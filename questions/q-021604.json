@@ -1,0 +1,42 @@
+{
+  "id": "q-021604",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué década pertenece el estreno de “Casablanca”?",
+  "answers": [
+    {
+      "text": "década de 1960",
+      "correct": false
+    },
+    {
+      "text": "década de 1930",
+      "correct": false
+    },
+    {
+      "text": "década de 1940",
+      "correct": true
+    },
+    {
+      "text": "década de 1950",
+      "correct": false
+    }
+  ],
+  "explanation": "“Casablanca” se estrenó en 1942, dentro de la década de 1940.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "estrenos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015232",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué pintor se asocia con “La ronda de noche” en una pregunta de autoría?",
+  "answers": [
+    {
+      "text": "Piet Mondrian",
+      "correct": false
+    },
+    {
+      "text": "Sandro Botticelli",
+      "correct": false
+    },
+    {
+      "text": "Rembrandt",
+      "correct": true
+    },
+    {
+      "text": "Frida Kahlo",
+      "correct": false
+    }
+  ],
+  "explanation": "“La ronda de noche” es una obra de Rembrandt.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

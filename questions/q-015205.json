@@ -1,0 +1,42 @@
+{
+  "id": "q-015205",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué museo se asocia con la conservación de “La persistencia de la memoria”?",
+  "answers": [
+    {
+      "text": "Museo del Louvre",
+      "correct": false
+    },
+    {
+      "text": "Museo de Orsay",
+      "correct": false
+    },
+    {
+      "text": "MoMA",
+      "correct": true
+    },
+    {
+      "text": "Museos Vaticanos",
+      "correct": false
+    }
+  ],
+  "explanation": "“La persistencia de la memoria” se asocia con MoMA.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

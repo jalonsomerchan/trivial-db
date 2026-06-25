@@ -1,0 +1,42 @@
+{
+  "id": "q-017386",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción define correctamente kimchi?",
+  "answers": [
+    {
+      "text": "queso italiano duro y curado",
+      "correct": false
+    },
+    {
+      "text": "queso español de leche de oveja manchega",
+      "correct": false
+    },
+    {
+      "text": "queso suizo usado habitualmente en fondue",
+      "correct": false
+    },
+    {
+      "text": "verduras fermentadas coreanas",
+      "correct": true
+    }
+  ],
+  "explanation": "kimchi se describe como verduras fermentadas coreanas.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

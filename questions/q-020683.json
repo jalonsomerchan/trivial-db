@@ -1,0 +1,42 @@
+{
+  "id": "q-020683",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué corriente circula por una resistencia de 8 Ω conectada a 14 V?",
+  "answers": [
+    {
+      "text": "112 A",
+      "correct": false
+    },
+    {
+      "text": "22 A",
+      "correct": false
+    },
+    {
+      "text": "1.75 A",
+      "correct": true
+    },
+    {
+      "text": "0.57 A",
+      "correct": false
+    }
+  ],
+  "explanation": "Por la ley de Ohm, I = V/R = 14/8 = 1.75 A.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "ley-de-ohm",
+    "electricidad"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

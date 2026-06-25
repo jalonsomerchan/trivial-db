@@ -1,0 +1,42 @@
+{
+  "id": "q-020596",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué corriente circula por una resistencia de 6 Ω conectada a 5 V?",
+  "answers": [
+    {
+      "text": "11 A",
+      "correct": false
+    },
+    {
+      "text": "0.83 A",
+      "correct": true
+    },
+    {
+      "text": "1.2 A",
+      "correct": false
+    },
+    {
+      "text": "30 A",
+      "correct": false
+    }
+  ],
+  "explanation": "Por la ley de Ohm, I = V/R = 5/6 = 0.83 A.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "ley-de-ohm",
+    "electricidad"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

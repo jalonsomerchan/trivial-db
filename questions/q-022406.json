@@ -1,0 +1,43 @@
+{
+  "id": "q-022406",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para cuscús?",
+  "answers": [
+    {
+      "text": "cuscús — Magreb — sémola de trigo",
+      "correct": true
+    },
+    {
+      "text": "cuscús — Argentina — carne",
+      "correct": false
+    },
+    {
+      "text": "cuscús — España — tomate",
+      "correct": false
+    },
+    {
+      "text": "cuscús — Jamaica — pollo especiado",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para cuscús es Magreb y sémola de trigo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

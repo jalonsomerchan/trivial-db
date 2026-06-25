@@ -1,0 +1,42 @@
+{
+  "id": "q-024881",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 66 OR 155 a nivel de bits?",
+  "answers": [
+    {
+      "text": "217",
+      "correct": false
+    },
+    {
+      "text": "219",
+      "correct": true
+    },
+    {
+      "text": "221",
+      "correct": false
+    },
+    {
+      "text": "218",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 66 y 155, el resultado decimal es 219.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

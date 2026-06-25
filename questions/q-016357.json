@@ -1,0 +1,42 @@
+{
+  "id": "q-016357",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "olimpismo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué sede olímpica de verano fue anterior: Roma 1960 o Pekín 2008?",
+  "answers": [
+    {
+      "text": "fueron en el mismo año",
+      "correct": false
+    },
+    {
+      "text": "Pekín 2008",
+      "correct": false
+    },
+    {
+      "text": "Roma 1960",
+      "correct": true
+    },
+    {
+      "text": "no pertenecen a Juegos Olímpicos de verano",
+      "correct": false
+    }
+  ],
+  "explanation": "Roma 1960 se celebró antes que Pekín 2008.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

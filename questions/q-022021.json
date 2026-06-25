@@ -1,0 +1,42 @@
+{
+  "id": "q-022021",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente bánh mì?",
+  "answers": [
+    {
+      "text": "Vietnam",
+      "correct": true
+    },
+    {
+      "text": "Jamaica",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "España",
+      "correct": false
+    }
+  ],
+  "explanation": "bánh mì se asocia tradicionalmente con Vietnam.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "vietnam"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

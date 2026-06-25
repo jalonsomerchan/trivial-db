@@ -1,0 +1,43 @@
+{
+  "id": "q-022378",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para gazpacho?",
+  "answers": [
+    {
+      "text": "gazpacho — Japón — arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "gazpacho — Estados Unidos — carne y chile",
+      "correct": false
+    },
+    {
+      "text": "gazpacho — Levante mediterráneo — garbanzo",
+      "correct": false
+    },
+    {
+      "text": "gazpacho — España — tomate",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para gazpacho es España y tomate.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

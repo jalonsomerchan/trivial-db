@@ -1,0 +1,42 @@
+{
+  "id": "q-017681",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Yemen?",
+  "answers": [
+    {
+      "text": "Iran",
+      "correct": false
+    },
+    {
+      "text": "Omán",
+      "correct": true
+    },
+    {
+      "text": "Kazajistán",
+      "correct": false
+    },
+    {
+      "text": "Bután",
+      "correct": false
+    }
+  ],
+  "explanation": "Omán comparte frontera terrestre con Yemen.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

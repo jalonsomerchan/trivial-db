@@ -1,0 +1,42 @@
+{
+  "id": "q-019525",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el uso habitual de DNS?",
+  "answers": [
+    {
+      "text": "comprimir imágenes PNG",
+      "correct": false
+    },
+    {
+      "text": "traducir nombres de dominio a direcciones IP",
+      "correct": true
+    },
+    {
+      "text": "gestionar memoria RAM local",
+      "correct": false
+    },
+    {
+      "text": "renderizar texto en CSS",
+      "correct": false
+    }
+  ],
+  "explanation": "DNS se usa principalmente para traducir nombres de dominio a direcciones IP.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "redes",
+    "informatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

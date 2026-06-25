@@ -1,0 +1,42 @@
+{
+  "id": "q-024862",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 59 OR 122 a nivel de bits?",
+  "answers": [
+    {
+      "text": "181",
+      "correct": false
+    },
+    {
+      "text": "122",
+      "correct": false
+    },
+    {
+      "text": "123",
+      "correct": true
+    },
+    {
+      "text": "65",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 59 y 122, el resultado decimal es 123.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

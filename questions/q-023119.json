@@ -1,0 +1,42 @@
+{
+  "id": "q-023119",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1871?",
+  "answers": [
+    {
+      "text": "ataque a Pearl Harbor",
+      "correct": false
+    },
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "unificación alemana",
+      "correct": true
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1871 se asocia con unificación alemana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

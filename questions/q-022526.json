@@ -1,0 +1,42 @@
+{
+  "id": "q-022526",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Tanzania?",
+  "answers": [
+    {
+      "text": "Dodoma",
+      "correct": true
+    },
+    {
+      "text": "Kigali",
+      "correct": false
+    },
+    {
+      "text": "Luanda",
+      "correct": false
+    },
+    {
+      "text": "Acra",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Tanzania es Dodoma.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "africa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

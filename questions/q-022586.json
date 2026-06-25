@@ -1,0 +1,42 @@
+{
+  "id": "q-022586",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Nueva Delhi?",
+  "answers": [
+    {
+      "text": "Arabia Saudí",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": false
+    },
+    {
+      "text": "India",
+      "correct": true
+    },
+    {
+      "text": "Vietnam",
+      "correct": false
+    }
+  ],
+  "explanation": "Nueva Delhi es la capital de India.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

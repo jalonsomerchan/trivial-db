@@ -1,0 +1,42 @@
+{
+  "id": "q-022178",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base culinaria se asocia con empanada?",
+  "answers": [
+    {
+      "text": "carne o verduras",
+      "correct": false
+    },
+    {
+      "text": "pimentón",
+      "correct": false
+    },
+    {
+      "text": "masa rellena",
+      "correct": true
+    },
+    {
+      "text": "carne y chile",
+      "correct": false
+    }
+  ],
+  "explanation": "empanada se relaciona especialmente con masa rellena.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

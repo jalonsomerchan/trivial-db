@@ -1,0 +1,42 @@
+{
+  "id": "q-016797",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación álbum-artista es correcta para “The Miseducation of Lauryn Hill”?",
+  "answers": [
+    {
+      "text": "The Miseducation of Lauryn Hill — John Coltrane",
+      "correct": false
+    },
+    {
+      "text": "The Miseducation of Lauryn Hill — Prince",
+      "correct": false
+    },
+    {
+      "text": "The Miseducation of Lauryn Hill — Lauryn Hill",
+      "correct": true
+    },
+    {
+      "text": "The Miseducation of Lauryn Hill — Eagles",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Miseducation of Lauryn Hill” es un álbum de Lauryn Hill.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "albumes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

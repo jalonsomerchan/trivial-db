@@ -1,0 +1,42 @@
+{
+  "id": "q-016893",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación videojuego-creador corresponde a “Final Fantasy”?",
+  "answers": [
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    },
+    {
+      "text": "Hironobu Sakaguchi",
+      "correct": true
+    },
+    {
+      "text": "Hideo Kojima",
+      "correct": false
+    },
+    {
+      "text": "Hidetaka Miyazaki",
+      "correct": false
+    }
+  ],
+  "explanation": "“Final Fantasy” se asocia con Hironobu Sakaguchi.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-020070",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura",
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué siglo se creó o publicó “Guerra y paz”?",
+  "answers": [
+    {
+      "text": "siglo XVIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XXI",
+      "correct": false
+    },
+    {
+      "text": "siglo XX",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX",
+      "correct": true
+    }
+  ],
+  "explanation": "“Guerra y paz” se sitúa en torno a 1869, por lo que corresponde a siglo XIX.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

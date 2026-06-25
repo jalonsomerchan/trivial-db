@@ -1,0 +1,42 @@
+{
+  "id": "q-017592",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué prefijo internacional se marca para llamar a Rusia?",
+  "answers": [
+    {
+      "text": "+7",
+      "correct": true
+    },
+    {
+      "text": "+218",
+      "correct": false
+    },
+    {
+      "text": "+254",
+      "correct": false
+    },
+    {
+      "text": "+45",
+      "correct": false
+    }
+  ],
+  "explanation": "El indicativo telefónico internacional de Rusia es +7.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

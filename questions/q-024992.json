@@ -1,0 +1,42 @@
+{
+  "id": "q-024992",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 108 OR 45 a nivel de bits?",
+  "answers": [
+    {
+      "text": "65",
+      "correct": false
+    },
+    {
+      "text": "153",
+      "correct": false
+    },
+    {
+      "text": "109",
+      "correct": true
+    },
+    {
+      "text": "108",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 108 y 45, el resultado decimal es 109.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

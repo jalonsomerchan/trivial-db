@@ -1,0 +1,42 @@
+{
+  "id": "q-021489",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "juegos-olimpicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Melbourne 1956, Múnich 1972, Seúl 1988 o Atenas 2004?",
+  "answers": [
+    {
+      "text": "Seúl 1988",
+      "correct": false
+    },
+    {
+      "text": "Múnich 1972",
+      "correct": false
+    },
+    {
+      "text": "Atenas 2004",
+      "correct": true
+    },
+    {
+      "text": "Melbourne 1956",
+      "correct": false
+    }
+  ],
+  "explanation": "Atenas 2004 es la opción correcta porque su fecha asociada es 2004.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "sedes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

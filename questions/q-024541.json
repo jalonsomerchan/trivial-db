@@ -1,0 +1,42 @@
+{
+  "id": "q-024541",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el propósito habitual de SVG?",
+  "answers": [
+    {
+      "text": "formatear particiones",
+      "correct": false
+    },
+    {
+      "text": "autenticar por Kerberos",
+      "correct": false
+    },
+    {
+      "text": "ejecutar consultas SQL",
+      "correct": false
+    },
+    {
+      "text": "describir gráficos vectoriales escalables",
+      "correct": true
+    }
+  ],
+  "explanation": "SVG se usa principalmente para describir gráficos vectoriales escalables.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "tecnologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

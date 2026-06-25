@@ -1,0 +1,42 @@
+{
+  "id": "q-017359",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué rasgo gastronómico caracteriza a Stilton?",
+  "answers": [
+    {
+      "text": "arroz coreano mezclado con verduras",
+      "correct": false
+    },
+    {
+      "text": "guiso magrebí en recipiente cónico",
+      "correct": false
+    },
+    {
+      "text": "guiso brasileño de alubias negras y carnes",
+      "correct": false
+    },
+    {
+      "text": "queso azul inglés",
+      "correct": true
+    }
+  ],
+  "explanation": "Stilton se describe como queso azul inglés.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

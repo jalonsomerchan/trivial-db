@@ -1,0 +1,42 @@
+{
+  "id": "q-018155",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál fue el significado histórico de la Conferencia de Bandung?",
+  "answers": [
+    {
+      "text": "modernización y centralización política japonesa",
+      "correct": false
+    },
+    {
+      "text": "levantamiento contra influencia extranjera y cristiana",
+      "correct": false
+    },
+    {
+      "text": "encuentro clave del movimiento afroasiático y no alineado",
+      "correct": true
+    },
+    {
+      "text": "proceso de negociación entre Israel y la OLP",
+      "correct": false
+    }
+  ],
+  "explanation": "La Conferencia de Bandung se relaciona con encuentro clave del movimiento afroasiático y no alineado.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "conferencia-de-bandung"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

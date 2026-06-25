@@ -1,0 +1,42 @@
+{
+  "id": "q-019687",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el código hexadecimal del color RGB(240, 45, 74)?",
+  "answers": [
+    {
+      "text": "#2DF04A",
+      "correct": false
+    },
+    {
+      "text": "#4A2DF0",
+      "correct": false
+    },
+    {
+      "text": "#F02D4A",
+      "correct": true
+    },
+    {
+      "text": "#F04A2D",
+      "correct": false
+    }
+  ],
+  "explanation": "Cada componente RGB se convierte a dos dígitos hexadecimales: F0, 2D y 4A.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "colores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016823",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué creador o estudio se asocia con “Dark Souls”?",
+  "answers": [
+    {
+      "text": "Valve",
+      "correct": false
+    },
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "Hidetaka Miyazaki",
+      "correct": true
+    },
+    {
+      "text": "Markus Persson",
+      "correct": false
+    }
+  ],
+  "explanation": "“Dark Souls” se asocia con Hidetaka Miyazaki.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

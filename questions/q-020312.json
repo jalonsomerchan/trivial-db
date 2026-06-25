@@ -1,0 +1,43 @@
+{
+  "id": "q-020312",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "cronologia-cultural"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: La Eneida (literatura), Utopía (literatura), El beso (pintura) o Guernica (pintura)?",
+  "answers": [
+    {
+      "text": "La Eneida (literatura)",
+      "correct": true
+    },
+    {
+      "text": "Guernica (pintura)",
+      "correct": false
+    },
+    {
+      "text": "El beso (pintura)",
+      "correct": false
+    },
+    {
+      "text": "Utopía (literatura)",
+      "correct": false
+    }
+  ],
+  "explanation": "La Eneida (literatura) es la opción correcta porque su fecha asociada es -19.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

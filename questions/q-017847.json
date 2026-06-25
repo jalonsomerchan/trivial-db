@@ -1,0 +1,42 @@
+{
+  "id": "q-017847",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con Libia?",
+  "answers": [
+    {
+      "text": "Sudán",
+      "correct": false
+    },
+    {
+      "text": "Níger",
+      "correct": false
+    },
+    {
+      "text": "Argelia",
+      "correct": false
+    },
+    {
+      "text": "Uganda",
+      "correct": true
+    }
+  ],
+  "explanation": "Uganda no figura entre los países que comparten frontera terrestre con Libia, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

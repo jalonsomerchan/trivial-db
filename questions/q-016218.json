@@ -1,0 +1,42 @@
+{
+  "id": "q-016218",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dato reglamentario se asocia con golf?",
+  "answers": [
+    {
+      "text": "un partido puede durar hasta cinco días",
+      "correct": false
+    },
+    {
+      "text": "los combates masculinos suelen disputarse a tres asaltos",
+      "correct": false
+    },
+    {
+      "text": "un set estándar se gana al llegar a 25 puntos con dos de ventaja",
+      "correct": false
+    },
+    {
+      "text": "el par mide los golpes esperados de un hoyo",
+      "correct": true
+    }
+  ],
+  "explanation": "En golf, el par mide los golpes esperados de un hoyo.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "deporte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

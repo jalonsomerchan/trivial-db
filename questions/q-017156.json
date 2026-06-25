@@ -1,0 +1,42 @@
+{
+  "id": "q-017156",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué combinación es típica de teriyaki?",
+  "answers": [
+    {
+      "text": "soja, mirin y azúcar",
+      "correct": true
+    },
+    {
+      "text": "fondo claro ligado con roux",
+      "correct": false
+    },
+    {
+      "text": "ajo y aceite emulsionados",
+      "correct": false
+    },
+    {
+      "text": "chiles, especias y cacao o chocolate",
+      "correct": false
+    }
+  ],
+  "explanation": "teriyaki se caracteriza por soja, mirin y azúcar.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

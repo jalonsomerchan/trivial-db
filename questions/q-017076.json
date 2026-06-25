@@ -1,0 +1,42 @@
+{
+  "id": "q-017076",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se entiende “brasear” en gastronomía?",
+  "answers": [
+    {
+      "text": "batir claras a punto de nieve",
+      "correct": false
+    },
+    {
+      "text": "enfriar al vacío",
+      "correct": false
+    },
+    {
+      "text": "cocinar primero con dorado y luego lentamente con líquido",
+      "correct": true
+    },
+    {
+      "text": "laminar verduras crudas",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, “brasear” significa cocinar primero con dorado y luego lentamente con líquido.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "cocina"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

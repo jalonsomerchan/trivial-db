@@ -1,0 +1,43 @@
+{
+  "id": "q-022419",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para laksa?",
+  "answers": [
+    {
+      "text": "laksa — Francia — alubias",
+      "correct": false
+    },
+    {
+      "text": "laksa — Etiopía — teff",
+      "correct": false
+    },
+    {
+      "text": "laksa — Japón — arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "laksa — Sudeste asiático — fideos",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para laksa es Sudeste asiático y fideos.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

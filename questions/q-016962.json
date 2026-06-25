@@ -1,0 +1,42 @@
+{
+  "id": "q-016962",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autoría lúdica se asocia a “Portal”?",
+  "answers": [
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "Hidetaka Miyazaki",
+      "correct": false
+    },
+    {
+      "text": "Ken Levine",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": true
+    }
+  ],
+  "explanation": "“Portal” se asocia con Valve.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

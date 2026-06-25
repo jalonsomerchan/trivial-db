@@ -1,0 +1,42 @@
+{
+  "id": "q-018946",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué fenómeno lingüístico se observa en “Quiero que vengas pronto”?",
+  "answers": [
+    {
+      "text": "subordinada causal",
+      "correct": false
+    },
+    {
+      "text": "hipérbaton",
+      "correct": false
+    },
+    {
+      "text": "anáfora",
+      "correct": false
+    },
+    {
+      "text": "subordinada sustantiva",
+      "correct": true
+    }
+  ],
+  "explanation": "“Quiero que vengas pronto” se clasifica como subordinada sustantiva.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

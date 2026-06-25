@@ -1,0 +1,43 @@
+{
+  "id": "q-022491",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción triple encaja con kimchi?",
+  "answers": [
+    {
+      "text": "kimchi — Corea — col china",
+      "correct": true
+    },
+    {
+      "text": "kimchi — España — tomate",
+      "correct": false
+    },
+    {
+      "text": "kimchi — Italia — masa de trigo",
+      "correct": false
+    },
+    {
+      "text": "kimchi — Grecia — yogur",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para kimchi es Corea y col china.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

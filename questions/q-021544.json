@@ -1,0 +1,42 @@
+{
+  "id": "q-021544",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director se asocia con “Matrix”?",
+  "answers": [
+    {
+      "text": "Orson Welles",
+      "correct": false
+    },
+    {
+      "text": "Lana y Lilly Wachowski",
+      "correct": true
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    },
+    {
+      "text": "Alfred Hitchcock",
+      "correct": false
+    }
+  ],
+  "explanation": "“Matrix” fue dirigida por Lana y Lilly Wachowski.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

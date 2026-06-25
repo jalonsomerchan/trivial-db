@@ -1,0 +1,42 @@
+{
+  "id": "q-017356",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué rasgo gastronómico caracteriza a Gouda?",
+  "answers": [
+    {
+      "text": "sopa de remolacha de Europa oriental",
+      "correct": false
+    },
+    {
+      "text": "queso neerlandés de pasta prensada",
+      "correct": true
+    },
+    {
+      "text": "queso vasco-navarro de oveja",
+      "correct": false
+    },
+    {
+      "text": "sopa de fideos del Sudeste Asiático con caldo especiado",
+      "correct": false
+    }
+  ],
+  "explanation": "Gouda se describe como queso neerlandés de pasta prensada.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

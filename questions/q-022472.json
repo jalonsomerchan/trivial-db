@@ -1,0 +1,43 @@
+{
+  "id": "q-022472",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien jerk chicken con su origen y base?",
+  "answers": [
+    {
+      "text": "jerk chicken — Corea — arroz",
+      "correct": false
+    },
+    {
+      "text": "jerk chicken — Jamaica — pollo especiado",
+      "correct": true
+    },
+    {
+      "text": "jerk chicken — Francia — verduras",
+      "correct": false
+    },
+    {
+      "text": "jerk chicken — Brasil — frijoles negros",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para jerk chicken es Jamaica y pollo especiado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

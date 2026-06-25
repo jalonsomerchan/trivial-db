@@ -1,0 +1,42 @@
+{
+  "id": "q-018604",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función sintáctica desempeña “en Granada” en la oración “Luis vive en Granada”?",
+  "answers": [
+    {
+      "text": "complemento circunstancial de lugar",
+      "correct": true
+    },
+    {
+      "text": "determinante",
+      "correct": false
+    },
+    {
+      "text": "vocativo",
+      "correct": false
+    },
+    {
+      "text": "complemento directo",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Luis vive en Granada”, el segmento “en Granada” funciona como complemento circunstancial de lugar.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

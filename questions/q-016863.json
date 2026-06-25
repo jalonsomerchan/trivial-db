@@ -1,0 +1,42 @@
+{
+  "id": "q-016863",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué nombre está vinculado a “Final Fantasy” en videojuegos?",
+  "answers": [
+    {
+      "text": "Bungie",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": false
+    },
+    {
+      "text": "Hironobu Sakaguchi",
+      "correct": true
+    },
+    {
+      "text": "Will Wright",
+      "correct": false
+    }
+  ],
+  "explanation": "“Final Fantasy” se asocia con Hironobu Sakaguchi.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

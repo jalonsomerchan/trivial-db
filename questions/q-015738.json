@@ -1,0 +1,42 @@
+{
+  "id": "q-015738",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 360 g de amoníaco si su masa molar es 17 g/mol?",
+  "answers": [
+    {
+      "text": "22.176",
+      "correct": false
+    },
+    {
+      "text": "21.176",
+      "correct": true
+    },
+    {
+      "text": "10.588",
+      "correct": false
+    },
+    {
+      "text": "42.353",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 360/17, aproximadamente 21.176 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

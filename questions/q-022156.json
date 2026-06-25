@@ -1,0 +1,42 @@
+{
+  "id": "q-022156",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base culinaria se asocia con pizza napolitana?",
+  "answers": [
+    {
+      "text": "chiles y cacao",
+      "correct": false
+    },
+    {
+      "text": "patata",
+      "correct": false
+    },
+    {
+      "text": "masa de trigo",
+      "correct": true
+    },
+    {
+      "text": "pimentón",
+      "correct": false
+    }
+  ],
+  "explanation": "pizza napolitana se relaciona especialmente con masa de trigo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

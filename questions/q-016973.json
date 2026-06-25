@@ -1,0 +1,42 @@
+{
+  "id": "q-016973",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción completa correctamente “Dark Souls” y su creador?",
+  "answers": [
+    {
+      "text": "Markus Persson",
+      "correct": false
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    },
+    {
+      "text": "Ken Levine",
+      "correct": false
+    },
+    {
+      "text": "Hidetaka Miyazaki",
+      "correct": true
+    }
+  ],
+  "explanation": "“Dark Souls” se asocia con Hidetaka Miyazaki.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

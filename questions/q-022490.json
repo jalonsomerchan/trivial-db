@@ -1,0 +1,43 @@
+{
+  "id": "q-022490",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción triple encaja con tempura?",
+  "answers": [
+    {
+      "text": "tempura — España — arroz",
+      "correct": false
+    },
+    {
+      "text": "tempura — Oriente Medio — garbanzo o haba",
+      "correct": false
+    },
+    {
+      "text": "tempura — Argentina — carne",
+      "correct": false
+    },
+    {
+      "text": "tempura — Japón — rebozado ligero",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para tempura es Japón y rebozado ligero.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

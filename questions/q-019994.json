@@ -1,0 +1,42 @@
+{
+  "id": "q-019994",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar AND bit a bit entre 143 y 213?",
+  "answers": [
+    {
+      "text": "133",
+      "correct": true
+    },
+    {
+      "text": "100",
+      "correct": false
+    },
+    {
+      "text": "223",
+      "correct": false
+    },
+    {
+      "text": "90",
+      "correct": false
+    }
+  ],
+  "explanation": "El operador AND bit a bit conserva solo los bits que están activos en ambos números; 143 AND 213 = 133.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "operadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

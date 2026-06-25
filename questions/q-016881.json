@@ -1,0 +1,42 @@
+{
+  "id": "q-016881",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué creador elegirías para “Halo”?",
+  "answers": [
+    {
+      "text": "Ken Levine",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": true
+    },
+    {
+      "text": "Shigeru Miyamoto",
+      "correct": false
+    },
+    {
+      "text": "Markus Persson",
+      "correct": false
+    }
+  ],
+  "explanation": "“Halo” se asocia con Bungie.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

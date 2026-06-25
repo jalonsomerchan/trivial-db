@@ -1,0 +1,42 @@
+{
+  "id": "q-023012",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió Conferencia de Berlín sobre África?",
+  "answers": [
+    {
+      "text": "1894",
+      "correct": false
+    },
+    {
+      "text": "1883",
+      "correct": false
+    },
+    {
+      "text": "1884",
+      "correct": true
+    },
+    {
+      "text": "1885",
+      "correct": false
+    }
+  ],
+  "explanation": "Conferencia de berlín sobre áfrica ocurrió en 1884.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

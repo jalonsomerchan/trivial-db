@@ -1,0 +1,42 @@
+{
+  "id": "q-015142",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación obra-artista es correcta para “El matrimonio Arnolfini”?",
+  "answers": [
+    {
+      "text": "El matrimonio Arnolfini — Edward Hopper",
+      "correct": false
+    },
+    {
+      "text": "El matrimonio Arnolfini — Salvador Dalí",
+      "correct": false
+    },
+    {
+      "text": "El matrimonio Arnolfini — Jan van Eyck",
+      "correct": true
+    },
+    {
+      "text": "El matrimonio Arnolfini — Frida Kahlo",
+      "correct": false
+    }
+  ],
+  "explanation": "“El matrimonio Arnolfini” es una obra de Jan van Eyck.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015077",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué libro es relevante el personaje Winston Smith?",
+  "answers": [
+    {
+      "text": "Las uvas de la ira",
+      "correct": false
+    },
+    {
+      "text": "1984",
+      "correct": true
+    },
+    {
+      "text": "El retrato de Dorian Gray",
+      "correct": false
+    },
+    {
+      "text": "Lolita",
+      "correct": false
+    }
+  ],
+  "explanation": "Winston Smith es un personaje de “1984”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

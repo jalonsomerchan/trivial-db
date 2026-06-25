@@ -1,0 +1,42 @@
+{
+  "id": "q-022167",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué preparación describe mejor bibimbap?",
+  "answers": [
+    {
+      "text": "mezcla con vegetales",
+      "correct": true
+    },
+    {
+      "text": "plancha o fritura",
+      "correct": false
+    },
+    {
+      "text": "sopa",
+      "correct": false
+    },
+    {
+      "text": "horneado en capas",
+      "correct": false
+    }
+  ],
+  "explanation": "bibimbap se caracteriza por mezcla con vegetales.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024035",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 49 al cuadrado?",
+  "answers": [
+    {
+      "text": "2401",
+      "correct": true
+    },
+    {
+      "text": "2352",
+      "correct": false
+    },
+    {
+      "text": "98",
+      "correct": false
+    },
+    {
+      "text": "2450",
+      "correct": false
+    }
+  ],
+  "explanation": "Elevar 49 al cuadrado equivale a multiplicar 49 por sí mismo: 2401.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

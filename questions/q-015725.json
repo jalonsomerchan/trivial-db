@@ -1,0 +1,42 @@
+{
+  "id": "q-015725",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 120 g de cloruro de sodio si su masa molar es 58.5 g/mol?",
+  "answers": [
+    {
+      "text": "3.051",
+      "correct": false
+    },
+    {
+      "text": "2.051",
+      "correct": true
+    },
+    {
+      "text": "4.103",
+      "correct": false
+    },
+    {
+      "text": "1.026",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 120/58.5, aproximadamente 2.051 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

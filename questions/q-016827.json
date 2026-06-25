@@ -1,0 +1,42 @@
+{
+  "id": "q-016827",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué creador o estudio se asocia con “Portal”?",
+  "answers": [
+    {
+      "text": "Markus Persson",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": true
+    },
+    {
+      "text": "Sid Meier",
+      "correct": false
+    },
+    {
+      "text": "id Software",
+      "correct": false
+    }
+  ],
+  "explanation": "“Portal” se asocia con Valve.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017980",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Panamá, República Eslovaca, Islas Faroe, Georgia?",
+  "answers": [
+    {
+      "text": "República Eslovaca",
+      "correct": false
+    },
+    {
+      "text": "Islas Faroe",
+      "correct": false
+    },
+    {
+      "text": "Panamá",
+      "correct": true
+    },
+    {
+      "text": "Georgia",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Panamá es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

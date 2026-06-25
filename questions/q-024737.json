@@ -1,0 +1,42 @@
+{
+  "id": "q-024737",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuántas direcciones IPv4 utilizables si se reservan red y broadcast hay en una subred /28?",
+  "answers": [
+    {
+      "text": "16",
+      "correct": false
+    },
+    {
+      "text": "12",
+      "correct": false
+    },
+    {
+      "text": "28",
+      "correct": false
+    },
+    {
+      "text": "14",
+      "correct": true
+    }
+  ],
+  "explanation": "Una subred /28 contiene 16 direcciones; con esa condición el resultado es 14.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "ipv4",
+    "cidr"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

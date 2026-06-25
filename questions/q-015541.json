@@ -1,0 +1,42 @@
+{
+  "id": "q-015541",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "genetica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué descripción corresponde mejor a ARN mensajero?",
+  "answers": [
+    {
+      "text": "llevar información genética desde el ADN hasta los ribosomas",
+      "correct": true
+    },
+    {
+      "text": "formar microtúbulos",
+      "correct": false
+    },
+    {
+      "text": "destruir patógenos por fagocitosis",
+      "correct": false
+    },
+    {
+      "text": "almacenar calcio en huesos",
+      "correct": false
+    }
+  ],
+  "explanation": "Arn mensajero se asocia principalmente con llevar información genética desde el ADN hasta los ribosomas.",
+  "sources": [
+    {
+      "title": "OpenStax - Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "genetica",
+    "biologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018383",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Llegada de Colón a América” y “Concilio de Trento”?",
+  "answers": [
+    {
+      "text": "Llegada de Colón a América antes que Concilio de Trento",
+      "correct": true
+    },
+    {
+      "text": "Llegada de Colón a América después que Concilio de Trento",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Trento antes que Llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    }
+  ],
+  "explanation": "Llegada de Colón a América ocurrió antes que Concilio de Trento.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

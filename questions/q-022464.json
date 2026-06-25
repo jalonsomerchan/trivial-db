@@ -1,0 +1,43 @@
+{
+  "id": "q-022464",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien haggis con su origen y base?",
+  "answers": [
+    {
+      "text": "haggis — Italia — masa de trigo",
+      "correct": false
+    },
+    {
+      "text": "haggis — España — arroz",
+      "correct": false
+    },
+    {
+      "text": "haggis — Escocia — vísceras de cordero",
+      "correct": true
+    },
+    {
+      "text": "haggis — Argentina — carne",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para haggis es Escocia y vísceras de cordero.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

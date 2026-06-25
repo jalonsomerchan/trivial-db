@@ -1,0 +1,42 @@
+{
+  "id": "q-018608",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función sintáctica desempeña “azul” en la oración “Ese coche azul consume poco”?",
+  "answers": [
+    {
+      "text": "complemento agente",
+      "correct": false
+    },
+    {
+      "text": "adyacente o complemento del nombre",
+      "correct": true
+    },
+    {
+      "text": "complemento directo",
+      "correct": false
+    },
+    {
+      "text": "atributo verbal",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Ese coche azul consume poco”, el segmento “azul” funciona como adyacente o complemento del nombre.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

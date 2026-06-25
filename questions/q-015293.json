@@ -1,0 +1,42 @@
+{
+  "id": "q-015293",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación obra-compositor es correcta para “Rhapsody in Blue”?",
+  "answers": [
+    {
+      "text": "Rhapsody in Blue — Claude Debussy",
+      "correct": false
+    },
+    {
+      "text": "Rhapsody in Blue — George Gershwin",
+      "correct": true
+    },
+    {
+      "text": "Rhapsody in Blue — Ígor Stravinski",
+      "correct": false
+    },
+    {
+      "text": "Rhapsody in Blue — Antonio Vivaldi",
+      "correct": false
+    }
+  ],
+  "explanation": "“Rhapsody in Blue” es una obra de George Gershwin.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "compositores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

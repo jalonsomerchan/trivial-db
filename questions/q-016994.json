@@ -1,0 +1,42 @@
+{
+  "id": "q-016994",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación de entretenimiento interactivo es correcta para “The Sims”?",
+  "answers": [
+    {
+      "text": "Will Wright",
+      "correct": true
+    },
+    {
+      "text": "Hideo Kojima",
+      "correct": false
+    },
+    {
+      "text": "Valve",
+      "correct": false
+    },
+    {
+      "text": "Sid Meier",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Sims” se asocia con Will Wright.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015301",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación obra-compositor es correcta para “Cuadros de una exposición”?",
+  "answers": [
+    {
+      "text": "Cuadros de una exposición — Ludwig van Beethoven",
+      "correct": false
+    },
+    {
+      "text": "Cuadros de una exposición — Georges Bizet",
+      "correct": false
+    },
+    {
+      "text": "Cuadros de una exposición — Modest Músorgski",
+      "correct": true
+    },
+    {
+      "text": "Cuadros de una exposición — George Gershwin",
+      "correct": false
+    }
+  ],
+  "explanation": "“Cuadros de una exposición” es una obra de Modest Músorgski.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "compositores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

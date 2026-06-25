@@ -1,0 +1,42 @@
+{
+  "id": "q-021837",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: Parásitos (película), Super Mario Bros. (videojuego), Final Fantasy VII (videojuego) o The Last of Us (videojuego)?",
+  "answers": [
+    {
+      "text": "The Last of Us (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Parásitos (película)",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros. (videojuego)",
+      "correct": true
+    },
+    {
+      "text": "Final Fantasy VII (videojuego)",
+      "correct": false
+    }
+  ],
+  "explanation": "Super Mario Bros. (videojuego) es la opción correcta porque su fecha asociada es 1985.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

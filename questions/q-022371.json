@@ -1,0 +1,43 @@
+{
+  "id": "q-022371",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de origen e ingrediente corresponde a ropa vieja?",
+  "answers": [
+    {
+      "text": "ropa vieja — Hungría — pimentón",
+      "correct": false
+    },
+    {
+      "text": "ropa vieja — Japón — arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "ropa vieja — Cuba — carne deshebrada",
+      "correct": true
+    },
+    {
+      "text": "ropa vieja — Estados Unidos — almejas",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para ropa vieja es Cuba y carne deshebrada.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

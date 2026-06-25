@@ -1,0 +1,42 @@
+{
+  "id": "q-023755",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura retórica domina en “Hay un palacio y un río y un lago y un puente viejo”?",
+  "answers": [
+    {
+      "text": "sinécdoque",
+      "correct": false
+    },
+    {
+      "text": "polisíndeton",
+      "correct": true
+    },
+    {
+      "text": "metáfora",
+      "correct": false
+    },
+    {
+      "text": "comparación",
+      "correct": false
+    }
+  ],
+  "explanation": "“Hay un palacio y un río y un lago y un puente viejo” se clasifica como polisíndeton.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

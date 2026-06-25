@@ -1,0 +1,42 @@
+{
+  "id": "q-022596",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Riad?",
+  "answers": [
+    {
+      "text": "Bangladés",
+      "correct": false
+    },
+    {
+      "text": "Irak",
+      "correct": false
+    },
+    {
+      "text": "Arabia Saudí",
+      "correct": true
+    },
+    {
+      "text": "Filipinas",
+      "correct": false
+    }
+  ],
+  "explanation": "Riad es la capital de Arabia Saudí.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

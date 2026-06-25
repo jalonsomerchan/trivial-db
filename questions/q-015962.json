@@ -1,0 +1,42 @@
+{
+  "id": "q-015962",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 162 V y 0.75 A?",
+  "answers": [
+    {
+      "text": "216 W",
+      "correct": false
+    },
+    {
+      "text": "243 W",
+      "correct": false
+    },
+    {
+      "text": "162.75 W",
+      "correct": false
+    },
+    {
+      "text": "121.5 W",
+      "correct": true
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 162 × 0.75 = 121.5 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

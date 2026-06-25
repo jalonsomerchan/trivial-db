@@ -1,0 +1,42 @@
+{
+  "id": "q-018427",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Caída de Constantinopla” y “Crisis de los misiles de Cuba”?",
+  "answers": [
+    {
+      "text": "Caída de Constantinopla después que Crisis de los misiles de Cuba",
+      "correct": false
+    },
+    {
+      "text": "Crisis de los misiles de Cuba antes que Caída de Constantinopla",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Caída de Constantinopla antes que Crisis de los misiles de Cuba",
+      "correct": true
+    }
+  ],
+  "explanation": "Caída de Constantinopla ocurrió antes que Crisis de los misiles de Cuba.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018299",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Batalla de Maratón” y “Revolución francesa”?",
+  "answers": [
+    {
+      "text": "Batalla de Maratón antes que Revolución francesa",
+      "correct": true
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Revolución francesa antes que Batalla de Maratón",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Maratón después que Revolución francesa",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de Maratón ocurrió antes que Revolución francesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

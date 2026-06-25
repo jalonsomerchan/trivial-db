@@ -1,0 +1,42 @@
+{
+  "id": "q-024154",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué valor de x satisface la ecuación 8x - 6 = -54?",
+  "answers": [
+    {
+      "text": "-5",
+      "correct": false
+    },
+    {
+      "text": "6",
+      "correct": false
+    },
+    {
+      "text": "-7",
+      "correct": false
+    },
+    {
+      "text": "-6",
+      "correct": true
+    }
+  ],
+  "explanation": "Al despejar, 8x = -48, por lo que x = -6.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

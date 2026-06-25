@@ -1,0 +1,42 @@
+{
+  "id": "q-022654",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Tanzania?",
+  "answers": [
+    {
+      "text": "kwanza",
+      "correct": false
+    },
+    {
+      "text": "chelín tanzano",
+      "correct": true
+    },
+    {
+      "text": "cedi",
+      "correct": false
+    },
+    {
+      "text": "dinar tunecino",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Tanzania es chelín tanzano.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "africa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

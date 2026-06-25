@@ -1,0 +1,42 @@
+{
+  "id": "q-017150",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué combinación es típica de nam prik?",
+  "answers": [
+    {
+      "text": "fondo claro ligado con roux",
+      "correct": false
+    },
+    {
+      "text": "chile machacado con otros condimentos",
+      "correct": true
+    },
+    {
+      "text": "ñora, tomate, frutos secos y aceite",
+      "correct": false
+    },
+    {
+      "text": "pasta de sésamo",
+      "correct": false
+    }
+  ],
+  "explanation": "nam prik se caracteriza por chile machacado con otros condimentos.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

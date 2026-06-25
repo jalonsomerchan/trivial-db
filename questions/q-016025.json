@@ -1,0 +1,42 @@
+{
+  "id": "q-016025",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué disciplina pertenece el término “hat-trick”?",
+  "answers": [
+    {
+      "text": "judo",
+      "correct": false
+    },
+    {
+      "text": "esquí alpino",
+      "correct": false
+    },
+    {
+      "text": "fútbol",
+      "correct": true
+    },
+    {
+      "text": "remo",
+      "correct": false
+    }
+  ],
+  "explanation": "“hat-trick” es un término asociado al fútbol.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "terminologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

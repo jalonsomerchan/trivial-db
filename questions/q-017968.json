@@ -1,0 +1,42 @@
+{
+  "id": "q-017968",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Sudán del Sur, Uganda, Malawi, Namibia?",
+  "answers": [
+    {
+      "text": "Uganda",
+      "correct": false
+    },
+    {
+      "text": "Namibia",
+      "correct": true
+    },
+    {
+      "text": "Malawi",
+      "correct": false
+    },
+    {
+      "text": "Sudán del Sur",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Namibia es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

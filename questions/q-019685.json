@@ -1,0 +1,42 @@
+{
+  "id": "q-019685",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el código hexadecimal del color RGB(208, 230, 156)?",
+  "answers": [
+    {
+      "text": "#D09CE6",
+      "correct": false
+    },
+    {
+      "text": "#D0E69C",
+      "correct": true
+    },
+    {
+      "text": "#9CE6D0",
+      "correct": false
+    },
+    {
+      "text": "#E6D09C",
+      "correct": false
+    }
+  ],
+  "explanation": "Cada componente RGB se convierte a dos dígitos hexadecimales: D0, E6 y 9C.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "colores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

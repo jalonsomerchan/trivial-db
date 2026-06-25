@@ -1,0 +1,42 @@
+{
+  "id": "q-021627",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o autor corresponde a “Space Invaders”?",
+  "answers": [
+    {
+      "text": "Nintendo",
+      "correct": false
+    },
+    {
+      "text": "Epic Games",
+      "correct": false
+    },
+    {
+      "text": "Taito",
+      "correct": true
+    },
+    {
+      "text": "Maxis",
+      "correct": false
+    }
+  ],
+  "explanation": "“Space Invaders” se asocia con Taito.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

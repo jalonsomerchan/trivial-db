@@ -1,0 +1,42 @@
+{
+  "id": "q-018394",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Concilio de Nicea” y “Batalla de Lepanto”?",
+  "answers": [
+    {
+      "text": "Concilio de Nicea después que Batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Lepanto antes que Concilio de Nicea",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Nicea antes que Batalla de Lepanto",
+      "correct": true
+    }
+  ],
+  "explanation": "Concilio de Nicea ocurrió antes que Batalla de Lepanto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

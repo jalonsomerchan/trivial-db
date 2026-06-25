@@ -1,0 +1,42 @@
+{
+  "id": "q-023180",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1950?",
+  "answers": [
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": false
+    },
+    {
+      "text": "llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": true
+    },
+    {
+      "text": "coronación de Carlomagno",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1950 se asocia con inicio de la Guerra de Corea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

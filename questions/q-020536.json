@@ -1,0 +1,42 @@
+{
+  "id": "q-020536",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué nombre recibe el elemento de símbolo H?",
+  "answers": [
+    {
+      "text": "plata",
+      "correct": false
+    },
+    {
+      "text": "berilio",
+      "correct": false
+    },
+    {
+      "text": "hidrógeno",
+      "correct": true
+    },
+    {
+      "text": "litio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico H corresponde al hidrógeno.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "simbolos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016771",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué lugar se ambienta principalmente “The Sopranos”?",
+  "answers": [
+    {
+      "text": "Cleveland",
+      "correct": false
+    },
+    {
+      "text": "Filadelfia",
+      "correct": false
+    },
+    {
+      "text": "Detroit",
+      "correct": false
+    },
+    {
+      "text": "Nueva Jersey",
+      "correct": true
+    }
+  ],
+  "explanation": "“The Sopranos” se ambienta principalmente en Nueva Jersey.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "television"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

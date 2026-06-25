@@ -1,0 +1,42 @@
+{
+  "id": "q-022677",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con México?",
+  "answers": [
+    {
+      "text": "colón costarricense",
+      "correct": false
+    },
+    {
+      "text": "sol",
+      "correct": false
+    },
+    {
+      "text": "peso mexicano",
+      "correct": true
+    },
+    {
+      "text": "dólar canadiense",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para México es peso mexicano.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

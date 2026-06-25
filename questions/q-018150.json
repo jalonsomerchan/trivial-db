@@ -1,0 +1,42 @@
+{
+  "id": "q-018150",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál fue el significado histórico de la Comuna de París?",
+  "answers": [
+    {
+      "text": "revolución de esclavos que condujo a la independencia de Haití",
+      "correct": false
+    },
+    {
+      "text": "encuentro clave del movimiento afroasiático y no alineado",
+      "correct": false
+    },
+    {
+      "text": "gobierno revolucionario breve tras la guerra franco-prusiana",
+      "correct": true
+    },
+    {
+      "text": "campaña de desobediencia civil liderada por Gandhi",
+      "correct": false
+    }
+  ],
+  "explanation": "La Comuna de París se relaciona con gobierno revolucionario breve tras la guerra franco-prusiana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "comuna-de-paris"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

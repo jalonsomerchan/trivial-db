@@ -1,0 +1,42 @@
+{
+  "id": "q-023450",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: unificación alemana, Revolución rusa, fundación de la ONU o tratados de Roma de la CEE?",
+  "answers": [
+    {
+      "text": "Revolución rusa",
+      "correct": false
+    },
+    {
+      "text": "fundación de la ONU",
+      "correct": false
+    },
+    {
+      "text": "tratados de Roma de la CEE",
+      "correct": true
+    },
+    {
+      "text": "unificación alemana",
+      "correct": false
+    }
+  ],
+  "explanation": "tratados de Roma de la CEE es la opción correcta porque su fecha asociada es 1957.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

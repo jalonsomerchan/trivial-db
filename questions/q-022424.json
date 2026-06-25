@@ -1,0 +1,43 @@
+{
+  "id": "q-022424",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para clam chowder?",
+  "answers": [
+    {
+      "text": "clam chowder — Japón — arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "clam chowder — Levante mediterráneo — garbanzo",
+      "correct": false
+    },
+    {
+      "text": "clam chowder — Estados Unidos — almejas",
+      "correct": true
+    },
+    {
+      "text": "clam chowder — Vietnam — pan",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para clam chowder es Estados Unidos y almejas.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

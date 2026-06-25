@@ -1,0 +1,42 @@
+{
+  "id": "q-023853",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso estilístico aparece en “Volverán las oscuras golondrinas”?",
+  "answers": [
+    {
+      "text": "hipérbaton",
+      "correct": true
+    },
+    {
+      "text": "polisíndeton",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": false
+    }
+  ],
+  "explanation": "“Volverán las oscuras golondrinas” se clasifica como hipérbaton.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

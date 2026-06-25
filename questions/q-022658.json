@@ -1,0 +1,42 @@
+{
+  "id": "q-022658",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Japón?",
+  "answers": [
+    {
+      "text": "yuan",
+      "correct": false
+    },
+    {
+      "text": "dinar iraquí",
+      "correct": false
+    },
+    {
+      "text": "rial iraní",
+      "correct": false
+    },
+    {
+      "text": "yen",
+      "correct": true
+    }
+  ],
+  "explanation": "La moneda indicada para Japón es yen.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

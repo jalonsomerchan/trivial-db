@@ -1,0 +1,42 @@
+{
+  "id": "q-016945",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué referencia creativa corresponde a “Tetris”?",
+  "answers": [
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": true
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    },
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "Will Wright",
+      "correct": false
+    }
+  ],
+  "explanation": "“Tetris” se asocia con Alekséi Pázhitnov.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

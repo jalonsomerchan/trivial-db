@@ -1,0 +1,42 @@
+{
+  "id": "q-017821",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con Tanzania?",
+  "answers": [
+    {
+      "text": "Mozambique",
+      "correct": false
+    },
+    {
+      "text": "Congo (Rep. Dem.)",
+      "correct": false
+    },
+    {
+      "text": "Malawi",
+      "correct": false
+    },
+    {
+      "text": "Eritrea",
+      "correct": true
+    }
+  ],
+  "explanation": "Eritrea no figura entre los países que comparten frontera terrestre con Tanzania, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

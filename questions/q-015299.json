@@ -1,0 +1,42 @@
+{
+  "id": "q-015299",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación obra-compositor es correcta para “Música para los reales fuegos artificiales”?",
+  "answers": [
+    {
+      "text": "Música para los reales fuegos artificiales — Maurice Ravel",
+      "correct": false
+    },
+    {
+      "text": "Música para los reales fuegos artificiales — Ígor Stravinski",
+      "correct": false
+    },
+    {
+      "text": "Música para los reales fuegos artificiales — Richard Wagner",
+      "correct": false
+    },
+    {
+      "text": "Música para los reales fuegos artificiales — Georg Friedrich Händel",
+      "correct": true
+    }
+  ],
+  "explanation": "“Música para los reales fuegos artificiales” es una obra de Georg Friedrich Händel.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "compositores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

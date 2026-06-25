@@ -1,0 +1,42 @@
+{
+  "id": "q-016539",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué título se relaciona con el personaje Rick Deckard?",
+  "answers": [
+    {
+      "text": "Alien",
+      "correct": false
+    },
+    {
+      "text": "Robocop",
+      "correct": false
+    },
+    {
+      "text": "Blade Runner",
+      "correct": true
+    },
+    {
+      "text": "Matrix",
+      "correct": false
+    }
+  ],
+  "explanation": "Rick Deckard es un personaje asociado a “Blade Runner”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

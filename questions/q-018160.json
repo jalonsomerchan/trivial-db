@@ -1,0 +1,42 @@
+{
+  "id": "q-018160",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál fue el significado histórico de la Caída del Muro de Berlín?",
+  "answers": [
+    {
+      "text": "campaña de desobediencia civil liderada por Gandhi",
+      "correct": false
+    },
+    {
+      "text": "apertura simbólica que aceleró la reunificación alemana",
+      "correct": true
+    },
+    {
+      "text": "base para la paz entre Egipto e Israel",
+      "correct": false
+    },
+    {
+      "text": "intento de liberalización reprimido por el Pacto de Varsovia",
+      "correct": false
+    }
+  ],
+  "explanation": "La Caída del Muro de Berlín se relaciona con apertura simbólica que aceleró la reunificación alemana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "caida-del-muro-de-berlin"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

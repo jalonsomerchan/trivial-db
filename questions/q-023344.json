@@ -1,0 +1,42 @@
+{
+  "id": "q-023344",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: caída del Imperio romano de Occidente, llegada de Colón a América, inicio de la Guerra de los Treinta Años o coronación de Napoleón como emperador?",
+  "answers": [
+    {
+      "text": "coronación de Napoleón como emperador",
+      "correct": false
+    },
+    {
+      "text": "llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Guerra de los Treinta Años",
+      "correct": false
+    }
+  ],
+  "explanation": "caída del Imperio romano de Occidente es la opción correcta porque su fecha asociada es 476.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023212",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué suceso histórico corresponde a 1789?",
+  "answers": [
+    {
+      "text": "ampliación de la Unión Europea hacia el este",
+      "correct": false
+    },
+    {
+      "text": "fin del apartheid con elecciones multirraciales en Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Revolución francesa",
+      "correct": true
+    },
+    {
+      "text": "batalla de Waterloo",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1789 se asocia con inicio de la Revolución francesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015476",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué sensibilidad estética se relaciona con el fauvismo?",
+  "answers": [
+    {
+      "text": "reducción formal y austeridad de medios",
+      "correct": false
+    },
+    {
+      "text": "geometría y función social del arte",
+      "correct": false
+    },
+    {
+      "text": "representación de la vida cotidiana sin idealización",
+      "correct": false
+    },
+    {
+      "text": "color intenso y libertad expresiva",
+      "correct": true
+    }
+  ],
+  "explanation": "El fauvismo se reconoce por color intenso y libertad expresiva.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

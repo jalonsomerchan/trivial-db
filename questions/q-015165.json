@@ -1,0 +1,42 @@
+{
+  "id": "q-015165",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación obra-museo es correcta para “La ronda de noche”?",
+  "answers": [
+    {
+      "text": "La ronda de noche — Museo del Prado",
+      "correct": false
+    },
+    {
+      "text": "La ronda de noche — Mauritshuis",
+      "correct": false
+    },
+    {
+      "text": "La ronda de noche — Rijksmuseum",
+      "correct": true
+    },
+    {
+      "text": "La ronda de noche — Kunsthalle de Hamburgo",
+      "correct": false
+    }
+  ],
+  "explanation": "“La ronda de noche” se conserva habitualmente en Rijksmuseum.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

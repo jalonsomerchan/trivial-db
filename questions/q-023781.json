@@ -1,0 +1,42 @@
+{
+  "id": "q-023781",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso expresivo se observa en “La blanca nieve de sus cabellos”?",
+  "answers": [
+    {
+      "text": "polisíndeton",
+      "correct": false
+    },
+    {
+      "text": "aliteración",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": true
+    },
+    {
+      "text": "oxímoron",
+      "correct": false
+    }
+  ],
+  "explanation": "“La blanca nieve de sus cabellos” se clasifica como metáfora.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

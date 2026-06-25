@@ -1,0 +1,42 @@
+{
+  "id": "q-019019",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 20% de 100?",
+  "answers": [
+    {
+      "text": "30",
+      "correct": false
+    },
+    {
+      "text": "25",
+      "correct": false
+    },
+    {
+      "text": "15",
+      "correct": false
+    },
+    {
+      "text": "20",
+      "correct": true
+    }
+  ],
+  "explanation": "El 20% de 100 se calcula multiplicando 100 por 20/100, lo que da 20.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

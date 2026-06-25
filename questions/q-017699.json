@@ -1,0 +1,42 @@
+{
+  "id": "q-017699",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Tayikistán?",
+  "answers": [
+    {
+      "text": "Corea del Sur",
+      "correct": false
+    },
+    {
+      "text": "Kirguizistán",
+      "correct": true
+    },
+    {
+      "text": "Emiratos Árabes Unidos",
+      "correct": false
+    },
+    {
+      "text": "Tailandia",
+      "correct": false
+    }
+  ],
+  "explanation": "Kirguizistán comparte frontera terrestre con Tayikistán.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

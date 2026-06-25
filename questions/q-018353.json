@@ -1,0 +1,42 @@
+{
+  "id": "q-018353",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Coronación de Carlomagno” y “Unificación alemana”?",
+  "answers": [
+    {
+      "text": "Coronación de Carlomagno antes que Unificación alemana",
+      "correct": true
+    },
+    {
+      "text": "Coronación de Carlomagno después que Unificación alemana",
+      "correct": false
+    },
+    {
+      "text": "Unificación alemana antes que Coronación de Carlomagno",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    }
+  ],
+  "explanation": "Coronación de Carlomagno ocurrió antes que Unificación alemana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

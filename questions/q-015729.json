@@ -1,0 +1,42 @@
+{
+  "id": "q-015729",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 36 g de amoníaco si su masa molar es 17 g/mol?",
+  "answers": [
+    {
+      "text": "3.118",
+      "correct": false
+    },
+    {
+      "text": "4.235",
+      "correct": false
+    },
+    {
+      "text": "2.118",
+      "correct": true
+    },
+    {
+      "text": "1.059",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 36/17, aproximadamente 2.118 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023967",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura predomina en “El reloj nos grita que es tarde”?",
+  "answers": [
+    {
+      "text": "personificación",
+      "correct": true
+    },
+    {
+      "text": "asíndeton",
+      "correct": false
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "ironía",
+      "correct": false
+    }
+  ],
+  "explanation": "“El reloj nos grita que es tarde” se clasifica como personificación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

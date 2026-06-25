@@ -1,0 +1,42 @@
+{
+  "id": "q-017052",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué se hace al “blanquear” un alimento?",
+  "answers": [
+    {
+      "text": "cocinar al vacío durante horas",
+      "correct": false
+    },
+    {
+      "text": "cocer brevemente y enfriar rápido",
+      "correct": true
+    },
+    {
+      "text": "asar directamente sobre brasas",
+      "correct": false
+    },
+    {
+      "text": "fermentar con levaduras",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, “blanquear” significa cocer brevemente y enfriar rápido.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "cocina"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

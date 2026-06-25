@@ -1,0 +1,42 @@
+{
+  "id": "q-017553",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el prefijo telefónico internacional de Argentina?",
+  "answers": [
+    {
+      "text": "+501",
+      "correct": false
+    },
+    {
+      "text": "+227",
+      "correct": false
+    },
+    {
+      "text": "+54",
+      "correct": true
+    },
+    {
+      "text": "+886",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Argentina es +54.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

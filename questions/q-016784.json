@@ -1,0 +1,42 @@
+{
+  "id": "q-016784",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación serie-lugar es correcta para “The Sopranos”?",
+  "answers": [
+    {
+      "text": "The Sopranos — Minnesota y Dakota del Norte",
+      "correct": false
+    },
+    {
+      "text": "The Sopranos — Nueva Jersey",
+      "correct": true
+    },
+    {
+      "text": "The Sopranos — una isla del Pacífico",
+      "correct": false
+    },
+    {
+      "text": "The Sopranos — Albuquerque",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Sopranos” se ambienta principalmente en Nueva Jersey.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "television"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

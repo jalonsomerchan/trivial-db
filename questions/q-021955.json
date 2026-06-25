@@ -1,0 +1,42 @@
+{
+  "id": "q-021955",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Ciudadano Kane (película), Tiburón (película), Regreso al futuro (película) o Matrix (película)?",
+  "answers": [
+    {
+      "text": "Matrix (película)",
+      "correct": true
+    },
+    {
+      "text": "Regreso al futuro (película)",
+      "correct": false
+    },
+    {
+      "text": "Ciudadano Kane (película)",
+      "correct": false
+    },
+    {
+      "text": "Tiburón (película)",
+      "correct": false
+    }
+  ],
+  "explanation": "Matrix (película) es la opción correcta porque su fecha asociada es 1999.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

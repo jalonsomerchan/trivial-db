@@ -1,0 +1,42 @@
+{
+  "id": "q-015207",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué museo se asocia con la conservación de “La libertad guiando al pueblo”?",
+  "answers": [
+    {
+      "text": "Museo Guggenheim de Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Art Institute of Chicago",
+      "correct": false
+    },
+    {
+      "text": "MoMA",
+      "correct": false
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": true
+    }
+  ],
+  "explanation": "“La libertad guiando al pueblo” se asocia con Museo del Louvre.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-021195",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué enunciado deportivo encaja con bádminton?",
+  "answers": [
+    {
+      "text": "juegos habitualmente a 21 puntos",
+      "correct": true
+    },
+    {
+      "text": "siete jugadores por equipo en el agua",
+      "correct": false
+    },
+    {
+      "text": "las piedras se deslizan hacia una diana",
+      "correct": false
+    },
+    {
+      "text": "quince jugadores por equipo",
+      "correct": false
+    }
+  ],
+  "explanation": "La descripción correcta para bádminton es: juegos habitualmente a 21 puntos.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "deporte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

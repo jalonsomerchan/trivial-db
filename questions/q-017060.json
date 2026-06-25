@@ -1,0 +1,42 @@
+{
+  "id": "q-017060",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué se hace al “gratinar” un alimento?",
+  "answers": [
+    {
+      "text": "fermentar con bacterias lácticas",
+      "correct": false
+    },
+    {
+      "text": "dorar la superficie con calor intenso",
+      "correct": true
+    },
+    {
+      "text": "hidratar legumbres secas",
+      "correct": false
+    },
+    {
+      "text": "cocer en agua a baja temperatura",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, “gratinar” significa dorar la superficie con calor intenso.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "cocina"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

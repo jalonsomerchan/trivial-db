@@ -1,0 +1,43 @@
+{
+  "id": "q-022431",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien pizza napolitana con su origen y base?",
+  "answers": [
+    {
+      "text": "pizza napolitana — Italia — masa de trigo",
+      "correct": true
+    },
+    {
+      "text": "pizza napolitana — Tailandia — caldo especiado",
+      "correct": false
+    },
+    {
+      "text": "pizza napolitana — Etiopía — teff",
+      "correct": false
+    },
+    {
+      "text": "pizza napolitana — Estados Unidos — almejas",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para pizza napolitana es Italia y masa de trigo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018984",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cómo se analiza “La noche clara de tu ausencia” desde la gramática o la retórica?",
+  "answers": [
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "subordinada de relativo",
+      "correct": false
+    },
+    {
+      "text": "anáfora",
+      "correct": false
+    },
+    {
+      "text": "antítesis",
+      "correct": true
+    }
+  ],
+  "explanation": "“La noche clara de tu ausencia” se clasifica como antítesis.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

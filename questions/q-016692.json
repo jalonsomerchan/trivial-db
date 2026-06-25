@@ -1,0 +1,42 @@
+{
+  "id": "q-016692",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué videojuego hizo reconocible a “Los Santos”?",
+  "answers": [
+    {
+      "text": "BioShock",
+      "correct": false
+    },
+    {
+      "text": "The Elder Scrolls V: Skyrim",
+      "correct": false
+    },
+    {
+      "text": "Dishonored",
+      "correct": false
+    },
+    {
+      "text": "Grand Theft Auto V",
+      "correct": true
+    }
+  ],
+  "explanation": "“Los Santos” aparece en Grand Theft Auto V.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

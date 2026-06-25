@@ -1,0 +1,42 @@
+{
+  "id": "q-021527",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué director se asocia con “El mago de Oz”?",
+  "answers": [
+    {
+      "text": "Quentin Tarantino",
+      "correct": false
+    },
+    {
+      "text": "Victor Fleming",
+      "correct": true
+    },
+    {
+      "text": "Andrew Stanton",
+      "correct": false
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": false
+    }
+  ],
+  "explanation": "“El mago de Oz” fue dirigida por Victor Fleming.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017996",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Mozambique, Estonia, Libia, Antigua y Barbuda?",
+  "answers": [
+    {
+      "text": "Estonia",
+      "correct": false
+    },
+    {
+      "text": "Mozambique",
+      "correct": false
+    },
+    {
+      "text": "Libia",
+      "correct": true
+    },
+    {
+      "text": "Antigua y Barbuda",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Libia es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

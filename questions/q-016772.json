@@ -1,0 +1,42 @@
+{
+  "id": "q-016772",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué lugar se ambienta principalmente “Stranger Things”?",
+  "answers": [
+    {
+      "text": "Sunnydale",
+      "correct": false
+    },
+    {
+      "text": "Springfield",
+      "correct": false
+    },
+    {
+      "text": "Twin Peaks",
+      "correct": false
+    },
+    {
+      "text": "Hawkins",
+      "correct": true
+    }
+  ],
+  "explanation": "“Stranger Things” se ambienta principalmente en Hawkins.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "television"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

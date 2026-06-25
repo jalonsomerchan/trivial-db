@@ -1,0 +1,42 @@
+{
+  "id": "q-017273",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción gastronómica corresponde a Parmigiano Reggiano?",
+  "answers": [
+    {
+      "text": "queso italiano duro y curado",
+      "correct": true
+    },
+    {
+      "text": "queso suizo usado habitualmente en fondue",
+      "correct": false
+    },
+    {
+      "text": "queso neerlandés de pasta prensada",
+      "correct": false
+    },
+    {
+      "text": "queso francés de leche de vaca del Jura",
+      "correct": false
+    }
+  ],
+  "explanation": "Parmigiano Reggiano se describe como queso italiano duro y curado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

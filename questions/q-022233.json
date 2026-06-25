@@ -1,0 +1,43 @@
+{
+  "id": "q-022233",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación plato-origen-ingrediente es correcta para ratatouille?",
+  "answers": [
+    {
+      "text": "ratatouille — España — arroz",
+      "correct": false
+    },
+    {
+      "text": "ratatouille — Escocia — vísceras de cordero",
+      "correct": false
+    },
+    {
+      "text": "ratatouille — Francia — verduras",
+      "correct": true
+    },
+    {
+      "text": "ratatouille — Canadá — patatas fritas",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para ratatouille es Francia y verduras.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

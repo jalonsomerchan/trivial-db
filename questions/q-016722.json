@@ -1,0 +1,42 @@
+{
+  "id": "q-016722",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué franquicia contiene “Los Santos”?",
+  "answers": [
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Super Mario",
+      "correct": false
+    },
+    {
+      "text": "Grand Theft Auto V",
+      "correct": true
+    },
+    {
+      "text": "Bloodborne",
+      "correct": false
+    }
+  ],
+  "explanation": "“Los Santos” aparece en Grand Theft Auto V.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018403",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Coronación de Carlomagno” y “Caída del Muro de Berlín”?",
+  "answers": [
+    {
+      "text": "Coronación de Carlomagno después que Caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Coronación de Carlomagno antes que Caída del Muro de Berlín",
+      "correct": true
+    },
+    {
+      "text": "Caída del Muro de Berlín antes que Coronación de Carlomagno",
+      "correct": false
+    }
+  ],
+  "explanation": "Coronación de Carlomagno ocurrió antes que Caída del Muro de Berlín.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

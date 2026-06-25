@@ -1,0 +1,42 @@
+{
+  "id": "q-019251",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "sucesiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el término 8 de una progresión geométrica con primer término 14 y razón 5?",
+  "answers": [
+    {
+      "text": "560",
+      "correct": false
+    },
+    {
+      "text": "218750",
+      "correct": false
+    },
+    {
+      "text": "1093750",
+      "correct": true
+    },
+    {
+      "text": "5468750",
+      "correct": false
+    }
+  ],
+  "explanation": "En una progresión geométrica, aₙ = a₁·r^(n-1); el término 8 vale 1093750.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "progresiones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

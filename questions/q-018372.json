@@ -1,0 +1,42 @@
+{
+  "id": "q-018372",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Unificación italiana” y “Disolución de la URSS”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Disolución de la URSS antes que Unificación italiana",
+      "correct": false
+    },
+    {
+      "text": "Unificación italiana antes que Disolución de la URSS",
+      "correct": true
+    },
+    {
+      "text": "Unificación italiana después que Disolución de la URSS",
+      "correct": false
+    }
+  ],
+  "explanation": "Unificación italiana ocurrió antes que Disolución de la URSS.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

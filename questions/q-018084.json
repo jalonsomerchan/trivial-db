@@ -1,0 +1,42 @@
+{
+  "id": "q-018084",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tema histórico corresponde al Tratado de Lisboa?",
+  "answers": [
+    {
+      "text": "fundación del Imperio carolingio",
+      "correct": false
+    },
+    {
+      "text": "independencia de México",
+      "correct": false
+    },
+    {
+      "text": "reforma institucional de la Unión Europea",
+      "correct": true
+    },
+    {
+      "text": "fin de la guerra de los Treinta Años",
+      "correct": false
+    }
+  ],
+  "explanation": "El Tratado de Lisboa, firmado en 2007, se vincula con reforma institucional de la Unión Europea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "tratados",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

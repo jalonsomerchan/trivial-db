@@ -1,0 +1,42 @@
+{
+  "id": "q-015930",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 138 V y 0.75 A?",
+  "answers": [
+    {
+      "text": "138.75 W",
+      "correct": false
+    },
+    {
+      "text": "103.5 W",
+      "correct": true
+    },
+    {
+      "text": "207 W",
+      "correct": false
+    },
+    {
+      "text": "184 W",
+      "correct": false
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 138 × 0.75 = 103.5 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

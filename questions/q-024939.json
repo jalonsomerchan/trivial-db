@@ -1,0 +1,42 @@
+{
+  "id": "q-024939",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 87 OR 166 a nivel de bits?",
+  "answers": [
+    {
+      "text": "253",
+      "correct": false
+    },
+    {
+      "text": "247",
+      "correct": true
+    },
+    {
+      "text": "246",
+      "correct": false
+    },
+    {
+      "text": "241",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 87 y 166, el resultado decimal es 247.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

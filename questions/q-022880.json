@@ -1,0 +1,42 @@
+{
+  "id": "q-022880",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación geográfica y monetaria identifica a Fiyi?",
+  "answers": [
+    {
+      "text": "Fiyi — Apia — tala",
+      "correct": false
+    },
+    {
+      "text": "Fiyi — Puerto Moresby — kina",
+      "correct": false
+    },
+    {
+      "text": "Fiyi — Suva — dólar fiyiano",
+      "correct": true
+    },
+    {
+      "text": "Fiyi — Wellington — dólar neozelandés",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta es Fiyi — Suva — dólar fiyiano.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

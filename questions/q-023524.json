@@ -1,0 +1,42 @@
+{
+  "id": "q-023524",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se clasifica “pájaro” por su acentuación?",
+  "answers": [
+    {
+      "text": "llana",
+      "correct": false
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    },
+    {
+      "text": "esdrújula",
+      "correct": true
+    }
+  ],
+  "explanation": "“pájaro” es una palabra esdrújula según su acentuación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "esdrujula"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

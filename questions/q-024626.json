@@ -1,0 +1,42 @@
+{
+  "id": "q-024626",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sistemas-numericos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la notación hexadecimal del número decimal 138?",
+  "answers": [
+    {
+      "text": "0x8B",
+      "correct": false
+    },
+    {
+      "text": "0x114",
+      "correct": false
+    },
+    {
+      "text": "0x8A",
+      "correct": true
+    },
+    {
+      "text": "0x89",
+      "correct": false
+    }
+  ],
+  "explanation": "Al convertir 138 a base 16 se obtiene 0x8A.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "hexadecimal",
+    "conversion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

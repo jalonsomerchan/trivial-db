@@ -1,0 +1,42 @@
+{
+  "id": "q-019625",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código HTTP corresponde a la respuesta “Service Unavailable”?",
+  "answers": [
+    {
+      "text": "500",
+      "correct": false
+    },
+    {
+      "text": "302",
+      "correct": false
+    },
+    {
+      "text": "409",
+      "correct": false
+    },
+    {
+      "text": "503",
+      "correct": true
+    }
+  ],
+  "explanation": "El código HTTP 503 corresponde a la respuesta “Service Unavailable”.",
+  "sources": [
+    {
+      "title": "IANA Protocol Registries",
+      "url": "https://www.iana.org/protocols"
+    }
+  ],
+  "tags": [
+    "http",
+    "web"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

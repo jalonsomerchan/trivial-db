@@ -1,0 +1,42 @@
+{
+  "id": "q-017948",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Tuvalu, Grenada, Nauru, Ruanda?",
+  "answers": [
+    {
+      "text": "Ruanda",
+      "correct": true
+    },
+    {
+      "text": "Nauru",
+      "correct": false
+    },
+    {
+      "text": "Tuvalu",
+      "correct": false
+    },
+    {
+      "text": "Grenada",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Ruanda es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

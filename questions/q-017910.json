@@ -1,0 +1,42 @@
+{
+  "id": "q-017910",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre El Salvador, Irak, Guatemala, Haiti?",
+  "answers": [
+    {
+      "text": "Haiti",
+      "correct": false
+    },
+    {
+      "text": "Guatemala",
+      "correct": false
+    },
+    {
+      "text": "Irak",
+      "correct": true
+    },
+    {
+      "text": "El Salvador",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Irak es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

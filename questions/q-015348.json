@@ -1,0 +1,42 @@
+{
+  "id": "q-015348",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción encaja mejor con el fauvismo como movimiento artístico?",
+  "answers": [
+    {
+      "text": "color intenso y libertad expresiva",
+      "correct": true
+    },
+    {
+      "text": "gesto pictórico y abstracción de gran formato",
+      "correct": false
+    },
+    {
+      "text": "velocidad, máquina y dinamismo moderno",
+      "correct": false
+    },
+    {
+      "text": "geometría y función social del arte",
+      "correct": false
+    }
+  ],
+  "explanation": "El fauvismo se reconoce por color intenso y libertad expresiva.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

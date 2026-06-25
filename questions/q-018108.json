@@ -1,0 +1,42 @@
+{
+  "id": "q-018108",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos-xix-xx"
+  ],
+  "difficulty": "medium",
+  "question": "¿Dónde tuvo lugar o se celebró principalmente la Domingo Sangriento ruso?",
+  "answers": [
+    {
+      "text": "Noruega",
+      "correct": false
+    },
+    {
+      "text": "San Petersburgo",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Egipto",
+      "correct": false
+    }
+  ],
+  "explanation": "La Domingo Sangriento ruso se asocia principalmente con San Petersburgo en 1905.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "domingo-sangriento-ruso"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

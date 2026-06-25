@@ -1,0 +1,42 @@
+{
+  "id": "q-016664",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué título relacionarías con el escenario “Mushroom Kingdom”?",
+  "answers": [
+    {
+      "text": "Grand Theft Auto V",
+      "correct": false
+    },
+    {
+      "text": "Half-Life 2",
+      "correct": false
+    },
+    {
+      "text": "Super Mario",
+      "correct": true
+    },
+    {
+      "text": "Dishonored",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mushroom Kingdom” aparece en Super Mario.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

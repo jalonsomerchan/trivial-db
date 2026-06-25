@@ -1,0 +1,42 @@
+{
+  "id": "q-019766",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar AND bit a bit entre 26 y 57?",
+  "answers": [
+    {
+      "text": "83",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": true
+    },
+    {
+      "text": "35",
+      "correct": false
+    },
+    {
+      "text": "59",
+      "correct": false
+    }
+  ],
+  "explanation": "El operador AND bit a bit conserva solo los bits que están activos en ambos números; 26 AND 57 = 24.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "operadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

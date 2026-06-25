@@ -1,0 +1,42 @@
+{
+  "id": "q-016200",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué afirmación es correcta sobre tenis de mesa?",
+  "answers": [
+    {
+      "text": "cada equipo alinea 6 jugadores con portero incluido",
+      "correct": false
+    },
+    {
+      "text": "cada equipo inicia con 7 jugadores",
+      "correct": false
+    },
+    {
+      "text": "cada equipo tiene 7 jugadores en el agua",
+      "correct": false
+    },
+    {
+      "text": "un juego se disputa normalmente a 11 puntos",
+      "correct": true
+    }
+  ],
+  "explanation": "En tenis de mesa, un juego se disputa normalmente a 11 puntos.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "deporte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

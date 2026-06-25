@@ -1,0 +1,42 @@
+{
+  "id": "q-018151",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál fue el significado histórico de la Restauración Meiji?",
+  "answers": [
+    {
+      "text": "levantamiento contra influencia extranjera y cristiana",
+      "correct": false
+    },
+    {
+      "text": "modernización y centralización política japonesa",
+      "correct": true
+    },
+    {
+      "text": "fin de la dictadura del Estado Novo",
+      "correct": false
+    },
+    {
+      "text": "apertura simbólica que aceleró la reunificación alemana",
+      "correct": false
+    }
+  ],
+  "explanation": "La Restauración Meiji se relaciona con modernización y centralización política japonesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "restauracion-meiji"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

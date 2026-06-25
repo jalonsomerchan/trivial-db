@@ -1,0 +1,42 @@
+{
+  "id": "q-022721",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué continente se encuentra Argelia?",
+  "answers": [
+    {
+      "text": "Asia",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": false
+    },
+    {
+      "text": "África",
+      "correct": true
+    },
+    {
+      "text": "Europa",
+      "correct": false
+    }
+  ],
+  "explanation": "Argelia se encuentra en África.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "continentes",
+    "africa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

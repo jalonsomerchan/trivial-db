@@ -1,0 +1,42 @@
+{
+  "id": "q-021418",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "mundiales"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: Uruguay 1930, Inglaterra 1966, México 1986 o Alemania 2006?",
+  "answers": [
+    {
+      "text": "Alemania 2006",
+      "correct": false
+    },
+    {
+      "text": "México 1986",
+      "correct": false
+    },
+    {
+      "text": "Uruguay 1930",
+      "correct": true
+    },
+    {
+      "text": "Inglaterra 1966",
+      "correct": false
+    }
+  ],
+  "explanation": "Uruguay 1930 es la opción correcta porque su fecha asociada es 1930.",
+  "sources": [
+    {
+      "title": "FIFA",
+      "url": "https://www.fifa.com/"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "futbol"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

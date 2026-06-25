@@ -1,0 +1,42 @@
+{
+  "id": "q-016801",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación serie-lugar es correcta para “The Bear”?",
+  "answers": [
+    {
+      "text": "The Bear — Chicago",
+      "correct": true
+    },
+    {
+      "text": "The Bear — Hawkins",
+      "correct": false
+    },
+    {
+      "text": "The Bear — Nueva Jersey",
+      "correct": false
+    },
+    {
+      "text": "The Bear — Seattle",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Bear” se ambienta principalmente en Chicago.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "television"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

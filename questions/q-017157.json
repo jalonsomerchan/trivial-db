@@ -1,0 +1,42 @@
+{
+  "id": "q-017157",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estas bases pertenece a béchamel?",
+  "answers": [
+    {
+      "text": "perejil, ajo, vinagre y aceite",
+      "correct": false
+    },
+    {
+      "text": "chile machacado con otros condimentos",
+      "correct": false
+    },
+    {
+      "text": "yema de huevo y mantequilla clarificada",
+      "correct": false
+    },
+    {
+      "text": "roux y leche",
+      "correct": true
+    }
+  ],
+  "explanation": "béchamel se caracteriza por roux y leche.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

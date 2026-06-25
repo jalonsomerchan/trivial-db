@@ -1,0 +1,42 @@
+{
+  "id": "q-016891",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación videojuego-creador corresponde a “Super Mario Bros.”?",
+  "answers": [
+    {
+      "text": "Hideo Kojima",
+      "correct": false
+    },
+    {
+      "text": "Shigeru Miyamoto",
+      "correct": true
+    },
+    {
+      "text": "Valve",
+      "correct": false
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    }
+  ],
+  "explanation": "“Super Mario Bros.” se asocia con Shigeru Miyamoto.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

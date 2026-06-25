@@ -1,0 +1,42 @@
+{
+  "id": "q-022133",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método culinario se asocia con injera?",
+  "answers": [
+    {
+      "text": "cocción lenta con especias",
+      "correct": false
+    },
+    {
+      "text": "cocción en paellera",
+      "correct": false
+    },
+    {
+      "text": "fermentación y plancha",
+      "correct": true
+    },
+    {
+      "text": "relleno plegado",
+      "correct": false
+    }
+  ],
+  "explanation": "injera se caracteriza por fermentación y plancha.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

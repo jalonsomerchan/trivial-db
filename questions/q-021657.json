@@ -1,0 +1,42 @@
+{
+  "id": "q-021657",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o autor corresponde a “Fortnite Battle Royale”?",
+  "answers": [
+    {
+      "text": "Epic Games",
+      "correct": true
+    },
+    {
+      "text": "Atari",
+      "correct": false
+    },
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "FromSoftware",
+      "correct": false
+    }
+  ],
+  "explanation": "“Fortnite Battle Royale” se asocia con Epic Games.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

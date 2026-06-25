@@ -1,0 +1,42 @@
+{
+  "id": "q-015508",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "sistema-endocrino"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es una función principal de hipófisis?",
+  "answers": [
+    {
+      "text": "secretar hormonas que regulan otras glándulas",
+      "correct": true
+    },
+    {
+      "text": "filtrar linfa",
+      "correct": false
+    },
+    {
+      "text": "almacenar bilis",
+      "correct": false
+    },
+    {
+      "text": "producir ácido clorhídrico",
+      "correct": false
+    }
+  ],
+  "explanation": "Hipófisis se asocia principalmente con secretar hormonas que regulan otras glándulas.",
+  "sources": [
+    {
+      "title": "OpenStax - Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "sistema-endocrino",
+    "biologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

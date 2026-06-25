@@ -1,0 +1,42 @@
+{
+  "id": "q-024427",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica-modular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resto de dividir (47² + 3 × 63) entre 11?",
+  "answers": [
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": false
+    },
+    {
+      "text": "0",
+      "correct": true
+    },
+    {
+      "text": "9",
+      "correct": false
+    }
+  ],
+  "explanation": "Se calcula 47² + 3 × 63 y se toma el resto al dividir entre 11; el resultado es 0.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "modulos",
+    "restos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

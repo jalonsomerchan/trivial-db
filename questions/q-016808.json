@@ -1,0 +1,42 @@
+{
+  "id": "q-016808",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación álbum-artista es correcta para “Born to Run”?",
+  "answers": [
+    {
+      "text": "Born to Run — Bruce Springsteen",
+      "correct": true
+    },
+    {
+      "text": "Born to Run — Prince",
+      "correct": false
+    },
+    {
+      "text": "Born to Run — U2",
+      "correct": false
+    },
+    {
+      "text": "Born to Run — Joni Mitchell",
+      "correct": false
+    }
+  ],
+  "explanation": "“Born to Run” es un álbum de Bruce Springsteen.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "albumes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

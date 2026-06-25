@@ -1,0 +1,42 @@
+{
+  "id": "q-022024",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente ceviche?",
+  "answers": [
+    {
+      "text": "Corea",
+      "correct": false
+    },
+    {
+      "text": "Alsacia",
+      "correct": false
+    },
+    {
+      "text": "Levante mediterráneo",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": true
+    }
+  ],
+  "explanation": "ceviche se asocia tradicionalmente con Perú.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "peru"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

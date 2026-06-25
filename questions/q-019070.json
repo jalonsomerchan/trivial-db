@@ -1,0 +1,42 @@
+{
+  "id": "q-019070",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 30% de 170?",
+  "answers": [
+    {
+      "text": "59",
+      "correct": false
+    },
+    {
+      "text": "68",
+      "correct": false
+    },
+    {
+      "text": "42",
+      "correct": false
+    },
+    {
+      "text": "51",
+      "correct": true
+    }
+  ],
+  "explanation": "El 30% de 170 se calcula multiplicando 170 por 30/100, lo que da 51.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

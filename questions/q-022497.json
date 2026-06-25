@@ -1,0 +1,43 @@
+{
+  "id": "q-022497",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción triple encaja con tacos?",
+  "answers": [
+    {
+      "text": "tacos — Argentina — carne",
+      "correct": false
+    },
+    {
+      "text": "tacos — Grecia — berenjena",
+      "correct": false
+    },
+    {
+      "text": "tacos — México — tortilla de maíz",
+      "correct": true
+    },
+    {
+      "text": "tacos — Japón — rebozado ligero",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para tacos es México y tortilla de maíz.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

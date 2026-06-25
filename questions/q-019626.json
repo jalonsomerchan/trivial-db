@@ -1,0 +1,42 @@
+{
+  "id": "q-019626",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código HTTP corresponde a la respuesta “Gateway Timeout”?",
+  "answers": [
+    {
+      "text": "502",
+      "correct": false
+    },
+    {
+      "text": "503",
+      "correct": false
+    },
+    {
+      "text": "504",
+      "correct": true
+    },
+    {
+      "text": "201",
+      "correct": false
+    }
+  ],
+  "explanation": "El código HTTP 504 corresponde a la respuesta “Gateway Timeout”.",
+  "sources": [
+    {
+      "title": "IANA Protocol Registries",
+      "url": "https://www.iana.org/protocols"
+    }
+  ],
+  "tags": [
+    "http",
+    "web"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-021629",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o autor corresponde a “Pac-Man”?",
+  "answers": [
+    {
+      "text": "Namco",
+      "correct": true
+    },
+    {
+      "text": "Game Freak",
+      "correct": false
+    },
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pac-Man” se asocia con Namco.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022222",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué ingrediente identifica a tacos?",
+  "answers": [
+    {
+      "text": "alubias",
+      "correct": false
+    },
+    {
+      "text": "almejas",
+      "correct": false
+    },
+    {
+      "text": "tortilla de maíz",
+      "correct": true
+    },
+    {
+      "text": "huevo y queso pecorino",
+      "correct": false
+    }
+  ],
+  "explanation": "tacos se relaciona especialmente con tortilla de maíz.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018355",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Batalla de Lepanto” y “Unificación italiana”?",
+  "answers": [
+    {
+      "text": "Batalla de Lepanto antes que Unificación italiana",
+      "correct": true
+    },
+    {
+      "text": "Unificación italiana antes que Batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Lepanto después que Unificación italiana",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de Lepanto ocurrió antes que Unificación italiana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023056",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece firma de la Carta Magna inglesa?",
+  "answers": [
+    {
+      "text": "siglo XII",
+      "correct": false
+    },
+    {
+      "text": "siglo XIV",
+      "correct": false
+    },
+    {
+      "text": "siglo XIII",
+      "correct": true
+    },
+    {
+      "text": "siglo XV",
+      "correct": false
+    }
+  ],
+  "explanation": "Firma de la carta magna inglesa pertenece al siglo XIII.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

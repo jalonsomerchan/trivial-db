@@ -1,0 +1,42 @@
+{
+  "id": "q-017433",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cómo se reconoce Parmigiano Reggiano en gastronomía?",
+  "answers": [
+    {
+      "text": "queso italiano de pasta hilada",
+      "correct": false
+    },
+    {
+      "text": "queso español de leche de oveja manchega",
+      "correct": false
+    },
+    {
+      "text": "queso italiano duro y curado",
+      "correct": true
+    },
+    {
+      "text": "queso vasco-navarro de oveja",
+      "correct": false
+    }
+  ],
+  "explanation": "Parmigiano Reggiano se describe como queso italiano duro y curado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

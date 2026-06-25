@@ -1,0 +1,42 @@
+{
+  "id": "q-015143",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación obra-artista es correcta para “El caminante sobre el mar de nubes”?",
+  "answers": [
+    {
+      "text": "El caminante sobre el mar de nubes — Caspar David Friedrich",
+      "correct": true
+    },
+    {
+      "text": "El caminante sobre el mar de nubes — Édouard Manet",
+      "correct": false
+    },
+    {
+      "text": "El caminante sobre el mar de nubes — Salvador Dalí",
+      "correct": false
+    },
+    {
+      "text": "El caminante sobre el mar de nubes — Francisco de Goya",
+      "correct": false
+    }
+  ],
+  "explanation": "“El caminante sobre el mar de nubes” es una obra de Caspar David Friedrich.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

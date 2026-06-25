@@ -1,0 +1,42 @@
+{
+  "id": "q-021709",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué creador o estudio está ligado a “Street Fighter II”?",
+  "answers": [
+    {
+      "text": "Capcom",
+      "correct": true
+    },
+    {
+      "text": "Blizzard Entertainment",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    },
+    {
+      "text": "Taito",
+      "correct": false
+    }
+  ],
+  "explanation": "“Street Fighter II” se asocia con Capcom.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022559",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Estocolmo?",
+  "answers": [
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Grecia",
+      "correct": false
+    },
+    {
+      "text": "Suecia",
+      "correct": true
+    }
+  ],
+  "explanation": "Estocolmo es la capital de Suecia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "europa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015211",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué museo se asocia con la conservación de “Impresión, sol naciente”?",
+  "answers": [
+    {
+      "text": "Museo del Louvre",
+      "correct": false
+    },
+    {
+      "text": "Museo Marmottan Monet",
+      "correct": true
+    },
+    {
+      "text": "Museo del Prado",
+      "correct": false
+    },
+    {
+      "text": "MoMA",
+      "correct": false
+    }
+  ],
+  "explanation": "“Impresión, sol naciente” se asocia con Museo Marmottan Monet.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

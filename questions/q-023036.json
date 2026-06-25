@@ -1,0 +1,42 @@
+{
+  "id": "q-023036",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió crisis financiera global?",
+  "answers": [
+    {
+      "text": "2009",
+      "correct": false
+    },
+    {
+      "text": "2008",
+      "correct": true
+    },
+    {
+      "text": "2018",
+      "correct": false
+    },
+    {
+      "text": "2007",
+      "correct": false
+    }
+  ],
+  "explanation": "Crisis financiera global ocurrió en 2008.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

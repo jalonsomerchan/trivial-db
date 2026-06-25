@@ -1,0 +1,42 @@
+{
+  "id": "q-015766",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 12 V y 4 A?",
+  "answers": [
+    {
+      "text": "48 W",
+      "correct": true
+    },
+    {
+      "text": "96 W",
+      "correct": false
+    },
+    {
+      "text": "3 W",
+      "correct": false
+    },
+    {
+      "text": "16 W",
+      "correct": false
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 12 × 4 = 48 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

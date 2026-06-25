@@ -1,0 +1,42 @@
+{
+  "id": "q-015124",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué institución se conserva habitualmente “Impresión, sol naciente”?",
+  "answers": [
+    {
+      "text": "Museo Marmottan Monet",
+      "correct": true
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": false
+    },
+    {
+      "text": "Art Institute of Chicago",
+      "correct": false
+    },
+    {
+      "text": "Belvedere de Viena",
+      "correct": false
+    }
+  ],
+  "explanation": "“Impresión, sol naciente” se conserva habitualmente en Museo Marmottan Monet.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "pintura"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

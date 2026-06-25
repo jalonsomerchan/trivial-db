@@ -1,0 +1,42 @@
+{
+  "id": "q-017054",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué se hace al “escaldar” un alimento?",
+  "answers": [
+    {
+      "text": "sumergir brevemente en agua hirviendo",
+      "correct": true
+    },
+    {
+      "text": "amasar con levadura madre",
+      "correct": false
+    },
+    {
+      "text": "cocinar en papillote cerrado",
+      "correct": false
+    },
+    {
+      "text": "curar con humo durante semanas",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, “escaldar” significa sumergir brevemente en agua hirviendo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "cocina"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

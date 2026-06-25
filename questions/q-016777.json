@@ -1,0 +1,42 @@
+{
+  "id": "q-016777",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué lugar se ambienta principalmente “Fargo”?",
+  "answers": [
+    {
+      "text": "Minnesota y Dakota del Norte",
+      "correct": true
+    },
+    {
+      "text": "Kansas y Missouri",
+      "correct": false
+    },
+    {
+      "text": "Oregón y Washington",
+      "correct": false
+    },
+    {
+      "text": "Arizona y Nevada",
+      "correct": false
+    }
+  ],
+  "explanation": "“Fargo” se ambienta principalmente en Minnesota y Dakota del Norte.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "television"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

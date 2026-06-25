@@ -1,0 +1,42 @@
+{
+  "id": "q-019384",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica-modular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resto de dividir (44 × 63 + 63) entre 17?",
+  "answers": [
+    {
+      "text": "15",
+      "correct": false
+    },
+    {
+      "text": "14",
+      "correct": false
+    },
+    {
+      "text": "13",
+      "correct": true
+    },
+    {
+      "text": "12",
+      "correct": false
+    }
+  ],
+  "explanation": "Se calcula 44 × 63 + 63 y después se toma el resto de la división entre 17; el resto es 13.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "modulos",
+    "restos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

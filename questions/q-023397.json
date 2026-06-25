@@ -1,0 +1,42 @@
+{
+  "id": "q-023397",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: guerra hispano-estadounidense, crac de Wall Street, fundación de la ONU o inicio de la Guerra de Corea?",
+  "answers": [
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": true
+    },
+    {
+      "text": "crac de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "fundación de la ONU",
+      "correct": false
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": false
+    }
+  ],
+  "explanation": "inicio de la Guerra de Corea es la opción correcta porque su fecha asociada es 1950.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

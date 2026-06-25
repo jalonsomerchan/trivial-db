@@ -1,0 +1,43 @@
+{
+  "id": "q-022405",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para falafel?",
+  "answers": [
+    {
+      "text": "falafel — España — patata y huevo",
+      "correct": false
+    },
+    {
+      "text": "falafel — Estados Unidos — almejas",
+      "correct": false
+    },
+    {
+      "text": "falafel — Sudeste asiático — fideos",
+      "correct": false
+    },
+    {
+      "text": "falafel — Oriente Medio — garbanzo o haba",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para falafel es Oriente Medio y garbanzo o haba.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

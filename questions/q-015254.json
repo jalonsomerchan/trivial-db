@@ -1,0 +1,42 @@
+{
+  "id": "q-015254",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué rasgo caracteriza mejor al constructivismo?",
+  "answers": [
+    {
+      "text": "temas pastorales del Rococó",
+      "correct": false
+    },
+    {
+      "text": "iconografía bizantina estricta",
+      "correct": false
+    },
+    {
+      "text": "interés por formas geométricas y función social del arte",
+      "correct": true
+    },
+    {
+      "text": "pintura al aire libre de efectos lumínicos",
+      "correct": false
+    }
+  ],
+  "explanation": "El constructivismo se caracteriza por interés por formas geométricas y función social del arte.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "constructivismo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

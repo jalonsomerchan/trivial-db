@@ -1,0 +1,42 @@
+{
+  "id": "q-016644",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué universo de videojuegos pertenece “City 17”?",
+  "answers": [
+    {
+      "text": "Dishonored",
+      "correct": false
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": false
+    },
+    {
+      "text": "Half-Life 2",
+      "correct": true
+    },
+    {
+      "text": "Silent Hill",
+      "correct": false
+    }
+  ],
+  "explanation": "“City 17” aparece en Half-Life 2.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

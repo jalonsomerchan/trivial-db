@@ -1,0 +1,42 @@
+{
+  "id": "q-016839",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué autoría del videojuego “The Witcher 3” es correcta?",
+  "answers": [
+    {
+      "text": "Hidetaka Miyazaki",
+      "correct": false
+    },
+    {
+      "text": "CD Projekt Red",
+      "correct": true
+    },
+    {
+      "text": "Hironobu Sakaguchi",
+      "correct": false
+    },
+    {
+      "text": "Sid Meier",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Witcher 3” se asocia con CD Projekt Red.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

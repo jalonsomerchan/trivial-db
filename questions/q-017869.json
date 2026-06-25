@@ -1,0 +1,42 @@
+{
+  "id": "q-017869",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Congo (Rep. Dem.), Bélgica, Brunei, Madagascar?",
+  "answers": [
+    {
+      "text": "Bélgica",
+      "correct": false
+    },
+    {
+      "text": "Congo (Rep. Dem.)",
+      "correct": false
+    },
+    {
+      "text": "Madagascar",
+      "correct": false
+    },
+    {
+      "text": "Brunei",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, Brunei es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

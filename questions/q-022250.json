@@ -1,0 +1,43 @@
+{
+  "id": "q-022250",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación plato-origen-ingrediente es correcta para causa limeña?",
+  "answers": [
+    {
+      "text": "causa limeña — Canadá — patatas fritas",
+      "correct": false
+    },
+    {
+      "text": "causa limeña — Perú — patata",
+      "correct": true
+    },
+    {
+      "text": "causa limeña — Cuba — carne deshebrada",
+      "correct": false
+    },
+    {
+      "text": "causa limeña — Francia — alubias",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para causa limeña es Perú y patata.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

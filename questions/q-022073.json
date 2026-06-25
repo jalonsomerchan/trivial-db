@@ -1,0 +1,42 @@
+{
+  "id": "q-022073",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o preparación caracteriza a mole poblano?",
+  "answers": [
+    {
+      "text": "horneado con frutos secos",
+      "correct": false
+    },
+    {
+      "text": "triturado con tahini",
+      "correct": false
+    },
+    {
+      "text": "guiso de verduras",
+      "correct": false
+    },
+    {
+      "text": "salsa compleja",
+      "correct": true
+    }
+  ],
+  "explanation": "mole poblano se caracteriza por salsa compleja.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

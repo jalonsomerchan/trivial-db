@@ -1,0 +1,42 @@
+{
+  "id": "q-023258",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: inicio de la Primera Guerra Mundial, inicio de la Segunda Guerra Mundial, independencia de India o tratados de Roma de la CEE?",
+  "answers": [
+    {
+      "text": "independencia de India",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "tratados de Roma de la CEE",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Primera Guerra Mundial",
+      "correct": true
+    }
+  ],
+  "explanation": "inicio de la Primera Guerra Mundial es la opción correcta porque su fecha asociada es 1914.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

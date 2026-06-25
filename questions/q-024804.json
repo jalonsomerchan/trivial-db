@@ -1,0 +1,42 @@
+{
+  "id": "q-024804",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 38 AND 166 a nivel de bits?",
+  "answers": [
+    {
+      "text": "128",
+      "correct": false
+    },
+    {
+      "text": "39",
+      "correct": false
+    },
+    {
+      "text": "204",
+      "correct": false
+    },
+    {
+      "text": "38",
+      "correct": true
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 38 y 166, el resultado decimal es 38.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

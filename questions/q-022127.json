@@ -1,0 +1,42 @@
+{
+  "id": "q-022127",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método culinario se asocia con asado?",
+  "answers": [
+    {
+      "text": "parrilla",
+      "correct": true
+    },
+    {
+      "text": "horneado en capas",
+      "correct": false
+    },
+    {
+      "text": "fermentación y plancha",
+      "correct": false
+    },
+    {
+      "text": "pan relleno",
+      "correct": false
+    }
+  ],
+  "explanation": "asado se caracteriza por parrilla.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

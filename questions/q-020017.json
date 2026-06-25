@@ -1,0 +1,42 @@
+{
+  "id": "q-020017",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién creó “La dama de las camelias”?",
+  "answers": [
+    {
+      "text": "Rafael",
+      "correct": false
+    },
+    {
+      "text": "Alexandre Dumas hijo",
+      "correct": true
+    },
+    {
+      "text": "Diego Velázquez",
+      "correct": false
+    },
+    {
+      "text": "Stendhal",
+      "correct": false
+    }
+  ],
+  "explanation": "“La dama de las camelias” fue creada por Alexandre Dumas hijo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

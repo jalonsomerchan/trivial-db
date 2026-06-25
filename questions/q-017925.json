@@ -1,0 +1,42 @@
+{
+  "id": "q-017925",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Bolivia, Cabo Verde, Georgia, Islas Marshall?",
+  "answers": [
+    {
+      "text": "Cabo Verde",
+      "correct": false
+    },
+    {
+      "text": "Georgia",
+      "correct": false
+    },
+    {
+      "text": "Bolivia",
+      "correct": false
+    },
+    {
+      "text": "Islas Marshall",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, Islas Marshall es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

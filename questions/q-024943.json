@@ -1,0 +1,42 @@
+{
+  "id": "q-024943",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 87 OR 210 a nivel de bits?",
+  "answers": [
+    {
+      "text": "214",
+      "correct": false
+    },
+    {
+      "text": "41",
+      "correct": false
+    },
+    {
+      "text": "133",
+      "correct": false
+    },
+    {
+      "text": "215",
+      "correct": true
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 87 y 210, el resultado decimal es 215.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

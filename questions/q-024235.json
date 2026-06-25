@@ -1,0 +1,42 @@
+{
+  "id": "q-024235",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica-modular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resto de dividir (41² + 3 × 33) entre 11?",
+  "answers": [
+    {
+      "text": "7",
+      "correct": false
+    },
+    {
+      "text": "10",
+      "correct": false
+    },
+    {
+      "text": "9",
+      "correct": true
+    },
+    {
+      "text": "0",
+      "correct": false
+    }
+  ],
+  "explanation": "Se calcula 41² + 3 × 33 y se toma el resto al dividir entre 11; el resultado es 9.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "modulos",
+    "restos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017661",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Siria?",
+  "answers": [
+    {
+      "text": "Yemen",
+      "correct": false
+    },
+    {
+      "text": "Arabia Saudí",
+      "correct": false
+    },
+    {
+      "text": "Azerbaiyán",
+      "correct": false
+    },
+    {
+      "text": "Turquía",
+      "correct": true
+    }
+  ],
+  "explanation": "Turquía comparte frontera terrestre con Siria.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

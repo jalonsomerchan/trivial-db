@@ -1,0 +1,42 @@
+{
+  "id": "q-022879",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación geográfica y monetaria identifica a Nueva Zelanda?",
+  "answers": [
+    {
+      "text": "Nueva Zelanda — Canberra — dólar australiano",
+      "correct": false
+    },
+    {
+      "text": "Nueva Zelanda — Puerto Moresby — kina",
+      "correct": false
+    },
+    {
+      "text": "Nueva Zelanda — Suva — dólar fiyiano",
+      "correct": false
+    },
+    {
+      "text": "Nueva Zelanda — Wellington — dólar neozelandés",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta es Nueva Zelanda — Wellington — dólar neozelandés.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

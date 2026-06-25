@@ -1,0 +1,42 @@
+{
+  "id": "q-023499",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: coronación de Napoleón como emperador, unificación italiana, Revolución rusa o independencia de India?",
+  "answers": [
+    {
+      "text": "coronación de Napoleón como emperador",
+      "correct": false
+    },
+    {
+      "text": "independencia de India",
+      "correct": true
+    },
+    {
+      "text": "Revolución rusa",
+      "correct": false
+    },
+    {
+      "text": "unificación italiana",
+      "correct": false
+    }
+  ],
+  "explanation": "independencia de India es la opción correcta porque su fecha asociada es 1947.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

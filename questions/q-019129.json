@@ -1,0 +1,42 @@
+{
+  "id": "q-019129",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuáles son las raíces de la ecuación x² +1x -110 = 0?",
+  "answers": [
+    {
+      "text": "11 y -10",
+      "correct": false
+    },
+    {
+      "text": "-11 y -10",
+      "correct": false
+    },
+    {
+      "text": "-11 y 10",
+      "correct": true
+    },
+    {
+      "text": "-10 y 9",
+      "correct": false
+    }
+  ],
+  "explanation": "La ecuación se factoriza como (x - -11)(x - 10) = 0, por lo que las raíces son -11 y 10.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

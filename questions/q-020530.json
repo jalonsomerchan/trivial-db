@@ -1,0 +1,42 @@
+{
+  "id": "q-020530",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué elemento corresponde el símbolo Au?",
+  "answers": [
+    {
+      "text": "oro",
+      "correct": true
+    },
+    {
+      "text": "sodio",
+      "correct": false
+    },
+    {
+      "text": "boro",
+      "correct": false
+    },
+    {
+      "text": "aluminio",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Au corresponde al oro.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "simbolos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

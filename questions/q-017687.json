@@ -1,0 +1,42 @@
+{
+  "id": "q-017687",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Italia?",
+  "answers": [
+    {
+      "text": "Gibraltar",
+      "correct": false
+    },
+    {
+      "text": "San Marino",
+      "correct": true
+    },
+    {
+      "text": "Islas Svalbard y Jan Mayen",
+      "correct": false
+    },
+    {
+      "text": "Bélgica",
+      "correct": false
+    }
+  ],
+  "explanation": "San Marino comparte frontera terrestre con Italia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-019591",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "hardware"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué se centra principalmente RAM?",
+  "answers": [
+    {
+      "text": "proteger contra phishing por sí sola",
+      "correct": false
+    },
+    {
+      "text": "almacenar datos temporales de ejecución",
+      "correct": true
+    },
+    {
+      "text": "actuar como fuente de alimentación",
+      "correct": false
+    },
+    {
+      "text": "servir como identificador de dominio",
+      "correct": false
+    }
+  ],
+  "explanation": "RAM se usa principalmente para almacenar datos temporales de ejecución.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "hardware",
+    "informatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022183",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué preparación describe mejor injera?",
+  "answers": [
+    {
+      "text": "plancha o fritura",
+      "correct": false
+    },
+    {
+      "text": "fermentación y plancha",
+      "correct": true
+    },
+    {
+      "text": "cuajado en sartén",
+      "correct": false
+    },
+    {
+      "text": "salsa gravy y queso",
+      "correct": false
+    }
+  ],
+  "explanation": "injera se caracteriza por fermentación y plancha.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

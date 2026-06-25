@@ -1,0 +1,42 @@
+{
+  "id": "q-021031",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué dato básico pertenece a béisbol?",
+  "answers": [
+    {
+      "text": "seis jugadores por equipo en pista",
+      "correct": false
+    },
+    {
+      "text": "partidos de hasta cinco días",
+      "correct": false
+    },
+    {
+      "text": "nueve entradas en un partido estándar",
+      "correct": true
+    },
+    {
+      "text": "juegos habitualmente a 11 puntos",
+      "correct": false
+    }
+  ],
+  "explanation": "En béisbol, nueve entradas en un partido estándar.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "deporte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

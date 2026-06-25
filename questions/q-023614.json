@@ -1,0 +1,42 @@
+{
+  "id": "q-023614",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué etiqueta sintáctica recibe “caliente” en “La sopa estaba caliente”?",
+  "answers": [
+    {
+      "text": "sujeto",
+      "correct": false
+    },
+    {
+      "text": "complemento indirecto",
+      "correct": false
+    },
+    {
+      "text": "complemento predicativo",
+      "correct": false
+    },
+    {
+      "text": "atributo",
+      "correct": true
+    }
+  ],
+  "explanation": "En “La sopa estaba caliente”, “caliente” cumple la función de atributo.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

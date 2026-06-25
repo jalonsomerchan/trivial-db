@@ -1,0 +1,42 @@
+{
+  "id": "q-020507",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué elemento corresponde el símbolo He?",
+  "answers": [
+    {
+      "text": "azufre",
+      "correct": false
+    },
+    {
+      "text": "helio",
+      "correct": true
+    },
+    {
+      "text": "nitrógeno",
+      "correct": false
+    },
+    {
+      "text": "neón",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico He corresponde al helio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "simbolos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

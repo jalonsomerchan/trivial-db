@@ -1,0 +1,43 @@
+{
+  "id": "q-022400",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para causa limeña?",
+  "answers": [
+    {
+      "text": "causa limeña — Francia — verduras",
+      "correct": false
+    },
+    {
+      "text": "causa limeña — Perú — pescado",
+      "correct": false
+    },
+    {
+      "text": "causa limeña — Perú — patata",
+      "correct": true
+    },
+    {
+      "text": "causa limeña — España — patata y huevo",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para causa limeña es Perú y patata.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

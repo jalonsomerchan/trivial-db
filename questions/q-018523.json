@@ -1,0 +1,42 @@
+{
+  "id": "q-018523",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "conectores"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de relación introduce “porque”?",
+  "answers": [
+    {
+      "text": "concesión",
+      "correct": false
+    },
+    {
+      "text": "contraste",
+      "correct": false
+    },
+    {
+      "text": "finalidad",
+      "correct": false
+    },
+    {
+      "text": "causa",
+      "correct": true
+    }
+  ],
+  "explanation": "El conector “porque” suele expresar causa.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "conectores",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

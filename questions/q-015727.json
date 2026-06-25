@@ -1,0 +1,42 @@
+{
+  "id": "q-015727",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 232 g de cloruro de sodio si su masa molar es 58.5 g/mol?",
+  "answers": [
+    {
+      "text": "4.966",
+      "correct": false
+    },
+    {
+      "text": "7.932",
+      "correct": false
+    },
+    {
+      "text": "1.983",
+      "correct": false
+    },
+    {
+      "text": "3.966",
+      "correct": true
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 232/58.5, aproximadamente 3.966 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

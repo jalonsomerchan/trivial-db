@@ -1,0 +1,42 @@
+{
+  "id": "q-015112",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "museos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué institución se conserva habitualmente “Las meninas”?",
+  "answers": [
+    {
+      "text": "Museo del Prado",
+      "correct": true
+    },
+    {
+      "text": "Museo Reina Sofía",
+      "correct": false
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": false
+    },
+    {
+      "text": "Art Institute of Chicago",
+      "correct": false
+    }
+  ],
+  "explanation": "“Las meninas” se conserva habitualmente en Museo del Prado.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "museos",
+    "pintura"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017261",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "quesos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción corresponde mejor a Gruyère?",
+  "answers": [
+    {
+      "text": "queso inglés de corteza naranja",
+      "correct": false
+    },
+    {
+      "text": "queso suizo usado habitualmente en fondue",
+      "correct": true
+    },
+    {
+      "text": "queso fresco de cabra",
+      "correct": false
+    },
+    {
+      "text": "queso azul asturiano",
+      "correct": false
+    }
+  ],
+  "explanation": "Gruyère se describe como queso suizo usado habitualmente en fondue.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "quesos",
+    "productos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024761",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 24 OR 111 a nivel de bits?",
+  "answers": [
+    {
+      "text": "127",
+      "correct": true
+    },
+    {
+      "text": "119",
+      "correct": false
+    },
+    {
+      "text": "126",
+      "correct": false
+    },
+    {
+      "text": "135",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 24 y 111, el resultado decimal es 127.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

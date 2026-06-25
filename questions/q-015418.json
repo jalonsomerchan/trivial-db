@@ -1,0 +1,42 @@
+{
+  "id": "q-015418",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué definición breve se ajusta al constructivismo?",
+  "answers": [
+    {
+      "text": "ornamentación ligera y gusto cortesano",
+      "correct": false
+    },
+    {
+      "text": "dramatismo, contraste y movimiento",
+      "correct": false
+    },
+    {
+      "text": "velocidad, máquina y dinamismo moderno",
+      "correct": false
+    },
+    {
+      "text": "geometría y función social del arte",
+      "correct": true
+    }
+  ],
+  "explanation": "El constructivismo se reconoce por geometría y función social del arte.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

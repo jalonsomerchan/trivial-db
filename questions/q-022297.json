@@ -1,0 +1,43 @@
+{
+  "id": "q-022297",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación gastronómica identifica mejor a tacos?",
+  "answers": [
+    {
+      "text": "tacos — Argentina — carne",
+      "correct": false
+    },
+    {
+      "text": "tacos — España — tomate",
+      "correct": false
+    },
+    {
+      "text": "tacos — Jamaica — pollo especiado",
+      "correct": false
+    },
+    {
+      "text": "tacos — México — tortilla de maíz",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para tacos es México y tortilla de maíz.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

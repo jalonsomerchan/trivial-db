@@ -1,0 +1,42 @@
+{
+  "id": "q-023204",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué suceso histórico corresponde a 1517?",
+  "answers": [
+    {
+      "text": "inicio de la Reforma protestante",
+      "correct": true
+    },
+    {
+      "text": "batalla de Maratón",
+      "correct": false
+    },
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "unificación alemana",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1517 se asocia con inicio de la Reforma protestante.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

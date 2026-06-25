@@ -1,0 +1,42 @@
+{
+  "id": "q-017893",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Guinea Ecuatorial, Dinamarca, Costa de Marfil, Siria?",
+  "answers": [
+    {
+      "text": "Siria",
+      "correct": false
+    },
+    {
+      "text": "Dinamarca",
+      "correct": false
+    },
+    {
+      "text": "Costa de Marfil",
+      "correct": false
+    },
+    {
+      "text": "Guinea Ecuatorial",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, Guinea Ecuatorial es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

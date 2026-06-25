@@ -1,0 +1,42 @@
+{
+  "id": "q-021609",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué responsable creativo se vincula a “The Sims”?",
+  "answers": [
+    {
+      "text": "Maxis",
+      "correct": true
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    },
+    {
+      "text": "Atari",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Sims” se asocia con Maxis.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

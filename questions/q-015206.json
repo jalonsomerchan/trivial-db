@@ -1,0 +1,42 @@
+{
+  "id": "q-015206",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué museo se asocia con la conservación de “Nighthawks”?",
+  "answers": [
+    {
+      "text": "Museo del Louvre",
+      "correct": false
+    },
+    {
+      "text": "Art Institute of Chicago",
+      "correct": true
+    },
+    {
+      "text": "Museo del Prado",
+      "correct": false
+    },
+    {
+      "text": "Rijksmuseum",
+      "correct": false
+    }
+  ],
+  "explanation": "“Nighthawks” se asocia con Art Institute of Chicago.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018457",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Conquista de Alejandro de Persia” y “Paz de Westfalia”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Conquista de Alejandro de Persia antes que Paz de Westfalia",
+      "correct": true
+    },
+    {
+      "text": "Paz de Westfalia antes que Conquista de Alejandro de Persia",
+      "correct": false
+    },
+    {
+      "text": "Conquista de Alejandro de Persia después que Paz de Westfalia",
+      "correct": false
+    }
+  ],
+  "explanation": "Conquista de Alejandro de Persia ocurrió antes que Paz de Westfalia.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

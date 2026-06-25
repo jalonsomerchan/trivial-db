@@ -1,0 +1,43 @@
+{
+  "id": "q-022466",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien khachapuri con su origen y base?",
+  "answers": [
+    {
+      "text": "khachapuri — Japón — arroz avinagrado",
+      "correct": false
+    },
+    {
+      "text": "khachapuri — Sudeste asiático — carne ensartada",
+      "correct": false
+    },
+    {
+      "text": "khachapuri — Magreb — sémola de trigo",
+      "correct": false
+    },
+    {
+      "text": "khachapuri — Georgia — queso",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para khachapuri es Georgia y queso.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

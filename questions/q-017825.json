@@ -1,0 +1,42 @@
+{
+  "id": "q-017825",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con Mozambique?",
+  "answers": [
+    {
+      "text": "República de Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "Suazilandia",
+      "correct": false
+    },
+    {
+      "text": "Tanzania",
+      "correct": false
+    },
+    {
+      "text": "Sudán del Sur",
+      "correct": true
+    }
+  ],
+  "explanation": "Sudán del Sur no figura entre los países que comparten frontera terrestre con Mozambique, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

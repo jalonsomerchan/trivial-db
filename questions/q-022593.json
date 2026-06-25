@@ -1,0 +1,42 @@
+{
+  "id": "q-022593",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Singapur?",
+  "answers": [
+    {
+      "text": "Turquía",
+      "correct": false
+    },
+    {
+      "text": "Bangladés",
+      "correct": false
+    },
+    {
+      "text": "Singapur",
+      "correct": true
+    },
+    {
+      "text": "Filipinas",
+      "correct": false
+    }
+  ],
+  "explanation": "Singapur es la capital de Singapur.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

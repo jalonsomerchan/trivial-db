@@ -1,0 +1,42 @@
+{
+  "id": "q-016637",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Con qué videojuego se asocia “Columbia”?",
+  "answers": [
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    },
+    {
+      "text": "BioShock Infinite",
+      "correct": true
+    },
+    {
+      "text": "Half-Life 2",
+      "correct": false
+    },
+    {
+      "text": "BioShock",
+      "correct": false
+    }
+  ],
+  "explanation": "“Columbia” aparece en BioShock Infinite.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

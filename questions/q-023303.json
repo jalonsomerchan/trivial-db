@@ -1,0 +1,42 @@
+{
+  "id": "q-023303",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: inicio de la Revolución francesa, Primera Guerra del Opio, Conferencia de Berlín sobre África o crac de Wall Street?",
+  "answers": [
+    {
+      "text": "Conferencia de Berlín sobre África",
+      "correct": false
+    },
+    {
+      "text": "crac de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Revolución francesa",
+      "correct": true
+    },
+    {
+      "text": "Primera Guerra del Opio",
+      "correct": false
+    }
+  ],
+  "explanation": "inicio de la Revolución francesa es la opción correcta porque su fecha asociada es 1789.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022719",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "continentes"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué continente se encuentra Islandia?",
+  "answers": [
+    {
+      "text": "Europa",
+      "correct": true
+    },
+    {
+      "text": "Asia",
+      "correct": false
+    },
+    {
+      "text": "África",
+      "correct": false
+    },
+    {
+      "text": "América",
+      "correct": false
+    }
+  ],
+  "explanation": "Islandia se encuentra en Europa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "continentes",
+    "europa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

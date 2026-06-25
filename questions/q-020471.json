@@ -1,0 +1,43 @@
+{
+  "id": "q-020471",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "cronologia-cultural"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: La Divina Comedia (literatura), Don Quijote de la Mancha (literatura), Fausto (literatura) o Crimen y castigo (literatura)?",
+  "answers": [
+    {
+      "text": "Fausto (literatura)",
+      "correct": false
+    },
+    {
+      "text": "Crimen y castigo (literatura)",
+      "correct": true
+    },
+    {
+      "text": "Don Quijote de la Mancha (literatura)",
+      "correct": false
+    },
+    {
+      "text": "La Divina Comedia (literatura)",
+      "correct": false
+    }
+  ],
+  "explanation": "Crimen y castigo (literatura) es la opción correcta porque su fecha asociada es 1866.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

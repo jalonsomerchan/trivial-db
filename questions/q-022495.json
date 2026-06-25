@@ -1,0 +1,43 @@
+{
+  "id": "q-022495",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción triple encaja con pho?",
+  "answers": [
+    {
+      "text": "pho — Francia — verduras",
+      "correct": false
+    },
+    {
+      "text": "pho — Reino Unido — pescado",
+      "correct": false
+    },
+    {
+      "text": "pho — Francia — alubias",
+      "correct": false
+    },
+    {
+      "text": "pho — Vietnam — fideos de arroz",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para pho es Vietnam y fideos de arroz.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

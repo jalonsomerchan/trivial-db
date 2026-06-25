@@ -1,0 +1,42 @@
+{
+  "id": "q-017453",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué perfil culinario tiene Parmigiano Reggiano?",
+  "answers": [
+    {
+      "text": "verduras fermentadas coreanas",
+      "correct": false
+    },
+    {
+      "text": "queso azul francés de leche de oveja",
+      "correct": false
+    },
+    {
+      "text": "queso italiano duro y curado",
+      "correct": true
+    },
+    {
+      "text": "sopa de remolacha de Europa oriental",
+      "correct": false
+    }
+  ],
+  "explanation": "Parmigiano Reggiano se describe como queso italiano duro y curado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

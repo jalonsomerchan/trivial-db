@@ -1,0 +1,43 @@
+{
+  "id": "q-022278",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación gastronómica identifica mejor a gazpacho?",
+  "answers": [
+    {
+      "text": "gazpacho — Tailandia — fideos de arroz",
+      "correct": false
+    },
+    {
+      "text": "gazpacho — Alsacia — col fermentada",
+      "correct": false
+    },
+    {
+      "text": "gazpacho — España — tomate",
+      "correct": true
+    },
+    {
+      "text": "gazpacho — Corea — col china",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para gazpacho es España y tomate.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

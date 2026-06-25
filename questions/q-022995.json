@@ -1,0 +1,42 @@
+{
+  "id": "q-022995",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha de capital y moneda es correcta para Tanzania?",
+  "answers": [
+    {
+      "text": "Tanzania — Kampala — chelín ugandés",
+      "correct": false
+    },
+    {
+      "text": "Tanzania — Dodoma — chelín tanzano",
+      "correct": true
+    },
+    {
+      "text": "Tanzania — Rabat — dírham marroquí",
+      "correct": false
+    },
+    {
+      "text": "Tanzania — Argel — dinar argelino",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta es Tanzania — Dodoma — chelín tanzano.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

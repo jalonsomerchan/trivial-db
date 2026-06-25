@@ -1,0 +1,43 @@
+{
+  "id": "q-022258",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación plato-origen-ingrediente es correcta para injera?",
+  "answers": [
+    {
+      "text": "injera — Mediterráneo oriental — masa filo",
+      "correct": false
+    },
+    {
+      "text": "injera — Francia — pescado",
+      "correct": false
+    },
+    {
+      "text": "injera — Etiopía — teff",
+      "correct": true
+    },
+    {
+      "text": "injera — Estados Unidos — carne y chile",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para injera es Etiopía y teff.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

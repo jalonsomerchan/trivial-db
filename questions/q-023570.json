@@ -1,0 +1,42 @@
+{
+  "id": "q-023570",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué papel desempeña “agotado” en “El corredor terminó agotado”?",
+  "answers": [
+    {
+      "text": "sujeto",
+      "correct": false
+    },
+    {
+      "text": "complemento predicativo",
+      "correct": true
+    },
+    {
+      "text": "complemento indirecto",
+      "correct": false
+    },
+    {
+      "text": "complemento del nombre",
+      "correct": false
+    }
+  ],
+  "explanation": "En “El corredor terminó agotado”, “agotado” cumple la función de complemento predicativo.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

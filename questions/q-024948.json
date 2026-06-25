@@ -1,0 +1,42 @@
+{
+  "id": "q-024948",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 94 OR 23 a nivel de bits?",
+  "answers": [
+    {
+      "text": "94",
+      "correct": false
+    },
+    {
+      "text": "95",
+      "correct": true
+    },
+    {
+      "text": "117",
+      "correct": false
+    },
+    {
+      "text": "73",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 94 y 23, el resultado decimal es 95.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

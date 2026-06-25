@@ -1,0 +1,42 @@
+{
+  "id": "q-023290",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: coronación de Carlomagno, llegada de Colón a América, derrota de la Armada Invencible o Declaración de Independencia de Estados Unidos?",
+  "answers": [
+    {
+      "text": "llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    },
+    {
+      "text": "coronación de Carlomagno",
+      "correct": true
+    },
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "coronación de Carlomagno es la opción correcta porque su fecha asociada es 800.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

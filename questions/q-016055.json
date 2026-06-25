@@ -1,0 +1,42 @@
+{
+  "id": "q-016055",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Dónde se emplea el término deportivo “hat-trick”?",
+  "answers": [
+    {
+      "text": "esquí alpino",
+      "correct": false
+    },
+    {
+      "text": "fútbol",
+      "correct": true
+    },
+    {
+      "text": "judo",
+      "correct": false
+    },
+    {
+      "text": "remo",
+      "correct": false
+    }
+  ],
+  "explanation": "“hat-trick” es un término asociado al fútbol.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "terminologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

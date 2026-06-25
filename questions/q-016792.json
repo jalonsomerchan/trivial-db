@@ -1,0 +1,42 @@
+{
+  "id": "q-016792",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación serie-lugar es correcta para “Frasier”?",
+  "answers": [
+    {
+      "text": "Frasier — Nueva York",
+      "correct": false
+    },
+    {
+      "text": "Frasier — Scranton",
+      "correct": false
+    },
+    {
+      "text": "Frasier — Seattle",
+      "correct": true
+    },
+    {
+      "text": "Frasier — Reino Unido",
+      "correct": false
+    }
+  ],
+  "explanation": "“Frasier” se ambienta principalmente en Seattle.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "television"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

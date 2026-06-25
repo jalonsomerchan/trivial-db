@@ -1,0 +1,42 @@
+{
+  "id": "q-022223",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica gastronómica corresponde a mole poblano?",
+  "answers": [
+    {
+      "text": "mezcla con vegetales",
+      "correct": false
+    },
+    {
+      "text": "sopa con caldo",
+      "correct": false
+    },
+    {
+      "text": "salsa compleja",
+      "correct": true
+    },
+    {
+      "text": "sopa cremosa",
+      "correct": false
+    }
+  ],
+  "explanation": "mole poblano se caracteriza por salsa compleja.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

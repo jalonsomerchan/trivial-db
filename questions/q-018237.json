@@ -1,0 +1,42 @@
+{
+  "id": "q-018237",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué descripción encaja con la Revolución haitiana?",
+  "answers": [
+    {
+      "text": "reordenación europea tras las guerras napoleónicas",
+      "correct": false
+    },
+    {
+      "text": "campaña de desobediencia civil liderada por Gandhi",
+      "correct": false
+    },
+    {
+      "text": "proceso de negociación entre Israel y la OLP",
+      "correct": false
+    },
+    {
+      "text": "revolución de esclavos que condujo a la independencia de Haití",
+      "correct": true
+    }
+  ],
+  "explanation": "La Revolución haitiana se relaciona con revolución de esclavos que condujo a la independencia de Haití.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "revolucion-haitiana"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023256",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: Conferencia de Berlín sobre África, Revolución rusa, ataque a Pearl Harbor o creación del Estado de Israel?",
+  "answers": [
+    {
+      "text": "Conferencia de Berlín sobre África",
+      "correct": true
+    },
+    {
+      "text": "Revolución rusa",
+      "correct": false
+    },
+    {
+      "text": "creación del Estado de Israel",
+      "correct": false
+    },
+    {
+      "text": "ataque a Pearl Harbor",
+      "correct": false
+    }
+  ],
+  "explanation": "Conferencia de Berlín sobre África es la opción correcta porque su fecha asociada es 1884.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

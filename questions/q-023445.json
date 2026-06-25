@@ -1,0 +1,42 @@
+{
+  "id": "q-023445",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: batalla de Waterloo, unificación italiana, inicio de la Primera Guerra Mundial o ataque a Pearl Harbor?",
+  "answers": [
+    {
+      "text": "ataque a Pearl Harbor",
+      "correct": true
+    },
+    {
+      "text": "unificación italiana",
+      "correct": false
+    },
+    {
+      "text": "batalla de Waterloo",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Primera Guerra Mundial",
+      "correct": false
+    }
+  ],
+  "explanation": "ataque a Pearl Harbor es la opción correcta porque su fecha asociada es 1941.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017927",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Polonia, San Marino, Perú, Islas Salomón?",
+  "answers": [
+    {
+      "text": "Islas Salomón",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": false
+    },
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "San Marino",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, San Marino es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

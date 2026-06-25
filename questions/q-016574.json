@@ -1,0 +1,42 @@
+{
+  "id": "q-016574",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Dónde aparece principalmente Hermione Granger?",
+  "answers": [
+    {
+      "text": "Percy Jackson",
+      "correct": false
+    },
+    {
+      "text": "Crepúsculo",
+      "correct": false
+    },
+    {
+      "text": "Harry Potter",
+      "correct": true
+    },
+    {
+      "text": "Los juegos del hambre",
+      "correct": false
+    }
+  ],
+  "explanation": "Hermione Granger es un personaje asociado a “Harry Potter”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

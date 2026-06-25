@@ -1,0 +1,43 @@
+{
+  "id": "q-022376",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de origen e ingrediente corresponde a kebab?",
+  "answers": [
+    {
+      "text": "kebab — México — tortilla de maíz",
+      "correct": false
+    },
+    {
+      "text": "kebab — Perú — patata",
+      "correct": false
+    },
+    {
+      "text": "kebab — Oriente Medio — carne",
+      "correct": true
+    },
+    {
+      "text": "kebab — Argentina — carne",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para kebab es Oriente Medio y carne.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022798",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación entre país, capital y moneda es correcta para Paraguay?",
+  "answers": [
+    {
+      "text": "Paraguay — Asunción — guaraní",
+      "correct": true
+    },
+    {
+      "text": "Paraguay — San José — colón costarricense",
+      "correct": false
+    },
+    {
+      "text": "Paraguay — Brasilia — real",
+      "correct": false
+    },
+    {
+      "text": "Paraguay — La Habana — peso cubano",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta es Paraguay — Asunción — guaraní.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

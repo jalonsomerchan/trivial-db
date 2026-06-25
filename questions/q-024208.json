@@ -1,0 +1,42 @@
+{
+  "id": "q-024208",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué valor de x satisface la ecuación 9x - 2 = 115?",
+  "answers": [
+    {
+      "text": "-13",
+      "correct": false
+    },
+    {
+      "text": "12",
+      "correct": false
+    },
+    {
+      "text": "13",
+      "correct": true
+    },
+    {
+      "text": "14",
+      "correct": false
+    }
+  ],
+  "explanation": "Al despejar, 9x = 117, por lo que x = 13.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

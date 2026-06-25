@@ -1,0 +1,42 @@
+{
+  "id": "q-023918",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cómo se clasifica retóricamente “Se apagó su vida en silencio”?",
+  "answers": [
+    {
+      "text": "oxímoron",
+      "correct": false
+    },
+    {
+      "text": "sinécdoque",
+      "correct": false
+    },
+    {
+      "text": "eufemismo",
+      "correct": true
+    },
+    {
+      "text": "ironía",
+      "correct": false
+    }
+  ],
+  "explanation": "“Se apagó su vida en silencio” se clasifica como eufemismo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

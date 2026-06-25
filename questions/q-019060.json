@@ -1,0 +1,42 @@
+{
+  "id": "q-019060",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 15% de 160?",
+  "answers": [
+    {
+      "text": "16",
+      "correct": false
+    },
+    {
+      "text": "40",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": true
+    },
+    {
+      "text": "32",
+      "correct": false
+    }
+  ],
+  "explanation": "El 15% de 160 se calcula multiplicando 160 por 15/100, lo que da 24.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

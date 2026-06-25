@@ -1,0 +1,42 @@
+{
+  "id": "q-019984",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar AND bit a bit entre 143 y 70?",
+  "answers": [
+    {
+      "text": "201",
+      "correct": false
+    },
+    {
+      "text": "213",
+      "correct": false
+    },
+    {
+      "text": "207",
+      "correct": false
+    },
+    {
+      "text": "6",
+      "correct": true
+    }
+  ],
+  "explanation": "El operador AND bit a bit conserva solo los bits que están activos en ambos números; 143 AND 70 = 6.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "operadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

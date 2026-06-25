@@ -1,0 +1,42 @@
+{
+  "id": "q-018589",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "conectores"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué relación lógica señala “mientras”?",
+  "answers": [
+    {
+      "text": "condición",
+      "correct": false
+    },
+    {
+      "text": "consecuencia",
+      "correct": false
+    },
+    {
+      "text": "tiempo",
+      "correct": true
+    },
+    {
+      "text": "finalidad",
+      "correct": false
+    }
+  ],
+  "explanation": "El conector “mientras” suele expresar tiempo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "conectores",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

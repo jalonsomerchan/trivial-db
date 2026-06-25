@@ -1,0 +1,42 @@
+{
+  "id": "q-015664",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 64 g de agua si su masa molar es 18 g/mol?",
+  "answers": [
+    {
+      "text": "3.556",
+      "correct": true
+    },
+    {
+      "text": "7.111",
+      "correct": false
+    },
+    {
+      "text": "1.778",
+      "correct": false
+    },
+    {
+      "text": "4.556",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 64/18, aproximadamente 3.556 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

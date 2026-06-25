@@ -1,0 +1,42 @@
+{
+  "id": "q-018433",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Batalla de Hastings” y “Inicio de la Guerra de Corea”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Inicio de la Guerra de Corea antes que Batalla de Hastings",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Hastings antes que Inicio de la Guerra de Corea",
+      "correct": true
+    },
+    {
+      "text": "Batalla de Hastings después que Inicio de la Guerra de Corea",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de Hastings ocurrió antes que Inicio de la Guerra de Corea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

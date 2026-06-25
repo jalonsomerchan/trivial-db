@@ -1,0 +1,42 @@
+{
+  "id": "q-024002",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 16 al cuadrado?",
+  "answers": [
+    {
+      "text": "272",
+      "correct": false
+    },
+    {
+      "text": "240",
+      "correct": false
+    },
+    {
+      "text": "256",
+      "correct": true
+    },
+    {
+      "text": "32",
+      "correct": false
+    }
+  ],
+  "explanation": "Elevar 16 al cuadrado equivale a multiplicar 16 por sí mismo: 256.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

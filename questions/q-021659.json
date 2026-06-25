@@ -1,0 +1,42 @@
+{
+  "id": "q-021659",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o autor corresponde a “Elden Ring”?",
+  "answers": [
+    {
+      "text": "FromSoftware",
+      "correct": true
+    },
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Namco",
+      "correct": false
+    },
+    {
+      "text": "Maxis",
+      "correct": false
+    }
+  ],
+  "explanation": "“Elden Ring” se asocia con FromSoftware.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

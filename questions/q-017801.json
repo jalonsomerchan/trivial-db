@@ -1,0 +1,42 @@
+{
+  "id": "q-017801",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con Kazajistán?",
+  "answers": [
+    {
+      "text": "Kirguizistán",
+      "correct": false
+    },
+    {
+      "text": "Uzbekistán",
+      "correct": false
+    },
+    {
+      "text": "China",
+      "correct": false
+    },
+    {
+      "text": "Indonesia",
+      "correct": true
+    }
+  ],
+  "explanation": "Indonesia no figura entre los países que comparten frontera terrestre con Kazajistán, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

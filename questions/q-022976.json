@@ -1,0 +1,42 @@
+{
+  "id": "q-022976",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha de capital y moneda es correcta para Chequia?",
+  "answers": [
+    {
+      "text": "Chequia — Atenas — euro",
+      "correct": false
+    },
+    {
+      "text": "Chequia — Praga — corona checa",
+      "correct": true
+    },
+    {
+      "text": "Chequia — Estocolmo — corona sueca",
+      "correct": false
+    },
+    {
+      "text": "Chequia — Berlín — euro",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta es Chequia — Praga — corona checa.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

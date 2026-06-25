@@ -1,0 +1,42 @@
+{
+  "id": "q-024555",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sistemas-numericos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la notación hexadecimal del número decimal 67?",
+  "answers": [
+    {
+      "text": "0x44",
+      "correct": false
+    },
+    {
+      "text": "0x86",
+      "correct": false
+    },
+    {
+      "text": "0x43",
+      "correct": true
+    },
+    {
+      "text": "0x42",
+      "correct": false
+    }
+  ],
+  "explanation": "Al convertir 67 a base 16 se obtiene 0x43.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "hexadecimal",
+    "conversion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

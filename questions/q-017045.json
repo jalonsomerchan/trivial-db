@@ -1,0 +1,42 @@
+{
+  "id": "q-017045",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué proceso corresponde a “reducir”?",
+  "answers": [
+    {
+      "text": "triturar con mortero",
+      "correct": false
+    },
+    {
+      "text": "añadir hielo para cortar cocción",
+      "correct": false
+    },
+    {
+      "text": "evaporar líquido para concentrar sabor",
+      "correct": true
+    },
+    {
+      "text": "cubrir con pan rallado",
+      "correct": false
+    }
+  ],
+  "explanation": "En cocina, “reducir” significa evaporar líquido para concentrar sabor.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas-culinarias",
+    "cocina"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

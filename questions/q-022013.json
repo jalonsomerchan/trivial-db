@@ -1,0 +1,42 @@
+{
+  "id": "q-022013",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente sushi?",
+  "answers": [
+    {
+      "text": "Vietnam",
+      "correct": false
+    },
+    {
+      "text": "Etiopía",
+      "correct": false
+    },
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": true
+    }
+  ],
+  "explanation": "sushi se asocia tradicionalmente con Japón.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "japon"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

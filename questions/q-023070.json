@@ -1,0 +1,42 @@
+{
+  "id": "q-023070",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece independencia de Grecia reconocida?",
+  "answers": [
+    {
+      "text": "siglo XX",
+      "correct": false
+    },
+    {
+      "text": "siglo XVIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX",
+      "correct": true
+    },
+    {
+      "text": "siglo XXI",
+      "correct": false
+    }
+  ],
+  "explanation": "Independencia de grecia reconocida pertenece al siglo XIX.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

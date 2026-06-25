@@ -1,0 +1,42 @@
+{
+  "id": "q-022185",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué preparación describe mejor pierogi?",
+  "answers": [
+    {
+      "text": "mezcla con vegetales",
+      "correct": false
+    },
+    {
+      "text": "marinado en cítricos",
+      "correct": false
+    },
+    {
+      "text": "cocción y salteado",
+      "correct": true
+    },
+    {
+      "text": "sopa marinera",
+      "correct": false
+    }
+  ],
+  "explanation": "pierogi se caracteriza por cocción y salteado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

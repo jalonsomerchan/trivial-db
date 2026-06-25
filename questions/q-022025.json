@@ -1,0 +1,42 @@
+{
+  "id": "q-022025",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente causa limeña?",
+  "answers": [
+    {
+      "text": "Georgia",
+      "correct": false
+    },
+    {
+      "text": "Escocia",
+      "correct": false
+    },
+    {
+      "text": "Perú",
+      "correct": true
+    },
+    {
+      "text": "Alsacia",
+      "correct": false
+    }
+  ],
+  "explanation": "causa limeña se asocia tradicionalmente con Perú.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "peru"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

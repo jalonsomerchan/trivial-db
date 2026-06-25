@@ -1,0 +1,42 @@
+{
+  "id": "q-017926",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Países Bajos, Malta, Uruguay, Congo?",
+  "answers": [
+    {
+      "text": "Uruguay",
+      "correct": false
+    },
+    {
+      "text": "Malta",
+      "correct": false
+    },
+    {
+      "text": "Congo",
+      "correct": true
+    },
+    {
+      "text": "Países Bajos",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Congo es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

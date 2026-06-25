@@ -1,0 +1,42 @@
+{
+  "id": "q-019247",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "sucesiones"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el término 8 de una progresión geométrica con primer término 10 y razón 5?",
+  "answers": [
+    {
+      "text": "3906250",
+      "correct": false
+    },
+    {
+      "text": "781250",
+      "correct": true
+    },
+    {
+      "text": "156250",
+      "correct": false
+    },
+    {
+      "text": "400",
+      "correct": false
+    }
+  ],
+  "explanation": "En una progresión geométrica, aₙ = a₁·r^(n-1); el término 8 vale 781250.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "progresiones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

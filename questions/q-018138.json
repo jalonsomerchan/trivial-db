@@ -1,0 +1,42 @@
+{
+  "id": "q-018138",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué explicación corresponde a la Domingo Sangriento ruso?",
+  "answers": [
+    {
+      "text": "base para la paz entre Egipto e Israel",
+      "correct": false
+    },
+    {
+      "text": "gobierno revolucionario breve tras la guerra franco-prusiana",
+      "correct": false
+    },
+    {
+      "text": "represión de manifestantes que aceleró la revolución rusa de 1905",
+      "correct": true
+    },
+    {
+      "text": "campaña de desobediencia civil liderada por Gandhi",
+      "correct": false
+    }
+  ],
+  "explanation": "La Domingo Sangriento ruso se relaciona con represión de manifestantes que aceleró la revolución rusa de 1905.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "domingo-sangriento-ruso"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

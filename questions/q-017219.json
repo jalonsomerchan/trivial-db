@@ -1,0 +1,42 @@
+{
+  "id": "q-017219",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base elegirías para preparar pesto genovés?",
+  "answers": [
+    {
+      "text": "fondo oscuro y roux",
+      "correct": false
+    },
+    {
+      "text": "albahaca, piñones, ajo, queso y aceite",
+      "correct": true
+    },
+    {
+      "text": "soja, mirin y azúcar",
+      "correct": false
+    },
+    {
+      "text": "roux y leche",
+      "correct": false
+    }
+  ],
+  "explanation": "pesto genovés se caracteriza por albahaca, piñones, ajo, queso y aceite.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

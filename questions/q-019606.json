@@ -1,0 +1,42 @@
+{
+  "id": "q-019606",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántas direcciones IPv4 totales contiene una red /24?",
+  "answers": [
+    {
+      "text": "256",
+      "correct": true
+    },
+    {
+      "text": "254",
+      "correct": false
+    },
+    {
+      "text": "128",
+      "correct": false
+    },
+    {
+      "text": "512",
+      "correct": false
+    }
+  ],
+  "explanation": "En IPv4, una red /24 deja 8 bits para direcciones; por tanto contiene 2^8 = 256 direcciones.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "ipv4",
+    "cidr"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024005",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 19 al cuadrado?",
+  "answers": [
+    {
+      "text": "361",
+      "correct": true
+    },
+    {
+      "text": "38",
+      "correct": false
+    },
+    {
+      "text": "342",
+      "correct": false
+    },
+    {
+      "text": "380",
+      "correct": false
+    }
+  ],
+  "explanation": "Elevar 19 al cuadrado equivale a multiplicar 19 por sí mismo: 361.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

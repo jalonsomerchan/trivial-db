@@ -1,0 +1,42 @@
+{
+  "id": "q-021939",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Super Mario Bros. (videojuego), Pokémon Rojo y Verde (videojuego), World of Warcraft (videojuego) o Fortnite Battle Royale (videojuego)?",
+  "answers": [
+    {
+      "text": "Pokémon Rojo y Verde (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Fortnite Battle Royale (videojuego)",
+      "correct": true
+    },
+    {
+      "text": "World of Warcraft (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros. (videojuego)",
+      "correct": false
+    }
+  ],
+  "explanation": "Fortnite Battle Royale (videojuego) es la opción correcta porque su fecha asociada es 2017.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-021591",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué responsable creativo se vincula a “Space Invaders”?",
+  "answers": [
+    {
+      "text": "Atari",
+      "correct": false
+    },
+    {
+      "text": "Taito",
+      "correct": true
+    },
+    {
+      "text": "Game Freak",
+      "correct": false
+    },
+    {
+      "text": "Namco",
+      "correct": false
+    }
+  ],
+  "explanation": "“Space Invaders” se asocia con Taito.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-022230",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación plato-origen-ingrediente es correcta para risotto?",
+  "answers": [
+    {
+      "text": "risotto — Vietnam — pan",
+      "correct": false
+    },
+    {
+      "text": "risotto — Italia — arroz arborio",
+      "correct": true
+    },
+    {
+      "text": "risotto — Oriente Medio — garbanzo o haba",
+      "correct": false
+    },
+    {
+      "text": "risotto — Canadá — patatas fritas",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para risotto es Italia y arroz arborio.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

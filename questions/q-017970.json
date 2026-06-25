@@ -1,0 +1,42 @@
+{
+  "id": "q-017970",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Turkmenistán, Vietnam, Antigua y Barbuda, Bielorrusia?",
+  "answers": [
+    {
+      "text": "Vietnam",
+      "correct": false
+    },
+    {
+      "text": "Antigua y Barbuda",
+      "correct": false
+    },
+    {
+      "text": "Turkmenistán",
+      "correct": true
+    },
+    {
+      "text": "Bielorrusia",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Turkmenistán es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

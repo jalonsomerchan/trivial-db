@@ -1,0 +1,42 @@
+{
+  "id": "q-017956",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Ruanda, Somalia, Vanuatu, Arabia Saudí?",
+  "answers": [
+    {
+      "text": "Ruanda",
+      "correct": false
+    },
+    {
+      "text": "Arabia Saudí",
+      "correct": true
+    },
+    {
+      "text": "Somalia",
+      "correct": false
+    },
+    {
+      "text": "Vanuatu",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Arabia Saudí es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

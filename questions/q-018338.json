@@ -1,0 +1,42 @@
+{
+  "id": "q-018338",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Llegada de Colón a América” y “Independencia de Estados Unidos”?",
+  "answers": [
+    {
+      "text": "Llegada de Colón a América antes que Independencia de Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "Independencia de Estados Unidos antes que Llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Llegada de Colón a América después que Independencia de Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "Llegada de Colón a América ocurrió antes que Independencia de Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

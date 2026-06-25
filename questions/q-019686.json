@@ -1,0 +1,42 @@
+{
+  "id": "q-019686",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el código hexadecimal del color RGB(240, 8, 0)?",
+  "answers": [
+    {
+      "text": "#F00800",
+      "correct": true
+    },
+    {
+      "text": "#08F000",
+      "correct": false
+    },
+    {
+      "text": "#F00008",
+      "correct": false
+    },
+    {
+      "text": "#0008F0",
+      "correct": false
+    }
+  ],
+  "explanation": "Cada componente RGB se convierte a dos dígitos hexadecimales: F0, 08 y 00.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "colores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

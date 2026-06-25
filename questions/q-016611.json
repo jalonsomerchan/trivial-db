@@ -1,0 +1,42 @@
+{
+  "id": "q-016611",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué videojuego o saga aparece el lugar ficticio “Silent Hill”?",
+  "answers": [
+    {
+      "text": "Dead Space",
+      "correct": false
+    },
+    {
+      "text": "Silent Hill",
+      "correct": true
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "Alan Wake",
+      "correct": false
+    }
+  ],
+  "explanation": "“Silent Hill” es un lugar asociado a Silent Hill.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "ficcion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

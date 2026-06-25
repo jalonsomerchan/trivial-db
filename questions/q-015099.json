@@ -1,0 +1,42 @@
+{
+  "id": "q-015099",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué título se relaciona con el personaje Capitán Ahab?",
+  "answers": [
+    {
+      "text": "Moby-Dick",
+      "correct": true
+    },
+    {
+      "text": "Las uvas de la ira",
+      "correct": false
+    },
+    {
+      "text": "Anna Karénina",
+      "correct": false
+    },
+    {
+      "text": "El cuento de la criada",
+      "correct": false
+    }
+  ],
+  "explanation": "Capitán Ahab es un personaje de “Moby-Dick”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

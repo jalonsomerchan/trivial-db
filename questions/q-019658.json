@@ -1,0 +1,42 @@
+{
+  "id": "q-019658",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el código hexadecimal del color RGB(112, 8, 128)?",
+  "answers": [
+    {
+      "text": "#708008",
+      "correct": false
+    },
+    {
+      "text": "#700880",
+      "correct": true
+    },
+    {
+      "text": "#087080",
+      "correct": false
+    },
+    {
+      "text": "#800870",
+      "correct": false
+    }
+  ],
+  "explanation": "Cada componente RGB se convierte a dos dígitos hexadecimales: 70, 08 y 80.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "colores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

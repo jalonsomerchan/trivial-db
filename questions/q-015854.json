@@ -1,0 +1,42 @@
+{
+  "id": "q-015854",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 78 V y 4 A?",
+  "answers": [
+    {
+      "text": "82 W",
+      "correct": false
+    },
+    {
+      "text": "312 W",
+      "correct": true
+    },
+    {
+      "text": "624 W",
+      "correct": false
+    },
+    {
+      "text": "19.5 W",
+      "correct": false
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 78 × 4 = 312 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

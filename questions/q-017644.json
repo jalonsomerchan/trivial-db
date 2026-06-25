@@ -1,0 +1,42 @@
+{
+  "id": "q-017644",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Azerbaiyán?",
+  "answers": [
+    {
+      "text": "Taiwán",
+      "correct": false
+    },
+    {
+      "text": "Turquía",
+      "correct": true
+    },
+    {
+      "text": "Hong Kong",
+      "correct": false
+    },
+    {
+      "text": "Singapur",
+      "correct": false
+    }
+  ],
+  "explanation": "Turquía comparte frontera terrestre con Azerbaiyán.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

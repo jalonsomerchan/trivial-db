@@ -1,0 +1,43 @@
+{
+  "id": "q-022498",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción triple encaja con mole poblano?",
+  "answers": [
+    {
+      "text": "mole poblano — México — chiles y cacao",
+      "correct": true
+    },
+    {
+      "text": "mole poblano — España — arroz",
+      "correct": false
+    },
+    {
+      "text": "mole poblano — Europa oriental — remolacha",
+      "correct": false
+    },
+    {
+      "text": "mole poblano — Canadá — patatas fritas",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para mole poblano es México y chiles y cacao.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

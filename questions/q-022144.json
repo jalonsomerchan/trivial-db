@@ -1,0 +1,42 @@
+{
+  "id": "q-022144",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué ingrediente destaca en laksa?",
+  "answers": [
+    {
+      "text": "masa de trigo",
+      "correct": false
+    },
+    {
+      "text": "patatas fritas",
+      "correct": false
+    },
+    {
+      "text": "col china",
+      "correct": false
+    },
+    {
+      "text": "fideos",
+      "correct": true
+    }
+  ],
+  "explanation": "laksa se relaciona especialmente con fideos.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

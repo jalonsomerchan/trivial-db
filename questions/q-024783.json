@@ -1,0 +1,42 @@
+{
+  "id": "q-024783",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 31 OR 144 a nivel de bits?",
+  "answers": [
+    {
+      "text": "175",
+      "correct": false
+    },
+    {
+      "text": "143",
+      "correct": false
+    },
+    {
+      "text": "158",
+      "correct": false
+    },
+    {
+      "text": "159",
+      "correct": true
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 31 y 144, el resultado decimal es 159.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

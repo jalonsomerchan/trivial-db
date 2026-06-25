@@ -1,0 +1,42 @@
+{
+  "id": "q-018511",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "conectores"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué relación expresa normalmente el conector “es decir”?",
+  "answers": [
+    {
+      "text": "condición",
+      "correct": false
+    },
+    {
+      "text": "finalidad",
+      "correct": false
+    },
+    {
+      "text": "explicación",
+      "correct": true
+    },
+    {
+      "text": "contraste",
+      "correct": false
+    }
+  ],
+  "explanation": "El conector “es decir” suele expresar explicación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "conectores",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023529",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se clasifica “difícil” por su acentuación?",
+  "answers": [
+    {
+      "text": "esdrújula",
+      "correct": false
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    },
+    {
+      "text": "llana",
+      "correct": true
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    }
+  ],
+  "explanation": "“difícil” es una palabra llana según su acentuación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "llana"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

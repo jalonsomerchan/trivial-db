@@ -1,0 +1,42 @@
+{
+  "id": "q-015382",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción resume mejor el lenguaje del rococó?",
+  "answers": [
+    {
+      "text": "reducción formal y austeridad de medios",
+      "correct": false
+    },
+    {
+      "text": "dramatismo, contraste y movimiento",
+      "correct": false
+    },
+    {
+      "text": "emoción, sublime y libertad individual",
+      "correct": false
+    },
+    {
+      "text": "ornamentación ligera y gusto cortesano",
+      "correct": true
+    }
+  ],
+  "explanation": "El rococó se reconoce por ornamentación ligera y gusto cortesano.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

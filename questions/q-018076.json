@@ -1,0 +1,42 @@
+{
+  "id": "q-018076",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tema histórico corresponde al Tratado de Utrecht?",
+  "answers": [
+    {
+      "text": "inicio de la guerra de los Cien Años",
+      "correct": false
+    },
+    {
+      "text": "creación de la ONU",
+      "correct": false
+    },
+    {
+      "text": "fin de la Guerra de Sucesión española",
+      "correct": true
+    },
+    {
+      "text": "fin de la Guerra de Crimea",
+      "correct": false
+    }
+  ],
+  "explanation": "El Tratado de Utrecht, firmado en 1713, se vincula con fin de la Guerra de Sucesión española.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "tratados",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

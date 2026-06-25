@@ -1,0 +1,42 @@
+{
+  "id": "q-018021",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué consecuencia se asocia al Tratado de Nankín?",
+  "answers": [
+    {
+      "text": "fin de la guerra de Corea",
+      "correct": false
+    },
+    {
+      "text": "fin de la Primera Guerra del Opio",
+      "correct": true
+    },
+    {
+      "text": "creación de la Unión Europea",
+      "correct": false
+    },
+    {
+      "text": "independencia de Haití",
+      "correct": false
+    }
+  ],
+  "explanation": "El Tratado de Nankín, firmado en 1842, se vincula con fin de la Primera Guerra del Opio.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "tratados",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018628",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué papel sintáctico cumple “en Granada” en “Luis vive en Granada”?",
+  "answers": [
+    {
+      "text": "complemento predicativo",
+      "correct": false
+    },
+    {
+      "text": "atributo",
+      "correct": false
+    },
+    {
+      "text": "complemento circunstancial de lugar",
+      "correct": true
+    },
+    {
+      "text": "complemento indirecto",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Luis vive en Granada”, “en Granada” funciona como complemento circunstancial de lugar.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023802",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura se reconoce mejor en “El reloj nos grita que es tarde”?",
+  "answers": [
+    {
+      "text": "polisíndeton",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": true
+    },
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": false
+    }
+  ],
+  "explanation": "“El reloj nos grita que es tarde” se clasifica como personificación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

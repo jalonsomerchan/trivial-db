@@ -1,0 +1,42 @@
+{
+  "id": "q-020202",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué rasgo de estilo define al expresionismo?",
+  "answers": [
+    {
+      "text": "descomposición de las formas en planos geométricos",
+      "correct": false
+    },
+    {
+      "text": "referencias a la Antigüedad clásica y sobriedad",
+      "correct": false
+    },
+    {
+      "text": "distorsión expresiva de la realidad",
+      "correct": true
+    },
+    {
+      "text": "reducción formal y austeridad",
+      "correct": false
+    }
+  ],
+  "explanation": "El expresionismo se asocia con distorsión expresiva de la realidad.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

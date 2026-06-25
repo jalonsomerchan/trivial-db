@@ -1,0 +1,42 @@
+{
+  "id": "q-017780",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con Croacia?",
+  "answers": [
+    {
+      "text": "Hungría",
+      "correct": false
+    },
+    {
+      "text": "Serbia",
+      "correct": false
+    },
+    {
+      "text": "Islas Faroe",
+      "correct": true
+    },
+    {
+      "text": "Bosnia y Herzegovina",
+      "correct": false
+    }
+  ],
+  "explanation": "Islas Faroe no figura entre los países que comparten frontera terrestre con Croacia, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

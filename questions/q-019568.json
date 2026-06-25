@@ -1,0 +1,42 @@
+{
+  "id": "q-019568",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "desarrollo"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué tarea se relaciona más API REST?",
+  "answers": [
+    {
+      "text": "convertir audio analógico",
+      "correct": false
+    },
+    {
+      "text": "ensamblar microchips",
+      "correct": false
+    },
+    {
+      "text": "exponer recursos mediante peticiones HTTP",
+      "correct": true
+    },
+    {
+      "text": "calibrar antenas parabólicas",
+      "correct": false
+    }
+  ],
+  "explanation": "API REST se usa principalmente para exponer recursos mediante peticiones HTTP.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "desarrollo",
+    "informatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

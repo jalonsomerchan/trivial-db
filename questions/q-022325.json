@@ -1,0 +1,43 @@
+{
+  "id": "q-022325",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación gastronómica identifica mejor a baklava?",
+  "answers": [
+    {
+      "text": "baklava — Alsacia — col fermentada",
+      "correct": false
+    },
+    {
+      "text": "baklava — Indonesia — carne",
+      "correct": false
+    },
+    {
+      "text": "baklava — Mediterráneo oriental — masa filo",
+      "correct": true
+    },
+    {
+      "text": "baklava — Europa oriental — remolacha",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para baklava es Mediterráneo oriental y masa filo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

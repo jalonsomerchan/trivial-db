@@ -1,0 +1,42 @@
+{
+  "id": "q-022092",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué ingrediente se relaciona especialmente con rendang?",
+  "answers": [
+    {
+      "text": "pescado",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": true
+    },
+    {
+      "text": "frijoles negros",
+      "correct": false
+    },
+    {
+      "text": "carne o verduras",
+      "correct": false
+    }
+  ],
+  "explanation": "rendang se relaciona especialmente con carne.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016595",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la franquicia asociada a Katniss Everdeen?",
+  "answers": [
+    {
+      "text": "El señor de los anillos",
+      "correct": false
+    },
+    {
+      "text": "Harry Potter",
+      "correct": false
+    },
+    {
+      "text": "Divergente",
+      "correct": false
+    },
+    {
+      "text": "Los juegos del hambre",
+      "correct": true
+    }
+  ],
+  "explanation": "Katniss Everdeen es un personaje asociado a “Los juegos del hambre”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

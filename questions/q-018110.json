@@ -1,0 +1,42 @@
+{
+  "id": "q-018110",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos-xix-xx"
+  ],
+  "difficulty": "medium",
+  "question": "¿Dónde tuvo lugar o se celebró principalmente la Conferencia de Bandung?",
+  "answers": [
+    {
+      "text": "Indonesia",
+      "correct": true
+    },
+    {
+      "text": "Egipto",
+      "correct": false
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": false
+    }
+  ],
+  "explanation": "La Conferencia de Bandung se asocia principalmente con Indonesia en 1955.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "conferencia-de-bandung"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

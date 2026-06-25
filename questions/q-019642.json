@@ -1,0 +1,42 @@
+{
+  "id": "q-019642",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el código hexadecimal del color RGB(16, 193, 146)?",
+  "answers": [
+    {
+      "text": "#1092C1",
+      "correct": false
+    },
+    {
+      "text": "#92C110",
+      "correct": false
+    },
+    {
+      "text": "#C11092",
+      "correct": false
+    },
+    {
+      "text": "#10C192",
+      "correct": true
+    }
+  ],
+  "explanation": "Cada componente RGB se convierte a dos dígitos hexadecimales: 10, C1 y 92.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "colores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

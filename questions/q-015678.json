@@ -1,0 +1,42 @@
+{
+  "id": "q-015678",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 232 g de dióxido de carbono si su masa molar es 44 g/mol?",
+  "answers": [
+    {
+      "text": "2.636",
+      "correct": false
+    },
+    {
+      "text": "6.273",
+      "correct": false
+    },
+    {
+      "text": "10.545",
+      "correct": false
+    },
+    {
+      "text": "5.273",
+      "correct": true
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 232/44, aproximadamente 5.273 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

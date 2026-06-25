@@ -1,0 +1,42 @@
+{
+  "id": "q-024551",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tarea corresponde a SVG?",
+  "answers": [
+    {
+      "text": "describir gráficos vectoriales escalables",
+      "correct": true
+    },
+    {
+      "text": "ejecutar consultas SQL",
+      "correct": false
+    },
+    {
+      "text": "autenticar por Kerberos",
+      "correct": false
+    },
+    {
+      "text": "formatear particiones",
+      "correct": false
+    }
+  ],
+  "explanation": "SVG se usa principalmente para describir gráficos vectoriales escalables.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "tecnologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

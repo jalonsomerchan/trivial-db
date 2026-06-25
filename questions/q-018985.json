@@ -1,0 +1,42 @@
+{
+  "id": "q-018985",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cómo se analiza “La nieve del tiempo en sus cabellos” desde la gramática o la retórica?",
+  "answers": [
+    {
+      "text": "subordinada sustantiva",
+      "correct": false
+    },
+    {
+      "text": "elipsis",
+      "correct": false
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": true
+    }
+  ],
+  "explanation": "“La nieve del tiempo en sus cabellos” se clasifica como metáfora.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022180",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base culinaria se asocia con falafel?",
+  "answers": [
+    {
+      "text": "frijoles negros",
+      "correct": false
+    },
+    {
+      "text": "garbanzo",
+      "correct": false
+    },
+    {
+      "text": "pan",
+      "correct": false
+    },
+    {
+      "text": "garbanzo o haba",
+      "correct": true
+    }
+  ],
+  "explanation": "falafel se relaciona especialmente con garbanzo o haba.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

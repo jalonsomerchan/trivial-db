@@ -1,0 +1,42 @@
+{
+  "id": "q-017228",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base elegirías para preparar salsa española?",
+  "answers": [
+    {
+      "text": "soja, mirin y azúcar",
+      "correct": false
+    },
+    {
+      "text": "fondo claro ligado con roux",
+      "correct": false
+    },
+    {
+      "text": "perejil, ajo, vinagre y aceite",
+      "correct": false
+    },
+    {
+      "text": "fondo oscuro y roux",
+      "correct": true
+    }
+  ],
+  "explanation": "salsa española se caracteriza por fondo oscuro y roux.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018514",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "conectores"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué valor discursivo tiene “por tanto” en español?",
+  "answers": [
+    {
+      "text": "condición",
+      "correct": false
+    },
+    {
+      "text": "comparación",
+      "correct": false
+    },
+    {
+      "text": "consecuencia",
+      "correct": true
+    },
+    {
+      "text": "concesión",
+      "correct": false
+    }
+  ],
+  "explanation": "El conector “por tanto” suele expresar consecuencia.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "conectores",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

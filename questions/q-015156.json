@@ -1,0 +1,42 @@
+{
+  "id": "q-015156",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación obra-museo es correcta para “La joven de la perla”?",
+  "answers": [
+    {
+      "text": "La joven de la perla — Harry Ransom Center",
+      "correct": false
+    },
+    {
+      "text": "La joven de la perla — Museos Vaticanos",
+      "correct": false
+    },
+    {
+      "text": "La joven de la perla — MoMA",
+      "correct": false
+    },
+    {
+      "text": "La joven de la perla — Mauritshuis",
+      "correct": true
+    }
+  ],
+  "explanation": "“La joven de la perla” se conserva habitualmente en Mauritshuis.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

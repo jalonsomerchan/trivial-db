@@ -1,0 +1,42 @@
+{
+  "id": "q-023178",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1947?",
+  "answers": [
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": false
+    },
+    {
+      "text": "independencia de India",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Reforma protestante",
+      "correct": false
+    },
+    {
+      "text": "firma del Tratado de Maastricht",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1947 se asocia con independencia de India.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018680",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué análisis sintáctico recibe “azul” en “Ese coche azul consume poco”?",
+  "answers": [
+    {
+      "text": "complemento del nombre",
+      "correct": true
+    },
+    {
+      "text": "complemento indirecto",
+      "correct": false
+    },
+    {
+      "text": "atributo",
+      "correct": false
+    },
+    {
+      "text": "sujeto",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Ese coche azul consume poco”, “azul” funciona como complemento del nombre.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-022246",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación plato-origen-ingrediente es correcta para bánh mì?",
+  "answers": [
+    {
+      "text": "bánh mì — México — chiles y cacao",
+      "correct": false
+    },
+    {
+      "text": "bánh mì — Vietnam — pan",
+      "correct": true
+    },
+    {
+      "text": "bánh mì — Vietnam — fideos de arroz",
+      "correct": false
+    },
+    {
+      "text": "bánh mì — Italia — arroz arborio",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para bánh mì es Vietnam y pan.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

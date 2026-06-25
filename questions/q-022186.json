@@ -1,0 +1,42 @@
+{
+  "id": "q-022186",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base culinaria se asocia con borsch?",
+  "answers": [
+    {
+      "text": "patata y huevo",
+      "correct": false
+    },
+    {
+      "text": "remolacha",
+      "correct": true
+    },
+    {
+      "text": "yogur",
+      "correct": false
+    },
+    {
+      "text": "almejas",
+      "correct": false
+    }
+  ],
+  "explanation": "borsch se relaciona especialmente con remolacha.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

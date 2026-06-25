@@ -1,0 +1,42 @@
+{
+  "id": "q-015595",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "anatomia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué opción describe correctamente a páncreas?",
+  "answers": [
+    {
+      "text": "filtrar la sangre",
+      "correct": false
+    },
+    {
+      "text": "intercambiar gases",
+      "correct": false
+    },
+    {
+      "text": "producir insulina y enzimas digestivas",
+      "correct": true
+    },
+    {
+      "text": "producir bilis",
+      "correct": false
+    }
+  ],
+  "explanation": "Páncreas se asocia principalmente con producir insulina y enzimas digestivas.",
+  "sources": [
+    {
+      "title": "OpenStax - Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "anatomia",
+    "biologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

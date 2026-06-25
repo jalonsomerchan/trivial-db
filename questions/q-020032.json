@@ -1,0 +1,42 @@
+{
+  "id": "q-020032",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién creó “El nacimiento de Venus”?",
+  "answers": [
+    {
+      "text": "Diego Velázquez",
+      "correct": false
+    },
+    {
+      "text": "Vasili Kandinski",
+      "correct": false
+    },
+    {
+      "text": "Sandro Botticelli",
+      "correct": true
+    },
+    {
+      "text": "Salvador Dalí",
+      "correct": false
+    }
+  ],
+  "explanation": "“El nacimiento de Venus” fue creada por Sandro Botticelli.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

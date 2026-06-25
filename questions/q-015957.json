@@ -1,0 +1,42 @@
+{
+  "id": "q-015957",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 156 V y 3 A?",
+  "answers": [
+    {
+      "text": "936 W",
+      "correct": false
+    },
+    {
+      "text": "159 W",
+      "correct": false
+    },
+    {
+      "text": "52 W",
+      "correct": false
+    },
+    {
+      "text": "468 W",
+      "correct": true
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 156 × 3 = 468 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

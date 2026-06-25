@@ -1,0 +1,42 @@
+{
+  "id": "q-024575",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sistemas-numericos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la notación hexadecimal del número decimal 87?",
+  "answers": [
+    {
+      "text": "0xAE",
+      "correct": false
+    },
+    {
+      "text": "0x58",
+      "correct": false
+    },
+    {
+      "text": "0x57",
+      "correct": true
+    },
+    {
+      "text": "0x56",
+      "correct": false
+    }
+  ],
+  "explanation": "Al convertir 87 a base 16 se obtiene 0x57.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "hexadecimal",
+    "conversion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

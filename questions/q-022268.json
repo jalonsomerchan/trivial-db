@@ -1,0 +1,43 @@
+{
+  "id": "q-022268",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación plato-origen-ingrediente es correcta para satay?",
+  "answers": [
+    {
+      "text": "satay — Italia — masa de trigo",
+      "correct": false
+    },
+    {
+      "text": "satay — Japón — rebozado ligero",
+      "correct": false
+    },
+    {
+      "text": "satay — Corea — col china",
+      "correct": false
+    },
+    {
+      "text": "satay — Sudeste asiático — carne ensartada",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para satay es Sudeste asiático y carne ensartada.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

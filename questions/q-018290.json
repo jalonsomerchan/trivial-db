@@ -1,0 +1,42 @@
+{
+  "id": "q-018290",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Asesinato de Julio César” y “Independencia de Estados Unidos”?",
+  "answers": [
+    {
+      "text": "Asesinato de Julio César antes que Independencia de Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Independencia de Estados Unidos antes que Asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "Asesinato de Julio César después que Independencia de Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "Asesinato de Julio César ocurrió antes que Independencia de Estados Unidos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

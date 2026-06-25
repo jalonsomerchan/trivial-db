@@ -1,0 +1,42 @@
+{
+  "id": "q-022027",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente asado?",
+  "answers": [
+    {
+      "text": "Vietnam",
+      "correct": false
+    },
+    {
+      "text": "Argentina",
+      "correct": true
+    },
+    {
+      "text": "Georgia",
+      "correct": false
+    },
+    {
+      "text": "Marruecos",
+      "correct": false
+    }
+  ],
+  "explanation": "asado se asocia tradicionalmente con Argentina.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "argentina"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

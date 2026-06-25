@@ -1,0 +1,42 @@
+{
+  "id": "q-021621",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué responsable creativo se vincula a “Fortnite Battle Royale”?",
+  "answers": [
+    {
+      "text": "Atari",
+      "correct": false
+    },
+    {
+      "text": "Epic Games",
+      "correct": true
+    },
+    {
+      "text": "Mojang",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": false
+    }
+  ],
+  "explanation": "“Fortnite Battle Royale” se asocia con Epic Games.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023222",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué suceso histórico corresponde a 1914?",
+  "answers": [
+    {
+      "text": "inicio de la Reforma protestante",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Primera Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "acuerdo de París sobre el clima",
+      "correct": false
+    },
+    {
+      "text": "entrada física del euro en circulación",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1914 se asocia con inicio de la Primera Guerra Mundial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

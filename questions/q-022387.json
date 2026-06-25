@@ -1,0 +1,43 @@
+{
+  "id": "q-022387",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para tzatziki?",
+  "answers": [
+    {
+      "text": "tzatziki — Perú — patata",
+      "correct": false
+    },
+    {
+      "text": "tzatziki — Italia — arroz arborio",
+      "correct": false
+    },
+    {
+      "text": "tzatziki — Brasil — frijoles negros",
+      "correct": false
+    },
+    {
+      "text": "tzatziki — Grecia — yogur",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para tzatziki es Grecia y yogur.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

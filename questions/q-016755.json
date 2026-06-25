@@ -1,0 +1,42 @@
+{
+  "id": "q-016755",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "musica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué artista o grupo publicó el álbum “Thriller”?",
+  "answers": [
+    {
+      "text": "Daft Punk",
+      "correct": false
+    },
+    {
+      "text": "Miles Davis",
+      "correct": false
+    },
+    {
+      "text": "Michael Jackson",
+      "correct": true
+    },
+    {
+      "text": "Lauryn Hill",
+      "correct": false
+    }
+  ],
+  "explanation": "“Thriller” es un álbum de Michael Jackson.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "musica",
+    "albumes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

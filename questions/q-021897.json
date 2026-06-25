@@ -1,0 +1,42 @@
+{
+  "id": "q-021897",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: The Legend of Zelda (videojuego), Pokémon Rojo y Verde (videojuego), Halo: Combat Evolved (videojuego) o The Last of Us (videojuego)?",
+  "answers": [
+    {
+      "text": "Pokémon Rojo y Verde (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "The Last of Us (videojuego)",
+      "correct": true
+    },
+    {
+      "text": "The Legend of Zelda (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Halo: Combat Evolved (videojuego)",
+      "correct": false
+    }
+  ],
+  "explanation": "The Last of Us (videojuego) es la opción correcta porque su fecha asociada es 2013.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

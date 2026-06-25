@@ -1,0 +1,42 @@
+{
+  "id": "q-016593",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la franquicia asociada a Frodo Bolsón?",
+  "answers": [
+    {
+      "text": "Matrix",
+      "correct": false
+    },
+    {
+      "text": "Dune",
+      "correct": false
+    },
+    {
+      "text": "El señor de los anillos",
+      "correct": true
+    },
+    {
+      "text": "Harry Potter",
+      "correct": false
+    }
+  ],
+  "explanation": "Frodo Bolsón es un personaje asociado a “El señor de los anillos”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

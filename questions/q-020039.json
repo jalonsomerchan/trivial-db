@@ -1,0 +1,42 @@
+{
+  "id": "q-020039",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién creó “Impresión, sol naciente”?",
+  "answers": [
+    {
+      "text": "Leonardo da Vinci",
+      "correct": false
+    },
+    {
+      "text": "Claude Monet",
+      "correct": true
+    },
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "Alexandre Dumas hijo",
+      "correct": false
+    }
+  ],
+  "explanation": "“Impresión, sol naciente” fue creada por Claude Monet.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

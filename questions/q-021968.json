@@ -1,0 +1,42 @@
+{
+  "id": "q-021968",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Toy Story (película), El viaje de Chihiro (película), Pong (videojuego) o The Legend of Zelda (videojuego)?",
+  "answers": [
+    {
+      "text": "Toy Story (película)",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Pong (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "El viaje de Chihiro (película)",
+      "correct": true
+    }
+  ],
+  "explanation": "El viaje de Chihiro (película) es la opción correcta porque su fecha asociada es 2001.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

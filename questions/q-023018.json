@@ -1,0 +1,42 @@
+{
+  "id": "q-023018",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió batalla de Waterloo?",
+  "answers": [
+    {
+      "text": "1816",
+      "correct": false
+    },
+    {
+      "text": "1825",
+      "correct": false
+    },
+    {
+      "text": "1815",
+      "correct": true
+    },
+    {
+      "text": "1814",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de waterloo ocurrió en 1815.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

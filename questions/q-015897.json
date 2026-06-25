@@ -1,0 +1,42 @@
+{
+  "id": "q-015897",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 114 V y 0.5 A?",
+  "answers": [
+    {
+      "text": "114 W",
+      "correct": false
+    },
+    {
+      "text": "114.5 W",
+      "correct": false
+    },
+    {
+      "text": "57 W",
+      "correct": true
+    },
+    {
+      "text": "228 W",
+      "correct": false
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 114 × 0.5 = 57 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

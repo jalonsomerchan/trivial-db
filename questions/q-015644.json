@@ -1,0 +1,42 @@
+{
+  "id": "q-015644",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Alrededor de qué cuerpo del sistema solar orbita Europa?",
+  "answers": [
+    {
+      "text": "Neptuno",
+      "correct": false
+    },
+    {
+      "text": "Júpiter",
+      "correct": true
+    },
+    {
+      "text": "Marte",
+      "correct": false
+    },
+    {
+      "text": "Urano",
+      "correct": false
+    }
+  ],
+  "explanation": "Europa es un satélite natural que orbita alrededor de Júpiter.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "satelites",
+    "sistema-solar"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

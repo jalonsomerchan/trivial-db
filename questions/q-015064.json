@@ -1,0 +1,42 @@
+{
+  "id": "q-015064",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué libro es relevante el personaje Sancho Panza?",
+  "answers": [
+    {
+      "text": "El extranjero",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": true
+    },
+    {
+      "text": "El cuento de la criada",
+      "correct": false
+    },
+    {
+      "text": "El guardián entre el centeno",
+      "correct": false
+    }
+  ],
+  "explanation": "Sancho Panza es un personaje de “Don Quijote de la Mancha”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

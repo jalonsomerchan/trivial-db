@@ -1,0 +1,42 @@
+{
+  "id": "q-019015",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 40% de 90?",
+  "answers": [
+    {
+      "text": "45",
+      "correct": false
+    },
+    {
+      "text": "31",
+      "correct": false
+    },
+    {
+      "text": "40",
+      "correct": false
+    },
+    {
+      "text": "36",
+      "correct": true
+    }
+  ],
+  "explanation": "El 40% de 90 se calcula multiplicando 90 por 40/100, lo que da 36.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

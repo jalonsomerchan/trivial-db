@@ -1,0 +1,42 @@
+{
+  "id": "q-018105",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos-xix-xx"
+  ],
+  "difficulty": "medium",
+  "question": "¿Dónde tuvo lugar o se celebró principalmente la Comuna de París?",
+  "answers": [
+    {
+      "text": "India",
+      "correct": false
+    },
+    {
+      "text": "Portugal",
+      "correct": false
+    },
+    {
+      "text": "París",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    }
+  ],
+  "explanation": "La Comuna de París se asocia principalmente con París en 1871.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "comuna-de-paris"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

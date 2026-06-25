@@ -1,0 +1,42 @@
+{
+  "id": "q-023062",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué siglo pertenece derrota de la Armada Invencible?",
+  "answers": [
+    {
+      "text": "siglo XVIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XVII",
+      "correct": false
+    },
+    {
+      "text": "siglo XVI",
+      "correct": true
+    },
+    {
+      "text": "siglo XV",
+      "correct": false
+    }
+  ],
+  "explanation": "Derrota de la armada invencible pertenece al siglo XVI.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "siglos",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

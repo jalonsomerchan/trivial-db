@@ -1,0 +1,42 @@
+{
+  "id": "q-024866",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 59 OR 166 a nivel de bits?",
+  "answers": [
+    {
+      "text": "225",
+      "correct": false
+    },
+    {
+      "text": "191",
+      "correct": true
+    },
+    {
+      "text": "190",
+      "correct": false
+    },
+    {
+      "text": "157",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 59 y 166, el resultado decimal es 191.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024759",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 24 AND 78 a nivel de bits?",
+  "answers": [
+    {
+      "text": "102",
+      "correct": false
+    },
+    {
+      "text": "9",
+      "correct": false
+    },
+    {
+      "text": "86",
+      "correct": false
+    },
+    {
+      "text": "8",
+      "correct": true
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 24 y 78, el resultado decimal es 8.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

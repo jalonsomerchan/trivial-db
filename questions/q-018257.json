@@ -1,0 +1,42 @@
+{
+  "id": "q-018257",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Batalla de Hastings” y “Llegada de Colón a América”?",
+  "answers": [
+    {
+      "text": "Batalla de Hastings después que Llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "Llegada de Colón a América antes que Batalla de Hastings",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Hastings antes que Llegada de Colón a América",
+      "correct": true
+    }
+  ],
+  "explanation": "Batalla de Hastings ocurrió antes que Llegada de Colón a América.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

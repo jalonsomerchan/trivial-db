@@ -1,0 +1,42 @@
+{
+  "id": "q-022520",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Sudáfrica?",
+  "answers": [
+    {
+      "text": "Kampala",
+      "correct": false
+    },
+    {
+      "text": "Acra",
+      "correct": false
+    },
+    {
+      "text": "Pretoria",
+      "correct": true
+    },
+    {
+      "text": "Adís Abeba",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Sudáfrica es Pretoria.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "africa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016738",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el videojuego asociado al mapa “Midgar”?",
+  "answers": [
+    {
+      "text": "Final Fantasy VII",
+      "correct": true
+    },
+    {
+      "text": "Grand Theft Auto V",
+      "correct": false
+    },
+    {
+      "text": "Dishonored",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    }
+  ],
+  "explanation": "“Midgar” aparece en Final Fantasy VII.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

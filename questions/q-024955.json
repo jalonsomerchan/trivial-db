@@ -1,0 +1,42 @@
+{
+  "id": "q-024955",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 94 AND 100 a nivel de bits?",
+  "answers": [
+    {
+      "text": "69",
+      "correct": false
+    },
+    {
+      "text": "68",
+      "correct": true
+    },
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "194",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 94 y 100, el resultado decimal es 68.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

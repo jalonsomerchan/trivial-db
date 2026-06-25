@@ -1,0 +1,42 @@
+{
+  "id": "q-015046",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué obra literaria incluye a Jay Gatsby?",
+  "answers": [
+    {
+      "text": "Las uvas de la ira",
+      "correct": false
+    },
+    {
+      "text": "Los miserables",
+      "correct": false
+    },
+    {
+      "text": "El gran Gatsby",
+      "correct": true
+    },
+    {
+      "text": "El cuento de la criada",
+      "correct": false
+    }
+  ],
+  "explanation": "Jay Gatsby es un personaje de “El gran Gatsby”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

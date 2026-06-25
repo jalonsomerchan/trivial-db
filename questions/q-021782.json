@@ -1,0 +1,42 @@
+{
+  "id": "q-021782",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: Regreso al futuro (película), Titanic (película), El viaje de Chihiro (película) o Parásitos (película)?",
+  "answers": [
+    {
+      "text": "Titanic (película)",
+      "correct": false
+    },
+    {
+      "text": "Regreso al futuro (película)",
+      "correct": true
+    },
+    {
+      "text": "Parásitos (película)",
+      "correct": false
+    },
+    {
+      "text": "El viaje de Chihiro (película)",
+      "correct": false
+    }
+  ],
+  "explanation": "Regreso al futuro (película) es la opción correcta porque su fecha asociada es 1985.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

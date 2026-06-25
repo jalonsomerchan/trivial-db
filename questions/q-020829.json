@@ -1,0 +1,42 @@
+{
+  "id": "q-020829",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica-nuclear"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué masa queda de una muestra radiactiva de 200 g tras 12 años si su semivida es de 4 años?",
+  "answers": [
+    {
+      "text": "188 g",
+      "correct": false
+    },
+    {
+      "text": "66.6667 g",
+      "correct": false
+    },
+    {
+      "text": "50 g",
+      "correct": false
+    },
+    {
+      "text": "25 g",
+      "correct": true
+    }
+  ],
+  "explanation": "Tras 3 semividas queda 200/2^3, es decir, 25 g.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "semivida",
+    "radiactividad"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

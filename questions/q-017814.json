@@ -1,0 +1,42 @@
+{
+  "id": "q-017814",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con Vietnam?",
+  "answers": [
+    {
+      "text": "Laos",
+      "correct": false
+    },
+    {
+      "text": "Camboya",
+      "correct": false
+    },
+    {
+      "text": "Bangladesh",
+      "correct": true
+    },
+    {
+      "text": "China",
+      "correct": false
+    }
+  ],
+  "explanation": "Bangladesh no figura entre los países que comparten frontera terrestre con Vietnam, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

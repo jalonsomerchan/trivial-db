@@ -1,0 +1,42 @@
+{
+  "id": "q-022629",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Finlandia?",
+  "answers": [
+    {
+      "text": "corona sueca",
+      "correct": false
+    },
+    {
+      "text": "forinto",
+      "correct": false
+    },
+    {
+      "text": "zloty",
+      "correct": false
+    },
+    {
+      "text": "euro",
+      "correct": true
+    }
+  ],
+  "explanation": "La moneda indicada para Finlandia es euro.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "europa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

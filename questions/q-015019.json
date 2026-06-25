@@ -1,0 +1,42 @@
+{
+  "id": "q-015019",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué obra aparece el personaje Capitán Ahab?",
+  "answers": [
+    {
+      "text": "Anna Karénina",
+      "correct": false
+    },
+    {
+      "text": "Los miserables",
+      "correct": false
+    },
+    {
+      "text": "Las uvas de la ira",
+      "correct": false
+    },
+    {
+      "text": "Moby-Dick",
+      "correct": true
+    }
+  ],
+  "explanation": "Capitán Ahab es un personaje de “Moby-Dick”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024975",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 101 OR 78 a nivel de bits?",
+  "answers": [
+    {
+      "text": "110",
+      "correct": false
+    },
+    {
+      "text": "111",
+      "correct": true
+    },
+    {
+      "text": "179",
+      "correct": false
+    },
+    {
+      "text": "43",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 101 y 78, el resultado decimal es 111.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

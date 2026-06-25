@@ -1,0 +1,42 @@
+{
+  "id": "q-018780",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué análisis retórico o gramatical corresponde a “Si estudias, aprobarás”?",
+  "answers": [
+    {
+      "text": "subordinada temporal",
+      "correct": false
+    },
+    {
+      "text": "metonimia",
+      "correct": false
+    },
+    {
+      "text": "elipsis",
+      "correct": false
+    },
+    {
+      "text": "subordinada condicional",
+      "correct": true
+    }
+  ],
+  "explanation": "“Si estudias, aprobarás” se clasifica como subordinada condicional.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

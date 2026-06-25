@@ -1,0 +1,42 @@
+{
+  "id": "q-015642",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "astronomia"
+  ],
+  "difficulty": "medium",
+  "question": "¿Alrededor de qué cuerpo del sistema solar orbita Deimos?",
+  "answers": [
+    {
+      "text": "Saturno",
+      "correct": false
+    },
+    {
+      "text": "Urano",
+      "correct": false
+    },
+    {
+      "text": "Marte",
+      "correct": true
+    },
+    {
+      "text": "Júpiter",
+      "correct": false
+    }
+  ],
+  "explanation": "Deimos es un satélite natural que orbita alrededor de Marte.",
+  "sources": [
+    {
+      "title": "NASA Solar System Exploration",
+      "url": "https://science.nasa.gov/solar-system/"
+    }
+  ],
+  "tags": [
+    "satelites",
+    "sistema-solar"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

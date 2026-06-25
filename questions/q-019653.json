@@ -1,0 +1,42 @@
+{
+  "id": "q-019653",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el código hexadecimal del color RGB(80, 82, 244)?",
+  "answers": [
+    {
+      "text": "#5052F4",
+      "correct": true
+    },
+    {
+      "text": "#50F452",
+      "correct": false
+    },
+    {
+      "text": "#F45250",
+      "correct": false
+    },
+    {
+      "text": "#5250F4",
+      "correct": false
+    }
+  ],
+  "explanation": "Cada componente RGB se convierte a dos dígitos hexadecimales: 50, 52 y F4.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "colores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

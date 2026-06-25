@@ -1,0 +1,42 @@
+{
+  "id": "q-015044",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué obra literaria incluye a Sancho Panza?",
+  "answers": [
+    {
+      "text": "Los miserables",
+      "correct": false
+    },
+    {
+      "text": "El retrato de Dorian Gray",
+      "correct": false
+    },
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": true
+    }
+  ],
+  "explanation": "Sancho Panza es un personaje de “Don Quijote de la Mancha”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

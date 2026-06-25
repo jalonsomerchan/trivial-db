@@ -1,0 +1,42 @@
+{
+  "id": "q-023314",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: Revolución rusa, fundación de la ONU, tratados de Roma de la CEE o muerte de Franco?",
+  "answers": [
+    {
+      "text": "tratados de Roma de la CEE",
+      "correct": false
+    },
+    {
+      "text": "Revolución rusa",
+      "correct": true
+    },
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "fundación de la ONU",
+      "correct": false
+    }
+  ],
+  "explanation": "Revolución rusa es la opción correcta porque su fecha asociada es 1917.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

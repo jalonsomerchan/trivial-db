@@ -1,0 +1,42 @@
+{
+  "id": "q-024023",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 37 al cuadrado?",
+  "answers": [
+    {
+      "text": "1369",
+      "correct": true
+    },
+    {
+      "text": "1406",
+      "correct": false
+    },
+    {
+      "text": "1332",
+      "correct": false
+    },
+    {
+      "text": "74",
+      "correct": false
+    }
+  ],
+  "explanation": "Elevar 37 al cuadrado equivale a multiplicar 37 por sí mismo: 1369.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

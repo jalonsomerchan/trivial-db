@@ -1,0 +1,42 @@
+{
+  "id": "q-023468",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: destrucción de Cartago en la tercera guerra púnica, caída del Muro de Berlín, atentados del 11 de septiembre o acuerdo de París sobre el clima?",
+  "answers": [
+    {
+      "text": "destrucción de Cartago en la tercera guerra púnica",
+      "correct": false
+    },
+    {
+      "text": "atentados del 11 de septiembre",
+      "correct": false
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "acuerdo de París sobre el clima",
+      "correct": true
+    }
+  ],
+  "explanation": "acuerdo de París sobre el clima es la opción correcta porque su fecha asociada es 2015.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-022398",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para mole poblano?",
+  "answers": [
+    {
+      "text": "mole poblano — Polonia — masa rellena",
+      "correct": false
+    },
+    {
+      "text": "mole poblano — Corea — col china",
+      "correct": false
+    },
+    {
+      "text": "mole poblano — México — chiles y cacao",
+      "correct": true
+    },
+    {
+      "text": "mole poblano — Francia — alubias",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para mole poblano es México y chiles y cacao.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

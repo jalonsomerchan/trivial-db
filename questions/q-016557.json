@@ -1,0 +1,42 @@
+{
+  "id": "q-016557",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué obra cinematográfica se vincula Marty McFly?",
+  "answers": [
+    {
+      "text": "Regreso al futuro",
+      "correct": true
+    },
+    {
+      "text": "Los Goonies",
+      "correct": false
+    },
+    {
+      "text": "Cazafantasmas",
+      "correct": false
+    },
+    {
+      "text": "E.T.",
+      "correct": false
+    }
+  ],
+  "explanation": "Marty McFly es un personaje asociado a “Regreso al futuro”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

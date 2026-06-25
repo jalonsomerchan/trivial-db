@@ -1,0 +1,42 @@
+{
+  "id": "q-019024",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 12% de 110?",
+  "answers": [
+    {
+      "text": "18",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": false
+    },
+    {
+      "text": "13.2",
+      "correct": true
+    }
+  ],
+  "explanation": "El 12% de 110 se calcula multiplicando 110 por 12/100, lo que da 13.2.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

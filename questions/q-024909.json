@@ -1,0 +1,42 @@
+{
+  "id": "q-024909",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 80 AND 56 a nivel de bits?",
+  "answers": [
+    {
+      "text": "136",
+      "correct": false
+    },
+    {
+      "text": "104",
+      "correct": false
+    },
+    {
+      "text": "16",
+      "correct": true
+    },
+    {
+      "text": "17",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 80 y 56, el resultado decimal es 16.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

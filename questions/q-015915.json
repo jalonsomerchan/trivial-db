@@ -1,0 +1,42 @@
+{
+  "id": "q-015915",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 126 V y 1.5 A?",
+  "answers": [
+    {
+      "text": "189 W",
+      "correct": true
+    },
+    {
+      "text": "378 W",
+      "correct": false
+    },
+    {
+      "text": "127.5 W",
+      "correct": false
+    },
+    {
+      "text": "84 W",
+      "correct": false
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 126 × 1.5 = 189 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

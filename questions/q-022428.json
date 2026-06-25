@@ -1,0 +1,43 @@
+{
+  "id": "q-022428",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien gazpacho con su origen y base?",
+  "answers": [
+    {
+      "text": "gazpacho — Jamaica — pollo especiado",
+      "correct": false
+    },
+    {
+      "text": "gazpacho — Europa oriental — remolacha",
+      "correct": false
+    },
+    {
+      "text": "gazpacho — España — tomate",
+      "correct": true
+    },
+    {
+      "text": "gazpacho — Perú — patata",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para gazpacho es España y tomate.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024927",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 87 OR 34 a nivel de bits?",
+  "answers": [
+    {
+      "text": "121",
+      "correct": false
+    },
+    {
+      "text": "117",
+      "correct": false
+    },
+    {
+      "text": "118",
+      "correct": false
+    },
+    {
+      "text": "119",
+      "correct": true
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 87 y 34, el resultado decimal es 119.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

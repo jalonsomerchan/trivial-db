@@ -1,0 +1,42 @@
+{
+  "id": "q-018753",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura retórica predomina en “Te lo he dicho mil veces”?",
+  "answers": [
+    {
+      "text": "hipérbole",
+      "correct": true
+    },
+    {
+      "text": "elipsis",
+      "correct": false
+    },
+    {
+      "text": "metonimia",
+      "correct": false
+    },
+    {
+      "text": "anáfora",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Te lo he dicho mil veces” predomina la figura retórica llamada hipérbole.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "figuras-retoricas",
+    "literatura"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

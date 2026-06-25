@@ -1,0 +1,42 @@
+{
+  "id": "q-017409",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción técnica se asocia con borsch?",
+  "answers": [
+    {
+      "text": "sopa de fideos del Sudeste Asiático con caldo especiado",
+      "correct": false
+    },
+    {
+      "text": "sopa de remolacha de Europa oriental",
+      "correct": true
+    },
+    {
+      "text": "tiburón fermentado islandés",
+      "correct": false
+    },
+    {
+      "text": "queso suizo usado habitualmente en fondue",
+      "correct": false
+    }
+  ],
+  "explanation": "borsch se describe como sopa de remolacha de Europa oriental.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

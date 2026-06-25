@@ -1,0 +1,42 @@
+{
+  "id": "q-015481",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué idea central suele vincularse al dadaísmo?",
+  "answers": [
+    {
+      "text": "provocación antiarte y rechazo de la lógica tradicional",
+      "correct": true
+    },
+    {
+      "text": "retorno idealizado a modelos anteriores a Rafael",
+      "correct": false
+    },
+    {
+      "text": "captura de la luz y pincelada suelta",
+      "correct": false
+    },
+    {
+      "text": "dramatismo, contraste y movimiento",
+      "correct": false
+    }
+  ],
+  "explanation": "El dadaísmo se reconoce por provocación antiarte y rechazo de la lógica tradicional.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

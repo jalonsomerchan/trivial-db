@@ -1,0 +1,42 @@
+{
+  "id": "q-016887",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué creador elegirías para “Portal”?",
+  "answers": [
+    {
+      "text": "Valve",
+      "correct": true
+    },
+    {
+      "text": "CD Projekt Red",
+      "correct": false
+    },
+    {
+      "text": "Ken Levine",
+      "correct": false
+    },
+    {
+      "text": "Will Wright",
+      "correct": false
+    }
+  ],
+  "explanation": "“Portal” se asocia con Valve.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

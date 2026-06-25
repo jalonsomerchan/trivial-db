@@ -1,0 +1,42 @@
+{
+  "id": "q-024048",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 62 al cuadrado?",
+  "answers": [
+    {
+      "text": "3906",
+      "correct": false
+    },
+    {
+      "text": "3782",
+      "correct": false
+    },
+    {
+      "text": "124",
+      "correct": false
+    },
+    {
+      "text": "3844",
+      "correct": true
+    }
+  ],
+  "explanation": "Elevar 62 al cuadrado equivale a multiplicar 62 por sí mismo: 3844.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

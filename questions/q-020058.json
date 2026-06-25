@@ -1,0 +1,43 @@
+{
+  "id": "q-020058",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura",
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué siglo se creó o publicó “Hamlet”?",
+  "answers": [
+    {
+      "text": "siglo XVIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XVI",
+      "correct": false
+    },
+    {
+      "text": "siglo XVII",
+      "correct": true
+    },
+    {
+      "text": "siglo XIX",
+      "correct": false
+    }
+  ],
+  "explanation": "“Hamlet” se sitúa en torno a 1603, por lo que corresponde a siglo XVII.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016602",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué videojuego o saga aparece el lugar ficticio “Hyrule”?",
+  "answers": [
+    {
+      "text": "Final Fantasy",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": true
+    },
+    {
+      "text": "Halo",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    }
+  ],
+  "explanation": "“Hyrule” es un lugar asociado a The Legend of Zelda.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "ficcion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

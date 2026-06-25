@@ -1,0 +1,42 @@
+{
+  "id": "q-017200",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento culinario se asocia a aioli?",
+  "answers": [
+    {
+      "text": "fondo claro ligado con roux",
+      "correct": false
+    },
+    {
+      "text": "albahaca, piñones, ajo, queso y aceite",
+      "correct": false
+    },
+    {
+      "text": "ajo y aceite emulsionados",
+      "correct": true
+    },
+    {
+      "text": "chile machacado con otros condimentos",
+      "correct": false
+    }
+  ],
+  "explanation": "aioli se caracteriza por ajo y aceite emulsionados.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

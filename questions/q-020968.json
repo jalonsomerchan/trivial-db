@@ -1,0 +1,42 @@
+{
+  "id": "q-020968",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el pH de una disolución con concentración de H⁺ igual a 1 × 10^-2 M?",
+  "answers": [
+    {
+      "text": "12",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": true
+    }
+  ],
+  "explanation": "El pH es -log10[H⁺]; para 1 × 10^-2 M, el pH es 2.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "ph",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

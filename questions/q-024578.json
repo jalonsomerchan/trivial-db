@@ -1,0 +1,42 @@
+{
+  "id": "q-024578",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sistemas-numericos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la notación hexadecimal del número decimal 90?",
+  "answers": [
+    {
+      "text": "0x59",
+      "correct": false
+    },
+    {
+      "text": "0x5B",
+      "correct": false
+    },
+    {
+      "text": "0x5A",
+      "correct": true
+    },
+    {
+      "text": "0xB4",
+      "correct": false
+    }
+  ],
+  "explanation": "Al convertir 90 a base 16 se obtiene 0x5A.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "hexadecimal",
+    "conversion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

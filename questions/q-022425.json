@@ -1,0 +1,43 @@
+{
+  "id": "q-022425",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para baklava?",
+  "answers": [
+    {
+      "text": "baklava — España — arroz",
+      "correct": false
+    },
+    {
+      "text": "baklava — Reino Unido — pescado",
+      "correct": false
+    },
+    {
+      "text": "baklava — México — tortilla de maíz",
+      "correct": false
+    },
+    {
+      "text": "baklava — Mediterráneo oriental — masa filo",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para baklava es Mediterráneo oriental y masa filo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

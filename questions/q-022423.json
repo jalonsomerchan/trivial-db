@@ -1,0 +1,43 @@
+{
+  "id": "q-022423",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para chili con carne?",
+  "answers": [
+    {
+      "text": "chili con carne — Estados Unidos — carne y chile",
+      "correct": true
+    },
+    {
+      "text": "chili con carne — Perú — pescado",
+      "correct": false
+    },
+    {
+      "text": "chili con carne — Marruecos — carne o verduras",
+      "correct": false
+    },
+    {
+      "text": "chili con carne — Perú — patata",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para chili con carne es Estados Unidos y carne y chile.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

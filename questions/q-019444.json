@@ -1,0 +1,42 @@
+{
+  "id": "q-019444",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica-modular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resto de dividir (51 × 19 + 19) entre 7?",
+  "answers": [
+    {
+      "text": "0",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": true
+    }
+  ],
+  "explanation": "Se calcula 51 × 19 + 19 y después se toma el resto de la división entre 7; el resto es 1.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "modulos",
+    "restos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

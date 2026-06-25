@@ -1,0 +1,42 @@
+{
+  "id": "q-022151",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué método culinario se asocia con kebab?",
+  "answers": [
+    {
+      "text": "cocción en paellera",
+      "correct": false
+    },
+    {
+      "text": "sopa agripicante",
+      "correct": false
+    },
+    {
+      "text": "marinado en cítricos",
+      "correct": false
+    },
+    {
+      "text": "asado",
+      "correct": true
+    }
+  ],
+  "explanation": "kebab se caracteriza por asado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

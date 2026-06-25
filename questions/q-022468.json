@@ -1,0 +1,43 @@
+{
+  "id": "q-022468",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien satay con su origen y base?",
+  "answers": [
+    {
+      "text": "satay — Sudeste asiático — carne ensartada",
+      "correct": true
+    },
+    {
+      "text": "satay — Georgia — queso",
+      "correct": false
+    },
+    {
+      "text": "satay — Grecia — yogur",
+      "correct": false
+    },
+    {
+      "text": "satay — España — arroz",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para satay es Sudeste asiático y carne ensartada.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024029",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 43 al cuadrado?",
+  "answers": [
+    {
+      "text": "1892",
+      "correct": false
+    },
+    {
+      "text": "86",
+      "correct": false
+    },
+    {
+      "text": "1849",
+      "correct": true
+    },
+    {
+      "text": "1806",
+      "correct": false
+    }
+  ],
+  "explanation": "Elevar 43 al cuadrado equivale a multiplicar 43 por sí mismo: 1849.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

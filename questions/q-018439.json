@@ -1,0 +1,42 @@
+{
+  "id": "q-018439",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Asesinato de Julio César” y “Primavera de los Pueblos”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Primavera de los Pueblos antes que Asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "Asesinato de Julio César después que Primavera de los Pueblos",
+      "correct": false
+    },
+    {
+      "text": "Asesinato de Julio César antes que Primavera de los Pueblos",
+      "correct": true
+    }
+  ],
+  "explanation": "Asesinato de Julio César ocurrió antes que Primavera de los Pueblos.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

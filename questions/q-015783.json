@@ -1,0 +1,42 @@
+{
+  "id": "q-015783",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 24 V y 5 A?",
+  "answers": [
+    {
+      "text": "4.8 W",
+      "correct": false
+    },
+    {
+      "text": "29 W",
+      "correct": false
+    },
+    {
+      "text": "240 W",
+      "correct": false
+    },
+    {
+      "text": "120 W",
+      "correct": true
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 24 × 5 = 120 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

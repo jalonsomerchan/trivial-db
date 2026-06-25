@@ -1,0 +1,42 @@
+{
+  "id": "q-021846",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: El mago de Oz (película), 2001: Una odisea del espacio (película), Pokémon Rojo y Verde (videojuego) o Minecraft (videojuego)?",
+  "answers": [
+    {
+      "text": "El mago de Oz (película)",
+      "correct": true
+    },
+    {
+      "text": "Pokémon Rojo y Verde (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "2001: Una odisea del espacio (película)",
+      "correct": false
+    },
+    {
+      "text": "Minecraft (videojuego)",
+      "correct": false
+    }
+  ],
+  "explanation": "El mago de Oz (película) es la opción correcta porque su fecha asociada es 1939.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

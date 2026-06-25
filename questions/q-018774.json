@@ -1,0 +1,42 @@
+{
+  "id": "q-018774",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué análisis retórico o gramatical corresponde a “Dulce amargura”?",
+  "answers": [
+    {
+      "text": "aliteración",
+      "correct": false
+    },
+    {
+      "text": "subordinada modal",
+      "correct": false
+    },
+    {
+      "text": "antítesis",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": true
+    }
+  ],
+  "explanation": "“Dulce amargura” se clasifica como oxímoron.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

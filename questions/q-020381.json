@@ -1,0 +1,43 @@
+{
+  "id": "q-020381",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "cronologia-cultural"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: La Celestina (literatura), Don Quijote de la Mancha (literatura), Robinson Crusoe (literatura) o Frankenstein (literatura)?",
+  "answers": [
+    {
+      "text": "La Celestina (literatura)",
+      "correct": false
+    },
+    {
+      "text": "Frankenstein (literatura)",
+      "correct": true
+    },
+    {
+      "text": "Don Quijote de la Mancha (literatura)",
+      "correct": false
+    },
+    {
+      "text": "Robinson Crusoe (literatura)",
+      "correct": false
+    }
+  ],
+  "explanation": "Frankenstein (literatura) es la opción correcta porque su fecha asociada es 1818.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

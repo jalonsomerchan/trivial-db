@@ -1,0 +1,42 @@
+{
+  "id": "q-024524",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué describe mejor el uso de JavaScript?",
+  "answers": [
+    {
+      "text": "regular voltajes de la CPU",
+      "correct": false
+    },
+    {
+      "text": "crear particiones de disco",
+      "correct": false
+    },
+    {
+      "text": "añadir comportamiento interactivo en páginas web",
+      "correct": true
+    },
+    {
+      "text": "codificar audio MP3",
+      "correct": false
+    }
+  ],
+  "explanation": "JavaScript se usa principalmente para añadir comportamiento interactivo en páginas web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "web",
+    "tecnologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

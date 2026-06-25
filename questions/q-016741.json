@@ -1,0 +1,42 @@
+{
+  "id": "q-016741",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el videojuego asociado al mapa “Silent Hill”?",
+  "answers": [
+    {
+      "text": "Silent Hill",
+      "correct": true
+    },
+    {
+      "text": "BioShock Infinite",
+      "correct": false
+    },
+    {
+      "text": "Half-Life 2",
+      "correct": false
+    },
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    }
+  ],
+  "explanation": "“Silent Hill” aparece en Silent Hill.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

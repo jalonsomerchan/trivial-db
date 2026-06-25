@@ -1,0 +1,42 @@
+{
+  "id": "q-021557",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o creador se asocia con “Pac-Man”?",
+  "answers": [
+    {
+      "text": "Namco",
+      "correct": true
+    },
+    {
+      "text": "Maxis",
+      "correct": false
+    },
+    {
+      "text": "Square",
+      "correct": false
+    },
+    {
+      "text": "Epic Games",
+      "correct": false
+    }
+  ],
+  "explanation": "“Pac-Man” se asocia con Namco.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

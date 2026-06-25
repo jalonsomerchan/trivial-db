@@ -1,0 +1,42 @@
+{
+  "id": "q-017921",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Chipre, Micronesia, Kazajistán, Argelia?",
+  "answers": [
+    {
+      "text": "Kazajistán",
+      "correct": false
+    },
+    {
+      "text": "Chipre",
+      "correct": false
+    },
+    {
+      "text": "Micronesia",
+      "correct": true
+    },
+    {
+      "text": "Argelia",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Micronesia es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022848",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación geográfica y monetaria identifica a Indonesia?",
+  "answers": [
+    {
+      "text": "Indonesia — Yakarta — rupia indonesia",
+      "correct": true
+    },
+    {
+      "text": "Indonesia — Jerusalén — nuevo séquel",
+      "correct": false
+    },
+    {
+      "text": "Indonesia — Singapur — dólar de Singapur",
+      "correct": false
+    },
+    {
+      "text": "Indonesia — Teherán — rial iraní",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta es Indonesia — Yakarta — rupia indonesia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

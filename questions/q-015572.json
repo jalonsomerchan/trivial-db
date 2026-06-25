@@ -1,0 +1,42 @@
+{
+  "id": "q-015572",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "biologia-celular"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tarea realiza de forma característica mitocondria?",
+  "answers": [
+    {
+      "text": "producir ATP mediante la respiración celular",
+      "correct": true
+    },
+    {
+      "text": "almacenar la información genética principal",
+      "correct": false
+    },
+    {
+      "text": "ensamblar ribosomas",
+      "correct": false
+    },
+    {
+      "text": "digerir material extracelular",
+      "correct": false
+    }
+  ],
+  "explanation": "Mitocondria se asocia principalmente con producir ATP mediante la respiración celular.",
+  "sources": [
+    {
+      "title": "OpenStax - Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "biologia-celular",
+    "biologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

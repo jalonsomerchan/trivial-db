@@ -1,0 +1,42 @@
+{
+  "id": "q-023472",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: destrucción de Cartago en la tercera guerra púnica, caída del Imperio romano de Occidente, atentados del 11 de septiembre o acuerdo de París sobre el clima?",
+  "answers": [
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "destrucción de Cartago en la tercera guerra púnica",
+      "correct": false
+    },
+    {
+      "text": "acuerdo de París sobre el clima",
+      "correct": true
+    },
+    {
+      "text": "atentados del 11 de septiembre",
+      "correct": false
+    }
+  ],
+  "explanation": "acuerdo de París sobre el clima es la opción correcta porque su fecha asociada es 2015.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

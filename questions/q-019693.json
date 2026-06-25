@@ -1,0 +1,42 @@
+{
+  "id": "q-019693",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántas direcciones IPv4 utilizables suele tener una subred /16 si se reservan red y broadcast?",
+  "answers": [
+    {
+      "text": "65532",
+      "correct": false
+    },
+    {
+      "text": "131072",
+      "correct": false
+    },
+    {
+      "text": "65534",
+      "correct": true
+    },
+    {
+      "text": "65536",
+      "correct": false
+    }
+  ],
+  "explanation": "Una red /16 tiene 65536 direcciones totales y normalmente 65534 utilizables al reservar red y broadcast.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "ipv4",
+    "cidr"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

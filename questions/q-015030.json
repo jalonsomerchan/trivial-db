@@ -1,0 +1,42 @@
+{
+  "id": "q-015030",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué novela pertenece Leopold Bloom?",
+  "answers": [
+    {
+      "text": "Crimen y castigo",
+      "correct": false
+    },
+    {
+      "text": "Anna Karénina",
+      "correct": false
+    },
+    {
+      "text": "Ulises",
+      "correct": true
+    },
+    {
+      "text": "Moby-Dick",
+      "correct": false
+    }
+  ],
+  "explanation": "Leopold Bloom es un personaje de “Ulises”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

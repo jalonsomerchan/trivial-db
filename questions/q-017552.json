@@ -1,0 +1,42 @@
+{
+  "id": "q-017552",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el prefijo telefónico internacional de Rumania?",
+  "answers": [
+    {
+      "text": "+40",
+      "correct": true
+    },
+    {
+      "text": "+509",
+      "correct": false
+    },
+    {
+      "text": "+500",
+      "correct": false
+    },
+    {
+      "text": "+682",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Rumania es +40.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

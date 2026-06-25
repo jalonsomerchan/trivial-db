@@ -1,0 +1,42 @@
+{
+  "id": "q-015103",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista pintó “La escuela de Atenas”?",
+  "answers": [
+    {
+      "text": "Sandro Botticelli",
+      "correct": false
+    },
+    {
+      "text": "Rembrandt",
+      "correct": false
+    },
+    {
+      "text": "Diego Velázquez",
+      "correct": false
+    },
+    {
+      "text": "Rafael Sanzio",
+      "correct": true
+    }
+  ],
+  "explanation": "“La escuela de Atenas” fue pintada por Rafael Sanzio.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "rafael-sanzio"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

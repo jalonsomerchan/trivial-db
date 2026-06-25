@@ -1,0 +1,42 @@
+{
+  "id": "q-023179",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1948?",
+  "answers": [
+    {
+      "text": "creación del Estado de Israel",
+      "correct": true
+    },
+    {
+      "text": "primera vuelta al mundo completada por la expedición de Magallanes-Elcano",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1948 se asocia con creación del Estado de Israel.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

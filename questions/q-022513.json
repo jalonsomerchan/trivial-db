@@ -1,0 +1,42 @@
+{
+  "id": "q-022513",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Rumanía?",
+  "answers": [
+    {
+      "text": "Bucarest",
+      "correct": true
+    },
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Copenhague",
+      "correct": false
+    },
+    {
+      "text": "Sofía",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Rumanía es Bucarest.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "europa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

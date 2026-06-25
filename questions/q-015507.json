@@ -1,0 +1,42 @@
+{
+  "id": "q-015507",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es una función principal de hemoglobina?",
+  "answers": [
+    {
+      "text": "formar la vaina de mielina",
+      "correct": false
+    },
+    {
+      "text": "transportar oxígeno en la sangre",
+      "correct": true
+    },
+    {
+      "text": "digerir proteínas",
+      "correct": false
+    },
+    {
+      "text": "regular la glucosa directamente",
+      "correct": false
+    }
+  ],
+  "explanation": "Hemoglobina se asocia principalmente con transportar oxígeno en la sangre.",
+  "sources": [
+    {
+      "title": "OpenStax - Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "biologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018114",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "siglos-xix-xx"
+  ],
+  "difficulty": "medium",
+  "question": "¿Dónde tuvo lugar o se celebró principalmente la Acuerdos de Camp David?",
+  "answers": [
+    {
+      "text": "Viena",
+      "correct": false
+    },
+    {
+      "text": "Japón",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": true
+    },
+    {
+      "text": "Indonesia",
+      "correct": false
+    }
+  ],
+  "explanation": "La Acuerdos de Camp David se asocia principalmente con Estados Unidos en 1978.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "acuerdos-de-camp-david"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

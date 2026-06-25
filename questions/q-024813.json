@@ -1,0 +1,42 @@
+{
+  "id": "q-024813",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 45 AND 23 a nivel de bits?",
+  "answers": [
+    {
+      "text": "4",
+      "correct": false
+    },
+    {
+      "text": "58",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": true
+    },
+    {
+      "text": "68",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 45 y 23, el resultado decimal es 5.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017773",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con Suiza?",
+  "answers": [
+    {
+      "text": "Liechtenstein",
+      "correct": false
+    },
+    {
+      "text": "Francia",
+      "correct": false
+    },
+    {
+      "text": "Austria",
+      "correct": false
+    },
+    {
+      "text": "Croacia",
+      "correct": true
+    }
+  ],
+  "explanation": "Croacia no figura entre los países que comparten frontera terrestre con Suiza, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

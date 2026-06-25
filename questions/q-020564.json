@@ -1,0 +1,42 @@
+{
+  "id": "q-020564",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el número atómico del plomo?",
+  "answers": [
+    {
+      "text": "83",
+      "correct": false
+    },
+    {
+      "text": "81",
+      "correct": false
+    },
+    {
+      "text": "84",
+      "correct": false
+    },
+    {
+      "text": "82",
+      "correct": true
+    }
+  ],
+  "explanation": "El número atómico del plomo es 82.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "tabla-periodica",
+    "numero-atomico"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023196",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué suceso histórico corresponde a 79?",
+  "answers": [
+    {
+      "text": "muerte de Alejandro Magno",
+      "correct": false
+    },
+    {
+      "text": "crisis de los misiles de Cuba",
+      "correct": false
+    },
+    {
+      "text": "erupción del Vesubio que sepultó Pompeya",
+      "correct": true
+    },
+    {
+      "text": "Primera Guerra del Opio",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 79 se asocia con erupción del Vesubio que sepultó Pompeya.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

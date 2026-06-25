@@ -1,0 +1,42 @@
+{
+  "id": "q-018136",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué explicación corresponde a la Restauración Meiji?",
+  "answers": [
+    {
+      "text": "revolución de esclavos que condujo a la independencia de Haití",
+      "correct": false
+    },
+    {
+      "text": "apertura simbólica que aceleró la reunificación alemana",
+      "correct": false
+    },
+    {
+      "text": "modernización y centralización política japonesa",
+      "correct": true
+    },
+    {
+      "text": "gobierno revolucionario breve tras la guerra franco-prusiana",
+      "correct": false
+    }
+  ],
+  "explanation": "La Restauración Meiji se relaciona con modernización y centralización política japonesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "restauracion-meiji"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

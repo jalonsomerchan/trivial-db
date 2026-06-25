@@ -1,0 +1,43 @@
+{
+  "id": "q-022399",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para ceviche?",
+  "answers": [
+    {
+      "text": "ceviche — Estados Unidos — carne y chile",
+      "correct": false
+    },
+    {
+      "text": "ceviche — Italia — masa de trigo",
+      "correct": false
+    },
+    {
+      "text": "ceviche — Perú — pescado",
+      "correct": true
+    },
+    {
+      "text": "ceviche — Oriente Medio — carne",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para ceviche es Perú y pescado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

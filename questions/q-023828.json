@@ -1,0 +1,42 @@
+{
+  "id": "q-023828",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué procedimiento literario usa “Se apagó su vida en silencio”?",
+  "answers": [
+    {
+      "text": "eufemismo",
+      "correct": true
+    },
+    {
+      "text": "antítesis",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": false
+    }
+  ],
+  "explanation": "“Se apagó su vida en silencio” se clasifica como eufemismo.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015702",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 48 g de nitrógeno molecular si su masa molar es 28 g/mol?",
+  "answers": [
+    {
+      "text": "2.714",
+      "correct": false
+    },
+    {
+      "text": "1.714",
+      "correct": true
+    },
+    {
+      "text": "3.429",
+      "correct": false
+    },
+    {
+      "text": "0.857",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 48/28, aproximadamente 1.714 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

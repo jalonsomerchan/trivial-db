@@ -1,0 +1,42 @@
+{
+  "id": "q-015181",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista está vinculado de forma directa con la obra “El jardín de las delicias”?",
+  "answers": [
+    {
+      "text": "Gustav Klimt",
+      "correct": false
+    },
+    {
+      "text": "El Bosco",
+      "correct": true
+    },
+    {
+      "text": "Francisco de Goya",
+      "correct": false
+    },
+    {
+      "text": "Edvard Munch",
+      "correct": false
+    }
+  ],
+  "explanation": "“El jardín de las delicias” está vinculada a El Bosco.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

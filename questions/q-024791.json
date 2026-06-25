@@ -1,0 +1,42 @@
+{
+  "id": "q-024791",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 31 OR 232 a nivel de bits?",
+  "answers": [
+    {
+      "text": "255",
+      "correct": true
+    },
+    {
+      "text": "247",
+      "correct": false
+    },
+    {
+      "text": "254",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 31 y 232, el resultado decimal es 255.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

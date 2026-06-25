@@ -1,0 +1,42 @@
+{
+  "id": "q-016780",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación serie-lugar es correcta para “Breaking Bad”?",
+  "answers": [
+    {
+      "text": "Breaking Bad — Hawkins",
+      "correct": false
+    },
+    {
+      "text": "Breaking Bad — Albuquerque",
+      "correct": true
+    },
+    {
+      "text": "Breaking Bad — Luisiana",
+      "correct": false
+    },
+    {
+      "text": "Breaking Bad — Baltimore",
+      "correct": false
+    }
+  ],
+  "explanation": "“Breaking Bad” se ambienta principalmente en Albuquerque.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "television"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

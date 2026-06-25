@@ -1,0 +1,42 @@
+{
+  "id": "q-022676",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Estados Unidos?",
+  "answers": [
+    {
+      "text": "quetzal",
+      "correct": false
+    },
+    {
+      "text": "dólar estadounidense",
+      "correct": true
+    },
+    {
+      "text": "bolívar",
+      "correct": false
+    },
+    {
+      "text": "peso chileno",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Estados Unidos es dólar estadounidense.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

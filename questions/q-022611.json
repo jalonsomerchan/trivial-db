@@ -1,0 +1,42 @@
+{
+  "id": "q-022611",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Santiago?",
+  "answers": [
+    {
+      "text": "Uruguay",
+      "correct": false
+    },
+    {
+      "text": "Panamá",
+      "correct": false
+    },
+    {
+      "text": "Guatemala",
+      "correct": false
+    },
+    {
+      "text": "Chile",
+      "correct": true
+    }
+  ],
+  "explanation": "Santiago es la capital de Chile.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

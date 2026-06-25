@@ -1,0 +1,42 @@
+{
+  "id": "q-023429",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: caída del Imperio romano de Occidente, caída de Constantinopla, batalla de Lepanto o Revolución Gloriosa inglesa?",
+  "answers": [
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "Revolución Gloriosa inglesa",
+      "correct": true
+    },
+    {
+      "text": "caída de Constantinopla",
+      "correct": false
+    }
+  ],
+  "explanation": "Revolución Gloriosa inglesa es la opción correcta porque su fecha asociada es 1688.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

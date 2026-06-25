@@ -1,0 +1,42 @@
+{
+  "id": "q-017693",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Mozambique?",
+  "answers": [
+    {
+      "text": "Yibuti",
+      "correct": false
+    },
+    {
+      "text": "Angola",
+      "correct": false
+    },
+    {
+      "text": "Guinea-Bisáu",
+      "correct": false
+    },
+    {
+      "text": "Zimbabue",
+      "correct": true
+    }
+  ],
+  "explanation": "Zimbabue comparte frontera terrestre con Mozambique.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

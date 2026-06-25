@@ -1,0 +1,43 @@
+{
+  "id": "q-022476",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien kebab con su origen y base?",
+  "answers": [
+    {
+      "text": "kebab — Europa oriental — remolacha",
+      "correct": false
+    },
+    {
+      "text": "kebab — Oriente Medio — carne",
+      "correct": true
+    },
+    {
+      "text": "kebab — Etiopía — teff",
+      "correct": false
+    },
+    {
+      "text": "kebab — Japón — arroz avinagrado",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para kebab es Oriente Medio y carne.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

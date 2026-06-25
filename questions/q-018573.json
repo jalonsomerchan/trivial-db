@@ -1,0 +1,42 @@
+{
+  "id": "q-018573",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "conectores"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué matiz aporta normalmente “porque”?",
+  "answers": [
+    {
+      "text": "causa",
+      "correct": true
+    },
+    {
+      "text": "contraste",
+      "correct": false
+    },
+    {
+      "text": "finalidad",
+      "correct": false
+    },
+    {
+      "text": "concesión",
+      "correct": false
+    }
+  ],
+  "explanation": "El conector “porque” suele expresar causa.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "conectores",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024523",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué describe mejor el uso de CSS?",
+  "answers": [
+    {
+      "text": "gestionar memoria física",
+      "correct": false
+    },
+    {
+      "text": "resolver consultas DNS",
+      "correct": false
+    },
+    {
+      "text": "compilar código C",
+      "correct": false
+    },
+    {
+      "text": "definir la presentación visual de una página web",
+      "correct": true
+    }
+  ],
+  "explanation": "CSS se usa principalmente para definir la presentación visual de una página web.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "web",
+    "tecnologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024912",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 80 OR 89 a nivel de bits?",
+  "answers": [
+    {
+      "text": "89",
+      "correct": true
+    },
+    {
+      "text": "9",
+      "correct": false
+    },
+    {
+      "text": "169",
+      "correct": false
+    },
+    {
+      "text": "88",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 80 y 89, el resultado decimal es 89.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-020165",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué definición se ajusta al arte pop?",
+  "answers": [
+    {
+      "text": "referencias a la Antigüedad clásica y sobriedad",
+      "correct": false
+    },
+    {
+      "text": "dramaticidad, movimiento y fuertes contrastes",
+      "correct": false
+    },
+    {
+      "text": "uso de imágenes de la cultura de masas",
+      "correct": true
+    },
+    {
+      "text": "representación de la vida cotidiana sin idealización",
+      "correct": false
+    }
+  ],
+  "explanation": "El arte pop se asocia con uso de imágenes de la cultura de masas.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

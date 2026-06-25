@@ -1,0 +1,42 @@
+{
+  "id": "q-023971",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura predomina en “Es hielo abrasador”?",
+  "answers": [
+    {
+      "text": "polisíndeton",
+      "correct": false
+    },
+    {
+      "text": "comparación",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": true
+    },
+    {
+      "text": "elipsis",
+      "correct": false
+    }
+  ],
+  "explanation": "“Es hielo abrasador” se clasifica como oxímoron.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

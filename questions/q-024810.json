@@ -1,0 +1,42 @@
+{
+  "id": "q-024810",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 38 AND 232 a nivel de bits?",
+  "answers": [
+    {
+      "text": "33",
+      "correct": false
+    },
+    {
+      "text": "206",
+      "correct": false
+    },
+    {
+      "text": "32",
+      "correct": true
+    },
+    {
+      "text": "14",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 38 y 232, el resultado decimal es 32.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

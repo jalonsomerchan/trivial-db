@@ -1,0 +1,42 @@
+{
+  "id": "q-020874",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica-nuclear"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué masa queda de una muestra radiactiva de 320 g tras 9 años si su semivida es de 3 años?",
+  "answers": [
+    {
+      "text": "311 g",
+      "correct": false
+    },
+    {
+      "text": "40 g",
+      "correct": true
+    },
+    {
+      "text": "80 g",
+      "correct": false
+    },
+    {
+      "text": "106.667 g",
+      "correct": false
+    }
+  ],
+  "explanation": "Tras 3 semividas queda 320/2^3, es decir, 40 g.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "semivida",
+    "radiactividad"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

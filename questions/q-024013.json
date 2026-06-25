@@ -1,0 +1,42 @@
+{
+  "id": "q-024013",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 27 al cuadrado?",
+  "answers": [
+    {
+      "text": "729",
+      "correct": true
+    },
+    {
+      "text": "54",
+      "correct": false
+    },
+    {
+      "text": "702",
+      "correct": false
+    },
+    {
+      "text": "756",
+      "correct": false
+    }
+  ],
+  "explanation": "Elevar 27 al cuadrado equivale a multiplicar 27 por sí mismo: 729.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

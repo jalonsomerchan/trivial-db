@@ -1,0 +1,42 @@
+{
+  "id": "q-016914",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Quién se vincula históricamente con “The Witcher 3”?",
+  "answers": [
+    {
+      "text": "Hidetaka Miyazaki",
+      "correct": false
+    },
+    {
+      "text": "CD Projekt Red",
+      "correct": true
+    },
+    {
+      "text": "Shigeru Miyamoto",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Witcher 3” se asocia con CD Projekt Red.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

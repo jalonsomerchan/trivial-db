@@ -1,0 +1,42 @@
+{
+  "id": "q-022019",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente tom yum?",
+  "answers": [
+    {
+      "text": "Escocia",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "Argentina",
+      "correct": false
+    },
+    {
+      "text": "Tailandia",
+      "correct": true
+    }
+  ],
+  "explanation": "tom yum se asocia tradicionalmente con Tailandia.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "tailandia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

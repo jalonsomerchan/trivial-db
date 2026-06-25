@@ -1,0 +1,42 @@
+{
+  "id": "q-016608",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué videojuego o saga aparece el lugar ficticio “Midgar”?",
+  "answers": [
+    {
+      "text": "Final Fantasy VII",
+      "correct": true
+    },
+    {
+      "text": "Kingdom Hearts",
+      "correct": false
+    },
+    {
+      "text": "Chrono Trigger",
+      "correct": false
+    },
+    {
+      "text": "Persona 5",
+      "correct": false
+    }
+  ],
+  "explanation": "“Midgar” es un lugar asociado a Final Fantasy VII.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "ficcion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024041",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 55 al cuadrado?",
+  "answers": [
+    {
+      "text": "110",
+      "correct": false
+    },
+    {
+      "text": "3080",
+      "correct": false
+    },
+    {
+      "text": "3025",
+      "correct": true
+    },
+    {
+      "text": "2970",
+      "correct": false
+    }
+  ],
+  "explanation": "Elevar 55 al cuadrado equivale a multiplicar 55 por sí mismo: 3025.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

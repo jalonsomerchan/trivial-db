@@ -1,0 +1,42 @@
+{
+  "id": "q-020004",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién creó “La Divina Comedia”?",
+  "answers": [
+    {
+      "text": "Eugène Delacroix",
+      "correct": false
+    },
+    {
+      "text": "Dante Alighieri",
+      "correct": true
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": false
+    },
+    {
+      "text": "Homero",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Divina Comedia” fue creada por Dante Alighieri.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

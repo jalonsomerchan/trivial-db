@@ -1,0 +1,42 @@
+{
+  "id": "q-021653",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué estudio o autor corresponde a “The Last of Us”?",
+  "answers": [
+    {
+      "text": "Atari",
+      "correct": false
+    },
+    {
+      "text": "Blizzard Entertainment",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": true
+    },
+    {
+      "text": "Nintendo",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Last of Us” se asocia con Naughty Dog.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

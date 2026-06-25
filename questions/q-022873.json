@@ -1,0 +1,42 @@
+{
+  "id": "q-022873",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación geográfica y monetaria identifica a Chile?",
+  "answers": [
+    {
+      "text": "Chile — Quito — dólar estadounidense",
+      "correct": false
+    },
+    {
+      "text": "Chile — San José — colón costarricense",
+      "correct": false
+    },
+    {
+      "text": "Chile — Santiago — peso chileno",
+      "correct": true
+    },
+    {
+      "text": "Chile — Asunción — guaraní",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta es Chile — Santiago — peso chileno.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

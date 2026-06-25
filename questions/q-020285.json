@@ -1,0 +1,43 @@
+{
+  "id": "q-020285",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "cronologia-cultural"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: Fausto (literatura), Madame Bovary (literatura), Drácula (literatura) o Cien años de soledad (literatura)?",
+  "answers": [
+    {
+      "text": "Madame Bovary (literatura)",
+      "correct": false
+    },
+    {
+      "text": "Cien años de soledad (literatura)",
+      "correct": false
+    },
+    {
+      "text": "Drácula (literatura)",
+      "correct": false
+    },
+    {
+      "text": "Fausto (literatura)",
+      "correct": true
+    }
+  ],
+  "explanation": "Fausto (literatura) es la opción correcta porque su fecha asociada es 1808.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

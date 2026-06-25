@@ -1,0 +1,42 @@
+{
+  "id": "q-022083",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o preparación caracteriza a injera?",
+  "answers": [
+    {
+      "text": "horneado rápido",
+      "correct": false
+    },
+    {
+      "text": "sopa marinera",
+      "correct": false
+    },
+    {
+      "text": "guiso con carnes",
+      "correct": false
+    },
+    {
+      "text": "fermentación y plancha",
+      "correct": true
+    }
+  ],
+  "explanation": "injera se caracteriza por fermentación y plancha.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

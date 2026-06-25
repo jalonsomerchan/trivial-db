@@ -1,0 +1,42 @@
+{
+  "id": "q-015298",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación obra-compositor es correcta para “Claro de luna”?",
+  "answers": [
+    {
+      "text": "Claro de luna — Ígor Stravinski",
+      "correct": false
+    },
+    {
+      "text": "Claro de luna — Claude Debussy",
+      "correct": true
+    },
+    {
+      "text": "Claro de luna — Johann Sebastian Bach",
+      "correct": false
+    },
+    {
+      "text": "Claro de luna — Ludwig van Beethoven",
+      "correct": false
+    }
+  ],
+  "explanation": "“Claro de luna” es una obra de Claude Debussy.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "compositores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

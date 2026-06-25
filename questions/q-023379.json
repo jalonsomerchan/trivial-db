@@ -1,0 +1,42 @@
+{
+  "id": "q-023379",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: llegada de Colón a América, batalla de Lepanto, Paz de Westfalia o inicio de la Revolución francesa?",
+  "answers": [
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Revolución francesa",
+      "correct": true
+    },
+    {
+      "text": "llegada de Colón a América",
+      "correct": false
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    }
+  ],
+  "explanation": "inicio de la Revolución francesa es la opción correcta porque su fecha asociada es 1789.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

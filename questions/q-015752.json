@@ -1,0 +1,42 @@
+{
+  "id": "q-015752",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué potencia eléctrica consume un dispositivo que funciona a 6 V y 0.25 A?",
+  "answers": [
+    {
+      "text": "6.25 W",
+      "correct": false
+    },
+    {
+      "text": "24 W",
+      "correct": false
+    },
+    {
+      "text": "3 W",
+      "correct": false
+    },
+    {
+      "text": "1.5 W",
+      "correct": true
+    }
+  ],
+  "explanation": "La potencia eléctrica se calcula con P = V·I; 6 × 0.25 = 1.5 W.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "electricidad",
+    "potencia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

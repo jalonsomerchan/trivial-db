@@ -1,0 +1,42 @@
+{
+  "id": "q-018566",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "conectores"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cómo se clasifica el conector “para que”?",
+  "answers": [
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "causa",
+      "correct": false
+    },
+    {
+      "text": "oposición",
+      "correct": false
+    },
+    {
+      "text": "finalidad",
+      "correct": true
+    }
+  ],
+  "explanation": "El conector “para que” suele expresar finalidad.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "conectores",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

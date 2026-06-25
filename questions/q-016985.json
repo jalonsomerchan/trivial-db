@@ -1,0 +1,42 @@
+{
+  "id": "q-016985",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué creador o estudio identifica a “The Last of Us”?",
+  "answers": [
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "Naughty Dog",
+      "correct": true
+    },
+    {
+      "text": "Sid Meier",
+      "correct": false
+    },
+    {
+      "text": "Alekséi Pázhitnov",
+      "correct": false
+    }
+  ],
+  "explanation": "“The Last of Us” se asocia con Naughty Dog.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

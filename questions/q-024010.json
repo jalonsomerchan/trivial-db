@@ -1,0 +1,42 @@
+{
+  "id": "q-024010",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 24 al cuadrado?",
+  "answers": [
+    {
+      "text": "48",
+      "correct": false
+    },
+    {
+      "text": "552",
+      "correct": false
+    },
+    {
+      "text": "600",
+      "correct": false
+    },
+    {
+      "text": "576",
+      "correct": true
+    }
+  ],
+  "explanation": "Elevar 24 al cuadrado equivale a multiplicar 24 por sí mismo: 576.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

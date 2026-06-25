@@ -1,0 +1,42 @@
+{
+  "id": "q-015371",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción resume mejor el lenguaje del expresionismo abstracto?",
+  "answers": [
+    {
+      "text": "gesto pictórico y abstracción de gran formato",
+      "correct": true
+    },
+    {
+      "text": "iconografía de consumo y cultura de masas",
+      "correct": false
+    },
+    {
+      "text": "representación de la vida cotidiana sin idealización",
+      "correct": false
+    },
+    {
+      "text": "emoción, sublime y libertad individual",
+      "correct": false
+    }
+  ],
+  "explanation": "El expresionismo abstracto se reconoce por gesto pictórico y abstracción de gran formato.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

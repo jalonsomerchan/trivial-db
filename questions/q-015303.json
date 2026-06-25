@@ -1,0 +1,42 @@
+{
+  "id": "q-015303",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación obra-compositor es correcta para “Tristán e Isolda”?",
+  "answers": [
+    {
+      "text": "Tristán e Isolda — Richard Wagner",
+      "correct": true
+    },
+    {
+      "text": "Tristán e Isolda — George Gershwin",
+      "correct": false
+    },
+    {
+      "text": "Tristán e Isolda — Piotr Ilich Chaikovski",
+      "correct": false
+    },
+    {
+      "text": "Tristán e Isolda — Georg Friedrich Händel",
+      "correct": false
+    }
+  ],
+  "explanation": "“Tristán e Isolda” es una obra de Richard Wagner.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "compositores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023457",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: ataque a Pearl Harbor, inicio de la Guerra de Corea, llegada del Apolo 11 a la Luna o disolución de la Unión Soviética?",
+  "answers": [
+    {
+      "text": "inicio de la Guerra de Corea",
+      "correct": false
+    },
+    {
+      "text": "disolución de la Unión Soviética",
+      "correct": true
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    },
+    {
+      "text": "ataque a Pearl Harbor",
+      "correct": false
+    }
+  ],
+  "explanation": "disolución de la Unión Soviética es la opción correcta porque su fecha asociada es 1991.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

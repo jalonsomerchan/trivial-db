@@ -1,0 +1,42 @@
+{
+  "id": "q-017976",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Tanzania, Vanuatu, Antigua y Barbuda, Mauritania?",
+  "answers": [
+    {
+      "text": "Vanuatu",
+      "correct": false
+    },
+    {
+      "text": "Antigua y Barbuda",
+      "correct": false
+    },
+    {
+      "text": "Mauritania",
+      "correct": true
+    },
+    {
+      "text": "Tanzania",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Mauritania es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

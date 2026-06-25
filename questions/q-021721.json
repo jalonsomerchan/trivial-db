@@ -1,0 +1,42 @@
+{
+  "id": "q-021721",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué creador o estudio está ligado a “World of Warcraft”?",
+  "answers": [
+    {
+      "text": "Blizzard Entertainment",
+      "correct": true
+    },
+    {
+      "text": "Bungie",
+      "correct": false
+    },
+    {
+      "text": "Capcom",
+      "correct": false
+    },
+    {
+      "text": "Taito",
+      "correct": false
+    }
+  ],
+  "explanation": "“World of Warcraft” se asocia con Blizzard Entertainment.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

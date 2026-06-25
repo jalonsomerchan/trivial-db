@@ -1,0 +1,42 @@
+{
+  "id": "q-023875",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura del lenguaje se aprecia en “Hay un palacio y un río y un lago y un puente viejo”?",
+  "answers": [
+    {
+      "text": "polisíndeton",
+      "correct": true
+    },
+    {
+      "text": "sinécdoque",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": false
+    }
+  ],
+  "explanation": "“Hay un palacio y un río y un lago y un puente viejo” se clasifica como polisíndeton.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022179",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué preparación describe mejor hummus?",
+  "answers": [
+    {
+      "text": "triturado con tahini",
+      "correct": true
+    },
+    {
+      "text": "horneado o fritura",
+      "correct": false
+    },
+    {
+      "text": "cocción embutida",
+      "correct": false
+    },
+    {
+      "text": "guiso lento",
+      "correct": false
+    }
+  ],
+  "explanation": "hummus se caracteriza por triturado con tahini.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

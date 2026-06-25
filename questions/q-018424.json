@@ -1,0 +1,42 @@
+{
+  "id": "q-018424",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Carta Magna inglesa” y “Revolución rusa”?",
+  "answers": [
+    {
+      "text": "Revolución rusa antes que Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Carta Magna inglesa antes que Revolución rusa",
+      "correct": true
+    },
+    {
+      "text": "Carta Magna inglesa después que Revolución rusa",
+      "correct": false
+    }
+  ],
+  "explanation": "Carta Magna inglesa ocurrió antes que Revolución rusa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

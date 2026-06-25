@@ -1,0 +1,42 @@
+{
+  "id": "q-015074",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué libro es relevante el personaje Meursault?",
+  "answers": [
+    {
+      "text": "Madame Bovary",
+      "correct": false
+    },
+    {
+      "text": "El extranjero",
+      "correct": true
+    },
+    {
+      "text": "El cuento de la criada",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": false
+    }
+  ],
+  "explanation": "Meursault es un personaje de “El extranjero”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

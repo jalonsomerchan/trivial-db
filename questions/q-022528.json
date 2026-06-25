@@ -1,0 +1,42 @@
+{
+  "id": "q-022528",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de China?",
+  "answers": [
+    {
+      "text": "Pekín",
+      "correct": true
+    },
+    {
+      "text": "Riad",
+      "correct": false
+    },
+    {
+      "text": "Manila",
+      "correct": false
+    },
+    {
+      "text": "Yakarta",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de China es Pekín.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

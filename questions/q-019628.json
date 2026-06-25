@@ -1,0 +1,42 @@
+{
+  "id": "q-019628",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "desarrollo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hace principalmente el comando git commit?",
+  "answers": [
+    {
+      "text": "aplicar un commit concreto en otra rama",
+      "correct": false
+    },
+    {
+      "text": "reaplicar commits sobre otra base",
+      "correct": false
+    },
+    {
+      "text": "listar o crear ramas",
+      "correct": false
+    },
+    {
+      "text": "registrar cambios en el historial local",
+      "correct": true
+    }
+  ],
+  "explanation": "git commit se usa principalmente para registrar cambios en el historial local.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "git",
+    "versionado"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

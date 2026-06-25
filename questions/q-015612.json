@@ -1,0 +1,42 @@
+{
+  "id": "q-015612",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué familia de la tabla periódica pertenece principalmente el flúor?",
+  "answers": [
+    {
+      "text": "metal alcalinotérreo",
+      "correct": false
+    },
+    {
+      "text": "metal alcalino",
+      "correct": false
+    },
+    {
+      "text": "halógeno",
+      "correct": true
+    },
+    {
+      "text": "no metal",
+      "correct": false
+    }
+  ],
+  "explanation": "El flúor se clasifica como halógeno dentro de la tabla periódica.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "tabla-periodica",
+    "elementos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

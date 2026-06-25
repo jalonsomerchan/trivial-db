@@ -1,0 +1,42 @@
+{
+  "id": "q-019689",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es el código hexadecimal del color RGB(240, 119, 222)?",
+  "answers": [
+    {
+      "text": "#F0DE77",
+      "correct": false
+    },
+    {
+      "text": "#F077DE",
+      "correct": true
+    },
+    {
+      "text": "#77F0DE",
+      "correct": false
+    },
+    {
+      "text": "#DE77F0",
+      "correct": false
+    }
+  ],
+  "explanation": "Cada componente RGB se convierte a dos dígitos hexadecimales: F0, 77 y DE.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "colores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

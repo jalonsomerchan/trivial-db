@@ -1,0 +1,42 @@
+{
+  "id": "q-022539",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Guatemala?",
+  "answers": [
+    {
+      "text": "Ciudad de Guatemala",
+      "correct": true
+    },
+    {
+      "text": "Washington D. C.",
+      "correct": false
+    },
+    {
+      "text": "Buenos Aires",
+      "correct": false
+    },
+    {
+      "text": "Ciudad de México",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Guatemala es Ciudad de Guatemala.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

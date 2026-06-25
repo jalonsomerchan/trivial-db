@@ -1,0 +1,42 @@
+{
+  "id": "q-015176",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista está vinculado de forma directa con la obra “Las meninas”?",
+  "answers": [
+    {
+      "text": "Diego Velázquez",
+      "correct": true
+    },
+    {
+      "text": "Grant Wood",
+      "correct": false
+    },
+    {
+      "text": "Andy Warhol",
+      "correct": false
+    },
+    {
+      "text": "El Bosco",
+      "correct": false
+    }
+  ],
+  "explanation": "“Las meninas” está vinculada a Diego Velázquez.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

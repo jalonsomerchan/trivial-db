@@ -1,0 +1,43 @@
+{
+  "id": "q-022239",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación plato-origen-ingrediente es correcta para ramen?",
+  "answers": [
+    {
+      "text": "ramen — Japón — fideos",
+      "correct": true
+    },
+    {
+      "text": "ramen — Oriente Medio — garbanzo o haba",
+      "correct": false
+    },
+    {
+      "text": "ramen — Hungría — pimentón",
+      "correct": false
+    },
+    {
+      "text": "ramen — Tailandia — fideos de arroz",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para ramen es Japón y fideos.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

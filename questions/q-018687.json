@@ -1,0 +1,42 @@
+{
+  "id": "q-018687",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función oracional tiene “tarde” en “El tren llegó tarde”?",
+  "answers": [
+    {
+      "text": "complemento circunstancial",
+      "correct": true
+    },
+    {
+      "text": "complemento directo",
+      "correct": false
+    },
+    {
+      "text": "atributo",
+      "correct": false
+    },
+    {
+      "text": "complemento agente",
+      "correct": false
+    }
+  ],
+  "explanation": "En “El tren llegó tarde”, “tarde” funciona como complemento circunstancial.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

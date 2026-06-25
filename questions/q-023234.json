@@ -1,0 +1,42 @@
+{
+  "id": "q-023234",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: caída del Imperio romano de Occidente, firma de la Carta Magna inglesa, inicio de la Reforma protestante o derrota de la Armada Invencible?",
+  "answers": [
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Reforma protestante",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "derrota de la Armada Invencible",
+      "correct": false
+    }
+  ],
+  "explanation": "caída del Imperio romano de Occidente es la opción correcta porque su fecha asociada es 476.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018761",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura retórica predomina en “Se apagó el sol de su sonrisa”?",
+  "answers": [
+    {
+      "text": "metáfora",
+      "correct": true
+    },
+    {
+      "text": "pleonasmo",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "hipérbaton",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Se apagó el sol de su sonrisa” predomina la figura retórica llamada metáfora.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "figuras-retoricas",
+    "literatura"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

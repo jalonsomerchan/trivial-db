@@ -1,0 +1,42 @@
+{
+  "id": "q-017498",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué definición gastronómica avanzada encaja con okonomiyaki?",
+  "answers": [
+    {
+      "text": "patatas fritas con queso en grano y salsa gravy",
+      "correct": false
+    },
+    {
+      "text": "guiso francés de alubias y carnes",
+      "correct": false
+    },
+    {
+      "text": "pan georgiano relleno de queso",
+      "correct": false
+    },
+    {
+      "text": "tortilla japonesa salada con múltiples ingredientes",
+      "correct": true
+    }
+  ],
+  "explanation": "okonomiyaki se describe como tortilla japonesa salada con múltiples ingredientes.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

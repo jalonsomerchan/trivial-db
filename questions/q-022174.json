@@ -1,0 +1,42 @@
+{
+  "id": "q-022174",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base culinaria se asocia con ceviche?",
+  "answers": [
+    {
+      "text": "pollo especiado",
+      "correct": false
+    },
+    {
+      "text": "pescado",
+      "correct": true
+    },
+    {
+      "text": "carne o verduras",
+      "correct": false
+    },
+    {
+      "text": "queso",
+      "correct": false
+    }
+  ],
+  "explanation": "ceviche se relaciona especialmente con pescado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

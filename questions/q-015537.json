@@ -1,0 +1,42 @@
+{
+  "id": "q-015537",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisiologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué descripción corresponde mejor a hemoglobina?",
+  "answers": [
+    {
+      "text": "regular la glucosa directamente",
+      "correct": false
+    },
+    {
+      "text": "digerir proteínas",
+      "correct": false
+    },
+    {
+      "text": "formar la vaina de mielina",
+      "correct": false
+    },
+    {
+      "text": "transportar oxígeno en la sangre",
+      "correct": true
+    }
+  ],
+  "explanation": "Hemoglobina se asocia principalmente con transportar oxígeno en la sangre.",
+  "sources": [
+    {
+      "title": "OpenStax - Biology 2e",
+      "url": "https://openstax.org/details/books/biology-2e"
+    }
+  ],
+  "tags": [
+    "fisiologia",
+    "biologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

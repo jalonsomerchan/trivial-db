@@ -1,0 +1,42 @@
+{
+  "id": "q-024832",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 52 OR 23 a nivel de bits?",
+  "answers": [
+    {
+      "text": "35",
+      "correct": false
+    },
+    {
+      "text": "55",
+      "correct": true
+    },
+    {
+      "text": "75",
+      "correct": false
+    },
+    {
+      "text": "54",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 52 y 23, el resultado decimal es 55.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

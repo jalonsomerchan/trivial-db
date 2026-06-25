@@ -1,0 +1,42 @@
+{
+  "id": "q-022618",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Puerto Moresby?",
+  "answers": [
+    {
+      "text": "Papúa Nueva Guinea",
+      "correct": true
+    },
+    {
+      "text": "Australia",
+      "correct": false
+    },
+    {
+      "text": "Fiyi",
+      "correct": false
+    },
+    {
+      "text": "Nueva Zelanda",
+      "correct": false
+    }
+  ],
+  "explanation": "Puerto Moresby es la capital de Papúa Nueva Guinea.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "oceania"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

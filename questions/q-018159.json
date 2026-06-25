@@ -1,0 +1,42 @@
+{
+  "id": "q-018159",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál fue el significado histórico de la Acuerdos de Camp David?",
+  "answers": [
+    {
+      "text": "encuentro clave del movimiento afroasiático y no alineado",
+      "correct": false
+    },
+    {
+      "text": "campaña de desobediencia civil liderada por Gandhi",
+      "correct": false
+    },
+    {
+      "text": "reordenación europea tras las guerras napoleónicas",
+      "correct": false
+    },
+    {
+      "text": "base para la paz entre Egipto e Israel",
+      "correct": true
+    }
+  ],
+  "explanation": "La Acuerdos de Camp David se relaciona con base para la paz entre Egipto e Israel.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "acuerdos-de-camp-david"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

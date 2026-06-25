@@ -1,0 +1,42 @@
+{
+  "id": "q-023998",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué análisis de estilo corresponde a “Tus ojos son dos luceros”?",
+  "answers": [
+    {
+      "text": "símil",
+      "correct": false
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": true
+    },
+    {
+      "text": "sinécdoque",
+      "correct": false
+    }
+  ],
+  "explanation": "“Tus ojos son dos luceros” se clasifica como metáfora.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

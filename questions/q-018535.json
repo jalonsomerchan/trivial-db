@@ -1,0 +1,42 @@
+{
+  "id": "q-018535",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "conectores"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué función textual suele cumplir “si”?",
+  "answers": [
+    {
+      "text": "causa",
+      "correct": false
+    },
+    {
+      "text": "condición",
+      "correct": true
+    },
+    {
+      "text": "adición",
+      "correct": false
+    },
+    {
+      "text": "consecuencia",
+      "correct": false
+    }
+  ],
+  "explanation": "El conector “si” suele expresar condición.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "conectores",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

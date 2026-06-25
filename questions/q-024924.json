@@ -1,0 +1,42 @@
+{
+  "id": "q-024924",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 80 OR 243 a nivel de bits?",
+  "answers": [
+    {
+      "text": "243",
+      "correct": true
+    },
+    {
+      "text": "67",
+      "correct": false
+    },
+    {
+      "text": "242",
+      "correct": false
+    },
+    {
+      "text": "163",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 80 y 243, el resultado decimal es 243.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

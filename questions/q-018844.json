@@ -1,0 +1,42 @@
+{
+  "id": "q-018844",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso o estructura predomina en “Si estudias, aprobarás”?",
+  "answers": [
+    {
+      "text": "subordinada consecutiva",
+      "correct": false
+    },
+    {
+      "text": "anáfora",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": false
+    },
+    {
+      "text": "subordinada condicional",
+      "correct": true
+    }
+  ],
+  "explanation": "“Si estudias, aprobarás” se clasifica como subordinada condicional.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

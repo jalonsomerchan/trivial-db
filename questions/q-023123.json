@@ -1,0 +1,42 @@
+{
+  "id": "q-023123",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1917?",
+  "answers": [
+    {
+      "text": "crac de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "Revolución rusa",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "ampliación de la Unión Europea hacia el este",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1917 se asocia con Revolución rusa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

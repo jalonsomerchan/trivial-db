@@ -1,0 +1,42 @@
+{
+  "id": "q-023235",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: coronación de Carlomagno, caída de Constantinopla, primera vuelta al mundo completada por la expedición de Magallanes-Elcano o inicio de la Guerra de los Treinta Años?",
+  "answers": [
+    {
+      "text": "inicio de la Guerra de los Treinta Años",
+      "correct": false
+    },
+    {
+      "text": "coronación de Carlomagno",
+      "correct": true
+    },
+    {
+      "text": "caída de Constantinopla",
+      "correct": false
+    },
+    {
+      "text": "primera vuelta al mundo completada por la expedición de Magallanes-Elcano",
+      "correct": false
+    }
+  ],
+  "explanation": "coronación de Carlomagno es la opción correcta porque su fecha asociada es 800.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

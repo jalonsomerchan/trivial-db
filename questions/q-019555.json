@@ -1,0 +1,42 @@
+{
+  "id": "q-019555",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál de estas afirmaciones sobre DNS es correcta?",
+  "answers": [
+    {
+      "text": "traducir nombres de dominio a direcciones IP",
+      "correct": true
+    },
+    {
+      "text": "renderizar texto en CSS",
+      "correct": false
+    },
+    {
+      "text": "comprimir imágenes PNG",
+      "correct": false
+    },
+    {
+      "text": "gestionar memoria RAM local",
+      "correct": false
+    }
+  ],
+  "explanation": "DNS se usa principalmente para traducir nombres de dominio a direcciones IP.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "redes",
+    "informatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

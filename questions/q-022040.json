@@ -1,0 +1,42 @@
+{
+  "id": "q-022040",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente choucroute garnie?",
+  "answers": [
+    {
+      "text": "Corea",
+      "correct": false
+    },
+    {
+      "text": "Marruecos",
+      "correct": false
+    },
+    {
+      "text": "Brasil",
+      "correct": false
+    },
+    {
+      "text": "Alsacia",
+      "correct": true
+    }
+  ],
+  "explanation": "choucroute garnie se asocia tradicionalmente con Alsacia.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "alsacia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

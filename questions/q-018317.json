@@ -1,0 +1,42 @@
+{
+  "id": "q-018317",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Paz de Westfalia” y “Revolución francesa”?",
+  "answers": [
+    {
+      "text": "Revolución francesa antes que Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia antes que Revolución francesa",
+      "correct": true
+    },
+    {
+      "text": "Paz de Westfalia después que Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    }
+  ],
+  "explanation": "Paz de Westfalia ocurrió antes que Revolución francesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

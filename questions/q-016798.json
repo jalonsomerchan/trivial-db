@@ -1,0 +1,42 @@
+{
+  "id": "q-016798",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación serie-lugar es correcta para “Mad Men”?",
+  "answers": [
+    {
+      "text": "Mad Men — Nueva York",
+      "correct": true
+    },
+    {
+      "text": "Mad Men — Chicago",
+      "correct": false
+    },
+    {
+      "text": "Mad Men — Seattle",
+      "correct": false
+    },
+    {
+      "text": "Mad Men — Twin Peaks",
+      "correct": false
+    }
+  ],
+  "explanation": "“Mad Men” se ambienta principalmente en Nueva York.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "television"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

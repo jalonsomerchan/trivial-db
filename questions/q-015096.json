@@ -1,0 +1,42 @@
+{
+  "id": "q-015096",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué título se relaciona con el personaje Offred?",
+  "answers": [
+    {
+      "text": "Anna Karénina",
+      "correct": false
+    },
+    {
+      "text": "Ulises",
+      "correct": false
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": false
+    },
+    {
+      "text": "El cuento de la criada",
+      "correct": true
+    }
+  ],
+  "explanation": "Offred es un personaje de “El cuento de la criada”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

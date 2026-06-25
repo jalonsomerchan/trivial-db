@@ -1,0 +1,42 @@
+{
+  "id": "q-017264",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción culinaria corresponde a hákarl?",
+  "answers": [
+    {
+      "text": "arroz persa con azafrán",
+      "correct": false
+    },
+    {
+      "text": "tiburón fermentado islandés",
+      "correct": true
+    },
+    {
+      "text": "queso suizo fundido",
+      "correct": false
+    },
+    {
+      "text": "sopa rusa de remolacha",
+      "correct": false
+    }
+  ],
+  "explanation": "hákarl corresponde a tiburón fermentado islandés.",
+  "sources": [
+    {
+      "title": "UNESCO Intangible Cultural Heritage",
+      "url": "https://ich.unesco.org/"
+    }
+  ],
+  "tags": [
+    "platos",
+    "cocina-internacional"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022664",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Tailandia?",
+  "answers": [
+    {
+      "text": "rial iraní",
+      "correct": false
+    },
+    {
+      "text": "baht",
+      "correct": true
+    },
+    {
+      "text": "peso filipino",
+      "correct": false
+    },
+    {
+      "text": "dinar iraquí",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Tailandia es baht.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

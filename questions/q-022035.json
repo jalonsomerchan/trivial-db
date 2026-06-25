@@ -1,0 +1,42 @@
+{
+  "id": "q-022035",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente pierogi?",
+  "answers": [
+    {
+      "text": "Hungría",
+      "correct": false
+    },
+    {
+      "text": "Marruecos",
+      "correct": false
+    },
+    {
+      "text": "Polonia",
+      "correct": true
+    },
+    {
+      "text": "Georgia",
+      "correct": false
+    }
+  ],
+  "explanation": "pierogi se asocia tradicionalmente con Polonia.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "polonia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

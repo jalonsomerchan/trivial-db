@@ -1,0 +1,42 @@
+{
+  "id": "q-024547",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "bases-de-datos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tarea corresponde a SQL?",
+  "answers": [
+    {
+      "text": "consultar y manipular datos en bases de datos relacionales",
+      "correct": true
+    },
+    {
+      "text": "enviar paquetes ICMP",
+      "correct": false
+    },
+    {
+      "text": "renderizar hojas de estilo",
+      "correct": false
+    },
+    {
+      "text": "emular una tarjeta gráfica",
+      "correct": false
+    }
+  ],
+  "explanation": "SQL se usa principalmente para consultar y manipular datos en bases de datos relacionales.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bases-de-datos",
+    "tecnologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

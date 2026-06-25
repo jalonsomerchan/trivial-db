@@ -1,0 +1,42 @@
+{
+  "id": "q-018769",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "oraciones-subordinadas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué tipo de subordinada aparece en “El libro que me prestaste es excelente”?",
+  "answers": [
+    {
+      "text": "subordinada causal",
+      "correct": false
+    },
+    {
+      "text": "subordinada final",
+      "correct": false
+    },
+    {
+      "text": "subordinada concesiva",
+      "correct": false
+    },
+    {
+      "text": "subordinada de relativo",
+      "correct": true
+    }
+  ],
+  "explanation": "En “El libro que me prestaste es excelente” aparece una subordinada de relativo.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "subordinadas",
+    "sintaxis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

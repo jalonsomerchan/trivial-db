@@ -1,0 +1,42 @@
+{
+  "id": "q-023552",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función sintáctica cumple “los documentales” en “A Marta le interesan los documentales”?",
+  "answers": [
+    {
+      "text": "complemento agente",
+      "correct": false
+    },
+    {
+      "text": "complemento del nombre",
+      "correct": false
+    },
+    {
+      "text": "complemento directo",
+      "correct": false
+    },
+    {
+      "text": "sujeto",
+      "correct": true
+    }
+  ],
+  "explanation": "En “A Marta le interesan los documentales”, “los documentales” cumple la función de sujeto.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

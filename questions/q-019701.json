@@ -1,0 +1,42 @@
+{
+  "id": "q-019701",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántas direcciones IPv4 utilizables suele tener una subred /24 si se reservan red y broadcast?",
+  "answers": [
+    {
+      "text": "512",
+      "correct": false
+    },
+    {
+      "text": "256",
+      "correct": false
+    },
+    {
+      "text": "252",
+      "correct": false
+    },
+    {
+      "text": "254",
+      "correct": true
+    }
+  ],
+  "explanation": "Una red /24 tiene 256 direcciones totales y normalmente 254 utilizables al reservar red y broadcast.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "ipv4",
+    "cidr"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-021520",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió “El señor de los anillos: La comunidad del anillo”?",
+  "answers": [
+    {
+      "text": "Bong Joon-ho",
+      "correct": false
+    },
+    {
+      "text": "George Lucas",
+      "correct": false
+    },
+    {
+      "text": "Ridley Scott",
+      "correct": false
+    },
+    {
+      "text": "Peter Jackson",
+      "correct": true
+    }
+  ],
+  "explanation": "“El señor de los anillos: La comunidad del anillo” fue dirigida por Peter Jackson.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

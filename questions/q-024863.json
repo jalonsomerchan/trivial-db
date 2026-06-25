@@ -1,0 +1,42 @@
+{
+  "id": "q-024863",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 59 AND 133 a nivel de bits?",
+  "answers": [
+    {
+      "text": "0",
+      "correct": false
+    },
+    {
+      "text": "192",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": true
+    },
+    {
+      "text": "190",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 59 y 133, el resultado decimal es 1.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

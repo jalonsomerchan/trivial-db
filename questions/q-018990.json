@@ -1,0 +1,42 @@
+{
+  "id": "q-018990",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción describe “El viento susurraba entre los árboles”?",
+  "answers": [
+    {
+      "text": "subordinada causal",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": true
+    },
+    {
+      "text": "subordinada comparativa",
+      "correct": false
+    },
+    {
+      "text": "metáfora",
+      "correct": false
+    }
+  ],
+  "explanation": "“El viento susurraba entre los árboles” se clasifica como personificación.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

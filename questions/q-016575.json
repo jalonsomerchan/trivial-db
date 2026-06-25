@@ -1,0 +1,42 @@
+{
+  "id": "q-016575",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Dónde aparece principalmente Katniss Everdeen?",
+  "answers": [
+    {
+      "text": "Divergente",
+      "correct": false
+    },
+    {
+      "text": "Harry Potter",
+      "correct": false
+    },
+    {
+      "text": "Los juegos del hambre",
+      "correct": true
+    },
+    {
+      "text": "El señor de los anillos",
+      "correct": false
+    }
+  ],
+  "explanation": "Katniss Everdeen es un personaje asociado a “Los juegos del hambre”.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

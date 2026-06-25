@@ -1,0 +1,42 @@
+{
+  "id": "q-022219",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica gastronómica corresponde a tom yum?",
+  "answers": [
+    {
+      "text": "sopa agripicante",
+      "correct": true
+    },
+    {
+      "text": "guiso en recipiente cónico",
+      "correct": false
+    },
+    {
+      "text": "bocadillo",
+      "correct": false
+    },
+    {
+      "text": "emulsión con pasta caliente",
+      "correct": false
+    }
+  ],
+  "explanation": "tom yum se caracteriza por sopa agripicante.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

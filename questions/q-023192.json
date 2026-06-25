@@ -1,0 +1,42 @@
+{
+  "id": "q-023192",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 2002?",
+  "answers": [
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "batalla de Hastings",
+      "correct": false
+    },
+    {
+      "text": "asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "entrada física del euro en circulación",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 2002 se asocia con entrada física del euro en circulación.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

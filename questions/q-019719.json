@@ -1,0 +1,42 @@
+{
+  "id": "q-019719",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántas direcciones IPv4 utilizables suele tener una subred /27 si se reservan red y broadcast?",
+  "answers": [
+    {
+      "text": "32",
+      "correct": false
+    },
+    {
+      "text": "28",
+      "correct": false
+    },
+    {
+      "text": "64",
+      "correct": false
+    },
+    {
+      "text": "30",
+      "correct": true
+    }
+  ],
+  "explanation": "Una red /27 tiene 32 direcciones totales y normalmente 30 utilizables al reservar red y broadcast.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "ipv4",
+    "cidr"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

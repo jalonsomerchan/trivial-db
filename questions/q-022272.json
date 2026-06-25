@@ -1,0 +1,43 @@
+{
+  "id": "q-022272",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación plato-origen-ingrediente es correcta para jerk chicken?",
+  "answers": [
+    {
+      "text": "jerk chicken — Jamaica — pollo especiado",
+      "correct": true
+    },
+    {
+      "text": "jerk chicken — Argentina — carne",
+      "correct": false
+    },
+    {
+      "text": "jerk chicken — Sudeste asiático — fideos",
+      "correct": false
+    },
+    {
+      "text": "jerk chicken — Tailandia — fideos de arroz",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para jerk chicken es Jamaica y pollo especiado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

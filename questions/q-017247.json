@@ -1,0 +1,42 @@
+{
+  "id": "q-017247",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué mezcla es propia de béchamel?",
+  "answers": [
+    {
+      "text": "fondo claro ligado con roux",
+      "correct": false
+    },
+    {
+      "text": "soja, mirin y azúcar",
+      "correct": false
+    },
+    {
+      "text": "roux y leche",
+      "correct": true
+    },
+    {
+      "text": "perejil, ajo, vinagre y aceite",
+      "correct": false
+    }
+  ],
+  "explanation": "béchamel se caracteriza por roux y leche.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

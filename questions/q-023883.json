@@ -1,0 +1,42 @@
+{
+  "id": "q-023883",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso poético identifica “Volverán las oscuras golondrinas”?",
+  "answers": [
+    {
+      "text": "aliteración",
+      "correct": false
+    },
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "asíndeton",
+      "correct": false
+    },
+    {
+      "text": "hipérbaton",
+      "correct": true
+    }
+  ],
+  "explanation": "“Volverán las oscuras golondrinas” se clasifica como hipérbaton.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

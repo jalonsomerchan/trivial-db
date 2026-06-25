@@ -1,0 +1,42 @@
+{
+  "id": "q-023128",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1947?",
+  "answers": [
+    {
+      "text": "caída de Constantinopla",
+      "correct": false
+    },
+    {
+      "text": "independencia de Grecia reconocida",
+      "correct": false
+    },
+    {
+      "text": "caída del Imperio romano de Occidente",
+      "correct": false
+    },
+    {
+      "text": "independencia de India",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1947 se asocia con independencia de India.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

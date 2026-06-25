@@ -1,0 +1,42 @@
+{
+  "id": "q-018385",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Conquista de Alejandro de Persia” y “Llegada de Colón a América”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Conquista de Alejandro de Persia antes que Llegada de Colón a América",
+      "correct": true
+    },
+    {
+      "text": "Llegada de Colón a América antes que Conquista de Alejandro de Persia",
+      "correct": false
+    },
+    {
+      "text": "Conquista de Alejandro de Persia después que Llegada de Colón a América",
+      "correct": false
+    }
+  ],
+  "explanation": "Conquista de Alejandro de Persia ocurrió antes que Llegada de Colón a América.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018326",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Primavera de los Pueblos” y “Revolución rusa”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Primavera de los Pueblos antes que Revolución rusa",
+      "correct": true
+    },
+    {
+      "text": "Primavera de los Pueblos después que Revolución rusa",
+      "correct": false
+    },
+    {
+      "text": "Revolución rusa antes que Primavera de los Pueblos",
+      "correct": false
+    }
+  ],
+  "explanation": "Primavera de los Pueblos ocurrió antes que Revolución rusa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

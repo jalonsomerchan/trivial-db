@@ -1,0 +1,43 @@
+{
+  "id": "q-022367",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de origen e ingrediente corresponde a rendang?",
+  "answers": [
+    {
+      "text": "rendang — Vietnam — fideos de arroz",
+      "correct": false
+    },
+    {
+      "text": "rendang — Tailandia — caldo especiado",
+      "correct": false
+    },
+    {
+      "text": "rendang — Perú — pescado",
+      "correct": false
+    },
+    {
+      "text": "rendang — Indonesia — carne",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para rendang es Indonesia y carne.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

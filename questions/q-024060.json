@@ -1,0 +1,42 @@
+{
+  "id": "q-024060",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué valor de x satisface la ecuación 5x - 11 = -31?",
+  "answers": [
+    {
+      "text": "-4",
+      "correct": true
+    },
+    {
+      "text": "4",
+      "correct": false
+    },
+    {
+      "text": "-5",
+      "correct": false
+    },
+    {
+      "text": "-3",
+      "correct": false
+    }
+  ],
+  "explanation": "Al despejar, 5x = -20, por lo que x = -4.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

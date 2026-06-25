@@ -1,0 +1,42 @@
+{
+  "id": "q-017358",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué rasgo gastronómico caracteriza a Comté?",
+  "answers": [
+    {
+      "text": "queso francés de leche de vaca del Jura",
+      "correct": true
+    },
+    {
+      "text": "queso italiano de pasta hilada",
+      "correct": false
+    },
+    {
+      "text": "pan plano etíope de teff",
+      "correct": false
+    },
+    {
+      "text": "queso español de leche de oveja manchega",
+      "correct": false
+    }
+  ],
+  "explanation": "Comté se describe como queso francés de leche de vaca del Jura.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

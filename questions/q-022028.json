@@ -1,0 +1,42 @@
+{
+  "id": "q-022028",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente empanada?",
+  "answers": [
+    {
+      "text": "Argentina",
+      "correct": true
+    },
+    {
+      "text": "Hungría",
+      "correct": false
+    },
+    {
+      "text": "Vietnam",
+      "correct": false
+    },
+    {
+      "text": "Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "empanada se asocia tradicionalmente con Argentina.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "argentina"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

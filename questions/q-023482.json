@@ -1,0 +1,42 @@
+{
+  "id": "q-023482",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: erupción del Vesubio que sepultó Pompeya, firma de la Carta Magna inglesa, batalla de Lepanto o Declaración de Independencia de Estados Unidos?",
+  "answers": [
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "erupción del Vesubio que sepultó Pompeya",
+      "correct": false
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": true
+    }
+  ],
+  "explanation": "Declaración de Independencia de Estados Unidos es la opción correcta porque su fecha asociada es 1776.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016788",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación serie-lugar es correcta para “Twin Peaks”?",
+  "answers": [
+    {
+      "text": "Twin Peaks — Albuquerque",
+      "correct": false
+    },
+    {
+      "text": "Twin Peaks — Twin Peaks",
+      "correct": true
+    },
+    {
+      "text": "Twin Peaks — Minnesota y Dakota del Norte",
+      "correct": false
+    },
+    {
+      "text": "Twin Peaks — Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "“Twin Peaks” se ambienta principalmente en Twin Peaks.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "television"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

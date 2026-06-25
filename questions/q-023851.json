@@ -1,0 +1,42 @@
+{
+  "id": "q-023851",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso estilístico aparece en “Es hielo abrasador”?",
+  "answers": [
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "oxímoron",
+      "correct": true
+    },
+    {
+      "text": "elipsis",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": false
+    }
+  ],
+  "explanation": "“Es hielo abrasador” se clasifica como oxímoron.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

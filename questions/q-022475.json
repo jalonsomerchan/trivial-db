@@ -1,0 +1,43 @@
+{
+  "id": "q-022475",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción relaciona bien baklava con su origen y base?",
+  "answers": [
+    {
+      "text": "baklava — Argentina — carne",
+      "correct": false
+    },
+    {
+      "text": "baklava — Mediterráneo oriental — masa filo",
+      "correct": true
+    },
+    {
+      "text": "baklava — Tailandia — caldo especiado",
+      "correct": false
+    },
+    {
+      "text": "baklava — México — tortilla de maíz",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para baklava es Mediterráneo oriental y masa filo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

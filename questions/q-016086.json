@@ -1,0 +1,42 @@
+{
+  "id": "q-016086",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "terminologia"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué deporte identifica mejor a “touchdown”?",
+  "answers": [
+    {
+      "text": "hockey sobre hielo",
+      "correct": false
+    },
+    {
+      "text": "tenis",
+      "correct": false
+    },
+    {
+      "text": "vela",
+      "correct": false
+    },
+    {
+      "text": "fútbol americano",
+      "correct": true
+    }
+  ],
+  "explanation": "“touchdown” es un término asociado al fútbol americano.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "deporte",
+    "terminologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

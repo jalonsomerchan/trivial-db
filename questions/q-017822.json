@@ -1,0 +1,42 @@
+{
+  "id": "q-017822",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con Arabia Saudí?",
+  "answers": [
+    {
+      "text": "Yemen",
+      "correct": false
+    },
+    {
+      "text": "Catar",
+      "correct": false
+    },
+    {
+      "text": "Malasia",
+      "correct": true
+    },
+    {
+      "text": "Omán",
+      "correct": false
+    }
+  ],
+  "explanation": "Malasia no figura entre los países que comparten frontera terrestre con Arabia Saudí, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-019613",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué código HTTP corresponde a la respuesta “Created”?",
+  "answers": [
+    {
+      "text": "504",
+      "correct": false
+    },
+    {
+      "text": "418",
+      "correct": false
+    },
+    {
+      "text": "401",
+      "correct": false
+    },
+    {
+      "text": "201",
+      "correct": true
+    }
+  ],
+  "explanation": "El código HTTP 201 corresponde a la respuesta “Created”.",
+  "sources": [
+    {
+      "title": "IANA Protocol Registries",
+      "url": "https://www.iana.org/protocols"
+    }
+  ],
+  "tags": [
+    "http",
+    "web"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

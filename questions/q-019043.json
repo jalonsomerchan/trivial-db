@@ -1,0 +1,42 @@
+{
+  "id": "q-019043",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 40% de 130?",
+  "answers": [
+    {
+      "text": "65",
+      "correct": false
+    },
+    {
+      "text": "52",
+      "correct": true
+    },
+    {
+      "text": "45",
+      "correct": false
+    },
+    {
+      "text": "58",
+      "correct": false
+    }
+  ],
+  "explanation": "El 40% de 130 se calcula multiplicando 130 por 40/100, lo que da 52.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

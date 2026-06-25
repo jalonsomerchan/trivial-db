@@ -1,0 +1,42 @@
+{
+  "id": "q-022075",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o preparación caracteriza a causa limeña?",
+  "answers": [
+    {
+      "text": "cocción en paellera",
+      "correct": false
+    },
+    {
+      "text": "preparación fría en capas",
+      "correct": true
+    },
+    {
+      "text": "horneado o fritura",
+      "correct": false
+    },
+    {
+      "text": "sopa fría",
+      "correct": false
+    }
+  ],
+  "explanation": "causa limeña se caracteriza por preparación fría en capas.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

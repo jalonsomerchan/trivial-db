@@ -1,0 +1,42 @@
+{
+  "id": "q-015281",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación obra-compositor es correcta para “Fidelio”?",
+  "answers": [
+    {
+      "text": "Fidelio — Johann Sebastian Bach",
+      "correct": false
+    },
+    {
+      "text": "Fidelio — Richard Wagner",
+      "correct": false
+    },
+    {
+      "text": "Fidelio — Giuseppe Verdi",
+      "correct": false
+    },
+    {
+      "text": "Fidelio — Ludwig van Beethoven",
+      "correct": true
+    }
+  ],
+  "explanation": "“Fidelio” es una obra de Ludwig van Beethoven.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "compositores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

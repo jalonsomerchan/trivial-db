@@ -1,0 +1,42 @@
+{
+  "id": "q-021324",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "juegos-olimpicos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: Ámsterdam 1928, Roma 1960, Los Ángeles 1984 o Pekín 2008?",
+  "answers": [
+    {
+      "text": "Roma 1960",
+      "correct": false
+    },
+    {
+      "text": "Los Ángeles 1984",
+      "correct": false
+    },
+    {
+      "text": "Ámsterdam 1928",
+      "correct": true
+    },
+    {
+      "text": "Pekín 2008",
+      "correct": false
+    }
+  ],
+  "explanation": "Ámsterdam 1928 es la opción correcta porque su fecha asociada es 1928.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "sedes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

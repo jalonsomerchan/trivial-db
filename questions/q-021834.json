@@ -1,0 +1,42 @@
+{
+  "id": "q-021834",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: El caballero oscuro (película), Space Invaders (videojuego), Street Fighter II (videojuego) o Halo: Combat Evolved (videojuego)?",
+  "answers": [
+    {
+      "text": "Street Fighter II (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "El caballero oscuro (película)",
+      "correct": false
+    },
+    {
+      "text": "Space Invaders (videojuego)",
+      "correct": true
+    },
+    {
+      "text": "Halo: Combat Evolved (videojuego)",
+      "correct": false
+    }
+  ],
+  "explanation": "Space Invaders (videojuego) es la opción correcta porque su fecha asociada es 1978.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

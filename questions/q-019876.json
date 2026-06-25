@@ -1,0 +1,42 @@
+{
+  "id": "q-019876",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar AND bit a bit entre 80 y 226?",
+  "answers": [
+    {
+      "text": "242",
+      "correct": false
+    },
+    {
+      "text": "50",
+      "correct": false
+    },
+    {
+      "text": "178",
+      "correct": false
+    },
+    {
+      "text": "64",
+      "correct": true
+    }
+  ],
+  "explanation": "El operador AND bit a bit conserva solo los bits que están activos en ambos números; 80 AND 226 = 64.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "operadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

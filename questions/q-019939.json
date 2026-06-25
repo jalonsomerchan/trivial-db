@@ -1,0 +1,42 @@
+{
+  "id": "q-019939",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar AND bit a bit entre 116 y 135?",
+  "answers": [
+    {
+      "text": "243",
+      "correct": false
+    },
+    {
+      "text": "247",
+      "correct": false
+    },
+    {
+      "text": "251",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": true
+    }
+  ],
+  "explanation": "El operador AND bit a bit conserva solo los bits que están activos en ambos números; 116 AND 135 = 4.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "operadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022594",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Teherán?",
+  "answers": [
+    {
+      "text": "Irán",
+      "correct": true
+    },
+    {
+      "text": "Arabia Saudí",
+      "correct": false
+    },
+    {
+      "text": "Irak",
+      "correct": false
+    },
+    {
+      "text": "Bangladés",
+      "correct": false
+    }
+  ],
+  "explanation": "Teherán es la capital de Irán.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

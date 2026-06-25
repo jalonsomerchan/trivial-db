@@ -1,0 +1,42 @@
+{
+  "id": "q-018414",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Paz de Westfalia” y “Crisis de los misiles de Cuba”?",
+  "answers": [
+    {
+      "text": "Paz de Westfalia después que Crisis de los misiles de Cuba",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia antes que Crisis de los misiles de Cuba",
+      "correct": true
+    },
+    {
+      "text": "Crisis de los misiles de Cuba antes que Paz de Westfalia",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    }
+  ],
+  "explanation": "Paz de Westfalia ocurrió antes que Crisis de los misiles de Cuba.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

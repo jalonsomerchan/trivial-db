@@ -1,0 +1,42 @@
+{
+  "id": "q-022940",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación país-capital-moneda corresponde a México?",
+  "answers": [
+    {
+      "text": "México — Asunción — guaraní",
+      "correct": false
+    },
+    {
+      "text": "México — Montevideo — peso uruguayo",
+      "correct": false
+    },
+    {
+      "text": "México — Ciudad de México — peso mexicano",
+      "correct": true
+    },
+    {
+      "text": "México — Brasilia — real",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta es México — Ciudad de México — peso mexicano.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

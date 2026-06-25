@@ -1,0 +1,43 @@
+{
+  "id": "q-020447",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "cronologia-cultural"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Cien años de soledad (literatura), Las meninas (pintura), La Gioconda (pintura) o Olympia (pintura)?",
+  "answers": [
+    {
+      "text": "Cien años de soledad (literatura)",
+      "correct": true
+    },
+    {
+      "text": "La Gioconda (pintura)",
+      "correct": false
+    },
+    {
+      "text": "Las meninas (pintura)",
+      "correct": false
+    },
+    {
+      "text": "Olympia (pintura)",
+      "correct": false
+    }
+  ],
+  "explanation": "Cien años de soledad (literatura) es la opción correcta porque su fecha asociada es 1967.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

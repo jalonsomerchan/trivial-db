@@ -1,0 +1,42 @@
+{
+  "id": "q-017713",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Guinea-Bisáu?",
+  "answers": [
+    {
+      "text": "Senegal",
+      "correct": true
+    },
+    {
+      "text": "Camerún",
+      "correct": false
+    },
+    {
+      "text": "Ruanda",
+      "correct": false
+    },
+    {
+      "text": "Zambia",
+      "correct": false
+    }
+  ],
+  "explanation": "Senegal comparte frontera terrestre con Guinea-Bisáu.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

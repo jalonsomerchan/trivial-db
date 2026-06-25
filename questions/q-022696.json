@@ -1,0 +1,42 @@
+{
+  "id": "q-022696",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Papúa Nueva Guinea?",
+  "answers": [
+    {
+      "text": "dólar australiano",
+      "correct": false
+    },
+    {
+      "text": "tala",
+      "correct": false
+    },
+    {
+      "text": "dólar neozelandés",
+      "correct": false
+    },
+    {
+      "text": "kina",
+      "correct": true
+    }
+  ],
+  "explanation": "La moneda indicada para Papúa Nueva Guinea es kina.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "oceania"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

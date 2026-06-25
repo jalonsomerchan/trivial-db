@@ -1,0 +1,43 @@
+{
+  "id": "q-022292",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué relación gastronómica identifica mejor a bibimbap?",
+  "answers": [
+    {
+      "text": "bibimbap — Japón — fideos",
+      "correct": false
+    },
+    {
+      "text": "bibimbap — Corea — arroz",
+      "correct": true
+    },
+    {
+      "text": "bibimbap — Sudeste asiático — carne ensartada",
+      "correct": false
+    },
+    {
+      "text": "bibimbap — España — patata y huevo",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para bibimbap es Corea y arroz.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

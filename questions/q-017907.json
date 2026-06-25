@@ -1,0 +1,42 @@
+{
+  "id": "q-017907",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Albania, Reino Unido, Estonia, Nauru?",
+  "answers": [
+    {
+      "text": "Reino Unido",
+      "correct": false
+    },
+    {
+      "text": "Albania",
+      "correct": false
+    },
+    {
+      "text": "Nauru",
+      "correct": true
+    },
+    {
+      "text": "Estonia",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Nauru es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

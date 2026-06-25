@@ -1,0 +1,42 @@
+{
+  "id": "q-022600",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Ciudad de México?",
+  "answers": [
+    {
+      "text": "México",
+      "correct": true
+    },
+    {
+      "text": "Cuba",
+      "correct": false
+    },
+    {
+      "text": "Canadá",
+      "correct": false
+    },
+    {
+      "text": "Costa Rica",
+      "correct": false
+    }
+  ],
+  "explanation": "Ciudad de México es la capital de México.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015391",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué rasgo histórico-artístico corresponde al neoclasicismo?",
+  "answers": [
+    {
+      "text": "descomposición de la forma en planos",
+      "correct": false
+    },
+    {
+      "text": "emoción, sublime y libertad individual",
+      "correct": false
+    },
+    {
+      "text": "Antigüedad clásica y sobriedad compositiva",
+      "correct": true
+    },
+    {
+      "text": "ornamentación ligera y gusto cortesano",
+      "correct": false
+    }
+  ],
+  "explanation": "El neoclasicismo se reconoce por Antigüedad clásica y sobriedad compositiva.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018714",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué categoría funcional corresponde a “al profesor” en “Los alumnos entregaron el trabajo al profesor”?",
+  "answers": [
+    {
+      "text": "atributo",
+      "correct": false
+    },
+    {
+      "text": "complemento agente",
+      "correct": false
+    },
+    {
+      "text": "complemento indirecto",
+      "correct": true
+    },
+    {
+      "text": "sujeto",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Los alumnos entregaron el trabajo al profesor”, “al profesor” funciona como complemento indirecto.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

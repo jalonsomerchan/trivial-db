@@ -1,0 +1,42 @@
+{
+  "id": "q-018296",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Llegada de Colón a América” y “Crisis de los misiles de Cuba”?",
+  "answers": [
+    {
+      "text": "Llegada de Colón a América después que Crisis de los misiles de Cuba",
+      "correct": false
+    },
+    {
+      "text": "Llegada de Colón a América antes que Crisis de los misiles de Cuba",
+      "correct": true
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Crisis de los misiles de Cuba antes que Llegada de Colón a América",
+      "correct": false
+    }
+  ],
+  "explanation": "Llegada de Colón a América ocurrió antes que Crisis de los misiles de Cuba.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

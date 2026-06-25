@@ -1,0 +1,42 @@
+{
+  "id": "q-017974",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Uzbekistán, Tonga, Groenlandia, Filipinas?",
+  "answers": [
+    {
+      "text": "Filipinas",
+      "correct": false
+    },
+    {
+      "text": "Groenlandia",
+      "correct": true
+    },
+    {
+      "text": "Tonga",
+      "correct": false
+    },
+    {
+      "text": "Uzbekistán",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Groenlandia es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

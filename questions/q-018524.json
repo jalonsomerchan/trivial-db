@@ -1,0 +1,42 @@
+{
+  "id": "q-018524",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "conectores"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de relación introduce “por tanto”?",
+  "answers": [
+    {
+      "text": "condición",
+      "correct": false
+    },
+    {
+      "text": "consecuencia",
+      "correct": true
+    },
+    {
+      "text": "concesión",
+      "correct": false
+    },
+    {
+      "text": "comparación",
+      "correct": false
+    }
+  ],
+  "explanation": "El conector “por tanto” suele expresar consecuencia.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "conectores",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

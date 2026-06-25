@@ -1,0 +1,42 @@
+{
+  "id": "q-023709",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué análisis de “cansados” es correcto en “Los niños parecen cansados”?",
+  "answers": [
+    {
+      "text": "atributo",
+      "correct": true
+    },
+    {
+      "text": "complemento indirecto",
+      "correct": false
+    },
+    {
+      "text": "complemento predicativo",
+      "correct": false
+    },
+    {
+      "text": "complemento agente",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Los niños parecen cansados”, “cansados” cumple la función de atributo.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

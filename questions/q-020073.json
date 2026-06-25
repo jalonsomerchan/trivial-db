@@ -1,0 +1,43 @@
+{
+  "id": "q-020073",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura",
+    "cronologia"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué siglo se creó o publicó “Las meninas”?",
+  "answers": [
+    {
+      "text": "siglo XVI",
+      "correct": false
+    },
+    {
+      "text": "siglo XVIII",
+      "correct": false
+    },
+    {
+      "text": "siglo XIX",
+      "correct": false
+    },
+    {
+      "text": "siglo XVII",
+      "correct": true
+    }
+  ],
+  "explanation": "“Las meninas” se sitúa en torno a 1656, por lo que corresponde a siglo XVII.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

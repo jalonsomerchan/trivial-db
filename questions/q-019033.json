@@ -1,0 +1,42 @@
+{
+  "id": "q-019033",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 20% de 120?",
+  "answers": [
+    {
+      "text": "30",
+      "correct": false
+    },
+    {
+      "text": "36",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": true
+    },
+    {
+      "text": "18",
+      "correct": false
+    }
+  ],
+  "explanation": "El 20% de 120 se calcula multiplicando 120 por 20/100, lo que da 24.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

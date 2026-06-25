@@ -1,0 +1,42 @@
+{
+  "id": "q-024050",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 64 al cuadrado?",
+  "answers": [
+    {
+      "text": "4096",
+      "correct": true
+    },
+    {
+      "text": "128",
+      "correct": false
+    },
+    {
+      "text": "4032",
+      "correct": false
+    },
+    {
+      "text": "4160",
+      "correct": false
+    }
+  ],
+  "explanation": "Elevar 64 al cuadrado equivale a multiplicar 64 por sí mismo: 4096.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

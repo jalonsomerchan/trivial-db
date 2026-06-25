@@ -1,0 +1,42 @@
+{
+  "id": "q-023163",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1804?",
+  "answers": [
+    {
+      "text": "destrucción de Cartago en la tercera guerra púnica",
+      "correct": false
+    },
+    {
+      "text": "coronación de Napoleón como emperador",
+      "correct": true
+    },
+    {
+      "text": "batalla de Maratón",
+      "correct": false
+    },
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1804 se asocia con coronación de Napoleón como emperador.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

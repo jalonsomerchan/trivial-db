@@ -1,0 +1,42 @@
+{
+  "id": "q-015464",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué sensibilidad estética se relaciona con el futurismo?",
+  "answers": [
+    {
+      "text": "geometría y función social del arte",
+      "correct": false
+    },
+    {
+      "text": "velocidad, máquina y dinamismo moderno",
+      "correct": true
+    },
+    {
+      "text": "imágenes del sueño y del inconsciente",
+      "correct": false
+    },
+    {
+      "text": "reducción formal y austeridad de medios",
+      "correct": false
+    }
+  ],
+  "explanation": "El futurismo se reconoce por velocidad, máquina y dinamismo moderno.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

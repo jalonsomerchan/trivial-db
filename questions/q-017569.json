@@ -1,0 +1,42 @@
+{
+  "id": "q-017569",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el prefijo telefónico internacional de Irak?",
+  "answers": [
+    {
+      "text": "+502",
+      "correct": false
+    },
+    {
+      "text": "+507",
+      "correct": false
+    },
+    {
+      "text": "+233",
+      "correct": false
+    },
+    {
+      "text": "+964",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Irak es +964.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018401",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Revolución francesa” y “Unificación alemana”?",
+  "answers": [
+    {
+      "text": "Revolución francesa después que Unificación alemana",
+      "correct": false
+    },
+    {
+      "text": "Revolución francesa antes que Unificación alemana",
+      "correct": true
+    },
+    {
+      "text": "Unificación alemana antes que Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    }
+  ],
+  "explanation": "Revolución francesa ocurrió antes que Unificación alemana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

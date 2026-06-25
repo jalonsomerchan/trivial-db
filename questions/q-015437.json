@@ -1,0 +1,42 @@
+{
+  "id": "q-015437",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué elemento formal caracteriza al barroco?",
+  "answers": [
+    {
+      "text": "dramatismo, contraste y movimiento",
+      "correct": true
+    },
+    {
+      "text": "retorno idealizado a modelos anteriores a Rafael",
+      "correct": false
+    },
+    {
+      "text": "captura de la luz y pincelada suelta",
+      "correct": false
+    },
+    {
+      "text": "provocación antiarte y rechazo de la lógica tradicional",
+      "correct": false
+    }
+  ],
+  "explanation": "El barroco se reconoce por dramatismo, contraste y movimiento.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

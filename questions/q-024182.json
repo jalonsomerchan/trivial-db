@@ -1,0 +1,42 @@
+{
+  "id": "q-024182",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué valor de x satisface la ecuación 8x + 15 = 199?",
+  "answers": [
+    {
+      "text": "23",
+      "correct": true
+    },
+    {
+      "text": "22",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": false
+    },
+    {
+      "text": "-23",
+      "correct": false
+    }
+  ],
+  "explanation": "Al despejar, 8x = 184, por lo que x = 23.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-020006",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién creó “La Celestina”?",
+  "answers": [
+    {
+      "text": "Fernando de Rojas",
+      "correct": true
+    },
+    {
+      "text": "Leonardo da Vinci",
+      "correct": false
+    },
+    {
+      "text": "William Shakespeare",
+      "correct": false
+    },
+    {
+      "text": "F. Scott Fitzgerald",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Celestina” fue creada por Fernando de Rojas.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

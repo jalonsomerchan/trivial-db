@@ -1,0 +1,42 @@
+{
+  "id": "q-015344",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción encaja mejor con el cubismo como movimiento artístico?",
+  "answers": [
+    {
+      "text": "descomposición de la forma en planos",
+      "correct": true
+    },
+    {
+      "text": "velocidad, máquina y dinamismo moderno",
+      "correct": false
+    },
+    {
+      "text": "ornamentación ligera y gusto cortesano",
+      "correct": false
+    },
+    {
+      "text": "Antigüedad clásica y sobriedad compositiva",
+      "correct": false
+    }
+  ],
+  "explanation": "El cubismo se reconoce por descomposición de la forma en planos.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

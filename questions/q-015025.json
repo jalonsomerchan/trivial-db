@@ -1,0 +1,42 @@
+{
+  "id": "q-015025",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿A qué novela pertenece Gregor Samsa?",
+  "answers": [
+    {
+      "text": "El extranjero",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha",
+      "correct": false
+    },
+    {
+      "text": "Estudio en escarlata",
+      "correct": false
+    },
+    {
+      "text": "La metamorfosis",
+      "correct": true
+    }
+  ],
+  "explanation": "Gregor Samsa es un personaje de “La metamorfosis”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

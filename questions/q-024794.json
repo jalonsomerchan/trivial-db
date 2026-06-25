@@ -1,0 +1,42 @@
+{
+  "id": "q-024794",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 38 AND 34 a nivel de bits?",
+  "answers": [
+    {
+      "text": "35",
+      "correct": false
+    },
+    {
+      "text": "34",
+      "correct": true
+    },
+    {
+      "text": "4",
+      "correct": false
+    },
+    {
+      "text": "72",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 38 y 34, el resultado decimal es 34.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

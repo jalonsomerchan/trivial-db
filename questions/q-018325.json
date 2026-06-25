@@ -1,0 +1,42 @@
+{
+  "id": "q-018325",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Revolución francesa” y “Fundación de la ONU”?",
+  "answers": [
+    {
+      "text": "Fundación de la ONU antes que Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Revolución francesa después que Fundación de la ONU",
+      "correct": false
+    },
+    {
+      "text": "Revolución francesa antes que Fundación de la ONU",
+      "correct": true
+    }
+  ],
+  "explanation": "Revolución francesa ocurrió antes que Fundación de la ONU.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

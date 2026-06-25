@@ -1,0 +1,42 @@
+{
+  "id": "q-018285",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Conquista de Alejandro de Persia” y “Crack bursátil de Wall Street”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Conquista de Alejandro de Persia después que Crack bursátil de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "Crack bursátil de Wall Street antes que Conquista de Alejandro de Persia",
+      "correct": false
+    },
+    {
+      "text": "Conquista de Alejandro de Persia antes que Crack bursátil de Wall Street",
+      "correct": true
+    }
+  ],
+  "explanation": "Conquista de Alejandro de Persia ocurrió antes que Crack bursátil de Wall Street.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

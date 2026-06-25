@@ -1,0 +1,42 @@
+{
+  "id": "q-017376",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción define correctamente Gouda?",
+  "answers": [
+    {
+      "text": "pescado marinado en cítricos",
+      "correct": false
+    },
+    {
+      "text": "sopa de fideos del Sudeste Asiático con caldo especiado",
+      "correct": false
+    },
+    {
+      "text": "queso español de leche de oveja manchega",
+      "correct": false
+    },
+    {
+      "text": "queso neerlandés de pasta prensada",
+      "correct": true
+    }
+  ],
+  "explanation": "Gouda se describe como queso neerlandés de pasta prensada.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

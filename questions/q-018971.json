@@ -1,0 +1,42 @@
+{
+  "id": "q-018971",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué recurso o estructura aparece en “Rápido corren los ríos hacia el mar”?",
+  "answers": [
+    {
+      "text": "subordinada sustantiva",
+      "correct": false
+    },
+    {
+      "text": "personificación",
+      "correct": false
+    },
+    {
+      "text": "hipérbaton",
+      "correct": true
+    },
+    {
+      "text": "subordinada concesiva",
+      "correct": false
+    }
+  ],
+  "explanation": "“Rápido corren los ríos hacia el mar” se clasifica como hipérbaton.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

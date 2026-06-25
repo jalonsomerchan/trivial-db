@@ -1,0 +1,42 @@
+{
+  "id": "q-018197",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho se asocia con la Rebelión de los bóxers?",
+  "answers": [
+    {
+      "text": "revolución de esclavos que condujo a la independencia de Haití",
+      "correct": false
+    },
+    {
+      "text": "gobierno revolucionario breve tras la guerra franco-prusiana",
+      "correct": false
+    },
+    {
+      "text": "levantamiento contra influencia extranjera y cristiana",
+      "correct": true
+    },
+    {
+      "text": "fin de la dictadura del Estado Novo",
+      "correct": false
+    }
+  ],
+  "explanation": "La Rebelión de los bóxers se relaciona con levantamiento contra influencia extranjera y cristiana.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "rebelion-de-los-boxers"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

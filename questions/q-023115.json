@@ -1,0 +1,42 @@
+{
+  "id": "q-023115",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1830?",
+  "answers": [
+    {
+      "text": "firma del Tratado de Maastricht",
+      "correct": false
+    },
+    {
+      "text": "primera vuelta al mundo completada por la expedición de Magallanes-Elcano",
+      "correct": false
+    },
+    {
+      "text": "independencia de Grecia reconocida",
+      "correct": true
+    },
+    {
+      "text": "Primera Guerra del Opio",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1830 se asocia con independencia de Grecia reconocida.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

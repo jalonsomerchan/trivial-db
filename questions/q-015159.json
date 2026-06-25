@@ -1,0 +1,42 @@
+{
+  "id": "q-015159",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación obra-museo es correcta para “Nighthawks”?",
+  "answers": [
+    {
+      "text": "Nighthawks — Belvedere de Viena",
+      "correct": false
+    },
+    {
+      "text": "Nighthawks — MoMA",
+      "correct": false
+    },
+    {
+      "text": "Nighthawks — Art Institute of Chicago",
+      "correct": true
+    },
+    {
+      "text": "Nighthawks — National Gallery de Londres",
+      "correct": false
+    }
+  ],
+  "explanation": "“Nighthawks” se conserva habitualmente en Art Institute of Chicago.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

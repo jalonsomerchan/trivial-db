@@ -1,0 +1,42 @@
+{
+  "id": "q-024550",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "formatos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tarea corresponde a JSON?",
+  "answers": [
+    {
+      "text": "rutar paquetes BGP",
+      "correct": false
+    },
+    {
+      "text": "representar datos estructurados en texto",
+      "correct": true
+    },
+    {
+      "text": "comprimir vídeo H.265",
+      "correct": false
+    },
+    {
+      "text": "alimentar sensores analógicos",
+      "correct": false
+    }
+  ],
+  "explanation": "JSON se usa principalmente para representar datos estructurados en texto.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "formatos",
+    "tecnologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

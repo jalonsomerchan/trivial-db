@@ -1,0 +1,42 @@
+{
+  "id": "q-015457",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué planteamiento artístico representa el surrealismo?",
+  "answers": [
+    {
+      "text": "velocidad, máquina y dinamismo moderno",
+      "correct": false
+    },
+    {
+      "text": "Antigüedad clásica y sobriedad compositiva",
+      "correct": false
+    },
+    {
+      "text": "color intenso y libertad expresiva",
+      "correct": false
+    },
+    {
+      "text": "imágenes del sueño y del inconsciente",
+      "correct": true
+    }
+  ],
+  "explanation": "El surrealismo se reconoce por imágenes del sueño y del inconsciente.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016971",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción completa correctamente “Halo” y su creador?",
+  "answers": [
+    {
+      "text": "id Software",
+      "correct": false
+    },
+    {
+      "text": "Bungie",
+      "correct": true
+    },
+    {
+      "text": "Markus Persson",
+      "correct": false
+    },
+    {
+      "text": "Ken Levine",
+      "correct": false
+    }
+  ],
+  "explanation": "“Halo” se asocia con Bungie.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "creadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

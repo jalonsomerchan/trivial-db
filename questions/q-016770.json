@@ -1,0 +1,42 @@
+{
+  "id": "q-016770",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "series"
+  ],
+  "difficulty": "hard",
+  "question": "¿En qué lugar se ambienta principalmente “Friends”?",
+  "answers": [
+    {
+      "text": "Los Ángeles",
+      "correct": false
+    },
+    {
+      "text": "Chicago",
+      "correct": false
+    },
+    {
+      "text": "Nueva York",
+      "correct": true
+    },
+    {
+      "text": "Boston",
+      "correct": false
+    }
+  ],
+  "explanation": "“Friends” se ambienta principalmente en Nueva York.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "series",
+    "television"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

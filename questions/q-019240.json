@@ -1,0 +1,42 @@
+{
+  "id": "q-019240",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuáles son las raíces de la ecuación x² -12x +32 = 0?",
+  "answers": [
+    {
+      "text": "5 y 7",
+      "correct": false
+    },
+    {
+      "text": "4 y -8",
+      "correct": false
+    },
+    {
+      "text": "-4 y -8",
+      "correct": false
+    },
+    {
+      "text": "4 y 8",
+      "correct": true
+    }
+  ],
+  "explanation": "La ecuación se factoriza como (x - 4)(x - 8) = 0, por lo que las raíces son 4 y 8.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-022385",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para cassoulet?",
+  "answers": [
+    {
+      "text": "cassoulet — Francia — alubias",
+      "correct": true
+    },
+    {
+      "text": "cassoulet — Sudeste asiático — fideos",
+      "correct": false
+    },
+    {
+      "text": "cassoulet — Magreb — sémola de trigo",
+      "correct": false
+    },
+    {
+      "text": "cassoulet — Etiopía — teff",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para cassoulet es Francia y alubias.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

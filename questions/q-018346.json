@@ -1,0 +1,42 @@
+{
+  "id": "q-018346",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Asesinato de Julio César” y “Batalla de Lepanto”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Asesinato de Julio César antes que Batalla de Lepanto",
+      "correct": true
+    },
+    {
+      "text": "Batalla de Lepanto antes que Asesinato de Julio César",
+      "correct": false
+    },
+    {
+      "text": "Asesinato de Julio César después que Batalla de Lepanto",
+      "correct": false
+    }
+  ],
+  "explanation": "Asesinato de Julio César ocurrió antes que Batalla de Lepanto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

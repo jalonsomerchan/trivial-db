@@ -1,0 +1,42 @@
+{
+  "id": "q-018928",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué rasgo lingüístico identifica a “Habla como si supiera todo”?",
+  "answers": [
+    {
+      "text": "hipérbaton",
+      "correct": false
+    },
+    {
+      "text": "metonimia",
+      "correct": false
+    },
+    {
+      "text": "subordinada modal",
+      "correct": true
+    },
+    {
+      "text": "subordinada causal",
+      "correct": false
+    }
+  ],
+  "explanation": "“Habla como si supiera todo” se clasifica como subordinada modal.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

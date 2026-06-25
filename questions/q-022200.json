@@ -1,0 +1,42 @@
+{
+  "id": "q-022200",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base culinaria se asocia con baklava?",
+  "answers": [
+    {
+      "text": "masa filo",
+      "correct": true
+    },
+    {
+      "text": "chiles y cacao",
+      "correct": false
+    },
+    {
+      "text": "yogur",
+      "correct": false
+    },
+    {
+      "text": "patata",
+      "correct": false
+    }
+  ],
+  "explanation": "baklava se relaciona especialmente con masa filo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017222",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base elegirías para preparar tahini?",
+  "answers": [
+    {
+      "text": "ajo y aceite emulsionados",
+      "correct": false
+    },
+    {
+      "text": "pasta de sésamo",
+      "correct": true
+    },
+    {
+      "text": "yogur, pepino y ajo",
+      "correct": false
+    },
+    {
+      "text": "roux y leche",
+      "correct": false
+    }
+  ],
+  "explanation": "tahini se caracteriza por pasta de sésamo.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

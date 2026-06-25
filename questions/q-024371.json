@@ -1,0 +1,42 @@
+{
+  "id": "q-024371",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica-modular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resto de dividir (41² + 3 × 203) entre 11?",
+  "answers": [
+    {
+      "text": "0",
+      "correct": false
+    },
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": true
+    }
+  ],
+  "explanation": "Se calcula 41² + 3 × 203 y se toma el resto al dividir entre 11; el resultado es 2.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "modulos",
+    "restos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

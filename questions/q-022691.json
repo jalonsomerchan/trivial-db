@@ -1,0 +1,42 @@
+{
+  "id": "q-022691",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Paraguay?",
+  "answers": [
+    {
+      "text": "guaraní",
+      "correct": true
+    },
+    {
+      "text": "peso colombiano",
+      "correct": false
+    },
+    {
+      "text": "dólar canadiense",
+      "correct": false
+    },
+    {
+      "text": "peso mexicano",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Paraguay es guaraní.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

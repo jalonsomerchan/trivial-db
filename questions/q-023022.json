@@ -1,0 +1,42 @@
+{
+  "id": "q-023022",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió entrada física del euro en circulación?",
+  "answers": [
+    {
+      "text": "2001",
+      "correct": false
+    },
+    {
+      "text": "2003",
+      "correct": false
+    },
+    {
+      "text": "2012",
+      "correct": false
+    },
+    {
+      "text": "2002",
+      "correct": true
+    }
+  ],
+  "explanation": "Entrada física del euro en circulación ocurrió en 2002.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

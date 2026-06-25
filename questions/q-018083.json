@@ -1,0 +1,42 @@
+{
+  "id": "q-018083",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tema histórico corresponde al Tratado de Maastricht?",
+  "answers": [
+    {
+      "text": "creación de la Unión Europea",
+      "correct": true
+    },
+    {
+      "text": "fin de la Primera Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "creación de la Sociedad de Naciones",
+      "correct": false
+    },
+    {
+      "text": "unificación italiana",
+      "correct": false
+    }
+  ],
+  "explanation": "El Tratado de Maastricht, firmado en 1992, se vincula con creación de la Unión Europea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "tratados",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

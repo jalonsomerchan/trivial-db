@@ -1,0 +1,42 @@
+{
+  "id": "q-023113",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1804?",
+  "answers": [
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "coronación de Napoleón como emperador",
+      "correct": true
+    },
+    {
+      "text": "Primera Guerra del Opio",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1804 se asocia con coronación de Napoleón como emperador.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

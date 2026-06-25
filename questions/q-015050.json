@@ -1,0 +1,42 @@
+{
+  "id": "q-015050",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué obra literaria incluye a Leopold Bloom?",
+  "answers": [
+    {
+      "text": "Ulises",
+      "correct": true
+    },
+    {
+      "text": "Las uvas de la ira",
+      "correct": false
+    },
+    {
+      "text": "1984",
+      "correct": false
+    },
+    {
+      "text": "Orgullo y prejuicio",
+      "correct": false
+    }
+  ],
+  "explanation": "Leopold Bloom es un personaje de “Ulises”.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "personajes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

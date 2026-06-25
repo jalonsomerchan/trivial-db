@@ -1,0 +1,42 @@
+{
+  "id": "q-015104",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué artista pintó “El jardín de las delicias”?",
+  "answers": [
+    {
+      "text": "El Bosco",
+      "correct": true
+    },
+    {
+      "text": "Caspar David Friedrich",
+      "correct": false
+    },
+    {
+      "text": "Edvard Munch",
+      "correct": false
+    },
+    {
+      "text": "Johannes Vermeer",
+      "correct": false
+    }
+  ],
+  "explanation": "“El jardín de las delicias” fue pintada por El Bosco.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "el-bosco"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018603",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué función sintáctica desempeña “tarde” en la oración “El tren llegó tarde”?",
+  "answers": [
+    {
+      "text": "atributo",
+      "correct": false
+    },
+    {
+      "text": "sujeto",
+      "correct": false
+    },
+    {
+      "text": "complemento directo",
+      "correct": false
+    },
+    {
+      "text": "complemento circunstancial de tiempo o modo",
+      "correct": true
+    }
+  ],
+  "explanation": "En “El tren llegó tarde”, el segmento “tarde” funciona como complemento circunstancial de tiempo o modo.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-023307",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: Primera Guerra del Opio, Conferencia de Berlín sobre África, crac de Wall Street o independencia de India?",
+  "answers": [
+    {
+      "text": "crac de Wall Street",
+      "correct": false
+    },
+    {
+      "text": "Conferencia de Berlín sobre África",
+      "correct": false
+    },
+    {
+      "text": "Primera Guerra del Opio",
+      "correct": true
+    },
+    {
+      "text": "independencia de India",
+      "correct": false
+    }
+  ],
+  "explanation": "Primera Guerra del Opio es la opción correcta porque su fecha asociada es 1839.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

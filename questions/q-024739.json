@@ -1,0 +1,42 @@
+{
+  "id": "q-024739",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 17 AND 23 a nivel de bits?",
+  "answers": [
+    {
+      "text": "17",
+      "correct": true
+    },
+    {
+      "text": "40",
+      "correct": false
+    },
+    {
+      "text": "16",
+      "correct": false
+    },
+    {
+      "text": "6",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 17 y 23, el resultado decimal es 17.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

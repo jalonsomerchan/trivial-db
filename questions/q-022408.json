@@ -1,0 +1,43 @@
+{
+  "id": "q-022408",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para injera?",
+  "answers": [
+    {
+      "text": "injera — Etiopía — teff",
+      "correct": true
+    },
+    {
+      "text": "injera — Mediterráneo oriental — masa filo",
+      "correct": false
+    },
+    {
+      "text": "injera — Japón — rebozado ligero",
+      "correct": false
+    },
+    {
+      "text": "injera — Canadá — patatas fritas",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para injera es Etiopía y teff.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018921",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué rasgo lingüístico identifica a “El ruido con que rueda la ronca tempestad”?",
+  "answers": [
+    {
+      "text": "antítesis",
+      "correct": false
+    },
+    {
+      "text": "elipsis",
+      "correct": false
+    },
+    {
+      "text": "aliteración",
+      "correct": true
+    },
+    {
+      "text": "subordinada causal",
+      "correct": false
+    }
+  ],
+  "explanation": "“El ruido con que rueda la ronca tempestad” se clasifica como aliteración.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-019821",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar AND bit a bit entre 53 y 148?",
+  "answers": [
+    {
+      "text": "161",
+      "correct": false
+    },
+    {
+      "text": "201",
+      "correct": false
+    },
+    {
+      "text": "181",
+      "correct": false
+    },
+    {
+      "text": "20",
+      "correct": true
+    }
+  ],
+  "explanation": "El operador AND bit a bit conserva solo los bits que están activos en ambos números; 53 AND 148 = 20.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "operadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

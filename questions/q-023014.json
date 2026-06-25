@@ -1,0 +1,42 @@
+{
+  "id": "q-023014",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió llegada del Apolo 11 a la Luna?",
+  "answers": [
+    {
+      "text": "1969",
+      "correct": true
+    },
+    {
+      "text": "1979",
+      "correct": false
+    },
+    {
+      "text": "1968",
+      "correct": false
+    },
+    {
+      "text": "1970",
+      "correct": false
+    }
+  ],
+  "explanation": "Llegada del apolo 11 a la luna ocurrió en 1969.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

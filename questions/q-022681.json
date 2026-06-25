@@ -1,0 +1,42 @@
+{
+  "id": "q-022681",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Cuba?",
+  "answers": [
+    {
+      "text": "peso cubano",
+      "correct": true
+    },
+    {
+      "text": "boliviano",
+      "correct": false
+    },
+    {
+      "text": "peso mexicano",
+      "correct": false
+    },
+    {
+      "text": "dólar canadiense",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Cuba es peso cubano.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

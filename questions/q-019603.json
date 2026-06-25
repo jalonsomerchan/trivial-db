@@ -1,0 +1,42 @@
+{
+  "id": "q-019603",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántas direcciones IPv4 totales contiene una red /21?",
+  "answers": [
+    {
+      "text": "2046",
+      "correct": false
+    },
+    {
+      "text": "4096",
+      "correct": false
+    },
+    {
+      "text": "1024",
+      "correct": false
+    },
+    {
+      "text": "2048",
+      "correct": true
+    }
+  ],
+  "explanation": "En IPv4, una red /21 deja 11 bits para direcciones; por tanto contiene 2^11 = 2048 direcciones.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "ipv4",
+    "cidr"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

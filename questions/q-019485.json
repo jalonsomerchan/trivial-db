@@ -1,0 +1,42 @@
+{
+  "id": "q-019485",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica-modular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resto de dividir (51 × 74 + 74) entre 9?",
+  "answers": [
+    {
+      "text": "7",
+      "correct": false
+    },
+    {
+      "text": "6",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": true
+    }
+  ],
+  "explanation": "Se calcula 51 × 74 + 74 y después se toma el resto de la división entre 9; el resto es 5.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "modulos",
+    "restos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

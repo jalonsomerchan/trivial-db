@@ -1,0 +1,42 @@
+{
+  "id": "q-017621",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Liberia?",
+  "answers": [
+    {
+      "text": "Sudán",
+      "correct": false
+    },
+    {
+      "text": "Sierra Leone",
+      "correct": true
+    },
+    {
+      "text": "Comoras",
+      "correct": false
+    },
+    {
+      "text": "Lesotho",
+      "correct": false
+    }
+  ],
+  "explanation": "Sierra Leone comparte frontera terrestre con Liberia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024111",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué valor de x satisface la ecuación 6x + 11 = 155?",
+  "answers": [
+    {
+      "text": "23",
+      "correct": false
+    },
+    {
+      "text": "25",
+      "correct": false
+    },
+    {
+      "text": "-24",
+      "correct": false
+    },
+    {
+      "text": "24",
+      "correct": true
+    }
+  ],
+  "explanation": "Al despejar, 6x = 144, por lo que x = 24.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

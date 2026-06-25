@@ -1,0 +1,42 @@
+{
+  "id": "q-018124",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué describe mejor la Marcha de la Sal?",
+  "answers": [
+    {
+      "text": "encuentro clave del movimiento afroasiático y no alineado",
+      "correct": false
+    },
+    {
+      "text": "base para la paz entre Egipto e Israel",
+      "correct": false
+    },
+    {
+      "text": "represión de manifestantes que aceleró la revolución rusa de 1905",
+      "correct": false
+    },
+    {
+      "text": "campaña de desobediencia civil liderada por Gandhi",
+      "correct": true
+    }
+  ],
+  "explanation": "La Marcha de la Sal fue campaña de desobediencia civil liderada por Gandhi.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "marcha-de-la-sal"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

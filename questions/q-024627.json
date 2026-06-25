@@ -1,0 +1,42 @@
+{
+  "id": "q-024627",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sistemas-numericos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la notación hexadecimal del número decimal 139?",
+  "answers": [
+    {
+      "text": "0x8A",
+      "correct": false
+    },
+    {
+      "text": "0x8B",
+      "correct": true
+    },
+    {
+      "text": "0x116",
+      "correct": false
+    },
+    {
+      "text": "0x8C",
+      "correct": false
+    }
+  ],
+  "explanation": "Al convertir 139 a base 16 se obtiene 0x8B.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "hexadecimal",
+    "conversion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

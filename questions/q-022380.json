@@ -1,0 +1,43 @@
+{
+  "id": "q-022380",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para risotto?",
+  "answers": [
+    {
+      "text": "risotto — Argentina — carne",
+      "correct": false
+    },
+    {
+      "text": "risotto — Sudeste asiático — carne ensartada",
+      "correct": false
+    },
+    {
+      "text": "risotto — Marruecos — carne o verduras",
+      "correct": false
+    },
+    {
+      "text": "risotto — Italia — arroz arborio",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para risotto es Italia y arroz arborio.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

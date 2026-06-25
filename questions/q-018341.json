@@ -1,0 +1,42 @@
+{
+  "id": "q-018341",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Concilio de Nicea” y “Carta Magna inglesa”?",
+  "answers": [
+    {
+      "text": "Concilio de Nicea antes que Carta Magna inglesa",
+      "correct": true
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Carta Magna inglesa antes que Concilio de Nicea",
+      "correct": false
+    },
+    {
+      "text": "Concilio de Nicea después que Carta Magna inglesa",
+      "correct": false
+    }
+  ],
+  "explanation": "Concilio de Nicea ocurrió antes que Carta Magna inglesa.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022194",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base culinaria se asocia con laksa?",
+  "answers": [
+    {
+      "text": "fideos",
+      "correct": true
+    },
+    {
+      "text": "pescado",
+      "correct": false
+    },
+    {
+      "text": "carne",
+      "correct": false
+    },
+    {
+      "text": "pimentón",
+      "correct": false
+    }
+  ],
+  "explanation": "laksa se relaciona especialmente con fideos.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

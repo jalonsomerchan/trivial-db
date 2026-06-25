@@ -1,0 +1,42 @@
+{
+  "id": "q-015297",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "musica-clasica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación obra-compositor es correcta para “Boléro”?",
+  "answers": [
+    {
+      "text": "Boléro — Antonio Vivaldi",
+      "correct": false
+    },
+    {
+      "text": "Boléro — Maurice Ravel",
+      "correct": true
+    },
+    {
+      "text": "Boléro — Georges Bizet",
+      "correct": false
+    },
+    {
+      "text": "Boléro — Ígor Stravinski",
+      "correct": false
+    }
+  ],
+  "explanation": "“Boléro” es una obra de Maurice Ravel.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "musica-clasica",
+    "compositores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

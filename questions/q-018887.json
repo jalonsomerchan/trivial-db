@@ -1,0 +1,42 @@
+{
+  "id": "q-018887",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué categoría retórica o sintáctica presenta “Vivo sin vivir en mí”?",
+  "answers": [
+    {
+      "text": "subordinada temporal",
+      "correct": false
+    },
+    {
+      "text": "paradoja",
+      "correct": true
+    },
+    {
+      "text": "aliteración",
+      "correct": false
+    },
+    {
+      "text": "elipsis",
+      "correct": false
+    }
+  ],
+  "explanation": "“Vivo sin vivir en mí” se clasifica como paradoja.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

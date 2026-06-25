@@ -1,0 +1,42 @@
+{
+  "id": "q-024938",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 87 AND 155 a nivel de bits?",
+  "answers": [
+    {
+      "text": "204",
+      "correct": false
+    },
+    {
+      "text": "18",
+      "correct": false
+    },
+    {
+      "text": "242",
+      "correct": false
+    },
+    {
+      "text": "19",
+      "correct": true
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 87 y 155, el resultado decimal es 19.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

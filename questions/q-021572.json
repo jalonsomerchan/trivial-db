@@ -1,0 +1,42 @@
+{
+  "id": "q-021572",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué década se estrenó “Blade Runner”?",
+  "answers": [
+    {
+      "text": "década de 2000",
+      "correct": false
+    },
+    {
+      "text": "década de 1990",
+      "correct": false
+    },
+    {
+      "text": "década de 1980",
+      "correct": true
+    },
+    {
+      "text": "década de 1970",
+      "correct": false
+    }
+  ],
+  "explanation": "“Blade Runner” se estrenó en 1982, dentro de la década de 1980.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "estrenos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

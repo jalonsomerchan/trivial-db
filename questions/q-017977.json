@@ -1,0 +1,42 @@
+{
+  "id": "q-017977",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Etiopía, Papúa Nueva Guinea, Níger, Sahara Occidental?",
+  "answers": [
+    {
+      "text": "Papúa Nueva Guinea",
+      "correct": false
+    },
+    {
+      "text": "Sahara Occidental",
+      "correct": true
+    },
+    {
+      "text": "Níger",
+      "correct": false
+    },
+    {
+      "text": "Etiopía",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Sahara Occidental es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024871",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 59 AND 243 a nivel de bits?",
+  "answers": [
+    {
+      "text": "200",
+      "correct": false
+    },
+    {
+      "text": "46",
+      "correct": false
+    },
+    {
+      "text": "50",
+      "correct": false
+    },
+    {
+      "text": "51",
+      "correct": true
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 59 y 243, el resultado decimal es 51.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "q-022393",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué ficha culinaria es correcta para pad thai?",
+  "answers": [
+    {
+      "text": "pad thai — Argentina — masa rellena",
+      "correct": false
+    },
+    {
+      "text": "pad thai — Italia — masa de trigo",
+      "correct": false
+    },
+    {
+      "text": "pad thai — Reino Unido — pescado",
+      "correct": false
+    },
+    {
+      "text": "pad thai — Tailandia — fideos de arroz",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para pad thai es Tailandia y fideos de arroz.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

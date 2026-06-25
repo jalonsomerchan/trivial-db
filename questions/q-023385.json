@@ -1,0 +1,42 @@
+{
+  "id": "q-023385",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Paz de Westfalia, inicio de la Revolución francesa, independencia de Grecia reconocida o unificación italiana?",
+  "answers": [
+    {
+      "text": "inicio de la Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "unificación italiana",
+      "correct": true
+    },
+    {
+      "text": "independencia de Grecia reconocida",
+      "correct": false
+    },
+    {
+      "text": "Paz de Westfalia",
+      "correct": false
+    }
+  ],
+  "explanation": "unificación italiana es la opción correcta porque su fecha asociada es 1861.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

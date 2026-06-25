@@ -1,0 +1,42 @@
+{
+  "id": "q-022589",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Bangkok?",
+  "answers": [
+    {
+      "text": "Japón",
+      "correct": false
+    },
+    {
+      "text": "Tailandia",
+      "correct": true
+    },
+    {
+      "text": "Irán",
+      "correct": false
+    },
+    {
+      "text": "Bangladés",
+      "correct": false
+    }
+  ],
+  "explanation": "Bangkok es la capital de Tailandia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

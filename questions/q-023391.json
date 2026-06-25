@@ -1,0 +1,42 @@
+{
+  "id": "q-023391",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: independencia de Grecia reconocida, unificación italiana, guerra hispano-estadounidense o crac de Wall Street?",
+  "answers": [
+    {
+      "text": "unificación italiana",
+      "correct": false
+    },
+    {
+      "text": "crac de Wall Street",
+      "correct": true
+    },
+    {
+      "text": "independencia de Grecia reconocida",
+      "correct": false
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": false
+    }
+  ],
+  "explanation": "crac de Wall Street es la opción correcta porque su fecha asociada es 1929.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

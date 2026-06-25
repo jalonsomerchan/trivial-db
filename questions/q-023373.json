@@ -1,0 +1,42 @@
+{
+  "id": "q-023373",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: edicto de Milán, batalla de Hastings, llegada de Colón a América o batalla de Lepanto?",
+  "answers": [
+    {
+      "text": "batalla de Lepanto",
+      "correct": true
+    },
+    {
+      "text": "batalla de Hastings",
+      "correct": false
+    },
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "llegada de Colón a América",
+      "correct": false
+    }
+  ],
+  "explanation": "batalla de Lepanto es la opción correcta porque su fecha asociada es 1571.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

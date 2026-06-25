@@ -1,0 +1,42 @@
+{
+  "id": "q-015130",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación obra-artista es correcta para “La escuela de Atenas”?",
+  "answers": [
+    {
+      "text": "La escuela de Atenas — Sandro Botticelli",
+      "correct": false
+    },
+    {
+      "text": "La escuela de Atenas — Edward Hopper",
+      "correct": false
+    },
+    {
+      "text": "La escuela de Atenas — Rafael Sanzio",
+      "correct": true
+    },
+    {
+      "text": "La escuela de Atenas — Eugène Delacroix",
+      "correct": false
+    }
+  ],
+  "explanation": "“La escuela de Atenas” es una obra de Rafael Sanzio.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

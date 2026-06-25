@@ -1,0 +1,42 @@
+{
+  "id": "q-018315",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Carta Magna inglesa” y “Reforma protestante de Lutero”?",
+  "answers": [
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Reforma protestante de Lutero antes que Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "Carta Magna inglesa antes que Reforma protestante de Lutero",
+      "correct": true
+    },
+    {
+      "text": "Carta Magna inglesa después que Reforma protestante de Lutero",
+      "correct": false
+    }
+  ],
+  "explanation": "Carta Magna inglesa ocurrió antes que Reforma protestante de Lutero.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

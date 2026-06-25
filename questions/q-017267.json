@@ -1,0 +1,42 @@
+{
+  "id": "q-017267",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-del-mundo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción culinaria corresponde a ceviche?",
+  "answers": [
+    {
+      "text": "arroz salteado con huevo",
+      "correct": false
+    },
+    {
+      "text": "pan de maíz dulce",
+      "correct": false
+    },
+    {
+      "text": "pescado marinado en cítricos",
+      "correct": true
+    },
+    {
+      "text": "pasta horneada con queso",
+      "correct": false
+    }
+  ],
+  "explanation": "ceviche corresponde a pescado marinado en cítricos.",
+  "sources": [
+    {
+      "title": "UNESCO Intangible Cultural Heritage",
+      "url": "https://ich.unesco.org/"
+    }
+  ],
+  "tags": [
+    "platos",
+    "cocina-internacional"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

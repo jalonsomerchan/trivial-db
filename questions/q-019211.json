@@ -1,0 +1,42 @@
+{
+  "id": "q-019211",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "algebra"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuáles son las raíces de la ecuación x² +0x -144 = 0?",
+  "answers": [
+    {
+      "text": "-12 y 12",
+      "correct": true
+    },
+    {
+      "text": "-12 y -12",
+      "correct": false
+    },
+    {
+      "text": "-11 y 11",
+      "correct": false
+    },
+    {
+      "text": "12 y -12",
+      "correct": false
+    }
+  ],
+  "explanation": "La ecuación se factoriza como (x - -12)(x - 12) = 0, por lo que las raíces son -12 y 12.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "ecuaciones",
+    "algebra"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

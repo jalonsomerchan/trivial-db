@@ -1,0 +1,42 @@
+{
+  "id": "q-023186",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1978?",
+  "answers": [
+    {
+      "text": "Constitución española",
+      "correct": true
+    },
+    {
+      "text": "firma del Tratado de Maastricht",
+      "correct": false
+    },
+    {
+      "text": "muerte de Franco",
+      "correct": false
+    },
+    {
+      "text": "entrada física del euro en circulación",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1978 se asocia con Constitución española.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

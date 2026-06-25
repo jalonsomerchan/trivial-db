@@ -1,0 +1,42 @@
+{
+  "id": "q-023909",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cómo se clasifica retóricamente “Corre como el viento”?",
+  "answers": [
+    {
+      "text": "hipérbole",
+      "correct": false
+    },
+    {
+      "text": "sinécdoque",
+      "correct": false
+    },
+    {
+      "text": "metonimia",
+      "correct": false
+    },
+    {
+      "text": "símil",
+      "correct": true
+    }
+  ],
+  "explanation": "“Corre como el viento” se clasifica como símil.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

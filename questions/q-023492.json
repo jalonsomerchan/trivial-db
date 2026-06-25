@@ -1,0 +1,42 @@
+{
+  "id": "q-023492",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: batalla de Lepanto, Declaración de Independencia de Estados Unidos, Primera Guerra del Opio o guerra hispano-estadounidense?",
+  "answers": [
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": true
+    },
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "Primera Guerra del Opio",
+      "correct": false
+    }
+  ],
+  "explanation": "guerra hispano-estadounidense es la opción correcta porque su fecha asociada es 1898.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

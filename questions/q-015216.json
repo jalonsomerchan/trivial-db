@@ -1,0 +1,42 @@
+{
+  "id": "q-015216",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué museo se asocia con la conservación de “La balsa de la Medusa”?",
+  "answers": [
+    {
+      "text": "Museo Nacional de Noruega",
+      "correct": false
+    },
+    {
+      "text": "Museo del Prado",
+      "correct": false
+    },
+    {
+      "text": "Museo del Louvre",
+      "correct": true
+    },
+    {
+      "text": "Art Institute of Chicago",
+      "correct": false
+    }
+  ],
+  "explanation": "“La balsa de la Medusa” se asocia con Museo del Louvre.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

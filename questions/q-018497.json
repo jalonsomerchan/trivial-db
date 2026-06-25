@@ -1,0 +1,42 @@
+{
+  "id": "q-018497",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Conquista de Alejandro de Persia” y “Batalla de Lepanto”?",
+  "answers": [
+    {
+      "text": "Conquista de Alejandro de Persia antes que Batalla de Lepanto",
+      "correct": true
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Conquista de Alejandro de Persia después que Batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Lepanto antes que Conquista de Alejandro de Persia",
+      "correct": false
+    }
+  ],
+  "explanation": "Conquista de Alejandro de Persia ocurrió antes que Batalla de Lepanto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

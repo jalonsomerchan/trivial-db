@@ -1,0 +1,43 @@
+{
+  "id": "q-020430",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "cronologia-cultural"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Don Quijote de la Mancha (literatura), Los viajes de Gulliver (literatura), La dama de las camelias (literatura) o La Regenta (literatura)?",
+  "answers": [
+    {
+      "text": "Los viajes de Gulliver (literatura)",
+      "correct": false
+    },
+    {
+      "text": "Don Quijote de la Mancha (literatura)",
+      "correct": false
+    },
+    {
+      "text": "La Regenta (literatura)",
+      "correct": true
+    },
+    {
+      "text": "La dama de las camelias (literatura)",
+      "correct": false
+    }
+  ],
+  "explanation": "La Regenta (literatura) es la opción correcta porque su fecha asociada es 1885.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

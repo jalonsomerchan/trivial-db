@@ -1,0 +1,42 @@
+{
+  "id": "q-016616",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué saga de videojuegos incluye el lugar “Skyrim”?",
+  "answers": [
+    {
+      "text": "The Elder Scrolls V: Skyrim",
+      "correct": true
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    },
+    {
+      "text": "Resident Evil",
+      "correct": false
+    },
+    {
+      "text": "BioShock Infinite",
+      "correct": false
+    }
+  ],
+  "explanation": "“Skyrim” aparece en The Elder Scrolls V: Skyrim.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

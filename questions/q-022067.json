@@ -1,0 +1,42 @@
+{
+  "id": "q-022067",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o preparación caracteriza a bibimbap?",
+  "answers": [
+    {
+      "text": "preparación fría en capas",
+      "correct": false
+    },
+    {
+      "text": "plancha o fritura",
+      "correct": false
+    },
+    {
+      "text": "mezcla con vegetales",
+      "correct": true
+    },
+    {
+      "text": "salteado",
+      "correct": false
+    }
+  ],
+  "explanation": "bibimbap se caracteriza por mezcla con vegetales.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

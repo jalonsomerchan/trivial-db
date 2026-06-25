@@ -1,0 +1,42 @@
+{
+  "id": "q-023025",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió independencia de Grecia reconocida?",
+  "answers": [
+    {
+      "text": "1831",
+      "correct": false
+    },
+    {
+      "text": "1829",
+      "correct": false
+    },
+    {
+      "text": "1830",
+      "correct": true
+    },
+    {
+      "text": "1840",
+      "correct": false
+    }
+  ],
+  "explanation": "Independencia de grecia reconocida ocurrió en 1830.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

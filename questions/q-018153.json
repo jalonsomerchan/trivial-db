@@ -1,0 +1,42 @@
+{
+  "id": "q-018153",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál fue el significado histórico de la Domingo Sangriento ruso?",
+  "answers": [
+    {
+      "text": "represión de manifestantes que aceleró la revolución rusa de 1905",
+      "correct": true
+    },
+    {
+      "text": "revolución de esclavos que condujo a la independencia de Haití",
+      "correct": false
+    },
+    {
+      "text": "proceso de negociación entre Israel y la OLP",
+      "correct": false
+    },
+    {
+      "text": "gobierno revolucionario breve tras la guerra franco-prusiana",
+      "correct": false
+    }
+  ],
+  "explanation": "La Domingo Sangriento ruso se relaciona con represión de manifestantes que aceleró la revolución rusa de 1905.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "domingo-sangriento-ruso"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

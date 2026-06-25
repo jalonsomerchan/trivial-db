@@ -1,0 +1,42 @@
+{
+  "id": "q-022036",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente borsch?",
+  "answers": [
+    {
+      "text": "Europa oriental",
+      "correct": true
+    },
+    {
+      "text": "Venezuela y Colombia",
+      "correct": false
+    },
+    {
+      "text": "Argentina",
+      "correct": false
+    },
+    {
+      "text": "Magreb",
+      "correct": false
+    }
+  ],
+  "explanation": "borsch se asocia tradicionalmente con Europa oriental.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "europa-oriental"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

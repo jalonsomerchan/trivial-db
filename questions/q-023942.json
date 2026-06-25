@@ -1,0 +1,42 @@
+{
+  "id": "q-023942",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura literaria corresponde a “En tierra, en humo, en polvo, en sombra, en nada”?",
+  "answers": [
+    {
+      "text": "hipérbaton",
+      "correct": false
+    },
+    {
+      "text": "anáfora",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": true
+    },
+    {
+      "text": "metonimia",
+      "correct": false
+    }
+  ],
+  "explanation": "“En tierra, en humo, en polvo, en sombra, en nada” se clasifica como enumeración.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

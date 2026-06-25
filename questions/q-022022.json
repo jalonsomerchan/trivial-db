@@ -1,0 +1,42 @@
+{
+  "id": "q-022022",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos"
+  ],
+  "difficulty": "easy",
+  "question": "¿Con qué país o región se asocia tradicionalmente tacos?",
+  "answers": [
+    {
+      "text": "Italia",
+      "correct": false
+    },
+    {
+      "text": "México",
+      "correct": true
+    },
+    {
+      "text": "Alsacia",
+      "correct": false
+    },
+    {
+      "text": "Sudeste asiático",
+      "correct": false
+    }
+  ],
+  "explanation": "tacos se asocia tradicionalmente con México.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "mexico"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

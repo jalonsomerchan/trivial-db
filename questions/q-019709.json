@@ -1,0 +1,42 @@
+{
+  "id": "q-019709",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántas direcciones IPv4 utilizables suele tener una subred /17 si se reservan red y broadcast?",
+  "answers": [
+    {
+      "text": "65536",
+      "correct": false
+    },
+    {
+      "text": "32768",
+      "correct": false
+    },
+    {
+      "text": "32764",
+      "correct": false
+    },
+    {
+      "text": "32766",
+      "correct": true
+    }
+  ],
+  "explanation": "Una red /17 tiene 32768 direcciones totales y normalmente 32766 utilizables al reservar red y broadcast.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "ipv4",
+    "cidr"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

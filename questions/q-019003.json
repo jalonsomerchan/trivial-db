@@ -1,0 +1,42 @@
+{
+  "id": "q-019003",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 12% de 80?",
+  "answers": [
+    {
+      "text": "17",
+      "correct": false
+    },
+    {
+      "text": "9.6",
+      "correct": true
+    },
+    {
+      "text": "13",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": false
+    }
+  ],
+  "explanation": "El 12% de 80 se calcula multiplicando 80 por 12/100, lo que da 9.6.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016605",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué videojuego o saga aparece el lugar ficticio “Azeroth”?",
+  "answers": [
+    {
+      "text": "World of Warcraft",
+      "correct": true
+    },
+    {
+      "text": "The Witcher",
+      "correct": false
+    },
+    {
+      "text": "Dragon Age",
+      "correct": false
+    },
+    {
+      "text": "Dark Souls",
+      "correct": false
+    }
+  ],
+  "explanation": "“Azeroth” es un lugar asociado a World of Warcraft.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "ficcion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

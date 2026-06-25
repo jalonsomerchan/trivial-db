@@ -1,0 +1,42 @@
+{
+  "id": "q-021001",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué volumen ocupará un gas de 8 L a 1 atm si la presión cambia a 2 atm a temperatura constante?",
+  "answers": [
+    {
+      "text": "6 L",
+      "correct": false
+    },
+    {
+      "text": "16 L",
+      "correct": false
+    },
+    {
+      "text": "10 L",
+      "correct": false
+    },
+    {
+      "text": "4 L",
+      "correct": true
+    }
+  ],
+  "explanation": "Por la ley de Boyle, P₁V₁ = P₂V₂, así que V₂ = 1×8/2 = 4 L.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "gases",
+    "ley-de-boyle"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

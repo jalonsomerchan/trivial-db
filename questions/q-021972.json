@@ -1,0 +1,42 @@
+{
+  "id": "q-021972",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Buscando a Nemo (película), Parásitos (película), Super Mario Bros. (videojuego) o Final Fantasy VII (videojuego)?",
+  "answers": [
+    {
+      "text": "Buscando a Nemo (película)",
+      "correct": false
+    },
+    {
+      "text": "Super Mario Bros. (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Final Fantasy VII (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Parásitos (película)",
+      "correct": true
+    }
+  ],
+  "explanation": "Parásitos (película) es la opción correcta porque su fecha asociada es 2019.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

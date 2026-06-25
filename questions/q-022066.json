@@ -1,0 +1,42 @@
+{
+  "id": "q-022066",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué ingrediente se relaciona especialmente con kimchi?",
+  "answers": [
+    {
+      "text": "col china",
+      "correct": true
+    },
+    {
+      "text": "carne ensartada",
+      "correct": false
+    },
+    {
+      "text": "fideos",
+      "correct": false
+    },
+    {
+      "text": "carne y chile",
+      "correct": false
+    }
+  ],
+  "explanation": "kimchi se relaciona especialmente con col china.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

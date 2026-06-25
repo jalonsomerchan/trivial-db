@@ -1,0 +1,42 @@
+{
+  "id": "q-017867",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Islas Cocos o Islas Keeling, Irak, Congo (Rep. Dem.), Costa Rica?",
+  "answers": [
+    {
+      "text": "Islas Cocos o Islas Keeling",
+      "correct": true
+    },
+    {
+      "text": "Costa Rica",
+      "correct": false
+    },
+    {
+      "text": "Irak",
+      "correct": false
+    },
+    {
+      "text": "Congo (Rep. Dem.)",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Islas Cocos o Islas Keeling es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

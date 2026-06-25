@@ -1,0 +1,42 @@
+{
+  "id": "q-020122",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué elemento estético se asocia al impresionismo?",
+  "answers": [
+    {
+      "text": "actitud antiarte y provocación",
+      "correct": false
+    },
+    {
+      "text": "uso de imágenes de la cultura de masas",
+      "correct": false
+    },
+    {
+      "text": "captura de la luz mediante pincelada suelta",
+      "correct": true
+    },
+    {
+      "text": "distorsión expresiva de la realidad",
+      "correct": false
+    }
+  ],
+  "explanation": "El impresionismo se asocia con captura de la luz mediante pincelada suelta.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

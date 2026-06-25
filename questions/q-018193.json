@@ -1,0 +1,42 @@
+{
+  "id": "q-018193",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "historia-contemporanea"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho se asocia con la Congreso de Viena?",
+  "answers": [
+    {
+      "text": "reordenación europea tras las guerras napoleónicas",
+      "correct": true
+    },
+    {
+      "text": "caída de la monarquía de Julio y proclamación de la Segunda República",
+      "correct": false
+    },
+    {
+      "text": "encuentro clave del movimiento afroasiático y no alineado",
+      "correct": false
+    },
+    {
+      "text": "revolución de esclavos que condujo a la independencia de Haití",
+      "correct": false
+    }
+  ],
+  "explanation": "La Congreso de Viena se relaciona con reordenación europea tras las guerras napoleónicas.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia-contemporanea",
+    "congreso-de-viena"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017115",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base corresponde a romesco?",
+  "answers": [
+    {
+      "text": "fondo oscuro y roux",
+      "correct": false
+    },
+    {
+      "text": "albahaca, piñones, ajo, queso y aceite",
+      "correct": false
+    },
+    {
+      "text": "ñora, tomate, frutos secos y aceite",
+      "correct": true
+    },
+    {
+      "text": "roux y leche",
+      "correct": false
+    }
+  ],
+  "explanation": "romesco se caracteriza por ñora, tomate, frutos secos y aceite.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

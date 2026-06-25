@@ -1,0 +1,42 @@
+{
+  "id": "q-022604",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital La Habana?",
+  "answers": [
+    {
+      "text": "Panamá",
+      "correct": false
+    },
+    {
+      "text": "República Dominicana",
+      "correct": false
+    },
+    {
+      "text": "Cuba",
+      "correct": true
+    },
+    {
+      "text": "Venezuela",
+      "correct": false
+    }
+  ],
+  "explanation": "La Habana es la capital de Cuba.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

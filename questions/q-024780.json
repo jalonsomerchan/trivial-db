@@ -1,0 +1,42 @@
+{
+  "id": "q-024780",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 31 AND 111 a nivel de bits?",
+  "answers": [
+    {
+      "text": "14",
+      "correct": false
+    },
+    {
+      "text": "142",
+      "correct": false
+    },
+    {
+      "text": "112",
+      "correct": false
+    },
+    {
+      "text": "15",
+      "correct": true
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 31 y 111, el resultado decimal es 15.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015696",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 120 g de oxígeno molecular si su masa molar es 32 g/mol?",
+  "answers": [
+    {
+      "text": "7.5",
+      "correct": false
+    },
+    {
+      "text": "1.875",
+      "correct": false
+    },
+    {
+      "text": "4.75",
+      "correct": false
+    },
+    {
+      "text": "3.75",
+      "correct": true
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 120/32, aproximadamente 3.75 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

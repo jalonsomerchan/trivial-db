@@ -1,0 +1,42 @@
+{
+  "id": "q-020030",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién creó “Las meninas”?",
+  "answers": [
+    {
+      "text": "Claude Monet",
+      "correct": false
+    },
+    {
+      "text": "Homero",
+      "correct": false
+    },
+    {
+      "text": "Rafael",
+      "correct": false
+    },
+    {
+      "text": "Diego Velázquez",
+      "correct": true
+    }
+  ],
+  "explanation": "“Las meninas” fue creada por Diego Velázquez.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

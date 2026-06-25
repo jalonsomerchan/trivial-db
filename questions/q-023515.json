@@ -1,0 +1,42 @@
+{
+  "id": "q-023515",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "acentuacion"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tipo de palabra es “azúcar” según la posición de su sílaba tónica?",
+  "answers": [
+    {
+      "text": "esdrújula",
+      "correct": false
+    },
+    {
+      "text": "llana",
+      "correct": true
+    },
+    {
+      "text": "aguda",
+      "correct": false
+    },
+    {
+      "text": "sobresdrújula",
+      "correct": false
+    }
+  ],
+  "explanation": "“azúcar” es una palabra llana según su acentuación.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "acentuacion",
+    "llana"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-020588",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué corriente circula por una resistencia de 8 Ω conectada a 4 V?",
+  "answers": [
+    {
+      "text": "0.5 A",
+      "correct": true
+    },
+    {
+      "text": "12 A",
+      "correct": false
+    },
+    {
+      "text": "2 A",
+      "correct": false
+    },
+    {
+      "text": "32 A",
+      "correct": false
+    }
+  ],
+  "explanation": "Por la ley de Ohm, I = V/R = 4/8 = 0.5 A.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "ley-de-ohm",
+    "electricidad"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

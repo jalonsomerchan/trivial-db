@@ -1,0 +1,42 @@
+{
+  "id": "q-022120",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "ingredientes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué ingrediente destaca en pho?",
+  "answers": [
+    {
+      "text": "patata",
+      "correct": false
+    },
+    {
+      "text": "fideos de arroz",
+      "correct": true
+    },
+    {
+      "text": "carne y chile",
+      "correct": false
+    },
+    {
+      "text": "carne deshebrada",
+      "correct": false
+    }
+  ],
+  "explanation": "pho se relaciona especialmente con fideos de arroz.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "ingredientes",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

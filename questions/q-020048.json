@@ -1,0 +1,42 @@
+{
+  "id": "q-020048",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué autor se asocia con “La Odisea”?",
+  "answers": [
+    {
+      "text": "Vasili Kandinski",
+      "correct": false
+    },
+    {
+      "text": "Homero",
+      "correct": true
+    },
+    {
+      "text": "León Tolstói",
+      "correct": false
+    },
+    {
+      "text": "Sandro Botticelli",
+      "correct": false
+    }
+  ],
+  "explanation": "“La Odisea” fue creada por Homero.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

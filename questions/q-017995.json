@@ -1,0 +1,42 @@
+{
+  "id": "q-017995",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Nicaragua, Angola, Isla de Navidad, San Cristóbal y Nieves?",
+  "answers": [
+    {
+      "text": "Angola",
+      "correct": false
+    },
+    {
+      "text": "San Cristóbal y Nieves",
+      "correct": false
+    },
+    {
+      "text": "Isla de Navidad",
+      "correct": true
+    },
+    {
+      "text": "Nicaragua",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Isla de Navidad es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

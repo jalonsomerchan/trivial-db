@@ -1,0 +1,42 @@
+{
+  "id": "q-023748",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "retorica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué figura retórica domina en “Volverán las oscuras golondrinas”?",
+  "answers": [
+    {
+      "text": "elipsis",
+      "correct": false
+    },
+    {
+      "text": "enumeración",
+      "correct": false
+    },
+    {
+      "text": "paralelismo",
+      "correct": false
+    },
+    {
+      "text": "hipérbaton",
+      "correct": true
+    }
+  ],
+  "explanation": "“Volverán las oscuras golondrinas” se clasifica como hipérbaton.",
+  "sources": [
+    {
+      "title": "Real Academia Española",
+      "url": "https://www.rae.es/"
+    }
+  ],
+  "tags": [
+    "retorica",
+    "figuras-literarias"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

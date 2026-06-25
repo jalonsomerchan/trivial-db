@@ -1,0 +1,42 @@
+{
+  "id": "q-017728",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Níger?",
+  "answers": [
+    {
+      "text": "Mozambique",
+      "correct": false
+    },
+    {
+      "text": "República Centroafricana",
+      "correct": false
+    },
+    {
+      "text": "Chad",
+      "correct": true
+    },
+    {
+      "text": "Túnez",
+      "correct": false
+    }
+  ],
+  "explanation": "Chad comparte frontera terrestre con Níger.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

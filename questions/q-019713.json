@@ -1,0 +1,42 @@
+{
+  "id": "q-019713",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "redes"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántas direcciones IPv4 utilizables suele tener una subred /21 si se reservan red y broadcast?",
+  "answers": [
+    {
+      "text": "2048",
+      "correct": false
+    },
+    {
+      "text": "2046",
+      "correct": true
+    },
+    {
+      "text": "2044",
+      "correct": false
+    },
+    {
+      "text": "4096",
+      "correct": false
+    }
+  ],
+  "explanation": "Una red /21 tiene 2048 direcciones totales y normalmente 2046 utilizables al reservar red y broadcast.",
+  "sources": [
+    {
+      "title": "IETF RFC Editor",
+      "url": "https://www.rfc-editor.org/"
+    }
+  ],
+  "tags": [
+    "ipv4",
+    "cidr"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

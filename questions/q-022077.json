@@ -1,0 +1,42 @@
+{
+  "id": "q-022077",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "tecnicas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué técnica o preparación caracteriza a asado?",
+  "answers": [
+    {
+      "text": "sopa aromática",
+      "correct": false
+    },
+    {
+      "text": "parrilla",
+      "correct": true
+    },
+    {
+      "text": "cuajado en sartén",
+      "correct": false
+    },
+    {
+      "text": "mezcla con vegetales",
+      "correct": false
+    }
+  ],
+  "explanation": "asado se caracteriza por parrilla.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "tecnicas",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-015744",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 92 g de etanol si su masa molar es 46 g/mol?",
+  "answers": [
+    {
+      "text": "1",
+      "correct": false
+    },
+    {
+      "text": "2",
+      "correct": true
+    },
+    {
+      "text": "3",
+      "correct": false
+    },
+    {
+      "text": "4",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 92/46, aproximadamente 2 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

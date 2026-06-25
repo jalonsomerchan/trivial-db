@@ -1,0 +1,43 @@
+{
+  "id": "q-020367",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "cronologia-cultural"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: La Divina Comedia (literatura), El burlador de Sevilla (literatura), Rojo y negro (literatura) o Drácula (literatura)?",
+  "answers": [
+    {
+      "text": "Rojo y negro (literatura)",
+      "correct": false
+    },
+    {
+      "text": "La Divina Comedia (literatura)",
+      "correct": true
+    },
+    {
+      "text": "El burlador de Sevilla (literatura)",
+      "correct": false
+    },
+    {
+      "text": "Drácula (literatura)",
+      "correct": false
+    }
+  ],
+  "explanation": "La Divina Comedia (literatura) es la opción correcta porque su fecha asociada es 1321.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "literatura",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

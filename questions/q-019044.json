@@ -1,0 +1,42 @@
+{
+  "id": "q-019044",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "porcentajes"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuánto es el 10% de 140?",
+  "answers": [
+    {
+      "text": "28",
+      "correct": false
+    },
+    {
+      "text": "14",
+      "correct": true
+    },
+    {
+      "text": "21",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": false
+    }
+  ],
+  "explanation": "El 10% de 140 se calcula multiplicando 140 por 10/100, lo que da 14.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "porcentajes",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-021226",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué dato competitivo identifica a voleibol?",
+  "answers": [
+    {
+      "text": "puntuación tradicional de 15, 30, 40 y juego",
+      "correct": false
+    },
+    {
+      "text": "seis jugadores por equipo en pista",
+      "correct": true
+    },
+    {
+      "text": "siete jugadores por equipo en el agua",
+      "correct": false
+    },
+    {
+      "text": "nueve entradas en un partido estándar",
+      "correct": false
+    }
+  ],
+  "explanation": "La descripción correcta para voleibol es: seis jugadores por equipo en pista.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "deporte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

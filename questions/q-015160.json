@@ -1,0 +1,42 @@
+{
+  "id": "q-015160",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación obra-museo es correcta para “La libertad guiando al pueblo”?",
+  "answers": [
+    {
+      "text": "La libertad guiando al pueblo — Harry Ransom Center",
+      "correct": false
+    },
+    {
+      "text": "La libertad guiando al pueblo — Mauritshuis",
+      "correct": false
+    },
+    {
+      "text": "La libertad guiando al pueblo — Museo del Louvre",
+      "correct": true
+    },
+    {
+      "text": "La libertad guiando al pueblo — Museo Guggenheim de Nueva York",
+      "correct": false
+    }
+  ],
+  "explanation": "“La libertad guiando al pueblo” se conserva habitualmente en Museo del Louvre.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

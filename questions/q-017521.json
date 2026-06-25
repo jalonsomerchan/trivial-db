@@ -1,0 +1,42 @@
+{
+  "id": "q-017521",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el prefijo telefónico internacional de Togo?",
+  "answers": [
+    {
+      "text": "+683",
+      "correct": false
+    },
+    {
+      "text": "+254",
+      "correct": false
+    },
+    {
+      "text": "+253",
+      "correct": false
+    },
+    {
+      "text": "+228",
+      "correct": true
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Togo es +228.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

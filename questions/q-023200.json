@@ -1,0 +1,42 @@
+{
+  "id": "q-023200",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué suceso histórico corresponde a 1066?",
+  "answers": [
+    {
+      "text": "Primera Guerra del Opio",
+      "correct": false
+    },
+    {
+      "text": "unificación italiana",
+      "correct": false
+    },
+    {
+      "text": "erupción del Vesubio que sepultó Pompeya",
+      "correct": false
+    },
+    {
+      "text": "batalla de Hastings",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1066 se asocia con batalla de Hastings.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

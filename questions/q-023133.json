@@ -1,0 +1,42 @@
+{
+  "id": "q-023133",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué hecho histórico se asocia con el año 1962?",
+  "answers": [
+    {
+      "text": "crisis de los misiles de Cuba",
+      "correct": true
+    },
+    {
+      "text": "inicio de la Segunda Guerra Mundial",
+      "correct": false
+    },
+    {
+      "text": "Primera Guerra del Opio",
+      "correct": false
+    },
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1962 se asocia con crisis de los misiles de Cuba.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

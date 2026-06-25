@@ -1,0 +1,42 @@
+{
+  "id": "q-021890",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Origen (película), Space Invaders (videojuego), Super Mario Bros. (videojuego) o Doom (videojuego)?",
+  "answers": [
+    {
+      "text": "Super Mario Bros. (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Origen (película)",
+      "correct": true
+    },
+    {
+      "text": "Space Invaders (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Doom (videojuego)",
+      "correct": false
+    }
+  ],
+  "explanation": "Origen (película) es la opción correcta porque su fecha asociada es 2010.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

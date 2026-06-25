@@ -1,0 +1,42 @@
+{
+  "id": "q-015203",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué museo se asocia con la conservación de “La joven de la perla”?",
+  "answers": [
+    {
+      "text": "Mauritshuis",
+      "correct": true
+    },
+    {
+      "text": "Rijksmuseum",
+      "correct": false
+    },
+    {
+      "text": "Kunsthalle de Hamburgo",
+      "correct": false
+    },
+    {
+      "text": "Museo del Prado",
+      "correct": false
+    }
+  ],
+  "explanation": "“La joven de la perla” se asocia con Mauritshuis.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

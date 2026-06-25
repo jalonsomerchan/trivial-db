@@ -1,0 +1,42 @@
+{
+  "id": "q-015430",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué definición breve se ajusta al rococó?",
+  "answers": [
+    {
+      "text": "color intenso y libertad expresiva",
+      "correct": false
+    },
+    {
+      "text": "geometría y función social del arte",
+      "correct": false
+    },
+    {
+      "text": "ornamentación ligera y gusto cortesano",
+      "correct": true
+    },
+    {
+      "text": "reducción formal y austeridad de medios",
+      "correct": false
+    }
+  ],
+  "explanation": "El rococó se reconoce por ornamentación ligera y gusto cortesano.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "arte",
+    "movimientos-artisticos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

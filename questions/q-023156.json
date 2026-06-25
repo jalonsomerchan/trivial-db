@@ -1,0 +1,42 @@
+{
+  "id": "q-023156",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1571?",
+  "answers": [
+    {
+      "text": "fin del apartheid con elecciones multirraciales en Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "Constitución española",
+      "correct": false
+    },
+    {
+      "text": "publicación del Manifiesto Comunista",
+      "correct": false
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1571 se asocia con batalla de Lepanto.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

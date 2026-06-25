@@ -1,0 +1,42 @@
+{
+  "id": "q-023248",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: inicio de la Revolución francesa, independencia de Grecia reconocida, unificación italiana o guerra hispano-estadounidense?",
+  "answers": [
+    {
+      "text": "independencia de Grecia reconocida",
+      "correct": false
+    },
+    {
+      "text": "guerra hispano-estadounidense",
+      "correct": false
+    },
+    {
+      "text": "unificación italiana",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Revolución francesa",
+      "correct": true
+    }
+  ],
+  "explanation": "inicio de la Revolución francesa es la opción correcta porque su fecha asociada es 1789.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

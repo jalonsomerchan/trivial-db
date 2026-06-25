@@ -1,0 +1,42 @@
+{
+  "id": "q-022776",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación entre país, capital y moneda es correcta para Turquía?",
+  "answers": [
+    {
+      "text": "Turquía — Seúl — won surcoreano",
+      "correct": false
+    },
+    {
+      "text": "Turquía — Ankara — lira turca",
+      "correct": true
+    },
+    {
+      "text": "Turquía — Yakarta — rupia indonesia",
+      "correct": false
+    },
+    {
+      "text": "Turquía — Teherán — rial iraní",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta es Turquía — Ankara — lira turca.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

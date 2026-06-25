@@ -1,0 +1,42 @@
+{
+  "id": "q-022554",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Berlín?",
+  "answers": [
+    {
+      "text": "Alemania",
+      "correct": true
+    },
+    {
+      "text": "Polonia",
+      "correct": false
+    },
+    {
+      "text": "Bulgaria",
+      "correct": false
+    },
+    {
+      "text": "Grecia",
+      "correct": false
+    }
+  ],
+  "explanation": "Berlín es la capital de Alemania.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "europa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

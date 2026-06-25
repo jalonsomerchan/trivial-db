@@ -1,0 +1,43 @@
+{
+  "id": "q-022501",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción triple encaja con feijoada?",
+  "answers": [
+    {
+      "text": "feijoada — Indonesia — carne",
+      "correct": false
+    },
+    {
+      "text": "feijoada — Vietnam — fideos de arroz",
+      "correct": false
+    },
+    {
+      "text": "feijoada — Brasil — frijoles negros",
+      "correct": true
+    },
+    {
+      "text": "feijoada — Italia — masa de trigo",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para feijoada es Brasil y frijoles negros.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

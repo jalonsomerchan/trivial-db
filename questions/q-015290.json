@@ -1,0 +1,42 @@
+{
+  "id": "q-015290",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "movimientos-artisticos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué movimiento artístico se define mejor por “descomposición de la forma en planos”?",
+  "answers": [
+    {
+      "text": "neoclasicismo",
+      "correct": false
+    },
+    {
+      "text": "futurismo",
+      "correct": false
+    },
+    {
+      "text": "cubismo",
+      "correct": true
+    },
+    {
+      "text": "barroco",
+      "correct": false
+    }
+  ],
+  "explanation": "El movimiento asociado a “descomposición de la forma en planos” es el cubismo.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "movimientos-artisticos",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

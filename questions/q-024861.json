@@ -1,0 +1,42 @@
+{
+  "id": "q-024861",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 59 AND 111 a nivel de bits?",
+  "answers": [
+    {
+      "text": "42",
+      "correct": false
+    },
+    {
+      "text": "170",
+      "correct": false
+    },
+    {
+      "text": "43",
+      "correct": true
+    },
+    {
+      "text": "84",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit AND entre 59 y 111, el resultado decimal es 43.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

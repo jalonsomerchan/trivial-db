@@ -1,0 +1,42 @@
+{
+  "id": "q-024038",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 52 al cuadrado?",
+  "answers": [
+    {
+      "text": "2756",
+      "correct": false
+    },
+    {
+      "text": "2704",
+      "correct": true
+    },
+    {
+      "text": "104",
+      "correct": false
+    },
+    {
+      "text": "2652",
+      "correct": false
+    }
+  ],
+  "explanation": "Elevar 52 al cuadrado equivale a multiplicar 52 por sí mismo: 2704.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

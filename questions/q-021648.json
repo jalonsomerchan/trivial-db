@@ -1,0 +1,42 @@
+{
+  "id": "q-021648",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "medium",
+  "question": "¿A qué década pertenece el estreno de “Origen”?",
+  "answers": [
+    {
+      "text": "década de 2020",
+      "correct": false
+    },
+    {
+      "text": "década de 2010",
+      "correct": true
+    },
+    {
+      "text": "década de 2030",
+      "correct": false
+    },
+    {
+      "text": "década de 2000",
+      "correct": false
+    }
+  ],
+  "explanation": "“Origen” se estrenó en 2010, dentro de la década de 2010.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "estrenos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

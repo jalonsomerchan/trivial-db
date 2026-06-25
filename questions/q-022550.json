@@ -1,0 +1,42 @@
+{
+  "id": "q-022550",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Papúa Nueva Guinea?",
+  "answers": [
+    {
+      "text": "Suva",
+      "correct": false
+    },
+    {
+      "text": "Puerto Moresby",
+      "correct": true
+    },
+    {
+      "text": "Apia",
+      "correct": false
+    },
+    {
+      "text": "Wellington",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Papúa Nueva Guinea es Puerto Moresby.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "oceania"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

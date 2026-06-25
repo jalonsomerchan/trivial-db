@@ -1,0 +1,43 @@
+{
+  "id": "q-022334",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación de origen e ingrediente corresponde a bouillabaisse?",
+  "answers": [
+    {
+      "text": "bouillabaisse — Tailandia — fideos de arroz",
+      "correct": false
+    },
+    {
+      "text": "bouillabaisse — Brasil — frijoles negros",
+      "correct": false
+    },
+    {
+      "text": "bouillabaisse — Francia — pescado",
+      "correct": true
+    },
+    {
+      "text": "bouillabaisse — Corea — col china",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para bouillabaisse es Francia y pescado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

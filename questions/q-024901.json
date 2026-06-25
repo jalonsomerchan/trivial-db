@@ -1,0 +1,42 @@
+{
+  "id": "q-024901",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 73 OR 188 a nivel de bits?",
+  "answers": [
+    {
+      "text": "252",
+      "correct": false
+    },
+    {
+      "text": "5",
+      "correct": false
+    },
+    {
+      "text": "253",
+      "correct": true
+    },
+    {
+      "text": "245",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 73 y 188, el resultado decimal es 253.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

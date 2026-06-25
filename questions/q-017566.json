@@ -1,0 +1,42 @@
+{
+  "id": "q-017566",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el prefijo telefónico internacional de Zambia?",
+  "answers": [
+    {
+      "text": "+260",
+      "correct": true
+    },
+    {
+      "text": "+500",
+      "correct": false
+    },
+    {
+      "text": "+968",
+      "correct": false
+    },
+    {
+      "text": "+1684",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Zambia es +260.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

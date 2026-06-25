@@ -1,0 +1,42 @@
+{
+  "id": "q-018445",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Revolución francesa” y “Batalla de Waterloo”?",
+  "answers": [
+    {
+      "text": "Revolución francesa antes que Batalla de Waterloo",
+      "correct": true
+    },
+    {
+      "text": "Revolución francesa después que Batalla de Waterloo",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Waterloo antes que Revolución francesa",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    }
+  ],
+  "explanation": "Revolución francesa ocurrió antes que Batalla de Waterloo.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

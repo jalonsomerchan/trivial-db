@@ -1,0 +1,42 @@
+{
+  "id": "q-022679",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Costa Rica?",
+  "answers": [
+    {
+      "text": "dólar canadiense",
+      "correct": false
+    },
+    {
+      "text": "bolívar",
+      "correct": false
+    },
+    {
+      "text": "peso cubano",
+      "correct": false
+    },
+    {
+      "text": "colón costarricense",
+      "correct": true
+    }
+  ],
+  "explanation": "La moneda indicada para Costa Rica es colón costarricense.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

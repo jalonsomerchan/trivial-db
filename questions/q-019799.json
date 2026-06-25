@@ -1,0 +1,42 @@
+{
+  "id": "q-019799",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "programacion"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar AND bit a bit entre 44 y 96?",
+  "answers": [
+    {
+      "text": "140",
+      "correct": false
+    },
+    {
+      "text": "32",
+      "correct": true
+    },
+    {
+      "text": "108",
+      "correct": false
+    },
+    {
+      "text": "76",
+      "correct": false
+    }
+  ],
+  "explanation": "El operador AND bit a bit conserva solo los bits que están activos en ambos números; 44 AND 96 = 32.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "operadores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

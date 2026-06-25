@@ -1,0 +1,42 @@
+{
+  "id": "q-021797",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: Pac-Man (videojuego), Street Fighter II (videojuego), The Sims (videojuego) o The Last of Us (videojuego)?",
+  "answers": [
+    {
+      "text": "The Last of Us (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "The Sims (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Street Fighter II (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Pac-Man (videojuego)",
+      "correct": true
+    }
+  ],
+  "explanation": "Pac-Man (videojuego) es la opción correcta porque su fecha asociada es 1980.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

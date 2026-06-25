@@ -1,0 +1,42 @@
+{
+  "id": "q-017159",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estas bases pertenece a pesto genovés?",
+  "answers": [
+    {
+      "text": "caldo japonés de kombu y katsuobushi",
+      "correct": false
+    },
+    {
+      "text": "albahaca, piñones, ajo, queso y aceite",
+      "correct": true
+    },
+    {
+      "text": "roux y leche",
+      "correct": false
+    },
+    {
+      "text": "fondo oscuro y roux",
+      "correct": false
+    }
+  ],
+  "explanation": "pesto genovés se caracteriza por albahaca, piñones, ajo, queso y aceite.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

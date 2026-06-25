@@ -1,0 +1,42 @@
+{
+  "id": "q-024870",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 59 OR 232 a nivel de bits?",
+  "answers": [
+    {
+      "text": "35",
+      "correct": false
+    },
+    {
+      "text": "251",
+      "correct": true
+    },
+    {
+      "text": "211",
+      "correct": false
+    },
+    {
+      "text": "250",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 59 y 232, el resultado decimal es 251.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

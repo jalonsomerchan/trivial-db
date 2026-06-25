@@ -1,0 +1,42 @@
+{
+  "id": "q-016162",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "olimpismo"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación sede-país corresponde a los Juegos Olímpicos de verano de 2020?",
+  "answers": [
+    {
+      "text": "Tokio — Japón",
+      "correct": true
+    },
+    {
+      "text": "Tokio — México",
+      "correct": false
+    },
+    {
+      "text": "Tokio — Países Bajos",
+      "correct": false
+    },
+    {
+      "text": "Tokio — España",
+      "correct": false
+    }
+  ],
+  "explanation": "La sede de los Juegos Olímpicos de verano de 2020 fue Tokio, en Japón.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "sedes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

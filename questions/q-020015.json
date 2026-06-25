@@ -1,0 +1,42 @@
+{
+  "id": "q-020015",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "literatura"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién creó “Frankenstein”?",
+  "answers": [
+    {
+      "text": "Tirso de Molina",
+      "correct": false
+    },
+    {
+      "text": "Mary Shelley",
+      "correct": true
+    },
+    {
+      "text": "Julio Cortázar",
+      "correct": false
+    },
+    {
+      "text": "Giovanni Boccaccio",
+      "correct": false
+    }
+  ],
+  "explanation": "“Frankenstein” fue creada por Mary Shelley.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "literatura",
+    "autoria"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-022553",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Roma?",
+  "answers": [
+    {
+      "text": "Croacia",
+      "correct": false
+    },
+    {
+      "text": "Bélgica",
+      "correct": false
+    },
+    {
+      "text": "Islandia",
+      "correct": false
+    },
+    {
+      "text": "Italia",
+      "correct": true
+    }
+  ],
+  "explanation": "Roma es la capital de Italia.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "europa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

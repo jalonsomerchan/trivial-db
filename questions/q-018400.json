@@ -1,0 +1,42 @@
+{
+  "id": "q-018400",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Unificación alemana” y “Inicio de la Segunda Guerra Mundial”?",
+  "answers": [
+    {
+      "text": "Inicio de la Segunda Guerra Mundial antes que Unificación alemana",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Unificación alemana antes que Inicio de la Segunda Guerra Mundial",
+      "correct": true
+    },
+    {
+      "text": "Unificación alemana después que Inicio de la Segunda Guerra Mundial",
+      "correct": false
+    }
+  ],
+  "explanation": "Unificación alemana ocurrió antes que Inicio de la Segunda Guerra Mundial.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

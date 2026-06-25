@@ -1,0 +1,42 @@
+{
+  "id": "q-023410",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: llegada del Apolo 11 a la Luna, caída del Muro de Berlín, fin del apartheid con elecciones multirraciales en Sudáfrica o ampliación de la Unión Europea hacia el este?",
+  "answers": [
+    {
+      "text": "ampliación de la Unión Europea hacia el este",
+      "correct": true
+    },
+    {
+      "text": "fin del apartheid con elecciones multirraciales en Sudáfrica",
+      "correct": false
+    },
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    }
+  ],
+  "explanation": "ampliación de la Unión Europea hacia el este es la opción correcta porque su fecha asociada es 2004.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

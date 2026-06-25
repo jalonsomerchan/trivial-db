@@ -1,0 +1,42 @@
+{
+  "id": "q-015223",
+  "status": "published",
+  "language": "es",
+  "category": "arte-y-literatura",
+  "subcategories": [
+    "pintura"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué museo se asocia con la conservación de “Guernica”?",
+  "answers": [
+    {
+      "text": "MoMA",
+      "correct": false
+    },
+    {
+      "text": "Museo del Prado",
+      "correct": false
+    },
+    {
+      "text": "Museo Reina Sofía",
+      "correct": true
+    },
+    {
+      "text": "Galería Uffizi",
+      "correct": false
+    }
+  ],
+  "explanation": "“Guernica” se asocia con Museo Reina Sofía.",
+  "sources": [
+    {
+      "title": "The Metropolitan Museum of Art - Heilbrunn Timeline of Art History",
+      "url": "https://www.metmuseum.org/toah/"
+    }
+  ],
+  "tags": [
+    "pintura",
+    "arte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

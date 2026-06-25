@@ -1,0 +1,42 @@
+{
+  "id": "q-023034",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió inicio de la Guerra de Corea?",
+  "answers": [
+    {
+      "text": "1951",
+      "correct": false
+    },
+    {
+      "text": "1949",
+      "correct": false
+    },
+    {
+      "text": "1960",
+      "correct": false
+    },
+    {
+      "text": "1950",
+      "correct": true
+    }
+  ],
+  "explanation": "Inicio de la guerra de corea ocurrió en 1950.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

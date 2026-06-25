@@ -1,0 +1,42 @@
+{
+  "id": "q-017600",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué prefijo internacional se marca para llamar a Italia?",
+  "answers": [
+    {
+      "text": "+90",
+      "correct": false
+    },
+    {
+      "text": "+39",
+      "correct": true
+    },
+    {
+      "text": "+1787",
+      "correct": false
+    },
+    {
+      "text": "+240",
+      "correct": false
+    }
+  ],
+  "explanation": "El indicativo telefónico internacional de Italia es +39.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016681",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿En qué saga aparece el enclave “Silent Hill”?",
+  "answers": [
+    {
+      "text": "Half-Life 2",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda",
+      "correct": false
+    },
+    {
+      "text": "The Witcher 3",
+      "correct": false
+    },
+    {
+      "text": "Silent Hill",
+      "correct": true
+    }
+  ],
+  "explanation": "“Silent Hill” aparece en Silent Hill.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

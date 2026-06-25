@@ -1,0 +1,42 @@
+{
+  "id": "q-018025",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué consecuencia se asocia al Tratado de San Stefano?",
+  "answers": [
+    {
+      "text": "reordenación balcánica tras la guerra ruso-turca",
+      "correct": true
+    },
+    {
+      "text": "fundación de la ONU",
+      "correct": false
+    },
+    {
+      "text": "reparto de América entre Castilla y Portugal",
+      "correct": false
+    },
+    {
+      "text": "fin de la guerra de Vietnam",
+      "correct": false
+    }
+  ],
+  "explanation": "El Tratado de San Stefano, firmado en 1878, se vincula con reordenación balcánica tras la guerra ruso-turca.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "tratados",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

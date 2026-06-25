@@ -1,0 +1,42 @@
+{
+  "id": "q-019733",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "web"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué notación hexadecimal representa RGB(99, 145, 33) en CSS?",
+  "answers": [
+    {
+      "text": "#639121",
+      "correct": true
+    },
+    {
+      "text": "#219163",
+      "correct": false
+    },
+    {
+      "text": "#632191",
+      "correct": false
+    },
+    {
+      "text": "#916321",
+      "correct": false
+    }
+  ],
+  "explanation": "Cada canal RGB se expresa con dos dígitos hexadecimales: 63, 91 y 21.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "css",
+    "colores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

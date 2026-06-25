@@ -1,0 +1,42 @@
+{
+  "id": "q-017863",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Samoa Americana, Congo, Islandia, Arabia Saudí?",
+  "answers": [
+    {
+      "text": "Arabia Saudí",
+      "correct": false
+    },
+    {
+      "text": "Samoa Americana",
+      "correct": true
+    },
+    {
+      "text": "Congo",
+      "correct": false
+    },
+    {
+      "text": "Islandia",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Samoa Americana es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

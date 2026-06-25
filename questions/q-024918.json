@@ -1,0 +1,42 @@
+{
+  "id": "q-024918",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 80 OR 177 a nivel de bits?",
+  "answers": [
+    {
+      "text": "225",
+      "correct": false
+    },
+    {
+      "text": "241",
+      "correct": true
+    },
+    {
+      "text": "240",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 80 y 177, el resultado decimal es 241.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

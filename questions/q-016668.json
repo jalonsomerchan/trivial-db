@@ -1,0 +1,42 @@
+{
+  "id": "q-016668",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "videojuegos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué título relacionarías con el escenario “Dunwall”?",
+  "answers": [
+    {
+      "text": "Sonic the Hedgehog",
+      "correct": false
+    },
+    {
+      "text": "Final Fantasy VII",
+      "correct": false
+    },
+    {
+      "text": "Dishonored",
+      "correct": true
+    },
+    {
+      "text": "Grand Theft Auto V",
+      "correct": false
+    }
+  ],
+  "explanation": "“Dunwall” aparece en Dishonored.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "videojuegos",
+    "escenarios"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

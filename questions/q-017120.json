@@ -1,0 +1,42 @@
+{
+  "id": "q-017120",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "salsas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué base corresponde a nam prik?",
+  "answers": [
+    {
+      "text": "caldo japonés de kombu y katsuobushi",
+      "correct": false
+    },
+    {
+      "text": "fondo claro ligado con roux",
+      "correct": false
+    },
+    {
+      "text": "perejil, ajo, vinagre y aceite",
+      "correct": false
+    },
+    {
+      "text": "chile machacado con otros condimentos",
+      "correct": true
+    }
+  ],
+  "explanation": "nam prik se caracteriza por chile machacado con otros condimentos.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "salsas",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-018075",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "tratados"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué tema histórico corresponde al Tratado de Westfalia?",
+  "answers": [
+    {
+      "text": "fin de la Guerra de los Treinta Años",
+      "correct": true
+    },
+    {
+      "text": "partición de África",
+      "correct": false
+    },
+    {
+      "text": "inicio de la Reforma protestante",
+      "correct": false
+    },
+    {
+      "text": "unificación italiana",
+      "correct": false
+    }
+  ],
+  "explanation": "El Tratado de Westfalia, firmado en 1648, se vincula con fin de la Guerra de los Treinta Años.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "tratados",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

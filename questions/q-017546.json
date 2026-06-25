@@ -1,0 +1,42 @@
+{
+  "id": "q-017546",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el prefijo telefónico internacional de Maldivas?",
+  "answers": [
+    {
+      "text": "+232",
+      "correct": false
+    },
+    {
+      "text": "+960",
+      "correct": true
+    },
+    {
+      "text": "+593",
+      "correct": false
+    },
+    {
+      "text": "+423",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Maldivas es +960.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

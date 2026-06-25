@@ -1,0 +1,42 @@
+{
+  "id": "q-019346",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "aritmetica-modular"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resto de dividir (37 × 140 + 140) entre 23?",
+  "answers": [
+    {
+      "text": "6",
+      "correct": false
+    },
+    {
+      "text": "7",
+      "correct": true
+    },
+    {
+      "text": "8",
+      "correct": false
+    },
+    {
+      "text": "9",
+      "correct": false
+    }
+  ],
+  "explanation": "Se calcula 37 × 140 + 140 y después se toma el resto de la división entre 23; el resto es 7.",
+  "sources": [
+    {
+      "title": "OpenStax - Algebra and Trigonometry",
+      "url": "https://openstax.org/details/books/algebra-and-trigonometry-2e"
+    }
+  ],
+  "tags": [
+    "modulos",
+    "restos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

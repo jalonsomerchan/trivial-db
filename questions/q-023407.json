@@ -1,0 +1,42 @@
+{
+  "id": "q-023407",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: tratados de Roma de la CEE, llegada del Apolo 11 a la Luna, caída del Muro de Berlín o fin del apartheid con elecciones multirraciales en Sudáfrica?",
+  "answers": [
+    {
+      "text": "caída del Muro de Berlín",
+      "correct": false
+    },
+    {
+      "text": "llegada del Apolo 11 a la Luna",
+      "correct": false
+    },
+    {
+      "text": "fin del apartheid con elecciones multirraciales en Sudáfrica",
+      "correct": true
+    },
+    {
+      "text": "tratados de Roma de la CEE",
+      "correct": false
+    }
+  ],
+  "explanation": "fin del apartheid con elecciones multirraciales en Sudáfrica es la opción correcta porque su fecha asociada es 1994.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

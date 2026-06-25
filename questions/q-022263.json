@@ -1,0 +1,43 @@
+{
+  "id": "q-022263",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación plato-origen-ingrediente es correcta para fish and chips?",
+  "answers": [
+    {
+      "text": "fish and chips — Mediterráneo oriental — masa filo",
+      "correct": false
+    },
+    {
+      "text": "fish and chips — Marruecos — carne o verduras",
+      "correct": false
+    },
+    {
+      "text": "fish and chips — Italia — huevo y queso pecorino",
+      "correct": false
+    },
+    {
+      "text": "fish and chips — Reino Unido — pescado",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta para fish and chips es Reino Unido y pescado.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016133",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "tenis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué asociación torneo-superficie es correcta para Abierto de Australia?",
+  "answers": [
+    {
+      "text": "Abierto de Australia — tierra batida",
+      "correct": false
+    },
+    {
+      "text": "Abierto de Australia — pista dura",
+      "correct": true
+    },
+    {
+      "text": "Abierto de Australia — hierba",
+      "correct": false
+    },
+    {
+      "text": "Abierto de Australia — moqueta",
+      "correct": false
+    }
+  ],
+  "explanation": "Abierto de Australia se disputa tradicionalmente sobre pista dura.",
+  "sources": [
+    {
+      "title": "Grand Slam official tournament information",
+      "url": "https://www.itftennis.com/"
+    }
+  ],
+  "tags": [
+    "tenis",
+    "grand-slam"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

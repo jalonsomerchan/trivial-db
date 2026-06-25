@@ -1,0 +1,42 @@
+{
+  "id": "q-024977",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 101 OR 100 a nivel de bits?",
+  "answers": [
+    {
+      "text": "101",
+      "correct": true
+    },
+    {
+      "text": "100",
+      "correct": false
+    },
+    {
+      "text": "201",
+      "correct": false
+    },
+    {
+      "text": "1",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 101 y 100, el resultado decimal es 101.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

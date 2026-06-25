@@ -1,0 +1,42 @@
+{
+  "id": "q-018406",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Batalla de Maratón” y “Concilio de Nicea”?",
+  "answers": [
+    {
+      "text": "Concilio de Nicea antes que Batalla de Maratón",
+      "correct": false
+    },
+    {
+      "text": "Batalla de Maratón antes que Concilio de Nicea",
+      "correct": true
+    },
+    {
+      "text": "Batalla de Maratón después que Concilio de Nicea",
+      "correct": false
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    }
+  ],
+  "explanation": "Batalla de Maratón ocurrió antes que Concilio de Nicea.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

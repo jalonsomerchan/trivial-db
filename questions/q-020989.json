@@ -1,0 +1,42 @@
+{
+  "id": "q-020989",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "fisica"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué volumen ocupará un gas de 5 L a 1 atm si la presión cambia a 2 atm a temperatura constante?",
+  "answers": [
+    {
+      "text": "2.5 L",
+      "correct": true
+    },
+    {
+      "text": "7 L",
+      "correct": false
+    },
+    {
+      "text": "3 L",
+      "correct": false
+    },
+    {
+      "text": "10 L",
+      "correct": false
+    }
+  ],
+  "explanation": "Por la ley de Boyle, P₁V₁ = P₂V₂, así que V₂ = 1×5/2 = 2.5 L.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "gases",
+    "ley-de-boyle"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

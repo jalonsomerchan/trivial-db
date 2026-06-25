@@ -1,0 +1,43 @@
+{
+  "id": "q-022482",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción triple encaja con carbonara?",
+  "answers": [
+    {
+      "text": "carbonara — Marruecos — carne o verduras",
+      "correct": false
+    },
+    {
+      "text": "carbonara — Japón — rebozado ligero",
+      "correct": false
+    },
+    {
+      "text": "carbonara — Italia — huevo y queso pecorino",
+      "correct": true
+    },
+    {
+      "text": "carbonara — Mediterráneo oriental — masa filo",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para carbonara es Italia y huevo y queso pecorino.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

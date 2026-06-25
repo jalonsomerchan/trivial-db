@@ -1,0 +1,42 @@
+{
+  "id": "q-017954",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Bulgaria, Benín, San Vicente y Granadinas, Vietnam?",
+  "answers": [
+    {
+      "text": "Bulgaria",
+      "correct": false
+    },
+    {
+      "text": "Benín",
+      "correct": false
+    },
+    {
+      "text": "San Vicente y Granadinas",
+      "correct": false
+    },
+    {
+      "text": "Vietnam",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, Vietnam es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

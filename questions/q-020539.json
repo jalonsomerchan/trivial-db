@@ -1,0 +1,42 @@
+{
+  "id": "q-020539",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué nombre recibe el elemento de símbolo Be?",
+  "answers": [
+    {
+      "text": "cobre",
+      "correct": false
+    },
+    {
+      "text": "berilio",
+      "correct": true
+    },
+    {
+      "text": "hidrógeno",
+      "correct": false
+    },
+    {
+      "text": "estaño",
+      "correct": false
+    }
+  ],
+  "explanation": "El símbolo químico Be corresponde al berilio.",
+  "sources": [
+    {
+      "title": "IUPAC Periodic Table of Elements",
+      "url": "https://iupac.org/what-we-do/periodic-table-of-elements/"
+    }
+  ],
+  "tags": [
+    "elementos",
+    "simbolos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

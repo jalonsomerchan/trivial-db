@@ -1,0 +1,42 @@
+{
+  "id": "q-017321",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué definición culinaria identifica a Gruyère?",
+  "answers": [
+    {
+      "text": "queso español de leche de oveja manchega",
+      "correct": false
+    },
+    {
+      "text": "queso suizo usado habitualmente en fondue",
+      "correct": true
+    },
+    {
+      "text": "queso francés de leche de vaca del Jura",
+      "correct": false
+    },
+    {
+      "text": "sopa de fideos del Sudeste Asiático con caldo especiado",
+      "correct": false
+    }
+  ],
+  "explanation": "Gruyère se describe como queso suizo usado habitualmente en fondue.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

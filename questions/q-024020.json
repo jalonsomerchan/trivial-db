@@ -1,0 +1,42 @@
+{
+  "id": "q-024020",
+  "status": "published",
+  "language": "es",
+  "category": "matematicas",
+  "subcategories": [
+    "potencias"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué número resulta de elevar 34 al cuadrado?",
+  "answers": [
+    {
+      "text": "68",
+      "correct": false
+    },
+    {
+      "text": "1190",
+      "correct": false
+    },
+    {
+      "text": "1122",
+      "correct": false
+    },
+    {
+      "text": "1156",
+      "correct": true
+    }
+  ],
+  "explanation": "Elevar 34 al cuadrado equivale a multiplicar 34 por sí mismo: 1156.",
+  "sources": [
+    {
+      "title": "Khan Academy - Matemáticas",
+      "url": "https://es.khanacademy.org/math"
+    }
+  ],
+  "tags": [
+    "potencias",
+    "calculo"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

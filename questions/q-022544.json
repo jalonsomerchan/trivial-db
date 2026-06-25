@@ -1,0 +1,42 @@
+{
+  "id": "q-022544",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es la capital de Colombia?",
+  "answers": [
+    {
+      "text": "Sucre",
+      "correct": false
+    },
+    {
+      "text": "Bogotá",
+      "correct": true
+    },
+    {
+      "text": "Ciudad de México",
+      "correct": false
+    },
+    {
+      "text": "Santo Domingo",
+      "correct": false
+    }
+  ],
+  "explanation": "La capital de Colombia es Bogotá.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

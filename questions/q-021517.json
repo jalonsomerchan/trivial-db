@@ -1,0 +1,42 @@
+{
+  "id": "q-021517",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cine"
+  ],
+  "difficulty": "easy",
+  "question": "¿Quién dirigió “Toy Story”?",
+  "answers": [
+    {
+      "text": "Michael Curtiz",
+      "correct": false
+    },
+    {
+      "text": "Christopher Nolan",
+      "correct": false
+    },
+    {
+      "text": "John Lasseter",
+      "correct": true
+    },
+    {
+      "text": "James Cameron",
+      "correct": false
+    }
+  ],
+  "explanation": "“Toy Story” fue dirigida por John Lasseter.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "cine",
+    "directores"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

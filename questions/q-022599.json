@@ -1,0 +1,42 @@
+{
+  "id": "q-022599",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Ottawa?",
+  "answers": [
+    {
+      "text": "Argentina",
+      "correct": false
+    },
+    {
+      "text": "Guatemala",
+      "correct": false
+    },
+    {
+      "text": "Costa Rica",
+      "correct": false
+    },
+    {
+      "text": "Canadá",
+      "correct": true
+    }
+  ],
+  "explanation": "Ottawa es la capital de Canadá.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "america"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

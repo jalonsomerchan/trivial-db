@@ -1,0 +1,42 @@
+{
+  "id": "q-017922",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la mayor superficie aproximada entre Emiratos Árabes Unidos, Irak, Ghana, República Eslovaca?",
+  "answers": [
+    {
+      "text": "República Eslovaca",
+      "correct": false
+    },
+    {
+      "text": "Emiratos Árabes Unidos",
+      "correct": false
+    },
+    {
+      "text": "Ghana",
+      "correct": false
+    },
+    {
+      "text": "Irak",
+      "correct": true
+    }
+  ],
+  "explanation": "Entre esas opciones, Irak es el país de mayor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-024903",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 73 OR 210 a nivel de bits?",
+  "answers": [
+    {
+      "text": "27",
+      "correct": false
+    },
+    {
+      "text": "219",
+      "correct": true
+    },
+    {
+      "text": "155",
+      "correct": false
+    },
+    {
+      "text": "218",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 73 y 210, el resultado decimal es 219.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

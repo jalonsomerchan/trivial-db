@@ -1,0 +1,42 @@
+{
+  "id": "q-024592",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "sistemas-numericos"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál es la notación hexadecimal del número decimal 104?",
+  "answers": [
+    {
+      "text": "0x69",
+      "correct": false
+    },
+    {
+      "text": "0x68",
+      "correct": true
+    },
+    {
+      "text": "0x67",
+      "correct": false
+    },
+    {
+      "text": "0xD0",
+      "correct": false
+    }
+  ],
+  "explanation": "Al convertir 104 a base 16 se obtiene 0x68.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "hexadecimal",
+    "conversion"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

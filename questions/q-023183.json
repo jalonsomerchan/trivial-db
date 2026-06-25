@@ -1,0 +1,42 @@
+{
+  "id": "q-023183",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1962?",
+  "answers": [
+    {
+      "text": "edicto de Milán",
+      "correct": false
+    },
+    {
+      "text": "unificación italiana",
+      "correct": false
+    },
+    {
+      "text": "crisis de los misiles de Cuba",
+      "correct": true
+    },
+    {
+      "text": "creación del Estado de Israel",
+      "correct": false
+    }
+  ],
+  "explanation": "El año 1962 se asocia con crisis de los misiles de Cuba.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

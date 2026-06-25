@@ -1,0 +1,42 @@
+{
+  "id": "q-023477",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: fundación tradicional de Roma, erupción del Vesubio que sepultó Pompeya, firma de la Carta Magna inglesa o batalla de Lepanto?",
+  "answers": [
+    {
+      "text": "fundación tradicional de Roma",
+      "correct": false
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": true
+    },
+    {
+      "text": "firma de la Carta Magna inglesa",
+      "correct": false
+    },
+    {
+      "text": "erupción del Vesubio que sepultó Pompeya",
+      "correct": false
+    }
+  ],
+  "explanation": "batalla de Lepanto es la opción correcta porque su fecha asociada es 1571.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

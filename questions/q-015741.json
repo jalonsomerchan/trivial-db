@@ -1,0 +1,42 @@
+{
+  "id": "q-015741",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 48 g de etanol si su masa molar es 46 g/mol?",
+  "answers": [
+    {
+      "text": "2.087",
+      "correct": false
+    },
+    {
+      "text": "2.043",
+      "correct": false
+    },
+    {
+      "text": "1.043",
+      "correct": true
+    },
+    {
+      "text": "0.522",
+      "correct": false
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 48/46, aproximadamente 1.043 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

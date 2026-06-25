@@ -1,0 +1,42 @@
+{
+  "id": "q-018994",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "analisis-linguistico"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué opción describe “La noche clara de tu ausencia”?",
+  "answers": [
+    {
+      "text": "antítesis",
+      "correct": true
+    },
+    {
+      "text": "elipsis",
+      "correct": false
+    },
+    {
+      "text": "subordinada causal",
+      "correct": false
+    },
+    {
+      "text": "símil",
+      "correct": false
+    }
+  ],
+  "explanation": "“La noche clara de tu ausencia” se clasifica como antítesis.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "lengua",
+    "analisis"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-021050",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "reglas"
+  ],
+  "difficulty": "easy",
+  "question": "¿Qué descripción encaja con béisbol?",
+  "answers": [
+    {
+      "text": "once jugadores por equipo",
+      "correct": false
+    },
+    {
+      "text": "el par indica los golpes esperados",
+      "correct": false
+    },
+    {
+      "text": "nueve entradas en un partido estándar",
+      "correct": true
+    },
+    {
+      "text": "quince jugadores por equipo",
+      "correct": false
+    }
+  ],
+  "explanation": "En béisbol, nueve entradas en un partido estándar.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "reglas",
+    "deporte"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

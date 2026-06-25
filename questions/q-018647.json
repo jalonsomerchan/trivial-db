@@ -1,0 +1,42 @@
+{
+  "id": "q-018647",
+  "status": "published",
+  "language": "es",
+  "category": "lengua",
+  "subcategories": [
+    "sintaxis"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cómo se analiza “a Clara” dentro de “Dieron un premio a Clara”?",
+  "answers": [
+    {
+      "text": "complemento predicativo",
+      "correct": false
+    },
+    {
+      "text": "atributo",
+      "correct": false
+    },
+    {
+      "text": "complemento indirecto",
+      "correct": true
+    },
+    {
+      "text": "sujeto",
+      "correct": false
+    }
+  ],
+  "explanation": "En “Dieron un premio a Clara”, “a Clara” funciona como complemento indirecto.",
+  "sources": [
+    {
+      "title": "Nueva gramática de la lengua española - RAE",
+      "url": "https://www.rae.es/gram%C3%A1tica/"
+    }
+  ],
+  "tags": [
+    "sintaxis",
+    "gramatica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

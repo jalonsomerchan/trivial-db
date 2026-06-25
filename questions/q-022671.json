@@ -1,0 +1,42 @@
+{
+  "id": "q-022671",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Irak?",
+  "answers": [
+    {
+      "text": "rial iraní",
+      "correct": false
+    },
+    {
+      "text": "dinar iraquí",
+      "correct": true
+    },
+    {
+      "text": "baht",
+      "correct": false
+    },
+    {
+      "text": "rupia indonesia",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Irak es dinar iraquí.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-017812",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos países NO comparte frontera terrestre con India?",
+  "answers": [
+    {
+      "text": "Brunei",
+      "correct": true
+    },
+    {
+      "text": "Pakistán",
+      "correct": false
+    },
+    {
+      "text": "China",
+      "correct": false
+    },
+    {
+      "text": "Nepal",
+      "correct": false
+    }
+  ],
+  "explanation": "Brunei no figura entre los países que comparten frontera terrestre con India, a diferencia de las otras opciones.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

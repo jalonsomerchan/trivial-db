@@ -1,0 +1,42 @@
+{
+  "id": "q-023023",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió firma de la Carta Magna inglesa?",
+  "answers": [
+    {
+      "text": "1214",
+      "correct": false
+    },
+    {
+      "text": "1215",
+      "correct": true
+    },
+    {
+      "text": "1225",
+      "correct": false
+    },
+    {
+      "text": "1216",
+      "correct": false
+    }
+  ],
+  "explanation": "Firma de la carta magna inglesa ocurrió en 1215.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

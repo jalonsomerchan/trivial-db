@@ -1,0 +1,42 @@
+{
+  "id": "q-017677",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "fronteras"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuál de estos países comparte frontera terrestre con Zimbabue?",
+  "answers": [
+    {
+      "text": "República de Sudáfrica",
+      "correct": true
+    },
+    {
+      "text": "Senegal",
+      "correct": false
+    },
+    {
+      "text": "Reunión",
+      "correct": false
+    },
+    {
+      "text": "Yibuti",
+      "correct": false
+    }
+  ],
+  "explanation": "República de Sudáfrica comparte frontera terrestre con Zimbabue.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "fronteras",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

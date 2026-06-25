@@ -1,0 +1,42 @@
+{
+  "id": "q-023017",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió derrota de la Armada Invencible?",
+  "answers": [
+    {
+      "text": "1587",
+      "correct": false
+    },
+    {
+      "text": "1589",
+      "correct": false
+    },
+    {
+      "text": "1588",
+      "correct": true
+    },
+    {
+      "text": "1598",
+      "correct": false
+    }
+  ],
+  "explanation": "Derrota de la armada invencible ocurrió en 1588.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "q-016431",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "olimpismo"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué sede olímpica de verano fue anterior: Estocolmo 1912 o Atlanta 1996?",
+  "answers": [
+    {
+      "text": "Estocolmo 1912",
+      "correct": true
+    },
+    {
+      "text": "no pertenecen a Juegos Olímpicos de verano",
+      "correct": false
+    },
+    {
+      "text": "fueron en el mismo año",
+      "correct": false
+    },
+    {
+      "text": "Atlanta 1996",
+      "correct": false
+    }
+  ],
+  "explanation": "Estocolmo 1912 se celebró antes que Atlanta 1996.",
+  "sources": [
+    {
+      "title": "Olympics.com",
+      "url": "https://olympics.com/"
+    }
+  ],
+  "tags": [
+    "juegos-olimpicos",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

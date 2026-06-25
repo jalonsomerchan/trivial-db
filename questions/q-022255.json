@@ -1,0 +1,43 @@
+{
+  "id": "q-022255",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "platos-avanzados"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué asociación plato-origen-ingrediente es correcta para falafel?",
+  "answers": [
+    {
+      "text": "falafel — Escocia — vísceras de cordero",
+      "correct": false
+    },
+    {
+      "text": "falafel — Italia — huevo y queso pecorino",
+      "correct": false
+    },
+    {
+      "text": "falafel — Oriente Medio — garbanzo o haba",
+      "correct": true
+    },
+    {
+      "text": "falafel — Francia — alubias",
+      "correct": false
+    }
+  ],
+  "explanation": "La asociación correcta para falafel es Oriente Medio y garbanzo o haba.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "platos",
+    "origen",
+    "ingredientes"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

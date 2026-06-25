@@ -1,0 +1,42 @@
+{
+  "id": "q-023182",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué acontecimiento ocurrió en 1961?",
+  "answers": [
+    {
+      "text": "Declaración de Independencia de Estados Unidos",
+      "correct": false
+    },
+    {
+      "text": "batalla de Lepanto",
+      "correct": false
+    },
+    {
+      "text": "ampliación de la Unión Europea hacia el este",
+      "correct": false
+    },
+    {
+      "text": "construcción del Muro de Berlín",
+      "correct": true
+    }
+  ],
+  "explanation": "El año 1961 se asocia con construcción del Muro de Berlín.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "fechas",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

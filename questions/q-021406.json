@@ -1,0 +1,42 @@
+{
+  "id": "q-021406",
+  "status": "published",
+  "language": "es",
+  "category": "deporte",
+  "subcategories": [
+    "mundiales"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió antes: Brasil 1950, Inglaterra 1966, Alemania 2006 o Catar 2022?",
+  "answers": [
+    {
+      "text": "Catar 2022",
+      "correct": false
+    },
+    {
+      "text": "Alemania 2006",
+      "correct": false
+    },
+    {
+      "text": "Brasil 1950",
+      "correct": true
+    },
+    {
+      "text": "Inglaterra 1966",
+      "correct": false
+    }
+  ],
+  "explanation": "Brasil 1950 es la opción correcta porque su fecha asociada es 1950.",
+  "sources": [
+    {
+      "title": "FIFA",
+      "url": "https://www.fifa.com/"
+    }
+  ],
+  "tags": [
+    "mundial",
+    "futbol"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

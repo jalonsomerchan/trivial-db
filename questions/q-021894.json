@@ -1,0 +1,42 @@
+{
+  "id": "q-021894",
+  "status": "published",
+  "language": "es",
+  "category": "entretenimiento",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál de estos elementos ocurrió después: Pac-Man (videojuego), The Legend of Zelda (videojuego), Pokémon Rojo y Verde (videojuego) o Halo: Combat Evolved (videojuego)?",
+  "answers": [
+    {
+      "text": "Pokémon Rojo y Verde (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Pac-Man (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "The Legend of Zelda (videojuego)",
+      "correct": false
+    },
+    {
+      "text": "Halo: Combat Evolved (videojuego)",
+      "correct": true
+    }
+  ],
+  "explanation": "Halo: Combat Evolved (videojuego) es la opción correcta porque su fecha asociada es 2001.",
+  "sources": [
+    {
+      "title": "IMDb",
+      "url": "https://www.imdb.com/"
+    }
+  ],
+  "tags": [
+    "entretenimiento",
+    "cronologia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

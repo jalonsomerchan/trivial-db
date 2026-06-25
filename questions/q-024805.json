@@ -1,0 +1,42 @@
+{
+  "id": "q-024805",
+  "status": "published",
+  "language": "es",
+  "category": "tecnologia",
+  "subcategories": [
+    "operaciones-binarias"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál es el resultado decimal de aplicar 38 OR 177 a nivel de bits?",
+  "answers": [
+    {
+      "text": "183",
+      "correct": true
+    },
+    {
+      "text": "215",
+      "correct": false
+    },
+    {
+      "text": "182",
+      "correct": false
+    },
+    {
+      "text": "151",
+      "correct": false
+    }
+  ],
+  "explanation": "Al aplicar la operación bit a bit OR entre 38 y 177, el resultado decimal es 183.",
+  "sources": [
+    {
+      "title": "MDN Web Docs",
+      "url": "https://developer.mozilla.org/"
+    }
+  ],
+  "tags": [
+    "bits",
+    "binario"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

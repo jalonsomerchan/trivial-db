@@ -1,0 +1,42 @@
+{
+  "id": "q-022668",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Singapur?",
+  "answers": [
+    {
+      "text": "nuevo séquel",
+      "correct": false
+    },
+    {
+      "text": "dólar de Singapur",
+      "correct": true
+    },
+    {
+      "text": "riyal saudí",
+      "correct": false
+    },
+    {
+      "text": "dinar iraquí",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Singapur es dólar de Singapur.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "asia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

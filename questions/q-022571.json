@@ -1,0 +1,42 @@
+{
+  "id": "q-022571",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué país tiene como capital Túnez?",
+  "answers": [
+    {
+      "text": "Senegal",
+      "correct": false
+    },
+    {
+      "text": "Mozambique",
+      "correct": false
+    },
+    {
+      "text": "Angola",
+      "correct": false
+    },
+    {
+      "text": "Túnez",
+      "correct": true
+    }
+  ],
+  "explanation": "Túnez es la capital de Túnez.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "africa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

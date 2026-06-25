@@ -1,0 +1,42 @@
+{
+  "id": "q-023002",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "fechas"
+  ],
+  "difficulty": "easy",
+  "question": "¿En qué año ocurrió caída del Imperio romano de Occidente?",
+  "answers": [
+    {
+      "text": "477",
+      "correct": false
+    },
+    {
+      "text": "476",
+      "correct": true
+    },
+    {
+      "text": "475",
+      "correct": false
+    },
+    {
+      "text": "486",
+      "correct": false
+    }
+  ],
+  "explanation": "Caída del imperio romano de occidente ocurrió en 476.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "historia",
+    "fechas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

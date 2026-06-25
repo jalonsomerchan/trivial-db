@@ -1,0 +1,42 @@
+{
+  "id": "q-017404",
+  "status": "published",
+  "language": "es",
+  "category": "gastronomia",
+  "subcategories": [
+    "productos-y-platos"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué descripción técnica se asocia con hákarl?",
+  "answers": [
+    {
+      "text": "queso francés de leche de vaca del Jura",
+      "correct": false
+    },
+    {
+      "text": "queso vasco-navarro de oveja",
+      "correct": false
+    },
+    {
+      "text": "tiburón fermentado islandés",
+      "correct": true
+    },
+    {
+      "text": "verduras fermentadas coreanas",
+      "correct": false
+    }
+  ],
+  "explanation": "hákarl se describe como tiburón fermentado islandés.",
+  "sources": [
+    {
+      "title": "Larousse Gastronomique",
+      "url": "https://www.larousse.fr/encyclopedie/gastronomie"
+    }
+  ],
+  "tags": [
+    "gastronomia",
+    "platos"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

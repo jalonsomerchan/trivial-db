@@ -1,0 +1,42 @@
+{
+  "id": "q-017585",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "paises"
+  ],
+  "difficulty": "easy",
+  "question": "¿Cuál es el prefijo telefónico internacional de Rusia?",
+  "answers": [
+    {
+      "text": "+7",
+      "correct": true
+    },
+    {
+      "text": "+55",
+      "correct": false
+    },
+    {
+      "text": "+1869",
+      "correct": false
+    },
+    {
+      "text": "+298",
+      "correct": false
+    }
+  ],
+  "explanation": "El prefijo telefónico internacional de Rusia es +7.",
+  "sources": [
+    {
+      "title": "International Telecommunication Union - Country calling codes",
+      "url": "https://www.itu.int/"
+    }
+  ],
+  "tags": [
+    "telefonia",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

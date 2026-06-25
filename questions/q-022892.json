@@ -1,0 +1,42 @@
+{
+  "id": "q-022892",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "capitales-y-monedas"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué combinación país-capital-moneda corresponde a Finlandia?",
+  "answers": [
+    {
+      "text": "Finlandia — Londres — libra esterlina",
+      "correct": false
+    },
+    {
+      "text": "Finlandia — Estocolmo — corona sueca",
+      "correct": false
+    },
+    {
+      "text": "Finlandia — Berna — franco suizo",
+      "correct": false
+    },
+    {
+      "text": "Finlandia — Helsinki — euro",
+      "correct": true
+    }
+  ],
+  "explanation": "La asociación correcta es Finlandia — Helsinki — euro.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "capitales",
+    "monedas"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

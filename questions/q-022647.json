@@ -1,0 +1,42 @@
+{
+  "id": "q-022647",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "monedas"
+  ],
+  "difficulty": "medium",
+  "question": "¿Qué moneda se asocia oficialmente con Kenia?",
+  "answers": [
+    {
+      "text": "dinar argelino",
+      "correct": false
+    },
+    {
+      "text": "rand",
+      "correct": false
+    },
+    {
+      "text": "chelín keniano",
+      "correct": true
+    },
+    {
+      "text": "franco CFA",
+      "correct": false
+    }
+  ],
+  "explanation": "La moneda indicada para Kenia es chelín keniano.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "monedas",
+    "africa"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

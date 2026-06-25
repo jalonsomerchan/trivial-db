@@ -1,0 +1,42 @@
+{
+  "id": "q-018408",
+  "status": "published",
+  "language": "es",
+  "category": "historia",
+  "subcategories": [
+    "cronologia"
+  ],
+  "difficulty": "hard",
+  "question": "¿Qué orden cronológico es correcto entre “Reforma protestante de Lutero” y “Fundación de la ONU”?",
+  "answers": [
+    {
+      "text": "Reforma protestante de Lutero después que Fundación de la ONU",
+      "correct": false
+    },
+    {
+      "text": "Reforma protestante de Lutero antes que Fundación de la ONU",
+      "correct": true
+    },
+    {
+      "text": "ambos acontecimientos fueron simultáneos",
+      "correct": false
+    },
+    {
+      "text": "Fundación de la ONU antes que Reforma protestante de Lutero",
+      "correct": false
+    }
+  ],
+  "explanation": "Reforma protestante de Lutero ocurrió antes que Fundación de la ONU.",
+  "sources": [
+    {
+      "title": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/"
+    }
+  ],
+  "tags": [
+    "cronologia",
+    "historia"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

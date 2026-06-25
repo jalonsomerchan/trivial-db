@@ -1,0 +1,42 @@
+{
+  "id": "q-017975",
+  "status": "published",
+  "language": "es",
+  "category": "geografia",
+  "subcategories": [
+    "superficie"
+  ],
+  "difficulty": "hard",
+  "question": "¿Cuál tiene la menor superficie aproximada entre Rusia, Ghana, Comoras, Colombia?",
+  "answers": [
+    {
+      "text": "Rusia",
+      "correct": false
+    },
+    {
+      "text": "Ghana",
+      "correct": false
+    },
+    {
+      "text": "Comoras",
+      "correct": true
+    },
+    {
+      "text": "Colombia",
+      "correct": false
+    }
+  ],
+  "explanation": "Entre esas opciones, Comoras es el país de menor superficie aproximada.",
+  "sources": [
+    {
+      "title": "CIA World Factbook",
+      "url": "https://www.cia.gov/the-world-factbook/"
+    }
+  ],
+  "tags": [
+    "superficie",
+    "paises"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}

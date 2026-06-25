@@ -1,0 +1,42 @@
+{
+  "id": "q-015713",
+  "status": "published",
+  "language": "es",
+  "category": "ciencia",
+  "subcategories": [
+    "quimica"
+  ],
+  "difficulty": "medium",
+  "question": "¿Cuántos moles hay aproximadamente en 64 g de glucosa si su masa molar es 180 g/mol?",
+  "answers": [
+    {
+      "text": "0.178",
+      "correct": false
+    },
+    {
+      "text": "1.356",
+      "correct": false
+    },
+    {
+      "text": "0.711",
+      "correct": false
+    },
+    {
+      "text": "0.356",
+      "correct": true
+    }
+  ],
+  "explanation": "El número de moles se calcula como masa entre masa molar: 64/180, aproximadamente 0.356 mol.",
+  "sources": [
+    {
+      "title": "OpenStax - University Physics",
+      "url": "https://openstax.org/details/books/university-physics-volume-1"
+    }
+  ],
+  "tags": [
+    "moles",
+    "quimica"
+  ],
+  "created_at": "2026-06-25",
+  "updated_at": "2026-06-25"
+}
